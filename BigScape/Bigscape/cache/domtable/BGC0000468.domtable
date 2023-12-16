@@ -1,0 +1,27 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0000468_ORF1:gid:bmbT:pid:CCM09440.1:loc:0:1338:strand:- -            445   3.3e-27   95.5  49.2   1   2   3.5e-17   2.3e-13   49.9  20.1     2   221    23   244    22   258 0.78 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0000468_ORF1:gid:bmbT:pid:CCM09440.1:loc:0:1338:strand:- -            445   3.3e-27   95.5  49.2   2   2   4.8e-17   3.1e-13   49.5  24.1    17   173   254   407   238   434 0.82 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0000468_ORF1:gid:bmbT:pid:CCM09440.1:loc:0:1338:strand:- -            445   2.6e-14   52.7  39.0   1   1   5.4e-18   3.6e-14   52.2  39.0    20   403    27   417    16   432 0.74 Transmembrane secretion effector
+Sugar_tr             PF00083.27   452 BGC0000468_ORF1:gid:bmbT:pid:CCM09440.1:loc:0:1338:strand:- -            445     6e-06   25.5  16.3   1   1     1e-09   6.9e-06   25.3   7.4    48   166   269   385   239   412 0.82 Sugar (and other) transporter
+LCM                  PF04072.17   188 BGC0000468_ORF2:gid:bmbA:pid:CCM09441.1:loc:1791:2631:strand:- -            279   1.9e-20   73.7   0.0   1   1   3.3e-24   6.6e-20   72.0   0.0     5   187    16   171    13   172 0.86 Leucine carboxyl methyltransferase
+Radical_SAM          PF04055.24   167 BGC0000468_ORF3:gid:bmbB:pid:CCM09442.1:loc:3058:4951:strand:+ -            630   1.1e-07   32.5   0.0   1   1   2.2e-11   4.3e-07   30.6   0.0     1   160   261   417   261   423 0.89 Radical SAM superfamily
+YcaO                 PF02624.19   322 BGC0000468_ORF6:gid:bmbE:pid:CCM09445.1:loc:6415:7807:strand:+ -            463   8.9e-34  117.4   9.2   1   1   4.6e-38   9.1e-34  117.4   6.9     2   322    91   431    90   431 0.72 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Radical_SAM          PF04055.24   167 BGC0000468_ORF7:gid:bmbF:pid:CCM09446.1:loc:7803:9816:strand:+ -            670   1.1e-07   32.4   0.0   1   1   1.1e-11   2.1e-07   31.6   0.0     3   166   274   432   272   433 0.90 Radical SAM superfamily
+Abhydrolase_1        PF00561.23   257 BGC0000468_ORF8:gid:bmbG:pid:CCM09447.1:loc:9850:10852:strand:+ -            333   4.4e-10   39.8   0.1   1   1     3e-14   5.9e-10   39.3   0.1     2   106    20   120    19   159 0.90 alpha/beta hydrolase fold
+p450                 PF00067.25   463 BGC0000468_ORF10:gid:bmbI:pid:CCM09449.1:loc:12091:13324:strand:+ -            410   3.2e-13   49.4   0.0   1   1   3.3e-14   6.4e-10   38.5   0.0   359   427   319   377   314   381 0.93 Cytochrome P450
+Radical_SAM          PF04055.24   167 BGC0000468_ORF11:gid:bmbJ:pid:CCM09450.1:loc:13331:15365:strand:+ -            677   1.3e-08   35.5   0.0   1   1   4.5e-12   8.8e-08   32.8   0.0     1   161   304   461   304   467 0.89 Radical SAM superfamily
+DUF2087              PF09860.12    69 BGC0000468_ORF12:gid:bmbR:pid:CCM09451.1:loc:15506:16061:strand:+ -            184   6.3e-22   77.6   0.0   1   1   5.4e-26   1.1e-21   76.9   0.0     1    69   115   183   115   183 0.98 Uncharacterized protein conserved in bacteria (DUF2087)
+Peptidase_M17        PF00883.24   312 BGC0000468_ORF13:gid:bmbK:pid:CCM09452.1:loc:16065:17580:strand:+ -            504  9.5e-100  334.0   0.0   1   1  1.5e-103   1.4e-99  333.4   0.0     2   311   161   471   160   472 0.96 Cytosol aminopeptidase family, catalytic domain
+Peptidase_M17_N      PF02789.20   126 BGC0000468_ORF13:gid:bmbK:pid:CCM09452.1:loc:16065:17580:strand:+ -            504   3.4e-14   53.0   1.5   1   1   5.2e-18   5.1e-14   52.4   0.5    15   125    21   130     4   131 0.82 Cytosol aminopeptidase family, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000468.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000468.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000468.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:19:52 2023
+# [ok]

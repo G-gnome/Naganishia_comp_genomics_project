@@ -1,0 +1,40 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   3.2e-84  283.1   0.0   1   1   4.2e-87   7.5e-84  281.9   0.0     3   423    13   425    11   426 0.86 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   8.1e-78  261.6   0.0   1   1   9.7e-81   1.7e-77  260.5   0.0     2   253   641   896   640   896 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   2.4e-57  193.9   0.1   1   1   3.1e-60   5.5e-57  192.7   0.1     1   179  2039  2218  2039  2219 0.98 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   3.9e-43  148.3   1.7   1   1   5.1e-46   9.2e-43  147.1   1.7     3   280  1200  1485  1198  1498 0.85 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   1.9e-42  145.7   0.2   1   1   2.7e-45   4.8e-42  144.4   0.2     1   289  1568  1867  1568  1872 0.84 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   4.9e-38  129.9   0.3   1   1   6.5e-41   1.2e-37  128.7   0.3     2   118   905  1028   904  1029 0.97 Beta-ketoacyl synthase, C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   5.1e-13   49.9   0.1   1   1   1.1e-15   1.9e-12   48.1   0.1     1    76   434   510   434   510 0.90 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   9.4e-13   49.0   0.0   1   1   2.1e-15   3.8e-12   47.0   0.0    10   228  2525  2748  2519  2750 0.76 Thioesterase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   2.2e-12   47.6   0.0   1   1   4.7e-15   8.4e-12   45.7   0.0     1    91  1031  1125  1031  1152 0.83 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   1.4e-10   41.5   1.6   1   1   5.7e-10     1e-06   29.1   0.6     3    67  2322  2387  2322  2387 0.96 Phosphopantetheine attachment site
+adh_short            PF00106.28   195 BGC0001544_ORF1:gid::pid:PKY07881.1:loc:0:8817:strand:- -           2756   3.7e-10   39.7   0.0   1   1     7e-13   1.3e-09   38.0   0.0     2   161  2040  2200  2039  2203 0.87 short chain dehydrogenase
+FMO-like             PF00743.22   532 BGC0001544_ORF2:gid::pid:PKY07882.1:loc:10780:12797:strand:+ -            578   6.5e-36  124.0   0.0   1   1   3.6e-32   1.4e-28   99.8   0.0     3   222     2   214     1   224 0.86 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.9    305 BGC0001544_ORF2:gid::pid:PKY07882.1:loc:10780:12797:strand:+ -            578   4.6e-14   52.5   0.0   1   1   6.4e-15   2.5e-11   43.5   0.0     2   218     5   229     4   233 0.78 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.17   295 BGC0001544_ORF2:gid::pid:PKY07882.1:loc:10780:12797:strand:+ -            578   2.6e-07   30.3   0.0   1   1   1.9e-10   7.7e-07   28.8   0.0     2   177     2   208     1   216 0.68 Pyridine nucleotide-disulphide oxidoreductase
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001544_ORF2:gid::pid:PKY07882.1:loc:10780:12797:strand:+ -            578     7e-07   28.8   0.0   1   1   4.6e-09   1.8e-05   24.2   0.0    96   211    82   195    61   215 0.73 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Methyltransf_25      PF13649.9     97 BGC0001544_ORF3:gid::pid:PKY07883.1:loc:13062:14028:strand:- -            321   5.2e-11   43.2   0.0   1   1   1.4e-14   9.2e-11   42.4   0.0     3    97    54   146    52   146 0.89 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001544_ORF3:gid::pid:PKY07883.1:loc:13062:14028:strand:- -            321   6.2e-09   36.5   0.0   1   1   1.8e-12   1.2e-08   35.7   0.0     2    96    54   150    53   150 0.87 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001544_ORF3:gid::pid:PKY07883.1:loc:13062:14028:strand:- -            321   7.5e-08   33.2   0.0   1   1   1.9e-11   1.2e-07   32.4   0.0     2    98    54   147    53   148 0.97 Methyltransferase domain
+FMN_red              PF03358.18   156 BGC0001544_ORF4:gid::pid:PKY07884.1:loc:14546:15509:strand:+ -            320   1.5e-06   28.2   0.0   1   1   3.6e-10   3.5e-06   26.9   0.0     1   116     1   144     1   180 0.73 NADPH-dependent FMN reductase
+Methyltransf_2       PF00891.21   210 BGC0001544_ORF5:gid::pid:PKY07885.1:loc:15662:17042:strand:- -            401   3.4e-21   75.7   0.0   1   1   2.8e-25   5.6e-21   75.0   0.0    65   209   238   379   221   380 0.91 O-methyltransferase domain
+Scytalone_dh         PF02982.17   160 BGC0001544_ORF6:gid::pid:PKY07886.1:loc:17919:18510:strand:- -            172   4.8e-23   81.9   0.2   1   1   6.1e-27     6e-23   81.5   0.2     1   154    10   167    10   171 0.89 Scytalone dehydratase
+SnoaL_4              PF13577.9    126 BGC0001544_ORF6:gid::pid:PKY07886.1:loc:17919:18510:strand:- -            172   3.2e-11   43.5   0.7   1   1   4.1e-15     4e-11   43.2   0.7     4   123    14   149    12   152 0.81 SnoaL-like domain
+p450                 PF00067.25   463 BGC0001544_ORF8:gid::pid:PKY07888.1:loc:20176:21968:strand:+ -            523   4.1e-48  164.4   0.0   1   1   3.1e-52   6.1e-48  163.8   0.0    10   446    47   490    37   501 0.86 Cytochrome P450
+Methyltransf_2       PF00891.21   210 BGC0001544_ORF9:gid::pid:PKY07889.1:loc:22074:23477:strand:- -            406   6.4e-13   48.6   0.0   1   1   4.7e-17   9.3e-13   48.1   0.0    61   209   234   385   184   386 0.85 O-methyltransferase domain
+FAD_binding_3        PF01494.22   349 BGC0001544_ORF10:gid::pid:PKY07890.1:loc:24191:25503:strand:+ -            417   1.3e-20   74.1   0.0   1   1   2.8e-24   1.8e-20   73.6   0.0     3   322    11   360    10   384 0.73 FAD binding domain
+FAD_binding_3        PF01494.22   349 BGC0001544_ORF11:gid::pid:PKY07891.1:loc:26083:27727:strand:+ -            434   1.3e-17   64.2   0.3   1   1     4e-16   2.6e-12   46.8   0.0   151   341   154   364   145   369 0.71 FAD binding domain
+NAD_binding_8        PF13450.9     68 BGC0001544_ORF11:gid::pid:PKY07891.1:loc:26083:27727:strand:+ -            434   7.8e-07   29.4   0.5   1   1   3.1e-10     2e-06   28.0   0.5     1    28    11    38    11    50 0.92 NAD(P)-binding Rossmann-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001544.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001544.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001544.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:36:00 2023
+# [ok]

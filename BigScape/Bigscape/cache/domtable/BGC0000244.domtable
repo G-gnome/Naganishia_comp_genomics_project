@@ -1,0 +1,23 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ETF                  PF01012.24   182 BGC0000244_ORF1:gid:nonH:pid:AAF81240.1:loc:204:990:strand:+ -            261     5e-45  153.7   3.6   1   1   3.3e-49   6.4e-45  153.3   3.6     2   181    25   209    24   210 0.95 Electron transfer flavoprotein domain
+ETF_alpha            PF00766.22    81 BGC0000244_ORF2:gid::pid:AAF81241.1:loc:1050:2013:strand:+ -            320   3.7e-35  119.9   1.3   1   1   3.8e-39   3.7e-35  119.9   1.3     1    81   196   276   196   276 0.99 Electron transfer flavoprotein FAD-binding domain
+ETF                  PF01012.24   182 BGC0000244_ORF2:gid::pid:AAF81241.1:loc:1050:2013:strand:+ -            320   6.7e-25   88.1  10.3   1   1   1.1e-28   1.1e-24   87.4  10.3     1   178     4   171     4   174 0.90 Electron transfer flavoprotein domain
+Lys_Orn_oxgnase      PF13434.9    341 BGC0000244_ORF3:gid::pid:AAF81242.1:loc:2089:3481:strand:- -            463  3.3e-105  352.1   0.0   1   1  2.1e-109    4e-105  351.8   0.0     3   340    10   353     8   354 0.94 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyridoxal_deC        PF00282.22   375 BGC0000244_ORF4:gid::pid:AAF81243.1:loc:3551:5129:strand:- -            525   1.6e-43  149.0   0.0   1   1   1.2e-46   8.1e-43  146.7   0.0    20   356    79   394    65   413 0.91 Pyridoxal-dependent decarboxylase conserved domain
+Aminotran_5          PF00266.22   371 BGC0000244_ORF4:gid::pid:AAF81243.1:loc:3551:5129:strand:- -            525     5e-08   32.4   0.0   1   1   1.1e-11   7.2e-08   31.9   0.0    52   177   147   273   131   277 0.77 Aminotransferase class-V
+Aminotran_1_2        PF00155.24   363 BGC0000244_ORF4:gid::pid:AAF81243.1:loc:3551:5129:strand:- -            525   0.00025   20.5   0.0   1   1   5.4e-08   0.00035   20.0   0.0    51   192   145   276   106   298 0.82 Aminotransferase class I and II
+Imm49                PF15575.9    214 BGC0000244_ORF5:gid::pid:AAF81244.1:loc:5437:6403:strand:- -            321   4.6e-43  147.5   1.9   1   1   3.2e-47   6.3e-43  147.1   1.9     7   214    63   297    58   297 0.98 Immunity protein 49
+Meth_synt_2          PF01717.21   324 BGC0000244_ORF6:gid::pid:AAF81245.1:loc:6525:8850:strand:- -            774  1.4e-149  497.9   0.0   1   1  8.8e-149  8.6e-145  482.2   0.0     1   323   441   763   441   764 1.00 Cobalamin-independent synthase, Catalytic domain
+Meth_synt_1          PF08267.15   313 BGC0000244_ORF6:gid::pid:AAF81245.1:loc:6525:8850:strand:- -            774    4e-120  401.2   0.0   1   1  4.1e-117    4e-113  378.2   0.0     3   309    13   323    11   327 0.98 Cobalamin-independent synthase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000244.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000244.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000244.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:04:57 2023
+# [ok]

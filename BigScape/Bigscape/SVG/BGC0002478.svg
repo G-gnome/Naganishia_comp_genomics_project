@@ -1,0 +1,494 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1375.9333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1365.9333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (AMK11_25540)
+transcriptional regulator</title>
+			<polygon class=" (AMK11_25540)
+transcriptional regulator" points="10,40 33,10 33,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="14,40 18,35 18,45" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="22,30 24,28 32,28 32,52 24,52 22,50" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25545)
+short-chain dehydrogenase</title>
+			<polygon class=" (AMK11_25545)
+short-chain dehydrogenase" points="52,40 75,10 75,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="56,40 65,28 75,28 75,52 65,52" stroke-linejoin="round" width="20" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25550)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25550)
+hypothetical protein" points="79,10 107,40 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="79" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(207,145,90)" stroke="rgb(165,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MLTR_LBD (PF17765)
+"MmyB-like transcription regulator ligand binding domain"</title>
+				<polygon class="PF17765" points="89,28 91,28 102,40 91,52 89,52" stroke-linejoin="round" width="16" height="24" fill="rgb(190,109,59)" stroke="rgb(152,87,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25555)
+monooxygenase</title>
+			<polygon class=" (AMK11_25555)
+monooxygenase" points="115,25 134,25 134,10 164,40 134,70 134,55 115,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="115,28 147,28 148,29 148,51 147,52 115,52" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25560)
+polyketide synthase</title>
+			<polygon class=" (AMK11_25560)
+polyketide synthase" points="165,10 175,40 165,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="165,28 168,28 172,40 168,52 165,52" stroke-linejoin="round" width="10" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25565)
+beta-ACP synthase</title>
+			<polygon class=" (AMK11_25565)
+beta-ACP synthase" points="176,25 188,25 188,10 218,40 188,70 188,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="176" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="202,28 202,28 213,39 213,41 202,52 202,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25570)
+beta-ketoacyl synthase</title>
+			<polygon class=" (AMK11_25570)
+beta-ketoacyl synthase" points="218,25 228,25 228,10 258,40 228,70 228,55 218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="218" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="243,29 254,40 254,40 243,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25575)
+actinorhodin polyketide synthase</title>
+			<polygon class=" (AMK11_25575)
+actinorhodin polyketide synthase" points="261,10 269,40 261,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="261,28 262,28 266,40 262,52 261,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25580)
+ketoacyl reductase</title>
+			<polygon class=" (AMK11_25580)
+ketoacyl reductase" points="271,10 297,40 271,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="271,28 283,28 290,37 290,43 283,52 271,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25585)
+cyclase</title>
+			<polygon class=" (AMK11_25585)
+cyclase" points="298,25 299,25 299,10 329,40 299,70 299,55 298,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc (PF03364)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF03364" x="299" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(221,94,106)" stroke="rgb(176,75,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="313,28 313,28 325,40 313,52 313,52" stroke-linejoin="round" width="15" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25590)
+monooxygenase</title>
+			<polygon class=" (AMK11_25590)
+monooxygenase" points="330,25 367,25 367,10 397,40 367,70 367,55 330,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="332" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="373,28 381,28 393,40 381,52 373,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25595)
+dehydrogenase</title>
+			<polygon class=" (AMK11_25595)
+dehydrogenase" points="398,10 423,40 398,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="398,28 409,28 412,31 412,49 409,52 398,52" stroke-linejoin="round" width="14" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="414,34 419,40 419,40 414,46" stroke-linejoin="round" width="5" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25600)
+methylmalonyl-CoA carboxyltransferase</title>
+			<polygon class=" (AMK11_25600)
+methylmalonyl-CoA carboxyltransferase" points="425,25 447,25 447,10 477,40 447,70 447,55 425,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="428,28 461,28 473,40 461,52 428,52" stroke-linejoin="round" width="48" height="24" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25605)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25605)
+hypothetical protein" points="479,10 486,40 479,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACC_epsilon (PF13822)
+"Acyl-CoA carboxylase epsilon subunit"</title>
+				<polygon class="PF13822" points="479,28 479,28 483,40 479,52 479,52" stroke-linejoin="round" width="6" height="24" fill="rgb(226,73,128)" stroke="rgb(180,58,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25610)
+monooxygenase</title>
+			<polygon class=" (AMK11_25610)
+monooxygenase" points="488,25 490,25 490,10 520,40 490,70 490,55 488,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="488,28 504,28 516,40 516,40 504,52 488,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25615)
+arabinose transporter permease</title>
+			<polygon class=" (AMK11_25615)
+arabinose transporter permease" points="520,25 531,25 531,10 561,40 531,70 531,55 520,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="523,28 545,28 556,39 556,41 545,52 523,52" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25620)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25620)
+hypothetical protein" points="562,10 582,40 562,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMN_red (PF03358)
+"NADPH-dependent FMN reductase"</title>
+				<polygon class="PF03358" points="563,28 570,28 577,38 577,42 570,52 563,52" stroke-linejoin="round" width="14" height="24" fill="rgb(90,228,61)" stroke="rgb(72,182,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25625)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25625)
+hypothetical protein" points="582,10 604,40 582,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="594,32 600,40 594,48" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25630)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25630)
+hypothetical protein" points="608,40 629,10 629,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AMK11_25635)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25635)
+hypothetical protein" points="653,40 673,10 673,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_16 (PF17920)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF17920" points="657,40 664,30 664,50" stroke-linejoin="round" width="10" height="24" fill="rgb(194,84,83)" stroke="rgb(155,67,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="666" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25640)
+oxidoreductase</title>
+			<polygon class=" (AMK11_25640)
+oxidoreductase" points="678,10 705,40 678,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="678,28 690,28 692,30 692,50 690,52 678,52" stroke-linejoin="round" width="14" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25645)
+cytochrome</title>
+			<polygon class=" (AMK11_25645)
+cytochrome" points="709,25 719,25 719,10 749,40 719,70 719,55 709,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="711,28 733,28 745,40 733,52 711,52" stroke-linejoin="round" width="36" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25650)
+methyltransferase</title>
+			<polygon class=" (AMK11_25650)
+methyltransferase" points="749,40 777,10 777,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="762,31 765,28 772,28 772,52 765,52 762,49" stroke-linejoin="round" width="10" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25655)
+multidrug transporter</title>
+			<polygon class=" (AMK11_25655)
+multidrug transporter" points="777,40 803,10 803,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="781,40 791,28 801,28 801,52 791,52" stroke-linejoin="round" width="23" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25660)
+LysR family transcriptional regulator</title>
+			<polygon class=" (AMK11_25660)
+LysR family transcriptional regulator" points="803,40 824,10 824,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="807,40 816,28 823,28 823,52 816,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25665)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25665)
+hypothetical protein" points="824,40 849,10 849,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6182 (PF19680)
+"Family of unknown function (DUF6182)"</title>
+				<polygon class="PF19680" points="828,40 838,28 848,28 848,52 838,52" stroke-linejoin="round" width="24" height="24" fill="rgb(210,75,84)" stroke="rgb(168,60,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25670)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25670)
+hypothetical protein" points="887,25 880,25 880,10 850,40 880,70 880,55 887,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AMK11_25675)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25675)
+hypothetical protein" points="935,25 917,25 917,10 887,40 917,70 917,55 935,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<rect class="PF01266" x="916" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25680)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25680)
+hypothetical protein" points="936,40 965,10 965,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LCM (PF04072)
+"Leucine carboxyl methyltransferase"</title>
+				<polygon class="PF04072" points="946,34 952,28 963,28 963,52 952,52 946,46" stroke-linejoin="round" width="17" height="24" fill="rgb(94,159,219)" stroke="rgb(75,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25685)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25685)
+hypothetical protein" points="1021,25 995,25 995,10 965,40 995,70 995,55 1021,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GH3 (PF03321)
+"GH3 auxin-responsive promoter"</title>
+				<polygon class="PF03321" points="969,40 981,28 1018,28 1018,52 981,52" stroke-linejoin="round" width="51" height="24" fill="rgb(220,187,68)" stroke="rgb(176,149,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25690)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25690)
+hypothetical protein" points="1022,40 1043,10 1043,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AMK11_25695)
+hypothetical protein</title>
+			<polygon class=" (AMK11_25695)
+hypothetical protein" points="1086,25 1073,25 1073,10 1043,40 1073,70 1073,55 1086,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="1049,38 1059,28 1084,28 1084,52 1059,52 1049,42" stroke-linejoin="round" width="35" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25700)
+ferredoxin</title>
+			<polygon class=" (AMK11_25700)
+ferredoxin" points="1086,40 1092,10 1092,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_13 (PF13370)
+"4Fe-4S single cluster domain of Ferredoxin I"</title>
+				<polygon class="PF13370" points="1089,40 1091,31 1091,49" stroke-linejoin="round" width="5" height="24" fill="rgb(220,216,65)" stroke="rgb(176,172,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25705)
+cytochrome</title>
+			<polygon class=" (AMK11_25705)
+cytochrome" points="1133,25 1123,25 1123,10 1093,40 1123,70 1123,55 1133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1097,40 1109,28 1115,28 1115,52 1109,52" stroke-linejoin="round" width="19" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25710)
+TetR family transcriptional regulator</title>
+			<polygon class=" (AMK11_25710)
+TetR family transcriptional regulator" points="1140,40 1162,10 1162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_7 (PF14246)
+"AefR-like transcriptional repressor, C-terminal domain"</title>
+				<polygon class="PF14246" points="1144,40 1152,29 1152,51" stroke-linejoin="round" width="11" height="24" fill="rgb(198,67,196)" stroke="rgb(158,53,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="1155" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25715)
+EmrB/QacA family drug resistance transporter</title>
+			<polygon class=" (AMK11_25715)
+EmrB/QacA family drug resistance transporter" points="1168,25 1187,25 1187,10 1217,40 1187,70 1187,55 1168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="1170" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25720)
+methyltransferase</title>
+			<polygon class=" (AMK11_25720)
+methyltransferase" points="1230,25 1232,25 1232,10 1262,40 1232,70 1232,55 1230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="1230" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(84,199,85)" stroke="rgb(67,159,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="1239,28 1246,28 1258,40 1246,52 1239,52" stroke-linejoin="round" width="20" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25725)
+acetyl-CoA carboxylase</title>
+			<polygon class=" (AMK11_25725)
+acetyl-CoA carboxylase" points="1264,25 1292,25 1292,10 1322,40 1292,70 1292,55 1264,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_carb_N (PF00289)
+"Biotin carboxylase, N-terminal domain"</title>
+				<rect class="PF00289" x="1264" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(59,114,187)" stroke="rgb(47,91,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<rect class="PF02786" x="1275" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_C (PF02785)
+"Biotin carboxylase C-terminal domain"</title>
+				<polygon class="PF02785" points="1297,28 1306,28 1307,29 1307,51 1306,52 1297,52" stroke-linejoin="round" width="10" height="24" fill="rgb(82,186,211)" stroke="rgb(65,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="1315,37 1318,40 1315,43" stroke-linejoin="round" width="6" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AMK11_25730)
+S-adenosylmethionine synthetase</title>
+			<polygon class=" (AMK11_25730)
+S-adenosylmethionine synthetase" points="1325,25 1335,25 1335,10 1365,40 1335,70 1335,55 1325,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S-AdoMet_synt_N (PF00438)
+"S-adenosylmethionine synthetase, N-terminal domain"</title>
+				<rect class="PF00438" x="1325" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(202,217,80)" stroke="rgb(161,173,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>S-AdoMet_synt_M (PF02772)
+"S-adenosylmethionine synthetase, central domain"</title>
+				<rect class="PF02772" x="1337" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(81,223,98)" stroke="rgb(64,178,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>S-AdoMet_synt_C (PF02773)
+"S-adenosylmethionine synthetase, C-terminal domain"</title>
+				<polygon class="PF02773" points="1350,29 1361,40 1350,51" stroke-linejoin="round" width="13" height="24" fill="rgb(192,53,113)" stroke="rgb(153,42,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

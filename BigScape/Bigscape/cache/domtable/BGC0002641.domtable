@@ -1,0 +1,39 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002641_ORF1:gid::pid:ABS75100.1:loc:0:1650:strand:- -            549   1.5e-65  221.6   0.0   1   1     1e-69     2e-65  221.2   0.0    16   422    24   445    10   447 0.85 AMP-binding enzyme
+HTH_5                PF01022.23    47 BGC0002641_ORF2:gid::pid:ABS75101.2:loc:1656:2769:strand:- -            370   4.4e-10   39.4   0.4   1   1   1.7e-13   1.1e-09   38.1   0.4     1    47   287   333   287   333 0.96 Bacterial regulatory protein, arsR family
+HTH_20               PF12840.10    61 BGC0002641_ORF2:gid::pid:ABS75101.2:loc:1656:2769:strand:- -            370   7.9e-10   38.7   0.0   1   1   3.9e-13   2.6e-09   37.1   0.0     3    58   281   335   280   338 0.96 Helix-turn-helix domain
+HTH_11               PF08279.15    55 BGC0002641_ORF2:gid::pid:ABS75101.2:loc:1656:2769:strand:- -            370   8.3e-06   25.8   0.1   1   1   3.8e-09   2.5e-05   24.3   0.1     3    52   291   337   289   343 0.87 HTH domain
+ketoacyl-synt        PF00109.29   253 BGC0002641_ORF3:gid::pid:ABS75102.2:loc:2778:5523:strand:- -            914   1.9e-65  221.1   0.0   1   1   1.1e-68   4.2e-65  220.0   0.0     3   250    23   269    21   272 0.91 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002641_ORF3:gid::pid:ABS75102.2:loc:2778:5523:strand:- -            914   4.2e-33  114.0   0.0   1   1   1.7e-36   6.9e-33  113.3   0.0     1   118   280   396   280   397 0.99 Beta-ketoacyl synthase, C-terminal domain
+Lactamase_B          PF00753.30   197 BGC0002641_ORF3:gid::pid:ABS75102.2:loc:2778:5523:strand:- -            914   2.5e-22   80.0   0.0   1   1   9.6e-26   3.8e-22   79.4   0.0     4   197   720   898   717   898 0.81 Metallo-beta-lactamase superfamily
+KAsynt_C_assoc       PF16197.8    112 BGC0002641_ORF3:gid::pid:ABS75102.2:loc:2778:5523:strand:- -            914     2e-12   47.7   0.0   1   1   1.6e-15   6.4e-12   46.1   0.0     1   108   399   509   399   513 0.85 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0002641_ORF3:gid::pid:ABS75102.2:loc:2778:5523:strand:- -            914   2.1e-07   31.3   0.0   1   1   1.1e-10   4.3e-07   30.3   0.0     3    67   629   690   627   690 0.94 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411  3.3e-274  909.0   0.1   1   3   2.7e-93   7.5e-90  301.7   0.0     1   424   561   951   561   951 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411  3.3e-274  909.0   0.1   2   3   6.5e-93   1.8e-89  300.4   0.0     1   424  1609  1999  1609  1999 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411  3.3e-274  909.0   0.1   3   3   6.5e-93   1.8e-89  300.4   0.0     1   424  2657  3047  2657  3047 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411  2.2e-134  448.7  58.8   1   3   7.2e-45     2e-41  142.3   6.5    30   436   135   527   125   541 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411  2.2e-134  448.7  58.8   2   3     2e-50   5.6e-47  160.6  14.1    28   436  1176  1575  1149  1589 0.86 Condensation domain
+Condensation         PF00668.23   457 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411  2.2e-134  448.7  58.8   3   3   6.2e-52   1.7e-48  165.6  12.3    28   436  2224  2623  2197  2637 0.86 Condensation domain
+PP-binding           PF00550.28    67 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411   4.7e-47  158.3   6.8   1   4   1.1e-08     3e-05   24.3   0.0    14    66    28    80    18    81 0.87 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411   4.7e-47  158.3   6.8   2   4   1.5e-15   4.2e-12   46.3   0.2     2    66  1063  1125  1062  1126 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411   4.7e-47  158.3   6.8   3   4   1.5e-15   4.2e-12   46.3   0.2     2    66  2111  2173  2110  2174 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411   4.7e-47  158.3   6.8   4   4   4.1e-14   1.2e-10   41.7   0.0     2    67  3159  3221  3158  3221 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411   8.8e-36  122.9   0.6   1   3   2.8e-13   7.9e-10   39.7   0.0     1    76   959  1032   959  1032 0.94 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411   8.8e-36  122.9   0.6   2   3   2.8e-13   7.9e-10   39.7   0.0     1    76  2007  2080  2007  2080 0.94 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002641_ORF4:gid::pid:ABS75103.1:loc:5575:15811:strand:- -           3411   8.8e-36  122.9   0.6   3   3   2.8e-13   7.9e-10   39.7   0.0     1    76  3055  3128  3055  3128 0.94 AMP-binding enzyme C-terminal domain
+Nitroreductase       PF00881.27   168 BGC0002641_ORF5:gid::pid:ABS75104.2:loc:15807:16902:strand:- -            364     2e-16   60.7   0.0   1   1   1.4e-20   2.7e-16   60.2   0.0     2   166   178   355   177   357 0.95 Nitroreductase family
+MFS_1                PF07690.19   353 BGC0002641_ORF7:gid::pid:ABS75106.1:loc:17783:19451:strand:+ -            555   1.1e-48  166.1  58.6   1   1   2.5e-51   1.7e-47  162.2  57.8     1   352    12   404    12   405 0.85 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0002641_ORF7:gid::pid:ABS75106.1:loc:17783:19451:strand:+ -            555   6.5e-09   35.3  40.3   1   1   2.7e-11   1.7e-07   30.6  12.3    47   194    43   185     9   194 0.84 Sugar (and other) transporter
+PUCC                 PF03209.18   401 BGC0002641_ORF7:gid::pid:ABS75106.1:loc:17783:19451:strand:+ -            555   9.6e-05   21.7  10.1   1   1   1.5e-08   9.6e-05   21.7  10.1   261   361    59   156     9   185 0.81 PUCC protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002641.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002641.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002641.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:53:30 2023
+# [ok]

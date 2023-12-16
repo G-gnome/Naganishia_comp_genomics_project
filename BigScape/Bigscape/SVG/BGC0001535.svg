@@ -1,0 +1,53 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="166.36666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="156.36666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bkdC1
+BkdC1</title>
+			<polygon class="bkdC1
+BkdC1" points="69,25 51,25 51,10 21,40 51,70 51,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-oxoacid_dh (PF00198)
+"2-oxoacid dehydrogenases acyltransferase (catalytic domain)"</title>
+				<polygon class="PF00198" points="25,40 37,28 44,28 44,52 37,52" stroke-linejoin="round" width="23" height="24" fill="rgb(204,74,202)" stroke="rgb(163,59,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E3_binding (PF02817)
+"e3 binding domain"</title>
+				<rect class="PF02817" x="47" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(217,136,99)" stroke="rgb(173,108,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<rect class="PF00364" x="60" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bkdB1
+BkdB1</title>
+			<polygon class="bkdB1
+BkdB1" points="101,25 99,25 99,10 69,40 99,70 99,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="73,40 82,31 82,49" stroke-linejoin="round" width="12" height="24" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<polygon class="PF02779" points="83,30 85,28 100,28 100,52 85,52 83,50" stroke-linejoin="round" width="17" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bkdA1
+BkdA1</title>
+			<polygon class="bkdA1
+BkdA1" points="140,25 132,25 132,10 102,40 132,70 132,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>E1_dh (PF00676)
+"Dehydrogenase E1 component"</title>
+				<polygon class="PF00676" points="106,40 118,28 134,28 134,52 118,52" stroke-linejoin="round" width="29" height="24" fill="rgb(180,115,48)" stroke="rgb(144,92,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

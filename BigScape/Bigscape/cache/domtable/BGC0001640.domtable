@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Thiopep_pre          PF19409.2     36 BGC0001640_ORF1:gid::pid:ATG31918.1:loc:0:177:strand:+ -             58   3.1e-09   36.6   5.0   1   1   1.6e-13   3.1e-09   36.6   5.0     1    36    22    51    22    51 0.97 Thiopeptide-type bacteriocin precursor
+Lant_dehydr_N        PF04738.16   650 BGC0001640_ORF2:gid::pid:ATG31919.1:loc:272:2927:strand:+ -            884   3.1e-19   68.6   4.4   1   1   1.6e-23   3.1e-19   68.6   4.4     2   634   151   805   150   811 0.81 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0001640_ORF3:gid::pid:ATG31921.1:loc:2923:3862:strand:+ -            312   1.1e-40  140.4   8.8   1   1   1.5e-44   2.9e-40  139.0   8.8     1   283    20   296    20   300 0.86 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.9    288 BGC0001640_ORF4:gid::pid:ATG31922.1:loc:3858:4926:strand:+ -            355     4e-11   43.3   3.0   1   1     4e-15   7.9e-11   42.3   3.0    19   287    22   337     8   338 0.65 Lantibiotic biosynthesis dehydratase C-term
+Nitroreductase       PF00881.27   168 BGC0001640_ORF5:gid::pid:ATG31920.1:loc:4918:6334:strand:+ -            471   1.6e-14   54.5   0.0   1   1   1.3e-18   2.6e-14   53.8   0.0     2   156   271   446   270   455 0.75 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0001640_ORF7:gid::pid:ATG31924.1:loc:8010:9915:strand:+ -            634   1.4e-72  244.9   1.0   1   1   1.1e-76   2.2e-72  244.3   1.0     2   320   247   590   246   592 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+ABC_membrane         PF00664.26   274 BGC0001640_ORF9:gid::pid:ATG31926.1:loc:10315:12133:strand:+ -            605   1.7e-38  133.0  10.8   1   1   2.2e-42   2.2e-38  132.6  10.8     1   274    53   320    53   320 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0001640_ORF9:gid::pid:ATG31926.1:loc:10315:12133:strand:+ -            605   5.1e-29  101.7   0.0   1   1   9.6e-33   9.4e-29  100.8   0.0     1   137   383   532   383   532 0.91 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001640.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001640.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001640.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:12:12 2023
+# [ok]

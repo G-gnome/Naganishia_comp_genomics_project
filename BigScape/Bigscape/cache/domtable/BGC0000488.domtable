@@ -1,0 +1,26 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Response_reg         PF00072.27   112 BGC0000488_ORF1:gid:cfgR:pid:CAD97576.1:loc:161:938:strand:+ -            258   5.1e-16   59.0   2.4   1   1   8.5e-20   8.3e-16   58.3   2.4     1   111     4   116     4   117 0.90 Response regulator receiver domain
+LytTR                PF04397.18    98 BGC0000488_ORF1:gid:cfgR:pid:CAD97576.1:loc:161:938:strand:+ -            258   1.1e-08   35.4   1.3   1   1   1.1e-12   1.1e-08   35.4   1.3     5    80   156   233   152   248 0.88 LytTr DNA-binding domain
+HATPase_c_5          PF14501.9    101 BGC0000488_ORF2:gid:cfgK:pid:CAD97577.1:loc:931:2209:strand:+ -            425     3e-09   36.8   4.0   1   1   1.5e-13     3e-09   36.8   4.0     5   100   309   412   306   413 0.86 GHKL domain
+AgrB                 PF04647.18   183 BGC0000488_ORF3:gid:cfg02:pid:CAD97578.1:loc:2239:2839:strand:- -            199   1.5e-31  109.3  26.1   1   1   9.3e-36   1.8e-31  109.0  26.1     2   182     7   175     6   179 0.91 Accessory gene regulator B
+Bacteriocin_IId      PF09221.13    67 BGC0000488_ORF5:gid:cirA:pid:CAD97580.1:loc:3787:4006:strand:+ -             72   2.3e-11   43.8  13.3   1   1   1.3e-15   2.6e-11   43.7  13.3     1    67     5    72     5    72 0.92 Bacteriocin class IId cyclical uberolysin-like
+SpoIIM               PF01944.20   156 BGC0000488_ORF7:gid:cirC:pid:CAD97582.1:loc:5832:6390:strand:+ -            185   2.2e-25   89.7  16.6   1   1   1.5e-29   2.9e-25   89.3  16.6     2   154    34   182    32   184 0.90 Stage II sporulation protein M
+ABC_tran             PF00005.30   137 BGC0000488_ORF8:gid:cirD:pid:CAD97583.1:loc:6389:7055:strand:+ -            221   1.2e-20   74.6   0.0   1   1   1.8e-24   1.7e-20   74.0   0.0     1   136    28   169    28   170 0.85 ABC transporter
+HlyD_D23             PF16576.8    214 BGC0000488_ORF10:gid:cirG:pid:CAD97585.1:loc:7301:8729:strand:+ -            475   4.4e-18   65.4   7.3   1   1   7.3e-18   4.8e-14   52.2   1.4    55   190   206   344   193   346 0.84 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+HlyD_3               PF13437.9    106 BGC0000488_ORF10:gid:cirG:pid:CAD97585.1:loc:7301:8729:strand:+ -            475   2.6e-13   50.7   1.2   1   1     1e-14   6.8e-11   42.9   0.6     2    83   267   345   266   384 0.87 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.9     50 BGC0000488_ORF10:gid:cirG:pid:CAD97585.1:loc:7301:8729:strand:+ -            475     5e-12   45.5   6.5   1   1     3e-14   1.9e-10   40.5   0.4     4    48    84   128    81   130 0.91 Biotin-lipoyl like
+ABC_tran             PF00005.30   137 BGC0000488_ORF11:gid:cirH:pid:CAD97586.1:loc:8728:9475:strand:+ -            248   1.3e-33  116.6   0.2   1   1   1.6e-37     3e-33  115.3   0.1     1   136    29   177    29   178 0.93 ABC transporter
+MacB_PCD             PF12704.10   196 BGC0000488_ORF12:gid:cirI:pid:CAD97587.1:loc:9465:10734:strand:+ -            422     2e-29  103.5   1.0   1   1     2e-33     2e-29  103.5   1.0     1   195    21   263    21   264 0.73 MacB-like periplasmic core domain
+FtsX                 PF02687.24   121 BGC0000488_ORF12:gid:cirI:pid:CAD97587.1:loc:9465:10734:strand:+ -            422   1.3e-18   67.3  13.8   1   1   1.3e-22   1.3e-18   67.3  13.8     2   121   302   415   288   415 0.96 FtsX-like permease family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000488.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000488.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000488.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:53:01 2023
+# [ok]

@@ -1,0 +1,43 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="487.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="477.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>himH
+dehydrogenase</title>
+			<polygon class="himH
+dehydrogenase" points="26,25 37,25 37,10 67,40 37,70 37,55 26,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="29" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="43,28 51,28 53,30 53,50 51,52 43,52" stroke-linejoin="round" width="10" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>himG
+dioxygenase</title>
+			<polygon class="himG
+dioxygenase" points="338,25 334,25 334,10 304,40 334,70 334,55 338,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="313,35 320,28 333,28 333,52 320,52 313,45" stroke-linejoin="round" width="20" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>himF
+Nmr-like protein</title>
+			<polygon class="himF
+Nmr-like protein" points="354,25 366,25 366,10 396,40 366,70 366,55 354,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NmrA (PF05368)
+"NmrA-like family"</title>
+				<rect class="PF05368" x="354" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(97,49,192)" stroke="rgb(77,39,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

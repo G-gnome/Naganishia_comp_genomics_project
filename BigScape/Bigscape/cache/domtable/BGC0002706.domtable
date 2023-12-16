@@ -1,0 +1,35 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002706_ORF1:gid:safB:pid:AAC44128.1:loc:0:5313:strand:+ -           1770  7.1e-180  598.3   0.0   1   2     5e-86   2.5e-82  276.9   0.0     2   424    28   481    27   481 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002706_ORF1:gid:safB:pid:AAC44128.1:loc:0:5313:strand:+ -           1770  7.1e-180  598.3   0.0   2   2   6.2e-99   3.1e-95  319.4   0.0     2   424  1183  1571  1182  1571 0.90 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002706_ORF1:gid:safB:pid:AAC44128.1:loc:0:5313:strand:+ -           1770   2.2e-85  287.2   0.0   1   1   6.1e-89     3e-85  286.8   0.0     5   457   710  1162   707  1162 0.92 Condensation domain
+PP-binding           PF00550.28    67 BGC0002706_ORF1:gid:safB:pid:AAC44128.1:loc:0:5313:strand:+ -           1770   1.1e-23   83.5   0.4   1   2   1.8e-12   8.8e-09   35.7   0.1    21    66   642   687   623   688 0.89 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002706_ORF1:gid:safB:pid:AAC44128.1:loc:0:5313:strand:+ -           1770   1.1e-23   83.5   0.4   2   2   1.6e-15   7.9e-12   45.4   0.0     2    66  1683  1745  1682  1746 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002706_ORF1:gid:safB:pid:AAC44128.1:loc:0:5313:strand:+ -           1770   1.7e-16   61.0   0.9   1   1   1.3e-18   6.6e-15   56.0   0.2     1    76  1579  1653  1579  1653 0.88 AMP-binding enzyme C-terminal domain
+AMP-binding          PF00501.31   424 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605  3.2e-208  691.7   0.1   1   2  1.3e-104  3.6e-101  339.0   0.0     2   424   496   885   495   885 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605  3.2e-208  691.7   0.1   2   2  3.1e-108  8.8e-105  350.9   0.0     1   424  1603  2002  1603  2002 0.90 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605  4.6e-154  513.6   0.0   1   2     2e-97   5.6e-94  315.5   0.0     5   456    32   476    29   477 0.95 Condensation domain
+Condensation         PF00668.23   457 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605  4.6e-154  513.6   0.0   2   2   3.1e-61   8.7e-58  196.2   0.0     2   455  1144  1582  1143  1584 0.94 Condensation domain
+NAD_binding_4        PF07993.15   257 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605   1.1e-65  221.6   0.0   1   1   6.3e-69   1.8e-65  220.8   0.0     1   257  2226  2462  2226  2462 0.94 Male sterility protein
+PP-binding           PF00550.28    67 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605   1.4e-27   95.9   3.9   1   2   6.4e-16   1.8e-12   47.5   0.1     2    67  1002  1065  1001  1065 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605   1.4e-27   95.9   3.9   2   2   3.2e-15     9e-12   45.3   0.0     2    65  2115  2176  2114  2178 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605   2.2e-23   83.1   0.2   1   2   6.7e-09   1.9e-05   25.7   0.0     1    76   893   972   893   972 0.84 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605   2.2e-23   83.1   0.2   2   2   1.5e-17   4.2e-14   53.4   0.1     1    76  2010  2085  2010  2085 0.89 AMP-binding enzyme C-terminal domain
+Epimerase            PF01370.24   241 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605   2.7e-06   27.2   0.0   1   1   2.5e-09     7e-06   25.8   0.0     1   176  2224  2419  2224  2434 0.79 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0002706_ORF2:gid:safA:pid:AAC44129.1:loc:5353:13171:strand:+ -           2605   2.6e-06   26.8   0.0   1   1   4.7e-09   1.3e-05   24.5   0.0     2   161  2226  2401  2225  2416 0.74 3-beta hydroxysteroid dehydrogenase/isomerase family
+Methyltransf_3       PF01596.20   204 BGC0002706_ORF3:gid:safC:pid:AAC44130.1:loc:13216:13879:strand:+ -            220   2.4e-72  242.6   0.0   1   1   8.4e-76   2.8e-72  242.4   0.0     3   203    18   219    16   220 0.97 O-methyltransferase
+Methyltransf_24      PF13578.9    107 BGC0002706_ORF3:gid:safC:pid:AAC44130.1:loc:13216:13879:strand:+ -            220   2.7e-18   67.1   0.2   1   1   1.2e-21   3.8e-18   66.6   0.2     1   107    64   170    64   170 0.94 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002706_ORF3:gid:safC:pid:AAC44130.1:loc:13216:13879:strand:+ -            220   8.4e-08   32.9   0.0   1   1   4.4e-11   1.4e-07   32.2   0.0     2    97    64   163    63   163 0.86 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002706_ORF3:gid:safC:pid:AAC44130.1:loc:13216:13879:strand:+ -            220   6.8e-07   29.3   0.0   1   1   2.9e-10   9.4e-07   28.9   0.0    10   111    68   169    59   200 0.86 Methyltransferase domain
+PCMT                 PF01135.22   210 BGC0002706_ORF3:gid:safC:pid:AAC44130.1:loc:13216:13879:strand:+ -            220   2.3e-05   24.4   0.0   1   1   9.6e-09   3.1e-05   23.9   0.0    67   135    52   122    39   140 0.88 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002706.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002706.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002706.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:37:33 2023
+# [ok]

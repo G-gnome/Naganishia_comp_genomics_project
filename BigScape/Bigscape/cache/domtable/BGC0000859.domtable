@@ -1,0 +1,17 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.28   117 BGC0000859_ORF1:gid:ectA:pid:ACB30330.1:loc:258:777:strand:+ -            172   1.4e-13   51.2   0.0   1   1   9.9e-18   1.9e-13   50.8   0.0    27   113    47   130    22   133 0.82 Acetyltransferase (GNAT) family
+Aminotran_3          PF00202.24   403 BGC0000859_ORF2:gid:ectB:pid:ACB30331.1:loc:819:2151:strand:+ -            443   3.8e-82  276.3   0.0   1   1   2.3e-86   4.5e-82  276.0   0.0     9   403    18   411    11   411 0.88 Aminotransferase class-III
+Ectoine_synth        PF06339.15   127 BGC0000859_ORF3:gid:ectC:pid:ACB30332.1:loc:2202:2607:strand:+ -            134   5.7e-60  201.3   0.0   1   1   3.3e-64   6.4e-60  201.1   0.0     1   126     1   128     1   129 0.98 Ectoine synthase
+AA_kinase            PF00696.31   241 BGC0000859_ORF4:gid:ask:pid:ACB30333.1:loc:2666:3305:strand:+ -            213   9.7e-11   41.8   0.0   1   1   6.4e-15   1.3e-10   41.5   0.0     3   147     5   206     4   212 0.84 Amino acid kinase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000859.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000859.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000859.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:03:41 2023
+# [ok]

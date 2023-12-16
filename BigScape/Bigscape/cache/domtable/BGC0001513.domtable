@@ -1,0 +1,36 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BTAD                 PF03704.20   146 BGC0001513_ORF1:gid:abxR2:pid:AUO15556.1:loc:120:1992:strand:+ -            623   2.6e-48  164.3  11.5   1   1   9.2e-52     6e-48  163.1  11.5     1   146   106   251   106   251 0.99 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0001513_ORF1:gid:abxR2:pid:AUO15556.1:loc:120:1992:strand:+ -            623   1.1e-10   41.6   0.0   1   1   4.2e-14   2.8e-10   40.3   0.0     7    76    29    98    24    99 0.93 Transcriptional regulatory protein, C terminal
+NB-ARC               PF00931.25   252 BGC0001513_ORF1:gid:abxR2:pid:AUO15556.1:loc:120:1992:strand:+ -            623   4.6e-10   39.2   0.0   1   1   1.4e-13   9.2e-10   38.3   0.0     4   209   293   489   290   495 0.78 NB-ARC domain
+TetR_C_11            PF16859.8    113 BGC0001513_ORF2:gid:abxR1:pid:AUO15557.1:loc:2033:2693:strand:- -            219   3.4e-24   85.5   5.5   1   1   3.5e-28   3.4e-24   85.5   5.5     1   113    93   204    93   204 0.98 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.26    47 BGC0001513_ORF2:gid:abxR1:pid:AUO15557.1:loc:2033:2693:strand:- -            219   1.3e-08   34.6   0.0   1   1   2.6e-12   2.6e-08   33.7   0.0     1    45    36    80    36    82 0.95 Bacterial regulatory proteins, tetR family
+SchA_CurD            PF04486.15   119 BGC0001513_ORF3:gid:abxO:pid:AUO15558.1:loc:2940:3624:strand:+ -            227   1.3e-11   44.8   0.0   1   1   3.2e-13   6.2e-09   36.2   0.0     2   114   112   218   111   222 0.93 SchA/CurD like domain
+Cupin_2              PF07883.14    71 BGC0001513_ORF4:gid:abxR:pid:AUO15559.1:loc:3711:4137:strand:+ -            141   1.6e-17   63.1   0.6   1   1   1.2e-21   2.3e-17   62.6   0.6     2    68    42   108    41   111 0.95 Cupin domain
+ketoacyl-synt        PF00109.29   253 BGC0001513_ORF5:gid:abxP:pid:AUO15560.1:loc:4169:5399:strand:+ -            409     3e-51  174.5   1.7   1   1   3.1e-55     3e-51  174.5   1.7    13   250     2   237     1   240 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001513_ORF5:gid:abxP:pid:AUO15560.1:loc:4169:5399:strand:+ -            409   2.9e-36  124.2   0.7   1   1   1.1e-39   1.1e-35  122.3   0.1     1   118   248   362   248   363 0.97 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0001513_ORF6:gid:abxK:pid:AUO15561.1:loc:5395:6658:strand:+ -            420   6.6e-35  121.0   2.6   1   1   9.9e-39   9.7e-35  120.5   2.6     6   251    16   254    14   256 0.87 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001513_ORF6:gid:abxK:pid:AUO15561.1:loc:5395:6658:strand:+ -            420   1.1e-16   61.0   0.1   1   1   2.7e-20   2.6e-16   59.8   0.0     1   116   265   371   265   373 0.87 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0001513_ORF7:gid:abxS:pid:AUO15562.1:loc:6676:6943:strand:+ -             88   3.3e-11   43.5   0.3   1   1   1.9e-15   3.7e-11   43.3   0.3     3    64     9    74     7    77 0.80 Phosphopantetheine attachment site
+Polyketide_cyc2      PF10604.12   142 BGC0001513_ORF8:gid:abxC:pid:AUO15563.1:loc:6951:7443:strand:+ -            163   3.3e-15   56.8   1.0   1   1   5.9e-19   3.9e-15   56.5   1.0     4   135    15   148    12   155 0.81 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.23   130 BGC0001513_ORF8:gid:abxC:pid:AUO15563.1:loc:6951:7443:strand:+ -            163   1.3e-14   54.6   0.5   1   1   2.5e-18   1.6e-14   54.3   0.5     1   121    21   142    21   148 0.91 Polyketide cyclase / dehydrase and lipid transport
+AHSA1                PF08327.14   126 BGC0001513_ORF8:gid:abxC:pid:AUO15563.1:loc:6951:7443:strand:+ -            163   2.3e-05   24.8   0.4   1   1   4.5e-09     3e-05   24.4   0.4     1   104    22   132    22   157 0.74 Activator of Hsp90 ATPase homolog 1-like protein
+Cyclase_polyket      PF04673.15   104 BGC0001513_ORF9:gid:abxD:pid:AUO15564.1:loc:7551:7893:strand:+ -            113   1.7e-31  108.7   0.0   1   1   9.8e-36   1.9e-31  108.5   0.0     2   104     3   105     2   105 0.96 Polyketide synthesis cyclase
+Methyltransf_2       PF00891.21   210 BGC0001513_ORF10:gid:abxM:pid:AUO15565.1:loc:7921:8968:strand:+ -            348   5.7e-41  140.3   0.0   1   1   7.4e-45   7.3e-41  139.9   0.0     1   209   116   322   116   323 0.94 O-methyltransferase domain
+Dimerisation2        PF16864.8     90 BGC0001513_ORF10:gid:abxM:pid:AUO15565.1:loc:7921:8968:strand:+ -            348   2.3e-08   34.0   0.0   1   1   8.7e-12   8.5e-08   32.2   0.0     2    81    16    90    15    97 0.90 Dimerisation domain
+LMF1                 PF06762.17   446 BGC0001513_ORF11:gid::pid:AUO15566.1:loc:8964:10443:strand:- -            492  4.3e-121  405.2  17.6   1   2   1.1e-64   2.1e-60  205.2   4.5     1   159   121   270   121   285 0.97 Lipase maturation factor
+LMF1                 PF06762.17   446 BGC0001513_ORF11:gid::pid:AUO15566.1:loc:8964:10443:strand:- -            492  4.3e-121  405.2  17.6   2   2   3.6e-66   7.1e-62  210.1   0.7   267   446   294   469   284   469 0.93 Lipase maturation factor
+Peripla_BP_3         PF13377.9    166 BGC0001513_ORF12:gid::pid:AUO15567.1:loc:10651:11698:strand:- -            348   1.1e-33  116.9   2.3   1   1   3.3e-37   2.2e-33  116.0   2.3     1   166   184   342   184   342 0.93 Periplasmic binding protein-like domain
+Peripla_BP_1         PF00532.24   279 BGC0001513_ORF12:gid::pid:AUO15567.1:loc:10651:11698:strand:- -            348   1.1e-16   61.3   0.0   1   1   2.2e-20   1.4e-16   60.9   0.0    13   218    87   283    72   330 0.90 Periplasmic binding proteins and sugar binding domain of LacI family
+LacI                 PF00356.24    46 BGC0001513_ORF12:gid::pid:AUO15567.1:loc:10651:11698:strand:- -            348   5.4e-15   55.0   0.0   1   1   1.7e-18   1.1e-14   54.0   0.0     1    45    14    58    14    59 0.98 Bacterial regulatory proteins, lacI family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001513.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001513.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001513.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:39:20 2023
+# [ok]

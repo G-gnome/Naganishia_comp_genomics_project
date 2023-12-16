@@ -1,0 +1,20 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.15   239 BGC0001478_ORF1:gid::pid:AVV61969.1:loc:100:1918:strand:- -            605   3.6e-78  262.5   0.2   1   1   5.2e-82   5.1e-78  262.1   0.2     2   239   151   400   150   400 0.97 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0001478_ORF1:gid::pid:AVV61969.1:loc:100:1918:strand:- -            605   9.1e-41  140.1   0.2   1   1   1.9e-44   1.8e-40  139.1   0.2     3   162   423   579   421   580 0.98 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 BGC0001478_ORF2:gid::pid:AVV61970.1:loc:1914:2484:strand:- -            189   8.4e-47  158.6   0.2   1   1     1e-50   9.9e-47  158.4   0.2     2   144    23   165    22   166 0.98 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.10   138 BGC0001478_ORF2:gid::pid:AVV61970.1:loc:1914:2484:strand:- -            189     7e-06   26.9   0.0   1   1   1.3e-09   1.3e-05   26.1   0.0     4   138    18   159    16   159 0.79 Acetyltransferase (GNAT) domain
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001478_ORF3:gid::pid:AVV61971.1:loc:2480:3800:strand:- -            439  1.2e-123  412.8   0.0   1   1    7e-128  1.4e-123  412.5   0.0     2   340     4   340     3   341 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyridoxal_deC        PF00282.22   375 BGC0001478_ORF4:gid::pid:AVV61972.1:loc:3835:5365:strand:- -            509   2.8e-65  220.6   0.0   1   1   3.6e-69   3.5e-65  220.3   0.0    36   374    90   428    63   429 0.92 Pyridoxal-dependent decarboxylase conserved domain
+SepSecS              PF05889.16   389 BGC0001478_ORF4:gid::pid:AVV61972.1:loc:3835:5365:strand:- -            509   4.7e-06   25.7   0.0   1   1   7.3e-10   7.1e-06   25.1   0.0   113   246   208   342   199   352 0.82 O-phosphoseryl-tRNA(Sec) selenium transferase, SepSecS
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001478.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001478.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001478.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:22:43 2023
+# [ok]

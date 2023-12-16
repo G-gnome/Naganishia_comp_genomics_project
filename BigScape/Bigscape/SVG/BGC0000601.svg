@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="223.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="213.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>skfA (BSU_01910)
+sporulation killing factor A</title>
+			<polygon class="skfA (BSU_01910)
+sporulation killing factor A" points="10,10 15,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>skfB (BSU_01920)
+synthesis of sporulation killing factor A</title>
+			<polygon class="skfB (BSU_01920)
+synthesis of sporulation killing factor A" points="17,25 28,25 28,10 58,40 28,70 28,55 17,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="28,28 41,28 43,30 43,50 41,52 28,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="50,37 53,40 50,43" stroke-linejoin="round" width="5" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>skfC (BSU_01935)
+sporulation killing factor biosynthesis and export</title>
+			<polygon class="skfC (BSU_01935)
+sporulation killing factor biosynthesis and export" points="58,25 77,25 77,10 107,40 77,70 77,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="88,28 91,28 103,40 91,52 88,52" stroke-linejoin="round" width="16" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>skfE (BSU_01950)
+sporulation killing factor biosynthesis and export; ABC transporter (binding protein)</title>
+			<polygon class="skfE (BSU_01950)
+sporulation killing factor biosynthesis and export; ABC transporter (binding protein)" points="109,10 133,40 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="110,28 119,28 124,34 124,46 119,52 110,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>skfF (BSU_01960)
+sporulation killing factor biosynthesis and export; ABC transporter (permease)</title>
+			<polygon class="skfF (BSU_01960)
+sporulation killing factor biosynthesis and export; ABC transporter (permease)" points="135,25 149,25 149,10 179,40 149,70 149,55 135,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>skfG (BSU_01970)
+sporulation killing factor biosynthesis and export</title>
+			<polygon class="skfG (BSU_01970)
+sporulation killing factor biosynthesis and export" points="181,10 198,40 181,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>skfH (BSU_01980)
+sibling killing effect; sporulation killing factor biosynthesis and export</title>
+			<polygon class="skfH (BSU_01980)
+sibling killing effect; sporulation killing factor biosynthesis and export" points="198,10 212,40 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin_8 (PF13905)
+"Thioredoxin-like"</title>
+				<polygon class="PF13905" points="200,28 203,28 208,40 203,52 200,52" stroke-linejoin="round" width="9" height="24" fill="rgb(180,174,87)" stroke="rgb(144,139,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

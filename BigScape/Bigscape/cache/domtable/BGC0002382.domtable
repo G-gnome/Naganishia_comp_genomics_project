@@ -1,0 +1,29 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.26   274 BGC0002382_ORF1:gid:apxIB_3:pid:CZF83999.1:loc:465:2571:strand:- -            701   2.9e-34  119.1  22.7   1   1   8.1e-38     4e-34  118.7  22.7     4   273   180   446   177   447 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002382_ORF1:gid:apxIB_3:pid:CZF83999.1:loc:465:2571:strand:- -            701   1.3e-33  116.6   0.0   1   1   4.7e-37   2.3e-33  115.7   0.0     2   137   510   658   509   658 0.86 ABC transporter
+Peptidase_C39        PF03412.18   133 BGC0002382_ORF1:gid:apxIB_3:pid:CZF83999.1:loc:465:2571:strand:- -            701   8.7e-34  116.3   0.0   1   1   3.3e-37   1.6e-33  115.5   0.0     2   131    22   149    21   151 0.97 Peptidase C39 family
+Peptidase_C70        PF12385.11   143 BGC0002382_ORF1:gid:apxIB_3:pid:CZF83999.1:loc:465:2571:strand:- -            701   1.7e-09   37.8   0.2   1   1   2.2e-12   1.1e-08   35.2   0.1     4   141    19   138    16   140 0.74 Papain-like cysteine protease AvrRpt2
+HlyD_3               PF13437.9    106 BGC0002382_ORF2:gid:cvaA:pid:CZF84002.1:loc:2572:3811:strand:- -            412   1.1e-16   61.5   0.4   1   1   3.3e-15   2.1e-11   44.5   0.0     2   106   264   383   263   383 0.88 HlyD family secretion protein
+RimK                 PF08443.14   188 BGC0002382_ORF3:gid::pid:CZF84004.1:loc:3880:4867:strand:- -            328   1.5e-05   24.9   0.0   1   1   1.1e-09   2.1e-05   24.3   0.0     2   169   128   304   127   323 0.72 RimK-like ATP-grasp domain
+Inhibitor_I10        PF12559.11    64 BGC0002382_ORF5:gid::pid:CZF84009.1:loc:6055:6259:strand:- -             67    0.0001   22.6   0.1   1   1   7.1e-09   0.00014   22.2   0.1    13    64     4    46     1    46 0.85 Serine endopeptidase inhibitors
+Aminotran_3          PF00202.24   403 BGC0002382_ORF6:gid:dat:pid:CZF84011.1:loc:7142:10043:strand:+ -            966   3.3e-95  319.3   0.0   1   1   1.2e-98   5.7e-95  318.5   0.0     9   403    49   462    43   462 0.93 Aminotransferase class-III
+Pyridoxal_deC        PF00282.22   375 BGC0002382_ORF6:gid:dat:pid:CZF84011.1:loc:7142:10043:strand:+ -            966   1.3e-67  228.3   0.0   1   1   3.9e-71   1.9e-67  227.7   0.0    10   374   534   894   527   895 0.93 Pyridoxal-dependent decarboxylase conserved domain
+Beta_elim_lyase      PF01212.24   291 BGC0002382_ORF6:gid:dat:pid:CZF84011.1:loc:7142:10043:strand:+ -            966   3.1e-09   36.7   0.2   1   1   7.4e-11   3.6e-07   29.9   0.1    72   222   666   813   580   820 0.78 Beta-eliminating lyase
+Sacchrp_dh_NADP      PF03435.21   130 BGC0002382_ORF7:gid::pid:CZF84014.1:loc:10089:11334:strand:+ -            414   4.2e-33  114.5   0.1   1   1   6.9e-37   6.8e-33  113.8   0.1     1   130     3   145     3   145 0.98 Saccharopine dehydrogenase NADP binding domain
+Sacchrp_dh_C         PF16653.8    267 BGC0002382_ORF7:gid::pid:CZF84014.1:loc:10089:11334:strand:+ -            414   2.7e-29  103.1   0.0   1   1   3.7e-33   3.7e-29  102.6   0.0     1   264   149   393   149   396 0.79 Saccharopine dehydrogenase C-terminal domain
+DNA_alkylation       PF08713.14   213 BGC0002382_ORF10:gid::pid:CZF84022.1:loc:12959:13664:strand:- -            234     8e-65  218.6   0.0   1   1   4.6e-69     9e-65  218.5   0.0     2   213     8   222     7   222 0.98 DNA alkylation repair enzyme
+Glyco_hydro_19       PF00182.22   232 BGC0002382_ORF11:gid::pid:CZF84024.1:loc:14033:15791:strand:+ -            585   8.2e-31  107.7   4.5   1   1   2.8e-34   2.8e-30  106.0   4.5    24   219   106   328   100   341 0.75 Chitinase class I
+CBM_5_12             PF02839.17    25 BGC0002382_ORF11:gid::pid:CZF84024.1:loc:14033:15791:strand:+ -            585   1.8e-08   34.6  21.0   1   2   3.3e-09   3.2e-05   24.4   5.9     2    25   453   477   452   477 0.96 Carbohydrate binding domain
+CBM_5_12             PF02839.17    25 BGC0002382_ORF11:gid::pid:CZF84024.1:loc:14033:15791:strand:+ -            585   1.8e-08   34.6  21.0   2   2   2.9e-09   2.9e-05   24.5   7.2     1    25   557   582   557   582 0.96 Carbohydrate binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002382.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002382.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002382.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:12:04 2023
+# [ok]

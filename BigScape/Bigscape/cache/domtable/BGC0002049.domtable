@@ -1,0 +1,19 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Inhibitor_I10        PF12559.11    64 BGC0002049_ORF1:gid::pid:WP_083782369.1:loc:0:135:strand:+ -             44   3.6e-10   40.1   1.3   1   1   3.6e-11   7.1e-07   29.5   0.1     1    27     1    27     1    32 0.84 Serine endopeptidase inhibitors
+Patatin              PF01734.25   204 BGC0002049_ORF4:gid::pid:WP_012408793.1:loc:2599:4696:strand:+ -            698   5.4e-20   72.6   0.0   1   1   1.7e-23   1.7e-19   71.0   0.0     1   204   355   567   355   567 0.79 Patatin-like phospholipase
+Laminin_G_3          PF13385.9    151 BGC0002049_ORF4:gid::pid:WP_012408793.1:loc:2599:4696:strand:+ -            698   5.7e-20   72.1   2.2   1   1   9.2e-24   9.1e-20   71.4   2.2     1   151    14   178    14   178 0.85 Concanavalin A-like lectin/glucanases superfamily
+ABC_membrane_2       PF06472.18   269 BGC0002049_ORF6:gid::pid:WP_012408795.1:loc:5540:7559:strand:+ -            672     1e-37  130.1  11.3   1   1   1.8e-41   1.2e-37  129.9   9.6    12   257    48   291    43   303 0.92 ABC transporter transmembrane region 2
+ABC_tran             PF00005.30   137 BGC0002049_ORF6:gid::pid:WP_012408795.1:loc:5540:7559:strand:+ -            672     2e-19   70.6   0.0   1   1   7.2e-23   4.7e-19   69.4   0.0     2   137   392   529   391   529 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002049_ORF6:gid::pid:WP_012408795.1:loc:5540:7559:strand:+ -            672   1.9e-15   57.4  11.5   1   1   5.6e-19   3.7e-15   56.4  11.5     1   271    53   321    53   325 0.94 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002049.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002049.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002049.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:56:46 2023
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_C      PF13243.9    319 BGC0002402_ORF1:gid::pid:KNA14396.1:loc:203:6418:strand:- -            763   2.7e-53  181.2   0.4   1   1   7.1e-54   3.5e-50  171.0   0.0     4   319   417   753   415   753 0.84 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.9    291 BGC0002402_ORF1:gid::pid:KNA14396.1:loc:203:6418:strand:- -            763   2.2e-40  138.7   0.0   1   1   2.5e-41   1.2e-37  129.7   0.0     2   290    99   405    98   406 0.81 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.24    44 BGC0002402_ORF1:gid::pid:KNA14396.1:loc:203:6418:strand:- -            763     3e-24   84.6   5.9   1   3   1.9e-10   9.3e-07   28.6   0.1     2    44   147   189   146   189 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0002402_ORF1:gid::pid:KNA14396.1:loc:203:6418:strand:- -            763     3e-24   84.6   5.9   2   3     2e-11   9.8e-08   31.7   1.2     6    41   595   629   592   631 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0002402_ORF1:gid::pid:KNA14396.1:loc:203:6418:strand:- -            763     3e-24   84.6   5.9   3   3   4.5e-09   2.2e-05   24.2   0.0     3    35   641   684   639   689 0.74 Prenyltransferase and squalene oxidase repeat
+PK_Tyr_Ser-Thr       PF07714.20   259 BGC0002402_ORF2:gid::pid:KNA14397.1:loc:9131:15659:strand:- -            676   6.6e-40  137.2   0.0   1   1   2.8e-43   1.1e-39  136.4   0.0     3   259   393   657   391   657 0.88 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.28   264 BGC0002402_ORF2:gid::pid:KNA14397.1:loc:9131:15659:strand:- -            676   6.7e-39  134.0   0.0   1   1   2.4e-42   9.6e-39  133.5   0.0     4   261   394   656   391   658 0.84 Protein kinase domain
+LRR_8                PF13855.9     61 BGC0002402_ORF2:gid::pid:KNA14397.1:loc:9131:15659:strand:- -            676   9.1e-14   51.1  29.2   1   1   6.4e-11   2.5e-07   30.5   6.6    19    61   155   197   154   197 0.97 Leucine rich repeat
+LRRNT_2              PF08263.15    41 BGC0002402_ORF2:gid::pid:KNA14397.1:loc:9131:15659:strand:- -            676   3.3e-07   30.6   0.6   1   1   8.3e-11   3.3e-07   30.6   0.6     2    41    25    65    24    65 0.94 Leucine rich repeat N-terminal domain
+START                PF01852.22   209 BGC0002402_ORF3:gid::pid:KNA14398.1:loc:16950:24511:strand:- -            400   2.4e-08   33.8   0.1   1   1   1.9e-12   3.6e-08   33.2   0.1    18   174   104   258    92   310 0.84 START domain
+MFS_1                PF07690.19   353 BGC0002402_ORF4:gid::pid:KNA14399.1:loc:26121:31095:strand:- -            496   1.8e-41  142.4  51.9   1   1     6e-41   5.9e-37  127.5  31.6     8   350    37   437    30   437 0.84 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0002402_ORF4:gid::pid:KNA14399.1:loc:26121:31095:strand:- -            496     1e-37  130.3  25.8   1   1   3.5e-40   3.4e-36  125.2  25.7    49   445    63   482    44   486 0.82 Sugar (and other) transporter
+p450                 PF00067.25   463 BGC0002402_ORF5:gid::pid:KNA14400.1:loc:35012:37725:strand:- -            445   1.2e-54  185.9   0.0   1   1   8.9e-59   1.8e-54  185.4   0.0     7   438     3   414     1   432 0.86 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002402.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002402.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002402.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:54:55 2023
+# [ok]

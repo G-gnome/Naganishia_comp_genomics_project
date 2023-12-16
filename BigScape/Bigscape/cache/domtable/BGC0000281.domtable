@@ -1,0 +1,26 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_N               PF00440.26    47 BGC0000281_ORF1:gid:phlH:pid:AAY86545.1:loc:0:678:strand:- -            225   5.8e-12   45.3   0.0   1   1     1e-15     1e-11   44.6   0.0     1    47    25    71    25    71 0.98 Bacterial regulatory proteins, tetR family
+CecR_C               PF09209.14   125 BGC0000281_ORF1:gid:phlH:pid:AAY86545.1:loc:0:678:strand:- -            225     1e-09   38.6   0.0   1   1   1.6e-13   1.6e-09   38.0   0.0     1    96    95   189    95   213 0.88 HTH-type transcriptional dual regulator CecR, C-terminal domain
+DAPG_hydrolase       PF18089.4    224 BGC0000281_ORF2:gid:phlG:pid:AAY86546.1:loc:786:1707:strand:+ -            306     1e-70  238.0   0.0   1   1   6.2e-75   1.2e-70  237.7   0.0     2   223    76   299    74   300 0.99 DAPG hydrolase PhiG domain
+TetR_C_11            PF16859.8    113 BGC0000281_ORF3:gid:phlF:pid:AAY86547.1:loc:1726:2353:strand:- -            208   6.4e-21   74.9   0.0   1   1   1.1e-24   1.1e-20   74.2   0.0     2   104    80   182    79   187 0.97 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.26    47 BGC0000281_ORF3:gid:phlF:pid:AAY86547.1:loc:1726:2353:strand:- -            208   5.5e-12   45.4   0.0   1   1     9e-16   8.8e-12   44.8   0.0     2    47    23    68    22    68 0.94 Bacterial regulatory proteins, tetR family
+ACP_syn_III          PF08545.13    80 BGC0000281_ORF4:gid:phlA:pid:AAY86548.1:loc:2770:3853:strand:+ -            360   7.1e-06   25.9   3.1   1   1   3.6e-10   7.1e-06   25.9   3.1     2    65   108   170   107   184 0.85 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Thiolase_N           PF00108.26   260 BGC0000281_ORF5:gid:phlC:pid:AAY86549.1:loc:3883:5080:strand:+ -            398     2e-10   40.6   0.0   1   1   3.8e-14   3.7e-10   39.7   0.0     1   152     6   154     6   175 0.84 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000281_ORF5:gid:phlC:pid:AAY86549.1:loc:3883:5080:strand:+ -            398   2.9e-07   30.4   0.4   1   1     3e-10   2.9e-06   27.2   0.1   166   213    79   126    68   130 0.86 Beta-ketoacyl synthase, N-terminal domain
+DUF35_N              PF12172.11    37 BGC0000281_ORF6:gid:phlB:pid:AAY86550.1:loc:5090:5531:strand:+ -            146   2.6e-08   33.7   3.2   1   1   6.6e-12   1.3e-07   31.5   0.9     1    36    21    56    21    57 0.88 Rubredoxin-like zinc ribbon domain (DUF35_N)
+Chal_sti_synt_N      PF00195.22   225 BGC0000281_ORF7:gid:phlD:pid:AAY86551.1:loc:5649:6738:strand:+ -            362   3.6e-20   72.5   0.0   1   1   1.3e-23   6.2e-20   71.7   0.0    25   224    26   213    12   214 0.85 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.18   151 BGC0000281_ORF7:gid:phlD:pid:AAY86551.1:loc:5649:6738:strand:+ -            362   8.8e-16   58.4   0.0   1   1   3.1e-19   1.5e-15   57.6   0.0     7   146   226   357   220   362 0.83 Chalcone and stilbene synthases, C-terminal domain
+FAE1_CUT1_RppA       PF08392.15   290 BGC0000281_ORF7:gid:phlD:pid:AAY86551.1:loc:5649:6738:strand:+ -            362   2.3e-12   47.0   0.1   1   1   7.2e-16   3.5e-12   46.4   0.1    22   205    26   212    20   224 0.79 FAE1/Type III polyketide synthase-like protein
+MFS_1                PF07690.19   353 BGC0000281_ORF8:gid:phlE:pid:AAY86552.1:loc:6865:8137:strand:+ -            423   2.8e-38  131.9  43.8   1   1   2.8e-42   2.8e-38  131.9  43.8     2   347    23   358    22   362 0.86 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000281.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000281.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000281.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:46:37 2023
+# [ok]

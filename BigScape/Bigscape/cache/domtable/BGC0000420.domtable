@@ -1,0 +1,32 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0000420_ORF1:gid:Pc21g15420:pid:CAP96439.1:loc:0:1792:strand:+ -            539   4.3e-43  147.7  43.1   1   1   6.6e-47   4.3e-43  147.7  43.1     1   352    42   443    42   444 0.89 Major Facilitator Superfamily
+TRI12                PF06609.16   599 BGC0000420_ORF1:gid:Pc21g15420:pid:CAP96439.1:loc:0:1792:strand:+ -            539   5.4e-11   41.8  21.6   1   1   1.1e-14   7.5e-11   41.3  21.6    46   473    39   459    27   503 0.80 Fungal trichothecene efflux pump (TRI12)
+Sugar_tr             PF00083.27   452 BGC0000420_ORF1:gid:Pc21g15420:pid:CAP96439.1:loc:0:1792:strand:+ -            539   8.2e-11   41.5  19.2   1   1     2e-11   1.3e-07   31.0   7.8    47   191    72   210    41   224 0.85 Sugar (and other) transporter
+Trp_DMAT             PF11991.11   363 BGC0000420_ORF2:gid:Pc21g15430:pid:CAP96440.1:loc:2639:3978:strand:+ -            422   4.2e-95  319.3   0.0   1   1   2.5e-99     5e-95  319.1   0.0     1   362    38   386    38   387 0.93 Tryptophan dimethylallyltransferase
+Methyltransf_25      PF13649.9     97 BGC0000420_ORF3:gid:Pc21g15440:pid:CAP96441.1:loc:4334:5367:strand:- -            288   1.6e-13   51.2   0.0   1   1     1e-16   3.3e-13   50.3   0.0     1    97    50   150    50   150 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0000420_ORF3:gid:Pc21g15440:pid:CAP96441.1:loc:4334:5367:strand:- -            288   2.9e-12   47.2   0.0   1   1   1.8e-15   5.9e-12   46.2   0.0     1    95    51   153    51   154 0.91 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0000420_ORF3:gid:Pc21g15440:pid:CAP96441.1:loc:4334:5367:strand:- -            288   5.1e-09   35.9   0.0   1   1   4.8e-12   1.6e-08   34.3   0.0    45   155    44   158    21   174 0.80 ubiE/COQ5 methyltransferase family
+Methyltransf_23      PF13489.9    165 BGC0000420_ORF3:gid:Pc21g15440:pid:CAP96441.1:loc:4334:5367:strand:- -            288   1.1e-08   35.2   0.0   1   1   5.5e-12   1.8e-08   34.5   0.0    19   132    43   168    23   213 0.74 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0000420_ORF3:gid:Pc21g15440:pid:CAP96441.1:loc:4334:5367:strand:- -            288   9.3e-08   32.9   0.0   1   1   4.5e-11   1.5e-07   32.2   0.0     1    99    51   152    51   152 0.88 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000420_ORF3:gid:Pc21g15440:pid:CAP96441.1:loc:4334:5367:strand:- -            288   3.3e-07   30.4   0.0   1   1   1.4e-10   4.7e-07   29.8   0.0     5   118    48   163    45   207 0.84 Methyltransferase domain
+p450                 PF00067.25   463 BGC0000420_ORF4:gid:Pc21g15450:pid:CAP96442.1:loc:5949:7802:strand:+ -            503   2.5e-39  135.5   0.3   1   1   1.7e-43   3.4e-39  135.0   0.3   116   460   148   491   125   494 0.81 Cytochrome P450
+FAD_binding_3        PF01494.22   349 BGC0000420_ORF5:gid:Pc21g15460:pid:CAP96443.1:loc:8149:9659:strand:- -            457   3.4e-14   53.0   8.6   1   1   2.7e-17   1.8e-13   50.6   0.8   111   319   122   349   112   361 0.67 FAD binding domain
+p450                 PF00067.25   463 BGC0000420_ORF6:gid:Pc21g15470:pid:CAP96444.1:loc:11019:12665:strand:- -            511   8.2e-35  120.6   0.0   1   1   5.7e-39   1.1e-34  120.1   0.0    42   440    97   483    89   497 0.85 Cytochrome P450
+AMP-binding          PF00501.31   424 BGC0000420_ORF7:gid:Pc21g15480:pid:CAP96445.1:loc:13201:20659:strand:+ -           2372    4e-143  477.2   0.0   1   2   1.3e-74   6.2e-71  239.4   0.0     3   423   217   610   215   611 0.84 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000420_ORF7:gid:Pc21g15480:pid:CAP96445.1:loc:13201:20659:strand:+ -           2372    4e-143  477.2   0.0   2   2   1.5e-73   7.3e-70  235.8   0.0     7   423  1289  1679  1285  1680 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0000420_ORF7:gid:Pc21g15480:pid:CAP96445.1:loc:13201:20659:strand:+ -           2372   1.2e-78  264.9   0.0   1   2   6.7e-35   3.3e-31  108.6   0.0     2   456   856  1265   855  1266 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0000420_ORF7:gid:Pc21g15480:pid:CAP96445.1:loc:13201:20659:strand:+ -           2372   1.2e-78  264.9   0.0   2   2   2.9e-47   1.4e-43  149.4   0.0    24   441  1962  2361  1944  2363 0.85 Condensation domain
+PP-binding           PF00550.28    67 BGC0000420_ORF7:gid:Pc21g15480:pid:CAP96445.1:loc:13201:20659:strand:+ -           2372   9.2e-22   77.3   0.0   1   2   6.2e-14     3e-10   40.4   0.0     2    65   755   817   754   819 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000420_ORF7:gid:Pc21g15480:pid:CAP96445.1:loc:13201:20659:strand:+ -           2372   9.2e-22   77.3   0.0   2   2     6e-12     3e-08   34.0   0.0     2    67  1827  1891  1826  1891 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000420.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000420.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000420.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:38:02 2023
+# [ok]

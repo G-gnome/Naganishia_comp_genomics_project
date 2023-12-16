@@ -1,0 +1,343 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1417.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1407.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (RALTA_B1222)
+putative cyclase/dehydrase; putatively involved in polyketide (linear poly-beta-ketones) synthesis; antibiotic biosynthesis</title>
+			<polygon class=" (RALTA_B1222)
+putative cyclase/dehydrase; putatively involved in polyketide (linear poly-beta-ketones) synthesis; antibiotic biosynthesis" points="10,10 23,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc (PF03364)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF03364" points="11,28 14,28 20,40 14,52 11,52" stroke-linejoin="round" width="12" height="24" fill="rgb(221,94,106)" stroke="rgb(176,75,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1223)
+conserved hypothetical protein, mbtH-like</title>
+			<polygon class=" (RALTA_B1223)
+conserved hypothetical protein, mbtH-like" points="31,10 38,40 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MbtH (PF03621)
+"MbtH-like protein"</title>
+				<polygon class="PF03621" points="31,28 31,28 35,40 31,52 31,52" stroke-linejoin="round" width="5" height="24" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lgrE (RALTA_B1224)
+Linear gramicidin dehydrogenase, type II thioesterase</title>
+			<polygon class="lgrE (RALTA_B1224)
+Linear gramicidin dehydrogenase, type II thioesterase" points="38,10 62,40 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="38,28 49,28 58,40 49,52 38,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1225)
+non ribosomal peptide synthase, antibiotic synthesis; contains 1 condensation domain, 1 AMP-acid ligases II domain, PP-binding, Phosphopantetheine attachment site and one taurine catabolism dioxygenase</title>
+			<polygon class=" (RALTA_B1225)
+non ribosomal peptide synthase, antibiotic synthesis; contains 1 condensation domain, 1 AMP-acid ligases II domain, PP-binding, Phosphopantetheine attachment site and one taurine catabolism dioxygenase" points="64,25 184,25 184,10 214,40 184,70 184,55 64,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="65" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="123" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="131" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="181,28 198,28 210,40 210,40 198,52 181,52" stroke-linejoin="round" width="29" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1226)
+non ribosomal peptide synthase, antibiotic synthesis; contains 1 condensation domain, 1 AMP-acid ligases II domain</title>
+			<polygon class=" (RALTA_B1226)
+non ribosomal peptide synthase, antibiotic synthesis; contains 1 condensation domain, 1 AMP-acid ligases II domain" points="215,25 291,25 291,10 321,40 291,70 291,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="224" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="258" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="310,34 316,40 316,40 310,46" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1227)
+non ribosomal peptide synthase, antibiotic synthesis; contains 3 condensation domains, 2 AMP-acid ligases II domains, 2 PP-binding, Phosphopantetheine attachment site</title>
+			<polygon class=" (RALTA_B1227)
+non ribosomal peptide synthase, antibiotic synthesis; contains 3 condensation domains, 2 AMP-acid ligases II domains, 2 PP-binding, Phosphopantetheine attachment site" points="322,25 551,25 551,10 581,40 551,70 551,55 322,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="325" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="372" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="413" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="423" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="431" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="477" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="521" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="562,28 565,28 569,32 569,48 565,52 562,52" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="572,35 577,40 572,45" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1228)
+non ribosomal peptide synthase, antibiotic synthesis; contains 4 condensation domains, 3 AMP-acid ligases II domains, 3 PP-binding, Phosphopantetheine attachment site and a putative thioesterase domain</title>
+			<polygon class=" (RALTA_B1228)
+non ribosomal peptide synthase, antibiotic synthesis; contains 4 condensation domains, 3 AMP-acid ligases II domains, 3 PP-binding, Phosphopantetheine attachment site and a putative thioesterase domain" points="582,25 947,25 947,10 977,40 947,70 947,55 582,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="587" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="633" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="674" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="684" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="692" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="738" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="783" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="823" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="833" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="844" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="890" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="931" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="941" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="950,28 961,28 969,36 969,44 961,52 950,52" stroke-linejoin="round" width="19" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fhuA2 (RALTA_B1229)
+TonB-dependent siderophore receptor, HYDROXAMATE-TYPE FERRISIDEROPHORE RECEPTOR precursor</title>
+			<polygon class="fhuA2 (RALTA_B1229)
+TonB-dependent siderophore receptor, HYDROXAMATE-TYPE FERRISIDEROPHORE RECEPTOR precursor" points="980,25 1023,25 1023,10 1053,40 1023,70 1023,55 980,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="988" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="1005,28 1037,28 1049,40 1037,52 1005,52" stroke-linejoin="round" width="48" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1230)
+conserved hypothetical protein; putative Membrane protein; DUF337,Uncharacterized iron-regulated membrane protein</title>
+			<polygon class=" (RALTA_B1230)
+conserved hypothetical protein; putative Membrane protein; DUF337,Uncharacterized iron-regulated membrane protein" points="1057,25 1066,25 1066,10 1096,40 1066,70 1066,55 1057,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PepSY_TM (PF03929)
+"PepSY-associated TM region"</title>
+				<polygon class="PF03929" points="1058,28 1080,28 1092,40 1080,52 1058,52" stroke-linejoin="round" width="35" height="24" fill="rgb(68,227,157)" stroke="rgb(54,181,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1231)
+hypothetical protein; putative exported protein</title>
+			<polygon class=" (RALTA_B1231)
+hypothetical protein; putative exported protein" points="1096,10 1102,40 1096,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (RALTA_B1232)
+putative reductase; Uncharacterized Fe-S protein</title>
+			<polygon class=" (RALTA_B1232)
+putative reductase; Uncharacterized Fe-S protein" points="1101,40 1127,10 1127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF_C (PF11575)
+"FhuF 2Fe-2S C-terminal domain"</title>
+				<polygon class="PF11575" points="1105,40 1105,40 1105,40" stroke-linejoin="round" width="2" height="24" fill="rgb(216,71,91)" stroke="rgb(172,56,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="1106,39 1116,28 1120,28 1120,52 1116,52 1106,41" stroke-linejoin="round" width="14" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ISRta4-p (RALTA_B1233)
+Transposase fragment, IS1111 family</title>
+			<polygon class="ISRta4-p (RALTA_B1233)
+Transposase fragment, IS1111 family" points="1142,40 1166,10 1166,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposase_20 (PF02371)
+"Transposase IS116/IS110/IS902 family"</title>
+				<polygon class="PF02371" points="1146,40 1154,30 1154,50 1146,40" stroke-linejoin="round" width="8" height="24" fill="rgb(104,204,65)" stroke="rgb(83,163,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yojI (RALTA_B1234)
+ABC transporter ATP-binding protein, putative ABC-type siderophore export system</title>
+			<polygon class="yojI (RALTA_B1234)
+ABC transporter ATP-binding protein, putative ABC-type siderophore export system" points="1184,25 1208,25 1208,10 1238,40 1208,70 1208,55 1184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="1218,28 1222,28 1231,37 1231,43 1222,52 1218,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1235)
+putative ESTERASE/LIPASE PROTEIN</title>
+			<polygon class=" (RALTA_B1235)
+putative ESTERASE/LIPASE PROTEIN" points="1238,25 1243,25 1243,10 1273,40 1243,70 1243,55 1238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="1247,28 1256,28 1267,39 1267,41 1256,52 1247,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucB (RALTA_B1236)
+siderophore biosynthesis protein, putative acetyltransferase</title>
+			<polygon class="iucB (RALTA_B1236)
+siderophore biosynthesis protein, putative acetyltransferase" points="1276,25 1282,25 1282,10 1312,40 1282,70 1282,55 1276,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13523" points="1293,28 1295,28 1307,40 1307,40 1295,52 1293,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucD (RALTA_B1237)
+L-ornithine 5-monooxygenase(L-ornithine N5-oxygenase) L-lysine 6-monooxygenase (Lysine N(6)-hydroxylase); Siderophore biosynthesis protein</title>
+			<polygon class="iucD (RALTA_B1237)
+L-ornithine 5-monooxygenase(L-ornithine N5-oxygenase) L-lysine 6-monooxygenase (Lysine N(6)-hydroxylase); Siderophore biosynthesis protein" points="1312,25 1327,25 1327,10 1357,40 1327,70 1327,55 1312,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="1312,28 1341,28 1347,34 1347,46 1341,52 1312,52" stroke-linejoin="round" width="35" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1238)
+4'-phosphopantetheinyl transferase</title>
+			<polygon class=" (RALTA_B1238)
+4'-phosphopantetheinyl transferase" points="1356,40 1382,10 1382,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="1360,40 1367,32 1367,48" stroke-linejoin="round" width="11" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RALTA_B1239)
+RNA polymerase sigma factor</title>
+			<polygon class=" (RALTA_B1239)
+RNA polymerase sigma factor" points="1388,10 1407,40 1388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="1391,28 1396,28 1397,30 1397,50 1396,52 1391,52" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="1401,36 1403,40 1401,44" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

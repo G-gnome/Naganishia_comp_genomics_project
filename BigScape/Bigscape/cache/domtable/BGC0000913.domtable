@@ -1,0 +1,36 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Proton_antipo_M      PF00361.23   293 BGC0000913_ORF1:gid::pid:ACD75086.1:loc:0:349:strand:+ -            115   2.1e-10   40.4   4.6   1   1   1.7e-14   3.3e-10   39.8   4.6   244   292     1    50     1    51 0.93 Proton-conducting membrane transporter
+CheW                 PF01584.22   138 BGC0000913_ORF2:gid::pid:ACD75087.1:loc:441:1446:strand:- -            334   2.1e-30  105.3   0.1   1   1   3.1e-34   3.1e-30  104.8   0.1     2   136    22   163    21   165 0.92 CheW-like domain
+Response_reg         PF00072.27   112 BGC0000913_ORF2:gid::pid:ACD75087.1:loc:441:1446:strand:- -            334   8.8e-13   48.5   0.6   1   1   3.6e-16   3.5e-12   46.6   0.2     2   109   190   310   189   313 0.88 Response regulator receiver domain
+Lactamase_B_2        PF12706.10   201 BGC0000913_ORF3:gid::pid:ACD75088.1:loc:1510:2428:strand:- -            305   1.5e-22   80.2   0.1   1   2   1.7e-15   1.6e-11   44.2   0.0     4   134    36   154    35   193 0.79 Beta-lactamase superfamily domain
+Lactamase_B_2        PF12706.10   201 BGC0000913_ORF3:gid::pid:ACD75088.1:loc:1510:2428:strand:- -            305   1.5e-22   80.2   0.1   2   2   1.9e-12   1.8e-08   34.3   0.0   132   200   202   270   196   271 0.93 Beta-lactamase superfamily domain
+Lactamase_B          PF00753.30   197 BGC0000913_ORF3:gid::pid:ACD75088.1:loc:1510:2428:strand:- -            305   3.9e-10   40.2   0.6   1   1   8.4e-14   8.2e-10   39.1   0.6     5   136    18   145    14   151 0.90 Metallo-beta-lactamase superfamily
+Acetyltransf_10      PF13673.10   128 BGC0000913_ORF4:gid::pid:ACD75089.1:loc:2498:2960:strand:+ -            153   4.8e-15   55.8   0.0   1   1   5.5e-19   5.4e-15   55.6   0.0    20   127    37   149     9   150 0.86 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.28   117 BGC0000913_ORF4:gid::pid:ACD75089.1:loc:2498:2960:strand:+ -            153   4.1e-06   27.2   0.0   1   1   5.2e-10   5.1e-06   26.8   0.0    15   117    30   129    15   129 0.80 Acetyltransferase (GNAT) family
+DUF883_C             PF19029.3     30 BGC0000913_ORF5:gid:elaB:pid:ACD75090.1:loc:3013:3319:strand:+ -            101   2.8e-17   62.2   1.2   1   1     4e-21   3.9e-17   61.7   1.2     1    30    72   101    72   101 0.99 DUF883 C-terminal glycine zipper region
+DUF883               PF05957.16    53 BGC0000913_ORF5:gid:elaB:pid:ACD75090.1:loc:3013:3319:strand:+ -            101   8.1e-09   35.4   2.7   1   1   1.4e-12   1.4e-08   34.6   2.7     3    49    10    56     8    59 0.91 DUF883 N-terminal domain
+Chorismate_bind      PF00425.21   256 BGC0000913_ORF6:gid:menF:pid:ACD75091.1:loc:3414:4710:strand:+ -            431   7.9e-67  225.6   0.0   1   1   5.1e-71   9.9e-67  225.3   0.0     2   256   169   420   168   420 0.97 chorismate binding enzyme
+TPP_enzyme_M_2       PF16582.8    208 BGC0000913_ORF7:gid:menD:pid:ACD75092.1:loc:4798:6469:strand:+ -            556   5.5e-84  281.2   9.9   1   1   8.5e-88   5.5e-84  281.2   9.9     3   208   185   388   183   388 0.98 Middle domain of thiamine pyrophosphate
+TPP_enzyme_N         PF02776.21   172 BGC0000913_ORF7:gid:menD:pid:ACD75092.1:loc:4798:6469:strand:+ -            556   1.3e-21   77.1   0.9   1   1   2.1e-24   1.4e-20   73.8   0.1     4   158    11   167     8   173 0.85 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.24   153 BGC0000913_ORF7:gid:menD:pid:ACD75092.1:loc:4798:6469:strand:+ -            556   1.5e-09   38.0   0.0   1   1   5.3e-13   3.5e-09   36.8   0.0    26   152   414   534   394   535 0.90 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+Abhydrolase_6        PF12697.10   220 BGC0000913_ORF8:gid:yfbB:pid:ACD75093.1:loc:6465:7242:strand:+ -            258   2.6e-15   57.7   5.1   1   1   4.8e-19   3.2e-15   57.5   5.1     1   217    17   242    17   245 0.58 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.23   257 BGC0000913_ORF8:gid:yfbB:pid:ACD75093.1:loc:6465:7242:strand:+ -            258   1.9e-12   47.5   0.8   1   1   4.8e-16   3.1e-12   46.8   0.8     1   253    15   235    15   239 0.86 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.11   239 BGC0000913_ORF8:gid:yfbB:pid:ACD75093.1:loc:6465:7242:strand:+ -            258   7.7e-07   28.7   0.2   1   1     2e-10   1.3e-06   28.0   0.2     7   203    17   211    14   239 0.67 Serine aminopeptidase, S33
+ECH_1                PF00378.23   251 BGC0000913_ORF9:gid:menB:pid:ACD75094.1:loc:7238:8096:strand:+ -            285   2.1e-81  273.1   0.0   1   1   2.6e-85   2.5e-81  272.8   0.0     4   249    32   279    29   282 0.96 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.8    335 BGC0000913_ORF9:gid:menB:pid:ACD75094.1:loc:7238:8096:strand:+ -            285   4.3e-23   82.5   0.2   1   1   5.3e-27   5.2e-23   82.2   0.2     2   181    35   214    34   261 0.86 Enoyl-CoA hydratase/isomerase
+MR_MLE_C             PF13378.9    220 BGC0000913_ORF10:gid:menC:pid:ACD75095.1:loc:8095:9061:strand:+ -            321   1.2e-15   57.8   0.1   1   1   1.1e-19   2.1e-15   57.1   0.1    14   171   127   280   119   302 0.84 Enolase C-terminal domain-like
+AMP-binding          PF00501.31   424 BGC0000913_ORF11:gid:menE:pid:ACD75096.1:loc:9057:10419:strand:+ -            453   4.9e-56  190.3   0.0   1   1   2.3e-58   2.3e-54  184.8   0.0     3   421    10   353     8   356 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000913_ORF11:gid:menE:pid:ACD75096.1:loc:9057:10419:strand:+ -            453   5.4e-06   27.4   0.1   1   1   1.9e-09   1.9e-05   25.7   0.0     2    67   365   428   364   437 0.89 AMP-binding enzyme C-terminal domain
+TctA                 PF01970.19   409 BGC0000913_ORF12:gid:tctA:pid:ACD75097.1:loc:10419:11029:strand:- -            202   4.9e-47  160.7  16.6   1   1   3.5e-51   6.9e-47  160.2  16.6   271   409     1   139     1   139 0.99 Tripartite tricarboxylate transporter TctA family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000913.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000913.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000913.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:07:38 2023
+# [ok]

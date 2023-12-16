@@ -1,0 +1,45 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="216.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="206.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_orf165)</title>
+			<polygon class=" (ctg1_orf165)" points="30,10 41,40 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1_5 (PF13737)
+"Transposase DDE domain"</title>
+				<polygon class="PF13737" points="30,28 33,28 37,38 37,42 33,52 30,52" stroke-linejoin="round" width="7" height="24" fill="rgb(102,219,229)" stroke="rgb(81,175,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf166)</title>
+			<polygon class=" (ctg1_orf166)" points="59,10 88,40 59,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf167)</title>
+			<polygon class=" (ctg1_orf167)" points="88,10 114,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf168)</title>
+			<polygon class=" (ctg1_orf168)" points="114,25 121,25 121,10 151,40 121,70 121,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="118,28 135,28 144,37 144,43 135,52 118,52" stroke-linejoin="round" width="26" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf169)</title>
+			<polygon class=" (ctg1_orf169)" points="151,25 175,25 175,10 205,40 175,70 175,55 151,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="153" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="186,28 189,28 199,38 199,42 189,52 186,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

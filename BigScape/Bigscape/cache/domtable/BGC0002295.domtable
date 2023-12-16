@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0002295_ORF1:gid:minT:pid:QDX19368.1:loc:0:1260:strand:+ -            419   4.5e-19   68.7  50.8   1   1   1.9e-22   3.7e-18   65.7  42.0    13   351    49   373    33   375 0.85 Major Facilitator Superfamily
+AMP-binding          PF00501.31   424 BGC0002295_ORF2:gid:minA:pid:QDX19369.1:loc:1564:5704:strand:+ -           1379    2e-101  339.8   0.1   1   1  7.6e-105    3e-101  339.2   0.1     2   424    21   431    20   431 0.88 AMP-binding enzyme
+Thioesterase         PF00975.23   230 BGC0002295_ORF2:gid:minA:pid:QDX19369.1:loc:1564:5704:strand:+ -           1379   1.4e-23   84.4   0.2   1   1   7.7e-27     3e-23   83.3   0.2     2   113  1031  1142  1030  1282 0.82 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002295_ORF2:gid:minA:pid:QDX19369.1:loc:1564:5704:strand:+ -           1379   1.5e-16   60.6   0.0   1   1   1.3e-19   5.3e-16   58.8   0.0     1    67   945  1009   945  1009 0.95 Phosphopantetheine attachment site
+Indigoidine_A        PF04227.15   291 BGC0002295_ORF3:gid:minB:pid:QDX19370.1:loc:5735:6689:strand:+ -            317  2.8e-108  361.8   1.2   1   1  1.6e-112  3.2e-108  361.6   1.2     1   290    18   306    18   307 0.99 Indigoidine synthase A like protein
+Questin_oxidase      PF14027.9    348 BGC0002295_ORF4:gid:minC:pid:QDX19371.1:loc:6724:8566:strand:+ -            613   8.7e-45  153.9   0.1   1   1   4.6e-48   1.8e-44  152.9   0.0     2   347   244   576   243   577 0.79 Questin oxidase-like
+HAD_2                PF13419.9    178 BGC0002295_ORF4:gid:minC:pid:QDX19371.1:loc:6724:8566:strand:+ -            613   4.7e-37  127.9   0.0   1   1   1.7e-40   6.6e-37  127.4   0.0     2   178     6   187     5   187 0.93 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 BGC0002295_ORF4:gid:minC:pid:QDX19371.1:loc:6724:8566:strand:+ -            613   2.3e-22   80.4   0.3   1   1   1.7e-25   6.7e-22   78.9   0.3     3   210     4   181     2   181 0.86 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.9     75 BGC0002295_ORF4:gid:minC:pid:QDX19371.1:loc:6724:8566:strand:+ -            613   6.6e-15   55.1   0.0   1   1   4.3e-18   1.7e-14   53.8   0.0     4    73   144   210   142   212 0.94 HAD-hyrolase-like
+HAD                  PF12710.10   188 BGC0002295_ORF4:gid:minC:pid:QDX19371.1:loc:6724:8566:strand:+ -            613   6.3e-10   40.0   0.6   1   1   1.6e-13   6.3e-10   40.0   0.6     1   187     5   177     5   178 0.70 haloacid dehalogenase-like hydrolase
+UPRTase              PF14681.9    207 BGC0002295_ORF5:gid:minD:pid:QDX19372.1:loc:8592:9315:strand:+ -            240   9.6e-74  247.5   0.0   1   1     6e-78   1.2e-73  247.2   0.0     2   207    35   238    34   238 0.99 Uracil phosphoribosyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002295.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002295.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002295.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:28:50 2023
+# [ok]

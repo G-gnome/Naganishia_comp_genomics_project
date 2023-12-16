@@ -1,0 +1,441 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1723.3666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1713.3666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>gdnV
+protein phosphatase</title>
+			<polygon class="gdnV
+protein phosphatase" points="10,25 29,25 29,10 59,40 29,70 29,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GAF (PF01590)
+"GAF domain"</title>
+				<rect class="PF01590" x="10" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(86,203,59)" stroke="rgb(68,162,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpoIIE (PF07228)
+"Stage II sporulation protein E (SpoIIE)"</title>
+				<polygon class="PF07228" points="27,28 42,28 45,31 45,49 42,52 27,52" stroke-linejoin="round" width="18" height="24" fill="rgb(85,195,217)" stroke="rgb(68,155,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c_2 (PF13581)
+"Histidine kinase-like ATPase domain"</title>
+				<polygon class="PF13581" points="47,33 54,40 47,47" stroke-linejoin="round" width="11" height="24" fill="rgb(86,179,88)" stroke="rgb(68,143,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnW
+integral membrane protein</title>
+			<polygon class="gdnW
+integral membrane protein" points="60,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gdnX
+lysyl tRNA synthetase</title>
+			<polygon class="gdnX
+lysyl tRNA synthetase" points="147,25 123,25 123,10 93,40 123,70 123,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LPG_synthase_C (PF09924)
+"Phosphatidylglycerol lysyltransferase, C-terminal"</title>
+				<polygon class="PF09924" points="98,39 109,28 127,28 127,52 109,52 98,41" stroke-linejoin="round" width="29" height="24" fill="rgb(212,197,83)" stroke="rgb(169,157,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_2_TM (PF16995)
+"Transmembrane region of lysyl-tRNA synthetase"</title>
+				<rect class="PF16995" x="130" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(228,108,208)" stroke="rgb(182,86,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnY
+2 component system response regulator</title>
+			<polygon class="gdnY
+2 component system response regulator" points="164,10 189,40 164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="167,28 175,28 178,32 178,48 175,52 167,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="182,36 185,40 182,44" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnZ
+2 component system sensor kinase</title>
+			<polygon class="gdnZ
+2 component system sensor kinase" points="191,25 197,25 197,10 227,40 197,70 197,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="207,28 210,28 213,31 213,49 210,52 207,52" stroke-linejoin="round" width="6" height="24" fill="rgb(190,53,146)" stroke="rgb(152,42,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnA
+acyl CoA dehydrogenase</title>
+			<polygon class="gdnA
+acyl CoA dehydrogenase" points="267,25 260,25 260,10 230,40 260,70 260,55 267,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="234,40 244,30 244,50" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<polygon class="PF02770" points="246,28 246,28 255,28 255,52 246,52 246,52" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="255" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnB
+seryl tRNA synthetase</title>
+			<polygon class="gdnB
+seryl tRNA synthetase" points="307,25 298,25 298,10 268,40 298,70 298,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gdnC
+acyl carrier protein</title>
+			<polygon class="gdnC
+acyl carrier protein" points="308,40 316,10 316,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gdnD
+3 hydroxyacyl CoA dehydrogenase</title>
+			<polygon class="gdnD
+3 hydroxyacyl CoA dehydrogenase" points="317,40 346,10 346,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00725" points="321,40 326,35 326,45" stroke-linejoin="round" width="9" height="24" fill="rgb(180,78,60)" stroke="rgb(144,62,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02737" points="327,34 333,28 344,28 344,52 333,52 327,46" stroke-linejoin="round" width="17" height="24" fill="rgb(212,65,199)" stroke="rgb(169,52,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnE
+mixed NRPS PKS</title>
+			<polygon class="gdnE
+mixed NRPS PKS" points="367,25 582,25 582,10 612,40 582,70 582,55 367,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="370" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="411" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="422" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="430" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="457" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="469" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="483" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="520" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="572" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="601,33 607,39 607,41 601,47" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnF
+polyketide synthase</title>
+			<polygon class="gdnF
+polyketide synthase" points="617,25 734,25 734,10 764,40 734,70 734,55 617,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="617" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="642" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="653" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="668" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="723" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="752,33 758,39 758,41 752,47" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnG
+polyketide synthase</title>
+			<polygon class="gdnG
+polyketide synthase" points="793,25 973,25 973,10 1003,40 973,70 973,55 793,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="796" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="822" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="833" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="849" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="885" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<rect class="PF13602" x="950" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="965" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="991,33 997,39 997,41 991,47" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnH
+polyketide synthase</title>
+			<polygon class="gdnH
+polyketide synthase" points="1007,25 1178,25 1178,10 1208,40 1178,70 1178,55 1007,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1007" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="1032" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="1044" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="1059" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1098" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<rect class="PF00202" x="1121" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="1163,28 1192,28 1204,40 1192,52 1163,52" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnI
+2-oxoglutarate dependent oxygenase</title>
+			<polygon class="gdnI
+2-oxoglutarate dependent oxygenase" points="1216,10 1242,40 1216,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2OG-FeII_Oxy (PF03171)
+"2OG-Fe(II) oxygenase superfamily"</title>
+				<polygon class="PF03171" points="1227,28 1228,28 1238,40 1238,40 1228,52 1227,52" stroke-linejoin="round" width="11" height="24" fill="rgb(184,68,180)" stroke="rgb(147,54,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnJ
+arginine:glycine amidinotransferase</title>
+			<polygon class="gdnJ
+arginine:glycine amidinotransferase" points="1246,25 1252,25 1252,10 1282,40 1252,70 1252,55 1246,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gdnK
+carbamoyltransferase</title>
+			<polygon class="gdnK
+carbamoyltransferase" points="1283,25 1310,25 1310,10 1340,40 1310,70 1310,55 1283,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="1283" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_C (PF16861)
+"Carbamoyltransferase C-terminus"</title>
+				<polygon class="PF16861" points="1322,28 1324,28 1336,40 1324,52 1322,52" stroke-linejoin="round" width="17" height="24" fill="rgb(183,87,154)" stroke="rgb(146,69,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnL
+hypothetical protein</title>
+			<polygon class="gdnL
+hypothetical protein" points="1349,25 1351,25 1351,10 1381,40 1351,70 1351,55 1349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YqcI_YcgG (PF08892)
+"YqcI/YcgG family"</title>
+				<polygon class="PF08892" points="1360,28 1365,28 1377,40 1365,52 1360,52" stroke-linejoin="round" width="18" height="24" fill="rgb(58,210,225)" stroke="rgb(46,168,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnM
+ABC type multidrug transport system, permease component</title>
+			<polygon class="gdnM
+ABC type multidrug transport system, permease component" points="1386,40 1415,10 1415,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="1390,40 1402,28 1410,28 1410,52 1402,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnN
+ABC type multidrug transport system, permease component</title>
+			<polygon class="gdnN
+ABC type multidrug transport system, permease component" points="1416,40 1441,10 1441,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="1420,40 1430,28 1440,28 1440,52 1430,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnO
+ABC transporter, ATPase component</title>
+			<polygon class="gdnO
+ABC transporter, ATPase component" points="1475,25 1474,25 1474,10 1444,40 1474,70 1474,55 1475,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="1458,30 1460,28 1472,28 1472,52 1460,52 1458,50" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnP
+Carbamoylphosphate synthetase large subunit</title>
+			<polygon class="gdnP
+Carbamoylphosphate synthetase large subunit" points="1489,25 1501,25 1501,10 1531,40 1501,70 1501,55 1489,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_4 (PF13535)
+"ATP-grasp domain"</title>
+				<polygon class="PF13535" points="1502,28 1515,28 1518,31 1518,49 1515,52 1502,52" stroke-linejoin="round" width="16" height="24" fill="rgb(197,156,74)" stroke="rgb(157,124,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnQ
+rRNA methyltransferase</title>
+			<polygon class="gdnQ
+rRNA methyltransferase" points="1541,25 1541,25 1541,10 1571,40 1541,70 1541,55 1541,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltr_RsmB-F (PF01189)
+"16S rRNA methyltransferase RsmB/F"</title>
+				<polygon class="PF01189" points="1550,28 1555,28 1567,40 1555,52 1550,52" stroke-linejoin="round" width="20" height="24" fill="rgb(185,52,86)" stroke="rgb(148,41,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnR
+carbamoyl phosphate synthetase like protein</title>
+			<polygon class="gdnR
+carbamoyl phosphate synthetase like protein" points="1614,25 1603,25 1603,10 1573,40 1603,70 1603,55 1614,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_4 (PF13535)
+"ATP-grasp domain"</title>
+				<polygon class="PF13535" points="1585,32 1589,28 1599,28 1599,52 1589,52 1585,48" stroke-linejoin="round" width="14" height="24" fill="rgb(197,156,74)" stroke="rgb(157,124,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnS
+4'-phosphopantetheinyl transferase</title>
+			<polygon class="gdnS
+4'-phosphopantetheinyl transferase" points="1615,40 1637,10 1637,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="1620,39 1628,28 1628,28 1628,52 1628,52 1620,41" stroke-linejoin="round" width="8" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnT
+thioesterase</title>
+			<polygon class="gdnT
+thioesterase" points="1641,40 1667,10 1667,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="1645,40 1655,28 1664,28 1664,52 1655,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdnU
+carbamoyl phosphate synthetase like protein</title>
+			<polygon class="gdnU
+carbamoyl phosphate synthetase like protein" points="1671,25 1682,25 1682,10 1712,40 1682,70 1682,55 1671,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

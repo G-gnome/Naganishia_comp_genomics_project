@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pyr_redox_2          PF07992.17   295 BGC0000815_ORF1:gid:lolF:pid:AAV68702.1:loc:3345:5095:strand:- -            540   1.8e-12   47.2   0.0   1   1   1.4e-12   3.9e-09   36.3   0.0     2   183     7   215     6   227 0.73 Pyridine nucleotide-disulphide oxidoreductase
+FMO-like             PF00743.22   532 BGC0000815_ORF1:gid:lolF:pid:AAV68702.1:loc:3345:5095:strand:- -            540   6.3e-12   44.8   0.0   1   1   3.4e-15   9.5e-12   44.2   0.0     4   212     8   203     5   217 0.81 Flavin-binding monooxygenase-like
+NAD_binding_8        PF13450.9     68 BGC0000815_ORF1:gid:lolF:pid:AAV68702.1:loc:3345:5095:strand:- -            540   1.1e-10   41.7   0.0   1   1   1.3e-12   3.6e-09   36.8   0.0     1    46    10    55    10    66 0.95 NAD(P)-binding Rossmann-like domain
+Lys_Orn_oxgnase      PF13434.9    341 BGC0000815_ORF1:gid:lolF:pid:AAV68702.1:loc:3345:5095:strand:- -            540   2.6e-08   33.5   0.0   1   1   7.3e-09   2.1e-05   24.0   0.0    89   214    76   198    56   212 0.78 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Cys_Met_Meta_PP      PF01053.23   382 BGC0000815_ORF2:gid:lolC:pid:AAV68703.1:loc:6902:8707:strand:+ -            473    1e-124  416.1   0.0   1   1  2.4e-128  1.2e-124  415.9   0.0     1   382    26   438    26   438 0.98 Cys/Met metabolism PLP-dependent enzyme
+Aminotran_1_2        PF00155.24   363 BGC0000815_ORF2:gid:lolC:pid:AAV68703.1:loc:6902:8707:strand:+ -            473   1.8e-09   37.4   0.0   1   1   4.6e-13   2.3e-09   37.1   0.0    49   236    84   241    52   322 0.84 Aminotransferase class I and II
+Aminotran_5          PF00266.22   371 BGC0000815_ORF2:gid:lolC:pid:AAV68703.1:loc:6902:8707:strand:+ -            473   1.3e-07   31.1   0.3   1   1   3.8e-11   1.9e-07   30.5   0.3    77   210   107   235    98   239 0.91 Aminotransferase class-V
+Orn_Arg_deC_N        PF02784.19   247 BGC0000815_ORF3:gid:lolD:pid:AAV68704.1:loc:10459:11977:strand:+ -            420   3.2e-56  190.6   0.0   1   1   4.3e-60   4.2e-56  190.2   0.0     2   245    39   271    38   273 0.96 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.25    95 BGC0000815_ORF3:gid:lolD:pid:AAV68704.1:loc:10459:11977:strand:+ -            420   5.4e-18   65.1   0.0   1   1   6.1e-22     6e-18   64.9   0.0     5    95   227   379    33   379 0.67 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+DIOX_N               PF14226.9    118 BGC0000815_ORF4:gid:lolO:pid:AAV68705.1:loc:12781:13962:strand:- -            362   1.8e-18   67.5   0.0   1   1   3.3e-22   3.3e-18   66.7   0.0     1   103    13   121    13   140 0.83 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.23   101 BGC0000815_ORF4:gid:lolO:pid:AAV68705.1:loc:12781:13962:strand:- -            362   8.9e-12   45.5   0.0   1   1   1.4e-15   1.4e-11   44.9   0.0    21    98   201   309   163   312 0.76 2OG-Fe(II) oxygenase superfamily
+p450                 PF00067.25   463 BGC0000815_ORF7:gid:lolP:pid:AAV68708.1:loc:19244:21044:strand:+ -            496   1.5e-43  149.4   0.0   1   1   1.1e-47   2.1e-43  148.9   0.0     6   446    45   477    39   489 0.80 Cytochrome P450
+Aminotran_5          PF00266.22   371 BGC0000815_ORF8:gid:lolT:pid:AAV68709.1:loc:21484:23001:strand:- -            454     9e-15   54.6   0.0   1   1   6.3e-19   1.2e-14   54.2   0.0     8   224    32   251    25   258 0.84 Aminotransferase class-V
+PhyH                 PF05721.16   211 BGC0000815_ORF9:gid:lolE:pid:AAV68710.1:loc:23454:24304:strand:+ -            256   1.7e-22   80.9   0.0   1   1   1.1e-26   2.1e-22   80.5   0.0     1   210    19   215    19   216 0.83 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000815.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000815.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000815.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:32:54 2023
+# [ok]

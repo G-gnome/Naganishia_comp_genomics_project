@@ -1,0 +1,20 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.28   117 BGC0002134_ORF1:gid::pid:CBJ79716.1:loc:0:906:strand:- -            301   3.4e-11   43.5   0.0   1   1   1.2e-14   5.7e-11   42.8   0.0    34   117    46   130    19   130 0.83 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.10   128 BGC0002134_ORF1:gid::pid:CBJ79716.1:loc:0:906:strand:- -            301     3e-11   43.5   0.0   1   1   1.7e-14   8.2e-11   42.1   0.0    24   111    40   134    20   137 0.87 Acetyltransferase (GNAT) domain
+Acetyltransf_7       PF13508.10    80 BGC0002134_ORF1:gid::pid:CBJ79716.1:loc:0:906:strand:- -            301   1.6e-07   31.7   0.0   1   1   6.2e-11   3.1e-07   30.8   0.0     6    79    47   131    31   132 0.75 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.10   138 BGC0002134_ORF1:gid::pid:CBJ79716.1:loc:0:906:strand:- -            301   2.9e-06   28.1   0.0   1   1   9.1e-10   4.5e-06   27.5   0.0    46   138    39   131     5   131 0.87 Acetyltransferase (GNAT) domain
+LuxC                 PF05893.17   401 BGC0002134_ORF3:gid::pid:CBJ79718.1:loc:2236:4642:strand:- -            801  8.4e-135  449.9   0.0   1   1  1.3e-138  1.3e-134  449.3   0.0     2   401    31   413    30   413 0.98 Acyl-CoA reductase (LuxC)
+AMP-binding          PF00501.31   424 BGC0002134_ORF3:gid::pid:CBJ79718.1:loc:2236:4642:strand:- -            801   2.1e-09   36.7   0.0   1   1     4e-13   3.9e-09   35.8   0.0   168   370   465   663   414   676 0.81 AMP-binding enzyme
+LuxE                 PF04443.15   375 BGC0002134_ORF4:gid::pid:CBJ79719.1:loc:4643:5774:strand:- -            376   3.3e-27   95.6   0.0   1   1     2e-31     4e-27   95.4   0.0    25   372    24   371    12   374 0.82 Acyl-protein synthetase, LuxE
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002134.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002134.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002134.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:08:14 2023
+# [ok]

@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="390.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="380.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>subA
+lantibiotic peptide</title>
+			<polygon class="subA
+lantibiotic peptide" points="44,10 49,40 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>subP
+subtilisin-like protease</title>
+			<polygon class="subP
+subtilisin-like protease" points="53,25 55,25 55,10 85,40 55,70 55,55 53,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="56,28 69,28 81,40 69,52 56,52" stroke-linejoin="round" width="27" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>subB
+lanthionine synthetase B-like protein</title>
+			<polygon class="subB
+lanthionine synthetase B-like protein" points="85,25 158,25 158,10 188,40 158,70 158,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="89" y="28" stroke-linejoin="round" width="64" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="161,28 172,28 184,40 172,52 161,52" stroke-linejoin="round" width="25" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>subC
+lanthionine synthetase C-like protein</title>
+			<polygon class="subC
+lanthionine synthetase C-like protein" points="190,25 204,25 204,10 234,40 204,70 204,55 190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="194,28 217,28 229,40 217,52 194,52" stroke-linejoin="round" width="39" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>subI
+hypothetical protein</title>
+			<polygon class="subI
+hypothetical protein" points="234,10 253,40 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5823 (PF19140)
+"Family of unknown function (DUF5823)"</title>
+				<polygon class="PF19140" points="234,28 242,28 250,40 242,52 234,52" stroke-linejoin="round" width="17" height="24" fill="rgb(188,69,89)" stroke="rgb(150,55,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>subT
+ABC transporter ATP-binding protein</title>
+			<polygon class="subT
+ABC transporter ATP-binding protein" points="254,25 282,25 282,10 312,40 282,70 282,55 254,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="256" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="289,28 296,28 304,36 304,44 296,52 289,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

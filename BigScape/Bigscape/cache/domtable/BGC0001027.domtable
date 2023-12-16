@@ -1,0 +1,40 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001027_ORF1:gid:nbtG:pid:BAD55606.1:loc:0:1290:strand:+ -            429   1.4e-12   47.6   0.0   1   1   3.1e-15   3.1e-11   43.1   0.0    68   338    88   336    83   339 0.79 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Acetyltransf_8       PF13523.9    145 BGC0001027_ORF2:gid:nbtH:pid:BAD55607.1:loc:1344:2025:strand:- -            226   3.2e-30  104.9   0.2   1   1   3.1e-34   6.1e-30  103.9   0.2     4   144    51   202    49   203 0.92 Acetyltransferase (GNAT) domain
+Thioesterase         PF00975.23   230 BGC0001027_ORF3:gid:nbtA:pid:BAD55608.1:loc:2168:2924:strand:+ -            251   7.2e-44  150.8   0.2   1   1   1.3e-47   8.6e-44  150.5   0.2     2   224    21   241    20   245 0.95 Thioesterase domain
+Abhydrolase_6        PF12697.10   220 BGC0001027_ORF3:gid:nbtA:pid:BAD55608.1:loc:2168:2924:strand:+ -            251   3.2e-08   34.6  11.7   1   1   7.4e-12   4.8e-08   34.0  11.7     2   219    24   241    23   242 0.55 Alpha/beta hydrolase family
+ketoacyl-synt        PF00109.29   253 BGC0001027_ORF4:gid:nbtB:pid:BAD55609.1:loc:2920:4231:strand:+ -            436   4.5e-75  252.6   2.4   1   1   9.4e-79   6.1e-75  252.2   2.4     2   253     6   255     5   255 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001027_ORF4:gid:nbtB:pid:BAD55609.1:loc:2920:4231:strand:+ -            436   1.3e-30  105.9   0.6   1   1   1.7e-33   1.1e-29  103.0   0.0     1   116   263   375   263   378 0.97 Beta-ketoacyl synthase, C-terminal domain
+Thiolase_N           PF00108.26   260 BGC0001027_ORF4:gid:nbtB:pid:BAD55609.1:loc:2920:4231:strand:+ -            436   1.4e-07   31.3   0.5   1   1   6.2e-11     4e-07   29.8   0.5    70   116   164   208   147   224 0.87 Thiolase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001027_ORF5:gid:nbtC:pid:BAD55610.1:loc:4223:7310:strand:+ -           1028   3.3e-47  161.7   0.4   1   1   1.2e-50   5.9e-47  160.8   0.1     2   300   100   412    99   429 0.84 Acyl transferase domain
+KR                   PF08659.13   180 BGC0001027_ORF5:gid:nbtC:pid:BAD55610.1:loc:4223:7310:strand:+ -           1028   1.9e-34  119.3   0.3   1   1   3.8e-38   1.9e-34  119.3   0.3     3   179   685   859   683   860 0.96 KR domain
+adh_short            PF00106.28   195 BGC0001027_ORF5:gid:nbtC:pid:BAD55610.1:loc:4223:7310:strand:+ -           1028   3.8e-08   33.2   0.2   1   1   1.4e-11   6.9e-08   32.3   0.2     2   166   684   846   683   854 0.80 short chain dehydrogenase
+PP-binding           PF00550.28    67 BGC0001027_ORF5:gid:nbtC:pid:BAD55610.1:loc:4223:7310:strand:+ -           1028   2.3e-06   28.0   0.2   1   1   1.2e-09   5.9e-06   26.6   0.2     5    66   960  1022   956  1023 0.90 Phosphopantetheine attachment site
+Condensation         PF00668.23   457 BGC0001027_ORF6:gid:nbtD:pid:BAD55611.1:loc:7328:12434:strand:+ -           1701  1.3e-142  475.9   0.0   1   2   1.2e-70   5.7e-67  226.5   0.0     4   455    43   477    40   479 0.92 Condensation domain
+Condensation         PF00668.23   457 BGC0001027_ORF6:gid:nbtD:pid:BAD55611.1:loc:7328:12434:strand:+ -           1701  1.3e-142  475.9   0.0   2   2   4.9e-77   2.4e-73  247.5   0.0     4   456  1120  1570  1118  1571 0.93 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001027_ORF6:gid:nbtD:pid:BAD55611.1:loc:7328:12434:strand:+ -           1701   1.3e-94  317.4   0.0   1   1   6.6e-98   3.2e-94  316.1   0.0     1   424   498   886   498   886 0.90 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0001027_ORF6:gid:nbtD:pid:BAD55611.1:loc:7328:12434:strand:+ -           1701   3.5e-27   94.6   5.4   1   2   7.5e-18   3.7e-14   52.9   0.0     2    67  1000  1063   999  1063 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001027_ORF6:gid:nbtD:pid:BAD55611.1:loc:7328:12434:strand:+ -           1701   3.5e-27   94.6   5.4   2   2   7.2e-14   3.5e-10   40.2   0.5     2    67  1595  1657  1594  1657 0.93 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001027_ORF6:gid:nbtD:pid:BAD55611.1:loc:7328:12434:strand:+ -           1701   3.3e-14   53.7   4.4   1   1   6.7e-18   3.3e-14   53.7   4.4     1    76   894   973   894   973 0.90 AMP-binding enzyme C-terminal domain
+Condensation         PF00668.23   457 BGC0001027_ORF7:gid:nbtE:pid:BAD55612.1:loc:12430:16999:strand:+ -           1522  1.1e-101  341.0   0.0   1   2   2.7e-69   1.3e-65  222.0   0.0     2   453     9   439     8   442 0.88 Condensation domain
+Condensation         PF00668.23   457 BGC0001027_ORF7:gid:nbtE:pid:BAD55612.1:loc:12430:16999:strand:+ -           1522  1.1e-101  341.0   0.0   2   2   1.7e-37   8.6e-34  117.1   0.0    23   443  1074  1520  1068  1522 0.86 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001027_ORF7:gid:nbtE:pid:BAD55612.1:loc:12430:16999:strand:+ -           1522   1.4e-81  274.4   0.1   1   1   3.8e-85   1.9e-81  274.0   0.1     1   424   469   867   469   867 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001027_ORF7:gid:nbtE:pid:BAD55612.1:loc:12430:16999:strand:+ -           1522     8e-12   46.1   0.1   1   1   7.9e-15   3.9e-11   43.9   0.1     1    76   875   949   875   949 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001027_ORF7:gid:nbtE:pid:BAD55612.1:loc:12430:16999:strand:+ -           1522   1.4e-11   44.7   0.0   1   1   7.6e-15   3.8e-11   43.3   0.0     2    67   980  1042   979  1042 0.89 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001027_ORF8:gid:nbtF:pid:BAD55613.1:loc:17006:20510:strand:+ -           1167     2e-85  287.1   0.0   1   1   6.5e-89   3.2e-85  286.4   0.0     1   424   568   963   568   963 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001027_ORF8:gid:nbtF:pid:BAD55613.1:loc:17006:20510:strand:+ -           1167   3.5e-37  128.3   0.0   1   1     1e-40     5e-37  127.8   0.0     6   431   113   523   109   530 0.86 Condensation domain
+PP-binding           PF00550.28    67 BGC0001027_ORF8:gid:nbtF:pid:BAD55613.1:loc:17006:20510:strand:+ -           1167   1.9e-22   79.4   2.2   1   2   2.3e-13   1.1e-09   38.5   0.1     1    67    18    83    18    83 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001027_ORF8:gid:nbtF:pid:BAD55613.1:loc:17006:20510:strand:+ -           1167   1.9e-22   79.4   2.2   2   2   8.8e-14   4.3e-10   39.9   0.4     2    66  1071  1134  1070  1135 0.93 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001027_ORF8:gid:nbtF:pid:BAD55613.1:loc:17006:20510:strand:+ -           1167   1.3e-06   29.4   1.5   1   1   5.8e-10   2.8e-06   28.3   0.3     1    76   971  1041   971  1041 0.91 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001027.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001027.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001027.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:54:58 2023
+# [ok]

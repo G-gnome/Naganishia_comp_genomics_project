@@ -1,0 +1,968 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="4073.6666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="4063.6666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>madG4
+oxidoreductase</title>
+			<polygon class="madG4
+oxidoreductase" points="15,25 21,25 21,10 51,40 21,70 21,55 15,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="16" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG3
+NDP-hexose 2,3-dehydratase</title>
+			<polygon class="madG3
+NDP-hexose 2,3-dehydratase" points="101,25 83,25 83,10 53,40 83,70 83,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<polygon class="PF03559" points="57,40 69,28 73,28 73,52 69,52" stroke-linejoin="round" width="18" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<rect class="PF03559" x="74" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG5
+dTDP-4-keto-6-deoxy-D-glucose epimerase</title>
+			<polygon class="madG5
+dTDP-4-keto-6-deoxy-D-glucose epimerase" points="107,10 129,40 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="108,28 117,28 125,39 125,41 117,52 108,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG6
+dTDP-6-deoxy-L-hexose 3-O-methyltransferase</title>
+			<polygon class="madG6
+dTDP-6-deoxy-L-hexose 3-O-methyltransferase" points="130,40 155,10 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TylF (PF05711)
+"Macrocin-O-methyltransferase (TylF)"</title>
+				<polygon class="PF05711" points="134,40 144,28 151,28 151,52 144,52" stroke-linejoin="round" width="20" height="24" fill="rgb(175,228,98)" stroke="rgb(139,182,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG7
+aldo/keto reductase</title>
+			<polygon class="madG7
+aldo/keto reductase" points="189,25 186,25 186,10 156,40 186,70 186,55 189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="160,40 172,28 186,28 186,52 172,52" stroke-linejoin="round" width="29" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG8
+sugar O-methyltransferase</title>
+			<polygon class="madG8
+sugar O-methyltransferase" points="200,25 201,25 201,10 231,40 201,70 201,55 200,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>madR4
+transcriptional regulator</title>
+			<polygon class="madR4
+transcriptional regulator" points="240,10 263,40 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="241" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madT1
+ABC transporter ATP-binding protein</title>
+			<polygon class="madT1
+ABC transporter ATP-binding protein" points="263,25 263,25 263,10 293,40 263,70 263,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="265,28 277,28 278,29 278,51 277,52 265,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madT2
+ABC transporter permease</title>
+			<polygon class="madT2
+ABC transporter permease" points="293,25 316,25 316,10 346,40 316,70 316,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>madTE
+type II Thioesterase</title>
+			<polygon class="madTE
+type II Thioesterase" points="352,25 352,25 352,10 382,40 352,70 352,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="357,28 366,28 378,40 366,52 357,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG9
+glycosyltransferase</title>
+			<polygon class="madG9
+glycosyltransferase" points="427,25 414,25 414,10 384,40 414,70 414,55 427,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="395,33 400,28 404,28 404,52 400,52 395,47" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madU
+hypothetical protein</title>
+			<polygon class="madU
+hypothetical protein" points="435,10 457,40 435,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>madA7
+PKS</title>
+			<polygon class="madA7
+PKS" points="461,25 908,25 908,10 938,40 908,70 908,55 461,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="461" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="464" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="490" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="502" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="518" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DE (PF18369)
+"Polyketide synthase dimerisation element domain"</title>
+				<rect class="PF18369" x="554" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(192,179,67)" stroke="rgb(153,143,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="582" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="610" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="619" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="645" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="657" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="673" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DE (PF18369)
+"Polyketide synthase dimerisation element domain"</title>
+				<rect class="PF18369" x="710" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(192,179,67)" stroke="rgb(153,143,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="738" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="767" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="776" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="801" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="813" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="830" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DE (PF18369)
+"Polyketide synthase dimerisation element domain"</title>
+				<rect class="PF18369" x="867" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(192,179,67)" stroke="rgb(153,143,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="894" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="922,29 928,35 928,45 922,51" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA8
+PKS</title>
+			<polygon class="madA8
+PKS" points="940,25 1119,25 1119,10 1149,40 1119,70 1119,55 940,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="940" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="943" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="969" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="981" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="997" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="1033" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="1103" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="1131,28 1132,28 1138,34 1138,46 1132,52 1131,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA9
+PKS</title>
+			<polygon class="madA9
+PKS" points="1149,25 1305,25 1305,10 1335,40 1305,70 1305,55 1149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="1149" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1152" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="1178" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="1190" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="1206" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="1243" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="1291" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="1318,28 1319,28 1324,33 1324,47 1319,52 1318,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madO1
+epoxidase</title>
+			<polygon class="madO1
+epoxidase" points="1339,25 1357,25 1357,10 1387,40 1357,70 1357,55 1339,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="1339,28 1370,28 1374,32 1374,48 1370,52 1339,52" stroke-linejoin="round" width="35" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madI
+epoxide hydrolase</title>
+			<polygon class="madI
+epoxide hydrolase" points="1388,10 1416,40 1388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_2 (PF12680)
+"SnoaL-like domain"</title>
+				<rect class="PF12680" x="1389" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(184,69,155)" stroke="rgb(147,55,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SnoaL_2 (PF12680)
+"SnoaL-like domain"</title>
+				<polygon class="PF12680" points="1402,30 1411,39 1411,41 1402,50" stroke-linejoin="round" width="9" height="24" fill="rgb(184,69,155)" stroke="rgb(147,55,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madO2
+epoxidase</title>
+			<polygon class="madO2
+epoxidase" points="1419,25 1436,25 1436,10 1466,40 1436,70 1436,55 1419,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>madA10
+PKS</title>
+			<polygon class="madA10
+PKS" points="1466,25 1519,25 1519,10 1549,40 1519,70 1519,55 1466,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="1470" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1473" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="1498" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="1510" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madP1
+cytochrome P450</title>
+			<polygon class="madP1
+cytochrome P450" points="1549,25 1560,25 1560,10 1590,40 1560,70 1560,55 1549,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1576,30 1586,40 1576,50" stroke-linejoin="round" width="11" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madM1
+methyltransferase</title>
+			<polygon class="madM1
+methyltransferase" points="1597,40 1624,10 1624,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="1609,31 1612,28 1618,28 1618,52 1612,52 1609,49" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA11
+ACP</title>
+			<polygon class="madA11
+ACP" points="1635,10 1646,40 1635,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="1638,28 1638,28 1643,40 1638,52 1638,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madP2
+cytochrome P450</title>
+			<polygon class="madP2
+cytochrome P450" points="1649,25 1663,25 1663,10 1693,40 1663,70 1663,55 1649,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1667,28 1677,28 1689,40 1677,52 1667,52" stroke-linejoin="round" width="23" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madM2
+methyltransferase</title>
+			<polygon class="madM2
+methyltransferase" points="1694,25 1695,25 1695,10 1725,40 1695,70 1695,55 1694,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="1703,28 1708,28 1712,32 1712,48 1708,52 1703,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG10
+glycosyltransferase</title>
+			<polygon class="madG10
+glycosyltransferase" points="1726,25 1741,25 1741,10 1771,40 1741,70 1741,55 1726,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="1749,28 1754,28 1758,32 1758,48 1754,52 1749,52" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madE
+polyketide thioesterase</title>
+			<polygon class="madE
+polyketide thioesterase" points="1774,10 1803,40 1774,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="1776,28 1787,28 1799,40 1787,52 1776,52" stroke-linejoin="round" width="25" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA6
+PKS</title>
+			<polygon class="madA6
+PKS" points="1973,25 1836,25 1836,10 1806,40 1836,70 1836,55 1973,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="1814,36 1820,30 1820,50 1814,44" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="1832" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PKS_DE (PF18369)
+"Polyketide synthase dimerisation element domain"</title>
+				<rect class="PF18369" x="1872" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(192,179,67)" stroke="rgb(153,143,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="1881" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="1918" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="1931" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1943" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="1969" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA5
+PKS</title>
+			<polygon class="madA5
+PKS" points="2376,25 2003,25 2003,10 1973,40 2003,70 2003,55 2376,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="1981,36 1987,30 1987,50 1981,44" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="1999" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<rect class="PF13602" x="2018" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="2073" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="2108" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="2144" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="2156" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="2169" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="2196" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="2214" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="2254" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="2288" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="2323" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="2335" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="2348" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="2373" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA4
+PKS</title>
+			<polygon class="madA4
+PKS" points="2779,25 2407,25 2407,10 2377,40 2407,70 2407,55 2779,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="2390,31 2393,28 2396,28 2396,52 2393,52 2390,49" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="2407" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<rect class="PF13602" x="2426" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="2478" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="2512" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="2549" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="2561" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="2573" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="2601" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="2618" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="2658" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="2691" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="2726" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="2738" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="2750" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="2776" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA3
+PKS</title>
+			<polygon class="madA3
+PKS" points="3184,25 2810,25 2810,10 2780,40 2810,70 2810,55 3184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="2788,36 2794,30 2794,50 2788,44" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="2806" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<rect class="PF13602" x="2825" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="2877" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="2910" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="2946" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="2961" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="2973" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="3001" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="3019" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="3059" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="3093" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="3129" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="3143" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="3156" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="3181" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA2
+PKS</title>
+			<polygon class="madA2
+PKS" points="3405,25 3214,25 3214,10 3184,40 3214,70 3214,55 3405,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="3193,35 3199,29 3199,51 3193,45" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="3211" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<rect class="PF13602" x="3230" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="3282" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="3317" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="3352" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="3364" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="3377" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Docking (PF08990)
+"Erythronolide synthase docking domain"</title>
+				<rect class="PF08990" x="3402" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(180,75,55)" stroke="rgb(144,60,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madA1
+PKS</title>
+			<polygon class="madA1
+PKS" points="3649,25 3436,25 3436,10 3406,40 3436,70 3436,55 3649,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="3417,33 3422,28 3423,28 3423,52 3422,52 3417,47" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="3429" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="3462" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="3497" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="3509" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="3522" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="3549" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="3564" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="3600" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="3614" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="3627" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madT3
+ABC transporter ATP-binding protein</title>
+			<polygon class="madT3
+ABC transporter ATP-binding protein" points="3654,25 3655,25 3655,10 3685,40 3655,70 3655,55 3654,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="3656,28 3668,28 3669,29 3669,51 3668,52 3656,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madR1
+transcriptional regulator</title>
+			<polygon class="madR1
+transcriptional regulator" points="3705,10 3730,40 3705,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="3706" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<polygon class="PF03704" points="3714,28 3716,28 3726,40 3716,52 3714,52" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG2
+dTDP-glucose 4,6-dehydratase</title>
+			<polygon class="madG2
+dTDP-glucose 4,6-dehydratase" points="3772,25 3768,25 3768,10 3738,40 3768,70 3768,55 3772,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="3742,40 3754,28 3767,28 3767,52 3754,52" stroke-linejoin="round" width="27" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madG1
+glucose-1-phosphate thymidylyltransferase</title>
+			<polygon class="madG1
+glucose-1-phosphate thymidylyltransferase" points="3802,25 3802,25 3802,10 3772,40 3802,70 3802,55 3802,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="3778,38 3788,28 3801,28 3801,52 3788,52 3778,42" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madR2
+transcriptional regulator</title>
+			<polygon class="madR2
+transcriptional regulator" points="3834,25 3900,25 3900,10 3930,40 3900,70 3900,55 3834,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="3834" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="3922,36 3926,40 3926,40 3922,44" stroke-linejoin="round" width="4" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>madR3
+transcriptional regulator</title>
+			<polygon class="madR3
+transcriptional regulator" points="3960,25 4023,25 4023,10 4053,40 4023,70 4023,55 3960,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="3960" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="4044,36 4048,40 4048,40 4044,44" stroke-linejoin="round" width="4" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

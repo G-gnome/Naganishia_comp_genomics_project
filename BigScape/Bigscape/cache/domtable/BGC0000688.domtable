@@ -1,0 +1,17 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0000688_ORF3:gid::pid::loc:1955:3975:strand:- -            459   6.2e-33  114.3  29.3   1   1   6.3e-37   6.2e-33  114.3  29.3     2   313    47   395    46   408 0.79 Major Facilitator Superfamily
+TRI12                PF06609.16   599 BGC0000688_ORF3:gid::pid::loc:1955:3975:strand:- -            459     1e-14   54.0   9.6   1   1   1.7e-18   1.6e-14   53.4   9.6    50   291    45   287    26   293 0.80 Fungal trichothecene efflux pump (TRI12)
+polyprenyl_synt      PF00348.20   256 BGC0000688_ORF4:gid::pid::loc:4518:6026:strand:+ -            325   1.4e-65  221.0   0.0   1   1   8.6e-70   1.7e-65  220.8   0.0     3   255    34   277    32   278 0.96 Polyprenyl synthetase
+p450                 PF00067.25   463 BGC0000688_ORF5:gid::pid::loc:6505:7216:strand:- -            236   5.4e-42  144.2   0.0   1   1   3.2e-46   6.3e-42  144.0   0.0   260   463    16   229     4   229 0.94 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000688.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000688.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000688.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:27:02 2023
+# [ok]

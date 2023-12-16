@@ -1,0 +1,37 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_2                PF13347.9    427 BGC0001810_ORF1:gid:thgA:pid:BAU79595.1:loc:122:1517:strand:+ -            464   8.7e-70  235.5  29.5   1   1     1e-73   9.8e-70  235.4  29.5     1   427    32   459    32   459 0.97 MFS/sugar transport protein
+MFS_1                PF07690.19   353 BGC0001810_ORF1:gid:thgA:pid:BAU79595.1:loc:122:1517:strand:+ -            464   1.1e-20   74.0  42.5   1   1   1.1e-24   1.1e-20   74.0  42.5     3   353    33   402    29   402 0.79 Major Facilitator Superfamily
+Pkinase              PF00069.28   264 BGC0001810_ORF2:gid:thgB:pid:BAU79596.1:loc:1625:2567:strand:+ -            313   3.5e-37  128.3   0.0   1   1   4.5e-41   4.4e-37  128.0   0.0     1   254     8   257     8   265 0.91 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.20   259 BGC0001810_ORF2:gid:thgB:pid:BAU79596.1:loc:1625:2567:strand:+ -            313   6.4e-22   78.2   0.0   1   1   8.2e-26     8e-22   77.9   0.0     2   251     9   257     8   262 0.89 Protein tyrosine and serine/threonine kinase
+fn3                  PF00041.24    85 BGC0001810_ORF3:gid:thgC:pid:BAU79597.1:loc:2906:5009:strand:+ -            700   2.7e-13   50.2   2.8   1   1   1.8e-10   3.6e-06   27.3   0.1     1    74   428   502   428   510 0.84 Fibronectin type III domain
+CBM_20               PF00686.22    96 BGC0001810_ORF4:gid:thgD:pid:BAU79598.1:loc:5780:7565:strand:+ -            594     2e-29  101.4   0.0   1   1   6.1e-33     4e-29  100.4   0.0     5    93   503   587   500   590 0.94 Starch binding domain
+Alpha-amylase        PF00128.27   336 BGC0001810_ORF4:gid:thgD:pid:BAU79598.1:loc:5780:7565:strand:+ -            594   2.1e-18   67.1   0.0   1   1   6.5e-22   4.3e-18   66.1   0.0    42   328   104   352    90   359 0.81 Alpha amylase, catalytic domain
+Alpha-amylase_C      PF02806.21    96 BGC0001810_ORF4:gid:thgD:pid:BAU79598.1:loc:5780:7565:strand:+ -            594   7.9e-15   55.2   0.1   1   1   2.9e-18   1.9e-14   54.0   0.1     1    95   401   481   399   482 0.93 Alpha amylase, C-terminal all-beta domain
+TM_helix             PF05552.15    50 BGC0001810_ORF5:gid:thgE:pid:BAU79599.1:loc:7743:8601:strand:+ -            285   8.4e-19   67.3  15.4   1   1   1.1e-18   2.2e-14   53.2   4.6     4    49    17    62    15    63 0.96 Conserved TM helix
+MFS_1                PF07690.19   353 BGC0001810_ORF6:gid:thgF:pid:BAU79600.1:loc:8663:10202:strand:+ -            512   2.8e-31  108.9  71.9   1   2   3.9e-29   7.7e-25   87.7  41.7     2   332    67   434    66   435 0.80 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001810_ORF6:gid:thgF:pid:BAU79600.1:loc:8663:10202:strand:+ -            512   2.8e-31  108.9  71.9   2   2   3.2e-13   6.4e-09   35.3  22.1    16   178   334   494   330   506 0.82 Major Facilitator Superfamily
+GerE                 PF00196.22    57 BGC0001810_ORF7:gid:thgG:pid:BAU79601.1:loc:10517:11249:strand:+ -            243     5e-16   58.2   0.1   1   1   3.7e-20   7.2e-16   57.7   0.1     3    57   183   237   181   237 0.97 Bacterial regulatory proteins, luxR family
+ECH_1                PF00378.23   251 BGC0001810_ORF8:gid:thgH:pid:BAU79602.1:loc:11469:12339:strand:+ -            289   6.6e-45  153.5   0.0   1   1   8.2e-49   8.1e-45  153.2   0.0     6   249    42   286    38   288 0.96 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.8    335 BGC0001810_ORF8:gid:thgH:pid:BAU79602.1:loc:11469:12339:strand:+ -            289   2.9e-23   83.1   0.0   1   1   5.6e-27   5.5e-23   82.2   0.0     3   240    44   279    42   288 0.88 Enoyl-CoA hydratase/isomerase
+ACP_syn_III          PF08545.13    80 BGC0001810_ORF9:gid:thgI:pid:BAU79603.1:loc:12385:13411:strand:+ -            341   1.3e-28   98.7   1.0   1   1   3.1e-32     3e-28   97.6   1.0     1    80   107   187   107   187 0.98 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ACP_syn_III_C        PF08541.13    90 BGC0001810_ORF9:gid:thgI:pid:BAU79603.1:loc:12385:13411:strand:+ -            341   8.8e-26   90.0   0.2   1   1     5e-29   4.9e-25   87.6   0.1     1    90   239   328   239   328 0.98 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+Hexapep              PF00132.27    36 BGC0001810_ORF10:gid:thgJ:pid:BAU79604.1:loc:13415:14195:strand:+ -            259   1.3e-11   43.8   7.3   1   1   1.9e-12   1.9e-08   33.8   4.0     1    36   149   184   149   184 0.96 Bacterial transferase hexapeptide (six repeats)
+Hexapep_2            PF14602.9     34 BGC0001810_ORF10:gid:thgJ:pid:BAU79604.1:loc:13415:14195:strand:+ -            259   3.6e-07   29.9   3.0   1   1   6.5e-11   6.4e-07   29.1   3.0     3    34   151   184   149   184 0.94 Hexapeptide repeat of succinyl-transferase
+adh_short_C2         PF13561.9    234 BGC0001810_ORF11:gid:thgK:pid:BAU79605.1:loc:14191:14986:strand:+ -            264   2.2e-58  197.7   1.3   1   1   3.9e-62   2.5e-58  197.5   1.3     1   233    26   261    26   262 0.95 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001810_ORF11:gid:thgK:pid:BAU79605.1:loc:14191:14986:strand:+ -            264   2.1e-48  164.5   0.0   1   1   3.7e-52   2.4e-48  164.3   0.0     2   189    21   209    20   215 0.96 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001810_ORF11:gid:thgK:pid:BAU79605.1:loc:14191:14986:strand:+ -            264   9.6e-13   48.5   0.5   1   1   2.2e-16   1.4e-12   48.0   0.5     3   162    22   182    21   198 0.89 KR domain
+Peripla_BP_3         PF13377.9    166 BGC0001810_ORF12:gid:thgL:pid:BAU79606.1:loc:15091:16114:strand:- -            340     5e-37  127.8   1.8   1   1     1e-40     5e-37  127.8   1.8     1   166   177   340   177   340 0.92 Periplasmic binding protein-like domain
+LacI                 PF00356.24    46 BGC0001810_ORF12:gid:thgL:pid:BAU79606.1:loc:15091:16114:strand:- -            340   3.6e-16   58.8   0.1   1   1   1.5e-19   7.5e-16   57.8   0.1     1    45    14    58    14    59 0.98 Bacterial regulatory proteins, lacI family
+Peripla_BP_1         PF00532.24   279 BGC0001810_ORF12:gid:thgL:pid:BAU79606.1:loc:15091:16114:strand:- -            340     4e-14   52.8   0.0   1   1   1.2e-17   5.8e-14   52.3   0.0     4   223    73   287    71   317 0.88 Periplasmic binding proteins and sugar binding domain of LacI family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001810.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001810.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001810.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:20:45 2023
+# [ok]

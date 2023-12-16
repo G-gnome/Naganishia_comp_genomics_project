@@ -1,0 +1,23 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0000980_ORF1:gid:cyrC:pid:ADF88263.1:loc:0:997:strand:- -            332   2.7e-95  318.9   0.0   1   1   3.4e-99   3.4e-95  318.5   0.0     2   253    33   285    32   285 0.95 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000980_ORF1:gid:cyrC:pid:ADF88263.1:loc:0:997:strand:- -            332   6.4e-06   26.3   0.1   1   1   1.9e-09   1.9e-05   24.8   0.0     1    40   293   331   293   332 0.96 Beta-ketoacyl synthase, C-terminal domain
+ADI                  PF02274.20   377 BGC0000980_ORF2:gid:cyrA:pid:ADF88264.1:loc:1548:2724:strand:+ -            391   3.6e-06   26.3   0.0   1   1   5.6e-10   1.1e-05   24.7   0.0   322   377   308   363   296   363 0.95 Arginine deiminase
+AMP-binding          PF00501.31   424 BGC0000980_ORF3:gid:cyrB:pid:ADF88265.1:loc:2738:6921:strand:+ -           1394   1.5e-90  304.0   0.0   1   1   7.7e-94   2.2e-90  303.5   0.0     1   424    29   469    29   469 0.81 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0000980_ORF3:gid:cyrB:pid:ADF88265.1:loc:2738:6921:strand:+ -           1394   1.3e-72  244.5   0.0   1   1   1.1e-75   3.2e-72  243.3   0.0     2   253   675   930   674   930 0.91 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000980_ORF3:gid:cyrB:pid:ADF88265.1:loc:2738:6921:strand:+ -           1394   3.2e-41  140.2   2.8   1   1   2.8e-44   7.9e-41  138.9   2.0     1   118   938  1059   938  1060 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0000980_ORF3:gid:cyrB:pid:ADF88265.1:loc:2738:6921:strand:+ -           1394   3.6e-40  138.6   0.1   1   1   2.3e-43   6.4e-40  137.7   0.1     2   178  1210  1391  1209  1394 0.90 Acyl transferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0000980_ORF3:gid:cyrB:pid:ADF88265.1:loc:2738:6921:strand:+ -           1394   1.9e-20   73.5   0.0   1   1   1.4e-23     4e-20   72.5   0.0     1   110  1062  1177  1062  1179 0.92 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.9     76 BGC0000980_ORF3:gid:cyrB:pid:ADF88265.1:loc:2738:6921:strand:+ -           1394   4.7e-12   46.8   0.0   1   1   4.1e-15   1.2e-11   45.6   0.0     1    76   477   555   477   555 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0000980_ORF3:gid:cyrB:pid:ADF88265.1:loc:2738:6921:strand:+ -           1394   1.5e-11   44.5   0.0   1   1   3.1e-14   8.7e-11   42.1   0.0     2    67   585   648   584   648 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000980.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000980.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000980.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:52:54 2023
+# [ok]

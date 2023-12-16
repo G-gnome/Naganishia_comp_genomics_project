@@ -1,0 +1,39 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+UbiA                 PF01040.21   251 BGC0000104_ORF1:gid:mpaA:pid:ADY00128.1:loc:0:1137:strand:- -            315   1.2e-34  119.9  12.3   1   1   6.8e-39   1.3e-34  119.7  11.8    20   242    45   277    26   289 0.84 UbiA prenyltransferase family
+MPAB_Lcp_cat         PF09995.12   224 BGC0000104_ORF2:gid:mpaB:pid:ADY00129.1:loc:2643:4120:strand:+ -            392   9.4e-09   35.8   0.0   1   1   6.7e-13   1.3e-08   35.3   0.0    35   145   110   229    78   328 0.63 ER-bound oxygenase mpaB/B'/Rubber oxygenase, catalytic domain
+ketoacyl-synt        PF00109.29   253 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   3.8e-76  256.1   0.0   1   1   8.8e-79   9.6e-76  254.8   0.0     2   253   360   602   359   602 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   2.4e-36  124.4   0.0   1   1     5e-39   5.5e-36  123.3   0.0     1   118   610   726   610   727 0.97 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   4.9e-29  101.6   0.0   1   1     8e-32   8.7e-29  100.8   0.0    32   294  1289  1563  1287  1566 0.86 Polyketide synthase dehydratase
+Methyltransf_12      PF08242.15    99 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   4.6e-19   69.1   0.0   1   1   1.4e-21   1.6e-18   67.4   0.0     1    99  1917  2020  1917  2020 0.94 Methyltransferase domain
+HTH_51               PF18558.4     90 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   5.6e-18   64.7   0.0   1   1   1.3e-20   1.4e-17   63.5   0.0     9    84  1735  1810  1728  1814 0.93 Helix-turn-helix domain
+BD-FAE               PF20434.1    215 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448     2e-17   63.5   0.0   1   1     9e-15   9.8e-12   44.9   0.0     2   108  2124  2238  2123  2259 0.80 BD-FAE
+Acyl_transf_1        PF00698.24   319 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   4.7e-17   62.6   0.1   1   1   1.1e-19   1.2e-16   61.2   0.1    56   269   937  1159   885  1187 0.76 Acyl transferase domain
+PP-binding           PF00550.28    67 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   3.3e-14   53.0   0.1   1   1   7.9e-17   8.7e-14   51.7   0.1     2    67  1615  1680  1614  1680 0.98 Phosphopantetheine attachment site
+Methyltransf_23      PF13489.9    165 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   9.6e-12   45.1   0.0   1   1   1.6e-12   1.8e-09   37.8   0.0    21   163  1911  2071  1891  2072 0.77 Methyltransferase domain
+Abhydrolase_3        PF07859.16   211 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448     6e-11   42.7   0.0   1   1   1.7e-12   1.9e-09   37.8   0.0     2   111  2142  2259  2141  2290 0.85 alpha/beta hydrolase fold
+Methyltransf_25      PF13649.9     97 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   2.8e-10   40.8   0.0   1   1   8.5e-13   9.3e-10   39.2   0.0     1    97  1916  2018  1916  2018 0.84 Methyltransferase domain
+SAT                  PF16073.8    240 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   8.5e-09   35.5   0.2   1   1   5.1e-10   5.6e-07   29.5   0.0   106   149   135   178    15   205 0.78 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Peptidase_S9         PF00326.24   212 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   3.9e-08   33.2   0.0   1   1   2.2e-09   2.4e-06   27.4   0.0   125   209  2356  2446  2341  2448 0.79 Prolyl oligopeptidase family
+Methyltransf_11      PF08241.15    96 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   2.8e-07   31.2   0.0   1   1   7.6e-10   8.3e-07   29.7   0.0     1    95  1917  2021  1917  2022 0.85 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   8.3e-07   29.0   0.0   1   1   1.7e-09   1.8e-06   27.9   0.0     3   113  1912  2026  1910  2079 0.84 Methyltransferase domain
+Methyltransf_28      PF02636.20   263 BGC0000104_ORF3:gid:mpaC:pid:ADY00130.1:loc:4535:12280:strand:- -           2448   4.9e-06   26.5   0.0   1   1   8.3e-09   9.1e-06   25.6   0.0     2    71  1897  1964  1896  1979 0.92 Putative S-adenosyl-L-methionine-dependent methyltransferase
+p450                 PF00067.25   463 BGC0000104_ORF4:gid:mpaD:pid:ADY00131.1:loc:15778:17180:strand:+ -            396   3.8e-34  118.3   0.0   1   1     1e-31     2e-27   96.2   0.0   200   393   175   369   171   378 0.92 Cytochrome P450
+Lactamase_B          PF00753.30   197 BGC0000104_ORF5:gid:mpaE:pid:ADY00132.1:loc:17739:18525:strand:+ -            261   7.5e-06   26.2   1.7   1   1   6.6e-10   1.3e-05   25.4   1.1    35    60    22    47     9   133 0.82 Metallo-beta-lactamase superfamily
+IMPDH                PF00478.28   345 BGC0000104_ORF6:gid:mpaF:pid:ADY00133.1:loc:18957:20657:strand:- -            527  1.3e-125  419.1   4.4   1   1  3.1e-129  1.5e-125  418.9   4.4     1   345    36   515    36   515 0.98 IMP dehydrogenase / GMP reductase domain
+CBS                  PF00571.31    57 BGC0000104_ORF6:gid:mpaF:pid:ADY00133.1:loc:18957:20657:strand:- -            527   7.3e-18   64.9   0.1   1   2   1.4e-09   6.8e-06   26.6   0.0     8    51   124   170   111   173 0.89 CBS domain
+CBS                  PF00571.31    57 BGC0000104_ORF6:gid:mpaF:pid:ADY00133.1:loc:18957:20657:strand:- -            527   7.3e-18   64.9   0.1   2   2   2.1e-12     1e-08   35.6   0.1     1    56   180   235   180   236 0.92 CBS domain
+FMN_dh               PF01070.21   348 BGC0000104_ORF6:gid:mpaF:pid:ADY00133.1:loc:18957:20657:strand:- -            527   4.6e-08   32.6   1.0   1   1   2.4e-11   1.2e-07   31.3   1.0   193   302   275   392   223   407 0.75 FMN-dependent dehydrogenase
+Methyltransf_2       PF00891.21   210 BGC0000104_ORF7:gid:mpaG:pid:ADY00134.1:loc:21274:22523:strand:- -            398   6.2e-18   65.0   0.0   1   1   4.7e-22   9.2e-18   64.5   0.0    52   209   220   377   215   378 0.87 O-methyltransferase domain
+Abhydrolase_6        PF12697.10   220 BGC0000104_ORF8:gid:mpaH:pid:ADY00135.1:loc:24005:25486:strand:- -            433     2e-09   38.5   2.8   1   1   3.8e-13   3.7e-09   37.6   2.8     4   157    57   249    54   377 0.64 Alpha/beta hydrolase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000104.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000104.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000104.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:43:26 2023
+# [ok]

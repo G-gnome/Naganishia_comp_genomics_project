@@ -1,0 +1,16 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lant_dehydr_N        PF04738.16   650 BGC0002640_ORF1:gid::pid:KJE43923.1:loc:388:3511:strand:- -           1040  2.8e-142  475.1   0.0   1   1  4.2e-146  4.1e-142  474.6   0.0     2   650    44   690    43   690 0.94 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0002640_ORF1:gid::pid:KJE43923.1:loc:388:3511:strand:- -           1040   1.4e-54  185.9   0.0   1   1   4.1e-58     4e-54  184.4   0.0     1   287   763  1033   763  1034 0.96 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.16   352 BGC0002640_ORF2:gid::pid:KJE43924.1:loc:3521:4721:strand:- -            399   5.2e-36  124.1   1.8   1   1   3.4e-40   6.7e-36  123.7   1.8     3   352    34   397    32   397 0.85 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002640.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002640.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002640.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:21:30 2023
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+L_biotic_typeA       PF04604.16    51 BGC0000532_ORF1:gid:mutA:pid:AAC38144.1:loc:495:657:strand:+ -             53   9.6e-27   92.7   0.4   1   1   5.3e-31     1e-26   92.6   0.4     1    51     1    53     1    53 0.99 Type-A lantibiotic
+LANC_like            PF05147.16   352 BGC0000532_ORF2:gid:mutM:pid:AAC38145.1:loc:725:3422:strand:+ -            898   4.4e-63  213.1  12.1   1   1     3e-64   2.9e-60  203.8  12.1     2   348   562   889   561   893 0.90 Lanthionine synthetase C-like protein
+DUF4135              PF13575.9    377 BGC0000532_ORF2:gid:mutM:pid:AAC38145.1:loc:725:3422:strand:+ -            898   5.9e-53  180.6   0.7   1   1   9.2e-57     9e-53  180.0   0.7    20   345   106   424    94   444 0.85 Domain of unknown function (DUF4135)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000532.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000532.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000532.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:31:00 2023
+# [ok]

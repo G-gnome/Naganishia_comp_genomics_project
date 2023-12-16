@@ -1,0 +1,106 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="352.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="342.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (B7751_RS20850)
+ABC transporter ATP-binding protein/permease</title>
+			<polygon class=" (B7751_RS20850)
+ABC transporter ATP-binding protein/permease" points="68,25 40,25 40,10 10,40 40,70 40,55 68,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="18,36 26,28 33,28 33,52 26,52 18,44" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="39" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (B7751_RS20855)
+class I SAM-dependent methyltransferase</title>
+			<polygon class=" (B7751_RS20855)
+class I SAM-dependent methyltransferase" points="74,40 102,10 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="85,33 89,28 94,28 94,52 89,52 85,47" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (B7751_RS30335)
+class III lanthipeptide</title>
+			<polygon class=" (B7751_RS30335)
+class III lanthipeptide" points="108,40 112,10 112,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (B7751_RS30340)
+class III lanthipeptide</title>
+			<polygon class=" (B7751_RS30340)
+class III lanthipeptide" points="113,40 117,10 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (B7751_RS30345)
+class III lanthipeptide</title>
+			<polygon class=" (B7751_RS30345)
+class III lanthipeptide" points="118,40 122,10 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (B7751_RS30110)
+class III lanthipeptide</title>
+			<polygon class=" (B7751_RS30110)
+class III lanthipeptide" points="123,40 128,10 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (B7751_RS30115)
+class III lanthipeptide</title>
+			<polygon class=" (B7751_RS30115)
+class III lanthipeptide" points="129,40 133,10 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (B7751_RS30120)
+class III lanthipeptide</title>
+			<polygon class=" (B7751_RS30120)
+class III lanthipeptide" points="138,40 142,10 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lanKC (B7751_RS20860)
+class III lanthionine synthetase LanKC</title>
+			<polygon class="lanKC (B7751_RS20860)
+class III lanthionine synthetase LanKC" points="235,25 179,25 179,10 149,40 179,70 179,55 235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="190" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (B7751_RS20865)
+insulinase family protein</title>
+			<polygon class=" (B7751_RS20865)
+insulinase family protein" points="299,25 287,25 287,10 257,40 287,70 287,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16_C (PF05193)
+"Peptidase M16 inactive domain"</title>
+				<polygon class="PF05193" points="263,38 273,28 281,28 281,52 273,52 263,42" stroke-linejoin="round" width="18" height="24" fill="rgb(199,79,180)" stroke="rgb(159,63,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M16 (PF00675)
+"Insulinase (Peptidase family M16)"</title>
+				<rect class="PF00675" x="282" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(70,225,127)" stroke="rgb(56,180,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (B7751_RS20870)
+insulinase family protein</title>
+			<polygon class=" (B7751_RS20870)
+insulinase family protein" points="342,25 330,25 330,10 300,40 330,70 330,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16_C (PF05193)
+"Peptidase M16 inactive domain"</title>
+				<polygon class="PF05193" points="306,38 316,28 323,28 323,52 316,52 306,42" stroke-linejoin="round" width="17" height="24" fill="rgb(199,79,180)" stroke="rgb(159,63,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

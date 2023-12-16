@@ -1,0 +1,19 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.28   264 BGC0000553_ORF1:gid:lanKC:pid:WP_205382163.1:loc:66:1750:strand:+ -            561     9e-14   51.6   0.0   1   1   1.2e-17   1.2e-13   51.2   0.0    11   192   244   437   234   479 0.86 Protein kinase domain
+RamS                 PF19402.2     44 BGC0000553_ORF3:gid::pid:WP_003966507.1:loc:2903:3035:strand:+ -             43   4.2e-15   56.0   2.6   1   1   2.3e-19   4.6e-15   55.9   2.6     1    43     1    41     1    42 0.93 Lanthionine-containing peptide SapB precursor RamS
+ABC_membrane         PF00664.26   274 BGC0000553_ORF4:gid::pid::loc:3127:4193:strand:+ -            355   8.9e-14   51.9   0.0   1   1   5.5e-18   1.1e-13   51.6   0.0     4   269    30   290    27   294 0.93 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000553_ORF5:gid::pid:WP_032798144.1:loc:4476:4822:strand:+ -            115     1e-05   26.2   0.0   1   1   6.9e-10   1.4e-05   25.8   0.0   106   136    23    53     3    54 0.86 ABC transporter
+ABC_tran             PF00005.30   137 BGC0000553_ORF6:gid::pid::loc:5089:6866:strand:+ -            592   5.9e-14   52.9   0.0   1   1   4.7e-18   9.2e-14   52.2   0.0     1   102   346   450   346   458 0.88 ABC transporter
+GerE                 PF00196.22    57 BGC0000553_ORF7:gid::pid:WP_006127364.1:loc:6834:7440:strand:- -            201   2.8e-12   46.1   0.0   1   1   6.6e-16   6.5e-12   45.0   0.0     1    57   139   195   139   195 0.97 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000553.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000553.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000553.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:14:06 2023
+# [ok]

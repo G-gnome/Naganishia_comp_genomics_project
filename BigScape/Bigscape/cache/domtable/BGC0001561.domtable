@@ -1,0 +1,33 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MDMPI_N              PF11716.11   141 BGC0001561_ORF1:gid::pid:KUM69037.1:loc:0:789:strand:- -            262   2.1e-24   86.9  15.9   1   1   2.2e-28   2.1e-24   86.9  15.9     7   140    20   143    11   144 0.89 Mycothiol maleylpyruvate isomerase N-terminal domain
+MDMPI_C              PF07398.14    90 BGC0001561_ORF1:gid::pid:KUM69037.1:loc:0:789:strand:- -            262   1.4e-18   67.7   7.5   1   1   1.5e-22   1.4e-18   67.7   7.5     2    89   157   253   156   254 0.98 MDMPI C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001561_ORF3:gid::pid:KUM69039.1:loc:1853:2633:strand:- -            259   1.4e-44  153.0   0.1   1   1   1.8e-48   1.8e-44  152.8   0.1     2   223    29   243    28   251 0.89 Thioesterase domain
+Abhydrolase_6        PF12697.10   220 BGC0001561_ORF3:gid::pid:KUM69039.1:loc:1853:2633:strand:- -            259   1.1e-08   36.1   8.1   1   1   1.5e-12   1.5e-08   35.7   8.1     6   218    37   243    30   245 0.65 Alpha/beta hydrolase family
+MFS_1                PF07690.19   353 BGC0001561_ORF4:gid::pid:KUM69040.1:loc:2638:3817:strand:- -            392   4.5e-27   95.0  46.6   1   2   6.3e-21   6.2e-17   61.7  16.5    16   226     1   207     1   215 0.81 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001561_ORF4:gid::pid:KUM69040.1:loc:2638:3817:strand:- -            392   4.5e-27   95.0  46.6   2   2   7.3e-14   7.1e-10   38.5  27.9     3   167   195   359   193   388 0.84 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0001561_ORF4:gid::pid:KUM69040.1:loc:2638:3817:strand:- -            392   5.1e-23   81.4  35.7   1   1   6.7e-27   6.6e-23   81.0  35.7    58   400    29   370     7   386 0.81 Transmembrane secretion effector
+Response_reg         PF00072.27   112 BGC0001561_ORF7:gid::pid:KUM69043.1:loc:5193:5865:strand:- -            223   1.5e-15   57.5   0.0   1   1   2.6e-19   2.5e-15   56.7   0.0     1   101     3   108     3   121 0.92 Response regulator receiver domain
+GerE                 PF00196.22    57 BGC0001561_ORF7:gid::pid:KUM69043.1:loc:5193:5865:strand:- -            223   1.3e-13   50.4   0.0   1   1   2.5e-17   2.4e-13   49.6   0.0     3    47   151   195   149   204 0.95 Bacterial regulatory proteins, luxR family
+HisKA_3              PF07730.16    68 BGC0001561_ORF8:gid::pid:KUM69047.1:loc:5852:7064:strand:- -            403   1.8e-14   54.1   3.2   1   1   3.8e-18   3.7e-14   53.1   2.3     1    67   210   276   210   277 0.97 Histidine kinase
+Sensor               PF13796.9    162 BGC0001561_ORF8:gid::pid:KUM69047.1:loc:5852:7064:strand:- -            403   6.7e-14   52.4  16.4   1   1   6.8e-18   6.7e-14   52.4  16.4     1   134    17   165    17   181 0.75 Putative sensor
+ABC_tran             PF00005.30   137 BGC0001561_ORF9:gid::pid:KUM69048.1:loc:7287:8100:strand:+ -            270   1.3e-31  110.0   0.0   1   1   1.9e-35   1.8e-31  109.6   0.0     1   136    48   198    48   199 0.91 ABC transporter
+FtsX                 PF02687.24   121 BGC0001561_ORF10:gid::pid:KUM69044.1:loc:8096:10850:strand:+ -            917   9.9e-15   54.7  27.7   1   2   1.7e-12   3.4e-08   33.6   7.8     3   112   336   443   334   457 0.80 FtsX-like permease family
+FtsX                 PF02687.24   121 BGC0001561_ORF10:gid::pid:KUM69044.1:loc:8096:10850:strand:+ -            917   9.9e-15   54.7  27.7   2   2   3.1e-13   6.1e-09   36.0  11.8     3   118   797   907   795   909 0.90 FtsX-like permease family
+Beta-lactamase       PF00144.27   330 BGC0001561_ORF12:gid::pid:KUM69046.1:loc:11674:12955:strand:+ -            426   1.9e-50  172.1   9.0   1   1   9.5e-55   1.9e-50  172.1   9.0    20   315     2   310     1   324 0.89 Beta-lactamase
+AMP-binding          PF00501.31   424 BGC0001561_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513  5.7e-192  638.1   0.1   1   2   1.4e-99   6.8e-96  321.6   0.0     1   424    24   415    24   415 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001561_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513  5.7e-192  638.1   0.1   2   2   1.9e-97   9.1e-94  314.6   0.1     1   424  1088  1485  1088  1485 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001561_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513   1.2e-91  307.9   0.0   1   1   3.8e-95   1.9e-91  307.2   0.0     4   455   613  1067   611  1069 0.92 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0001561_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513   5.3e-17   62.7   2.6   1   1   5.4e-16   2.6e-12   47.6   0.0     1    76   423   498   423   498 0.90 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001561_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513   1.2e-14   54.5   0.0   1   1   8.3e-18   4.1e-14   52.8   0.0     2    66   528   590   527   591 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001561.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001561.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001561.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:03:51 2023
+# [ok]

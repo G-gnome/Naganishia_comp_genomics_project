@@ -1,0 +1,34 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DIT1_PvcA            PF05141.15   277 BGC0002733_ORF1:gid::pid:KAF1061750.1:loc:0:984:strand:+ -            327   8.2e-73  245.4   0.0   1   1   5.7e-77   1.1e-72  244.9   0.0     4   273    50   300    47   304 0.97 Pyoverdine/dityrosine biosynthesis protein
+MFS_1                PF07690.19   353 BGC0002733_ORF2:gid:ydhC_1:pid:KAF1061751.1:loc:976:2221:strand:+ -            414   1.1e-34  120.1  50.3   1   1   1.1e-38   1.1e-34  120.1  50.3     1   347    21   360    21   364 0.83 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0002733_ORF2:gid:ydhC_1:pid:KAF1061751.1:loc:976:2221:strand:+ -            414   6.3e-07   28.7   9.7   1   1   6.4e-11   6.3e-07   28.7   9.7    40   189    45   190    22   199 0.84 Sugar (and other) transporter
+DIT1_PvcA            PF05141.15   277 BGC0002733_ORF4:gid:carC:pid:KAF1061753.1:loc:2717:4553:strand:+ -            611   3.7e-39  135.0   0.0   1   2   1.3e-30   1.3e-26   93.8   0.0     3    98    49   145    47   186 0.90 Pyoverdine/dityrosine biosynthesis protein
+DIT1_PvcA            PF05141.15   277 BGC0002733_ORF4:gid:carC:pid:KAF1061753.1:loc:2717:4553:strand:+ -            611   3.7e-39  135.0   0.0   2   2     6e-14   5.9e-10   39.2   0.0   194   271   237   313   226   320 0.90 Pyoverdine/dityrosine biosynthesis protein
+TauD                 PF02668.19   268 BGC0002733_ORF4:gid:carC:pid:KAF1061753.1:loc:2717:4553:strand:+ -            611   1.2e-36  127.0   0.1   1   1   2.8e-40   2.7e-36  125.9   0.1    25   267   367   608   353   609 0.79 Taurine catabolism dioxygenase TauD, TfdA family
+Methyltransf_23      PF13489.9    165 BGC0002733_ORF7:gid::pid:KAF1061756.1:loc:8438:9119:strand:+ -            226   7.4e-09   35.8   0.0   1   1   1.4e-12   9.4e-09   35.4   0.0    21   163    39   174    11   176 0.80 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002733_ORF7:gid::pid:KAF1061756.1:loc:8438:9119:strand:+ -            226   2.8e-08   34.4   0.0   1   1   6.5e-12   4.3e-08   33.8   0.0     1    95    45   134    45   135 0.90 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002733_ORF7:gid::pid:KAF1061756.1:loc:8438:9119:strand:+ -            226   6.3e-07   30.1   0.0   1   1   1.6e-10     1e-06   29.5   0.0     1    97    44   131    44   131 0.85 Methyltransferase domain
+UbiA                 PF01040.21   251 BGC0002733_ORF8:gid::pid:KAF1061757.1:loc:9136:10555:strand:+ -            472   1.5e-18   67.2  28.6   1   1   1.2e-22   2.4e-18   66.5  28.6     8   241   209   446   202   470 0.82 UbiA prenyltransferase family
+FAD_binding_4        PF01565.26   139 BGC0002733_ORF9:gid:dprE1:pid:KAF1061758.1:loc:10551:11934:strand:+ -            460   3.9e-16   59.2   0.1   1   1   5.3e-20     1e-15   57.8   0.1    15   130    30   144    22   150 0.92 FAD binding domain
+adh_short            PF00106.28   195 BGC0002733_ORF10:gid::pid:KAF1061759.1:loc:11930:12671:strand:+ -            246   1.2e-31  109.8   0.1   1   1   2.2e-35   1.5e-31  109.6   0.1     1   190     2   192     2   195 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002733_ORF10:gid::pid:KAF1061759.1:loc:11930:12671:strand:+ -            246   2.3e-21   76.5   3.4   1   1   4.2e-25   2.8e-21   76.3   3.4     1   184     8   194     8   216 0.91 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002733_ORF10:gid::pid:KAF1061759.1:loc:11930:12671:strand:+ -            246   9.6e-06   25.7   2.3   1   1   2.4e-09   1.5e-05   25.1   2.3     2   166     3   168     2   185 0.78 KR domain
+Epimerase            PF01370.24   241 BGC0002733_ORF11:gid:rfbB_1:pid:KAF1061760.1:loc:12667:13603:strand:+ -            311   6.6e-19   68.5   0.0   1   1   2.2e-21   8.5e-18   64.8   0.0     3   240     7   212     5   213 0.85 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0002733_ORF11:gid:rfbB_1:pid:KAF1061760.1:loc:12667:13603:strand:+ -            311   1.8e-11   43.7   0.0   1   1   1.9e-10   7.6e-07   28.5   0.0     4   125     9   127     5   129 0.83 3-beta hydroxysteroid dehydrogenase/isomerase family
+NAD_binding_10       PF13460.9    184 BGC0002733_ORF11:gid:rfbB_1:pid:KAF1061760.1:loc:12667:13603:strand:+ -            311   8.4e-11   42.2   0.0   1   1   3.1e-14   1.2e-10   41.7   0.0     1   144     9   151     9   160 0.80 NAD(P)H-binding
+Amino_oxidase        PF01593.27   452 BGC0002733_ORF12:gid:pds:pid:KAF1061761.1:loc:13613:14909:strand:+ -            431   1.7e-30  106.8   0.0   1   1   4.5e-34   2.2e-30  106.5   0.0     3   380    19   368    19   409 0.77 Flavin containing amine oxidoreductase
+DAO                  PF01266.27   353 BGC0002733_ORF12:gid:pds:pid:KAF1061761.1:loc:13613:14909:strand:+ -            431   4.7e-18   66.0   2.5   1   1   1.4e-21   6.7e-18   65.5   2.5     2   353    10   430     9   430 0.64 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0002733_ORF12:gid:pds:pid:KAF1061761.1:loc:13613:14909:strand:+ -            431   6.9e-12   45.5   1.2   1   1   2.3e-15   1.1e-11   44.9   0.4     1    68    12    77    12    77 0.91 NAD(P)-binding Rossmann-like domain
+GtrA                 PF04138.17   117 BGC0002733_ORF13:gid::pid:KAF1061762.1:loc:14905:15364:strand:+ -            152   2.8e-16   59.9   6.5   1   1   1.7e-20   3.4e-16   59.6   6.5     1   117    31   151    31   151 0.94 GtrA-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002733.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002733.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002733.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:55:02 2023
+# [ok]

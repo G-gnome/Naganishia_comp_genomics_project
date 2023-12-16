@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="387.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="377.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ceaS1 (SCLAV_p1074)
+Carboxyethyl arginine synthase isoenzyme 1</title>
+			<polygon class="ceaS1 (SCLAV_p1074)
+Carboxyethyl arginine synthase isoenzyme 1" points="10,25 34,25 34,10 64,40 34,70 34,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="10" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="28" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="48,28 48,28 60,40 48,52 48,52" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls1 (SCLAV_p1075)
+Beta-lactam synthetase isoenzyme 1</title>
+			<polygon class="bls1 (SCLAV_p1075)
+Beta-lactam synthetase isoenzyme 1" points="65,25 87,25 87,10 117,40 87,70 87,55 65,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="70" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="88,28 101,28 105,32 105,48 101,52 88,52" stroke-linejoin="round" width="17" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="104,31 113,40 113,40 104,49" stroke-linejoin="round" width="9" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pah1 (SCLAV_p1076)
+Proclavaminate amidinohydrolase</title>
+			<polygon class="pah1 (SCLAV_p1076)
+Proclavaminate amidinohydrolase" points="118,25 133,25 133,10 163,40 133,70 133,55 118,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Arginase (PF00491)
+"Arginase family"</title>
+				<polygon class="PF00491" points="131,28 147,28 158,39 158,41 147,52 131,52" stroke-linejoin="round" width="27" height="24" fill="rgb(126,224,107)" stroke="rgb(100,179,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>oat1 (SCLAV_p1077)
+Probable glutamate N-acetyltransferase 1</title>
+			<polygon class="oat1 (SCLAV_p1077)
+Probable glutamate N-acetyltransferase 1" points="215,25 200,25 200,10 170,40 200,70 200,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArgJ (PF01960)
+"ArgJ family"</title>
+				<polygon class="PF01960" points="174,40 186,28 207,28 207,52 186,52" stroke-linejoin="round" width="37" height="24" fill="rgb(81,120,181)" stroke="rgb(64,95,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cvm6P (SCLAV_p1078)
+Putative pyridoxal phosphate-dependent aminotransferase</title>
+			<polygon class="cvm6P (SCLAV_p1078)
+Putative pyridoxal phosphate-dependent aminotransferase" points="280,25 260,25 260,10 230,40 260,70 260,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="234,40 246,28 272,28 272,52 246,52" stroke-linejoin="round" width="41" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cvm7P (SCLAV_p1079)
+Putative transcriptional regulator</title>
+			<polygon class="cvm7P (SCLAV_p1079)
+Putative transcriptional regulator" points="376,25 315,25 315,10 285,40 315,70 315,55 376,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="304" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<rect class="PF03704" x="340" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="355" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

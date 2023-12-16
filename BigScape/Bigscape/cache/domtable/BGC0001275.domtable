@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0001275_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   7.5e-82  274.8   0.0   1   1   5.2e-85   1.5e-81  273.9   0.0     3   253    39   287    38   287 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001275_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791     1e-65  222.5   0.0   1   1   5.9e-69   1.7e-65  221.8   0.0     1   303   571   871   571   886 0.96 Acyl transferase domain
+KR                   PF08659.13   180 BGC0001275_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   5.8e-56  189.3   0.0   1   1   4.3e-59   1.2e-55  188.3   0.0     1   179  1426  1616  1426  1617 0.96 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001275_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   1.1e-38  131.9   1.4   1   1   1.3e-41   3.8e-38  130.3   0.9     1   118   295   410   295   411 0.97 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001275_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   5.9e-12   46.2   0.0   1   1   5.5e-15   1.5e-11   44.9   0.0     2   109   414   530   414   534 0.87 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0001275_ORF1:gid:pks2:pid:AAX35547.1:loc:1063:6614:strand:+ -           1791   7.3e-12   45.6   0.0   1   1   5.5e-15   1.6e-11   44.5   0.0     2    66  1721  1786  1720  1787 0.94 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001275.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001275.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001275.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:21:57 2023
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MaoC_dehydratas      PF01575.22   123 BGC0001487_ORF1:gid:trlA:pid:AWF83805.1:loc:0:480:strand:- -            159   5.6e-19   68.0   0.0   1   1   3.7e-23   7.4e-19   67.7   0.0    15   107    17   110     6   127 0.87 MaoC like domain
+DAHP_synth_2         PF01474.19   437 BGC0001487_ORF2:gid:trlB:pid:AWF83806.1:loc:529:1984:strand:- -            484  1.1e-185  617.5   0.0   1   1  6.3e-190  1.2e-185  617.3   0.0     3   437    16   448    14   448 0.99 Class-II DAHP synthetase family
+HpaB_N               PF11794.11   272 BGC0001487_ORF3:gid:trlC:pid:AWF83807.1:loc:2247:3840:strand:+ -            530   7.7e-82  275.1   0.0   1   1   9.8e-86   9.6e-82  274.8   0.0     1   271    16   280    16   281 0.97 4-hydroxyphenylacetate 3-hydroxylase N terminal
+HpaB                 PF03241.16   202 BGC0001487_ORF3:gid:trlC:pid:AWF83807.1:loc:2247:3840:strand:+ -            530   9.7e-60  201.2   0.0   1   1   1.4e-63   1.3e-59  200.8   0.0     1   201   287   487   287   491 0.97 4-hydroxyphenylacetate 3-hydroxylase C terminal
+Flavin_Reduct        PF01613.21   155 BGC0001487_ORF4:gid:trlD:pid:AWF83808.1:loc:3836:4394:strand:+ -            185   4.2e-22   79.0   0.1   1   1   2.5e-26     5e-22   78.8   0.1     2   154    31   181    30   182 0.84 Flavin reductase like domain
+FAD_binding_3        PF01494.22   349 BGC0001487_ORF5:gid:trlE:pid:AWF83809.1:loc:4438:5641:strand:+ -            400   5.6e-30  104.9   0.7   1   1   1.2e-33     8e-30  104.4   0.7     4   343     8   346     6   351 0.83 FAD binding domain
+Hexapep              PF00132.27    36 BGC0001487_ORF6:gid:trlF:pid:AWF83810.1:loc:5696:6308:strand:+ -            203   4.9e-14   51.5   5.3   1   1   4.9e-11   9.7e-07   28.4   0.2     1    35    89   123    89   124 0.95 Bacterial transferase hexapeptide (six repeats)
+AfsA                 PF03756.16   133 BGC0001487_ORF7:gid:trlG:pid:AWF83811.1:loc:6535:7297:strand:+ -            253   5.2e-17   62.2   2.6   1   1   3.9e-21   7.7e-17   61.6   2.6     3   130    91   221    90   224 0.89 A-factor biosynthesis hotdog domain
+PDT                  PF00800.21   183 BGC0001487_ORF8:gid:trlH:pid:AWF83812.1:loc:7298:8507:strand:+ -            402   2.9e-42  144.7   0.0   1   1   4.4e-46   4.3e-42  144.1   0.0     2   180    25   201    24   204 0.98 Prephenate dehydratase
+CM_2                 PF01817.24    75 BGC0001487_ORF8:gid:trlH:pid:AWF83812.1:loc:7298:8507:strand:+ -            402   3.1e-07   30.8   0.1   1   1   5.4e-11   5.3e-07   30.0   0.1     1    51   329   379   329   397 0.89 Chorismate mutase type II
+TetR_N               PF00440.26    47 BGC0001487_ORF9:gid:trlI:pid:AWF83813.1:loc:8482:9112:strand:+ -            209   9.7e-17   60.6   1.4   1   1   9.3e-21   1.8e-16   59.7   1.4     2    47    30    75    29    75 0.97 Bacterial regulatory proteins, tetR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001487.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001487.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001487.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:40:17 2023
+# [ok]

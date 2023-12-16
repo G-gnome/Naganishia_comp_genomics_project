@@ -1,0 +1,16 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0001887_ORF1:gid::pid:EEM79978.1:loc:1126:2005:strand:+ -            292   1.1e-30  107.0   1.3   1   1   1.1e-33   1.1e-29  103.8   0.1     1   136    20   150    20   151 0.92 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001887_ORF3:gid::pid:EEM79980.1:loc:2706:4317:strand:+ -            536   8.6e-33  114.3  26.8   1   1   1.6e-36   1.6e-32  113.4  26.8     2   271     5   270     3   273 0.96 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0001887_ORF3:gid::pid:EEM79980.1:loc:2706:4317:strand:+ -            536     1e-30  107.2   1.0   1   1     1e-34     1e-30  107.2   1.0     1   137   332   479   332   479 0.87 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001887.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001887.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001887.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:36:48 2023
+# [ok]

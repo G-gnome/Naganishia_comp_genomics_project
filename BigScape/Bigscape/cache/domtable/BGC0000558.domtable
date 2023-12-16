@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IMS                  PF00817.23   151 BGC0000558_ORF1:gid:uvrX:pid:AAC63530.1:loc:856:1855:strand:+ -            332   1.3e-23   83.7   0.0   1   1   2.2e-27   2.2e-23   83.0   0.0     1   150    15   160    15   161 0.89 impB/mucB/samB family
+IMS_HHH              PF11798.11    32 BGC0000558_ORF1:gid:uvrX:pid:AAC63530.1:loc:856:1855:strand:+ -            332     4e-09   36.4   0.0   1   1   9.3e-13   9.1e-09   35.2   0.0     1    32   176   208   176   208 0.98 IMS family HHH motif
+Sublancin            PF19151.3     57 BGC0000558_ORF2:gid:sunA:pid:AAC63531.1:loc:2821:2992:strand:+ -             56   3.6e-36  123.2   7.5   1   1     2e-40   3.9e-36  123.1   7.5     1    57     1    56     1    56 0.99 Sublancin
+ABC_membrane         PF00664.26   274 BGC0000558_ORF3:gid:sunT:pid:AAC63532.1:loc:3043:5167:strand:+ -            707   5.6e-35  121.4  25.9   1   1   1.6e-38   7.8e-35  121.0  25.9     1   273   170   439   170   440 0.96 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 BGC0000558_ORF3:gid:sunT:pid:AAC63532.1:loc:3043:5167:strand:+ -            707   1.4e-33  115.7   0.3   1   1   5.8e-37   2.9e-33  114.6   0.3     2   131     9   143     8   145 0.95 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000558_ORF3:gid:sunT:pid:AAC63532.1:loc:3043:5167:strand:+ -            707     3e-26   92.7   0.0   1   1   1.2e-29   6.1e-26   91.7   0.0     2   135   502   647   501   649 0.89 ABC transporter
+Sigma54_activat      PF00158.29   168 BGC0000558_ORF3:gid:sunT:pid:AAC63532.1:loc:3043:5167:strand:+ -            707   8.9e-05   22.4   0.0   1   1   4.1e-08    0.0002   21.2   0.0     7    50   496   539   491   552 0.84 Sigma-54 interaction domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000558.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000558.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000558.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:29:56 2023
+# [ok]

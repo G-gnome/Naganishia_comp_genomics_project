@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="235.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="225.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>coaA
+CoaA</title>
+			<polygon class="coaA
+CoaA" points="46,10 52,40 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_II (PF01721)
+"Class II bacteriocin"</title>
+				<polygon class="PF01721" points="47,30 49,40 47,50" stroke-linejoin="round" width="3" height="24" fill="rgb(73,187,108)" stroke="rgb(58,149,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>coaB
+CoaB</title>
+			<polygon class="coaB
+CoaB" points="53,10 64,40 53,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EntA_Immun (PF08951)
+"Enterocin A Immunity"</title>
+				<polygon class="PF08951" points="54,28 56,28 61,40 61,40 56,52 54,52" stroke-linejoin="round" width="7" height="24" fill="rgb(192,143,75)" stroke="rgb(153,114,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>coaC
+CoaC</title>
+			<polygon class="coaC
+CoaC" points="65,10 82,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>coaD
+CoaD</title>
+			<polygon class="coaD
+CoaD" points="86,25 128,25 128,10 158,40 128,70 128,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="86" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="103" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="136,28 142,28 151,37 151,43 142,52 136,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mob_pre
+Mob/Pre</title>
+			<polygon class="mob_pre
+Mob/Pre" points="210,25 193,25 193,10 163,40 193,70 193,55 210,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mob_Pre (PF01076)
+"Plasmid recombination enzyme"</title>
+				<rect class="PF01076" x="191" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(51,103,188)" stroke="rgb(40,82,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

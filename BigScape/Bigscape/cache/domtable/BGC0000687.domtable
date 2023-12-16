@@ -1,0 +1,15 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0000687_ORF3:gid::pid::loc:14036:16193:strand:- -            309   8.5e-22   77.6   0.1   1   1   6.9e-25   1.4e-20   73.7   0.0   341   457   171   294   166   300 0.88 Cytochrome P450
+p450                 PF00067.25   463 BGC0000687_ORF6:gid::pid::loc:20250:21829:strand:- -            244   1.7e-18   66.7   0.0   1   1   2.6e-21   5.1e-17   61.9   0.0   229   361   120   241    97   244 0.86 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000687.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000687.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000687.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:30:54 2023
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pyridox_ox_2         PF12900.10   142 BGC0002582_ORF1:gid::pid:QUF98524.1:loc:0:489:strand:+ -            162   4.4e-08   33.4   0.1   1   1   5.7e-12   5.6e-08   33.0   0.1     2   136     7   136     6   139 0.82 Pyridoxamine 5'-phosphate oxidase
+Putative_PNPOx       PF01243.23    88 BGC0002582_ORF1:gid::pid:QUF98524.1:loc:0:489:strand:+ -            162   4.3e-07   30.1   0.0   1   1   8.4e-11   8.3e-07   29.2   0.0     6    86    11    94     6    95 0.92 Pyridoxamine 5'-phosphate oxidase
+AMP-binding          PF00501.31   424 BGC0002582_ORF2:gid::pid:QUF98525.1:loc:547:3772:strand:+ -           1074   8.6e-85  285.0   0.0   1   1   3.5e-88   1.2e-84  284.6   0.0     1   424    37   437    37   437 0.88 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0002582_ORF2:gid::pid:QUF98525.1:loc:547:3772:strand:+ -           1074   3.6e-61  206.7   0.0   1   1   1.7e-64   5.6e-61  206.1   0.0     1   255   667   902   667   904 0.94 Male sterility protein
+Epimerase            PF01370.24   241 BGC0002582_ORF2:gid::pid:QUF98525.1:loc:547:3772:strand:+ -           1074   1.9e-13   50.6   0.0   1   1   9.9e-17   3.2e-13   49.8   0.0     1   231   665   911   665   920 0.81 NAD dependent epimerase/dehydratase family
+AMP-binding_C        PF13193.9     76 BGC0002582_ORF2:gid::pid:QUF98525.1:loc:547:3772:strand:+ -           1074   2.2e-06   28.7   0.0   1   1   2.6e-09   8.4e-06   26.8   0.0     1    76   445   515   445   515 0.87 AMP-binding enzyme C-terminal domain
+3Beta_HSD            PF01073.22   280 BGC0002582_ORF2:gid::pid:QUF98525.1:loc:547:3772:strand:+ -           1074   1.4e-05   24.4   0.0   1   1   9.3e-09     3e-05   23.3   0.0     2   184   667   860   666   935 0.75 3-beta hydroxysteroid dehydrogenase/isomerase family
+p450                 PF00067.25   463 BGC0002582_ORF3:gid::pid:QUF98526.1:loc:3768:5022:strand:+ -            417   3.9e-22   78.8   0.0   1   1   1.4e-21   2.8e-17   62.8   0.1   214   432   203   386   178   388 0.85 Cytochrome P450
+p450                 PF00067.25   463 BGC0002582_ORF4:gid::pid:QUF98527.1:loc:5102:6332:strand:+ -            409   8.5e-21   74.3   0.0   1   1   2.5e-23   4.8e-19   68.6   0.0   204   432   187   378   169   400 0.86 Cytochrome P450
+DLH                  PF01738.21   217 BGC0002582_ORF5:gid::pid:QUF98528.1:loc:6457:7207:strand:+ -            249   1.5e-38  132.7   0.0   1   1   1.7e-42   1.7e-38  132.5   0.0     2   215    16   244    15   246 0.94 Dienelactone hydrolase family
+Abhydrolase_6        PF12697.10   220 BGC0002582_ORF5:gid::pid:QUF98528.1:loc:6457:7207:strand:+ -            249   4.4e-07   30.8   5.0   1   1   5.9e-11   5.8e-07   30.5   5.0     5   169    54   240    35   248 0.53 Alpha/beta hydrolase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002582.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002582.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002582.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:02:29 2023
+# [ok]

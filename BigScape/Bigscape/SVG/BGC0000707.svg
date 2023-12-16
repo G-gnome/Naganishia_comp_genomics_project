@@ -1,0 +1,79 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="272.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="262.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>kasA
+deduced glucosyltransferase</title>
+			<polygon class="kasA
+deduced glucosyltransferase" points="10,10 35,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="15,28 21,28 31,40 21,52 15,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_B</title>
+			<polygon class="ORF_B" points="48,10 73,40 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kasC
+deduced aminotransferase</title>
+			<polygon class="kasC
+deduced aminotransferase" points="74,25 87,25 87,10 117,40 87,70 87,55 74,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="74,28 101,28 113,40 101,52 74,52" stroke-linejoin="round" width="41" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kasD
+deduced dNDP-hexose 4,6-dehydratase</title>
+			<polygon class="kasD
+deduced dNDP-hexose 4,6-dehydratase" points="118,25 121,25 121,10 151,40 121,70 121,55 118,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="119,28 134,28 146,40 134,52 119,52" stroke-linejoin="round" width="29" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_E</title>
+			<polygon class="ORF_E" points="151,10 177,40 151,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ORF_F</title>
+			<polygon class="ORF_F" points="177,10 200,40 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FR47 (PF08445)
+"FR47-like protein"</title>
+				<polygon class="PF08445" points="192,34 197,40 192,46" stroke-linejoin="round" width="8" height="24" fill="rgb(215,89,80)" stroke="rgb(172,71,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_G</title>
+			<polygon class="ORF_G" points="201,40 213,10 213,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kac338
+Kasugamycin acetyltransferase</title>
+			<polygon class="kac338
+Kasugamycin acetyltransferase" points="220,10 234,40 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="222,28 225,28 230,40 225,52 222,52" stroke-linejoin="round" width="10" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ORF_I</title>
+			<polygon class="ORF_I" points="246,10 253,40 246,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="246,28 247,28 250,40 247,52 246,52" stroke-linejoin="round" width="5" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

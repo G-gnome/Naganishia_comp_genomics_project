@@ -1,0 +1,16 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 BGC0001924_ORF1:gid:ascJ:pid:BBF25320.1:loc:618:1605:strand:- -            296   3.6e-29  101.7   0.0   1   1   5.9e-33   5.8e-29  101.1   0.0     1   187    17   208    17   213 0.86 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001924_ORF1:gid:ascJ:pid:BBF25320.1:loc:618:1605:strand:- -            296   5.5e-22   78.6   0.0   1   1   2.6e-25   2.5e-21   76.4   0.0     3   229    25   246    23   250 0.78 Enoyl-(Acyl carrier protein) reductase
+p450                 PF00067.25   463 BGC0001924_ORF3:gid:ascH:pid:BBF25322.1:loc:3611:5310:strand:+ -            512   3.7e-55  187.6   0.0   1   1   2.3e-59   4.5e-55  187.4   0.0    11   447    69   492    60   508 0.80 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001924.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001924.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001924.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:08:16 2023
+# [ok]

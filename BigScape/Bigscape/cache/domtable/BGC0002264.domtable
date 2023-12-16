@@ -1,0 +1,36 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lyase_aromatic       PF00221.22   463 BGC0002264_ORF1:gid::pid:KAF7597138.1:loc:0:2221:strand:- -            700    2e-159  531.3   7.8   1   1  1.4e-163  2.7e-159  530.9   7.8     1   446    37   503    37   518 0.98 Aromatic amino acid lyase
+AMP-binding          PF00501.31   424 BGC0002264_ORF2:gid::pid:KAF7597139.1:loc:2840:6758:strand:+ -           1305   6.5e-62  209.6   0.0   1   1   1.4e-65   8.9e-62  209.2   0.0     4   418   260   650   257   656 0.83 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002264_ORF2:gid::pid:KAF7597139.1:loc:2840:6758:strand:+ -           1305   2.8e-35  122.0   0.0   1   1   1.1e-32   7.1e-29  100.9   0.0     2   445   900  1301   899  1304 0.87 Condensation domain
+PP-binding           PF00550.28    67 BGC0002264_ORF2:gid::pid:KAF7597139.1:loc:2840:6758:strand:+ -           1305   4.6e-11   43.0   0.2   1   1   2.1e-14   1.4e-10   41.4   0.2     3    65   797   858   795   860 0.96 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002264_ORF3:gid::pid:KAF7597140.1:loc:8904:11967:strand:- -           1020     8e-70  235.7   0.0   1   1   2.2e-73   1.1e-69  235.3   0.0     3   424    20   419    18   419 0.87 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0002264_ORF3:gid::pid:KAF7597140.1:loc:8904:11967:strand:- -           1020   1.7e-53  181.5   0.0   1   1   5.8e-57   2.8e-53  180.8   0.0     1   257   652   895   652   895 0.91 Male sterility protein
+PP-binding           PF00550.28    67 BGC0002264_ORF3:gid::pid:KAF7597140.1:loc:8904:11967:strand:- -           1020   5.9e-13   49.1   0.1   1   1   2.6e-16   1.3e-12   48.0   0.1     2    65   539   602   538   604 0.96 Phosphopantetheine attachment site
+3Beta_HSD            PF01073.22   280 BGC0002264_ORF3:gid::pid:KAF7597140.1:loc:8904:11967:strand:- -           1020     2e-05   23.9   0.0   1   1     1e-08   4.9e-05   22.6   0.0     2   156   652   828   651   832 0.74 3-beta hydroxysteroid dehydrogenase/isomerase family
+NmrA                 PF05368.16   233 BGC0002264_ORF4:gid::pid:KAF7597141.1:loc:12968:14153:strand:+ -            335   1.1e-39  136.5   0.0   1   1   1.6e-43   1.5e-39  136.0   0.0     1   232     8   255     8   256 0.90 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0002264_ORF4:gid::pid:KAF7597141.1:loc:12968:14153:strand:+ -            335   2.8e-13   50.3   0.0   1   1     4e-17   3.9e-13   49.8   0.0     1   112    12   132    12   155 0.80 NAD(P)H-binding
+Methyltransf_3       PF01596.20   204 BGC0002264_ORF5:gid::pid:KAF7597142.1:loc:14827:15687:strand:- -            252   2.2e-19   69.7   0.0   1   1   1.5e-21   6.1e-18   65.0   0.0     4   199    25   247    22   251 0.78 O-methyltransferase
+Methyltransf_24      PF13578.9    107 BGC0002264_ORF5:gid::pid:KAF7597142.1:loc:14827:15687:strand:- -            252   1.1e-13   52.3   0.0   1   1   5.3e-17   2.1e-13   51.4   0.0     1   106    72   175    72   176 0.92 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002264_ORF5:gid::pid:KAF7597142.1:loc:14827:15687:strand:- -            252     3e-08   33.7   0.0   1   1   1.8e-11     7e-08   32.5   0.0     6    83    70   148    66   215 0.84 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002264_ORF5:gid::pid:KAF7597142.1:loc:14827:15687:strand:- -            252   2.6e-07   31.4   0.0   1   1   1.1e-10   4.4e-07   30.6   0.0     1    70    71   145    71   161 0.90 Methyltransferase domain
+Rsm22                PF09243.13   287 BGC0002264_ORF5:gid::pid:KAF7597142.1:loc:14827:15687:strand:- -            252   3.4e-06   26.5   0.0   1   1   1.1e-09   4.3e-06   26.2   0.0    34   147    67   177    56   215 0.87 Mitochondrial small ribosomal subunit Rsm22
+FAD_binding_3        PF01494.22   349 BGC0002264_ORF6:gid::pid:KAF7597143.1:loc:17289:19182:strand:+ -            533   1.8e-55  188.8   0.0   1   1   2.2e-59   2.2e-55  188.5   0.0    50   348     1   318     1   319 0.84 FAD binding domain
+Phe_hydrox_dim       PF07976.15   167 BGC0002264_ORF6:gid::pid:KAF7597143.1:loc:17289:19182:strand:+ -            533   4.5e-19   69.2   0.0   1   1   9.6e-23   9.4e-19   68.2   0.0     3   165   349   494   347   496 0.86 Phenol hydroxylase, C-terminal dimerisation domain
+Tyrosinase           PF00264.23   222 BGC0002264_ORF7:gid::pid:KAF7597144.1:loc:20545:21514:strand:+ -            286   2.6e-50  171.9   2.7   1   1   1.6e-54   3.1e-50  171.7   2.7     5   221     2   227     1   228 0.96 Common central domain of tyrosinase
+p450                 PF00067.25   463 BGC0002264_ORF8:gid::pid:KAF7597145.1:loc:22440:24446:strand:+ -            512   3.1e-60  204.4   0.0   1   1     2e-64   3.9e-60  204.1   0.0    21   457    72   500    59   506 0.84 Cytochrome P450
+PhyH                 PF05721.16   211 BGC0002264_ORF9:gid::pid:KAF7597146.1:loc:24794:25712:strand:- -            305   4.9e-25   89.2   0.1   1   1   4.7e-29   9.2e-25   88.3   0.1     1   211    27   230    27   230 0.80 Phytanoyl-CoA dioxygenase (PhyH)
+Transferase          PF02458.18   434 BGC0002264_ORF10:gid::pid:KAF7597147.1:loc:26339:27794:strand:+ -            484   8.6e-23   80.8   0.0   1   1   7.1e-27   1.4e-22   80.1   0.0   120   430   128   458   115   461 0.80 Transferase family
+CDH-cyt              PF16010.8    182 BGC0002264_ORF11:gid::pid:KAF7597148.1:loc:28491:29764:strand:+ -            402   2.5e-26   92.6   0.3   1   1     2e-30     4e-26   92.0   0.3    17   177    26   182    11   187 0.91 Cytochrome domain of cellobiose dehydrogenase
+PhyH                 PF05721.16   211 BGC0002264_ORF12:gid::pid:KAF7597149.1:loc:31011:31488:strand:+ -            158   8.3e-12   45.9   0.0   1   1   5.9e-16   1.2e-11   45.5   0.0   123   210    18    87     5    88 0.86 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002264.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002264.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002264.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:20:28 2023
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Robl_LC7             PF03259.20    91 BGC0001911_ORF2:gid:cvnB:pid:BAR97456.1:loc:1988:2408:strand:+ -            139   3.9e-12   45.9   1.6   1   1     4e-16   7.9e-12   44.9   1.6     9    88    16   100    12   102 0.90 Roadblock/LC7 domain
+DUF742               PF05331.14   114 BGC0001911_ORF3:gid:cvnC:pid:BAR97457.1:loc:2404:2785:strand:+ -            126   2.3e-13   50.1   0.8   1   1   1.3e-17   2.6e-13   49.9   0.8    21   114    25   123     5   123 0.85 Protein of unknown function (DUF742)
+ATP_bind_1           PF03029.20   241 BGC0001911_ORF4:gid:cvnD:pid:BAR97458.1:loc:2756:3377:strand:+ -            206   1.8e-16   60.8   0.0   1   1   1.3e-18   2.6e-14   53.7   0.0     1   170    28   156    28   200 0.80 Conserved hypothetical ATP binding protein
+polyprenyl_synt      PF00348.20   256 BGC0001911_ORF6:gid:rmnA:pid:BAR97460.1:loc:4831:5914:strand:+ -            360   3.6e-54  183.7   0.0   1   1   2.5e-58     5e-54  183.2   0.0     4   252    43   307    41   311 0.91 Polyprenyl synthetase
+SQHop_cyclase_C      PF13243.9    319 BGC0001911_ORF7:gid:rmnB:pid:BAR97461.1:loc:5910:7560:strand:+ -            549     4e-12   45.9   0.4   1   1   2.6e-13   2.5e-09   36.7   0.6   143   238   368   469   351   502 0.79 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.24    44 BGC0001911_ORF7:gid:rmnB:pid:BAR97461.1:loc:5910:7560:strand:+ -            549   5.2e-12   45.4   0.1   1   3   5.7e-07    0.0056   16.5   0.0     8    40    71   106    70   107 0.84 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0001911_ORF7:gid:rmnB:pid:BAR97461.1:loc:5910:7560:strand:+ -            549   5.2e-12   45.4   0.1   2   3   1.7e-06     0.017   15.0   0.0     3    26   392   415   390   426 0.84 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0001911_ORF7:gid:rmnB:pid:BAR97461.1:loc:5910:7560:strand:+ -            549   5.2e-12   45.4   0.1   3   3   7.7e-05      0.76    9.7   0.0     3    21   440   458   438   462 0.94 Prenyltransferase and squalene oxidase repeat
+p450                 PF00067.25   463 BGC0001911_ORF8:gid:rmnC:pid:BAR97462.1:loc:7569:8928:strand:+ -            452   9.9e-74  248.9   0.0   1   1     6e-78   1.2e-73  248.6   0.0     4   440    12   421     8   439 0.90 Cytochrome P450
+Terpene_syn_C_2      PF19086.3    199 BGC0001911_ORF9:gid:rmnD:pid:BAR97463.1:loc:8924:9893:strand:+ -            322   1.3e-33  116.6   0.0   1   1   9.9e-38     2e-33  116.1   0.0     1   196    84   279    84   281 0.95 Terpene synthase family 2, C-terminal metal binding
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001911.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001911.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001911.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:36:30 2023
+# [ok]

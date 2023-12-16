@@ -1,0 +1,16 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0001888_ORF2:gid::pid:KIS69144.1:loc:2325:4185:strand:- -            619   4.8e-36  124.5  56.1   1   1   6.2e-40   6.1e-36  124.2  54.4     1   352    93   494    93   495 0.92 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001888_ORF2:gid::pid:KIS69144.1:loc:2325:4185:strand:- -            619   9.5e-14   51.2   5.6   1   1   9.7e-18   9.5e-14   51.2   5.6    43   188    94   258    25   264 0.81 Sugar (and other) transporter
+Tri3                 PF07428.14   413 BGC0001888_ORF3:gid::pid:KIS69145.1:loc:6955:8731:strand:- -            591   4.8e-06   25.7   0.1   1   1   5.5e-10   1.1e-05   24.5   0.1     7   144    36   175    32   226 0.80 15-O-acetyltransferase Tri3
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001888.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001888.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001888.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:11:25 2023
+# [ok]

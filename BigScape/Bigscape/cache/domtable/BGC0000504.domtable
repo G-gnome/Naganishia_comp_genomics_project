@@ -1,0 +1,21 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Mersacidin           PF16934.8     68 BGC0000504_ORF1:gid:clyLl:pid:AAA62648.1:loc:606:813:strand:+ -             68   3.4e-23   81.3   3.6   1   1   1.9e-27   3.8e-23   81.2   3.6    13    68     8    66     2    66 0.95 Two-component Enterococcus faecalis cytolysin (EFC)
+Mersacidin           PF16934.8     68 BGC0000504_ORF2:gid:clyLs:pid:AAA62649.1:loc:846:1038:strand:+ -             63   7.5e-23   80.2   0.2   1   1     1e-26     2e-22   78.8   0.2     1    67     8    60     8    61 0.92 Two-component Enterococcus faecalis cytolysin (EFC)
+DUF4135              PF13575.9    377 BGC0000504_ORF3:gid:clyM:pid:AAA62650.1:loc:1098:4080:strand:+ -            993   6.1e-96  322.0   2.1   1   1  8.1e-100     8e-96  321.7   2.1     1   375   200   568   200   570 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000504_ORF3:gid:clyM:pid:AAA62650.1:loc:1098:4080:strand:+ -            993   7.3e-52  176.2   5.8   1   1   2.6e-55   2.6e-51  174.4   5.8     2   351   689   989   688   991 0.94 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.18   133 BGC0000504_ORF4:gid:clyB:pid:AAA62651.1:loc:4091:6236:strand:+ -            714   3.3e-41  140.3   0.1   1   1   1.3e-44   6.2e-41  139.5   0.1     2   132     4   132     3   133 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000504_ORF4:gid:clyB:pid:AAA62651.1:loc:4091:6236:strand:+ -            714   1.4e-34  119.7   0.1   1   1   5.8e-38   2.9e-34  118.7   0.1     1   137   488   639   488   639 0.89 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000504_ORF4:gid:clyB:pid:AAA62651.1:loc:4091:6236:strand:+ -            714   5.7e-22   78.8  31.1   1   1   1.8e-25     9e-22   78.1  31.1     4   273   159   424   156   425 0.97 ABC transporter transmembrane region
+Peptidase_S8         PF00082.25   284 BGC0000504_ORF5:gid:clyA:pid:AAA62652.1:loc:6232:7471:strand:+ -            412   1.3e-38  133.0   3.3   1   1     1e-42     2e-38  132.4   3.3     1   269   133   394   133   407 0.85 Subtilase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000504.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000504.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000504.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:29:28 2023
+# [ok]

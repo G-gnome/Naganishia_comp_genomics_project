@@ -1,0 +1,30 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Chorismate_bind      PF00425.21   256 BGC0001444_ORF1:gid::pid:KDQ70105.1:loc:3281:4652:strand:+ -            456   4.9e-68  229.6   0.0   1   1   3.2e-72   6.2e-68  229.3   0.0     3   256   175   428   173   428 0.99 chorismate binding enzyme
+ACP_syn_III_C        PF08541.13    90 BGC0001444_ORF2:gid::pid:KDQ70106.1:loc:4648:5704:strand:+ -            351   3.5e-11   43.2   0.0   1   1   7.1e-15     7e-11   42.3   0.0     1    90   246   337   246   337 0.98 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0001444_ORF2:gid::pid:KDQ70106.1:loc:4648:5704:strand:+ -            351   1.6e-08   34.4   0.1   1   1   4.4e-12   4.3e-08   33.0   0.1     2    72   108   179   107   186 0.88 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+AMP-binding          PF00501.31   424 BGC0001444_ORF3:gid::pid:KDQ70107.1:loc:5696:7370:strand:+ -            557   1.7e-80  270.9   0.0   1   1   2.1e-84   2.1e-80  270.6   0.0     3   423    33   445    31   446 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001444_ORF3:gid::pid:KDQ70107.1:loc:5696:7370:strand:+ -            557   3.3e-17   63.4   0.7   1   1   5.1e-20     5e-16   59.6   0.1     1    76   454   529   454   529 0.93 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001444_ORF4:gid::pid:KDQ70108.1:loc:7366:7744:strand:+ -            125   6.6e-09   36.1   0.0   1   1   4.2e-13   8.3e-09   35.8   0.0     2    66    48   111    47   112 0.95 Phosphopantetheine attachment site
+Amidohydro_1         PF01979.23   348 BGC0001444_ORF5:gid::pid:KDQ70109.1:loc:7740:9300:strand:+ -            519   1.5e-38  133.1   0.0   1   1     2e-42     2e-38  132.7   0.0     1   347    81   462    81   463 0.87 Amidohydrolase family
+Amidohydro_3         PF07969.14   473 BGC0001444_ORF5:gid::pid:KDQ70109.1:loc:7740:9300:strand:+ -            519     3e-15   56.8   7.8   1   1   1.1e-15   1.1e-11   45.1   4.0   236   446   226   428   121   464 0.71 Amidohydrolase family
+DAHP_synth_2         PF01474.19   437 BGC0001444_ORF6:gid::pid:KDQ70110.1:loc:9367:10600:strand:+ -            410  7.7e-123  410.4   0.0   1   2   2.5e-49   4.9e-45  154.0   0.0     3   170    22   189    20   195 0.97 Class-II DAHP synthetase family
+DAHP_synth_2         PF01474.19   437 BGC0001444_ORF6:gid::pid:KDQ70110.1:loc:9367:10600:strand:+ -            410  7.7e-123  410.4   0.0   2   2   5.8e-80   1.1e-75  254.9   0.0   224   430   195   399   187   404 0.97 Class-II DAHP synthetase family
+adh_short            PF00106.28   195 BGC0001444_ORF7:gid::pid:KDQ70111.1:loc:10629:11400:strand:+ -            256   4.2e-59  199.4   3.0   1   1     1e-62   4.9e-59  199.2   3.0     2   192     5   195     4   198 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001444_ORF7:gid::pid:KDQ70111.1:loc:10629:11400:strand:+ -            256   1.3e-58  198.5   9.6   1   1   3.3e-62   1.6e-58  198.2   9.6     1   234    10   253    10   253 0.91 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0001444_ORF7:gid::pid:KDQ70111.1:loc:10629:11400:strand:+ -            256   6.4e-18   65.4   3.1   1   1     2e-21   9.7e-18   64.8   3.0     4   156     7   159     4   181 0.90 KR domain
+Epimerase            PF01370.24   241 BGC0001444_ORF7:gid::pid:KDQ70111.1:loc:10629:11400:strand:+ -            256   1.1e-07   31.7   1.0   1   1     8e-11   3.9e-07   29.9   1.0     2   231     7   239     6   248 0.73 NAD dependent epimerase/dehydratase family
+Isochorismatase      PF00857.23   175 BGC0001444_ORF8:gid::pid:KDQ70112.1:loc:11424:12075:strand:+ -            216   1.8e-36  126.1   0.0   1   1   1.1e-40   2.2e-36  125.8   0.0     2   173    32   203    31   205 0.97 Isochorismatase family
+Chorismate_bind      PF00425.21   256 BGC0001444_ORF9:gid::pid:KDQ70113.1:loc:12071:14045:strand:+ -            657   2.1e-43  148.9   0.0   1   1   2.7e-47   2.6e-43  148.6   0.0     4   256   132   389   129   389 0.90 chorismate binding enzyme
+GATase               PF00117.31   191 BGC0001444_ORF9:gid::pid:KDQ70113.1:loc:12071:14045:strand:+ -            657   1.2e-20   74.2   0.0   1   1   3.5e-24   3.4e-20   72.7   0.0     2   187   462   641   461   644 0.86 Glutamine amidotransferase class-I
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001444.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001444.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001444.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:10:39 2023
+# [ok]

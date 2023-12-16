@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="179.63333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="169.63333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (KPK_0106)
+conserved hypothetical protein</title>
+			<polygon class=" (KPK_0106)
+conserved hypothetical protein" points="10,25 36,25 36,10 66,40 36,70 36,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransf_2 (PF19576)
+"Acyltransferase"</title>
+				<rect class="PF19576" x="11" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(152,200,92)" stroke="rgb(121,160,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acetyltransf_5 (PF13444)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13444" points="42,28 50,28 52,30 52,50 50,52 42,52" stroke-linejoin="round" width="10" height="24" fill="rgb(226,151,71)" stroke="rgb(180,120,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (KPK_0107)
+putative lipoprotein</title>
+			<polygon class=" (KPK_0107)
+putative lipoprotein" points="69,25 71,25 71,10 101,40 71,70 71,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="88,32 96,40 88,48" stroke-linejoin="round" width="11" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (KPK_0108)
+ABC transporter, ATP-binding protein</title>
+			<polygon class=" (KPK_0108)
+ABC transporter, ATP-binding protein" points="101,25 101,25 101,10 131,40 101,70 101,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="103,28 115,28 117,30 117,50 115,52 103,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (KPK_0109)
+ABC transporter, permease protein</title>
+			<polygon class=" (KPK_0109)
+ABC transporter, permease protein" points="131,25 139,25 139,10 169,40 139,70 139,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_3 (PF12698)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12698" points="133,28 152,28 164,40 152,52 133,52" stroke-linejoin="round" width="34" height="24" fill="rgb(151,189,55)" stroke="rgb(120,151,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

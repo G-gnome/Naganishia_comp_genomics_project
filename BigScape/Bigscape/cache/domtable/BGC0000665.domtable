@@ -1,0 +1,37 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LYTB                 PF02401.21   265 BGC0000665_ORF1:gid:xiaA:pid:CCH63727.1:loc:0:1002:strand:+ -            333   1.8e-86  289.9   0.0   1   1     1e-90     2e-86  289.7   0.0     1   264    18   294    18   295 0.96 LytB protein
+DXP_synthase_N       PF13292.9    273 BGC0000665_ORF2:gid:xiaB:pid:CCH63728.1:loc:1014:2832:strand:+ -            605   4.5e-95  318.1   0.1   1   2   1.8e-86     9e-83  277.8   0.0     2   192     7   198     6   202 0.97 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.9    273 BGC0000665_ORF2:gid:xiaB:pid:CCH63728.1:loc:1014:2832:strand:+ -            605   4.5e-95  318.1   0.1   2   2   1.7e-13   8.2e-10   38.5   0.0   232   273   204   245   198   245 0.95 1-deoxy-D-xylulose-5-phosphate synthase
+Transket_pyr         PF02779.27   178 BGC0000665_ORF2:gid:xiaB:pid:CCH63728.1:loc:1014:2832:strand:+ -            605   6.4e-40  136.9   0.2   1   1   3.5e-43   1.7e-39  135.4   0.0     3   173   281   441   279   444 0.97 Transketolase, pyrimidine binding domain
+Transketolase_C      PF02780.23   124 BGC0000665_ORF2:gid:xiaB:pid:CCH63728.1:loc:1014:2832:strand:+ -            605   8.9e-25   87.1   0.2   1   1   4.7e-28   2.3e-24   85.8   0.1    11   124   468   578   460   578 0.97 Transketolase, C-terminal domain
+TPP_enzyme_C         PF02775.24   153 BGC0000665_ORF2:gid:xiaB:pid:CCH63728.1:loc:1014:2832:strand:+ -            605     3e-06   27.2   0.4   1   1   1.8e-08   8.9e-05   22.4   0.3    29   153   121   243   102   243 0.67 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+GcpE                 PF04551.17   352 BGC0000665_ORF3:gid:xiaC:pid:CCH63729.1:loc:2828:3980:strand:+ -            383  1.2e-134  449.1   0.1   1   1  7.3e-139  1.4e-134  448.8   0.1     1   349    22   362    22   364 0.99 GcpE protein
+GerE                 PF00196.22    57 BGC0000665_ORF4:gid:xiaD:pid:CCH63730.1:loc:4411:5134:strand:+ -            240   1.5e-12   47.0   0.0   1   1   1.3e-16   2.5e-12   46.3   0.0     3    57   180   234   178   234 0.97 Bacterial regulatory proteins, luxR family
+Acyl-CoA_dh_2        PF08028.14   134 BGC0000665_ORF6:gid:xiaF:pid:CCH63732.1:loc:5945:7145:strand:- -            399   1.3e-20   74.1   7.6   1   1   1.3e-24   2.5e-20   73.2   7.6     2   133   245   377   244   378 0.97 Acyl-CoA dehydrogenase, C-terminal domain
+LEH                  PF07858.15   125 BGC0000665_ORF7:gid:xiaG:pid:CCH63733.1:loc:7141:7531:strand:- -            129   4.3e-21   75.4   0.0   1   1   4.9e-25   4.8e-21   75.3   0.0     5   120     8   123     4   128 0.88 Limonene-1,2-epoxide hydrolase catalytic domain
+SnoaL_2              PF12680.10   102 BGC0000665_ORF7:gid:xiaG:pid:CCH63733.1:loc:7141:7531:strand:- -            129   2.7e-10   40.9   0.2   1   1   3.4e-14   3.3e-10   40.6   0.2    15   102    27   113     7   113 0.85 SnoaL-like domain
+FAD_binding_3        PF01494.22   349 BGC0000665_ORF8:gid:xiaH:pid:CCH63734.1:loc:7533:9327:strand:- -            597   1.3e-88  297.8   0.1   1   1   1.6e-92   1.6e-88  297.4   0.1     1   347     6   372     6   374 0.89 FAD binding domain
+Fer4_13              PF13370.9     58 BGC0000665_ORF9:gid:xiaI:pid:CCH63735.1:loc:9323:9557:strand:- -             77   1.6e-13   51.0   0.6   1   1   1.9e-17   1.9e-13   50.8   0.6     1    56     5    60     5    62 0.97 4Fe-4S single cluster domain of Ferredoxin I
+Fer4_15              PF13459.9     66 BGC0000665_ORF9:gid:xiaI:pid:CCH63735.1:loc:9323:9557:strand:- -             77   1.7e-07   32.0   2.8   1   1   2.7e-11   2.7e-07   31.3   2.8     1    65     3    61     3    62 0.88 4Fe-4S single cluster domain
+p450                 PF00067.25   463 BGC0000665_ORF10:gid:xiaJ:pid:CCH63736.1:loc:9582:10752:strand:- -            389   2.1e-30  106.0   0.0   1   2   3.1e-15     6e-11   41.9   0.3   246   373   201   308   158   310 0.80 Cytochrome P450
+p450                 PF00067.25   463 BGC0000665_ORF10:gid:xiaJ:pid:CCH63736.1:loc:9582:10752:strand:- -            389   2.1e-30  106.0   0.0   2   2   2.6e-13   5.2e-09   35.5   0.0   397   433   323   359   315   379 0.91 Cytochrome P450
+polyprenyl_synt      PF00348.20   256 BGC0000665_ORF11:gid:xiaK:pid:CCH63737.1:loc:10905:12036:strand:- -            376   2.7e-51  174.2   0.0   1   1   1.8e-55   3.6e-51  173.8   0.0    15   242    93   313    89   367 0.93 Polyprenyl synthetase
+Trp_dioxygenase      PF03301.16   346 BGC0000665_ORF12:gid:xiaL:pid:CCH63738.1:loc:12058:14227:strand:- -            722   8.7e-23   81.3   0.0   1   1   9.7e-19   4.8e-15   55.9   0.0    16   135     5   119     1   129 0.89 Tryptophan 2,3-dioxygenase
+FAD_binding_3        PF01494.22   349 BGC0000665_ORF12:gid:xiaL:pid:CCH63738.1:loc:12058:14227:strand:- -            722   5.7e-11   42.4   0.8   1   1   6.6e-14   3.2e-10   39.9   0.8     4   319   278   614   276   639 0.68 FAD binding domain
+polyprenyl_synt      PF00348.20   256 BGC0000665_ORF13:gid:xiaM:pid:CCH63739.1:loc:14255:15263:strand:- -            335   4.7e-39  134.1   0.0   1   1   2.9e-43   5.7e-39  133.9   0.0     4   241    39   273    36   288 0.91 Polyprenyl synthetase
+GerE                 PF00196.22    57 BGC0000665_ORF14:gid:xiaN:pid:CCH63740.1:loc:15357:18309:strand:- -            983   2.4e-11   43.2   0.1   1   1   3.9e-15   3.8e-11   42.5   0.1     3    55   919   971   917   973 0.94 Bacterial regulatory proteins, luxR family
+AAA_16               PF13191.9    170 BGC0000665_ORF14:gid:xiaN:pid:CCH63740.1:loc:15357:18309:strand:- -            983   1.4e-10   41.9   4.5   1   1   1.5e-14   1.5e-10   41.8   1.4     3   155     9   154     7   174 0.75 AAA ATPase domain
+AAA_16               PF13191.9    170 BGC0000665_ORF15:gid:xiaO:pid:CCH63741.1:loc:18481:21259:strand:+ -            925   5.6e-16   59.5   1.0   1   1   5.7e-20   5.6e-16   59.5   1.0     2   170    18   167    17   167 0.77 AAA ATPase domain
+GerE                 PF00196.22    57 BGC0000665_ORF15:gid:xiaO:pid:CCH63741.1:loc:18481:21259:strand:+ -            925   6.3e-07   29.0   0.0   1   1   1.6e-10   1.6e-06   27.7   0.0     7    55   868   916   865   918 0.93 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000665.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000665.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000665.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:19:34 2023
+# [ok]

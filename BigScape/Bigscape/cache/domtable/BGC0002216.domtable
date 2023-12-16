@@ -1,0 +1,27 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EF1_GNE              PF00736.22    90 BGC0002216_ORF1:gid::pid:EHK18381.1:loc:305:1407:strand:+ -            227   1.3e-31  108.7   1.5   1   1   2.2e-35   2.2e-31  108.0   1.5     2    90   144   227   143   227 0.98 EF-1 guanine nucleotide exchange domain
+EF-1_beta_acid       PF10587.12    28 BGC0002216_ORF1:gid::pid:EHK18381.1:loc:305:1407:strand:+ -            227   4.9e-15   55.7   8.7   1   1   1.8e-18   1.8e-14   53.9   8.7     1    28   105   132   105   132 0.99 Eukaryotic elongation factor 1 beta central acidic region
+FAD_binding_4        PF01565.26   139 BGC0002216_ORF2:gid::pid:EHK18382.1:loc:2958:4793:strand:- -            565   4.5e-20   71.9   2.6   1   1   1.1e-23   1.1e-19   70.7   2.6     3   136   121   259   119   262 0.91 FAD binding domain
+BBE                  PF08031.15    46 BGC0002216_ORF2:gid::pid:EHK18382.1:loc:2958:4793:strand:- -            565   7.1e-10   39.0   1.2   1   1   1.3e-13   1.3e-09   38.1   0.6     1    40   504   542   504   547 0.96 Berberine and berberine like
+UbiA                 PF01040.21   251 BGC0002216_ORF3:gid::pid:EHK18383.1:loc:6761:7676:strand:- -            304   4.2e-26   91.9   2.5   1   1   2.9e-30   5.7e-26   91.5   2.5     3   250    45   290    43   297 0.86 UbiA prenyltransferase family
+GMC_oxred_N          PF00732.22   296 BGC0002216_ORF4:gid::pid:EHK18384.1:loc:9426:11275:strand:- -            593   1.9e-56  191.8   0.1   1   1   4.8e-60   2.4e-56  191.4   0.1     1   295     4   298     4   299 0.89 GMC oxidoreductase
+GMC_oxred_C          PF05199.16   145 BGC0002216_ORF4:gid::pid:EHK18384.1:loc:9426:11275:strand:- -            593   1.2e-32  113.5   0.0   1   1   6.8e-36   3.4e-32  112.1   0.0     1   145   438   585   438   585 0.88 GMC oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0002216_ORF4:gid::pid:EHK18384.1:loc:9426:11275:strand:- -            593   6.7e-08   32.8   0.0   1   1     4e-11     2e-07   31.3   0.0     1    39     8    47     8    73 0.87 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.27   417 BGC0002216_ORF4:gid::pid:EHK18384.1:loc:9426:11275:strand:- -            593     2e-06   27.3   0.0   1   1   2.7e-08   0.00013   21.3   0.0     1    38     5    43     5    74 0.79 FAD binding domain
+p450                 PF00067.25   463 BGC0002216_ORF5:gid::pid:EHK18385.1:loc:12715:14643:strand:+ -            555   3.1e-55  187.9   0.0   1   1     2e-59   3.9e-55  187.5   0.0    14   459   114   544   103   548 0.84 Cytochrome P450
+adh_short            PF00106.28   195 BGC0002216_ORF6:gid::pid:EHK18386.1:loc:14895:16184:strand:- -            287   1.8e-25   89.7   4.8   1   1   4.6e-29   2.3e-25   89.4   4.8     1   192    33   221    33   224 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002216_ORF6:gid::pid:EHK18386.1:loc:14895:16184:strand:- -            287   5.8e-18   65.4   5.8   1   1   2.5e-21   1.2e-17   64.4   5.8     1   227    39   254    39   257 0.84 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002216_ORF6:gid::pid:EHK18386.1:loc:14895:16184:strand:- -            287   4.1e-07   30.2   0.4   1   1   1.2e-10   6.1e-07   29.6   0.4     2   116    34   141    33   197 0.74 KR domain
+Polysacc_synt_2      PF02719.18   294 BGC0002216_ORF6:gid::pid:EHK18386.1:loc:14895:16184:strand:- -            287   1.4e-06   27.8   0.3   1   1   3.5e-10   1.7e-06   27.5   0.3     1   151    35   188    35   205 0.79 Polysaccharide biosynthesis protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002216.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002216.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002216.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:05:23 2023
+# [ok]

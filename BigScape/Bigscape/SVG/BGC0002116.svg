@@ -1,0 +1,50 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="226.26666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="216.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>darA-a (GEA64_RS05020)
+peptide antibiotic darobactin A</title>
+			<polygon class="darA-a (GEA64_RS05020)
+peptide antibiotic darobactin A" points="10,10 15,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>darB (GEA64_RS05025)
+darobactin export ABC transporter permease subunit</title>
+			<polygon class="darB (GEA64_RS05025)
+darobactin export ABC transporter permease subunit" points="29,25 78,25 78,10 108,40 78,70 78,55 29,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>darC (GEA64_RS05030)
+darobactin export ABC transporter periplasmic adaptor subunit</title>
+			<polygon class="darC (GEA64_RS05030)
+darobactin export ABC transporter periplasmic adaptor subunit" points="108,25 119,25 119,10 149,40 119,70 119,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="131,28 133,28 141,36 141,44 133,52 131,52" stroke-linejoin="round" width="10" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>darD (GEA64_RS05035)
+darobactin export ABC transporter ATP-binding protein</title>
+			<polygon class="darD (GEA64_RS05035)
+darobactin export ABC transporter ATP-binding protein" points="150,10 172,40 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="152,28 159,28 166,37 166,43 159,52 152,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>darE (GEA64_RS05040)
+darobactin maturation radical SAM/SPASM protein DarE</title>
+			<polygon class="darE (GEA64_RS05040)
+darobactin maturation radical SAM/SPASM protein DarE" points="173,25 186,25 186,10 216,40 186,70 186,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="180" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

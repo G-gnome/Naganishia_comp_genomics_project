@@ -1,0 +1,213 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="844.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="834.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tchmD5
+ABC transporter</title>
+			<polygon class="tchmD5
+ABC transporter" points="91,25 63,25 63,10 33,40 63,70 63,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="40,37 49,28 54,28 54,52 49,52 40,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="62" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmJ5
+ABC transporter</title>
+			<polygon class="tchmJ5
+ABC transporter" points="149,25 121,25 121,10 91,40 121,70 121,55 149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="98,37 107,28 112,28 112,52 107,52 98,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="129" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmE5
+UDP-glucose 4-epimerase</title>
+			<polygon class="tchmE5
+UDP-glucose 4-epimerase" points="169,25 170,25 170,10 200,40 170,70 170,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="170,28 184,28 192,36 192,44 184,52 170,52" stroke-linejoin="round" width="22" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmF5
+asparagin synthetase</title>
+			<polygon class="tchmF5
+asparagin synthetase" points="201,25 235,25 235,10 265,40 235,70 235,55 201,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="205" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="225,28 249,28 261,40 249,52 225,52" stroke-linejoin="round" width="38" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmGT1
+glycosyltransferase</title>
+			<polygon class="tchmGT1
+glycosyltransferase" points="265,25 276,25 276,10 306,40 276,70 276,55 265,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>tchmY
+prenylcyclase</title>
+			<polygon class="tchmY
+prenylcyclase" points="307,25 311,25 311,10 341,40 311,70 311,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>tchmO5
+prenylsynthetase</title>
+			<polygon class="tchmO5
+prenylsynthetase" points="341,10 368,40 341,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PcrB (PF01884)
+"PcrB family"</title>
+				<polygon class="PF01884" points="343,28 353,28 364,40 353,52 343,52" stroke-linejoin="round" width="23" height="24" fill="rgb(118,57,187)" stroke="rgb(94,45,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmK5
+SAM methyl-cobalamin dependent methyltransferase</title>
+			<polygon class="tchmK5
+SAM methyl-cobalamin dependent methyltransferase" points="369,25 389,25 389,10 419,40 389,70 389,55 369,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>B12-binding (PF02310)
+"B12 binding domain"</title>
+				<rect class="PF02310" x="375" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(145,190,60)" stroke="rgb(115,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="392,28 403,28 408,33 408,47 403,52 392,52" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmGT5
+glycosyltransferase</title>
+			<polygon class="tchmGT5
+glycosyltransferase" points="428,25 429,25 429,10 459,40 429,70 429,55 428,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>tchmGT4
+glycosyltransferase</title>
+			<polygon class="tchmGT4
+glycosyltransferase" points="459,25 468,25 468,10 498,40 468,70 468,55 459,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>tchmM5
+carbomoyltransferase</title>
+			<polygon class="tchmM5
+carbomoyltransferase" points="498,25 521,25 521,10 551,40 521,70 521,55 498,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="498" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="507" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_C (PF16861)
+"Carbamoyltransferase C-terminus"</title>
+				<polygon class="PF16861" points="533,28 534,28 546,40 534,52 533,52" stroke-linejoin="round" width="16" height="24" fill="rgb(183,87,154)" stroke="rgb(146,69,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmN5
+prenyltransferase</title>
+			<polygon class="tchmN5
+prenyltransferase" points="551,10 580,40 551,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>tchmH5
+asparagoine synthetase</title>
+			<polygon class="tchmH5
+asparagoine synthetase" points="580,25 614,25 614,10 644,40 614,70 614,55 580,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="584" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="603,28 627,28 639,40 627,52 603,52" stroke-linejoin="round" width="38" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmGT2
+glycosyltransferase</title>
+			<polygon class="tchmGT2
+glycosyltransferase" points="643,10 669,40 643,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="643,28 655,28 659,34 659,46 655,52 643,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmGT3
+glycosyltransferase</title>
+			<polygon class="tchmGT3
+glycosyltransferase" points="670,25 684,25 684,10 714,40 684,70 684,55 670,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="686,28 698,28 701,31 701,49 698,52 686,52" stroke-linejoin="round" width="15" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmZ
+polyprenyl synthetase</title>
+			<polygon class="tchmZ
+polyprenyl synthetase" points="717,25 723,25 723,10 753,40 723,70 723,55 717,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="721,28 736,28 747,39 747,41 736,52 721,52" stroke-linejoin="round" width="26" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmX5
+ABC transporter</title>
+			<polygon class="tchmX5
+ABC transporter" points="755,40 778,10 778,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="762,36 768,28 776,28 776,52 768,52 762,44" stroke-linejoin="round" width="14" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tchmP5
+ABC transporter ATPase</title>
+			<polygon class="tchmP5
+ABC transporter ATPase" points="778,40 801,10 801,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="783,39 791,28 796,28 796,52 791,52 783,41" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,17 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Transglut_core3      PF13471.9    117 BGC0000581_ORF2:gid:mcjB:pid:AAD28495.1:loc:577:1204:strand:+ -            208   3.7e-17   62.4   0.0   1   1   2.1e-21   4.1e-17   62.3   0.0    42   116   134   206    93   207 0.79 Transglutaminase-like superfamily
+Asn_synthase         PF00733.24   355 BGC0000581_ORF3:gid:mcjC:pid:AAD28496.1:loc:1206:2535:strand:+ -            442   2.5e-08   34.1   0.0   1   1     1e-09     2e-05   24.6   0.0    14    73   188   246   184   266 0.88 Asparagine synthase
+ABC_tran             PF00005.30   137 BGC0000581_ORF4:gid:mcjD:pid:AAD28497.1:loc:2753:4496:strand:+ -            580   5.1e-28   98.4   0.0   1   1   9.9e-32   9.7e-28   97.5   0.0     1   137   361   509   361   509 0.91 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000581_ORF4:gid:mcjD:pid:AAD28497.1:loc:2753:4496:strand:+ -            580   1.3e-11   44.8  27.3   1   1   1.8e-15   1.7e-11   44.4  27.3     5   274    29   300    24   300 0.82 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000581.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000581.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000581.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:53:54 2023
+# [ok]

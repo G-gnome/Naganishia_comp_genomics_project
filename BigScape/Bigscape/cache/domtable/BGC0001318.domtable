@@ -1,0 +1,32 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_1        PF00561.23   257 BGC0001318_ORF5:gid:Manes.12G132500:pid::loc:18793:19802:strand:- -            259   1.6e-18   67.5   0.0   1   1   2.2e-18   1.5e-14   54.4   0.0     2   111   144   249   143   258 0.92 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.11   239 BGC0001318_ORF5:gid:Manes.12G132500:pid::loc:18793:19802:strand:- -            259   2.3e-09   37.0   0.1   1   1   1.7e-12   1.1e-08   34.7   0.0     5   110   143   245   140   255 0.93 Serine aminopeptidase, S33
+Abhydrolase_1        PF00561.23   257 BGC0001318_ORF7:gid:Manes.12G132700:pid::loc:27774:28753:strand:- -            257   1.2e-18   67.8   0.1   1   1   6.7e-18   4.4e-14   52.9   0.1     2   112   142   248   141   255 0.93 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.11   239 BGC0001318_ORF7:gid:Manes.12G132700:pid::loc:27774:28753:strand:- -            257     4e-09   36.2   0.1   1   1     2e-12   1.3e-08   34.5   0.0     5   109   141   242   137   251 0.93 Serine aminopeptidase, S33
+p450                 PF00067.25   463 BGC0001318_ORF8:gid:Manes.12G132800:pid::loc:30324:31972:strand:- -            516   3.3e-86  290.0   0.0   1   2   2.9e-61   5.7e-57  193.6   0.0   270   446     2   179     1   197 0.95 Cytochrome P450
+p450                 PF00067.25   463 BGC0001318_ORF8:gid:Manes.12G132800:pid::loc:30324:31972:strand:- -            516   3.3e-86  290.0   0.0   2   2     3e-31     6e-27   94.6   0.0     1   267   254   515   254   516 0.87 Cytochrome P450
+p450                 PF00067.25   463 BGC0001318_ORF9:gid:Manes.12G132900:pid::loc:39896:41530:strand:- -            511   6.8e-87  292.3   0.0   1   2   4.5e-61   8.8e-57  193.0   0.0   269   448     1   181     1   198 0.94 Cytochrome P450
+p450                 PF00067.25   463 BGC0001318_ORF9:gid:Manes.12G132900:pid::loc:39896:41530:strand:- -            511   6.8e-87  292.3   0.0   2   2   3.8e-32   7.5e-28   97.6   0.0     1   266   249   509   249   511 0.87 Cytochrome P450
+UDPGT                PF00201.21   499 BGC0001318_ORF10:gid:Manes.12G133000:pid::loc:44838:46398:strand:+ -            483     8e-30  104.2   0.0   1   1   5.3e-34     1e-29  103.8   0.0    48   410    66   440    26   447 0.82 UDP-glucoronosyl and UDP-glucosyl transferase
+GUB_WAK_bind         PF13947.9     63 BGC0001318_ORF11:gid:Manes.12G133100:pid::loc:53705:55174:strand:+ -            301   2.3e-11   44.1   0.5   1   1   2.3e-15   2.3e-11   44.1   0.5     1    62    27    88    27    89 0.89 Wall-associated receptor kinase galacturonan-binding
+WAK_assoc            PF14380.9    105 BGC0001318_ORF11:gid:Manes.12G133100:pid::loc:53705:55174:strand:+ -            301     5e-07   30.5   1.8   1   1   9.6e-11   9.4e-07   29.6   1.8    75   104   228   257   205   258 0.90 Wall-associated receptor kinase C-terminal
+Abhydrolase_1        PF00561.23   257 BGC0001318_ORF14:gid:Manes.12G133300:pid::loc:59858:62248:strand:- -            308   1.2e-14   54.8   0.0   1   1   1.9e-18   1.8e-14   54.1   0.0     1   106   151   250   151   266 0.88 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.10   220 BGC0001318_ORF14:gid:Manes.12G133300:pid::loc:59858:62248:strand:- -            308   2.2e-08   35.1   0.0   1   1   3.1e-12   3.1e-08   34.6   0.0     1    96   153   254   153   306 0.63 Alpha/beta hydrolase family
+Pkinase              PF00069.28   264 BGC0001318_ORF15:gid:Manes.12G133400:pid::loc:69763:76827:strand:+ -            610   3.2e-43  148.1   0.0   1   1   8.7e-47   4.3e-43  147.7   0.0     1   260   287   559   287   561 0.84 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.20   259 BGC0001318_ORF15:gid:Manes.12G133400:pid::loc:69763:76827:strand:+ -            610   3.5e-42  144.6   0.0   1   1     1e-45   4.9e-42  144.1   0.0     4   259   290   561   287   561 0.88 Protein tyrosine and serine/threonine kinase
+LRR_8                PF13855.9     61 BGC0001318_ORF15:gid:Manes.12G133400:pid::loc:69763:76827:strand:+ -            610   3.3e-13   49.3  32.9   1   1   1.9e-14   9.3e-11   41.5   5.7     2    61    91   150    90   150 0.97 Leucine rich repeat
+LRRNT_2              PF08263.15    41 BGC0001318_ORF15:gid:Manes.12G133400:pid::loc:69763:76827:strand:+ -            610   1.4e-08   35.0   2.0   1   1   3.1e-12   1.5e-08   34.9   0.5     4    41    26    63    23    63 0.96 Leucine rich repeat N-terminal domain
+p450                 PF00067.25   463 BGC0001318_ORF16:gid:Manes.12G133500:pid::loc:78959:80931:strand:- -            541   2.6e-74  250.8   0.0   1   2   6.3e-54   1.2e-49  169.4   0.0   269   449     1   182     1   193 0.95 Cytochrome P450
+p450                 PF00067.25   463 BGC0001318_ORF16:gid:Manes.12G133500:pid::loc:78959:80931:strand:- -            541   2.6e-74  250.8   0.0   2   2   1.1e-26   2.2e-22   79.6   0.0     1   267   268   540   268   541 0.88 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001318.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001318.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001318.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:17:24 2023
+# [ok]

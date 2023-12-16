@@ -1,0 +1,35 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_23      PF13489.9    165 BGC0001606_ORF1:gid::pid:CCT76077.1:loc:0:1797:strand:+ -            438   2.5e-16   60.1   0.0   1   1   5.9e-20   3.8e-16   59.5   0.0    16   161   171   326   162   331 0.77 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001606_ORF1:gid::pid:CCT76077.1:loc:0:1797:strand:+ -            438   1.4e-09   38.6   0.0   1   1   4.8e-13   3.1e-09   37.5   0.0     1    97   181   269   181   269 0.90 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001606_ORF1:gid::pid:CCT76077.1:loc:0:1797:strand:+ -            438   4.7e-08   33.1   0.0   1   1   2.5e-11   1.7e-07   31.3   0.0     2   113   176   277   175   324 0.73 Methyltransferase domain
+ketoacyl-synt        PF00109.29   253 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   2.4e-65  220.7   0.1   1   1   3.9e-68   4.8e-65  219.8   0.1     2   253    10   260     9   260 0.94 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   2.3e-57  194.0   0.1   1   1   2.4e-59     3e-56  190.3   0.0     2   179  2161  2335  2160  2336 0.98 KR domain
+PS-DH                PF14765.9    297 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   6.4e-54  183.3   0.0   1   1   7.4e-57   9.1e-54  182.8   0.0     1   293   953  1253   953  1257 0.89 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   1.5e-49  169.3   0.0   1   1   2.2e-52   2.6e-49  168.6   0.0     2   300   573   883   572   900 0.90 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   3.3e-35  120.8   0.1   1   1   9.7e-37   1.2e-33  115.8   0.1     2   118   269   386   268   387 0.97 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   3.4e-19   69.5   0.0   1   1     9e-22   1.1e-18   67.9   0.0     1    99  1436  1540  1436  1540 0.95 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   1.5e-12   48.1   2.2   1   1   1.3e-14   1.6e-11   44.8   0.8     1    93   389   516   389   541 0.73 Ketoacyl-synthetase C-terminal extension
+Methyltransf_31      PF13847.9    152 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   2.9e-12   46.7   0.0   1   1   5.7e-15     7e-12   45.5   0.0     2   113  1430  1546  1429  1604 0.88 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   8.4e-12   45.7   0.1   1   1     3e-14   3.7e-11   43.7   0.0     1    97  1435  1538  1435  1538 0.85 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   6.8e-12   45.6   0.0   1   1   1.8e-14   2.2e-11   44.0   0.0    13   124  1422  1549  1412  1590 0.71 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   3.5e-11   43.1   0.0   1   1   1.1e-13   1.3e-10   41.2   0.0     1   161  2160  2317  2160  2323 0.86 short chain dehydrogenase
+NodS                 PF05401.14   201 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   9.6e-09   35.5   0.0   1   1   1.6e-11     2e-08   34.4   0.0    29   152  1417  1550  1406  1562 0.78 Nodulation protein S (NodS)
+Methyltransf_11      PF08241.15    96 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   3.7e-08   34.0   0.0   1   1     9e-11   1.1e-07   32.5   0.0     1    96  1436  1542  1436  1542 0.83 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001606_ORF2:gid::pid:CCT75967.1:loc:2113:10551:strand:- -           2543   5.9e-07   29.8   0.8   1   1     3e-09   3.7e-06   27.3   0.0     2    66  2472  2536  2471  2537 0.91 Phosphopantetheine attachment site
+ABC_tran             PF00005.30   137 BGC0001606_ORF3:gid::pid:CCT75968.1:loc:12505:17512:strand:- -           1432   7.6e-43  146.4   0.0   1   2   4.2e-20   7.6e-17   62.2   0.0     2   135   619   752   618   754 0.76 ABC transporter
+ABC_tran             PF00005.30   137 BGC0001606_ORF3:gid::pid:CCT75968.1:loc:12505:17512:strand:- -           1432   7.6e-43  146.4   0.0   2   2   4.3e-26   7.7e-23   81.6   0.2     2   137  1215  1359  1214  1359 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001606_ORF3:gid::pid:CCT75968.1:loc:12505:17512:strand:- -           1432   7.7e-24   84.9  25.6   1   2     1e-09   1.8e-06   27.9   2.1    14   269   279   534   268   539 0.74 ABC transporter transmembrane region
+ABC_membrane         PF00664.26   274 BGC0001606_ORF3:gid::pid:CCT75968.1:loc:12505:17512:strand:- -           1432   7.7e-24   84.9  25.6   2   2   5.1e-20   9.1e-17   61.7  15.8     4   252   884  1131   881  1148 0.81 ABC transporter transmembrane region
+Zn_clus              PF00172.21    40 BGC0001606_ORF5:gid::pid:CCT75969.1:loc:20182:22544:strand:+ -            725   7.2e-08   32.6  10.7   1   1   6.2e-12   1.2e-07   31.8  10.7     2    36    44    77    43    81 0.92 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001606.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001606.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001606.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:41:50 2023
+# [ok]

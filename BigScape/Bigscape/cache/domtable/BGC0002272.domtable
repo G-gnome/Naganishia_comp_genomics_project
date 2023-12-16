@@ -1,0 +1,24 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002272_ORF1:gid::pid:EAU29299.1:loc:0:1764:strand:+ -            417   7.9e-42  143.7   0.4   1   1   4.8e-40   9.4e-36  123.7   0.1   257   450   199   394   197   405 0.92 Cytochrome P450
+Transferase          PF02458.18   434 BGC0002272_ORF3:gid::pid:EAU29301.1:loc:5796:7323:strand:+ -            508   2.7e-26   92.3   0.0   1   2   2.9e-22   5.7e-18   64.9   0.0   130   303   130   340   115   345 0.76 Transferase family
+Transferase          PF02458.18   434 BGC0002272_ORF3:gid::pid:EAU29301.1:loc:5796:7323:strand:+ -            508   2.7e-26   92.3   0.0   2   2   4.4e-10   8.7e-06   24.8   0.0   322   430   385   491   370   493 0.79 Transferase family
+AMP-binding          PF00501.31   424 BGC0002272_ORF4:gid::pid:EAU29302.1:loc:8187:15255:strand:- -           2337  4.6e-149  496.8   0.0   1   2   6.4e-72   3.1e-68  230.4   0.0     3   423   214   609   212   610 0.84 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002272_ORF4:gid::pid:EAU29302.1:loc:8187:15255:strand:- -           2337  4.6e-149  496.8   0.0   2   2   3.3e-82   1.6e-78  264.3   0.0     7   424  1298  1685  1292  1685 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002272_ORF4:gid::pid:EAU29302.1:loc:8187:15255:strand:- -           2337   2.3e-76  257.4   0.0   1   2   3.8e-38   1.9e-34  119.3   0.0     1   451   858  1268   858  1273 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0002272_ORF4:gid::pid:EAU29302.1:loc:8187:15255:strand:- -           2337   2.3e-76  257.4   0.0   2   2   1.2e-40   5.9e-37  127.5   0.2     7   436  1913  2334  1908  2335 0.86 Condensation domain
+PP-binding           PF00550.28    67 BGC0002272_ORF4:gid::pid:EAU29302.1:loc:8187:15255:strand:- -           2337   6.7e-25   87.3   0.0   1   2   6.9e-14   3.4e-10   40.2   0.0     2    65   754   816   753   818 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002272_ORF4:gid::pid:EAU29302.1:loc:8187:15255:strand:- -           2337   6.7e-25   87.3   0.0   2   2   3.7e-15   1.8e-11   44.3   0.0     1    65  1825  1888  1825  1890 0.96 Phosphopantetheine attachment site
+Trp_DMAT             PF11991.11   363 BGC0002272_ORF5:gid::pid:EAU29303.1:loc:16609:18018:strand:+ -            447   1.3e-97  327.6   0.0   1   1  7.8e-102   1.5e-97  327.4   0.0     1   362    53   398    53   399 0.92 Tryptophan dimethylallyltransferase
+p450                 PF00067.25   463 BGC0002272_ORF6:gid::pid:EAU29304.1:loc:19901:21220:strand:+ -            327   1.5e-08   34.0   0.0   1   1   9.3e-13   1.8e-08   33.7   0.0    99   338    91   324    55   326 0.81 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002272.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002272.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002272.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:01:25 2023
+# [ok]

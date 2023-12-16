@@ -1,0 +1,53 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="254.26666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="244.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>biF
+8-amino-7-oxononanoate synthase</title>
+			<polygon class="biF
+8-amino-7-oxononanoate synthase" points="58,25 43,25 43,10 13,40 43,70 43,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="18,39 29,28 54,28 54,52 29,52 18,41" stroke-linejoin="round" width="36" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>biDA
+bifunctional dethiobiotin synthetase/adenosylmethionine-8-amino-7-oxononanoate aminotransferase</title>
+			<polygon class="biDA
+bifunctional dethiobiotin synthetase/adenosylmethionine-8-amino-7-oxononanoate aminotransferase" points="82,25 138,25 138,10 168,40 138,70 138,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_26 (PF13500)
+"AAA domain"</title>
+				<rect class="PF13500" x="83" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(93,118,228)" stroke="rgb(74,94,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<rect class="PF00202" x="112" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="139,28 152,28 160,36 160,44 152,52 139,52" stroke-linejoin="round" width="21" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>biB
+biotin synthase</title>
+			<polygon class="biB
+biotin synthase" points="199,25 211,25 211,10 241,40 211,70 211,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="208" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BATS (PF06968)
+"Biotin and Thiamin Synthesis associated domain"</title>
+				<polygon class="PF06968" points="225,28 225,28 234,37 234,43 225,52 225,52" stroke-linejoin="round" width="9" height="24" fill="rgb(91,179,207)" stroke="rgb(72,143,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

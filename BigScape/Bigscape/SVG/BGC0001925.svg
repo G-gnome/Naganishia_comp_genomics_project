@@ -1,0 +1,223 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="702.9333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="692.9333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sbzA
+Ile-tRNA synthetase like transferase</title>
+			<polygon class="sbzA
+Ile-tRNA synthetase like transferase" points="10,25 83,25 83,10 113,40 83,70 83,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_1 (PF00133)
+"tRNA synthetases class I (I, L, M and V)"</title>
+				<rect class="PF00133" x="12" y="28" stroke-linejoin="round" width="62" height="24" fill="rgb(209,58,146)" stroke="rgb(167,46,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Anticodon_1 (PF08264)
+"Anticodon-binding domain of tRNA ligase"</title>
+				<rect class="PF08264" x="78" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(85,52,208)" stroke="rgb(68,41,166)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF5915 (PF19302)
+"Domain of unknown function (DUF5915)"</title>
+				<polygon class="PF19302" points="94,28 97,28 109,40 97,52 94,52" stroke-linejoin="round" width="18" height="24" fill="rgb(101,226,140)" stroke="rgb(80,180,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzB
+AMP binding enzyme</title>
+			<polygon class="sbzB
+AMP binding enzyme" points="114,25 137,25 137,10 167,40 137,70 137,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="114,28 151,28 155,32 155,48 151,52 114,52" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="157,34 163,40 157,46" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzC
+GNAT family transferase</title>
+			<polygon class="sbzC
+GNAT family transferase" points="167,25 171,25 171,10 201,40 171,70 171,55 167,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_9 (PF13527)
+"Acetyltransferase (GNAT) domain"</title>
+				<rect class="PF13527" x="168" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(157,184,47)" stroke="rgb(125,147,37)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzD
+methyltransferase</title>
+			<polygon class="sbzD
+methyltransferase" points="238,25 235,25 235,10 205,40 235,70 235,55 238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="212,37 221,28 221,28 221,52 221,52 212,43" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzE
+methyltransferase</title>
+			<polygon class="sbzE
+methyltransferase" points="240,40 266,10 266,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="252,31 254,28 261,28 261,52 254,52 252,49" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzF
+luciferase like enzyme</title>
+			<polygon class="sbzF
+luciferase like enzyme" points="300,25 298,25 298,10 268,40 298,70 298,55 300,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="272,40 284,28 299,28 299,52 284,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzG
+carrier protein</title>
+			<polygon class="sbzG
+carrier protein" points="301,40 309,10 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="304,40 307,28 309,28 309,52 307,52" stroke-linejoin="round" width="8" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzH
+epimerase</title>
+			<polygon class="sbzH
+epimerase" points="344,25 341,25 341,10 311,40 341,70 341,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldose_epim (PF01263)
+"Aldose 1-epimerase"</title>
+				<polygon class="PF01263" points="315,40 327,28 341,28 341,52 327,52" stroke-linejoin="round" width="30" height="24" fill="rgb(76,203,227)" stroke="rgb(60,162,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzI
+GNAT family transferase</title>
+			<polygon class="sbzI
+GNAT family transferase" points="345,40 363,10 363,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sbzJ
+aldehyde dehydrogenase</title>
+			<polygon class="sbzJ
+aldehyde dehydrogenase" points="410,25 394,25 394,10 364,40 394,70 394,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="368,40 380,28 408,28 408,52 380,52" stroke-linejoin="round" width="44" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzK
+carrier protein</title>
+			<polygon class="sbzK
+carrier protein" points="411,40 420,10 420,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="414,40 418,28 418,28 418,52 418,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzL
+AMP binding enzyme</title>
+			<polygon class="sbzL
+AMP binding enzyme" points="476,25 450,25 450,10 420,40 450,70 450,55 476,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="424,40 431,33 431,47 424,40" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="432,32 436,28 472,28 472,52 436,52 432,48" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzM
+cupin dioxygenase</title>
+			<polygon class="sbzM
+cupin dioxygenase" points="476,40 498,10 498,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="481,39 487,31 487,49 481,41" stroke-linejoin="round" width="6" height="24" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzN
+isomerase</title>
+			<polygon class="sbzN
+isomerase" points="538,25 530,25 530,10 500,40 530,70 530,55 538,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIS (PF01380)
+"SIS domain"</title>
+				<polygon class="PF01380" points="504,40 514,30 514,50" stroke-linejoin="round" width="12" height="24" fill="rgb(212,106,227)" stroke="rgb(169,84,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SIS (PF01380)
+"SIS domain"</title>
+				<rect class="PF01380" x="520" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(212,106,227)" stroke="rgb(169,84,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzO
+BtpA like enzyme</title>
+			<polygon class="sbzO
+BtpA like enzyme" points="538,40 564,10 564,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BtpA (PF03437)
+"BtpA family"</title>
+				<polygon class="PF03437" points="542,40 553,28 563,28 563,52 553,52" stroke-linejoin="round" width="25" height="24" fill="rgb(168,205,89)" stroke="rgb(134,164,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzP
+PLP binding enzyme</title>
+			<polygon class="sbzP
+PLP binding enzyme" points="617,25 595,25 595,10 565,40 595,70 595,55 617,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="569,40 581,28 604,28 604,52 581,52" stroke-linejoin="round" width="38" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzQ
+alpha-ketoglutarate-dependent dioxygenase</title>
+			<polygon class="sbzQ
+alpha-ketoglutarate-dependent dioxygenase" points="650,25 650,25 650,10 620,40 650,70 650,55 650,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="624,40 636,28 645,28 645,52 636,52" stroke-linejoin="round" width="25" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbzR
+MFS family transporter</title>
+			<polygon class="sbzR
+MFS family transporter" points="692,25 681,25 681,10 651,40 681,70 681,55 692,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="655,40 667,28 689,28 689,52 667,52 655,40" stroke-linejoin="round" width="34" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

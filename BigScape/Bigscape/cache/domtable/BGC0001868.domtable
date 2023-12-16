@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FMO-like             PF00743.22   532 BGC0001868_ORF1:gid::pid:PHM31510.1:loc:0:1608:strand:- -            535   1.1e-13   50.6   0.0   1   1   1.3e-15   3.7e-12   45.6   0.0     6   220    14   216    11   223 0.81 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.9    305 BGC0001868_ORF1:gid::pid:PHM31510.1:loc:0:1608:strand:- -            535   7.6e-11   41.9   0.0   1   1   5.3e-14   1.5e-10   41.0   0.0     1   197    13   212    13   238 0.81 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001868_ORF1:gid::pid:PHM31510.1:loc:0:1608:strand:- -            535   1.6e-08   34.7   0.4   1   1   2.3e-11   6.4e-08   32.8   0.0     1    47    14    61    14    82 0.91 NAD(P)-binding Rossmann-like domain
+Pyr_redox_2          PF07992.17   295 BGC0001868_ORF1:gid::pid:PHM31510.1:loc:0:1608:strand:- -            535   2.4e-08   33.7   0.0   1   1   5.5e-11   1.6e-07   31.0   0.0     2   180    11   217    10   234 0.76 Pyridine nucleotide-disulphide oxidoreductase
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001868_ORF1:gid::pid:PHM31510.1:loc:0:1608:strand:- -            535   6.1e-06   25.7   0.8   1   1   2.1e-08   5.9e-05   22.5   0.0    95   236    88   224    80   274 0.78 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+FAD_binding_2        PF00890.27   417 BGC0001868_ORF1:gid::pid:PHM31510.1:loc:0:1608:strand:- -            535   1.5e-05   24.4   0.1   1   1   7.8e-09   2.2e-05   23.9   0.1     1    40    11    51    11    53 0.94 FAD binding domain
+FAD_binding_3        PF01494.22   349 BGC0001868_ORF2:gid::pid:PHM31511.1:loc:1674:2835:strand:- -            386   5.4e-21   75.3   0.2   1   1   4.5e-22   4.4e-18   65.8   0.2     3   319    10   322     8   347 0.71 FAD binding domain
+NAD_binding_8        PF13450.9     68 BGC0001868_ORF2:gid::pid:PHM31511.1:loc:1674:2835:strand:- -            386   3.3e-06   27.4   0.1   1   1   6.3e-10   6.1e-06   26.5   0.1     1    32    13    44    13    85 0.81 NAD(P)-binding Rossmann-like domain
+Sigma70_r2           PF04542.17    71 BGC0001868_ORF3:gid::pid:PHM31512.1:loc:2859:3786:strand:- -            308   3.7e-10   39.6   0.1   1   1   7.8e-14   7.7e-10   38.6   0.1     5    69    21    84    18    86 0.94 Sigma-70 region 2
+Sigma70_r4_2         PF08281.15    54 BGC0001868_ORF3:gid::pid:PHM31512.1:loc:2859:3786:strand:- -            308   3.1e-07   30.1   0.0   1   1   5.3e-11   5.2e-07   29.4   0.0     4    53   131   180   128   181 0.93 Sigma-70, region 4
+ABM                  PF03992.19    78 BGC0001868_ORF4:gid::pid:PHM31513.1:loc:4243:4543:strand:+ -             99   2.9e-13   49.9   0.0   1   1   1.7e-17   3.4e-13   49.6   0.0     2    77     4    78     3    79 0.92 Antibiotic biosynthesis monooxygenase
+DAHP_synth_1         PF00793.23   275 BGC0001868_ORF5:gid::pid:PHM31514.1:loc:4885:5986:strand:- -            366   8.2e-94  313.6   0.0   1   1   5.1e-98     1e-93  313.4   0.0     8   274    35   340    18   341 0.95 DAHP synthetase I family
+Putative_PNPOx       PF01243.23    88 BGC0001868_ORF7:gid::pid:PHM31516.1:loc:6376:7006:strand:- -            209     7e-11   42.3   0.0   1   1     1e-14     1e-10   41.8   0.0    11    87    43   118    28   119 0.93 Pyridoxamine 5'-phosphate oxidase
+PNP_phzG_C           PF10590.12    43 BGC0001868_ORF7:gid::pid:PHM31516.1:loc:6376:7006:strand:- -            209   3.8e-09   36.5   0.2   1   1   6.2e-13   6.1e-09   35.8   0.2     9    43   177   209   169   209 0.89 Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region
+PhzC-PhzF            PF02567.19   283 BGC0001868_ORF8:gid::pid:PHM31517.1:loc:7050:7902:strand:- -            283   4.3e-55  187.3   0.1   1   1   2.5e-59   4.9e-55  187.1   0.1     2   280    13   276    12   279 0.92 Phenazine biosynthesis-like protein
+Chorismate_bind      PF00425.21   256 BGC0001868_ORF9:gid::pid:PHM31518.1:loc:7883:9803:strand:- -            639   7.1e-48  163.5   0.0   1   1   1.1e-51     1e-47  163.0   0.0     2   256   114   372   113   372 0.89 chorismate binding enzyme
+GATase               PF00117.31   191 BGC0001868_ORF9:gid::pid:PHM31518.1:loc:7883:9803:strand:- -            639   3.1e-18   66.3   0.0   1   1   1.1e-21   1.1e-17   64.5   0.0     2   188   442   620   399   623 0.86 Glutamine amidotransferase class-I
+Isochorismatase      PF00857.23   175 BGC0001868_ORF10:gid::pid:PHM31519.1:loc:9795:10425:strand:- -            209   9.3e-35  120.5   0.0   1   1   5.4e-39   1.1e-34  120.3   0.0     2   175    33   204    32   204 0.96 Isochorismatase family
+PHZA_PHZB            PF03284.16   162 BGC0001868_ORF11:gid::pid:PHM31520.1:loc:10564:11041:strand:- -            158     4e-75  250.8   0.9   1   1   2.2e-79   4.3e-75  250.7   0.9    14   162     9   158     1   158 0.97 Phenazine biosynthesis protein A/B
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001868.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001868.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001868.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:09:26 2023
+# [ok]

@@ -1,0 +1,194 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="593.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="583.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>zhuA
+chain length factor</title>
+			<polygon class="zhuA
+chain length factor" points="63,25 52,25 52,10 22,40 52,70 52,55 63,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="26,40 37,29 37,51 26,40" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<polygon class="PF00109" points="38,28 38,28 62,28 62,52 38,52 38,52" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuB
+beta-ketoacylsynthase I</title>
+			<polygon class="zhuB
+beta-ketoacylsynthase I" points="104,25 93,25 93,10 63,40 93,70 93,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="67,40 78,29 78,51 67,40" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="80" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuC
+acyl transferase</title>
+			<polygon class="zhuC
+acyl transferase" points="112,25 116,25 116,10 146,40 116,70 116,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="113,28 130,28 142,40 130,52 113,52" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuD
+biotin carboxylase</title>
+			<polygon class="zhuD
+biotin carboxylase" points="216,25 200,25 200,10 170,40 200,70 200,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_carb_C (PF02785)
+"Biotin carboxylase C-terminal domain"</title>
+				<polygon class="PF02785" points="174,40 181,33 181,47" stroke-linejoin="round" width="10" height="24" fill="rgb(82,186,211)" stroke="rgb(65,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<polygon class="PF02786" points="183,31 186,28 203,28 203,52 186,52 183,49" stroke-linejoin="round" width="20" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_N (PF00289)
+"Biotin carboxylase, N-terminal domain"</title>
+				<rect class="PF00289" x="205" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(59,114,187)" stroke="rgb(47,91,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuE
+biotin carboxylase carrier protein</title>
+			<polygon class="zhuE
+biotin carboxylase carrier protein" points="217,40 231,10 231,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="220,40 224,32 224,48" stroke-linejoin="round" width="7" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuF
+acetyl carboxylase</title>
+			<polygon class="zhuF
+acetyl carboxylase" points="305,25 278,25 278,10 248,40 278,70 278,55 305,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACCA (PF03255)
+"Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit"</title>
+				<rect class="PF03255" x="266" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(66,101,203)" stroke="rgb(52,80,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<rect class="PF01039" x="279" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>zf-ACC (PF17848)
+"Acetyl-coA carboxylase zinc finger domain"</title>
+				<rect class="PF17848" x="301" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(69,198,91)" stroke="rgb(55,158,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuG
+acyl carrier protein</title>
+			<polygon class="zhuG
+acyl carrier protein" points="307,40 315,10 315,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="310,40 313,28 315,28 315,52 313,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuH
+beta-ketoacylsynthase III</title>
+			<polygon class="zhuH
+beta-ketoacylsynthase III" points="324,25 328,25 328,10 358,40 328,70 328,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<polygon class="PF08545" points="335,28 341,28 342,29 342,51 341,52 335,52" stroke-linejoin="round" width="7" height="24" fill="rgb(189,102,84)" stroke="rgb(151,81,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="348,35 353,40 348,45" stroke-linejoin="round" width="9" height="24" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuI
+cyclase</title>
+			<polygon class="zhuI
+cyclase" points="373,10 390,40 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="373,28 379,28 386,40 379,52 373,52" stroke-linejoin="round" width="15" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuJ
+cyclase</title>
+			<polygon class="zhuJ
+cyclase" points="390,10 415,40 390,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase (PF04199)
+"Putative cyclase"</title>
+				<polygon class="PF04199" points="390,28 401,28 407,35 407,45 401,52 390,52" stroke-linejoin="round" width="17" height="24" fill="rgb(140,47,181)" stroke="rgb(112,37,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuK
+oxygenase</title>
+			<polygon class="zhuK
+oxygenase" points="416,25 438,25 438,10 468,40 438,70 438,55 416,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="416" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuL
+enantiomer selective amidase</title>
+			<polygon class="zhuL
+enantiomer selective amidase" points="468,25 488,25 488,10 518,40 488,70 488,55 468,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidase (PF01425)
+"Amidase"</title>
+				<polygon class="PF01425" points="470,28 502,28 514,40 514,40 502,52 470,52" stroke-linejoin="round" width="44" height="24" fill="rgb(195,142,64)" stroke="rgb(156,113,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuM
+oxygenase</title>
+			<polygon class="zhuM
+oxygenase" points="518,25 539,25 539,10 569,40 539,70 539,55 518,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="519,28 553,28 554,29 554,51 553,52 519,52" stroke-linejoin="round" width="35" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>zhuN
+acyl carrier protein</title>
+			<polygon class="zhuN
+acyl carrier protein" points="572,10 580,40 572,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="572,28 573,28 577,40 573,52 572,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

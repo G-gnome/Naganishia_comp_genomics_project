@@ -1,0 +1,37 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GMC_oxred_N          PF00732.22   296 BGC0001322_ORF1:gid::pid:AGK82806.1:loc:5529:13094:strand:- -            746   6.3e-59  199.9   0.3   1   1   9.7e-63   9.5e-59  199.3   0.3     2   296   229   496   228   496 0.91 GMC oxidoreductase
+GMC_oxred_C          PF05199.16   145 BGC0001322_ORF1:gid::pid:AGK82806.1:loc:5529:13094:strand:- -            746   1.4e-24   87.3   0.0   1   1   1.1e-26   1.1e-22   81.2   0.0    21   143   602   730   591   732 0.82 GMC oxidoreductase
+Terpene_synth_C      PF03936.19   267 BGC0001322_ORF2:gid::pid:AGK82800.1:loc:21223:27740:strand:+ -            792     3e-61  207.2   3.5   1   1   4.5e-65     3e-61  207.2   3.5     3   266   467   732   465   733 0.93 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0001322_ORF2:gid::pid:AGK82800.1:loc:21223:27740:strand:+ -            792   4.3e-42  144.1   5.2   1   1   1.5e-45     1e-41  142.9   5.2     1   192   224   423   224   423 0.86 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0001322_ORF2:gid::pid:AGK82800.1:loc:21223:27740:strand:+ -            792   3.9e-36  124.9   0.3   1   1   1.6e-39     1e-35  123.5   0.3     1   196   530   730   530   733 0.91 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0001322_ORF3:gid::pid:AGK82807.1:loc:28689:30457:strand:- -            506  5.2e-102  342.1   0.0   1   1  3.2e-106  6.2e-102  341.8   0.0     1   453    32   489    32   501 0.91 Cytochrome P450
+Prenyltransf         PF01255.22   221 BGC0001322_ORF4:gid::pid:AGK82801.1:loc:32165:34801:strand:+ -            314   6.1e-73  245.1   0.0   1   1   3.8e-77   7.4e-73  244.8   0.0     1   221    95   310    95   310 0.93 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.19   267 BGC0001322_ORF5:gid::pid:AGK82808.1:loc:35439:41624:strand:- -            778   1.5e-63  214.8   6.3   1   1   2.3e-67   1.5e-63  214.8   6.3     1   266   457   718   457   719 0.94 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0001322_ORF5:gid::pid:AGK82808.1:loc:35439:41624:strand:- -            778     2e-40  138.7   5.8   1   1   8.1e-44   5.3e-40  137.3   5.8     1   192   216   415   216   415 0.85 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0001322_ORF5:gid::pid:AGK82808.1:loc:35439:41624:strand:- -            778   1.8e-32  113.0   2.1   1   1   3.3e-36   2.1e-32  112.7   0.8     1   196   522   716   522   719 0.92 Terpene synthase family 2, C-terminal metal binding
+Prenyltransf         PF01255.22   221 BGC0001322_ORF6:gid:pseudo49437_51033:pid::loc:49437:51033:strand:+ -            157   4.8e-25   88.5   0.0   1   1   3.1e-29     6e-25   88.2   0.0     1    71    84   152    84   157 0.92 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.19   267 BGC0001322_ORF7:gid::pid:AGK82809.1:loc:56358:65068:strand:- -            778   5.1e-61  206.4   5.7   1   1   7.9e-65   5.1e-61  206.4   5.7     1   266   457   718   457   719 0.94 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0001322_ORF7:gid::pid:AGK82809.1:loc:56358:65068:strand:- -            778   2.6e-40  138.3   5.8   1   1   9.3e-44   6.1e-40  137.1   5.8     1   192   216   415   216   415 0.85 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0001322_ORF7:gid::pid:AGK82809.1:loc:56358:65068:strand:- -            778   4.8e-34  118.1   1.0   1   1   1.7e-37   1.1e-33  116.9   1.0     1   196   522   716   522   719 0.90 Terpene synthase family 2, C-terminal metal binding
+Prenyltransf         PF01255.22   221 BGC0001322_ORF8:gid::pid:AGK82810.1:loc:72880:75988:strand:+ -            303   1.1e-71  241.0   0.0   1   1   6.7e-76   1.3e-71  240.8   0.0     1   221    84   299    84   299 0.92 Putative undecaprenyl diphosphate synthase
+Terpene_synth        PF01397.24   192 BGC0001322_ORF9:gid::pid:AGK82802.1:loc:82016:89396:strand:+ -            773   8.9e-49  165.9   1.3   1   1   2.4e-52   2.4e-48  164.6   0.0     1   192   260   467   260   467 0.89 Terpene synthase, N-terminal domain
+Terpene_synth_C      PF03936.19   267 BGC0001322_ORF9:gid::pid:AGK82802.1:loc:82016:89396:strand:+ -            773   1.9e-14   53.7   8.9   1   1   3.2e-18   3.2e-14   53.0   8.9     1   173   511   683   511   769 0.80 Terpene synthase family, metal binding domain
+Prenyltransf         PF01255.22   221 BGC0001322_ORF10:gid:pseudo94131_96140:pid::loc:94131:96140:strand:- -            169     8e-37  127.0   0.0   1   1   4.7e-41   9.2e-37  126.8   0.0   100   221    44   165    23   165 0.90 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.19   267 BGC0001322_ORF11:gid::pid:AGK82803.1:loc:96845:103992:strand:+ -            771   5.4e-54  183.4   6.0   1   1   8.3e-58   5.4e-54  183.4   6.0     1   266   445   709   445   710 0.92 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0001322_ORF11:gid::pid:AGK82803.1:loc:96845:103992:strand:+ -            771   1.9e-39  135.5   4.6   1   1   7.4e-43   4.8e-39  134.2   4.6     1   192   205   403   205   403 0.85 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0001322_ORF11:gid::pid:AGK82803.1:loc:96845:103992:strand:+ -            771   8.4e-31  107.5   0.3   1   1   3.4e-34   2.2e-30  106.1   0.3     1   196   510   707   510   710 0.85 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0001322_ORF12:gid:pseudo106205_112773:pid::loc:106205:112773:strand:+ -            507  2.8e-100  336.4   0.1   1   1  1.7e-104  3.3e-100  336.1   0.1     1   451    30   490    30   502 0.91 Cytochrome P450
+Transferase          PF02458.18   434 BGC0001322_ORF14:gid::pid:AGK82804.1:loc:116622:118639:strand:+ -            447     3e-78  263.5   0.0   1   1   1.8e-82   3.6e-78  263.3   0.0     2   432     8   432     7   434 0.89 Transferase family
+Transferase          PF02458.18   434 BGC0001322_ORF15:gid::pid:AGK82805.1:loc:120909:122963:strand:+ -            442   8.6e-80  268.6   0.0   1   1   5.6e-84   1.1e-79  268.3   0.0     3   429     9   429     7   433 0.91 Transferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001322.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001322.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001322.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:39:44 2023
+# [ok]

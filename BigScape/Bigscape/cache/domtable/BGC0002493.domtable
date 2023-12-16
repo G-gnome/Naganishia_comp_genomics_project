@@ -1,0 +1,21 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Isochorismatase      PF00857.23   175 BGC0002493_ORF1:gid::pid:ABL70473.1:loc:1205:1862:strand:+ -            218   4.1e-39  134.7   0.0   1   1   2.5e-43   4.9e-39  134.4   0.0     2   174    32   203    31   204 0.97 Isochorismatase family
+adh_short_C2         PF13561.9    234 BGC0002493_ORF2:gid::pid:ABL70474.1:loc:1852:2623:strand:+ -            256   7.3e-52  176.4   7.0   1   1     2e-55   9.9e-52  175.9   7.0     1   234    15   253    15   253 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002493_ORF2:gid::pid:ABL70474.1:loc:1852:2623:strand:+ -            256   2.7e-45  154.4   2.6   1   1   6.8e-49   3.4e-45  154.1   2.6     1   190     9   191     9   196 0.96 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002493_ORF2:gid::pid:ABL70474.1:loc:1852:2623:strand:+ -            256   5.6e-13   49.3   1.4   1   1   9.8e-16   4.8e-12   46.3   1.4     2   159    10   160     9   173 0.86 KR domain
+Epimerase            PF01370.24   241 BGC0002493_ORF2:gid::pid:ABL70474.1:loc:1852:2623:strand:+ -            256   1.3e-07   31.5   0.7   1   1   9.4e-11   4.6e-07   29.7   0.7     2   154    12   162    11   243 0.68 NAD dependent epimerase/dehydratase family
+AMP-binding          PF00501.31   424 BGC0002493_ORF3:gid::pid:ABL70475.1:loc:2916:4539:strand:- -            540   1.3e-74  251.4   0.0   1   1   1.6e-78   1.6e-74  251.2   0.0     2   423    31   438    30   439 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002493_ORF3:gid::pid:ABL70475.1:loc:2916:4539:strand:- -            540   2.7e-14   54.0   0.1   1   1     2e-17     2e-13   51.2   0.0     1    76   447   524   447   524 0.93 AMP-binding enzyme C-terminal domain
+Condensation         PF00668.23   457 BGC0002493_ORF4:gid::pid:ABL70476.1:loc:4726:6076:strand:+ -            449   2.6e-32  112.2   0.0   1   1   6.7e-36   1.3e-31  109.9   0.0     5   356    11   363    10   371 0.87 Condensation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002493.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002493.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002493.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:14:15 2023
+# [ok]

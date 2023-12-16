@@ -1,0 +1,71 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="272.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="262.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>phyA
+PhyA</title>
+			<polygon class="phyA
+PhyA" points="10,40 21,10 21,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Capsule_synth (PF05159)
+"Capsule polysaccharide biosynthesis protein"</title>
+				<polygon class="PF05159" points="13,40 16,32 16,48" stroke-linejoin="round" width="6" height="24" fill="rgb(183,215,64)" stroke="rgb(146,172,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dcbE
+DcbE</title>
+			<polygon class="dcbE
+DcbE" points="45,25 75,25 75,10 105,40 75,70 75,55 45,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dcbF
+glycosyltransferase DcbF</title>
+			<polygon class="dcbF
+glycosyltransferase DcbF" points="106,25 126,25 126,10 156,40 126,70 126,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="115" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dcbC
+UDP-glucose dehydrogenase DcbC</title>
+			<polygon class="dcbC
+UDP-glucose dehydrogenase DcbC" points="169,25 178,25 178,10 208,40 178,70 178,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="169" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<polygon class="PF00984" points="188,28 191,28 197,34 197,46 191,52 188,52" stroke-linejoin="round" width="9" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="199,36 203,40 199,44" stroke-linejoin="round" width="8" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dcbB
+glycosyltransferase DcbB</title>
+			<polygon class="dcbB
+glycosyltransferase DcbB" points="208,25 225,25 225,10 255,40 225,70 225,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="229,28 239,28 243,32 243,48 239,52 229,52" stroke-linejoin="round" width="14" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hexD
+HexD</title>
+			<polygon class="hexD
+HexD" points="256,10 261,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

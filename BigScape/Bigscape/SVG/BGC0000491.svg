@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="156.66666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="146.66666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>gaaB</title>
+			<polygon class="gaaB" points="22,10 39,40 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gaaC</title>
+			<polygon class="gaaC" points="41,10 47,40 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gaaA
+gassericin A</title>
+			<polygon class="gaaA
+gassericin A" points="50,10 59,40 50,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BacteriocIIc_cy (PF12173)
+"Bacteriocin class IIc cyclic gassericin A-like"</title>
+				<polygon class="PF12173" points="50,28 52,28 56,40 52,52 50,52" stroke-linejoin="round" width="9" height="24" fill="rgb(121,181,84)" stroke="rgb(96,144,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gaaD</title>
+			<polygon class="gaaD" points="62,10 78,40 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIM (PF01944)
+"Stage II sporulation protein M"</title>
+				<polygon class="PF01944" points="63,28 68,28 74,40 68,52 63,52" stroke-linejoin="round" width="14" height="24" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gaaI
+immunity peptide</title>
+			<polygon class="gaaI
+immunity peptide" points="79,10 84,40 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gaaT
+putative ATP binding protein</title>
+			<polygon class="gaaT
+putative ATP binding protein" points="85,10 107,40 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="87,28 95,28 99,34 99,46 95,52 87,52" stroke-linejoin="round" width="12" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gaaE</title>
+			<polygon class="gaaE" points="108,10 129,40 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_5 (PF13346)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF13346" points="108,28 117,28 125,40 117,52 108,52" stroke-linejoin="round" width="20" height="24" fill="rgb(176,207,85)" stroke="rgb(140,165,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

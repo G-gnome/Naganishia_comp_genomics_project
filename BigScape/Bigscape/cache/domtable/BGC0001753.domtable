@@ -1,0 +1,32 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trypsin              PF00089.29   221 BGC0001753_ORF1:gid::pid:WP_030578055.1:loc:0:726:strand:+ -            241     4e-25   89.0   8.6   1   1   2.5e-29   4.9e-25   88.8   8.6     9   221    49   235    43   235 0.80 Trypsin
+TSNR_N               PF04705.15   111 BGC0001753_ORF2:gid:nshR:pid:WP_030578058.1:loc:901:1705:strand:- -            267   7.9e-41  138.8   0.2   1   1   1.4e-44   1.4e-40  138.0   0.2     2   109     5   112     3   114 0.98 Thiostrepton-resistance methylase, N terminus
+SpoU_methylase       PF00588.22   142 BGC0001753_ORF2:gid:nshR:pid:WP_030578058.1:loc:901:1705:strand:- -            267   2.8e-27   95.7   0.0   1   1   1.4e-30   1.4e-26   93.5   0.0     4   141   119   257   117   258 0.94 SpoU rRNA Methylase family
+p450                 PF00067.25   463 BGC0001753_ORF3:gid::pid:WP_030578062.1:loc:1777:2977:strand:- -            399   2.1e-35  122.5   0.0   1   1   4.4e-38   8.6e-34  117.2   0.0    52   437    40   374    33   397 0.80 Cytochrome P450
+Methyltransf_11      PF08241.15    96 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210   1.3e-24   86.8   0.0   1   1   1.1e-27   2.6e-24   85.8   0.0     1    96    50   144    50   144 0.98 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210     9e-23   80.9   0.0   1   1   6.1e-26   1.5e-22   80.2   0.0     1    97    49   140    49   140 0.94 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210   2.4e-21   76.4   0.0   1   1   1.1e-24   2.8e-21   76.2   0.0    20   143    43   174     6   191 0.84 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210     2e-19   70.0   0.0   1   1     1e-22   2.5e-19   69.7   0.0    24   151    61   185    33   186 0.77 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210   4.4e-19   68.9   0.0   1   1   2.4e-22   5.8e-19   68.5   0.0    45   163    43   156     4   175 0.73 ubiE/COQ5 methyltransferase family
+Methyltransf_12      PF08242.15    99 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210   2.5e-12   47.5   0.0   1   1   1.7e-15   4.2e-12   46.8   0.0     1    99    50   142    50   142 0.81 Methyltransferase domain
+Methyltransf_8       PF05148.18   219 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210   5.4e-07   29.8   0.0   1   1     3e-10   7.5e-07   29.3   0.0   110   176    97   165    86   185 0.86 Hypothetical methyltransferase
+MetW                 PF07021.15   193 BGC0001753_ORF4:gid::pid:WP_030578065.1:loc:3161:3794:strand:- -            210   6.8e-06   26.0   0.0   1   1     4e-09   9.9e-06   25.4   0.0    14   103    46   137    40   145 0.85 Methionine biosynthesis protein MetW
+YcaO                 PF02624.19   322 BGC0001753_ORF5:gid::pid:WP_199814150.1:loc:4413:5586:strand:+ -            390   1.1e-63  215.6   6.0   1   1     7e-68   1.4e-63  215.3   6.0     3   321    18   348    16   349 0.83 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+YcaO                 PF02624.19   322 BGC0001753_ORF10:gid::pid:WP_234313350.1:loc:10344:12243:strand:+ -            632   8.5e-66  222.6   1.3   1   1   5.6e-70   1.1e-65  222.2   1.3     2   321   249   588   248   589 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_N        PF04738.16   650 BGC0001753_ORF11:gid::pid:WP_234313351.1:loc:12349:14932:strand:+ -            860     2e-31  108.8   0.1   1   1   1.7e-35   3.3e-31  108.1   0.1     4   631   126   769   123   774 0.83 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0001753_ORF12:gid::pid:WP_078651954.1:loc:14912:15875:strand:+ -            320     4e-48  164.8   0.2   1   1   2.3e-52   4.6e-48  164.5   0.2     1   287    14   306    14   307 0.89 Lantibiotic biosynthesis dehydratase C-term
+B12-binding          PF02310.22   121 BGC0001753_ORF16:gid::pid:WP_030578095.1:loc:17656:19621:strand:+ -            654   9.1e-10   38.8   0.0   1   1   1.6e-13   1.6e-09   38.0   0.0    40   120   130   212   114   213 0.91 B12 binding domain
+Radical_SAM          PF04055.24   167 BGC0001753_ORF16:gid::pid:WP_030578095.1:loc:17656:19621:strand:+ -            654   7.7e-08   33.0   0.0   1   1   1.9e-11   1.8e-07   31.8   0.0     3   165   282   441   280   443 0.90 Radical SAM superfamily
+DUF5825              PF19142.3    179 BGC0001753_ORF17:gid::pid:WP_234313352.1:loc:19635:20310:strand:+ -            224   8.7e-61  204.9   2.1   1   1   5.3e-65     1e-60  204.7   1.3     2   179    46   224    45   224 0.97 Family of unknown function (DUF5825)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001753.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001753.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001753.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:55:01 2023
+# [ok]

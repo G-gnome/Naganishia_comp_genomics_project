@@ -1,0 +1,15 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyltransf_2         PF19576.2    266 BGC0001681_ORF1:gid::pid:CBW20927.1:loc:0:819:strand:+ -            272     5e-66  222.4   0.0   1   1   2.8e-70   5.6e-66  222.3   0.0     2   257    14   270    13   272 0.95 Acyltransferase
+Acetyltransf_5       PF13444.9    102 BGC0001681_ORF2:gid:hlyA:pid:CBW20928.1:loc:849:1863:strand:+ -            337   8.3e-11   42.7   0.0   1   1   8.6e-15   1.7e-10   41.7   0.0     1    96    51   151    51   154 0.86 Acetyltransferase (GNAT) domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001681.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001681.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001681.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:03:00 2023
+# [ok]

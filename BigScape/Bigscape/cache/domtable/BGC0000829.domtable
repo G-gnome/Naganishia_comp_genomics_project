@@ -1,0 +1,21 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Exo_endo_phos        PF03372.26   237 BGC0000829_ORF1:gid::pid:AAD51807.1:loc:122:1751:strand:+ -            542   5.5e-13   49.2   0.3   1   1   6.5e-17   1.3e-12   48.0   0.1     2   157    30   213    29   291 0.69 Endonuclease/Exonuclease/phosphatase family
+Amino_oxidase        PF01593.27   452 BGC0000829_ORF2:gid:vioA:pid:AAD51808.1:loc:1968:3225:strand:+ -            418   9.7e-31  107.7   0.0   1   2   2.2e-12   1.4e-08   34.6   0.0     1    66    14    85    14    95 0.85 Flavin containing amine oxidoreductase
+Amino_oxidase        PF01593.27   452 BGC0000829_ORF2:gid:vioA:pid:AAD51808.1:loc:1968:3225:strand:+ -            418   9.7e-31  107.7   0.0   2   2   1.3e-23   8.5e-20   71.6   0.0   111   451    96   412    84   413 0.81 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000829_ORF2:gid:vioA:pid:AAD51808.1:loc:1968:3225:strand:+ -            418   3.1e-10   40.3   0.1   1   1   1.1e-13   7.1e-10   39.1   0.1     1    63     9    75     9    80 0.81 NAD(P)-binding Rossmann-like domain
+Ferritin-like        PF12902.10   222 BGC0000829_ORF3:gid:vioB:pid:AAD51809.1:loc:3299:6296:strand:+ -            998   2.4e-40  138.9   0.0   1   1   1.9e-44   3.7e-40  138.3   0.0     1   221   605   827   605   828 0.88 Ferritin-like
+FAD_binding_3        PF01494.22   349 BGC0000829_ORF4:gid:vioC:pid:AAD51810.1:loc:6297:7587:strand:+ -            429   3.4e-26   92.5   0.0   1   1     2e-29   5.5e-26   91.8   0.0     4   316     4   331     2   343 0.76 FAD binding domain
+Pyr_redox_2          PF07992.17   295 BGC0000829_ORF4:gid:vioC:pid:AAD51810.1:loc:6297:7587:strand:+ -            429     8e-08   32.0   0.0   1   1   4.6e-11   1.3e-07   31.3   0.0     2   112     3   170     2   195 0.88 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000829_ORF4:gid:vioC:pid:AAD51810.1:loc:6297:7587:strand:+ -            429   5.3e-07   29.9   0.4   1   1   9.3e-10   2.6e-06   27.7   0.3     1    31     6    36     6    57 0.89 NAD(P)-binding Rossmann-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000829.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000829.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000829.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:42:12 2023
+# [ok]

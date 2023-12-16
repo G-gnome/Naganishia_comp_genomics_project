@@ -1,0 +1,21 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.15   239 BGC0000942_ORF1:gid:asbA:pid:AAP25873.1:loc:0:1809:strand:+ -            602     1e-55  189.0   0.0   1   1   1.5e-59   1.4e-55  188.6   0.0     1   239   153   388   153   388 0.93 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000942_ORF1:gid:asbA:pid:AAP25873.1:loc:0:1809:strand:+ -            602   1.7e-39  136.0   0.1   1   1   3.5e-43   3.5e-39  135.0   0.1     2   161   419   578   418   580 0.97 Ferric iron reductase FhuF-like transporter
+IucA_IucC            PF04183.15   239 BGC0000942_ORF2:gid:asbB:pid:AAP25874.1:loc:1867:3706:strand:+ -            612   5.3e-75  252.2   0.0   1   1     8e-79   7.9e-75  251.6   0.0     2   238   149   390   148   391 0.97 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000942_ORF2:gid:asbB:pid:AAP25874.1:loc:1867:3706:strand:+ -            612   3.5e-31  108.9   0.1   1   1   6.3e-35   6.2e-31  108.1   0.1     2   160   411   581   410   584 0.91 Ferric iron reductase FhuF-like transporter
+AMP-binding          PF00501.31   424 BGC0000942_ORF3:gid:asbC:pid:AAP25875.1:loc:3692:4931:strand:+ -            412   1.2e-21   77.0   0.2   1   1   7.6e-25   7.5e-21   74.4   0.0   120   355    55   279    18   290 0.72 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000942_ORF3:gid:asbC:pid:AAP25875.1:loc:3692:4931:strand:+ -            412   1.2e-11   45.6   0.3   1   1     2e-15     2e-11   44.8   0.3     1    76   328   399   328   399 0.95 AMP-binding enzyme C-terminal domain
+DUF6005              PF19468.2    327 BGC0000942_ORF5:gid:asbE:pid:AAP25877.1:loc:5226:6210:strand:+ -            327  2.9e-141  470.3   7.1   1   1  1.8e-145  3.6e-141  470.0   7.1     1   320     3   322     3   325 0.99 Family of unknown function (DUF6005)
+AP_endonuc_2         PF01261.27   250 BGC0000942_ORF6:gid:asbF:pid:AAP25878.1:loc:6247:7090:strand:+ -            280     3e-30  105.9   0.1   1   1   1.8e-34   3.6e-30  105.6   0.1     2   248    22   271    21   273 0.86 Xylose isomerase-like TIM barrel
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000942.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000942.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000942.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:18:26 2023
+# [ok]

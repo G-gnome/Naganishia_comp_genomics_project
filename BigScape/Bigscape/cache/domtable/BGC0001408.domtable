@@ -1,0 +1,25 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Orn_Arg_deC_N        PF02784.19   247 BGC0001408_ORF1:gid:lysA:pid:AAW74608.1:loc:0:1281:strand:- -            426   1.5e-27   96.7   0.0   1   1   2.8e-31   1.8e-27   96.4   0.0     4   247    63   308    60   308 0.92 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.25    95 BGC0001408_ORF1:gid:lysA:pid:AAW74608.1:loc:0:1281:strand:- -            426     2e-15   56.8   0.0   1   1   3.7e-19   2.4e-15   56.6   0.0     2    95    56   400    55   400 0.80 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+Ala_racemase_N       PF01168.23   219 BGC0001408_ORF1:gid:lysA:pid:AAW74608.1:loc:0:1281:strand:- -            426   5.4e-15   55.8   0.9   1   1   2.1e-18   1.4e-14   54.4   0.9     2   179    59   251    58   279 0.79 Alanine racemase, N-terminal domain
+IucA_IucC            PF04183.15   239 BGC0001408_ORF2:gid:iucA:pid:AAW74609.1:loc:1193:2969:strand:- -            591     7e-42  143.8   1.6   1   1   1.4e-45   1.3e-41  142.8   1.6     2   238   152   381   151   382 0.90 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0001408_ORF2:gid:iucA:pid:AAW74609.1:loc:1193:2969:strand:- -            591   1.2e-34  120.2   4.3   1   1   2.8e-38   2.8e-34  119.0   4.3     2   162   411   570   410   571 0.95 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.19   353 BGC0001408_ORF3:gid:yceE:pid:AAW74610.1:loc:2940:4137:strand:- -            398   3.2e-19   69.2  58.6   1   1   8.5e-21   1.7e-16   60.3  30.9    14   264    21   269     8   274 0.77 Major Facilitator Superfamily
+IucA_IucC            PF04183.15   239 BGC0001408_ORF4:gid:RhbC:pid:AAW74611.1:loc:4133:5966:strand:- -            610   1.6e-34  119.7   1.7   1   1   5.6e-38   5.5e-34  117.9   1.3     5   239   170   385   166   385 0.88 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0001408_ORF4:gid:RhbC:pid:AAW74611.1:loc:4133:5966:strand:- -            610   1.3e-18   68.1   3.9   1   1   1.3e-22   1.3e-18   68.1   3.9     2   151   408   563   407   579 0.87 Ferric iron reductase FhuF-like transporter
+TonB_dep_Rec         PF00593.27   470 BGC0001408_ORF6:gid:fecA:pid:AAW74613.1:loc:7394:9536:strand:- -            713   8.3e-41  141.5  25.0   1   1   1.3e-44   8.3e-41  141.5  25.0    16   470   258   712   250   712 0.74 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0001408_ORF6:gid:fecA:pid:AAW74613.1:loc:7394:9536:strand:- -            713   1.2e-20   74.1   0.7   1   1     4e-24   2.6e-20   73.1   0.7     3   108    66   176    64   176 0.93 TonB-dependent Receptor Plug Domain
+OMP_b-brl_3          PF14905.9    408 BGC0001408_ORF6:gid:fecA:pid:AAW74613.1:loc:7394:9536:strand:- -            713   2.4e-08   33.6   0.9   1   1     9e-11   5.9e-07   29.0   0.9   107   385   415   692   382   711 0.79 Outer membrane protein beta-barrel family
+HpcH_HpaI            PF03328.17   221 BGC0001408_ORF7:gid:mphE:pid:AAW74614.1:loc:9536:10298:strand:- -            253     1e-27   96.9   0.0   1   1     7e-32   1.4e-27   96.5   0.0    13   185    16   196    10   215 0.92 HpcH/HpaI aldolase/citrate lyase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001408.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001408.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001408.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:15:26 2023
+# [ok]

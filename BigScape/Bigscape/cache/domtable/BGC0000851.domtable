@@ -1,0 +1,19 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA_Me_trans_C      PF20258.1     77 BGC0000851_ORF1:gid::pid:AAN07906.1:loc:0:228:strand:+ -             75   6.8e-14   52.1   0.1   1   1   4.3e-18   8.5e-14   51.8   0.1    33    77    22    65    18    65 0.92 Aminomethyltransferase beta-barrel domain
+Nitroreductase       PF00881.27   168 BGC0000851_ORF2:gid:albA:pid:AAN07907.1:loc:710:1370:strand:+ -            219   1.4e-26   93.7   1.0   1   2   2.4e-16   2.3e-12   47.4   0.5     2    54    45    97    44   104 0.91 Nitroreductase family
+Nitroreductase       PF00881.27   168 BGC0000851_ORF2:gid:albA:pid:AAN07907.1:loc:710:1370:strand:+ -            219   1.4e-26   93.7   1.0   2   2   1.3e-15   1.2e-11   45.1   0.0    96   168   112   188    98   188 0.85 Nitroreductase family
+CDPS                 PF16715.8    220 BGC0000851_ORF4:gid:albC:pid:AAN07909.1:loc:1683:2403:strand:+ -            239   4.5e-69  232.6   0.1   1   1   2.8e-73   5.4e-69  232.4   0.1     6   220    18   232    14   232 0.99 Cyclodipeptide synthase
+ELFV_dehydrog_N      PF02812.21   130 BGC0000851_ORF6:gid::pid:AAN07911.1:loc:3400:4523:strand:+ -            374   9.5e-49  164.6   0.0   1   1   1.5e-52   1.5e-48  164.0   0.0     1   129    97   224    97   225 0.99 Glu/Leu/Phe/Val dehydrogenase, dimerisation domain
+ELFV_dehydrog        PF00208.24   243 BGC0000851_ORF6:gid::pid:AAN07911.1:loc:3400:4523:strand:+ -            374   2.6e-39  135.6   1.6   1   1   3.6e-43   3.5e-39  135.1   1.6     1   132   243   373   243   374 0.97 Glutamate/Leucine/Phenylalanine/Valine dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000851.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000851.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000851.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:50:55 2023
+# [ok]

@@ -1,0 +1,32 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="580.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="570.0333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (AT3G32030)
+Terpenoid cyclases/Protein prenyltransferases superfamily protein</title>
+			<polygon class=" (AT3G32030)
+Terpenoid cyclases/Protein prenyltransferases superfamily protein" points="111,25 45,25 45,10 15,40 45,70 45,55 111,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_synth_C (PF03936)
+"Terpene synthase family, metal binding domain"</title>
+				<rect class="PF03936" x="56" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(219,91,215)" stroke="rgb(175,72,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Terpene_synth (PF01397)
+"Terpene synthase, N-terminal domain"</title>
+				<rect class="PF01397" x="86" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(74,159,219)" stroke="rgb(59,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AT3G32040)
+Terpenoid synthases superfamily protein</title>
+			<polygon class=" (AT3G32040)
+Terpenoid synthases superfamily protein" points="566,25 557,25 557,10 527,40 557,70 557,55 566,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="531,40 543,28 556,28 556,52 543,52 531,40" stroke-linejoin="round" width="25" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

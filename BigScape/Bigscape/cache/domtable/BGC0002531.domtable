@@ -1,0 +1,26 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PapD_N               PF00345.23   125 BGC0002531_ORF1:gid::pid:ABI87083.1:loc:214:961:strand:+ -            248   1.5e-40  138.2   0.5   1   1   2.4e-44   2.4e-40  137.5   0.5     2   124    32   148    31   149 0.95 Pili and flagellar-assembly chaperone, PapD N-terminal domain
+PapD_C               PF02753.20    63 BGC0002531_ORF1:gid::pid:ABI87083.1:loc:214:961:strand:+ -            248   2.1e-15   57.0   0.9   1   1   4.1e-19     4e-15   56.1   0.4     3    62   175   232   174   233 0.97 Pili assembly chaperone PapD, C-terminal domain
+Fimbrial             PF00419.23   155 BGC0002531_ORF2:gid::pid:ABI87084.1:loc:957:1980:strand:+ -            340   6.9e-11   42.7   0.0   1   1   6.6e-15   1.3e-10   41.8   0.0    10   152   205   337   196   339 0.77 Fimbrial protein
+Sigma70_r2           PF04542.17    71 BGC0002531_ORF5:gid::pid:ABI87087.1:loc:2901:3570:strand:+ -            222   1.8e-12   47.0   0.4   1   1   6.3e-16   6.2e-12   45.3   0.1     4    69    51   113    49   115 0.91 Sigma-70 region 2
+MbtH                 PF03621.16    53 BGC0002531_ORF6:gid::pid:ABI87088.1:loc:3665:3908:strand:+ -             80   3.9e-23   80.7   0.1   1   1   2.8e-27   5.5e-23   80.3   0.1     4    52     8    56     5    57 0.94 MbtH-like protein
+TauD                 PF02668.19   268 BGC0002531_ORF7:gid::pid:ABI87089.1:loc:3954:4974:strand:+ -            339   3.8e-47  161.5   0.0   1   1   2.3e-51   4.6e-47  161.2   0.0     9   267    25   321    13   322 0.88 Taurine catabolism dioxygenase TauD, TfdA family
+ABC_tran             PF00005.30   137 BGC0002531_ORF8:gid::pid:ABI87090.1:loc:4963:5815:strand:+ -            283     1e-30  107.2   0.0   1   1   1.3e-34   1.3e-30  106.8   0.0     2   136    24   171    23   172 0.97 ABC transporter
+FecCD                PF01032.21   312 BGC0002531_ORF9:gid::pid:ABI87091.1:loc:5811:7905:strand:+ -            697  1.5e-135  451.3  77.4   1   2   3.1e-61   6.2e-57  193.1  38.9     3   312    30   339    27   339 0.92 FecCD transport family
+FecCD                PF01032.21   312 BGC0002531_ORF9:gid::pid:ABI87091.1:loc:5811:7905:strand:+ -            697  1.5e-135  451.3  77.4   2   2   6.7e-83   1.3e-78  264.3  30.5     3   310   383   685   380   687 0.97 FecCD transport family
+FhuF                 PF06276.15   163 BGC0002531_ORF10:gid::pid:ABI87092.1:loc:7901:8702:strand:+ -            266   4.7e-24   85.8   0.0   1   1   1.1e-27   1.1e-23   84.6   0.0     1   154    77   213    77   221 0.87 Ferric iron reductase FhuF-like transporter
+FhuF_C               PF11575.11    21 BGC0002531_ORF10:gid::pid:ABI87092.1:loc:7901:8702:strand:+ -            266   2.1e-07   30.9   5.7   1   1   4.9e-11   4.8e-07   29.7   5.7     1    21   229   250   229   250 0.97 FhuF 2Fe-2S C-terminal domain
+Peripla_BP_2         PF01497.21   237 BGC0002531_ORF11:gid::pid:ABI87093.1:loc:8698:9736:strand:+ -            345   2.3e-15   56.8   0.0   1   1   1.5e-19     3e-15   56.5   0.0     1   233    70   313    70   316 0.85 Periplasmic binding protein
+ABC_tran             PF00005.30   137 BGC0002531_ORF12:gid::pid:ABI87094.1:loc:9958:11704:strand:- -            581   1.1e-26   94.1   0.0   1   1   1.8e-30   1.8e-26   93.4   0.0     4   136   371   511   368   512 0.93 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002531.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002531.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002531.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:22:56 2023
+# [ok]

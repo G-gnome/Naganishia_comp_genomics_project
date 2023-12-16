@@ -1,0 +1,24 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nitroreductase       PF00881.27   168 BGC0000566_ORF2:gid:sagB:pid:AAK33685.1:loc:383:1334:strand:+ -            316     2e-17   63.9   0.0   1   1   3.1e-21   6.1e-17   62.4   0.0     1   164   125   308   125   312 0.84 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0000566_ORF4:gid::pid:AAK33687.1:loc:2408:3767:strand:+ -            452   2.5e-43  148.8   0.0   1   1   1.5e-47     3e-43  148.5   0.0     2   321    69   421    68   422 0.82 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Rce1-like            PF02517.19    92 BGC0000566_ORF5:gid::pid:AAK33688.1:loc:3741:4413:strand:+ -            223   3.4e-08   33.9  18.5   1   1     7e-12   1.4e-07   31.9  16.7    11    91   123   206    74   207 0.87 Type II CAAX prenyl endopeptidase Rce1-like
+DUF5968              PF19393.2    150 BGC0000566_ORF6:gid::pid:AAK33689.1:loc:4409:5093:strand:+ -            227   1.5e-20   74.0  18.2   1   1   7.5e-25   1.5e-20   74.0  18.2     3   150    86   226    83   226 0.93 Family of unknown function (DUF5968)
+ABC_tran             PF00005.30   137 BGC0000566_ORF7:gid::pid:AAK33690.1:loc:5115:6039:strand:+ -            307   1.5e-33  116.3   0.0   1   1   2.6e-37   2.5e-33  115.6   0.0     2   136    21   162    20   163 0.90 ABC transporter
+AAA_21               PF13304.9    304 BGC0000566_ORF7:gid::pid:AAK33690.1:loc:5115:6039:strand:+ -            307   2.3e-14   54.0   0.5   1   1   4.9e-12   4.8e-08   33.3   0.0   236   298   133   192   109   197 0.94 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_3      PF12698.10   346 BGC0000566_ORF8:gid:sagH:pid:AAK33691.1:loc:6047:7175:strand:+ -            375   1.9e-26   93.2  26.8   1   1   3.5e-30   2.3e-26   92.9  26.8     4   345    21   366    18   367 0.81 ABC-2 family transporter protein
+ABC2_membrane        PF01061.27   210 BGC0000566_ORF8:gid:sagH:pid:AAK33691.1:loc:6047:7175:strand:+ -            375   1.4e-15   57.4  27.5   1   1   4.1e-17   2.7e-13   50.0  14.2    53   210   183   340   150   340 0.90 ABC-2 type transporter
+ABC2_membrane_2      PF12679.10   288 BGC0000566_ORF8:gid:sagH:pid:AAK33691.1:loc:6047:7175:strand:+ -            375   1.6e-08   34.3  12.2   1   1   3.2e-12   2.1e-08   33.9  12.2     3   239     6   339     4   369 0.79 ABC-2 family transporter protein
+ABC2_membrane_3      PF12698.10   346 BGC0000566_ORF9:gid::pid:AAK33692.1:loc:7171:8290:strand:+ -            372   3.7e-39  134.9  25.2   1   1   4.4e-43   4.4e-39  134.7  25.2     3   343    18   362    16   365 0.84 ABC-2 family transporter protein
+ABC2_membrane        PF01061.27   210 BGC0000566_ORF9:gid::pid:AAK33692.1:loc:7171:8290:strand:+ -            372   7.4e-19   68.1  22.2   1   1   7.5e-23   7.4e-19   68.1  22.2    57   206   186   334   156   338 0.89 ABC-2 type transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000566.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000566.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000566.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:25:20 2023
+# [ok]

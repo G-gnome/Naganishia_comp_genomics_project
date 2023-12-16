@@ -1,0 +1,15 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.3    199 BGC0001746_ORF1:gid::pid:WP_005320742.1:loc:0:1119:strand:- -            372   4.7e-45  154.0   0.0   1   1   6.1e-49     6e-45  153.7   0.0     1   197    91   287    91   289 0.95 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth_C      PF03936.19   267 BGC0001746_ORF1:gid::pid:WP_005320742.1:loc:0:1119:strand:- -            372   2.8e-06   27.0   0.0   1   1   4.1e-10     4e-06   26.5   0.0   141   263   164   285   149   289 0.87 Terpene synthase family, metal binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001746.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001746.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001746.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:50:43 2023
+# [ok]

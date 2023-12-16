@@ -1,0 +1,19 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.20   256 BGC0001082_ORF1:gid:paxG:pid:AAK11531.1:loc:0:1294:strand:- -            371   6.7e-61  205.7   0.0   1   1   4.4e-65   8.7e-61  205.4   0.0     2   255    74   314    73   315 0.95 Polyprenyl synthetase
+FAD_binding_3        PF01494.22   349 BGC0001082_ORF3:gid:paxM:pid:AAK11530.1:loc:3719:5278:strand:- -            477   1.5e-25   90.3   0.0   1   1   6.1e-29     4e-25   88.9   0.0     2   318     6   335     5   339 0.75 FAD binding domain
+polyprenyl_synt      PF00348.20   256 BGC0001082_ORF5:gid:paxC:pid:AAK11529.1:loc:7641:8718:strand:+ -            317   2.7e-23   82.5   0.0   1   1     2e-27     4e-23   81.9   0.0     6   228    42   256    38   301 0.85 Polyprenyl synthetase
+p450                 PF00067.25   463 BGC0001082_ORF6:gid:paxP:pid:AAK11528.1:loc:9257:11106:strand:- -            515   6.1e-44  150.7   0.0   1   1   3.8e-48   7.6e-44  150.3   0.0   132   446   171   490    76   504 0.85 Cytochrome P450
+p450                 PF00067.25   463 BGC0001082_ORF7:gid:paxQ:pid:AAK11527.1:loc:13491:15578:strand:- -            512   1.1e-36  126.8   0.0   1   1   5.9e-41   1.2e-36  126.7   0.0   169   455   206   496    59   504 0.86 Cytochrome P450
+Trp_DMAT             PF11991.11   363 BGC0001082_ORF8:gid:paxD:pid:AAK11526.2:loc:17402:18809:strand:- -            438   5.4e-85  286.1   0.0   1   1   3.2e-89   6.3e-85  285.9   0.0     1   362    24   384    24   385 0.92 Tryptophan dimethylallyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001082.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001082.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001082.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:03:13 2023
+# [ok]

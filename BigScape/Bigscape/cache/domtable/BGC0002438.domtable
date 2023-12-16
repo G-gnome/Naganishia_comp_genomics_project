@@ -1,0 +1,38 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_M19        PF01244.24   318 BGC0002438_ORF2:gid:Spd2:pid:QVK45105.1:loc:6715:8353:strand:- -            488   8.4e-98  327.5   0.0   1   1  5.3e-102     1e-97  327.2   0.0     3   318    77   448    75   448 0.97 Membrane dipeptidase (Peptidase family M19)
+p450                 PF00067.25   463 BGC0002438_ORF3:gid:Spd3:pid:QVK45106.1:loc:8684:10548:strand:+ -            506   4.2e-55  187.4   0.0   1   1   2.8e-59   5.5e-55  187.1   0.0    30   451    81   488    68   499 0.92 Cytochrome P450
+Trp_halogenase       PF04820.17   454 BGC0002438_ORF4:gid:Spd4:pid:QVK45107.1:loc:10886:12782:strand:+ -            547     4e-26   92.0   0.4   1   2   2.6e-15   1.3e-11   44.2   0.0     2    88     9    89     8   117 0.87 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0002438_ORF4:gid:Spd4:pid:QVK45107.1:loc:10886:12782:strand:+ -            547     4e-26   92.0   0.4   2   2   6.8e-16   3.3e-12   46.1   0.1   146   372    99   365    94   376 0.68 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0002438_ORF4:gid:Spd4:pid:QVK45107.1:loc:10886:12782:strand:+ -            547   1.5e-11   44.3   0.0   1   1   5.8e-15   2.9e-11   43.4   0.0     2   308     7   329     6   345 0.70 FAD binding domain
+FAD_oxidored         PF12831.10   427 BGC0002438_ORF4:gid:Spd4:pid:QVK45107.1:loc:10886:12782:strand:+ -            547   3.1e-07   30.2   0.4   1   1   1.8e-10   8.8e-07   28.7   0.0     2   150     9   178     8   184 0.71 FAD dependent oxidoreductase
+GST_N_3              PF13417.9     75 BGC0002438_ORF5:gid:Spd5:pid:QVK45108.1:loc:13252:14141:strand:- -            243   2.9e-06   27.6   0.0   1   1   8.2e-10   5.4e-06   26.7   0.0     9    72    41   108    38   117 0.86 Glutathione S-transferase, N-terminal domain
+ABC_tran             PF00005.30   137 BGC0002438_ORF6:gid:Spd6:pid:QVK45109.1:loc:14792:17578:strand:- -            791     1e-32  113.6   0.0   1   1   2.2e-36   2.2e-32  112.6   0.0     2   137   562   710   561   710 0.85 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002438_ORF6:gid:Spd6:pid:QVK45109.1:loc:14792:17578:strand:- -            791   2.9e-19   69.9  12.9   1   1   2.9e-23   2.9e-19   69.9  12.9     2   274   229   499   228   499 0.96 ABC transporter transmembrane region
+Methyltransf_2       PF00891.21   210 BGC0002438_ORF7:gid:Spd7:pid:QVK45110.1:loc:18131:19577:strand:- -            424   5.5e-26   91.3   0.0   1   1   4.6e-30     9e-26   90.6   0.0    24   205   205   395   186   397 0.87 O-methyltransferase domain
+p450                 PF00067.25   463 BGC0002438_ORF8:gid:Spd8:pid:QVK45111.1:loc:19879:21717:strand:+ -            516   5.8e-39  134.2   0.0   1   1   3.6e-43   7.2e-39  133.9   0.0   100   441   152   489    66   505 0.84 Cytochrome P450
+p450                 PF00067.25   463 BGC0002438_ORF10:gid:Spd10:pid:QVK45113.1:loc:23912:25796:strand:- -            534   4.7e-31  108.2   0.0   1   1   3.3e-35   6.5e-31  107.7   0.0   203   448   263   509   159   523 0.79 Cytochrome P450
+Methyltransf_2       PF00891.21   210 BGC0002438_ORF11:gid:Spd11:pid:QVK45114.1:loc:26072:27531:strand:+ -            417   9.8e-19   67.6   0.0   1   1   7.7e-23   1.5e-18   67.0   0.0    11   207   184   388   174   389 0.75 O-methyltransferase domain
+Pyr_redox_2          PF07992.17   295 BGC0002438_ORF13:gid:Spd13:pid:QVK45116.1:loc:29330:30334:strand:- -            313   1.9e-13   50.4   0.0   1   1   3.4e-14   2.2e-10   40.4   0.0     2   123     8   131     7   144 0.69 Pyridine nucleotide-disulphide oxidoreductase
+Aminotran_1_2        PF00155.24   363 BGC0002438_ORF16:gid:Spd16:pid:QVK45119.1:loc:33567:35045:strand:- -            425   5.6e-44  150.9   0.0   1   1   3.5e-48     7e-44  150.6   0.0    25   358    56   398    41   403 0.88 Aminotransferase class I and II
+AMP-binding          PF00501.31   424 BGC0002438_ORF17:gid:Spd17:pid:QVK45120.1:loc:35413:41940:strand:+ -           2087  4.7e-147  490.1   0.0   1   2   4.9e-79   1.9e-75  254.2   0.0     2   424    13   408    12   408 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002438_ORF17:gid:Spd17:pid:QVK45120.1:loc:35413:41940:strand:+ -           2087  4.7e-147  490.1   0.0   2   2   8.3e-73   3.2e-69  233.7   0.0     3   424  1047  1433  1043  1433 0.83 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002438_ORF17:gid:Spd17:pid:QVK45120.1:loc:35413:41940:strand:+ -           2087   3.3e-67  227.3   0.0   1   2   2.9e-31   1.2e-27   96.9   0.1    13   445   618  1008   609  1018 0.74 Condensation domain
+Condensation         PF00668.23   457 BGC0002438_ORF17:gid:Spd17:pid:QVK45120.1:loc:35413:41940:strand:+ -           2087   3.3e-67  227.3   0.0   2   2   6.5e-40   2.6e-36  125.4   0.0    15   413  1641  2021  1632  2047 0.82 Condensation domain
+PP-binding           PF00550.28    67 BGC0002438_ORF17:gid:Spd17:pid:QVK45120.1:loc:35413:41940:strand:+ -           2087   7.8e-08   32.6   0.0   1   1   6.8e-11   2.7e-07   30.9   0.0     3    65  1543  1606  1541  1608 0.92 Phosphopantetheine attachment site
+MFS_1                PF07690.19   353 BGC0002438_ORF18:gid:Spd18:pid:QVK45121.1:loc:42491:44120:strand:- -            542   2.2e-43  148.7  39.6   1   1   3.4e-47   2.2e-43  148.7  39.6     3   352    26   427    24   428 0.85 Major Facilitator Superfamily
+TRI12                PF06609.16   599 BGC0002438_ORF18:gid:Spd18:pid:QVK45121.1:loc:42491:44120:strand:- -            542   1.9e-18   66.3  15.5   1   1   4.7e-22   3.1e-18   65.7  15.5    50   325    23   301    17   321 0.80 Fungal trichothecene efflux pump (TRI12)
+Sugar_tr             PF00083.27   452 BGC0002438_ORF18:gid:Spd18:pid:QVK45121.1:loc:42491:44120:strand:- -            542   2.5e-10   40.0  10.9   1   1   3.8e-14   2.5e-10   40.0  10.9    22   190    30   192    21   194 0.86 Sugar (and other) transporter
+Zn_clus              PF00172.21    40 BGC0002438_ORF20:gid:Spd20:pid:QVK45123.1:loc:46011:47651:strand:+ -            521   4.9e-09   36.3   8.5   1   1   2.5e-13   4.9e-09   36.3   8.5     1    38    18    54    18    56 0.95 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Methyltransf_2       PF00891.21   210 BGC0002438_ORF21:gid:Spd21:pid:QVK45124.1:loc:48387:49732:strand:- -            417   1.3e-25   90.1   0.0   1   1   9.7e-30   1.9e-25   89.6   0.0     7   208   177   391   172   393 0.86 O-methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002438.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002438.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002438.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:41:28 2023
+# [ok]

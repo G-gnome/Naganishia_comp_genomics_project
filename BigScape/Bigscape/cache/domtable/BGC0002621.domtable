@@ -1,0 +1,34 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0002621_ORF1:gid:agmT1:pid:QZN83605.1:loc:254:1562:strand:+ -            435   1.4e-17   63.8  46.4   1   1   4.9e-18   9.6e-14   51.2  23.4     2   204    42   239    41   252 0.84 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0002621_ORF2:gid:agmT2:pid:QZN83606.1:loc:1595:2795:strand:- -            399   5.3e-41  140.8  71.6   1   2   1.3e-37   8.3e-34  117.2  38.6     1   272     8   263     8   266 0.87 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0002621_ORF2:gid:agmT2:pid:QZN83606.1:loc:1595:2795:strand:- -            399   5.3e-41  140.8  71.6   2   2   2.3e-13   1.5e-09   37.4  24.9     2   180   206   384   205   398 0.84 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0002621_ORF2:gid:agmT2:pid:QZN83606.1:loc:1595:2795:strand:- -            399   9.7e-08   31.4  11.4   1   1   1.5e-11   9.7e-08   31.4  11.4    46   192    38   179     8   184 0.87 Sugar (and other) transporter
+MFS_4                PF06779.17   365 BGC0002621_ORF2:gid:agmT2:pid:QZN83606.1:loc:1595:2795:strand:- -            399   3.6e-07   30.0  49.1   1   1     7e-11   4.6e-07   29.6  49.1     3   363    13   370    11   372 0.87 Uncharacterised MFS-type transporter YbfB
+Peripla_BP_3         PF13377.9    166 BGC0002621_ORF3:gid:agmR:pid:QZN83607.1:loc:2855:3728:strand:- -            290   1.8e-26   93.5   3.3   1   1   2.1e-30   2.1e-26   93.3   1.5     1   166   130   285   130   285 0.83 Periplasmic binding protein-like domain
+Peripla_BP_1         PF00532.24   279 BGC0002621_ORF3:gid:agmR:pid:QZN83607.1:loc:2855:3728:strand:- -            290   1.5e-14   54.3   0.0   1   1   2.2e-18   2.1e-14   53.7   0.0     2   276    29   280    28   283 0.84 Periplasmic binding proteins and sugar binding domain of LacI family
+Lysine_decarbox      PF03641.17   132 BGC0002621_ORF4:gid:agmA:pid:QZN83608.1:loc:4028:4610:strand:+ -            193   6.5e-39  133.2   0.0   1   1   7.9e-43   7.8e-39  133.0   0.0     1   129    47   174    47   177 0.97 Possible lysine decarboxylase
+LDcluster4           PF18306.4    151 BGC0002621_ORF4:gid:agmA:pid:QZN83608.1:loc:4028:4610:strand:+ -            193   1.5e-11   44.1   0.1   1   1   1.9e-15   1.9e-11   43.9   0.1    12   111    15   116     2   130 0.83 SLOG cluster4 family
+HAD                  PF12710.10   188 BGC0002621_ORF5:gid:agmB:pid:QZN83609.1:loc:4606:5281:strand:+ -            224   1.4e-16   61.7   0.7   1   1   3.9e-20   2.5e-16   60.8   0.7     1   188    27   182    27   182 0.76 haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 BGC0002621_ORF5:gid:agmB:pid:QZN83609.1:loc:4606:5281:strand:+ -            224   1.3e-08   35.5   0.0   1   1   8.9e-11   5.8e-07   30.1   0.0     3   206    26   181    24   184 0.75 haloacid dehalogenase-like hydrolase
+Hydrolase_3          PF08282.15   255 BGC0002621_ORF5:gid:agmB:pid:QZN83609.1:loc:4606:5281:strand:+ -            224   4.5e-08   33.3   0.0   1   1   2.1e-09   1.4e-05   25.2   0.0   192   241   154   202   143   207 0.87 haloacid dehalogenase-like hydrolase
+Pribosyltran_N       PF13793.9    116 BGC0002621_ORF6:gid:agmC:pid:QZN83604.1:loc:5277:6357:strand:+ -            359   1.2e-15   57.6   0.0   1   1   3.5e-19   3.5e-15   56.1   0.0    22   116    54   153    46   153 0.92 N-terminal domain of ribose phosphate pyrophosphokinase
+Pribosyltran         PF00156.30   158 BGC0002621_ORF6:gid:agmC:pid:QZN83604.1:loc:5277:6357:strand:+ -            359   1.9e-10   40.5   2.0   1   1   6.8e-14   6.7e-10   38.7   0.2    30   132   198   294   196   301 0.87 Phosphoribosyl transferase domain
+Ribul_P_3_epim       PF00834.22   198 BGC0002621_ORF7:gid:agmD:pid:QZN83610.1:loc:6340:7060:strand:+ -            239   5.3e-29  101.2   0.0   1   1   3.1e-33   6.1e-29  101.0   0.0     2   198    20   216    19   216 0.94 Ribulose-phosphate 3 epimerase family
+Pribosyltran         PF00156.30   158 BGC0002621_ORF8:gid:agmE:pid:QZN83611.1:loc:7111:7648:strand:+ -            178   2.5e-13   49.8   0.2   1   1   1.7e-17   3.3e-13   49.4   0.2    14   124    41   157    35   170 0.85 Phosphoribosyl transferase domain
+AdoHcyase_NAD        PF00670.24   162 BGC0002621_ORF9:gid:agmF:pid:QZN83612.1:loc:7721:8993:strand:+ -            423   8.5e-51  172.4   0.3   1   1   2.7e-54   1.3e-50  171.8   0.3     1   161   189   349   189   350 0.99 S-adenosyl-L-homocysteine hydrolase, NAD binding domain
+AdoHcyase            PF05221.20   299 BGC0002621_ORF9:gid:agmF:pid:QZN83612.1:loc:7721:8993:strand:+ -            423   6.3e-50  170.1   0.0   1   2   3.2e-30   1.6e-26   93.3   0.2     3   141     9   142     7   153 0.94 S-adenosyl-L-homocysteine hydrolase
+AdoHcyase            PF05221.20   299 BGC0002621_ORF9:gid:agmF:pid:QZN83612.1:loc:7721:8993:strand:+ -            423   6.3e-50  170.1   0.0   2   2   7.7e-25   3.8e-21   75.6   0.0   184   286   152   416   141   422 0.97 S-adenosyl-L-homocysteine hydrolase
+2-Hacid_dh_C         PF02826.22   178 BGC0002621_ORF9:gid:agmF:pid:QZN83612.1:loc:7721:8993:strand:+ -            423   1.9e-09   37.2   0.1   1   1   8.2e-13     4e-09   36.2   0.1    12   141   185   313   175   327 0.80 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+IlvN                 PF07991.15   165 BGC0002621_ORF9:gid:agmF:pid:QZN83612.1:loc:7721:8993:strand:+ -            423   0.00012   21.9   0.5   1   1   4.1e-08    0.0002   21.1   0.1     3    99   210   302   208   312 0.82 Acetohydroxy acid isomeroreductase, NADPH-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002621.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002621.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002621.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:12:39 2023
+# [ok]

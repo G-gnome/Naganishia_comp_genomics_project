@@ -1,0 +1,28 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Radical_SAM          PF04055.24   167 BGC0001860_ORF1:gid::pid:ADG87272.1:loc:0:1215:strand:- -            404   5.4e-21   75.8   0.6   1   1   5.6e-25   1.1e-20   74.8   0.2     5   165    12   187     8   189 0.79 Radical SAM superfamily
+p450                 PF00067.25   463 BGC0001860_ORF2:gid::pid:ADG87273.1:loc:1433:2606:strand:- -            390   3.2e-39  135.1   0.4   1   2   1.8e-11   3.5e-07   29.5   0.0    49   129    40   117    18   132 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0001860_ORF2:gid::pid:ADG87273.1:loc:1433:2606:strand:- -            390   3.2e-39  135.1   0.4   2   2   4.5e-32   8.8e-28   97.4   0.6   213   434   175   362   150   370 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0001860_ORF3:gid::pid:ADG87274.1:loc:2606:3827:strand:- -            406   1.8e-36  126.0   0.0   1   1   4.6e-33     9e-29  100.7   0.0   204   460   183   401   163   404 0.87 Cytochrome P450
+TetR_N               PF00440.26    47 BGC0001860_ORF4:gid::pid:ADG87275.1:loc:3847:4537:strand:- -            229   5.4e-11   42.2   0.0   1   1   5.7e-15   1.1e-10   41.2   0.0     5    46     4    45     1    46 0.93 Bacterial regulatory proteins, tetR family
+Thiopep_pre          PF19409.2     36 BGC0001860_ORF5:gid::pid:ADG87276.1:loc:5048:5198:strand:+ -             49   1.3e-08   34.6   7.4   1   1   6.7e-13   1.3e-08   34.6   7.4     1    36    17    46    17    46 0.97 Thiopeptide-type bacteriocin precursor
+Lant_dehydr_N        PF04738.16   650 BGC0001860_ORF6:gid::pid:ADG87277.1:loc:5282:7859:strand:+ -            858   5.7e-31  107.3   2.3   1   2   5.6e-23   1.1e-18   66.8   0.3     1   193   153   349   153   406 0.88 Lantibiotic dehydratase, N terminus
+Lant_dehydr_N        PF04738.16   650 BGC0001860_ORF6:gid::pid:ADG87277.1:loc:5282:7859:strand:+ -            858   5.7e-31  107.3   2.3   2   2   9.1e-15   1.8e-10   39.6   0.1   465   630   611   784   542   792 0.75 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0001860_ORF7:gid::pid:ADG87278.1:loc:7855:8752:strand:+ -            298   6.2e-44  151.0   9.0   1   1   1.9e-47   3.7e-43  148.5   9.0     1   287    10   291    10   292 0.84 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.9    288 BGC0001860_ORF8:gid::pid:ADG87279.1:loc:8751:9828:strand:+ -            358   6.1e-74  249.5   7.3   1   1   3.6e-78     7e-74  249.3   7.3     1   287     7   343     7   344 0.99 Lantibiotic biosynthesis dehydratase C-term
+Nitroreductase       PF00881.27   168 BGC0001860_ORF9:gid::pid:ADG87280.1:loc:9824:11201:strand:+ -            458   1.6e-13   51.2   0.0   1   1   1.4e-17   2.8e-13   50.4   0.0     2   155   260   433   259   441 0.88 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0001860_ORF10:gid::pid:ADG87281.1:loc:11197:13081:strand:+ -            627   1.4e-09   37.8   4.8   1   1   5.4e-12   1.1e-07   31.7   4.4    58   228   382   552   352   623 0.73 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+YcaO                 PF02624.19   322 BGC0001860_ORF11:gid::pid:ADG87282.1:loc:13073:15047:strand:+ -            657   2.2e-80  270.5   2.2   1   1   1.1e-84   2.2e-80  270.5   2.2     2   321   263   612   262   613 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Peptidase_M20        PF01546.31   207 BGC0001860_ORF12:gid::pid:ADG87283.1:loc:15058:16387:strand:+ -            442   7.2e-17   61.9   0.2   1   1   1.6e-20   1.6e-16   60.8   0.2     1   176    80   371    80   383 0.83 Peptidase family M20/M25/M40
+M20_dimer            PF07687.17   109 BGC0001860_ORF12:gid::pid:ADG87283.1:loc:15058:16387:strand:+ -            442     4e-12   46.1   0.1   1   1   7.9e-16   7.8e-12   45.2   0.1     8   105   205   300   201   304 0.92 Peptidase dimerisation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001860.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001860.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001860.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:25:47 2023
+# [ok]

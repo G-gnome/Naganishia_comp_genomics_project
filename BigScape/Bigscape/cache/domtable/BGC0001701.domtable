@@ -1,0 +1,31 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0001701_ORF1:gid:nsoF:pid:ASY03206.1:loc:774:1479:strand:+ -            234   1.1e-32  113.5   0.0   1   1   1.6e-36   1.5e-32  113.1   0.0     2   137    21   157    20   157 0.98 ABC transporter
+AAA_21               PF13304.9    304 BGC0001701_ORF1:gid:nsoF:pid:ASY03206.1:loc:774:1479:strand:+ -            234   4.6e-14   53.0   1.1   1   1   2.4e-13   2.3e-09   37.6   0.0   233   299   124   187    63   192 0.83 AAA domain, putative AbiEii toxin, Type IV TA system
+Spa1_C               PF18218.4     99 BGC0001701_ORF4:gid:nsoI:pid:ASY03209.1:loc:2945:3782:strand:+ -            278   6.8e-45  151.7   7.4   1   2   4.5e-24   8.8e-20   71.1   1.3     1    99    43   145    43   145 0.95 Lantibiotic immunity protein Spa1 C-terminal domain
+Spa1_C               PF18218.4     99 BGC0001701_ORF4:gid:nsoI:pid:ASY03209.1:loc:2945:3782:strand:+ -            278   6.8e-45  151.7   7.4   2   2   3.7e-28   7.3e-24   84.2   0.5     1    95   176   270   176   274 0.97 Lantibiotic immunity protein Spa1 C-terminal domain
+Response_reg         PF00072.27   112 BGC0001701_ORF5:gid:nsoR1:pid:ASY03210.1:loc:3846:4509:strand:+ -            220   3.2e-23   82.2   0.2   1   1   4.4e-27   4.3e-23   81.7   0.2     1   112     3   111     3   111 0.96 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0001701_ORF5:gid:nsoR1:pid:ASY03210.1:loc:3846:4509:strand:+ -            220   4.1e-20   71.8   0.0   1   1   9.5e-24   9.3e-20   70.6   0.0     2    76   146   218   145   219 0.96 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.29   112 BGC0001701_ORF6:gid:nsoK1:pid:ASY03211.1:loc:4499:5858:strand:+ -            452   4.9e-15   56.1   0.1   1   1   1.7e-18   1.1e-14   55.0   0.1     6   104   352   448   347   452 0.83 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.28    67 BGC0001701_ORF6:gid:nsoK1:pid:ASY03211.1:loc:4499:5858:strand:+ -            452   2.7e-12   46.7   0.3   1   1   8.7e-16   5.7e-12   45.6   0.3     2    65   238   300   237   302 0.92 His Kinase A (phospho-acceptor) domain
+Gallidermin          PF02052.18    52 BGC0001701_ORF7:gid:nsoA1:pid:ASY03212.1:loc:6364:6535:strand:+ -             56   4.5e-07   30.2   0.1   1   1   2.3e-11   4.5e-07   30.2   0.1     9    42     5    35     2    39 0.84 Gallidermin
+Gallidermin          PF02052.18    52 BGC0001701_ORF8:gid:nsoA2:pid:ASY03213.1:loc:6557:6728:strand:+ -             56   4.2e-07   30.3   0.1   1   1   2.1e-11   4.2e-07   30.3   0.1     9    42     5    35     2    39 0.84 Gallidermin
+Gallidermin          PF02052.18    52 BGC0001701_ORF9:gid:nsoA3:pid:ASY03214.1:loc:6751:6922:strand:+ -             56   4.2e-07   30.3   0.1   1   1   2.1e-11   4.2e-07   30.3   0.1     9    42     5    35     2    39 0.84 Gallidermin
+Response_reg         PF00072.27   112 BGC0001701_ORF11:gid:nsoR2:pid:ASY03216.1:loc:7258:7924:strand:+ -            221   4.4e-25   88.2   0.1   1   1   6.3e-29   6.2e-25   87.7   0.1     1   112     4   112     4   112 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0001701_ORF11:gid:nsoR2:pid:ASY03216.1:loc:7258:7924:strand:+ -            221   7.7e-17   61.3   0.1   1   1   1.9e-20   1.8e-16   60.1   0.0     3    76   146   217   144   218 0.96 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.29   112 BGC0001701_ORF12:gid:nsoK2:pid:ASY03217.1:loc:7908:9267:strand:+ -            452   1.8e-08   35.0   0.0   1   1   1.8e-12   3.6e-08   34.0   0.0     2   110   344   451   343   452 0.92 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Lant_dehydr_N        PF04738.16   650 BGC0001701_ORF13:gid:nsoB:pid:ASY03218.1:loc:9638:12698:strand:+ -           1019  1.9e-126  422.8   0.0   1   1  2.3e-130  2.3e-126  422.6   0.0     2   649    36   675    35   676 0.95 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0001701_ORF13:gid:nsoB:pid:ASY03218.1:loc:9638:12698:strand:+ -           1019     1e-30  107.6   0.1   1   1   2.6e-33   2.6e-29  103.0   0.1     1   282   746  1000   746  1005 0.82 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.30   137 BGC0001701_ORF14:gid:nsoT:pid:ASY03219.1:loc:12681:14493:strand:+ -            603   1.3e-32  113.3   0.0   1   1   2.3e-36   2.3e-32  112.5   0.0     1   136   371   525   371   526 0.91 ABC transporter
+LANC_like            PF05147.16   352 BGC0001701_ORF15:gid:nsoC:pid:ASY03220.1:loc:14473:15820:strand:+ -            448   8.4e-67  225.4   2.9   1   1   5.2e-71     1e-66  225.1   2.9     3   352    52   446    50   446 0.91 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001701.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001701.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001701.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:54:28 2023
+# [ok]

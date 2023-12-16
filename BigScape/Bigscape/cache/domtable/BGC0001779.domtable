@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0001779_ORF1:gid::pid:AJE44468.1:loc:0:903:strand:+ -            300   1.3e-24   87.4   0.0   1   1   1.8e-28   1.8e-24   86.9   0.0     2   137    18   156    17   156 0.96 ABC transporter
+AAA_21               PF13304.9    304 BGC0001779_ORF1:gid::pid:AJE44468.1:loc:0:903:strand:+ -            300   5.3e-12   46.3   0.0   1   1   4.6e-12   4.5e-08   33.3   0.0   237   298   127   185    60   191 0.90 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0001779_ORF2:gid::pid:AJE44469.1:loc:895:1648:strand:+ -            250   3.1e-07   30.6   0.5   1   1   2.9e-11   5.7e-07   29.8   0.5     2   173     8   184     7   199 0.66 ABC-2 family transporter protein
+PqqD                 PF05402.15    67 BGC0001779_ORF3:gid::pid:AJE44470.1:loc:3787:4051:strand:+ -             87   7.6e-11   42.3   0.0   1   1   4.6e-15     9e-11   42.1   0.0     2    67    18    83    17    83 0.94 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0001779_ORF4:gid::pid:AJE44471.1:loc:4047:4476:strand:+ -            142   2.3e-24   85.7   6.3   1   1   1.5e-28     3e-24   85.3   6.3     4   116    24   132    22   133 0.95 Transglutaminase-like superfamily
+ABC_tran             PF00005.30   137 BGC0001779_ORF5:gid::pid:AJE44472.1:loc:4472:5441:strand:+ -            322   6.9e-27   94.8   0.0   1   1   1.1e-30   1.1e-26   94.1   0.0     2   136    21   163    20   164 0.87 ABC transporter
+ABC2_membrane        PF01061.27   210 BGC0001779_ORF6:gid::pid:AJE44473.1:loc:5437:6292:strand:+ -            284   1.6e-34  119.4  12.2   1   1   2.2e-38   2.1e-34  118.9  12.2     4   208    27   235    24   236 0.91 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0001779_ORF6:gid::pid:AJE44473.1:loc:5437:6292:strand:+ -            284   7.1e-14   51.8  10.7   1   1   8.9e-18   8.8e-14   51.5  10.7   155   344    72   276    48   278 0.88 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001779.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001779.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001779.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:47:16 2023
+# [ok]

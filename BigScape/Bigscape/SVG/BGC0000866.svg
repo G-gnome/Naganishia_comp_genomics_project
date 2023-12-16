@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="203.33333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="193.33333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+PhaC</title>
+			<polygon class="
+PhaC" points="25,25 57,25 57,10 87,40 57,70 57,55 25,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhaC_N (PF07167)
+"Poly-beta-hydroxybutyrate polymerase (PhaC) N-terminus"</title>
+				<rect class="PF07167" x="38" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(147,68,191)" stroke="rgb(117,54,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+PhaA</title>
+			<polygon class="
+PhaA" points="91,25 100,25 100,10 130,40 100,70 100,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thiolase_N (PF00108)
+"Thiolase, N-terminal domain"</title>
+				<polygon class="PF00108" points="91,28 114,28 116,30 116,50 114,52 91,52" stroke-linejoin="round" width="25" height="24" fill="rgb(82,90,195)" stroke="rgb(65,72,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thiolase_C (PF02803)
+"Thiolase, C-terminal domain"</title>
+				<polygon class="PF02803" points="118,32 126,40 118,48" stroke-linejoin="round" width="12" height="24" fill="rgb(218,187,56)" stroke="rgb(174,149,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+PhaB</title>
+			<polygon class="
+PhaB" points="134,10 158,40 134,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="134,28 145,28 153,38 153,42 145,52 134,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="163,10 181,40 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PHB_acc_N (PF07879)
+"PHB/PHA accumulation regulator DNA-binding domain"</title>
+				<rect class="PF07879" x="164" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(179,66,50)" stroke="rgb(143,52,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PHB_acc (PF05233)
+"PHB accumulation regulatory domain"</title>
+				<polygon class="PF05233" points="170,28 170,28 173,32 173,48 170,52 170,52" stroke-linejoin="round" width="3" height="24" fill="rgb(90,173,181)" stroke="rgb(72,138,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PHB_acc (PF05233)
+"PHB accumulation regulatory domain"</title>
+				<polygon class="PF05233" points="175,35 178,40 178,40 175,45" stroke-linejoin="round" width="3" height="24" fill="rgb(90,173,181)" stroke="rgb(72,138,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

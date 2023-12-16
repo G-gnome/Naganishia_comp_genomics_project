@@ -1,0 +1,26 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Thiopep_pre          PF19409.2     36 BGC0000605_ORF1:gid:getA:pid:AEM00614.1:loc:0:174:strand:+ -             57   4.6e-10   39.3   4.0   1   1   3.6e-14   7.1e-10   38.7   4.0     2    36    26    54    25    54 0.95 Thiopeptide-type bacteriocin precursor
+ABC_tran             PF00005.30   137 BGC0000605_ORF2:gid:getB:pid:AEM00615.1:loc:334:1297:strand:+ -            320   7.8e-27   94.6   0.0   1   1   1.8e-30   1.2e-26   94.0   0.0     2   137    26   169    25   169 0.93 ABC transporter
+AAA_21               PF13304.9    304 BGC0000605_ORF2:gid:getB:pid:AEM00615.1:loc:334:1297:strand:+ -            320   3.4e-11   43.6   0.0   1   1   1.7e-10   1.1e-06   28.7   0.0   234   298   137   199   116   201 0.91 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.27   210 BGC0000605_ORF3:gid:getC:pid:AEM00616.1:loc:1318:2065:strand:+ -            248   2.3e-27   96.0   5.7   1   1   3.3e-31   3.2e-27   95.5   5.7     3   208     5   212     3   214 0.94 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0000605_ORF3:gid:getC:pid:AEM00616.1:loc:1318:2065:strand:+ -            248     1e-13   51.3   5.6   1   1   1.3e-17   1.2e-13   51.0   5.6   160   343    53   239    22   242 0.87 ABC-2 family transporter protein
+Lant_dehydr_N        PF04738.16   650 BGC0000605_ORF4:gid:getD:pid:AEM00617.1:loc:2942:5087:strand:+ -            714   1.1e-12   46.9   6.0   1   1   2.3e-11   4.6e-07   28.4   0.1   487   630   495   645   490   647 0.69 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000605_ORF5:gid:getE:pid:AEM00618.1:loc:5014:5971:strand:+ -            318   8.2e-40  137.5   4.4   1   1   9.2e-40   1.8e-35  123.2   2.1     1   168    27   208    27   213 0.86 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.9    288 BGC0000605_ORF6:gid:getF:pid:AEM00619.1:loc:6300:7050:strand:+ -            249   3.8e-13   50.0   1.5   1   1   2.4e-17   4.7e-13   49.7   1.5   118   287    38   234    27   235 0.91 Lantibiotic biosynthesis dehydratase C-term
+Nitroreductase       PF00881.27   168 BGC0000605_ORF7:gid:getG:pid:AEM00620.1:loc:7136:8411:strand:+ -            424   3.8e-06   27.2   0.0   1   1   3.3e-10   6.6e-06   26.4   0.0     3   155   228   400   226   413 0.85 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0000605_ORF9:gid:getI:pid:AEM00626.1:loc:10050:11985:strand:+ -            644   5.4e-74  249.5   0.2   1   1   4.7e-78   9.3e-74  248.8   0.2     2   321   260   599   259   600 0.86 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+p450                 PF00067.25   463 BGC0000605_ORF10:gid:getJ:pid:AEM00625.1:loc:12104:13133:strand:+ -            342   1.8e-23   83.1   0.0   1   1   6.4e-20   1.3e-15   57.3   0.0   227   426   140   304   125   315 0.87 Cytochrome P450
+TetR_N               PF00440.26    47 BGC0000605_ORF12:gid:getL:pid:AEM00623.1:loc:15176:15836:strand:+ -            219   2.1e-10   40.4   0.0   1   1     2e-14     4e-10   39.5   0.0     9    46     5    42     2    43 0.89 Bacterial regulatory proteins, tetR family
+Peptidase_M20        PF01546.31   207 BGC0000605_ORF13:gid:getM:pid:AEM00622.1:loc:15832:17179:strand:+ -            448   1.2e-17   64.4   0.1   1   1   7.8e-22   1.5e-17   64.1   0.1     3   205    68   387    66   389 0.79 Peptidase family M20/M25/M40
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000605.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000605.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000605.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:00:25 2023
+# [ok]

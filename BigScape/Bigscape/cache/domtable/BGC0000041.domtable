@@ -1,0 +1,37 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.24   319 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731  1.8e-135  451.6   0.4   1   2   8.1e-55   1.3e-51  176.1   0.0     2   312   150   457   149   464 0.91 Acyl transferase domain
+Acyl_transf_1        PF00698.24   319 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731  1.8e-135  451.6   0.4   2   2   1.7e-84   2.8e-81  273.6   0.1     1   300  1137  1439  1137  1455 0.96 Acyl transferase domain
+ketoacyl-synt        PF00109.29   253 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   1.9e-92  309.5   6.4   1   1   9.2e-95   1.5e-91  306.6   0.1     2   253   606   856   605   856 0.97 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   8.9e-59  198.5   1.5   1   1     2e-61   3.3e-58  196.6   0.1     1   179  2299  2477  2299  2478 0.98 KR domain
+PS-DH                PF14765.9    297 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   1.1e-48  166.1   4.7   1   1   6.8e-52   1.1e-48  166.1   4.7     1   296  1501  1773  1501  1774 0.90 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   1.1e-44  151.4   1.3   1   1     3e-47   4.8e-44  149.3   0.5     1   118   864   980   864   981 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   6.4e-19   68.2   0.1   1   2   1.5e-10   2.5e-07   31.0   0.0    14    67   530   581   513   581 0.81 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   6.4e-19   68.2   0.1   2   2   1.3e-11   2.1e-08   34.4   0.0     3    67  2587  2652  2585  2652 0.90 Phosphopantetheine attachment site
+ADH_zinc_N_2         PF13602.9    133 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   2.6e-17   64.2   0.1   1   1   6.9e-19   1.1e-15   58.9   0.0     4   133  2158  2289  2156  2289 0.83 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.8    112 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   6.3e-15   55.8   0.0   1   1   2.4e-17   3.9e-14   53.2   0.0     1   109   983  1098   983  1100 0.90 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N           PF00107.29   130 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   2.9e-14   53.3   0.6   1   1     2e-16   3.2e-13   49.9   0.0     1    93  2122  2214  2122  2231 0.90 Zinc-binding dehydrogenase
+adh_short            PF00106.28   195 BGC0000041_ORF1:gid:cfa6:pid:AAD03047.1:loc:0:8196:strand:+ -           2731   1.7e-11   44.1   0.0   1   1   8.3e-14   1.4e-10   41.1   0.0     2   165  2300  2463  2299  2469 0.85 short chain dehydrogenase
+ketoacyl-synt        PF00109.29   253 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   1.7e-79  267.1   0.1   1   1   2.1e-82   3.4e-79  266.1   0.1     2   253    39   289    38   289 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   4.9e-59  199.4   0.6   1   1   1.2e-61   1.9e-58  197.4   0.2     1   180  1433  1612  1433  1612 0.98 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   1.9e-56  192.0   0.2   1   1   2.7e-59   4.4e-56  190.8   0.2     2   300   573   880   572   897 0.90 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   6.1e-42  142.5   0.1   1   1   1.5e-44   2.4e-41  140.6   0.1     1   118   297   414   297   415 0.98 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   9.3e-28   97.4   0.4   1   1   1.1e-30   1.9e-27   96.4   0.4     1   293   945  1228   945  1232 0.91 Polyketide synthase dehydratase
+Thioesterase         PF00975.23   230 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   8.9e-19   68.7   1.2   1   1   2.2e-21   3.6e-18   66.7   0.3    15   226  1865  2054  1862  2058 0.87 Thioesterase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   1.6e-14   54.4   0.0   1   1   9.2e-17   1.5e-13   51.3   0.0     1   111   417   536   417   537 0.89 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.28   195 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   1.2e-13   51.1   0.0   1   1   1.6e-16   2.6e-13   50.0   0.0     2   161  1434  1593  1433  1599 0.88 short chain dehydrogenase
+PP-binding           PF00550.28    67 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   2.2e-12   47.2   0.0   1   1   4.4e-15   7.2e-12   45.6   0.0     3    67  1711  1776  1709  1776 0.91 Phosphopantetheine attachment site
+Docking              PF08990.14    29 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   2.1e-06   27.4   3.0   1   1   6.1e-09     1e-05   25.3   3.0     1    29     7    35     7    35 0.97 Erythronolide synthase docking domain
+Epimerase            PF01370.24   241 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066   2.2e-05   24.2   0.1   1   1   2.4e-08   3.9e-05   23.4   0.1     1    76  1435  1525  1435  1594 0.74 NAD dependent epimerase/dehydratase family
+Polysacc_synt_2      PF02719.18   294 BGC0000041_ORF2:gid:cfa7:pid:AAD03048.1:loc:8201:14402:strand:+ -           2066     9e-05   21.9   0.0   1   1   8.2e-08   0.00013   21.3   0.0     1    96  1435  1533  1435  1574 0.72 Polysaccharide biosynthesis protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000041.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000041.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000041.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:21:46 2023
+# [ok]

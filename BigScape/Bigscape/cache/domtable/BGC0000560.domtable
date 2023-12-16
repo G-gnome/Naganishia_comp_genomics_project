@@ -1,0 +1,20 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.25   284 BGC0000560_ORF2:gid:subP:pid:AGL93172.1:loc:1295:2270:strand:+ -            324   1.5e-29  103.3   0.9   1   1   1.1e-33   2.2e-29  102.7   0.9     4   254    35   279    33   309 0.83 Subtilase family
+Lant_dehydr_N        PF04738.16   650 BGC0000560_ORF3:gid:subB:pid:AGL93173.1:loc:2270:5381:strand:+ -           1036  3.7e-132  441.7   0.0   1   1  4.4e-136  4.3e-132  441.5   0.0     2   649    49   688    48   689 0.92 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000560_ORF3:gid:subB:pid:AGL93173.1:loc:2270:5381:strand:+ -           1036   1.6e-32  113.6   0.0   1   1   7.6e-35   7.5e-31  108.1   0.0     1   287   764  1020   764  1021 0.79 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.16   352 BGC0000560_ORF4:gid:subC:pid:AGL93174.1:loc:5405:6728:strand:+ -            440   2.5e-60  204.0   3.1   1   1   1.7e-64   3.3e-60  203.7   3.1     5   352    45   438    42   438 0.84 Lanthionine synthetase C-like protein
+DUF5823              PF19140.3    178 BGC0000560_ORF5:gid:subI:pid:AGL93175.1:loc:6740:7331:strand:+ -            196   1.7e-75  253.1  25.6   1   1   9.6e-80   1.9e-75  252.9  25.6     4   178     1   178     1   178 0.99 Family of unknown function (DUF5823)
+ABC_membrane         PF00664.26   274 BGC0000560_ORF6:gid:subT:pid:AGL93176.1:loc:7348:9106:strand:+ -            585   1.8e-44  152.6  19.3   1   1   2.4e-48   2.4e-44  152.2  19.3     2   274    21   288    20   288 0.99 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000560_ORF6:gid:subT:pid:AGL93176.1:loc:7348:9106:strand:+ -            585   4.3e-36  124.6   0.0   1   1   8.4e-40   8.2e-36  123.7   0.0     2   137   353   502   352   502 0.91 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000560.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000560.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000560.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:11:16 2023
+# [ok]

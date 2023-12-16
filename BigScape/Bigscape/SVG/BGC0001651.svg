@@ -1,0 +1,142 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="377.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="367.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (BFO_1063)
+putative N-acylneuraminate cytidylyltransferase</title>
+			<polygon class=" (BFO_1063)
+putative N-acylneuraminate cytidylyltransferase" points="10,40 33,10 33,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CTP_transf_3 (PF02348)
+"Cytidylyltransferase"</title>
+				<polygon class="PF02348" points="14,40 23,28 31,28 31,52 23,52" stroke-linejoin="round" width="21" height="24" fill="rgb(198,69,151)" stroke="rgb(158,55,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1064)
+nucleotidyl transferase</title>
+			<polygon class=" (BFO_1064)
+nucleotidyl transferase" points="66,25 62,25 62,10 32,40 62,70 62,55 66,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="36,40 48,28 54,28 54,52 48,52" stroke-linejoin="round" width="22" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>neuC (BFO_1065)
+UDP-N-acetyl-D-glucosamine 2-epimerase, UDP-hydrolysing</title>
+			<polygon class="neuC (BFO_1065)
+UDP-N-acetyl-D-glucosamine 2-epimerase, UDP-hydrolysing" points="105,25 97,25 97,10 67,40 97,70 97,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase_2 (PF02350)
+"UDP-N-acetylglucosamine 2-epimerase"</title>
+				<polygon class="PF02350" points="71,40 83,28 102,28 102,52 83,52" stroke-linejoin="round" width="34" height="24" fill="rgb(212,113,103)" stroke="rgb(169,90,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>neuB (BFO_1066)
+N-acetylneuraminate synthase</title>
+			<polygon class="neuB (BFO_1066)
+N-acetylneuraminate synthase" points="138,25 135,25 135,10 105,40 135,70 135,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAF (PF08666)
+"SAF domain"</title>
+				<polygon class="PF08666" points="109,40 110,39 110,41" stroke-linejoin="round" width="5" height="24" fill="rgb(203,50,144)" stroke="rgb(162,40,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NeuB (PF03102)
+"NeuB family"</title>
+				<polygon class="PF03102" points="111,38 121,28 135,28 135,52 121,52 111,42" stroke-linejoin="round" width="24" height="24" fill="rgb(225,145,80)" stroke="rgb(180,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1067)
+hypothetical protein</title>
+			<polygon class=" (BFO_1067)
+hypothetical protein" points="139,40 145,10 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep_2 (PF14602)
+"Hexapeptide repeat of succinyl-transferase"</title>
+				<polygon class="PF14602" points="142,40 144,28 144,28 144,52 144,52" stroke-linejoin="round" width="3" height="24" fill="rgb(79,205,115)" stroke="rgb(63,164,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1068)
+polysaccharide deacetylase</title>
+			<polygon class=" (BFO_1068)
+polysaccharide deacetylase" points="194,25 190,25 190,10 160,40 190,70 190,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="165,39 176,28 187,28 187,52 176,52 165,41" stroke-linejoin="round" width="22" height="24" fill="rgb(56,221,58)" stroke="rgb(44,176,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1069)
+hypothetical protein</title>
+			<polygon class=" (BFO_1069)
+hypothetical protein" points="225,25 224,25 224,10 194,40 224,70 224,55 225,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>fabHA_2 (BFO_1070)
+beta-ketoacyl-acyl-carrier-protein synthase III</title>
+			<polygon class="fabHA_2 (BFO_1070)
+beta-ketoacyl-acyl-carrier-protein synthase III" points="262,25 259,25 259,10 229,40 259,70 259,55 262,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="233,40 237,36 237,44" stroke-linejoin="round" width="8" height="24" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<polygon class="PF08545" points="243,30 245,28 250,28 250,52 245,52 243,50" stroke-linejoin="round" width="7" height="24" fill="rgb(189,102,84)" stroke="rgb(151,81,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1071)
+oxidoreductase, short chain dehydrogenase/reductase family protein</title>
+			<polygon class=" (BFO_1071)
+oxidoreductase, short chain dehydrogenase/reductase family protein" points="263,40 288,10 288,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="267,40 277,28 285,28 285,52 277,52" stroke-linejoin="round" width="22" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1072)
+hypothetical protein</title>
+			<polygon class=" (BFO_1072)
+hypothetical protein" points="287,40 294,10 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="290,40 293,28 293,28 293,52 293,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1073)
+DegT/DnrJ/EryC1/StrS aminotransferase family protein</title>
+			<polygon class=" (BFO_1073)
+DegT/DnrJ/EryC1/StrS aminotransferase family protein" points="333,25 325,25 325,10 295,40 325,70 325,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="299,40 311,28 330,28 330,52 311,52" stroke-linejoin="round" width="35" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BFO_1074)
+NAD dependent epimerase/dehydratase family protein</title>
+			<polygon class=" (BFO_1074)
+NAD dependent epimerase/dehydratase family protein" points="366,25 364,25 364,10 334,40 364,70 364,55 366,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="338,40 350,28 366,28 366,52 350,52" stroke-linejoin="round" width="30" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

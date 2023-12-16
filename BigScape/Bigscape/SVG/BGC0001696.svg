@@ -1,0 +1,116 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="352.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="342.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ntvA
+precursor peptide</title>
+			<polygon class="ntvA
+precursor peptide" points="10,10 18,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ntvB
+phosphotransferase family protein</title>
+			<polygon class="ntvB
+phosphotransferase family protein" points="25,25 27,25 27,10 57,40 27,70 27,55 25,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="25,28 40,28 51,39 51,41 40,52 25,52" stroke-linejoin="round" width="26" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvC
+hypothetical protein</title>
+			<polygon class="ntvC
+hypothetical protein" points="57,25 60,25 60,10 90,40 60,70 60,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HopA1 (PF17914)
+"HopA1 effector protein family"</title>
+				<polygon class="PF17914" points="71,28 74,28 86,40 74,52 71,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,79,213)" stroke="rgb(61,63,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvD
+phosphotransferase family protein</title>
+			<polygon class="ntvD
+phosphotransferase family protein" points="91,25 92,25 92,10 122,40 92,70 92,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="100,28 106,28 116,38 116,42 106,52 100,52" stroke-linejoin="round" width="16" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvE
+decarboxylase</title>
+			<polygon class="ntvE
+decarboxylase" points="122,10 142,40 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="123,28 130,28 138,40 130,52 123,52" stroke-linejoin="round" width="17" height="24" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvF
+methyltransferase</title>
+			<polygon class="ntvF
+methyltransferase" points="142,25 152,25 152,10 182,40 152,70 152,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PrmA (PF06325)
+"Ribosomal protein L11 methyltransferase (PrmA)"</title>
+				<rect class="PF06325" x="154" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(165,213,101)" stroke="rgb(132,170,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvG
+YcaO-like protein</title>
+			<polygon class="ntvG
+YcaO-like protein" points="184,25 199,25 199,10 229,40 199,70 199,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="190,28 212,28 224,40 224,40 212,52 190,52" stroke-linejoin="round" width="34" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvH
+TfuA-like protein</title>
+			<polygon class="ntvH
+TfuA-like protein" points="230,10 253,40 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TfuA (PF07812)
+"TfuA-like protein"</title>
+				<polygon class="PF07812" points="235,28 240,28 246,36 246,44 240,52 235,52" stroke-linejoin="round" width="11" height="24" fill="rgb(196,226,76)" stroke="rgb(156,180,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvI
+phytanoyl-CoA dioxigenase</title>
+			<polygon class="ntvI
+phytanoyl-CoA dioxigenase" points="253,10 282,40 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="254,28 266,28 273,35 273,45 266,52 254,52" stroke-linejoin="round" width="19" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvJ
+peptidase</title>
+			<polygon class="ntvJ
+peptidase" points="282,10 309,40 282,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C1 (PF00112)
+"Papain family cysteine protease"</title>
+				<polygon class="PF00112" points="285,28 294,28 305,40 294,52 285,52" stroke-linejoin="round" width="22" height="24" fill="rgb(78,125,201)" stroke="rgb(62,99,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ntvK
+hypothetical protein</title>
+			<polygon class="ntvK
+hypothetical protein" points="314,10 342,40 314,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

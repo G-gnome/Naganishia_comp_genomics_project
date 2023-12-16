@@ -1,0 +1,36 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_6        PF12697.10   220 BGC0001343_ORF2:gid:orf11:pid:CCA65702.1:loc:1563:2367:strand:- -            267     1e-22   82.0  12.2   1   1   2.4e-26   1.2e-22   81.8  12.2     1   219    14   253    14   254 0.68 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.23   257 BGC0001343_ORF2:gid:orf11:pid:CCA65702.1:loc:1563:2367:strand:- -            267   2.6e-21   76.5   0.0   1   1   4.2e-22   2.1e-18   67.1   0.0     2   255    13   246    12   248 0.78 alpha/beta hydrolase fold
+AMP-binding          PF00501.31   424 BGC0001343_ORF3:gid:auaEII:pid:CCA65703.1:loc:2376:3927:strand:- -            516   8.7e-90  301.5   0.0   1   1     1e-93     1e-89  301.3   0.0     3   423    18   419    16   420 0.91 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001343_ORF3:gid:auaEII:pid:CCA65703.1:loc:2376:3927:strand:- -            516   3.8e-20   72.8   0.1   1   1   8.9e-24   8.7e-20   71.6   0.0     1    76   428   506   428   506 0.94 AMP-binding enzyme C-terminal domain
+Rieske               PF00355.29    89 BGC0001343_ORF4:gid:orf10:pid:CCA65704.1:loc:4077:5097:strand:- -            339   5.6e-20   71.2   0.0   1   1   1.4e-23   1.4e-19   69.9   0.0     2    78     7    81     6    95 0.93 Rieske [2Fe-2S] domain
+VanA_C               PF19112.3    195 BGC0001343_ORF4:gid:orf10:pid:CCA65704.1:loc:4077:5097:strand:- -            339   8.5e-06   26.1   0.0   1   1   1.3e-09   1.3e-05   25.5   0.0     1   129   134   259   134   328 0.81 Vanillate O-demethylase oxygenase C-terminal domain
+ABC_tran             PF00005.30   137 BGC0001343_ORF5:gid:orf9:pid:CCA65705.1:loc:5155:5881:strand:- -            241   8.9e-31  107.4   0.0   1   1   1.2e-34   1.2e-30  107.0   0.0     1   137    26   177    26   177 0.95 ABC transporter
+LolA_like            PF17131.7    184 BGC0001343_ORF7:gid:orf7:pid:CCA65707.1:loc:7344:8070:strand:- -            241   6.6e-43  146.7   0.3   1   1     4e-47   7.9e-43  146.4   0.3     1   184    66   241    66   241 0.97 Outer membrane lipoprotein-sorting protein
+FtsX                 PF02687.24   121 BGC0001343_ORF8:gid:orf6:pid:CCA65708.1:loc:8100:9381:strand:- -            426     3e-15   56.4  11.0   1   1   1.5e-19     3e-15   56.4  11.0     2   121   294   419   293   419 0.98 FtsX-like permease family
+FtsX                 PF02687.24   121 BGC0001343_ORF9:gid:orf5:pid:CCA65709.1:loc:9377:10268:strand:- -            296   1.2e-19   70.6  11.1   1   1   8.1e-24   1.6e-19   70.2  11.1     2   120   164   288   163   289 0.96 FtsX-like permease family
+TetR_N               PF00440.26    47 BGC0001343_ORF10:gid:orf4:pid:CCA65710.1:loc:10693:11317:strand:- -            207   3.4e-18   65.3   0.6   1   1   3.6e-22   7.1e-18   64.3   0.6     1    47    17    63    17    63 0.99 Bacterial regulatory proteins, tetR family
+UbiA                 PF01040.21   251 BGC0001343_ORF11:gid:auaA:pid:CAL48953.1:loc:11506:12487:strand:+ -            326   9.2e-20   71.1  15.6   1   1   4.7e-24   9.2e-20   71.1  15.6     4   241    16   255    12   268 0.80 UbiA prenyltransferase family
+PP-binding           PF00550.28    67 BGC0001343_ORF12:gid:auaB:pid:CAL48954.1:loc:12567:12822:strand:+ -             84     5e-09   36.5   0.1   1   1   2.9e-13   5.7e-09   36.3   0.1     2    66     9    74     8    75 0.91 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.29   253 BGC0001343_ORF13:gid:auaC:pid:CAL48955.1:loc:12818:14039:strand:+ -            406   3.8e-37  128.3   0.8   1   1   6.5e-41   6.4e-37  127.6   0.8     2   253     4   241     3   241 0.87 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001343_ORF13:gid:auaC:pid:CAL48955.1:loc:12818:14039:strand:+ -            406   3.7e-37  127.1   0.4   1   1   1.1e-40   1.1e-36  125.5   0.0     1   118   249   363   249   364 0.97 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0001343_ORF14:gid:auaD:pid:CAL48956.1:loc:14052:15276:strand:+ -            407   1.1e-24   87.5   0.4   1   1     2e-28   1.9e-24   86.7   0.4     3   253     5   242     3   242 0.83 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001343_ORF14:gid:auaD:pid:CAL48956.1:loc:14052:15276:strand:+ -            407   1.6e-14   54.0   1.3   1   1   1.4e-17   1.4e-13   51.0   0.2    25   116   271   360   250   363 0.89 Beta-ketoacyl synthase, C-terminal domain
+AMP-binding          PF00501.31   424 BGC0001343_ORF15:gid:auaE:pid:CAL48957.1:loc:15272:16766:strand:+ -            497   8.6e-80  268.5   0.0   1   1   1.1e-83   1.1e-79  268.2   0.0     7   423    18   415    12   416 0.89 AMP-binding enzyme
+DLH                  PF01738.21   217 BGC0001343_ORF16:gid:orf1:pid:CCA65711.1:loc:16754:17429:strand:- -            224   5.7e-40  137.3   0.0   1   1     1e-43   6.8e-40  137.1   0.0     4   214    18   219    16   222 0.94 Dienelactone hydrolase family
+Hydrolase_4          PF12146.11   239 BGC0001343_ORF16:gid:orf1:pid:CCA65711.1:loc:16754:17429:strand:- -            224   2.1e-07   30.6   0.4   1   1   4.8e-11   3.1e-07   30.0   0.4     7   102    31   129    29   136 0.87 Serine aminopeptidase, S33
+Abhydrolase_6        PF12697.10   220 BGC0001343_ORF16:gid:orf1:pid:CCA65711.1:loc:16754:17429:strand:- -            224   2.4e-06   28.4   1.6   1   1   4.7e-10   3.1e-06   28.1   1.6    14   154    38   207    23   222 0.58 Alpha/beta hydrolase family
+Peptidase_M15_4      PF13539.9     67 BGC0001343_ORF17:gid:orf2:pid:CCA65712.1:loc:17504:18167:strand:- -            220     3e-18   66.2   5.0   1   1   2.9e-22   5.6e-18   65.3   5.0     3    67   139   205   137   205 0.83 D-alanyl-D-alanine carboxypeptidase
+Glyco_hydro_43       PF04616.17   288 BGC0001343_ORF18:gid:orf3:pid:CCA65713.1:loc:18331:19132:strand:- -            266   8.6e-22   77.9   2.0   1   1   4.4e-26   8.6e-22   77.9   2.0    68   247     2   199     1   206 0.85 Glycosyl hydrolases family 43
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001343.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001343.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001343.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:52:39 2023
+# [ok]

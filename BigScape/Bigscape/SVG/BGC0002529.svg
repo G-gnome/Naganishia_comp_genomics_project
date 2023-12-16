@@ -1,0 +1,85 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="539.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="529.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (AvCA_09640)
+ABC transporter, transmembrane region, ATP binding component</title>
+			<polygon class=" (AvCA_09640)
+ABC transporter, transmembrane region, ATP binding component" points="10,25 35,25 35,10 65,40 35,70 35,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="10" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="43,28 48,28 57,37 57,43 48,52 43,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AvCA_09670)
+thioredoxin-like fold protein</title>
+			<polygon class=" (AvCA_09670)
+thioredoxin-like fold protein" points="104,10 128,40 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AvCA_09680)
+AMP-dependent synthetase and ligase family protein</title>
+			<polygon class=" (AvCA_09680)
+AMP-dependent synthetase and ligase family protein" points="135,25 234,25 234,10 264,40 234,70 234,55 135,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="135" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="179" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="230" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AvCA_09690)
+Non-ribosomal peptide synthetase, with condensation, AMP binding and thioesterase modules</title>
+			<polygon class=" (AvCA_09690)
+Non-ribosomal peptide synthetase, with condensation, AMP binding and thioesterase modules" points="298,25 406,25 406,10 436,40 406,70 406,55 298,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="305" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="351" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="401" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="410,28 420,28 421,29 421,51 420,52 410,52" stroke-linejoin="round" width="11" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AvCA_09700)
+lantibiotic modifying enzyme</title>
+			<polygon class=" (AvCA_09700)
+lantibiotic modifying enzyme" points="468,25 499,25 499,10 529,40 499,70 499,55 468,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<polygon class="PF13575" points="480,28 512,28 514,30 514,50 512,52 480,52" stroke-linejoin="round" width="34" height="24" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

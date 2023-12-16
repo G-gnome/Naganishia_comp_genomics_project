@@ -1,0 +1,30 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.3    199 BGC0001361_ORF1:gid::pid:AGO55049.1:loc:0:1155:strand:- -            384   3.6e-22   79.3   1.7   1   1   3.1e-26   6.1e-22   78.6   1.7     2   192    94   284    93   290 0.89 Terpene synthase family 2, C-terminal metal binding
+Methyltransf_25      PF13649.9     97 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   1.2e-16   61.3   0.0   1   1   1.1e-19   2.1e-16   60.5   0.0     1    97   110   212   110   212 0.95 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   5.1e-13   49.3   0.0   1   1     5e-16   9.9e-13   48.4   0.0    21   162   105   261    69   293 0.73 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   3.9e-12   46.8   0.0   1   1   3.4e-15   6.8e-12   46.0   0.0     1    96   111   216   111   216 0.92 Methyltransferase domain
+CMAS                 PF02353.23   273 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   4.1e-11   42.8   0.0   1   1   2.9e-14   5.6e-11   42.4   0.0    65   165   109   217   104   272 0.88 Mycolic acid cyclopropane synthetase
+Methyltransf_12      PF08242.15    99 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325     7e-10   39.7   0.0   1   1   5.8e-13   1.1e-09   39.0   0.0     1    98   111   213   111   214 0.72 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   2.7e-09   37.1   0.0   1   1   2.3e-12   4.5e-09   36.4   0.0     6   111   109   218   106   263 0.86 Methyltransferase domain
+Methyltransf_PK      PF05891.15   218 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   4.7e-07   29.7   0.0   1   1   3.4e-10   6.6e-07   29.2   0.0    52   196   103   261    79   270 0.78 AdoMet dependent proline di-methyltransferase
+Ubie_methyltran      PF01209.21   233 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   8.1e-07   28.7   0.0   1   1   9.8e-10   1.9e-06   27.5   0.0    49   151   106   216    90   224 0.89 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.17   170 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325     2e-05   24.4   0.0   1   1   1.7e-08   3.4e-05   23.7   0.0    31    85   106   162    93   185 0.85 Methyltransferase small domain
+Methyltransf_2       PF00891.21   210 BGC0001361_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   2.9e-05   23.6   0.0   1   1   2.1e-08   4.1e-05   23.1   0.0    61   209   105   259    42   260 0.81 O-methyltransferase domain
+DXP_synthase_N       PF13292.9    273 BGC0001361_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612  2.6e-100  335.3   0.1   1   2   1.1e-91   5.5e-88  294.9   0.0     1   190     5   195     5   200 0.97 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.9    273 BGC0001361_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612  2.6e-100  335.3   0.1   2   2   2.7e-13   1.3e-09   37.8   0.0   231   273   200   242   193   242 0.95 1-deoxy-D-xylulose-5-phosphate synthase
+Transket_pyr         PF02779.27   178 BGC0001361_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   3.5e-41  141.0   0.0   1   1   2.6e-44   1.3e-40  139.1   0.0     2   174   277   438   276   441 0.97 Transketolase, pyrimidine binding domain
+Transketolase_C      PF02780.23   124 BGC0001361_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   4.7e-22   78.3   0.0   1   1   1.6e-25     8e-22   77.6   0.0     1   124   454   570   454   570 0.98 Transketolase, C-terminal domain
+E1_dh                PF00676.23   300 BGC0001361_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   1.3e-05   24.4   0.0   1   1   4.1e-09     2e-05   23.8   0.0    97   167   109   182    79   190 0.80 Dehydrogenase E1 component
+NUDIX                PF00293.31   131 BGC0001361_ORF4:gid::pid:AGO55052.1:loc:4040:4580:strand:- -            179   1.8e-23   83.2   0.1   1   1   1.1e-27   2.2e-23   82.9   0.1     2   131    29   158    28   158 0.88 NUDIX domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001361.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001361.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001361.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:14:49 2023
+# [ok]

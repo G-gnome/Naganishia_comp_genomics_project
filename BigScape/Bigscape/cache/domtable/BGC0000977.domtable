@@ -1,0 +1,37 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0000977_ORF1:gid:cpaT:pid:BAK26557.1:loc:1606:3212:strand:- -            496     2e-53  181.7  33.5   1   1     3e-57     2e-53  181.7  33.5     4   353    64   446    61   446 0.83 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000977_ORF1:gid:cpaT:pid:BAK26557.1:loc:1606:3212:strand:- -            496   8.9e-14   51.3  11.0   1   1   3.7e-17   2.4e-13   49.9  11.0    13   307    55   344    53   349 0.78 Sugar (and other) transporter
+TRI12                PF06609.16   599 BGC0000977_ORF1:gid:cpaT:pid:BAK26557.1:loc:1606:3212:strand:- -            496   5.8e-07   28.5   2.9   1   1   1.4e-10   9.1e-07   27.8   2.9    77   234    88   252    63   272 0.78 Fungal trichothecene efflux pump (TRI12)
+Methyltransf_25      PF13649.9     97 BGC0000977_ORF2:gid:cpaM:pid:BAK26558.1:loc:3719:5293:strand:- -            434   8.5e-07   29.7   0.1   1   1   4.7e-10   4.7e-06   27.3   0.1     1    75   297   367   297   385 0.72 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0000977_ORF2:gid:cpaM:pid:BAK26558.1:loc:3719:5293:strand:- -            434   1.3e-05   25.9   0.0   1   1   2.6e-08   0.00025   21.7   0.0     1    74   298   370   298   381 0.81 Methyltransferase domain
+p450                 PF00067.25   463 BGC0000977_ORF3:gid:cpaH:pid:BAK26559.1:loc:5674:7324:strand:+ -            509   7.7e-71  239.3   0.0   1   1   4.9e-75   9.6e-71  239.0   0.0     6   462    64   503    58   504 0.88 Cytochrome P450
+NAD_binding_8        PF13450.9     68 BGC0000977_ORF4:gid:cpaO:pid:BAK26560.1:loc:8570:9938:strand:+ -            455     4e-09   36.7   0.1   1   1   2.2e-12   1.1e-08   35.3   0.1     1    66    35    98    35   100 0.86 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.27   452 BGC0000977_ORF4:gid:cpaO:pid:BAK26560.1:loc:8570:9938:strand:+ -            455   4.8e-09   36.1   0.2   1   1     3e-10   1.5e-06   27.9   0.2     3   262    42   281    40   350 0.80 Flavin containing amine oxidoreductase
+FAD_oxidored         PF12831.10   427 BGC0000977_ORF4:gid:cpaO:pid:BAK26560.1:loc:8570:9938:strand:+ -            455   6.3e-09   35.8   0.0   1   1   2.5e-12   1.2e-08   34.8   0.0     1    69    32   102    32   144 0.79 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0000977_ORF4:gid:cpaO:pid:BAK26560.1:loc:8570:9938:strand:+ -            455   2.4e-06   27.0   0.1   1   1   8.4e-10   4.1e-06   26.3   0.1     1    37    32    68    32    72 0.97 FAD binding domain
+Trp_DMAT             PF11991.11   363 BGC0000977_ORF5:gid:cpaD:pid:BAK26561.1:loc:10406:11784:strand:- -            437  9.7e-113  377.4   0.0   1   1  7.3e-117  1.4e-112  376.8   0.0     1   361    28   378    28   380 0.94 Tryptophan dimethylallyltransferase
+AMP-binding          PF00501.31   424 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   1.8e-79  267.5   0.0   1   1   2.8e-82   4.5e-79  266.2   0.0     1   418  2959  3359  2959  3363 0.88 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   1.1e-76  257.9   0.0   1   1   1.2e-79     2e-76  257.1   0.0     2   253     3   254     2   254 0.93 Beta-ketoacyl synthase, N-terminal domain
+Condensation         PF00668.23   457 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   1.1e-56  192.5   0.0   1   1   1.1e-59   1.8e-56  191.9   0.0     7   444  2504  2926  2500  2936 0.90 Condensation domain
+Acyl_transf_1        PF00698.24   319 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   1.9e-55  188.7   0.0   1   1   2.9e-58   4.7e-55  187.5   0.0     3   302   555   870   554   880 0.87 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   7.3e-37  127.3   0.0   1   1   6.9e-40   1.1e-36  126.7   0.0     1   293   937  1236   937  1240 0.87 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   4.6e-31  108.2   0.0   1   1   8.6e-34   1.4e-30  106.6   0.0     1   178  2064  2238  2064  2240 0.96 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907     3e-31  108.0   0.0   1   1   5.2e-34   8.5e-31  106.6   0.0     2   116   263   382   262   385 0.96 Beta-ketoacyl synthase, C-terminal domain
+NAD_binding_4        PF07993.15   257 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   4.1e-22   78.7   0.0   1   1   4.6e-24   7.5e-21   74.6   0.0     1   255  3594  3813  3594  3815 0.83 Male sterility protein
+PP-binding           PF00550.28    67 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   8.6e-19   67.7   1.9   1   2   1.7e-12   2.7e-09   37.3   0.2     2    65  2361  2423  2360  2424 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   8.6e-19   67.7   1.9   2   2   1.9e-09   3.1e-06   27.5   0.0    14    64  3492  3542  3482  3545 0.91 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   2.2e-15   57.2   0.0   1   1   3.7e-18   6.1e-15   55.8   0.0     2   102   388   501   388   510 0.87 Ketoacyl-synthetase C-terminal extension
+Epimerase            PF01370.24   241 BGC0000977_ORF6:gid:cpaA:pid:BAK26562.1:loc:12738:24462:strand:+ -           3907   1.4e-07   31.4   0.0   1   1   1.5e-10   2.5e-07   30.5   0.0     1   180  3592  3777  3592  3792 0.84 NAD dependent epimerase/dehydratase family
+Fungal_trans         PF04082.21   267 BGC0000977_ORF7:gid:cpaR:pid:BAK26563.1:loc:24908:26761:strand:+ -            598   1.2e-16   60.7   0.2   1   1   8.8e-21   1.7e-16   60.2   0.2     1   265   173   436   173   438 0.84 Fungal specific transcription factor domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000977.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000977.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000977.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:52:55 2023
+# [ok]

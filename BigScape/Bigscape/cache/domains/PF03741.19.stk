@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+BGC0002025_ORF2:gid::pid:QDA77029.1:loc:2139:2943:strand:-:17:210            a-TLSALEIVLGIDNIVFLTIMVGR..LPEKQQPLARRIGLVLALGMRMLLLLTISWVMGLkaalfsvfghsfsgRDLILLFGGLFLLGKATHEIFDKL.......eVSHDEDPVTGQSKTGSA.......................FSLVIAQIVLLDIVFSLDSVITAVGMAQSISIMVVAMVVAMIVMMIFAGSIGA
+#=GR BGC0002025_ORF2:gid::pid:QDA77029.1:loc:2139:2943:strand:-:17:210    PP 7.7889*******************..****************************************999886555********************987.......333333444556667777.......................*****************************************************
+BGC0002379_ORF15:gid::pid:BCJ07541.1:loc:51787:53359:strand:-:14:204         .LTLIVLELVLGIDNLVFIAILADK..LPPHQRDRARVIGLSLALIMRLGLLASISWMVTLtaplievfgktfsgRDLIMLFGGVFLLFKATMELHERL........--EGHVAQSGGVTRHAA.......................FWPIVAQIVVLDAVFSLDAVITAVGMVEQLSVMMIAVIFSIGIMIVASKPLTR
+#=GR BGC0002379_ORF15:gid::pid:BCJ07541.1:loc:51787:53359:strand:-:14:204 PP .589*********************..***************************************9999985544*******************9854..........455666666777888.......................*****************************************************
+BGC0002379_ORF58:gid::pid:BCJ07584.1:loc:98145:99237:strand:+:81:292         y-TGFLVEQSLSMDNVFVMAMIFSFfaIPRRYQHRVLFWGILGVVVLRAIMIGVGAALVQH..............FAWVLYLFGAFLLFTGVKMALSKDdahpdlanNPVLRFVRRHMRVTDQLhgrhffvqltppgatqairyatpLFLALVLIELADLVFAVDSVPAIFAITQDPFIVYTSNIFAILGLRSLYFALAA
+#=GR BGC0002379_ORF58:gid::pid:BCJ07584.1:loc:98145:99237:strand:+:81:292 PP 6.789*******************999**********************************..............*********************99999999999888888888888888889999************************************************************************
+BGC0000229_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273         t-TAWLLEKSLSVDNLFVFALIFSYfqVPRAYQHRVLFLGVLGALVFRGLFLAAGVAVVSR..............FTAVLFVFAAILFWSTYKILKGEDesf.dpgkSLAVRLLRKVIPVRDEYagahffvk......eagkrvatpLLAVVAAIEAADLVFAVDSVPAVLAVSSDVFIVYTSNAFAILGLRALYFMLAG
+#=GR BGC0000229_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273 PP 7.789********************99**********************************..............********************9988999.99986667777777777777788899999......999999999*****************************************************
+BGC0000344_ORF4:gid::pid:CAK15805.1:loc:2023:3025:strand:+:81:292            y-TGFLVEQSLSMDNVFVMAMIFSFfaIPRRYQHRVLFWGILGVVVLRAIMIGVGAALVQH..............FAWVLYIFGAFLLFTGVKMALAKDdahpdlanNPVLRFVRRHMRVTEQIhgprffvrltppgatrairyatpLFLALVLIELADLVFAVDSVPAIFAITQDPFIVYTSNIFAILGLRSLYFALAA
+#=GR BGC0000344_ORF4:gid::pid:CAK15805.1:loc:2023:3025:strand:+:81:292    PP 6.789*******************999**********************************..............********************99889999999988899999999999988999*************************************************************************
+BGC0000344_ORF27:gid::pid:CAK15828.1:loc:65742:67314:strand:-:14:204         .LTLIVLELVLGIDNLVFIAILADK..LPPHQRDRARVIGLSLALIMRLGLLASISWMVTLtaplidifgktfsgRDLIMLFGGVFLLFKATMELHERL........--EGHVAQSGGVTRHAA.......................FWPIVAQIVVLDAVFSLDAVITAVGMVEQLSVMMIAVIFSIGIMIVASKPLTR
+#=GR BGC0000344_ORF27:gid::pid:CAK15828.1:loc:65742:67314:strand:-:14:204 PP .589*********************..****************************************999885544*******************9854..........455666666777888.......................*****************************************************
+#=GC PP_cons                                                                 .5789********************..**********************************..............7*******************9977........66666677777778888.......................*****************************************************
+#=GC RF                                                                      .xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............xxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxx.......................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0002025_ORF2:gid::pid:QDA77029.1:loc:2139:2943:strand:-:17:210            FVNRHPSMKILALSFLILIGVLLMAE-g
+#=GR BGC0002025_ORF2:gid::pid:QDA77029.1:loc:2139:2943:strand:-:17:210    PP **********************9986.7
+BGC0002379_ORF15:gid::pid:BCJ07541.1:loc:51787:53359:strand:-:14:204         FVNEHPTVIMLCLGFLMMIGFSLTAE-g
+#=GR BGC0002379_ORF15:gid::pid:BCJ07541.1:loc:51787:53359:strand:-:14:204 PP ***********************986.7
+BGC0002379_ORF58:gid::pid:BCJ07584.1:loc:98145:99237:strand:+:81:292         LMHRFVYLKYALALVLIFIGCKIFWH-g
+#=GR BGC0002379_ORF58:gid::pid:BCJ07584.1:loc:98145:99237:strand:+:81:292 PP ***********************986.7
+BGC0000229_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273         LLDRFHYLSVGLAVILGFIGVKLVLQ-a
+#=GR BGC0000229_ORF34:gid::pid:AGO50634.1:loc:40952:41909:strand:-:69:273 PP ************************97.7
+BGC0000344_ORF4:gid::pid:CAK15805.1:loc:2023:3025:strand:+:81:292            LMHRFIYLKYALAMVLIFIGCKIFYH-g
+#=GR BGC0000344_ORF4:gid::pid:CAK15805.1:loc:2023:3025:strand:+:81:292    PP **********************9876.7
+BGC0000344_ORF27:gid::pid:CAK15828.1:loc:65742:67314:strand:-:14:204         FVNAHPTVIMLCLGFLMMIGFSLTAE-g
+#=GR BGC0000344_ORF27:gid::pid:CAK15828.1:loc:65742:67314:strand:-:14:204 PP ***********************986.7
+#=GC PP_cons                                                                 ***********************986..
+#=GC RF                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

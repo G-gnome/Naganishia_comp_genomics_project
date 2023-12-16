@@ -1,0 +1,128 @@
+Loading [1mbigscape/1.1.5[22m
+  [94mLoading requirement[0m: db-pfam/35.0
+
+
+   - - Processing input files - -
+ Output folder already exists
+ Including files with one or more of the following strings in their filename: 'cluster', 'region'
+ Skipping files with one or more of the following strings in their filename: 'final'
+
+ Trying to read bundled MIBiG BGCs as reference
+  MIBiG BGCs seem to have been extracted already
+
+Importing MIBiG files
+  Warning: Input set has files with no Biosynthetic Genes (affects alignment mode)
+   See no_biosynthetic_genes_list.txt
+
+ Starting with 2502 files
+ Files that had its sequence extracted: 2502
+
+Importing GenBank files
+
+ Starting with 50 files
+ Files that had its sequence extracted: 50
+
+Creating output directories
+
+Trying threading on 48 cores
+
+Predicting domains using hmmscan
+ Predicting domains for 2552 fasta files
+ Finished generating domtable files.
+
+Parsing hmmscan domtable files
+ Processing 2552 domtable files
+  No domains where found in BGC0000492.domtable. Removing it from further analysis
+  No domains where found in BGC0001680.domtable. Removing it from further analysis
+  No domains where found in BGC0001601.domtable. Removing it from further analysis
+  No domains where found in BGC0002249.domtable. Removing it from further analysis
+  No domains where found in BGC0000493.domtable. Removing it from further analysis
+  No domains where found in BGC0000505.domtable. Removing it from further analysis
+ New domain sequences to be added; cleaning domains folder
+ Finished generating pfs and pfd files.
+
+Processing domains sequence files
+ Adding sequences to corresponding domains file
+ Reading the ordered list of domains from the pfs files
+ Creating arrower-like figures for each BGC
+  Parsing hmm file for domain information
+    Done
+  Found file with domains colors
+  Reading BGC information and writing SVG
+ Finished creating figures
+
+
+   - - Calculating distance matrix - -
+Performing multiple alignment of domain sequences
+
+ Using hmmalign
+launch_hmmalign took 570.647 seconds
+ Trying to read domain alignments (*.algn files)
+
+Generating distance network files with ALL available input files
+   Writing the complete Annotations file for the complete set
+
+ Working for each BGC class
+  Sorting the input BGCs
+
+
+  PKSI (388 BGCs)
+ - All clusters in this class are MIBiG clusters -
+  If you'd like to analyze MIBiG clusters, turn off the --mibig option
+  and point --inputdir to the Annotated_MIBiG_reference folder
+
+  Others (750 BGCs)
+ - All clusters in this class are MIBiG clusters -
+  If you'd like to analyze MIBiG clusters, turn off the --mibig option
+  and point --inputdir to the Annotated_MIBiG_reference folder
+
+  Saccharides (72 BGCs)
+ - All clusters in this class are MIBiG clusters -
+  If you'd like to analyze MIBiG clusters, turn off the --mibig option
+  and point --inputdir to the Annotated_MIBiG_reference folder
+
+  PKS-NRP_Hybrids (392 BGCs)
+ - All clusters in this class are MIBiG clusters -
+  If you'd like to analyze MIBiG clusters, turn off the --mibig option
+  and point --inputdir to the Annotated_MIBiG_reference folder
+
+  NRPS (932 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+generate_network took 72.129 seconds
+   Removing 905 non-relevant MIBiG BGCs
+   Writing output files
+  Calling Gene Cluster Families
+  Cutoff: 0.3
+
+  PKSother (660 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+/bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/bigscape/1.1.5/lib/python3.7/site-packages/sklearn/cluster/_affinity_propagation.py:145: UserWarning: All samples have mutually equal similarities. Returning arbitrary cluster center(s).
+  "All samples have mutually equal similarities. "
+generate_network took 28.726 seconds
+   Removing 658 non-relevant MIBiG BGCs
+   Writing output files
+  Calling Gene Cluster Families
+  Cutoff: 0.3
+
+  RiPPs (310 BGCs)
+ - All clusters in this class are MIBiG clusters -
+  If you'd like to analyze MIBiG clusters, turn off the --mibig option
+  and point --inputdir to the Annotated_MIBiG_reference folder
+
+  Terpene (147 BGCs)
+   Writing annotation files
+   Calculating all pairwise distances
+/bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/bigscape/1.1.5/lib/python3.7/site-packages/sklearn/cluster/_affinity_propagation.py:145: UserWarning: All samples have mutually equal similarities. Returning arbitrary cluster center(s).
+  "All samples have mutually equal similarities. "
+/bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/bigscape/1.1.5/lib/python3.7/site-packages/sklearn/cluster/_affinity_propagation.py:145: UserWarning: All samples have mutually equal similarities. Returning arbitrary cluster center(s).
+  "All samples have mutually equal similarities. "
+generate_network took 0.447 seconds
+   Removing 126 non-relevant MIBiG BGCs
+   Writing output files
+  Calling Gene Cluster Families
+  Cutoff: 0.3
+
+
+	Main function took 13527.649 s

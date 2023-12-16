@@ -1,0 +1,34 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0001907_ORF2:gid::pid::loc:10184:12056:strand:+ -            427   1.6e-28   99.8  52.9   1   2   1.6e-21   3.1e-17   62.7  19.7    28   178    84   236    60   256 0.82 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001907_ORF2:gid::pid::loc:10184:12056:strand:+ -            427   1.6e-28   99.8  52.9   2   2   1.4e-15   2.8e-11   43.1  25.3     1   165   257   422   256   426 0.84 Major Facilitator Superfamily
+Epimerase            PF01370.24   241 BGC0001907_ORF3:gid::pid::loc:13081:14162:strand:- -            292   3.3e-12   46.5   0.4   1   2   8.2e-09   5.4e-05   22.9   0.2     1    43     4    46     4    71 0.82 NAD dependent epimerase/dehydratase family
+Epimerase            PF01370.24   241 BGC0001907_ORF3:gid::pid::loc:13081:14162:strand:- -            292   3.3e-12   46.5   0.4   2   2   1.7e-08   0.00011   21.9   0.0   121   233    99   212    65   220 0.66 NAD dependent epimerase/dehydratase family
+ketoacyl-synt        PF00109.29   253 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   2.5e-62  210.9   0.0   1   1   3.5e-65   5.3e-62  209.8   0.0     2   253    10   257     9   257 0.96 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   6.6e-58  196.4   0.0   1   1   8.3e-61   1.3e-57  195.5   0.0     1   293   891  1162   891  1165 0.92 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   1.5e-57  194.5   0.0   1   1   2.8e-60   4.3e-57  193.1   0.0     1   179  1721  1896  1721  1897 0.98 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   5.2e-52  177.4   0.0   1   1   6.3e-55   9.4e-52  176.6   0.0     2   311   518   839   517   846 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   2.7e-35  121.1   0.1   1   1   6.3e-38   9.6e-35  119.3   0.1     2   118   266   378   265   379 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   1.9e-24   86.5   0.0   1   1   2.7e-27   4.1e-24   85.3   0.0     1   112   381   494   381   494 0.94 Ketoacyl-synthetase C-terminal extension
+Methyltransf_12      PF08242.15    99 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   1.3e-18   67.7   0.0   1   1     1e-20   1.6e-17   64.2   0.0     1    99  1343  1448  1343  1448 0.99 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   2.2e-09   38.0   0.0   1   1   4.2e-12   6.4e-09   36.5   0.0     1    97  1342  1446  1342  1446 0.85 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   1.4e-08   34.9   0.0   1   1   1.9e-11   2.9e-08   33.8   0.0    19   161  1335  1499  1324  1502 0.71 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   2.1e-08   34.8   0.0   1   1   6.4e-11   9.7e-08   32.7   0.0     1    95  1343  1449  1343  1450 0.88 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   5.5e-08   32.6   0.0   1   1   8.5e-11   1.3e-07   31.4   0.0     4   161  1724  1878  1722  1896 0.86 short chain dehydrogenase
+Methyltransf_31      PF13847.9    152 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090   5.2e-07   29.7   0.0   1   1   7.8e-10   1.2e-06   28.5   0.0     3   113  1338  1454  1336  1488 0.89 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001907_ORF4:gid::pid::loc:16907:23736:strand:+ -           2090     7e-06   26.4   0.1   1   1   1.5e-08   2.3e-05   24.7   0.1    14    57  2025  2068  2019  2077 0.89 Phosphopantetheine attachment site
+Ketoacyl-synt_C      PF02801.25   119 BGC0001907_ORF5:gid::pid::loc:34048:35516:strand:+ -            278   5.2e-22   78.2   0.0   1   1   1.3e-25   8.8e-22   77.5   0.0     2    96    84   185    83   190 0.90 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0001907_ORF5:gid::pid::loc:34048:35516:strand:+ -            278   8.9e-21   74.7   0.1   1   1   1.9e-24   1.2e-20   74.3   0.1   180   253     2    75     1    75 0.98 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001907_ORF5:gid::pid::loc:34048:35516:strand:+ -            278     2e-12   47.4   0.0   1   1     5e-16   3.2e-12   46.7   0.0     3    74   201   276   200   277 0.88 Acyl transferase domain
+Methyltransf_12      PF08242.15    99 BGC0001907_ORF6:gid::pid::loc:37550:38528:strand:+ -            232   2.7e-07   31.4   0.0   1   1   2.2e-11   4.3e-07   30.7   0.0     1    46   117   164   117   197 0.86 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001907.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001907.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001907.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:27:02 2023
+# [ok]

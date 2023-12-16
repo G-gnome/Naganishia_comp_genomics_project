@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Hydrolase_3          PF08282.15   255 BGC0002462_ORF1:gid::pid:QTK22478.1:loc:3:798:strand:- -            264   2.6e-29  102.9   0.0   1   1   1.4e-32   9.1e-29  101.1   0.0     1   253     8   257     8   259 0.92 haloacid dehalogenase-like hydrolase
+adh_short            PF00106.28   195 BGC0002462_ORF3:gid:cofA:pid:QTK22480.1:loc:1247:1949:strand:- -            233   1.2e-34  119.6   0.0   1   1   5.4e-38   3.5e-34  118.1   0.0     3   183    10   177     8   186 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002462_ORF3:gid:cofA:pid:QTK22480.1:loc:1247:1949:strand:- -            233   2.8e-23   82.8   0.1   1   1   5.4e-27   3.5e-23   82.5   0.1    45   176    48   178    14   211 0.89 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002462_ORF3:gid:cofA:pid:QTK22480.1:loc:1247:1949:strand:- -            233   4.4e-06   26.8   0.3   1   1   2.3e-09   1.5e-05   25.1   0.3    57   162    48   156     9   178 0.88 KR domain
+SAICAR_synt          PF01259.21   252 BGC0002462_ORF4:gid:cofB:pid:QTK22481.1:loc:1941:2637:strand:- -            231   2.9e-08   33.8   0.0   1   1   1.7e-12   3.4e-08   33.5   0.0    84   240    85   214     8   224 0.84 SAICAR synthetase
+GntR                 PF00392.24    64 BGC0002462_ORF5:gid::pid:QTK22482.1:loc:2888:4247:strand:+ -            452     1e-13   50.8   3.2   1   1   2.7e-17   2.7e-13   49.5   0.4     2    64    15    77    14    77 0.98 Bacterial regulatory proteins, gntR family
+Aminotran_1_2        PF00155.24   363 BGC0002462_ORF5:gid::pid:QTK22482.1:loc:2888:4247:strand:+ -            452   7.2e-12   45.3   0.0   1   1     1e-15     1e-11   44.8   0.0    71   360   158   435   151   438 0.80 Aminotransferase class I and II
+MFS_1                PF07690.19   353 BGC0002462_ORF7:gid:cofC:pid:QTK22484.1:loc:5469:6714:strand:+ -            414   1.3e-18   67.2  54.3   1   1     9e-20   1.8e-15   56.9  32.4     2   296    28   305    27   306 0.78 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002462.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002462.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002462.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:51:54 2023
+# [ok]

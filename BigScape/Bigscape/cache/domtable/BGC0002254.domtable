@@ -1,0 +1,42 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+UCH                  PF00443.32   278 BGC0002254_ORF1:gid::pid:QKG86299.1:loc:0:4524:strand:- -           1427   1.7e-74  251.0   0.0   1   1   3.8e-78   2.5e-74  250.4   0.0     1   278   450  1179   450  1179 0.98 Ubiquitin carboxyl-terminal hydrolase
+DUSP                 PF06337.15    93 BGC0002254_ORF1:gid::pid:QKG86299.1:loc:0:4524:strand:- -           1427   4.5e-14   53.0   0.0   1   1   2.1e-17   1.4e-13   51.4   0.0     2    91   112   213   111   215 0.83 DUSP domain
+CSD                  PF00313.25    66 BGC0002254_ORF2:gid::pid:QKG86300.1:loc:6940:7156:strand:+ -             71   2.3e-28   98.0   2.2   1   1   1.3e-32   2.5e-28   97.8   2.2     2    65     6    68     5    69 0.97 'Cold-shock' DNA-binding domain
+FAD_binding_4        PF01565.26   139 BGC0002254_ORF3:gid:NotD:pid:QKG86301.1:loc:7540:9528:strand:- -            617   3.9e-17   62.4   0.6   1   1   8.5e-21   8.3e-17   61.3   0.6     5   136   133   279   129   282 0.92 FAD binding domain
+BBE                  PF08031.15    46 BGC0002254_ORF3:gid:NotD:pid:QKG86301.1:loc:7540:9528:strand:- -            617   3.5e-11   43.1   0.0   1   1   6.2e-15   6.1e-11   42.4   0.0     2    45   535   577   534   578 0.95 Berberine and berberine like
+Trp_DMAT             PF11991.11   363 BGC0002254_ORF4:gid:NotC:pid:QKG86302.1:loc:10158:11499:strand:- -            429   8.8e-98  328.2   0.1   1   1  5.3e-102     1e-97  327.9   0.1     1   362    30   389    30   390 0.94 Tryptophan dimethylallyltransferase
+FAD_binding_3        PF01494.22   349 BGC0002254_ORF5:gid:NotB:pid:QKG86303.1:loc:11999:13569:strand:- -            453   1.6e-19   70.5   0.1   1   1     2e-22     1e-18   67.9   0.1     3   318    16   348    15   375 0.76 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0002254_ORF5:gid:NotB:pid:QKG86303.1:loc:11999:13569:strand:- -            453   6.9e-08   32.1   0.1   1   1     4e-10     2e-06   27.3   0.1     2    33    17    48    16    84 0.92 FAD binding domain
+HI0933_like          PF03486.17   409 BGC0002254_ORF5:gid:NotB:pid:QKG86303.1:loc:11999:13569:strand:- -            453   2.3e-06   26.7   0.2   1   1   3.5e-09   1.7e-05   23.9   0.2     2   169    16   177    15   184 0.86 HI0933-like protein
+NmrA                 PF05368.16   233 BGC0002254_ORF6:gid:NotA:pid:QKG86304.1:loc:14267:15485:strand:+ -            344   2.4e-35  122.3   0.0   1   1   4.2e-39   4.2e-35  121.5   0.0     1   221     7   240     7   249 0.87 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0002254_ORF6:gid:NotA:pid:QKG86304.1:loc:14267:15485:strand:+ -            344   1.7e-10   41.2   0.1   1   1   2.5e-14   2.4e-10   40.7   0.1     1   111    11   125    11   147 0.82 NAD(P)H-binding
+Caps_synth           PF05704.15   278 BGC0002254_ORF7:gid::pid:QKG86305.1:loc:15884:17121:strand:+ -            386   1.9e-09   37.4   0.0   1   1   2.9e-13   2.8e-09   36.9   0.0    38   194    31   197    20   202 0.76 Capsular polysaccharide synthesis protein
+Gly_transf_sug       PF04488.18    98 BGC0002254_ORF7:gid::pid:QKG86305.1:loc:15884:17121:strand:+ -            386   1.4e-05   25.8   0.0   1   1   2.7e-09   2.7e-05   24.8   0.0    55    89   110   143    81   152 0.86 Glycosyltransferase sugar-binding region containing DXD motif
+AMP-binding          PF00501.31   424 BGC0002254_ORF8:gid:NotE:pid:QKG86306.1:loc:18234:24993:strand:+ -           2252  1.7e-144  481.7   0.0   1   2   3.9e-74   1.9e-70  237.7   0.0     2   424    72   475    71   475 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002254_ORF8:gid:NotE:pid:QKG86306.1:loc:18234:24993:strand:+ -           2252  1.7e-144  481.7   0.0   2   2   2.1e-75     1e-71  241.9   0.0     3   424  1164  1577  1162  1577 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002254_ORF8:gid:NotE:pid:QKG86306.1:loc:18234:24993:strand:+ -           2252   1.1e-65  222.3   0.0   1   2   5.4e-41   2.7e-37  128.7   0.0     2   456   733  1143   732  1144 0.80 Condensation domain
+Condensation         PF00668.23   457 BGC0002254_ORF8:gid:NotE:pid:QKG86306.1:loc:18234:24993:strand:+ -           2252   1.1e-65  222.3   0.0   2   2   1.5e-29   7.5e-26   90.9   0.0    33   351  1854  2153  1848  2174 0.85 Condensation domain
+PP-binding           PF00550.28    67 BGC0002254_ORF8:gid:NotE:pid:QKG86306.1:loc:18234:24993:strand:+ -           2252   1.6e-16   60.5   0.3   1   2   3.9e-11   1.9e-07   31.4   0.0     2    61   618   676   617   681 0.91 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002254_ORF8:gid:NotE:pid:QKG86306.1:loc:18234:24993:strand:+ -           2252   1.6e-16   60.5   0.3   2   2   3.2e-09   1.6e-05   25.2   0.0     1    58  1719  1775  1719  1782 0.85 Phosphopantetheine attachment site
+Trp_DMAT             PF11991.11   363 BGC0002254_ORF9:gid:NotF:pid:QKG86307.1:loc:26340:27801:strand:- -            451  2.1e-103  346.7   0.0   1   1  1.3e-107  2.5e-103  346.4   0.0     1   362    45   401    45   402 0.95 Tryptophan dimethylallyltransferase
+p450                 PF00067.25   463 BGC0002254_ORF10:gid:NotG:pid:QKG86308.1:loc:28466:30337:strand:- -            539   3.9e-54  184.3   0.0   1   1   2.7e-58   5.2e-54  183.8   0.0     2   449    90   518    89   533 0.81 Cytochrome P450
+p450                 PF00067.25   463 BGC0002254_ORF11:gid:NotH:pid:QKG86309.1:loc:30822:32666:strand:+ -            489   1.1e-31  110.3   0.3   1   1   8.1e-36   1.6e-31  109.7   0.3   274   442   285   460   129   478 0.78 Cytochrome P450
+FAD_binding_3        PF01494.22   349 BGC0002254_ORF12:gid:NotI:pid:QKG86310.1:loc:33804:35242:strand:+ -            435   1.4e-27   97.0   0.0   1   1   4.8e-31   1.9e-27   96.6   0.0     3   318    17   342    15   367 0.78 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0002254_ORF12:gid:NotI:pid:QKG86310.1:loc:33804:35242:strand:+ -            435   7.5e-09   35.3   0.0   1   1     2e-09     8e-06   25.3   0.0     2    33    18    49    17    53 0.94 FAD binding domain
+HI0933_like          PF03486.17   409 BGC0002254_ORF12:gid:NotI:pid:QKG86310.1:loc:33804:35242:strand:+ -            435   3.1e-07   29.6   0.0   1   1   1.5e-10   5.8e-07   28.7   0.0     2   168    17   176    16   201 0.82 HI0933-like protein
+DUF4185              PF13810.9    316 BGC0002254_ORF13:gid:NotJ:pid:QKG86311.1:loc:35330:36440:strand:- -            369   9.3e-70  235.5   5.5   1   1   6.3e-74   1.2e-69  235.1   5.5     7   308    37   341    33   356 0.91 Domain of unknown function (DUF4185)
+Acyltransferase      PF01553.24   135 BGC0002254_ORF14:gid:WaiA1:pid:QKG86312.1:loc:37195:40109:strand:- -            867     1e-05   25.3   0.0   1   1   1.1e-09   2.1e-05   24.3   0.0    26   134     1   173     1   174 0.68 Acyltransferase
+L31                  PF09784.12   102 BGC0002254_ORF16:gid:WaiB:pid:QKG86314.1:loc:40771:41301:strand:+ -            108   2.4e-45  153.2   1.6   1   1   1.4e-49   2.7e-45  153.1   1.6     2   102     8   108     7   108 0.98 Mitochondrial ribosomal protein L31
+p450                 PF00067.25   463 BGC0002254_ORF18:gid:WaiD:pid:QKG86316.1:loc:45306:46989:strand:+ -            497   1.2e-71  242.0   0.0   1   1   7.1e-76   1.4e-71  241.8   0.0    19   448    61   478    43   492 0.83 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002254.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002254.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002254.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:14:36 2023
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NmrA                 PF05368.16   233 BGC0001306_ORF1:gid::pid:EED52435.1:loc:0:946:strand:+ -            297   3.2e-27   95.7   0.1   1   1   4.2e-31   4.2e-27   95.3   0.1     1   229     5   228     5   259 0.90 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0001306_ORF1:gid::pid:EED52435.1:loc:0:946:strand:+ -            297   2.4e-17   63.5   0.1   1   1   3.2e-21   3.2e-17   63.2   0.1     1   140     9   141     9   191 0.85 NAD(P)H-binding
+MFS_1                PF07690.19   353 BGC0001306_ORF2:gid::pid:EED52436.1:loc:1136:2695:strand:- -            502   1.4e-10   40.8  33.0   1   1     7e-15   1.4e-10   40.8  33.0    42   350   122   445   114   448 0.76 Major Facilitator Superfamily
+UstYa                PF11807.11   220 BGC0001306_ORF3:gid::pid:EED52437.1:loc:3269:4417:strand:- -            334   4.5e-60  203.3   0.7   1   1   3.2e-64   6.3e-60  202.8   0.7     7   220    53   278    50   278 0.95 Mycotoxin biosynthesis protein UstYa
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001306.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001306.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001306.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:23:00 2023
+# [ok]

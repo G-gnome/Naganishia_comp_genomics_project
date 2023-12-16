@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="183.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="173.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>lagA
+lactococcin G alpha peptide</title>
+			<polygon class="lagA
+lactococcin G alpha peptide" points="27,10 32,40 27,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Antimicrobial17 (PF08129)
+"Alpha/beta enterocin family"</title>
+				<polygon class="PF08129" points="27,27 29,40 27,53" stroke-linejoin="round" width="5" height="24" fill="rgb(189,80,77)" stroke="rgb(151,64,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lagB
+lactococcin G beta peptide</title>
+			<polygon class="lagB
+lactococcin G beta peptide" points="34,10 40,40 34,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LcnG-beta (PF11632)
+"Lactococcin G-beta"</title>
+				<polygon class="PF11632" points="34,28 34,28 37,40 34,52 34,52" stroke-linejoin="round" width="5" height="24" fill="rgb(65,200,106)" stroke="rgb(51,160,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lagC
+immunity protein lactococcin G</title>
+			<polygon class="lagC
+immunity protein lactococcin G" points="44,10 55,40 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lagD
+ABC-transporter</title>
+			<polygon class="lagD
+ABC-transporter" points="55,25 95,25 95,10 125,40 95,70 95,55 55,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="55" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="70" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="103,28 109,28 118,37 118,43 109,52 103,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lagE
+putative bacteriocin secretion protein</title>
+			<polygon class="lagE
+putative bacteriocin secretion protein" points="126,25 141,25 141,10 171,40 141,70 141,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="157,30 167,40 157,50" stroke-linejoin="round" width="11" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

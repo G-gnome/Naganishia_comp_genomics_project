@@ -1,0 +1,32 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AAA_21               PF13304.9    304 BGC0002332_ORF1:gid::pid:QEO32858.1:loc:137:1160:strand:+ -            340   1.2e-11   45.1   0.4   1   1   2.4e-15   2.3e-11   44.1   0.1   259   303   198   246   113   247 0.85 AAA domain, putative AbiEii toxin, Type IV TA system
+AAA_15               PF13175.9    374 BGC0002332_ORF1:gid::pid:QEO32858.1:loc:137:1160:strand:+ -            340   5.2e-09   36.2   0.3   1   1   8.5e-13   8.3e-09   35.6   0.3   328   373   203   245   186   246 0.85 AAA ATPase domain
+Bac_luciferase       PF00296.23   314 BGC0002332_ORF3:gid::pid:QEO32860.1:loc:2215:3238:strand:- -            340   1.6e-47  162.6   8.3   1   1   9.7e-52   1.9e-47  162.3   8.3    10   313     4   309     1   310 0.86 Luciferase-like monooxygenase
+Hydrolase_4          PF12146.11   239 BGC0002332_ORF4:gid::pid:QEO32861.1:loc:3351:5640:strand:- -            762   1.5e-19   70.3   0.7   1   1   8.6e-17   4.2e-13   49.2   0.1     7   126   539   655   533   671 0.86 Serine aminopeptidase, S33
+Abhydrolase_6        PF12697.10   220 BGC0002332_ORF4:gid::pid:QEO32861.1:loc:3351:5640:strand:- -            762   2.1e-08   35.2   0.2   1   1   4.2e-12   2.1e-08   35.2   0.2     1   118   539   661   539   752 0.62 Alpha/beta hydrolase family
+Acyltransferase      PF01553.24   135 BGC0002332_ORF4:gid::pid:QEO32861.1:loc:3351:5640:strand:- -            762   2.4e-05   24.1   0.0   1   1   9.7e-09   4.8e-05   23.1   0.0    13   114    45   155    32   169 0.78 Acyltransferase
+Na_H_Exchanger       PF00999.24   381 BGC0002332_ORF5:gid::pid:QEO32862.1:loc:5789:7610:strand:- -            606   1.9e-28   99.5  51.5   1   1   2.5e-32   2.4e-28   99.2  51.5     3   381     7   391     5   391 0.87 Sodium/hydrogen exchanger family
+TrkA_N               PF02254.21   116 BGC0002332_ORF5:gid::pid:QEO32862.1:loc:5789:7610:strand:- -            606   5.7e-09   36.4   0.0   1   1   1.3e-12   1.3e-08   35.2   0.0     2    93   403   494   402   512 0.88 TrkA-N domain
+HIT                  PF01230.26    98 BGC0002332_ORF6:gid::pid:QEO32863.1:loc:7783:8206:strand:+ -            140   2.9e-16   60.1   1.3   1   1   4.1e-20     4e-16   59.6   1.3     3    96    14   102    12   104 0.95 HIT domain
+DcpS_C               PF11969.11   114 BGC0002332_ORF6:gid::pid:QEO32863.1:loc:7783:8206:strand:+ -            140   1.4e-11   44.9   0.4   1   1   1.8e-15   1.8e-11   44.6   0.4     1   100     4    99     4   111 0.94 Scavenger mRNA decapping enzyme C-term binding
+Guanylate_cyc        PF00211.23   183 BGC0002332_ORF7:gid::pid:QEO32864.1:loc:8241:9663:strand:+ -            473   9.6e-30  103.7   0.0   1   1   6.9e-34   1.4e-29  103.2   0.0     7   150   267   415   262   456 0.89 Adenylate and Guanylate cyclase catalytic domain
+Chal_sti_synt_N      PF00195.22   225 BGC0002332_ORF8:gid::pid:QEO32865.1:loc:10338:11463:strand:- -            374   7.8e-27   94.3   0.1   1   1   3.3e-30   1.3e-26   93.6   0.1    15   221     9   212     2   215 0.85 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.18   151 BGC0002332_ORF8:gid::pid:QEO32865.1:loc:10338:11463:strand:- -            374   3.7e-25   88.8   0.0   1   1   1.5e-28   5.9e-25   88.2   0.0    10   148   234   368   227   369 0.77 Chalcone and stilbene synthases, C-terminal domain
+FAE1_CUT1_RppA       PF08392.15   290 BGC0002332_ORF8:gid::pid:QEO32865.1:loc:10338:11463:strand:- -            374   6.7e-11   42.2   0.0   1   1   3.5e-14   1.4e-10   41.1   0.0    67   212    78   221    32   229 0.77 FAE1/Type III polyketide synthase-like protein
+ACP_syn_III_C        PF08541.13    90 BGC0002332_ORF8:gid::pid:QEO32865.1:loc:10338:11463:strand:- -            374     3e-09   37.0   0.0   1   1   2.7e-12   1.1e-08   35.3   0.0     2    88   275   367   274   369 0.86 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0002332_ORF8:gid::pid:QEO32865.1:loc:10338:11463:strand:- -            374   1.8e-06   27.8   0.0   1   1   1.3e-09     5e-06   26.4   0.0     6    64   153   215   151   226 0.84 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+DinB_2               PF12867.10   128 BGC0002332_ORF9:gid::pid:QEO32866.1:loc:11658:12189:strand:+ -            176   4.8e-15   56.3   1.1   1   1     6e-19   5.9e-15   56.0   1.1     1   128    10   161    10   161 0.84 DinB superfamily
+DUF664               PF04978.15   149 BGC0002332_ORF9:gid::pid:QEO32866.1:loc:11658:12189:strand:+ -            176   4.7e-11   43.4   0.2   1   1   6.8e-14   6.6e-10   39.7   0.2     4   146     9   167     6   170 0.85 Protein of unknown function (DUF664)
+Arylsulfotrans       PF05935.14   381 BGC0002332_ORF11:gid::pid:QEO32868.1:loc:13031:13618:strand:+ -            195   8.7e-11   41.5   0.0   1   1   6.4e-15   1.3e-10   40.9   0.0    27   187    26   193     8   195 0.79 Arylsulfotransferase (ASST)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002332.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002332.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002332.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:14:57 2023
+# [ok]

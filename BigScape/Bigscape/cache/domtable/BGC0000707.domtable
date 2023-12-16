@@ -1,0 +1,28 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.23   172 BGC0000707_ORF1:gid:kasA:pid:BAA25653.1:loc:0:756:strand:+ -            251   5.4e-30  104.3   0.0   1   1   7.8e-34   7.7e-30  103.8   0.0     3   159    55   215    53   226 0.95 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 BGC0000707_ORF1:gid:kasA:pid:BAA25653.1:loc:0:756:strand:+ -            251   2.9e-19   69.9   0.0   1   1   5.3e-23   5.2e-19   69.0   0.0    13   134    78   213    66   214 0.86 Glycosyl transferases group 1
+Aminotran_3          PF00202.24   403 BGC0000707_ORF3:gid:kasC:pid:BAA25655.1:loc:1931:3242:strand:+ -            436   3.5e-65  220.4   0.0   1   1     2e-69   3.9e-65  220.2   0.0     9   374    14   387     7   423 0.89 Aminotransferase class-III
+GDP_Man_Dehyd        PF16363.8    332 BGC0000707_ORF4:gid:kasD:pid:BAA25656.1:loc:3255:4245:strand:+ -            329   1.9e-58  198.6   0.0   1   1   8.4e-62   2.4e-58  198.3   0.0     1   330    14   311    14   313 0.90 GDP-mannose 4,6 dehydratase
+Epimerase            PF01370.24   241 BGC0000707_ORF4:gid:kasD:pid:BAA25656.1:loc:3255:4245:strand:+ -            329   4.6e-55  186.8   0.0   1   1   2.2e-58   6.1e-55  186.4   0.0     1   241    13   250    13   250 0.94 NAD dependent epimerase/dehydratase family
+NAD_binding_4        PF07993.15   257 BGC0000707_ORF4:gid:kasD:pid:BAA25656.1:loc:3255:4245:strand:+ -            329   1.9e-15   56.9   0.2   1   1   5.4e-18   1.5e-14   53.9   0.2     1   203    15   186    15   224 0.87 Male sterility protein
+Polysacc_synt_2      PF02719.18   294 BGC0000707_ORF4:gid:kasD:pid:BAA25656.1:loc:3255:4245:strand:+ -            329   9.4e-15   54.7   0.0   1   1   1.2e-17   3.4e-14   52.8   0.0     1   252    13   273    13   287 0.82 Polysaccharide biosynthesis protein
+RmlD_sub_bind        PF04321.20   287 BGC0000707_ORF4:gid:kasD:pid:BAA25656.1:loc:3255:4245:strand:+ -            329   2.6e-10   40.0   0.1   1   1   1.2e-13   3.5e-10   39.6   0.1     2   239    12   276    11   293 0.88 RmlD substrate binding domain
+NAD_binding_10       PF13460.9    184 BGC0000707_ORF4:gid:kasD:pid:BAA25656.1:loc:3255:4245:strand:+ -            329   1.9e-09   37.8   0.5   1   1   1.7e-12   4.8e-09   36.5   0.5     1   143    17   186    17   190 0.73 NAD(P)H-binding
+3Beta_HSD            PF01073.22   280 BGC0000707_ORF4:gid:kasD:pid:BAA25656.1:loc:3255:4245:strand:+ -            329   1.5e-08   34.1   0.0   1   1     7e-12     2e-08   33.7   0.0     1   218    14   227    14   250 0.73 3-beta hydroxysteroid dehydrogenase/isomerase family
+FR47                 PF08445.13    86 BGC0000707_ORF6:gid:ORF_F:pid:BAA25658.1:loc:5038:5755:strand:+ -            238   2.1e-07   31.0   0.0   1   1   3.4e-11   3.3e-07   30.3   0.0    16    81   165   232   151   237 0.83 FR47-like protein
+Acetyltransf_1       PF00583.28   117 BGC0000707_ORF6:gid:ORF_F:pid:BAA25658.1:loc:5038:5755:strand:+ -            238   5.1e-06   26.8   0.0   1   1   7.9e-10   7.7e-06   26.3   0.0    36   114   151   225   122   228 0.70 Acetyltransferase (GNAT) family
+Acetyltransf_1       PF00583.28   117 BGC0000707_ORF8:gid:kac338:pid:BAA25689.1:loc:6317:6743:strand:+ -            141     6e-11   42.7   0.1   1   1   1.1e-14   7.2e-11   42.5   0.1    24   117    47   131    23   131 0.74 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.10   128 BGC0000707_ORF8:gid:kac338:pid:BAA25689.1:loc:6317:6743:strand:+ -            141   1.8e-07   31.3   0.0   1   1   3.4e-11   2.2e-07   31.0   0.0    16   110    38   134    24   138 0.85 Acetyltransferase (GNAT) domain
+ABM                  PF03992.19    78 BGC0000707_ORF9:gid:ORF_I:pid:BAA25660.1:loc:7084:7321:strand:+ -             78   6.4e-10   39.1   0.6   1   1   4.2e-14   8.2e-10   38.8   0.6    31    74     6    49     1    51 0.92 Antibiotic biosynthesis monooxygenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000707.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000707.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000707.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:53:04 2023
+# [ok]

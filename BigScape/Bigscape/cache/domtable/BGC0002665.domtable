@@ -1,0 +1,26 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0002665_ORF1:gid::pid:QHE96552.1:loc:653:1865:strand:+ -            403   5.6e-25   88.1  57.7   1   1   2.8e-29   5.6e-25   88.1  57.7     9   351    27   356    15   358 0.76 Major Facilitator Superfamily
+Methyltransf_25      PF13649.9     97 BGC0002665_ORF2:gid::pid:QHE96553.1:loc:1948:2692:strand:+ -            247   5.8e-13   49.5   0.0   1   1     3e-16   1.2e-12   48.5   0.0     3    97    69   163    68   163 0.91 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002665_ORF2:gid::pid:QHE96553.1:loc:1948:2692:strand:+ -            247   2.5e-11   43.7   0.0   1   1   8.1e-15   3.2e-11   43.4   0.0     3   111    63   169    61   216 0.89 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002665_ORF2:gid::pid:QHE96553.1:loc:1948:2692:strand:+ -            247   3.5e-10   40.5   0.0   1   1   1.5e-13   5.8e-10   39.8   0.0     2    95    69   166    68   167 0.92 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002665_ORF2:gid::pid:QHE96553.1:loc:1948:2692:strand:+ -            247   4.4e-06   26.3   0.0   1   1   1.6e-09   6.3e-06   25.8   0.0    53   172    69   189    59   238 0.73 ubiE/COQ5 methyltransferase family
+Methyltransf_23      PF13489.9    165 BGC0002665_ORF3:gid::pid:QHE96554.1:loc:2705:3623:strand:+ -            305   3.4e-13   49.9   0.0   1   1   1.2e-16   6.1e-13   49.0   0.0    14   161   108   246    97   250 0.83 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002665_ORF3:gid::pid:QHE96554.1:loc:2705:3623:strand:+ -            305   1.8e-07   32.0   0.0   1   1   7.3e-11   3.6e-07   31.0   0.0     1    99   121   207   121   207 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002665_ORF3:gid::pid:QHE96554.1:loc:2705:3623:strand:+ -            305   1.1e-06   29.3   0.0   1   1     4e-10     2e-06   28.5   0.0     1    96   121   209   121   209 0.87 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002665_ORF3:gid::pid:QHE96554.1:loc:2705:3623:strand:+ -            305   1.3e-06   29.1   0.0   1   1   4.9e-10   2.4e-06   28.2   0.0     2    95   121   203   120   205 0.83 Methyltransferase domain
+Peptidase_M50        PF02163.25   328 BGC0002665_ORF4:gid::pid:QHE96555.1:loc:3619:4762:strand:+ -            380   3.6e-09   36.5   1.7   1   1   2.9e-13   5.7e-09   35.8   1.7     5   112   198   276   195   296 0.88 Peptidase family M50
+DUF692               PF05114.16   263 BGC0002665_ORF5:gid::pid:QHE96556.1:loc:5000:5915:strand:+ -            304   1.1e-45  156.1   0.0   1   1   6.6e-50   1.3e-45  155.8   0.0     1   249    11   267    11   281 0.90 Protein of unknown function (DUF692)
+Lant_dehydr_N        PF04738.16   650 BGC0002665_ORF7:gid::pid:QHE96558.1:loc:6717:9165:strand:+ -            815     8e-25   87.0   7.7   1   1   4.1e-27     8e-23   80.4   1.7     2   435   127   573   126   590 0.83 Lantibiotic dehydratase, N terminus
+MFS_1                PF07690.19   353 BGC0002665_ORF8:gid::pid:QHE96559.1:loc:9157:10423:strand:+ -            421   1.2e-32  113.4  48.0   1   1   5.9e-37   1.2e-32  113.4  48.0     2   347    30   364    29   370 0.86 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002665.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002665.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002665.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:56:22 2023
+# [ok]

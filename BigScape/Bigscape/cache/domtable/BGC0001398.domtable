@@ -1,0 +1,37 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cupin_2              PF07883.14    71 BGC0001398_ORF1:gid:phomC:pid:BDA39134.1:loc:4999:5569:strand:+ -            189   6.9e-08   32.2   0.0   1   1   5.4e-12   1.1e-07   31.6   0.0     2    63    91   151    90   160 0.90 Cupin domain
+Zn_clus              PF00172.21    40 BGC0001398_ORF2:gid:phomD:pid:BDA39135.1:loc:9208:10618:strand:+ -            469   1.9e-08   34.4  10.4   1   1   9.7e-13   1.9e-08   34.4  10.4     2    38    13    48    12    50 0.93 Fungal Zn(2)-Cys(6) binuclear cluster domain
+MFS_1                PF07690.19   353 BGC0001398_ORF3:gid:phomT:pid:BDA39136.1:loc:12449:14237:strand:- -            595   2.6e-39  135.3  55.8   1   1   3.2e-43   3.1e-39  135.0  52.8     3   352    98   500    96   501 0.86 Major Facilitator Superfamily
+TRI12                PF06609.16   599 BGC0001398_ORF3:gid:phomT:pid:BDA39136.1:loc:12449:14237:strand:- -            595   3.1e-06   26.1  23.0   1   1   1.4e-09   1.4e-05   23.9  22.9    45   474    92   517    54   536 0.69 Fungal trichothecene efflux pump (TRI12)
+FAD_binding_3        PF01494.22   349 BGC0001398_ORF4:gid:phomE:pid:BDA39137.1:loc:15253:16905:strand:- -            368   8.9e-17   61.5   4.7   1   1   3.2e-20   6.3e-16   58.7   0.1   120   344    78   302    45   306 0.72 FAD binding domain
+adh_short_C2         PF13561.9    234 BGC0001398_ORF5:gid:phomF:pid:BDA39138.1:loc:18074:19155:strand:+ -            293   3.2e-40  138.3   0.0   1   1     8e-44   5.3e-40  137.6   0.0     1   232    26   284    26   285 0.93 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001398_ORF5:gid:phomF:pid:BDA39138.1:loc:18074:19155:strand:+ -            293   6.2e-37  127.1   0.1   1   1   1.5e-40     1e-36  126.4   0.1     2   190    21   231    20   235 0.86 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001398_ORF5:gid:phomF:pid:BDA39138.1:loc:18074:19155:strand:+ -            293   1.7e-07   31.4   0.4   1   1   6.4e-11   4.2e-07   30.2   0.1     4    97    23   111    21   124 0.88 KR domain
+UstYa                PF11807.11   220 BGC0001398_ORF6:gid:phomYa:pid:BDA39139.1:loc:22658:23768:strand:+ -            262   1.8e-24   86.9   0.0   1   1   1.2e-28   2.3e-24   86.6   0.0    58   211    82   249    29   257 0.70 Mycotoxin biosynthesis protein UstYa
+Peptidase_S41        PF03572.21   166 BGC0001398_ORF7:gid:phomP1:pid:BDA39140.1:loc:23984:26250:strand:- -            666   1.6e-09   37.7   0.0   1   1   1.8e-13   3.5e-09   36.6   0.0     1   117   303   504   303   516 0.78 Peptidase family S41
+UstYa                PF11807.11   220 BGC0001398_ORF8:gid:phomYb:pid:BDA39141.1:loc:26772:27670:strand:+ -            251   5.3e-28   98.4   0.0   1   1     4e-32   7.9e-28   97.9   0.0    10   220    51   241    44   241 0.71 Mycotoxin biosynthesis protein UstYa
+Fungal_trans_2       PF11951.11   384 BGC0001398_ORF10:gid:phomR:pid:BDA39143.1:loc:30743:32997:strand:- -            639   3.1e-22   79.0   0.6   1   1   4.1e-26   4.1e-22   78.7   0.6   105   377   310   632   291   639 0.82 Fungal specific transcription factor domain
+Zn_clus              PF00172.21    40 BGC0001398_ORF10:gid:phomR:pid:BDA39143.1:loc:30743:32997:strand:- -            639   2.6e-07   30.8   7.5   1   1   4.5e-11   4.4e-07   30.0   7.5     2    39    13    50    12    51 0.89 Fungal Zn(2)-Cys(6) binuclear cluster domain
+ABC_tran             PF00005.30   137 BGC0001398_ORF11:gid:phomO:pid:BDA39144.1:loc:36848:42318:strand:+ -           1551   2.1e-33  115.9   0.0   1   2   8.1e-13   2.6e-09   37.8   0.0     1   134   661   784   661   787 0.82 ABC transporter
+ABC_tran             PF00005.30   137 BGC0001398_ORF11:gid:phomO:pid:BDA39144.1:loc:36848:42318:strand:+ -           1551   2.1e-33  115.9   0.0   2   2   2.4e-24   7.7e-21   75.2   0.0     1   136  1306  1465  1306  1466 0.83 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001398_ORF11:gid:phomO:pid:BDA39144.1:loc:36848:42318:strand:+ -           1551   6.4e-23   81.9  13.7   1   1   2.4e-21   7.7e-18   65.2   6.3     3   253   907  1161   906  1182 0.89 ABC transporter transmembrane region
+OPT                  PF03169.18   616 BGC0001398_ORF14:gid:phomP2:pid:BDA39147.1:loc:45976:48569:strand:- -            839  2.3e-118  396.6  41.4   1   2  9.7e-110  1.9e-105  354.0  27.6     2   489   101   615   100   622 0.97 OPT oligopeptide transporter protein
+OPT                  PF03169.18   616 BGC0001398_ORF14:gid:phomP2:pid:BDA39147.1:loc:45976:48569:strand:- -            839  2.3e-118  396.6  41.4   2   2   2.7e-17   5.3e-13   48.6   5.8   494   614   653   796   646   798 0.83 OPT oligopeptide transporter protein
+UstYa                PF11807.11   220 BGC0001398_ORF15:gid:phomYc:pid:BDA39148.1:loc:48979:49947:strand:+ -            256     5e-49  167.2   0.1   1   1     3e-53   5.8e-49  167.0   0.1     2   218    27   247    26   249 0.90 Mycotoxin biosynthesis protein UstYa
+Tyrosinase           PF00264.23   222 BGC0001398_ORF16:gid:phomQ1:pid:BDA39149.1:loc:51340:52660:strand:- -            389     2e-40  139.6   4.8   1   1   1.4e-44   2.8e-40  139.1   4.8     3   222   125   329   123   329 0.82 Common central domain of tyrosinase
+Tyrosinase           PF00264.23   222 BGC0001398_ORF17:gid:phomQ2:pid:BDA39150.1:loc:53055:54556:strand:+ -            391   3.1e-34  119.3   8.9   1   1   1.7e-37   3.4e-33  116.0   8.9     3   221   144   336   142   337 0.78 Common central domain of tyrosinase
+UstYa                PF11807.11   220 BGC0001398_ORF18:gid:phomYd:pid:BDA39151.1:loc:55054:56327:strand:+ -            301   7.6e-31  107.7   0.0   1   1   7.1e-35   1.4e-30  106.9   0.0     4   218    42   271    38   273 0.81 Mycotoxin biosynthesis protein UstYa
+UstYa                PF11807.11   220 BGC0001398_ORF19:gid:phomYe:pid:BDA39152.1:loc:56735:57593:strand:+ -            285   9.7e-26   91.0   0.9   1   1   1.5e-29   2.9e-25   89.5   0.9    14   219    42   263    23   278 0.67 Mycotoxin biosynthesis protein UstYa
+Peptidase_M3         PF01432.23   458 BGC0001398_ORF20:gid:phomG:pid:BDA39153.1:loc:58188:60569:strand:+ -            713   3.5e-85  287.1   0.5   1   1   3.4e-89   6.7e-85  286.2   0.5     3   454   208   695   206   698 0.92 Peptidase family M3
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001398.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001398.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001398.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:14:00 2023
+# [ok]

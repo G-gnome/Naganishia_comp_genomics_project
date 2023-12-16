@@ -1,0 +1,33 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0001878_ORF1:gid:detF:pid:DAC80528.1:loc:37:3898:strand:+ -           1286   9.7e-90  301.6   0.0   1   1   3.2e-93   1.3e-89  301.2   0.0    23   456     4   434     1   435 0.95 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001878_ORF1:gid:detF:pid:DAC80528.1:loc:37:3898:strand:+ -           1286   5.4e-89  298.9   0.0   1   1   2.1e-92   8.1e-89  298.3   0.0     1   424   454   845   454   845 0.88 AMP-binding enzyme
+Thioesterase         PF00975.23   230 BGC0001878_ORF1:gid:detF:pid:DAC80528.1:loc:37:3898:strand:+ -           1286   2.3e-25   90.2   0.0   1   1   1.8e-28   7.2e-25   88.6   0.0     2   226  1044  1261  1043  1265 0.83 Thioesterase domain
+AMP-binding_C        PF13193.9     76 BGC0001878_ORF1:gid:detF:pid:DAC80528.1:loc:37:3898:strand:+ -           1286   1.4e-10   42.1   0.4   1   1   1.4e-13   5.3e-10   40.2   0.1     1    76   853   928   853   928 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001878_ORF1:gid:detF:pid:DAC80528.1:loc:37:3898:strand:+ -           1286     2e-10   40.9   0.0   1   1   1.9e-13   7.6e-10   39.1   0.0     3    65   959  1019   958  1021 0.91 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047  4.9e-150  499.9   0.0   1   2   4.2e-81   8.2e-78  262.0   0.0     3   424    20   413    18   413 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047  4.9e-150  499.9   0.0   2   2   9.4e-73   1.8e-69  234.5   0.0     1   424  1064  1467  1064  1467 0.84 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047   3.4e-55  187.5   0.2   1   1   2.9e-58   5.7e-55  186.7   0.2     2   252  1662  1895  1661  1896 0.91 Beta-ketoacyl synthase, N-terminal domain
+Condensation         PF00668.23   457 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047   2.7e-50  171.5   0.0   1   1     2e-53     4e-50  171.0   0.0     4   445   613  1036   611  1042 0.87 Condensation domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047   9.9e-37  125.7   1.0   1   1   2.8e-39   5.4e-36  123.3   0.1     1   118  1904  2020  1904  2021 0.98 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.13   180 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047   9.3e-33  113.7   0.3   1   1   9.2e-36   1.8e-32  112.8   0.3     1   180  2462  2635  2462  2635 0.92 KR domain
+PP-binding           PF00550.28    67 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047     5e-27   94.1   2.4   1   2   4.6e-12   9.1e-09   35.6   0.0     2    67  1575  1637  1574  1637 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047     5e-27   94.1   2.4   2   2   2.4e-13   4.7e-10   39.7   0.9     7    67  2725  2783  2720  2783 0.89 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047     7e-24   84.7   1.1   1   2   2.3e-14   4.5e-11   43.7   0.0     1    76   421   494   421   494 0.93 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047     7e-24   84.7   1.1   2   2   2.4e-12   4.7e-09   37.2   0.0     2    76  1476  1545  1475  1545 0.87 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047   2.6e-17   63.9   0.3   1   1   2.7e-20   5.3e-17   62.8   0.3     3   140  2809  2948  2807  3037 0.82 Thioesterase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047   5.9e-13   49.4   0.0   1   1   6.4e-16   1.2e-12   48.4   0.0    13    90  2034  2111  2025  2134 0.82 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.28   195 BGC0001878_ORF2:gid:detG:pid:DAC80529.1:loc:3894:13038:strand:+ -           3047   2.3e-08   33.9   0.0   1   1   2.4e-11   4.7e-08   32.8   0.0     4   161  2465  2614  2463  2625 0.87 short chain dehydrogenase
+GSCFA                PF08885.14   237 BGC0001878_ORF3:gid::pid:DAC80530.1:loc:13068:14124:strand:+ -            351   4.5e-54  183.8   0.0   1   1   2.8e-58   5.4e-54  183.6   0.0     2   237    41   309    40   309 0.93 GSCFA family
+TauD                 PF02668.19   268 BGC0001878_ORF5:gid:tauD:pid:DAC80532.1:loc:14886:15759:strand:+ -            290   1.7e-50  172.5   0.2   1   1   1.1e-54   2.2e-50  172.1   0.2     2   266    25   280    24   282 0.91 Taurine catabolism dioxygenase TauD, TfdA family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001878.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001878.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001878.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:04:34 2023
+# [ok]

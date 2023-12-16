@@ -1,0 +1,31 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ribosomal_L23eN      PF03939.16    51 BGC0001267_ORF1:gid::pid:ABV57814.1:loc:3:1080:strand:- -            238   8.5e-22   77.2   4.7   1   1   8.7e-26   8.5e-22   77.2   4.7     1    51    99   149    99   149 0.97 Ribosomal protein L23, N-terminal domain
+Ribosomal_L23        PF00276.23    86 BGC0001267_ORF1:gid::pid:ABV57814.1:loc:3:1080:strand:- -            238   2.3e-15   56.8   0.1   1   1   2.4e-18   2.4e-14   53.5   0.1     2    60   158   217   157   227 0.92 Ribosomal protein L23
+Cupin_5              PF06172.14   141 BGC0001267_ORF2:gid::pid:ABV57815.1:loc:5034:6525:strand:- -            363     1e-46  158.7   0.0   1   1   7.6e-51   1.5e-46  158.2   0.0     2   140   219   349   218   350 0.93 Cupin superfamily (DUF985)
+Cupin_5              PF06172.14   141 BGC0001267_ORF4:gid::pid:ABV57817.1:loc:8656:9543:strand:- -            221   7.3e-44  149.4   0.0   1   1   5.4e-48   1.1e-43  148.9   0.0     2   140    79   210    78   211 0.94 Cupin superfamily (DUF985)
+Peptidase_M24        PF00557.27   209 BGC0001267_ORF5:gid::pid:ABV57818.1:loc:12667:15440:strand:- -            644   6.1e-19   68.7   0.0   1   1   1.4e-22   1.3e-18   67.6   0.0     3   166    19   184    17   213 0.83 Metallopeptidase family M24
+APH                  PF01636.26   239 BGC0001267_ORF5:gid::pid:ABV57818.1:loc:12667:15440:strand:- -            644   6.3e-12   46.0   0.3   1   1   1.4e-15   1.4e-11   44.9   0.3    16   210   282   513   252   544 0.68 Phosphotransferase enzyme family
+Oxidored_FMN         PF00724.23   342 BGC0001267_ORF6:gid:easA:pid:ABV57819.1:loc:19673:20822:strand:+ -            382   5.7e-85  285.7   0.0   1   1   3.5e-89   6.9e-85  285.4   0.0     1   341     5   343     5   344 0.87 NADH:flavin oxidoreductase / NADH oxidase family
+p450                 PF00067.25   463 BGC0001267_ORF7:gid:cloA:pid:ABV57820.1:loc:21765:24035:strand:- -            511   1.2e-45  156.3   0.0   1   1   8.1e-50   1.6e-45  155.9   0.0    26   438    73   476    56   484 0.80 Cytochrome P450
+Catalase             PF00199.22   383 BGC0001267_ORF8:gid:easC:pid:ABV57821.1:loc:24558:26116:strand:- -            479  2.2e-130  435.3   0.0   1   1  1.5e-134  2.9e-130  434.9   0.0    23   355    28   367    13   396 0.94 Catalase
+adh_short_C2         PF13561.9    234 BGC0001267_ORF9:gid:easD:pid:ABV57822.1:loc:26934:27815:strand:- -            261   4.4e-43  147.7   0.2   1   1     8e-47   5.3e-43  147.4   0.2     1   229    13   256    13   258 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001267_ORF9:gid:easD:pid:ABV57822.1:loc:26934:27815:strand:- -            261   4.5e-37  127.5   0.2   1   1   8.3e-41   5.4e-37  127.3   0.2     1   190     7   207     7   212 0.92 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001267_ORF9:gid:easD:pid:ABV57822.1:loc:26934:27815:strand:- -            261   8.6e-10   38.9   0.4   1   1   2.2e-13   1.5e-09   38.2   0.4     4   117    10   128     8   179 0.80 KR domain
+FAD_binding_4        PF01565.26   139 BGC0001267_ORF10:gid:easE:pid:ABV57823.1:loc:28361:30389:strand:+ -            581   3.4e-13   49.7   0.6   1   1   5.9e-17   5.8e-13   48.9   0.6     3   138   129   273   127   274 0.87 FAD binding domain
+BBE                  PF08031.15    46 BGC0001267_ORF10:gid:easE:pid:ABV57823.1:loc:28361:30389:strand:+ -            581   7.5e-12   45.3   0.0   1   1   1.4e-15   1.3e-11   44.5   0.0     1    45   505   549   505   550 0.95 Berberine and berberine like
+Methyltransf_33      PF10017.12   309 BGC0001267_ORF11:gid:easF:pid:ABV57824.1:loc:30723:31905:strand:+ -            355   6.7e-77  258.8   0.0   1   1     4e-81   7.9e-77  258.6   0.0     2   308    19   342    18   343 0.94 Histidine-specific methyltransferase, SAM-dependent
+NAD_binding_10       PF13460.9    184 BGC0001267_ORF12:gid:easG:pid:ABV57825.1:loc:31925:32946:strand:- -            289   3.3e-10   40.3   0.0   1   1   1.2e-12   1.2e-08   35.2   0.0     1   184     7   185     7   185 0.77 NAD(P)H-binding
+NmrA                 PF05368.16   233 BGC0001267_ORF12:gid:easG:pid:ABV57825.1:loc:31925:32946:strand:- -            289   3.9e-09   36.5   0.0   1   1   5.8e-12   5.7e-08   32.7   0.0     1   231     3   219     3   221 0.70 NmrA-like family
+Trp_DMAT             PF11991.11   363 BGC0001267_ORF13:gid:dmaW:pid:ABV57826.1:loc:33938:35442:strand:+ -            455  2.5e-108  362.9   0.0   1   1  1.6e-112  3.1e-108  362.5   0.0     2   361    25   389    24   390 0.95 Tryptophan dimethylallyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001267.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001267.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001267.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:45:08 2023
+# [ok]

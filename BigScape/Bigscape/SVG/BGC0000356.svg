@@ -1,0 +1,149 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="943.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="933.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ftmA
+nonribosomal peptide synthetase</title>
+			<polygon class="ftmA
+nonribosomal peptide synthetase" points="241,25 50,25 50,10 20,40 50,70 50,55 241,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="26,38 36,28 60,28 60,52 36,52 26,42" stroke-linejoin="round" width="34" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="66" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="86" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="128" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="174" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="195" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmC
+cytochrome P450</title>
+			<polygon class="ftmC
+cytochrome P450" points="358,25 323,25 323,10 293,40 323,70 323,55 358,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="303,34 309,28 346,28 346,52 309,52 303,46" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmD
+O-methyltransferase</title>
+			<polygon class="ftmD
+O-methyltransferase" points="383,25 390,25 390,10 420,40 390,70 390,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="395,28 403,28 414,39 414,41 403,52 395,52" stroke-linejoin="round" width="19" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmB_ftmPT1
+prenyltransferase</title>
+			<polygon class="ftmB_ftmPT1
+prenyltransferase" points="444,25 462,25 462,10 492,40 462,70 462,55 444,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="447,28 476,28 485,37 485,43 476,52 447,52" stroke-linejoin="round" width="38" height="24" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmE
+cytochrome P450</title>
+			<polygon class="ftmE
+cytochrome P450" points="551,25 529,25 529,10 499,40 529,70 529,55 551,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="503,40 515,28 547,28 547,52 515,52" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmF
+alpha-ketoglutarate dioxygenase</title>
+			<polygon class="ftmF
+alpha-ketoglutarate dioxygenase" points="581,40 610,10 610,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="588,37 597,28 607,28 607,52 597,52 588,43" stroke-linejoin="round" width="19" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmG
+cytochrome P450</title>
+			<polygon class="ftmG
+cytochrome P450" points="706,25 676,25 676,10 646,40 676,70 676,55 706,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="657,33 662,28 693,28 693,52 662,52 657,47" stroke-linejoin="round" width="36" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmH
+prenyltransferase</title>
+			<polygon class="ftmH
+prenyltransferase" points="731,25 745,25 745,10 775,40 745,70 745,55 731,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="733,28 759,28 769,38 769,42 759,52 733,52" stroke-linejoin="round" width="36" height="24" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftmI
+ankyrin repeat protein</title>
+			<polygon class="ftmI
+ankyrin repeat protein" points="855,25 817,25 817,10 787,40 817,70 817,55 855,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ank_2 (PF12796)
+"Ankyrin repeats (3 copies)"</title>
+				<polygon class="PF12796" points="791,40 800,31 800,49 791,40" stroke-linejoin="round" width="9" height="24" fill="rgb(151,90,191)" stroke="rgb(120,72,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ank_2 (PF12796)
+"Ankyrin repeats (3 copies)"</title>
+				<rect class="PF12796" x="810" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(151,90,191)" stroke="rgb(120,72,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ank_2 (PF12796)
+"Ankyrin repeats (3 copies)"</title>
+				<rect class="PF12796" x="820" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(151,90,191)" stroke="rgb(120,72,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ank_2 (PF12796)
+"Ankyrin repeats (3 copies)"</title>
+				<rect class="PF12796" x="833" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(151,90,191)" stroke="rgb(120,72,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ank_2 (PF12796)
+"Ankyrin repeats (3 copies)"</title>
+				<rect class="PF12796" x="843" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(151,90,191)" stroke="rgb(120,72,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

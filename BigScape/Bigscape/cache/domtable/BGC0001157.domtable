@@ -1,0 +1,26 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_M17        PF00883.24   312 BGC0001157_ORF1:gid::pid:CBG72685.1:loc:0:1443:strand:- -            480  5.5e-100  334.8   0.0   1   1  1.1e-103   1.1e-99  333.8   0.0     2   312   161   472   160   472 0.96 Cytosol aminopeptidase family, catalytic domain
+Peptidase_M17_N      PF02789.20   126 BGC0001157_ORF1:gid::pid:CBG72685.1:loc:0:1443:strand:- -            480   3.6e-13   49.7   1.9   1   1   3.6e-17   3.6e-13   49.7   1.9    17   125    23   130     5   131 0.85 Cytosol aminopeptidase family, N-terminal domain
+DUF2087              PF09860.12    69 BGC0001157_ORF2:gid::pid:CBG72686.1:loc:1447:2020:strand:- -            190   3.4e-22   78.5   0.0   1   1   3.4e-26   6.7e-22   77.5   0.0     1    69   121   189   121   189 0.99 Uncharacterized protein conserved in bacteria (DUF2087)
+Radical_SAM          PF04055.24   167 BGC0001157_ORF3:gid::pid:CBG72687.1:loc:2139:4098:strand:- -            652   1.2e-08   35.6   0.0   1   1   4.3e-12   8.5e-08   32.9   0.0     1   161   279   436   279   442 0.87 Radical SAM superfamily
+p450                 PF00067.25   463 BGC0001157_ORF4:gid::pid:CBG72688.1:loc:4105:5242:strand:- -            378   4.5e-12   45.6   0.0   1   1   3.8e-13   7.5e-09   35.0   0.0   359   426   287   344   282   347 0.93 Cytochrome P450
+Abhydrolase_1        PF00561.23   257 BGC0001157_ORF6:gid::pid:CBG72690.1:loc:6739:7555:strand:- -            271   1.4e-09   38.1   0.0   1   1     1e-13     2e-09   37.6   0.0     2   106    20   120    19   142 0.89 alpha/beta hydrolase fold
+Radical_SAM          PF04055.24   167 BGC0001157_ORF7:gid::pid:CBG72691.1:loc:7589:9605:strand:- -            671   2.9e-08   34.4   0.0   1   1   2.4e-12   4.7e-08   33.7   0.0     3   167   274   433   272   433 0.90 Radical SAM superfamily
+YcaO                 PF02624.19   322 BGC0001157_ORF8:gid::pid:CBG72692.1:loc:9601:11041:strand:- -            479   2.6e-34  119.1   4.8   1   1   4.3e-36   8.4e-32  110.9   0.5   108   322   218   447   204   447 0.71 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+LCM                  PF04072.17   188 BGC0001157_ORF12:gid::pid:CBG72696.1:loc:14834:15674:strand:+ -            279   9.1e-19   68.3   0.0   1   1   1.5e-22   2.9e-18   66.6   0.0     5   186    16   170    13   172 0.85 Leucine carboxyl methyltransferase
+MFS_1                PF07690.19   353 BGC0001157_ORF13:gid::pid:CBG72697.1:loc:15856:17167:strand:+ -            436   1.4e-25   90.1  48.5   1   2   8.2e-16   5.3e-12   45.4  21.3     2   222     6   228     5   244 0.76 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001157_ORF13:gid::pid:CBG72697.1:loc:15856:17167:strand:+ -            436   1.4e-25   90.1  48.5   2   2   1.8e-17   1.2e-13   50.9  19.6    17   172   237   389   233   425 0.83 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0001157_ORF13:gid::pid:CBG72697.1:loc:15856:17167:strand:+ -            436   2.9e-16   59.1  39.7   1   1   5.9e-20   3.8e-16   58.7  39.7    21   405    11   402     4   410 0.81 Transmembrane secretion effector
+Sugar_tr             PF00083.27   452 BGC0001157_ORF13:gid::pid:CBG72697.1:loc:15856:17167:strand:+ -            436   2.8e-05   23.3  17.1   1   1   8.1e-09   5.3e-05   22.4   8.9    48   156   252   357   226   394 0.86 Sugar (and other) transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001157.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001157.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001157.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:31:21 2023
+# [ok]

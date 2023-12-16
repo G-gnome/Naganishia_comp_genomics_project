@@ -1,0 +1,25 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YjeF_N               PF03853.18   171 BGC0002406_ORF3:gid:Os10g0377800:pid:BAT10606.1:loc:621:6020:strand:- -            548   1.2e-35  123.1   0.0   1   1   2.8e-39   1.8e-35  122.5   0.0     2   171   116   287   115   287 0.91 YjeF-related protein N-terminus
+Putative_PNPOx       PF01243.23    88 BGC0002406_ORF3:gid:Os10g0377800:pid:BAT10606.1:loc:621:6020:strand:- -            548   5.1e-27   94.0   0.0   1   1   1.3e-30   8.7e-27   93.3   0.0     1    88   364   450   364   450 0.96 Pyridoxamine 5'-phosphate oxidase
+PNP_phzG_C           PF10590.12    43 BGC0002406_ORF3:gid:Os10g0377800:pid:BAT10606.1:loc:621:6020:strand:- -            548     2e-18   66.2   2.8   1   1   5.3e-22   3.4e-18   65.4   2.8     1    43   504   548   504   548 0.90 Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region
+p450                 PF00067.25   463 BGC0002406_ORF4:gid:Os10g0378000:pid:BAT10609.1:loc:10587:19880:strand:- -            507     1e-56  192.8   0.0   1   1   6.6e-61   1.3e-56  192.4   0.0    83   437   151   481    68   488 0.88 Cytochrome P450
+p450                 PF00067.25   463 BGC0002406_ORF5:gid:Os10g0378100:pid:BAT10610.1:loc:22903:30867:strand:- -            501   6.1e-56  190.2   0.0   1   1   4.2e-60   8.2e-56  189.8   0.0    34   437    95   475    50   482 0.81 Cytochrome P450
+CutA1                PF03091.18    99 BGC0002406_ORF6:gid:Os10g0378300:pid:BAT10611.1:loc:40189:45007:strand:+ -            177   1.1e-37  128.0   0.1   1   1   7.7e-42   1.5e-37  127.5   0.1     1    98    75   172    75   173 0.98 CutA1 divalent ion tolerance protein
+DUF641               PF04859.15   128 BGC0002406_ORF8:gid:Os10g0378400:pid:BAT10613.1:loc:46321:47590:strand:- -            338   2.9e-09   37.5   4.7   1   1   2.8e-13   5.4e-09   36.6   4.7    74   128    18    74     6    74 0.82 Plant protein of unknown function (DUF641)
+DBD_Tnp_Mut          PF03108.18    67 BGC0002406_ORF10:gid:Os10g0378800:pid:BAT10615.1:loc:76456:77590:strand:+ -            207   1.5e-08   34.3   0.0   1   1   1.2e-12   2.4e-08   33.6   0.0     4    61   144   203   141   207 0.92 MuDR family transposase
+Transferase          PF02458.18   434 BGC0002406_ORF12:gid:Os10g0379100:pid:BAT10617.1:loc:113723:115430:strand:- -            436   8.3e-55  186.3   0.0   1   1   9.6e-59   1.9e-54  185.1   0.0     2   429     5   430     4   435 0.91 Transferase family
+Transferase          PF02458.18   434 BGC0002406_ORF17:gid:Os10g0380100:pid:BAT10622.1:loc:147885:148791:strand:+ -            301   1.8e-38  132.5   0.0   1   1   2.9e-42   5.6e-38  130.8   0.0   134   430     1   296     1   300 0.86 Transferase family
+DUF3475              PF11961.11    57 BGC0002406_ORF18:gid:Os10g0380300:pid:BAT10623.1:loc:157353:157695:strand:+ -            113   6.4e-19   67.9   0.7   1   1     4e-23   7.9e-19   67.6   0.7     1    56    26    81    26    82 0.98 Domain of unknown function (DUF3475)
+Pyridoxal_deC        PF00282.22   375 BGC0002406_ORF20:gid:Os10g0380800:pid:BAT10625.1:loc:193054:194635:strand:- -            526   2.8e-99  332.5   0.0   1   1  1.7e-103   3.3e-99  332.2   0.0     6   375    73   452    68   452 0.93 Pyridoxal-dependent decarboxylase conserved domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002406.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002406.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002406.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:21:18 2023
+# [ok]

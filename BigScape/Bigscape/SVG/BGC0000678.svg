@@ -1,0 +1,153 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="467.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="457.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>gap1 (SAV_2990)
+glyceraldehyde-3-phosphate dehydrogenase</title>
+			<polygon class="gap1 (SAV_2990)
+glyceraldehyde-3-phosphate dehydrogenase" points="10,25 13,25 13,10 43,40 13,70 13,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gp_dh_N (PF00044)
+"Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain"</title>
+				<rect class="PF00044" x="10" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(212,98,148)" stroke="rgb(169,78,118)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gp_dh_C (PF02800)
+"Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF02800" points="25,28 27,28 39,40 27,52 25,52" stroke-linejoin="round" width="15" height="24" fill="rgb(160,186,82)" stroke="rgb(128,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlH (SAV_2991)
+1-deoxypentalenic acid 11-beta hydroxylase; Fe(II)/alpha-ketoglutarate dependent hydroxylase</title>
+			<polygon class="ptlH (SAV_2991)
+1-deoxypentalenic acid 11-beta hydroxylase; Fe(II)/alpha-ketoglutarate dependent hydroxylase" points="55,10 83,40 55,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="57,28 67,28 78,39 78,41 67,52 57,52" stroke-linejoin="round" width="21" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlG (SAV_2992)
+putative transmembrane efflux protein</title>
+			<polygon class="ptlG (SAV_2992)
+putative transmembrane efflux protein" points="86,25 104,25 104,10 134,40 104,70 104,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="89,28 118,28 129,39 129,41 118,52 89,52" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlF (SAV_2993)
+1-deoxy-11beta-hydroxypentalenic acid dehydrogenase</title>
+			<polygon class="ptlF (SAV_2993)
+1-deoxy-11beta-hydroxypentalenic acid dehydrogenase" points="137,10 164,40 137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="137,28 148,28 156,36 156,44 148,52 137,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlE (SAV_2994)
+putative monooxygenase</title>
+			<polygon class="ptlE (SAV_2994)
+putative monooxygenase" points="166,25 195,25 195,10 225,40 195,70 195,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_8 (PF13450)
+"NAD(P)-binding Rossmann-like domain"</title>
+				<rect class="PF13450" x="171" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,180,227)" stroke="rgb(72,144,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlD (SAV_2995)
+putative dioxygenase</title>
+			<polygon class="ptlD (SAV_2995)
+putative dioxygenase" points="225,25 225,25 225,10 255,40 225,70 225,55 225,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="225,28 239,28 251,40 239,52 225,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlC (SAV_2996)
+hypothetical protein</title>
+			<polygon class="ptlC (SAV_2996)
+hypothetical protein" points="257,10 262,40 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ptlB (SAV_2997)
+polyprenyl diphosphate synthase</title>
+			<polygon class="ptlB (SAV_2997)
+polyprenyl diphosphate synthase" points="263,25 266,25 266,10 296,40 266,70 266,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="267,28 280,28 291,39 291,41 280,52 267,52" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlA (SAV_2998)
+pentalenene synthase</title>
+			<polygon class="ptlA (SAV_2998)
+pentalenene synthase" points="317,25 320,25 320,10 350,40 320,70 320,55 317,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_syn_C_2 (PF19086)
+"Terpene synthase family 2, C-terminal metal binding"</title>
+				<polygon class="PF19086" points="324,28 334,28 343,37 343,43 334,52 324,52" stroke-linejoin="round" width="19" height="24" fill="rgb(55,207,154)" stroke="rgb(43,165,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlI (SAV_2999)
+pentalenene C13 hydroxylase; cytochrome P450</title>
+			<polygon class="ptlI (SAV_2999)
+pentalenene C13 hydroxylase; cytochrome P450" points="353,25 368,25 368,10 398,40 368,70 368,55 353,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="354,28 381,28 393,40 381,52 354,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlR (SAV_3000)
+putative AraC-family transcriptional regulator</title>
+			<polygon class="ptlR (SAV_3000)
+putative AraC-family transcriptional regulator" points="400,10 415,40 400,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="403,28 405,28 410,37 410,43 405,52 403,52" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlJ (SAV_3001)
+putative lyase</title>
+			<polygon class="ptlJ (SAV_3001)
+putative lyase" points="415,10 429,40 415,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="416,28 420,28 426,40 420,52 416,52" stroke-linejoin="round" width="12" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptlL (SAV_3002)
+hypothetical protein</title>
+			<polygon class="ptlL (SAV_3002)
+hypothetical protein" points="432,10 457,40 432,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase_6 (PF18029)
+"Glyoxalase-like domain"</title>
+				<polygon class="PF18029" points="434,28 443,28 444,29 444,51 443,52 434,52" stroke-linejoin="round" width="10" height="24" fill="rgb(90,208,104)" stroke="rgb(72,166,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyoxalase_6 (PF18029)
+"Glyoxalase-like domain"</title>
+				<polygon class="PF18029" points="446,31 453,40 446,49" stroke-linejoin="round" width="10" height="24" fill="rgb(90,208,104)" stroke="rgb(72,166,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

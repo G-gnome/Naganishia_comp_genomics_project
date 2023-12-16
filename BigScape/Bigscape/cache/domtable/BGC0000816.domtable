@@ -1,0 +1,30 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.17   454 BGC0000816_ORF1:gid:malA:pid:AGA37261.1:loc:0:2004:strand:- -            667   5.6e-11   42.1   0.0   1   1   4.5e-11   8.7e-07   28.3   0.0     1    66    39   104    39   137 0.86 Tryptophan halogenase
+Trp_DMAT             PF11991.11   363 BGC0000816_ORF2:gid:malB:pid:AGA37262.1:loc:3053:4163:strand:+ -            369   8.4e-77  259.1   0.0   1   1   4.8e-81   9.5e-77  259.0   0.0     1   362    20   364    20   365 0.94 Tryptophan dimethylallyltransferase
+adh_short_C2         PF13561.9    234 BGC0000816_ORF3:gid:malC:pid:AGA37263.1:loc:4885:5680:strand:+ -            264     2e-23   83.3   0.0   1   1   3.8e-27   2.5e-23   83.0   0.0     3   233    22   261    20   262 0.87 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0000816_ORF3:gid:malC:pid:AGA37263.1:loc:4885:5680:strand:+ -            264   1.1e-15   57.8   0.0   1   1   2.2e-19   1.4e-15   57.4   0.0     1   189    14   209    14   214 0.88 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0000816_ORF3:gid:malC:pid:AGA37263.1:loc:4885:5680:strand:+ -            264   4.3e-06   26.9   0.0   1   1   1.1e-09   7.3e-06   26.1   0.0     3   124    16   142    15   159 0.81 KR domain
+NmrA                 PF05368.16   233 BGC0000816_ORF4:gid:malD:pid:AGA37264.1:loc:5936:7270:strand:- -            336   1.5e-37  129.5   0.0   1   1   3.4e-41   2.2e-37  128.9   0.0     1   232     8   257     8   258 0.87 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0000816_ORF4:gid:malD:pid:AGA37264.1:loc:5936:7270:strand:- -            336     5e-12   46.2   0.0   1   1   1.1e-15   6.9e-12   45.8   0.0     1   135    12   151    12   166 0.80 NAD(P)H-binding
+Trp_DMAT             PF11991.11   363 BGC0000816_ORF5:gid:malE:pid:AGA37265.1:loc:8046:9459:strand:+ -            438  3.5e-103  345.9   0.0   1   1  2.1e-107  4.1e-103  345.7   0.0     2   362    33   379    32   380 0.94 Tryptophan dimethylallyltransferase
+FAD_binding_4        PF01565.26   139 BGC0000816_ORF6:gid:malF:pid:AGA37266.1:loc:10456:12368:strand:- -            590   7.2e-19   68.0   1.4   1   1   1.9e-22   1.8e-18   66.7   1.4     3   136   124   268   122   271 0.90 FAD binding domain
+BBE                  PF08031.15    46 BGC0000816_ORF6:gid:malF:pid:AGA37266.1:loc:10456:12368:strand:- -            590     7e-08   32.6   0.1   1   1   1.4e-11   1.4e-07   31.7   0.1    13    42   533   562   520   566 0.84 Berberine and berberine like
+AMP-binding          PF00501.31   424 BGC0000816_ORF7:gid:malG:pid:AGA37267.1:loc:13141:20179:strand:+ -           2345  1.6e-143  478.5   0.0   1   2   4.2e-79   1.6e-75  254.4   0.0     1   423   226   620   226   621 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000816_ORF7:gid:malG:pid:AGA37267.1:loc:13141:20179:strand:+ -           2345  1.6e-143  478.5   0.0   2   2   2.6e-69     1e-65  222.2   0.0     7   424  1317  1707  1311  1707 0.85 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0000816_ORF7:gid:malG:pid:AGA37267.1:loc:13141:20179:strand:+ -           2345     4e-37  127.9   0.0   1   1   3.3e-40   1.3e-36  126.2   0.0     1   256  1974  2211  1974  2212 0.87 Male sterility protein
+Condensation         PF00668.23   457 BGC0000816_ORF7:gid:malG:pid:AGA37267.1:loc:13141:20179:strand:+ -           2345   2.6e-30  105.6   0.0   1   1   5.5e-33   2.2e-29  102.6   0.0     2   456   877  1292   876  1293 0.85 Condensation domain
+PP-binding           PF00550.28    67 BGC0000816_ORF7:gid:malG:pid:AGA37267.1:loc:13141:20179:strand:+ -           2345   7.2e-20   71.2   0.6   1   2   4.4e-12   1.7e-08   34.7   0.1     3    62   772   830   770   834 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000816_ORF7:gid:malG:pid:AGA37267.1:loc:13141:20179:strand:+ -           2345   7.2e-20   71.2   0.6   2   2   7.1e-12   2.8e-08   34.1   0.0     2    67  1855  1922  1851  1922 0.82 Phosphopantetheine attachment site
+Epimerase            PF01370.24   241 BGC0000816_ORF7:gid:malG:pid:AGA37267.1:loc:13141:20179:strand:+ -           2345     1e-05   25.3   0.0   1   1   5.6e-09   2.2e-05   24.2   0.0     1   176  1972  2167  1972  2187 0.80 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000816.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000816.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000816.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:16:11 2023
+# [ok]

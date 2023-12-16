@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="335.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="325.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+transmembrane transporter</title>
+			<polygon class="
+transmembrane transporter" points="10,25 22,25 22,10 52,40 22,70 22,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="12,28 35,28 44,37 44,43 35,52 12,52" stroke-linejoin="round" width="32" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>indC
+indigoidine synthase</title>
+			<polygon class="indC
+indigoidine synthase" points="64,25 171,25 171,10 201,40 171,70 171,55 64,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="66" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="158" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<rect class="PF00975" x="166" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>indA
+IndA</title>
+			<polygon class="indA
+IndA" points="203,25 204,25 204,10 234,40 204,70 204,55 203,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Indigoidine_A (PF04227)
+"Indigoidine synthase A like protein"</title>
+				<polygon class="PF04227" points="204,28 218,28 230,40 218,52 204,52" stroke-linejoin="round" width="28" height="24" fill="rgb(186,184,81)" stroke="rgb(148,147,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>indB
+putative phosphatase</title>
+			<polygon class="indB
+putative phosphatase" points="237,25 268,25 268,10 298,40 268,70 268,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<rect class="PF13419" x="237" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Questin_oxidase (PF14027)
+"Questin oxidase-like"</title>
+				<polygon class="PF14027" points="261,28 282,28 294,40 294,40 282,52 261,52" stroke-linejoin="round" width="33" height="24" fill="rgb(77,150,178)" stroke="rgb(61,119,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+phosphoribosyl transferase-type I domain protein</title>
+			<polygon class="
+phosphoribosyl transferase-type I domain protein" points="301,10 324,40 301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPRTase (PF14681)
+"Uracil phosphoribosyltransferase"</title>
+				<polygon class="PF14681" points="304,28 311,28 321,40 311,52 304,52" stroke-linejoin="round" width="20" height="24" fill="rgb(62,144,207)" stroke="rgb(49,115,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

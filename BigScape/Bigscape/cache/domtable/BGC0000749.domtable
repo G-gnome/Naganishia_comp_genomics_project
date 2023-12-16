@@ -1,0 +1,16 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NTP_transferase      PF00483.26   247 BGC0000749_ORF1:gid:galF:pid:AAN52283.1:loc:393:1290:strand:+ -            298   7.2e-21   75.0   0.0   1   1   9.2e-25     9e-21   74.7   0.0     1   242     7   276     7   280 0.88 Nucleotidyl transferase
+NTP_transf_3         PF12804.10   160 BGC0000749_ORF1:gid:galF:pid:AAN52283.1:loc:393:1290:strand:+ -            298   2.9e-07   31.1   0.0   1   1   4.2e-11   4.1e-07   30.6   0.0     2   111     9   149     8   261 0.73 MobA-like NTP transferase domain
+Caps_assemb_Wzi      PF14052.9    394 BGC0000749_ORF3:gid::pid:AAN52285.1:loc:3670:5110:strand:+ -            479  3.1e-103  345.9  17.8   1   1    2e-107  3.9e-103  345.5  17.8     5   389    89   468    85   471 0.97 Capsule assembly protein Wzi
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000749.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000749.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000749.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:01:15 2023
+# [ok]

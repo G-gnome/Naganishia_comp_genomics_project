@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sulfotransfer_4      PF17784.4    216 BGC0001517_ORF1:gid::pid:XP_001217687.1:loc:8989:9503:strand:+ -            135   7.6e-30  104.5   0.0   1   1   4.8e-34   9.4e-30  104.2   0.0     1    91    25   113    25   115 0.97 Sulfotransferase domain
+DUF6373              PF19900.2     54 BGC0001517_ORF2:gid::pid:XP_001217688.1:loc:11536:13075:strand:+ -            197   1.2e-24   86.3   0.0   1   1   9.7e-29   1.9e-24   85.6   0.0     1    54    16   197    16   197 0.94 Family of unknown function (DUF6373)
+DAHP_synth_1         PF00793.23   275 BGC0001517_ORF3:gid::pid:XP_001217689.1:loc:14044:15300:strand:- -            379   3.1e-96  321.6   0.0   1   1    2e-100   3.9e-96  321.3   0.0     8   272    63   358    48   361 0.97 DAHP synthetase I family
+AMP-binding          PF00501.31   424 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307  2.4e-123  412.1   0.7   1   3   6.6e-24   2.6e-20   72.6   0.0     2   115   263   374   262   408 0.83 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307  2.4e-123  412.1   0.7   2   3   4.3e-33   1.7e-29  102.8   0.0   248   424   423   612   395   612 0.80 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307  2.4e-123  412.1   0.7   3   3   9.2e-73   3.6e-69  233.5   0.2     7   424  1291  1674  1287  1674 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307   9.7e-49  166.4   0.0   1   1   1.7e-48   6.8e-45  153.7   0.0     2   457   857  1267   856  1267 0.83 Condensation domain
+NAD_binding_4        PF07993.15   257 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307   1.2e-35  123.1   0.0   1   1   5.7e-39   2.2e-35  122.2   0.0     1   236  1921  2142  1921  2159 0.90 Male sterility protein
+PP-binding           PF00550.28    67 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307   6.2e-22   77.8   0.1   1   2     4e-15   1.6e-11   44.5   0.0     2    65   752   814   752   816 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307   6.2e-22   77.8   0.1   2   2   1.1e-10   4.3e-07   30.3   0.1     6    67  1818  1881  1814  1881 0.89 Phosphopantetheine attachment site
+Epimerase            PF01370.24   241 BGC0001517_ORF4:gid::pid:XP_001217690.1:loc:17285:24405:strand:+ -           2307   4.4e-08   33.0   0.0   1   1   2.3e-11   9.1e-08   32.0   0.0     1   188  1919  2133  1919  2190 0.78 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001517.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001517.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001517.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:49:37 2023
+# [ok]

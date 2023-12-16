@@ -1,0 +1,45 @@
+#                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002036_ORF1:gid::pid::loc:0:375:strand:- -            125   1.3e-25   90.6   0.1   1   1   7.1e-30   1.4e-25   90.5   0.1     3   124    10   124     8   125 0.82 Beta-ketoacyl synthase, N-terminal domain
+Methyltransf_25      PF13649.9     97 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   2.9e-20   72.8   0.3   1   1   1.8e-22   4.4e-19   69.1   0.0     1    97    63   159    63   159 0.98 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   3.2e-18   66.1   0.0   1   1   1.6e-20     4e-17   62.6   0.0     4   122    60   181    58   201 0.86 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   1.2e-15   58.1   0.1   1   1   1.2e-18     3e-15   56.8   0.0     1    96    64   163    64   163 0.96 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   4.6e-11   43.5   0.0   1   1   3.6e-14   8.8e-11   42.6   0.0     1    99    64   161    64   161 0.94 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   4.7e-11   42.6   0.0   1   1   2.8e-14   6.9e-11   42.1   0.0    46   158    58   170    48   204 0.88 ubiE/COQ5 methyltransferase family
+Methyltransf_23      PF13489.9    165 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   2.4e-09   37.3   0.0   1   1   1.9e-12   4.6e-09   36.4   0.0    15   124    50   170    43   250 0.81 Methyltransferase domain
+CMAS                 PF02353.23   273 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   1.7e-08   34.2   0.0   1   1     1e-11   2.5e-08   33.7   0.0    54   114    51   111    46   182 0.76 Mycolic acid cyclopropane synthetase
+PCMT                 PF01135.22   210 BGC0002036_ORF2:gid::pid::loc:1660:2482:strand:+ -            273   4.4e-07   30.0   0.0   1   1   6.4e-10   1.6e-06   28.2   0.0    72   171    58   163    43   166 0.85 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+Methyltransf_25      PF13649.9     97 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   3.8e-15   56.5   0.0   1   1   4.2e-17   9.2e-14   52.0   0.0     2    97    64   158    63   158 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   1.1e-14   54.9   0.1   1   1   3.8e-17   8.3e-14   52.1   0.0     1    96    64   162    64   162 0.91 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270     1e-12   48.2   0.0   1   1   5.8e-16   1.3e-12   47.9   0.0     4   113    60   166    57   229 0.88 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   3.5e-11   43.8   0.0   1   1   5.5e-14   1.2e-10   42.1   0.0     1    98    64   159    64   160 0.84 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   1.8e-10   41.0   0.0   1   1   1.6e-13   3.6e-10   40.0   0.0    18   132    56   176    44   223 0.73 Methyltransferase domain
+Methyltransf_9       PF08003.14   315 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   3.3e-10   39.5   0.0   1   1   7.6e-13   1.7e-09   37.2   0.0   107   277    51   217    47   230 0.87 Protein of unknown function (DUF1698)
+Methyltransf_2       PF00891.21   210 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   3.1e-07   30.1   0.0   1   1   2.1e-10   4.5e-07   29.5   0.0    37   167    32   165    14   188 0.78 O-methyltransferase domain
+CMAS                 PF02353.23   273 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   3.7e-07   29.8   0.0   1   1   2.4e-10   5.2e-07   29.4   0.0    53   135    50   135    45   175 0.74 Mycolic acid cyclopropane synthetase
+Ubie_methyltran      PF01209.21   233 BGC0002036_ORF3:gid::pid::loc:2590:3403:strand:+ -            270   2.3e-05   24.0   0.0   1   1   1.5e-08   3.2e-05   23.5   0.0    47   157    59   168    47   206 0.84 ubiE/COQ5 methyltransferase family
+TauD                 PF02668.19   268 BGC0002036_ORF4:gid::pid::loc:3413:4547:strand:+ -            377   3.4e-40  138.7   0.4   1   1   4.4e-44   4.3e-40  138.3   0.4    12   268   111   360    93   360 0.83 Taurine catabolism dioxygenase TauD, TfdA family
+GBBH-like_N          PF06155.15    85 BGC0002036_ORF4:gid::pid::loc:3413:4547:strand:+ -            377   3.1e-16   59.9   0.3   1   1   6.8e-20   6.7e-16   58.8   0.3     6    85     5    85     2   111 0.96 Gamma-butyrobetaine hydroxylase-like, N-terminal
+DXP_redisom_C        PF08436.15    84 BGC0002036_ORF5:gid::pid::loc:4674:5838:strand:+ -            387   8.8e-33  112.5   0.0   1   1     3e-36     2e-32  111.3   0.0     1    84   144   226   144   226 0.97 1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain
+DXPR_C               PF13288.9    115 BGC0002036_ORF5:gid::pid::loc:4674:5838:strand:+ -            387   7.3e-28   97.3   0.0   1   1   1.9e-31   1.3e-27   96.5   0.0     2   114   259   374   258   375 0.93 DXP reductoisomerase C-terminal domain
+DXP_reductoisom      PF02670.19   129 BGC0002036_ORF5:gid::pid::loc:4674:5838:strand:+ -            387   5.5e-19   69.3   4.2   1   1     4e-21   2.6e-17   63.9   2.7     1   129    16   130    16   130 0.83 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Metallophos          PF00149.31   205 BGC0002036_ORF6:gid::pid::loc:5834:6617:strand:+ -            260   7.7e-09   36.5   0.1   1   1   9.2e-13   1.8e-08   35.3   0.1     3   204     5   197     4   198 0.68 Calcineurin-like phosphoesterase
+NTP_transf_3         PF12804.10   160 BGC0002036_ORF8:gid::pid::loc:7966:9832:strand:+ -            621   8.9e-15   55.5   3.6   1   1   1.8e-18   1.2e-14   55.1   0.4     1   110     9   127     9   177 0.82 MobA-like NTP transferase domain
+Aminotran_1_2        PF00155.24   363 BGC0002036_ORF8:gid::pid::loc:7966:9832:strand:+ -            621   1.2e-13   51.1   0.0   1   1   2.5e-17   1.7e-13   50.7   0.0    50   359   310   597   302   601 0.85 Aminotransferase class I and II
+NTP_transferase      PF00483.26   247 BGC0002036_ORF8:gid::pid::loc:7966:9832:strand:+ -            621   2.4e-07   30.7   0.0   1   1   5.4e-11   3.6e-07   30.2   0.0     2   121     9   122     8   135 0.81 Nucleotidyl transferase
+NDK                  PF00334.22   135 BGC0002036_ORF9:gid::pid::loc:10010:10928:strand:+ -            305   4.1e-11   43.1   0.0   1   1     3e-15   5.8e-11   42.6   0.0     3   134    35   175    33   176 0.85 Nucleoside diphosphate kinase
+PEP_mutase           PF13714.9    241 BGC0002036_ORF11:gid::pid::loc:12151:13756:strand:+ -            534   1.7e-67  227.6   0.7   1   1   1.4e-71   2.8e-67  226.9   0.7     1   241    18   263    18   263 0.94 Phosphoenolpyruvate phosphomutase
+TPP_enzyme_C         PF02775.24   153 BGC0002036_ORF12:gid::pid::loc:13752:14871:strand:+ -            372   9.6e-20   71.0   0.1   1   1   2.4e-22   2.4e-18   66.5   0.0    17   153   222   342   207   342 0.87 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_N         PF02776.21   172 BGC0002036_ORF12:gid::pid::loc:13752:14871:strand:+ -            372   3.3e-15   56.2   0.3   1   1   4.8e-16   4.7e-12   46.0   0.0     7   160    13   167     9   178 0.85 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+Aminotran_5          PF00266.22   371 BGC0002036_ORF13:gid::pid::loc:14867:15983:strand:+ -            371   6.8e-23   81.3   0.0   1   1   8.9e-27   1.7e-22   80.0   0.0    35   316    37   312    25   323 0.87 Aminotransferase class-V
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002036.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002036.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002036.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:35:41 2023
+# [ok]

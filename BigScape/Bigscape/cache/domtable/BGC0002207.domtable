@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+APH                  PF01636.26   239 BGC0002207_ORF1:gid::pid:PPQ83229.1:loc:507:1666:strand:- -            362   3.2e-08   33.8   0.0   1   1   7.6e-12   7.4e-08   32.6   0.0     2   229    28   293    27   301 0.63 Phosphotransferase enzyme family
+EcKL                 PF02958.23   294 BGC0002207_ORF1:gid::pid:PPQ83229.1:loc:507:1666:strand:- -            362   1.9e-06   27.5   0.0   1   1   5.3e-10   5.2e-06   26.1   0.0   215   261   218   266    38   279 0.94 Ecdysteroid kinase-like family
+p450                 PF00067.25   463 BGC0002207_ORF3:gid::pid:PPQ83216.1:loc:6854:8895:strand:+ -            494   4.3e-62  210.5   0.0   1   1   2.6e-66   5.1e-62  210.2   0.0     2   447    35   483    34   491 0.87 Cytochrome P450
+p450                 PF00067.25   463 BGC0002207_ORF5:gid::pid:PPQ83215.1:loc:10743:12824:strand:+ -            491   1.3e-67  228.7   0.0   1   1     8e-72   1.6e-67  228.4   0.0     2   449    35   482    34   488 0.89 Cytochrome P450
+MFS_1                PF07690.19   353 BGC0002207_ORF6:gid::pid:PPQ83228.1:loc:13551:15618:strand:- -            558     6e-21   74.9  13.0   1   1     3e-25     6e-21   74.9  13.0    54   352   110   497   108   498 0.71 Major Facilitator Superfamily
+Methyltransf_10      PF05971.15   299 BGC0002207_ORF7:gid::pid:PPQ83230.1:loc:17582:19181:strand:- -            312   1.6e-59  201.9   0.0   1   1   1.9e-63   1.9e-59  201.6   0.0     7   299     1   293     1   293 0.92 RNA methyltransferase
+MTS                  PF05175.17   170 BGC0002207_ORF7:gid::pid:PPQ83230.1:loc:17582:19181:strand:- -            312   5.1e-06   26.4   0.0   1   1   9.2e-10   9.1e-06   25.5   0.0    32   114   103   195    95   204 0.79 Methyltransferase small domain
+PS_Dcarbxylase       PF02666.18   200 BGC0002207_ORF8:gid::pid:PPQ83218.1:loc:20657:21961:strand:- -            415   3.1e-30  105.4   0.0   1   1   4.5e-34   4.4e-30  104.9   0.0     3   181   188   393   186   412 0.84 Phosphatidylserine decarboxylase
+PSDC                 PF12588.11   140 BGC0002207_ORF8:gid::pid:PPQ83218.1:loc:20657:21961:strand:- -            415     5e-26   91.5   0.1   1   1   9.3e-30   9.1e-26   90.7   0.1     2   140    35   159    34   159 0.94 Phophatidylserine decarboxylase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002207.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002207.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002207.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:30:27 2023
+# [ok]

@@ -1,0 +1,40 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.23   172 BGC0000706_ORF1:gid::pid:BAE95600.1:loc:350:1595:strand:+ -            414   8.7e-30  103.6   0.0   1   1   2.8e-33   1.4e-29  103.0   0.0     5   159   223   375   219   386 0.94 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 BGC0000706_ORF1:gid::pid:BAE95600.1:loc:350:1595:strand:+ -            414   1.4e-26   93.6   0.4   1   1   5.6e-30   2.8e-26   92.6   0.4     2   135   233   374   232   374 0.90 Glycosyl transferases group 1
+Glyco_trans_4_4      PF13579.9    159 BGC0000706_ORF1:gid::pid:BAE95600.1:loc:350:1595:strand:+ -            414     1e-19   71.6  15.8   1   1     2e-23     1e-19   71.6  15.8     1   157    26   203    26   205 0.81 Glycosyl transferase 4-like domain
+Glyco_transf_4       PF13439.9    170 BGC0000706_ORF1:gid::pid:BAE95600.1:loc:350:1595:strand:+ -            414   6.8e-19   68.6   4.2   1   1   1.9e-22   9.6e-19   68.2   2.9     1   170    25   210    25   210 0.79 Glycosyltransferase Family 4
+RsgA_GTPase          PF03193.19   167 BGC0000706_ORF2:gid::pid:BAE95601.1:loc:1653:2661:strand:+ -            335   2.5e-41  141.5   0.0   1   1   5.2e-45   3.4e-41  141.1   0.0     2   166    99   266    98   267 0.96 RsgA GTPase
+ABC_tran             PF00005.30   137 BGC0000706_ORF2:gid::pid:BAE95601.1:loc:1653:2661:strand:+ -            335   1.1e-05   26.0   0.1   1   1   3.5e-09   2.3e-05   25.1   0.1    10    44   199   233   197   248 0.87 ABC transporter
+MMR_HSR1             PF01926.26   114 BGC0000706_ORF2:gid::pid:BAE95601.1:loc:1653:2661:strand:+ -            335   8.1e-06   26.0   0.0   1   1   2.2e-09   1.5e-05   25.2   0.0     3    58   204   262   202   287 0.72 50S ribosome-binding GTPase
+Ribonuc_L-PSP        PF01042.24   121 BGC0000706_ORF3:gid::pid:BAE95602.1:loc:2695:3094:strand:+ -            132   1.2e-33  115.8   0.1   1   1   6.9e-38   1.4e-33  115.6   0.1     6   121    14   130     7   130 0.95 Endoribonuclease L-PSP
+3HCDH_N              PF02737.21   180 BGC0000706_ORF5:gid::pid:BAE95604.1:loc:4041:5823:strand:+ -            593  8.8e-120  397.3   6.0   1   2   7.9e-62   1.7e-58  197.6   1.0     1   179     7   185     7   186 0.99 3-hydroxyacyl-CoA dehydrogenase, NAD binding domain
+3HCDH_N              PF02737.21   180 BGC0000706_ORF5:gid::pid:BAE95604.1:loc:4041:5823:strand:+ -            593  8.8e-120  397.3   6.0   2   2   2.4e-63   5.2e-60  202.5   0.3     2   179   314   491   313   492 0.99 3-hydroxyacyl-CoA dehydrogenase, NAD binding domain
+3HCDH                PF00725.25    97 BGC0000706_ORF5:gid::pid:BAE95604.1:loc:4041:5823:strand:+ -            593     8e-66  218.8   0.3   1   2   7.2e-32   1.6e-28   99.2   0.0     1    97   188   284   188   284 0.99 3-hydroxyacyl-CoA dehydrogenase, C-terminal domain
+3HCDH                PF00725.25    97 BGC0000706_ORF5:gid::pid:BAE95604.1:loc:4041:5823:strand:+ -            593     8e-66  218.8   0.3   2   2   4.7e-36     1e-32  112.6   0.0     1    97   494   590   494   590 0.99 3-hydroxyacyl-CoA dehydrogenase, C-terminal domain
+NAD_binding_2        PF03446.18   158 BGC0000706_ORF5:gid::pid:BAE95604.1:loc:4041:5823:strand:+ -            593   4.5e-13   49.8   5.4   1   1   3.3e-11   7.2e-08   32.9   0.2     2   104     8   133     7   145 0.78 NAD binding domain of 6-phosphogluconate dehydrogenase
+F420_oxidored        PF03807.20    96 BGC0000706_ORF5:gid::pid:BAE95604.1:loc:4041:5823:strand:+ -            593   1.3e-09   38.7   7.4   1   1   4.2e-08   9.2e-05   23.1   0.7     2    48   314   362   313   401 0.79 NADP oxidoreductase coenzyme F420-dependent
+TetR_N               PF00440.26    47 BGC0000706_ORF6:gid::pid:BAE95605.1:loc:5935:6745:strand:+ -            269   1.3e-17   63.4   3.1   1   1   1.7e-21   3.3e-17   62.1   3.1     3    42    37    76    35    78 0.97 Bacterial regulatory proteins, tetR family
+ADH_zinc_N           PF00107.29   130 BGC0000706_ORF7:gid::pid:BAE95606.1:loc:7142:8480:strand:+ -            445   1.5e-30  106.0   0.0   1   1   3.8e-34   2.5e-30  105.3   0.0     1   129   236   380   236   381 0.91 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.9    133 BGC0000706_ORF7:gid::pid:BAE95606.1:loc:7142:8480:strand:+ -            445   5.7e-10   40.4   0.0   1   1   2.3e-13   1.5e-09   39.1   0.0    16   131   303   413   269   415 0.79 Zinc-binding dehydrogenase
+MM_CoA_mutase        PF01642.25   514 BGC0000706_ORF8:gid::pid:BAE95607.1:loc:8502:10551:strand:+ -            682  4.9e-129  431.3   0.4   1   1  6.2e-133  6.1e-129  431.0   0.4    40   514     3   503     1   503 0.94 Methylmalonyl-CoA mutase
+B12-binding          PF02310.22   121 BGC0000706_ORF8:gid::pid:BAE95607.1:loc:8502:10551:strand:+ -            682   7.6e-18   64.8   0.4   1   1   1.7e-21   1.7e-17   63.7   0.4     3   110   546   651   544   661 0.90 B12 binding domain
+HpcH_HpaI            PF03328.17   221 BGC0000706_ORF9:gid::pid:BAE95608.1:loc:10547:11513:strand:+ -            321   7.4e-44  149.7   0.0   1   1     5e-48   9.9e-44  149.3   0.0     1   221    12   242    12   242 0.93 HpcH/HpaI aldolase/citrate lyase family
+MaoC_dehydratas      PF01575.22   123 BGC0000706_ORF10:gid::pid:BAE95609.1:loc:11517:12030:strand:+ -            170   1.8e-15   56.7   0.0   1   1   1.3e-19   2.5e-15   56.3   0.0     6   117    12   125     8   130 0.90 MaoC like domain
+Acyl-CoA_dh_1        PF00441.27   150 BGC0000706_ORF11:gid::pid:BAE95610.1:loc:12032:13238:strand:+ -            401   1.9e-47  161.4   4.0   1   1   5.8e-51   2.8e-47  160.8   4.0     1   150   245   394   245   394 0.99 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.19   113 BGC0000706_ORF11:gid::pid:BAE95610.1:loc:12032:13238:strand:+ -            401   5.6e-33  114.1   0.1   1   1   2.5e-36   1.2e-32  113.0   0.1     1   113    11   122    11   122 0.96 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_2        PF08028.14   134 BGC0000706_ORF11:gid::pid:BAE95610.1:loc:12032:13238:strand:+ -            401     2e-22   80.0   0.6   1   1     6e-26   2.9e-22   79.5   0.6     3   124   262   373   260   377 0.96 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_M        PF02770.22    97 BGC0000706_ORF11:gid::pid:BAE95610.1:loc:12032:13238:strand:+ -            401   2.1e-21   76.0   0.3   1   1   1.7e-24   8.1e-21   74.1   0.0     1    96   126   231   126   232 0.86 Acyl-CoA dehydrogenase, middle domain
+PS_Dcarbxylase       PF02666.18   200 BGC0000706_ORF12:gid::pid:BAE95611.1:loc:13408:14065:strand:+ -            218     3e-33  115.2   0.5   1   1   1.9e-35   3.7e-31  108.4   0.5     4   196    59   212    56   216 0.92 Phosphatidylserine decarboxylase
+CDP-OH_P_transf      PF01066.24   150 BGC0000706_ORF13:gid::pid:BAE95612.1:loc:14123:14906:strand:+ -            260   7.2e-12   46.2   9.8   1   1   3.7e-16   7.2e-12   46.2   9.8     3   148     9   175     7   183 0.67 CDP-alcohol phosphatidyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000706.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000706.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000706.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:59:08 2023
+# [ok]

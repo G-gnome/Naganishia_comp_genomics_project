@@ -1,0 +1,33 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="120.16666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="110.16666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mrsC
+amino acid exporter protein</title>
+			<polygon class="mrsC
+amino acid exporter protein" points="10,40 31,10 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysE (PF01810)
+"LysE type translocator"</title>
+				<polygon class="PF01810" points="14,40 22,28 29,28 29,52 22,52" stroke-linejoin="round" width="19" height="24" fill="rgb(198,75,167)" stroke="rgb(158,60,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mrsB
+aminotransferase subfamily I gamma</title>
+			<polygon class="mrsB
+aminotransferase subfamily I gamma" points="71,25 63,25 63,10 33,40 63,70 63,55 71,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="37,40 49,28 68,28 68,52 49,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mrsA
+methyltransferase type 12</title>
+			<polygon class="mrsA
+methyltransferase type 12" points="106,25 101,25 101,10 71,40 101,70 101,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

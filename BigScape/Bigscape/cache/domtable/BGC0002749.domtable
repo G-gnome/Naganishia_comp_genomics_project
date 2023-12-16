@@ -1,0 +1,27 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.22   349 BGC0002749_ORF1:gid::pid:PLB34718.1:loc:1722:3476:strand:- -            500   9.3e-20   71.3   0.0   1   1   8.6e-24   1.7e-19   70.4   0.0     3   318     8   348     6   385 0.73 FAD binding domain
+MFS_1                PF07690.19   353 BGC0002749_ORF2:gid::pid:PLB34719.1:loc:4195:5774:strand:+ -            507   2.6e-37  128.7  35.2   1   1   1.3e-41   2.6e-37  128.7  35.2     4   349    67   445    61   448 0.79 Major Facilitator Superfamily
+AMP-binding          PF00501.31   424 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   1.3e-94  317.4   0.0   1   1   9.8e-98   1.9e-94  316.8   0.0     1   424    34   427    33   427 0.87 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   1.4e-80  270.6   0.7   1   1   1.7e-83   3.4e-80  269.4   0.2     2   253   628   880   627   880 0.95 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   1.4e-48  166.2   0.3   1   1   1.2e-51   2.3e-48  165.4   0.3     3   317  1165  1486  1163  1488 0.94 Acyl transferase domain
+KR                   PF08659.13   180 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   4.8e-47  160.3   0.1   1   1   5.6e-49   1.1e-45  155.9   0.1     1   178  1739  1917  1739  1919 0.97 KR domain
+NAD_binding_4        PF07993.15   257 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   3.3e-43  147.9   0.0   1   1   7.7e-46   1.5e-42  145.7   0.0     1   257  2149  2378  2149  2378 0.94 Male sterility protein
+Ketoacyl-synt_C      PF02801.25   119 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   8.3e-43  145.3   0.3   1   1     2e-44   3.9e-41  139.9   0.0     1   118   888  1007   888  1008 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   7.5e-22   77.6   0.1   1   2   3.1e-14   6.1e-11   42.6   0.0     2    67   539   602   538   602 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   7.5e-22   77.6   0.1   2   2   5.2e-11     1e-07   32.3   0.1     2    67  2022  2088  2021  2088 0.95 Phosphopantetheine attachment site
+Epimerase            PF01370.24   241 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   4.8e-13   49.3   0.0   1   1   1.5e-14   2.9e-11   43.4   0.0     1   175  2147  2332  2147  2376 0.78 NAD dependent epimerase/dehydratase family
+KAsynt_C_assoc       PF16197.8    112 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   1.8e-12   47.8   0.0   1   1   2.6e-15     5e-12   46.4   0.0     1    91  1010  1108  1010  1129 0.83 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.9     76 BGC0002749_ORF3:gid::pid:PLB34720.1:loc:6609:14106:strand:+ -           2498   5.9e-08   33.7   0.0   1   1   1.2e-10   2.3e-07   31.8   0.0     1    76   435   513   435   513 0.82 AMP-binding enzyme C-terminal domain
+IDO                  PF01231.21   438 BGC0002749_ORF4:gid::pid:PLB34721.1:loc:16129:17470:strand:+ -            405  2.9e-121  405.4   0.0   1   1  2.2e-124  4.4e-120  401.5   0.0     3   437    10   399     8   400 0.94 Indoleamine 2,3-dioxygenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002749.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002749.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002749.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:32:59 2023
+# [ok]

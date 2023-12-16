@@ -1,0 +1,34 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DHDPS                PF00701.25   289 BGC0002285_ORF1:gid::pid:RMI87904.1:loc:918:1809:strand:+ -            296   9.8e-46  155.9   0.0   1   1   5.7e-50   1.1e-45  155.7   0.0     3   287     8   288     6   290 0.97 Dihydrodipicolinate synthetase family
+Pro_racemase         PF05544.14   325 BGC0002285_ORF2:gid::pid:RMI87905.1:loc:1822:2824:strand:+ -            333  3.5e-125  417.5   0.0   1   1    2e-129    4e-125  417.3   0.0     2   325    10   332     9   332 0.99 Proline racemase
+FCD                  PF07729.15   125 BGC0002285_ORF3:gid::pid:RMI87906.1:loc:2820:3489:strand:+ -            222   5.9e-24   85.0  16.9   1   1     1e-27     1e-23   84.3  16.9     3   123    92   212    90   214 0.98 FCD domain
+GntR                 PF00392.24    64 BGC0002285_ORF3:gid::pid:RMI87906.1:loc:2820:3489:strand:+ -            222     7e-16   57.8   0.0   1   1   1.6e-19   1.6e-15   56.6   0.0     3    64    20    80    18    80 0.97 Bacterial regulatory proteins, gntR family
+Peripla_BP_3         PF13377.9    166 BGC0002285_ORF4:gid::pid:RMI88548.1:loc:3568:4546:strand:+ -            325   4.8e-35  121.4   0.6   1   1   1.5e-38   9.6e-35  120.4   0.6     2   166   165   319   164   319 0.91 Periplasmic binding protein-like domain
+Peripla_BP_1         PF00532.24   279 BGC0002285_ORF4:gid::pid:RMI88548.1:loc:3568:4546:strand:+ -            325   1.5e-21   77.2   0.0   1   1   2.8e-25   1.8e-21   76.9   0.0     4   263    53   301    50   314 0.87 Periplasmic binding proteins and sugar binding domain of LacI family
+LacI                 PF00356.24    46 BGC0002285_ORF4:gid::pid:RMI88548.1:loc:3568:4546:strand:+ -            325   7.1e-13   48.2   0.5   1   1   3.9e-16   2.5e-12   46.5   0.3     6    44     2    40     1    41 0.97 Bacterial regulatory proteins, lacI family
+SBP_bac_1            PF01547.28   315 BGC0002285_ORF5:gid::pid:RMI87907.1:loc:4684:6028:strand:+ -            447   1.6e-29  104.0   4.9   1   1   2.4e-33   2.4e-29  103.4   4.9     9   305    53   332    46   356 0.84 Bacterial extracellular solute-binding protein
+SBP_bac_8            PF13416.9    284 BGC0002285_ORF5:gid::pid:RMI87907.1:loc:4684:6028:strand:+ -            447   2.8e-27   96.4   0.9   1   1   2.9e-31   2.8e-27   96.4   0.9     4   249    59   336    57   342 0.80 Bacterial extracellular solute-binding protein
+BPD_transp_1         PF00528.25   185 BGC0002285_ORF6:gid::pid:RMI87908.1:loc:6030:6981:strand:+ -            316   2.6e-17   63.3  14.6   1   1   1.3e-21   2.6e-17   63.3  14.6     6   176   112   305   107   311 0.87 Binding-protein-dependent transport system inner membrane component
+BPD_transp_1         PF00528.25   185 BGC0002285_ORF7:gid::pid:RMI87909.1:loc:6977:7844:strand:+ -            288   5.2e-18   65.6  13.9   1   1   2.7e-22   5.2e-18   65.6  13.9     9   182   110   280   100   283 0.87 Binding-protein-dependent transport system inner membrane component
+Alpha-amylase        PF00128.27   336 BGC0002285_ORF8:gid::pid:RMI87910.1:loc:7881:9459:strand:+ -            525   3.8e-72  243.8   0.0   1   1   8.7e-76   8.5e-72  242.6   0.0     1   333    35   380    35   383 0.91 Alpha amylase, catalytic domain
+BPD_transp_1         PF00528.25   185 BGC0002285_ORF9:gid::pid:RMI87911.1:loc:9751:10666:strand:- -            304   7.1e-17   61.9  11.6   1   1   3.6e-21   7.1e-17   61.9  11.6     1   175   120   285   120   295 0.93 Binding-protein-dependent transport system inner membrane component
+ABC_tran             PF00005.30   137 BGC0002285_ORF10:gid::pid:RMI87912.1:loc:10652:11450:strand:- -            265   2.2e-29  102.9   0.0   1   1   8.6e-33   8.5e-29  100.9   0.0     1   137    41   173    41   173 0.94 ABC transporter
+NMT1_2               PF13379.9    252 BGC0002285_ORF11:gid::pid:RMI87913.1:loc:11484:12591:strand:- -            368   1.3e-28  100.5   0.2   1   1   4.6e-32   2.3e-28   99.8   0.2     5   248    50   286    46   290 0.92 NMT1-like family
+NMT1                 PF09084.14   216 BGC0002285_ORF11:gid::pid:RMI87913.1:loc:11484:12591:strand:- -            368   3.9e-12   46.6   0.0   1   1   2.4e-15   1.2e-11   45.1   0.0    83   216   144   282    94   282 0.86 NMT1/THI5 like
+OpuAC                PF04069.15   257 BGC0002285_ORF11:gid::pid:RMI87913.1:loc:11484:12591:strand:- -            368   4.2e-10   39.8   1.3   1   1   1.2e-12   5.8e-09   36.0   0.8     2   249    52   288    51   292 0.77 Substrate binding domain of ABC-type glycine betaine transport system
+Phosphonate-bd       PF12974.10   243 BGC0002285_ORF11:gid::pid:RMI87913.1:loc:11484:12591:strand:- -            368   4.3e-10   39.7   0.0   1   1   5.5e-12   2.7e-08   33.8   0.0    23   137    75   184    71   336 0.73 ABC transporter, phosphonate, periplasmic substrate-binding protein
+Rrf2                 PF02082.23   132 BGC0002285_ORF12:gid::pid:RMI87914.1:loc:13016:13475:strand:- -            152   2.9e-32  111.7   0.0   1   1   1.7e-36   3.4e-32  111.5   0.0     1   130     3   131     3   133 0.97 Iron-dependent Transcriptional regulator
+TauE                 PF01925.22   237 BGC0002285_ORF13:gid::pid::loc:13544:13850:strand:- -            101   3.8e-09   36.6   3.7   1   1   2.1e-13     4e-09   36.6   3.7   154   235     6    93     1    95 0.82 Sulfite exporter TauE/SafE
+Trans_reg_C          PF00486.31    77 BGC0002285_ORF14:gid::pid:RMI87915.1:loc:13851:14445:strand:- -            197   2.3e-22   79.0   0.4   1   1   1.8e-26   3.5e-22   78.4   0.4     1    76   107   180   107   181 0.95 Transcriptional regulatory protein, C terminal
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002285.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002285.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002285.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:26:26 2023
+# [ok]

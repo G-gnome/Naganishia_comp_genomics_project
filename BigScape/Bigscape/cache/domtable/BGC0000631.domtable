@@ -1,0 +1,21 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0000631_ORF1:gid:Bcbot4:pid:ATZ56105.1:loc:1094:3194:strand:- -            526   3.3e-67  227.3   0.0   1   1   4.6e-71   9.1e-67  225.9   0.0    15   445    82   495    64   514 0.81 Cytochrome P450
+p450                 PF00067.25   463 BGC0000631_ORF2:gid:Bcbot1:pid:ATZ56106.1:loc:4833:6587:strand:- -            510   3.3e-65  220.8   0.0   1   1   2.1e-69   4.1e-65  220.5   0.0    20   444    69   485    52   505 0.85 Cytochrome P450
+Terpene_syn_C_2      PF19086.3    199 BGC0000631_ORF3:gid:Bcbot2:pid:ATZ56107.1:loc:7074:8795:strand:+ -            399   6.6e-50  169.8   0.2   1   1   4.5e-54   8.8e-50  169.4   0.2     1   199   132   331   132   331 0.96 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0000631_ORF4:gid:Bcbot3:pid:ATZ56108.1:loc:9801:12046:strand:- -            567   5.7e-54  183.7   0.0   1   1   3.8e-58   7.5e-54  183.3   0.0    20   430   121   527   109   529 0.84 Cytochrome P450
+Transferase          PF02458.18   434 BGC0000631_ORF5:gid:Bcbot5:pid:ATZ56109.1:loc:13080:14815:strand:+ -            545   3.7e-09   35.9   0.0   1   1   5.9e-13   1.2e-08   34.3   0.0   129   382   184   458   170   477 0.75 Transferase family
+adh_short            PF00106.28   195 BGC0000631_ORF7:gid::pid:ATZ56112.1:loc:27657:28776:strand:+ -            317   1.1e-35  123.0   0.2   1   1   2.3e-39   1.5e-35  122.6   0.2     3   188    16   211    14   216 0.89 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000631_ORF7:gid::pid:ATZ56112.1:loc:27657:28776:strand:+ -            317   1.1e-24   87.5   0.2   1   1   2.3e-28   1.5e-24   87.0   0.2     1   179    20   210    20   219 0.83 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0000631_ORF7:gid::pid:ATZ56112.1:loc:27657:28776:strand:+ -            317   9.6e-08   32.2   0.4   1   1   5.2e-11   3.4e-07   30.4   0.4     2   164    15   186    14   201 0.72 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000631.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000631.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000631.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:55:44 2023
+# [ok]

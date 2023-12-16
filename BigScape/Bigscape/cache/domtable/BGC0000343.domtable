@@ -1,0 +1,20 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Chorismate_bind      PF00425.21   256 BGC0000343_ORF1:gid::pid:ACY02012.1:loc:1:1174:strand:+ -            390   3.5e-73  246.5   0.0   1   1   3.3e-77   6.5e-73  245.6   0.0     2   256   121   375   120   375 0.98 chorismate binding enzyme
+AMP-binding          PF00501.31   424 BGC0000343_ORF2:gid::pid:ACY02013.1:loc:1170:2796:strand:+ -            541   1.1e-76  258.3   0.0   1   1   1.3e-80   1.3e-76  258.1   0.0     1   423    32   439    32   440 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000343_ORF2:gid::pid:ACY02013.1:loc:1170:2796:strand:+ -            541   5.8e-11   43.3   0.0   1   1   1.7e-14   1.6e-10   41.9   0.0     1    76   448   523   448   523 0.93 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.23   175 BGC0000343_ORF3:gid::pid:ACY02014.1:loc:2809:3682:strand:+ -            290     1e-32  113.9   0.0   1   1   1.3e-36   1.3e-32  113.5   0.0     2   173    30   201    29   203 0.98 Isochorismatase family
+PP-binding           PF00550.28    67 BGC0000343_ORF3:gid::pid:ACY02014.1:loc:2809:3682:strand:+ -            290   1.3e-09   38.4   0.2   1   1   2.8e-13   2.8e-09   37.3   0.2     3    62   220   278   218   283 0.87 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0000343_ORF4:gid::pid:ACY02015.1:loc:3678:6208:strand:+ -            843   7.1e-76  255.6   0.1   1   1   1.5e-79   1.4e-75  254.6   0.1     2   418   458   843   457   843 0.83 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0000343_ORF4:gid::pid:ACY02015.1:loc:3678:6208:strand:+ -            843   8.2e-42  143.6   0.0   1   1   1.1e-45   1.1e-41  143.2   0.0     8   450     5   428     1   434 0.90 Condensation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000343.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000343.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000343.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:04:27 2023
+# [ok]

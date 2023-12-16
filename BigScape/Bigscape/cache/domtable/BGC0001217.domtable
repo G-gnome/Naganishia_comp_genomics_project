@@ -1,0 +1,17 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+QueC                 PF06508.16   209 BGC0001217_ORF1:gid:queC:pid:AIN46707.1:loc:0:696:strand:+ -            231   8.2e-75  251.0   0.0   1   1   9.5e-79   9.4e-75  250.8   0.0     2   208     5   220     4   221 0.96 Queuosine biosynthesis protein QueC
+Asn_synthase         PF00733.24   355 BGC0001217_ORF1:gid:queC:pid:AIN46707.1:loc:0:696:strand:+ -            231     1e-06   28.8   0.0   1   1   1.5e-10   1.5e-06   28.3   0.0    19    76     4    60     2    65 0.83 Asparagine synthase
+Radical_SAM          PF04055.24   167 BGC0001217_ORF2:gid:queE:pid:AIN46709.1:loc:698:1334:strand:+ -            211   1.2e-08   35.6   0.0   1   1   1.9e-12   1.8e-08   35.0   0.0    11    89    46   123    39   146 0.83 Radical SAM superfamily
+PTPS                 PF01242.22   123 BGC0001217_ORF3:gid:queD:pid:AIN46708.1:loc:1334:1691:strand:+ -            118   5.4e-37  126.6   0.0   1   1     3e-41     6e-37  126.5   0.0     1   123     2   118     2   118 0.96 6-pyruvoyl tetrahydropterin synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001217.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001217.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001217.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:57:34 2023
+# [ok]

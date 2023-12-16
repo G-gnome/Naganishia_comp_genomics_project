@@ -1,0 +1,38 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Omp85                PF01103.26   324 BGC0000840_ORF1:gid::pid:AAG38834.1:loc:217:1999:strand:+ -            593   3.1e-32  112.5   4.5   1   1   4.7e-36   3.1e-32  112.5   4.5     5   310   304   581   301   591 0.90 Omp85 superfamily domain
+POTRA_TamA_1         PF17243.5     77 BGC0000840_ORF1:gid::pid:AAG38834.1:loc:217:1999:strand:+ -            593   4.3e-18   65.3   0.4   1   1   2.2e-21   1.5e-17   63.6   0.1     2    76    29   108    28   109 0.92 POTRA domain TamA domain 1
+POTRA                PF07244.18    80 BGC0000840_ORF1:gid::pid:AAG38834.1:loc:217:1999:strand:+ -            593   5.3e-14   52.7   0.4   1   1   4.5e-09   2.9e-05   24.7   0.0     6    74   120   190   115   196 0.71 Surface antigen variable number repeat
+TamB                 PF04357.16   383 BGC0000840_ORF2:gid::pid:AAG38835.1:loc:2298:5853:strand:+ -           1184   1.8e-58  198.8   6.4   1   1     2e-57     2e-53  182.2   2.4     5   381   854  1182   847  1183 0.89 TamB, inner membrane protein subunit of TAM complex
+MMPL                 PF03176.18   333 BGC0000840_ORF4:gid::pid:AAG38837.1:loc:7611:10035:strand:- -            807   3.6e-09   36.1  41.2   1   1   4.5e-11   8.8e-07   28.3   9.3    85   324   209   433   153   440 0.83 MMPL family
+Lip_A_acyltrans      PF03279.16   295 BGC0000840_ORF6:gid::pid:AAG38839.1:loc:10690:11665:strand:- -            324   3.3e-07   29.9   0.0   1   1   1.9e-11   3.7e-07   29.7   0.0    99   253    92   250    46   298 0.83 Bacterial lipid A biosynthesis acyltransferase
+FabA                 PF07977.16   138 BGC0000840_ORF7:gid::pid:AAG38840.1:loc:11661:11949:strand:- -             95   2.2e-07   30.7   0.4   1   1   3.5e-11   6.8e-07   29.1   0.4    34   101     6    60     3    94 0.66 FabA-like domain
+Acyltransferase      PF01553.24   135 BGC0000840_ORF8:gid::pid:AAG38841.1:loc:11960:12710:strand:- -            249   2.3e-29  101.8   0.0   1   1   1.8e-33   3.6e-29  101.2   0.0     2   134    67   192    66   193 0.97 Acyltransferase
+PP-binding           PF00550.28    67 BGC0000840_ORF10:gid::pid:AAG38843.1:loc:13484:13883:strand:- -            132   2.1e-08   34.5   0.3   1   1   1.7e-12   3.3e-08   33.8   0.3     2    52    53   108    52   126 0.82 Phosphopantetheine attachment site
+Trp_halogenase       PF04820.17   454 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   5.4e-30  104.8   0.2   1   2   2.4e-14   4.7e-11   42.3   0.0     1    92    26   109    26   115 0.86 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   5.4e-30  104.8   0.2   2   2   4.1e-20   8.1e-17   61.3   0.1   143   378   114   367   103   375 0.77 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   4.7e-19   69.0   0.0   1   1   3.1e-22   6.1e-19   68.6   0.0     3   311    26   331    24   356 0.82 FAD binding domain
+DAO                  PF01266.27   353 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   6.7e-09   35.9   1.6   1   1     4e-11   7.9e-08   32.4   0.1     1    33    26    58    26    65 0.93 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   1.6e-08   34.2   0.4   1   1   2.7e-11   5.3e-08   32.5   0.1     1    37    26    62    26    77 0.92 FAD binding domain
+FAD_oxidored         PF12831.10   427 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   3.3e-08   33.4   0.6   1   1   1.1e-10   2.2e-07   30.7   0.6     1    34    26    59    26   185 0.61 FAD dependent oxidoreductase
+GIDA                 PF01134.25   392 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   6.3e-08   32.2   0.0   1   1     5e-11   9.7e-08   31.6   0.0     1   115    26   150    26   173 0.82 Glucose inhibited division protein A
+NAD_binding_8        PF13450.9     68 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   1.7e-06   28.2   3.9   1   1   2.1e-09   4.1e-06   27.1   0.1     1    31    29    59    29    67 0.93 NAD(P)-binding Rossmann-like domain
+HI0933_like          PF03486.17   409 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414     7e-06   25.1   0.0   1   1   1.4e-08   2.8e-05   23.2   0.0     2    34    26    58    25    64 0.94 HI0933-like protein
+Pyr_redox            PF00070.30    81 BGC0000840_ORF11:gid::pid:AAG38844.2:loc:14020:15265:strand:+ -            414   3.9e-05   24.2   0.0   1   1   4.5e-08   8.9e-05   23.1   0.0     2    35    27    60    26    80 0.91 Pyridine nucleotide-disulphide oxidoreductase
+Peptidase_S9         PF00326.24   212 BGC0000840_ORF12:gid::pid:AAK82926.1:loc:15337:17707:strand:+ -            789   9.1e-44  149.6   0.3   1   1   2.8e-47   1.4e-43  149.0   0.3     8   209   592   787   583   789 0.95 Prolyl oligopeptidase family
+DPPIV_N              PF00930.24   355 BGC0000840_ORF12:gid::pid:AAK82926.1:loc:15337:17707:strand:+ -            789   1.8e-17   63.3   0.0   1   1   1.4e-18   6.9e-15   54.8   0.0   187   354   339   500   319   501 0.88 Dipeptidyl peptidase IV (DPP IV) N-terminal region
+BD-FAE               PF20434.1    215 BGC0000840_ORF12:gid::pid:AAK82926.1:loc:15337:17707:strand:+ -            789   3.4e-13   49.7   0.1   1   1   4.6e-10   2.3e-06   27.4   0.0    10   106   559   665   551   675 0.77 BD-FAE
+Peptidase_S15        PF02129.21   269 BGC0000840_ORF12:gid::pid:AAK82926.1:loc:15337:17707:strand:+ -            789   7.8e-10   38.9   5.7   1   1   4.9e-13   2.4e-09   37.3   0.3    12   145   556   691   549   699 0.86 X-Pro dipeptidyl-peptidase (S15 family)
+PEMT                 PF04191.16   105 BGC0000840_ORF14:gid::pid:AAK82928.1:loc:19875:20310:strand:+ -            145   9.3e-14   51.9   0.1   1   1   1.6e-17   1.6e-13   51.1   0.1     5    99    41   135    37   139 0.87 Phospholipid methyltransferase
+ICMT                 PF04140.17    95 BGC0000840_ORF14:gid::pid:AAK82928.1:loc:19875:20310:strand:+ -            145   4.3e-07   30.4   0.2   1   1   6.9e-11   6.8e-07   29.7   0.2    33    93    76   134    55   136 0.81 Isoprenylcysteine carboxyl methyltransferase (ICMT) family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000840.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000840.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000840.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:04:55 2023
+# [ok]

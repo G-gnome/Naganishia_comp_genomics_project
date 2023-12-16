@@ -1,0 +1,19 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001990_ORF1:gid::pid:XP_748080.1:loc:130:1814:strand:- -            538   2.5e-49  168.4   0.0   1   1   1.7e-53   3.3e-49  168.0   0.0     6   445    75   522    71   530 0.84 Cytochrome P450
+Methyltransf_2       PF00891.21   210 BGC0001990_ORF3:gid::pid:XP_748078.1:loc:3345:4834:strand:+ -            431   1.1e-23   83.7   0.0   1   1   8.9e-28   1.7e-23   83.2   0.0    15   205   200   400   186   402 0.80 O-methyltransferase domain
+DUF4149              PF13664.9    102 BGC0001990_ORF4:gid::pid:XP_001481489.1:loc:5097:5751:strand:- -            156   2.3e-18   66.5   2.4   1   1   2.6e-22   5.2e-18   65.4   0.3     1    88    17   103    17   117 0.93 Domain of unknown function (DUF4149)
+DIT1_PvcA            PF05141.15   277 BGC0001990_ORF6:gid::pid:XP_748076.2:loc:9514:11850:strand:- -            761     1e-92  310.7   0.0   1   1   2.3e-96   2.2e-92  309.6   0.0     2   275   184   455   183   457 0.95 Pyoverdine/dityrosine biosynthesis protein
+TauD                 PF02668.19   268 BGC0001990_ORF6:gid::pid:XP_748076.2:loc:9514:11850:strand:- -            761   7.7e-22   78.5   0.0   1   1   1.3e-25   1.3e-21   77.8   0.0    22   267   507   758   483   759 0.77 Taurine catabolism dioxygenase TauD, TfdA family
+DJ-1_PfpI            PF01965.27   165 BGC0001990_ORF7:gid::pid:XP_748075.1:loc:12935:13646:strand:- -            236   2.2e-14   53.7   0.0   1   1   1.6e-18   3.2e-14   53.2   0.0     2   162    11   209    10   212 0.81 DJ-1/PfpI family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001990.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001990.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001990.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:09:20 2023
+# [ok]

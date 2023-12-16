@@ -1,0 +1,17 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_synth_C      PF03936.19   267 BGC0002398_ORF2:gid::pid:AEE77582.1:loc:143:2630:strand:- -            603   2.7e-89  299.2   0.6   1   1   5.5e-93   3.6e-89  298.8   0.6     1   266   280   545   280   546 0.96 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0002398_ORF2:gid::pid:AEE77582.1:loc:143:2630:strand:- -            603   2.4e-51  174.3   0.1   1   1   6.2e-55     4e-51  173.6   0.1     2   192    74   249    73   249 0.90 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002398_ORF2:gid::pid:AEE77582.1:loc:143:2630:strand:- -            603   3.2e-40  138.2   1.3   1   1   7.9e-44   5.1e-40  137.6   1.3     1   197   347   544   347   545 0.92 Terpene synthase family 2, C-terminal metal binding
+polyprenyl_synt      PF00348.20   256 BGC0002398_ORF3:gid::pid:AEE77583.1:loc:8996:10174:strand:+ -            357   7.7e-59  199.0   0.0   1   1   5.2e-63     1e-58  198.6   0.0     4   236    90   327    87   343 0.88 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002398.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002398.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002398.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:51:28 2023
+# [ok]

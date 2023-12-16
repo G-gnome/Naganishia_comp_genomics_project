@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="220.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="210.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>stcH (B446_00775)
+ABC transporter</title>
+			<polygon class="stcH (B446_00775)
+ABC transporter" points="10,40 36,10 36,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="15,39 24,28 35,28 35,52 24,52 15,41" stroke-linejoin="round" width="20" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stcT (B446_00780)
+daunorubicin resistance ABC transporter ATPase subunit</title>
+			<polygon class="stcT (B446_00780)
+daunorubicin resistance ABC transporter ATPase subunit" points="74,25 71,25 71,10 41,40 71,70 71,55 74,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="60" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stcA (B446_00784)
+streptocollin prepeptide</title>
+			<polygon class="stcA (B446_00784)
+streptocollin prepeptide" points="101,40 106,10 106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>stcL (B446_00785)
+type IV lanthipeptide synthetase</title>
+			<polygon class="stcL (B446_00785)
+type IV lanthipeptide synthetase" points="210,25 138,25 138,10 108,40 138,70 138,55 210,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="112,40 124,28 142,28 142,52 124,52" stroke-linejoin="round" width="34" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="161" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

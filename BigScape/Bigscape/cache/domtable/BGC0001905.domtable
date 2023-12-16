@@ -1,0 +1,19 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Chal_sti_synt_N      PF00195.22   225 BGC0001905_ORF4:gid:vlpA:pid:AMN09000.1:loc:687:1740:strand:- -            350   3.3e-25   89.0   0.5   1   1   1.8e-28     7e-25   87.9   0.5    82   225    62   204     1   204 0.82 Chalcone and stilbene synthases, N-terminal domain
+ACP_syn_III          PF08545.13    80 BGC0001905_ORF4:gid:vlpA:pid:AMN09000.1:loc:687:1740:strand:- -            350   2.2e-11   43.6   0.9   1   1   1.9e-14   7.5e-11   41.9   0.3     5    69   139   209   137   215 0.85 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+FAE1_CUT1_RppA       PF08392.15   290 BGC0001905_ORF4:gid:vlpA:pid:AMN09000.1:loc:687:1740:strand:- -            350   7.4e-11   42.0   0.0   1   1   2.6e-14     1e-10   41.6   0.0    24   208    16   205     8   208 0.84 FAE1/Type III polyketide synthase-like protein
+Chal_sti_synt_C      PF02797.18   151 BGC0001905_ORF4:gid:vlpA:pid:AMN09000.1:loc:687:1740:strand:- -            350     2e-06   28.0   0.0   1   1   9.9e-10   3.9e-06   27.1   0.0     8   141   220   340   215   347 0.78 Chalcone and stilbene synthases, C-terminal domain
+MLTR_LBD             PF17765.4    168 BGC0001905_ORF5:gid:vlpB:pid:AMN09001.1:loc:1906:2725:strand:- -            272   1.2e-13   51.8   3.7   1   1   1.7e-17   1.7e-13   51.2   3.7    15   163   120   264   107   269 0.89 MmyB-like transcription regulator ligand binding domain
+HTH_31               PF13560.9     64 BGC0001905_ORF5:gid:vlpB:pid:AMN09001.1:loc:1906:2725:strand:- -            272     8e-07   29.4   1.6   1   1     1e-10     1e-06   29.1   0.4    10    63    32    85     5    86 0.91 Helix-turn-helix domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001905.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001905.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001905.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:25:06 2023
+# [ok]

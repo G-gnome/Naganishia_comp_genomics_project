@@ -1,0 +1,224 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="813.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="803.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>eqbA (SEQ1246)
+putative iron-dependent regulatory protein</title>
+			<polygon class="eqbA (SEQ1246)
+putative iron-dependent regulatory protein" points="10,10 22,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fe_dep_repress (PF01325)
+"Iron dependent repressor, N-terminal DNA binding domain"</title>
+				<polygon class="PF01325" points="10,28 14,28 15,30 15,50 14,52 10,52" stroke-linejoin="round" width="5" height="24" fill="rgb(56,220,176)" stroke="rgb(44,176,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fe_dep_repr_C (PF02742)
+"Iron dependent repressor, metal binding and dimerisation domain"</title>
+				<polygon class="PF02742" points="16,32 19,40 16,48" stroke-linejoin="round" width="5" height="24" fill="rgb(217,122,64)" stroke="rgb(173,97,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbB (SEQ1245)
+putative non-ribosomal peptide synthesis thioesterase</title>
+			<polygon class="eqbB (SEQ1245)
+putative non-ribosomal peptide synthesis thioesterase" points="30,10 55,40 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="31,28 41,28 51,40 41,52 31,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbC (SEQ1244)
+putative 4'-phosphopantetheinyl transferase superfamily protein</title>
+			<polygon class="eqbC (SEQ1244)
+putative 4'-phosphopantetheinyl transferase superfamily protein" points="54,10 76,40 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="66,31 73,40 66,49" stroke-linejoin="round" width="9" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbD (SEQ1243)
+equibactin siderophore biosynthetic protein</title>
+			<polygon class="eqbD (SEQ1243)
+equibactin siderophore biosynthetic protein" points="77,25 99,25 99,10 129,40 99,70 99,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="79,28 113,28 119,34 119,46 113,52 79,52" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="121,36 125,40 121,44" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbE (SEQ1242)
+equibactin equibactin nonribosomal peptide synthase protein</title>
+			<polygon class="eqbE (SEQ1242)
+equibactin equibactin nonribosomal peptide synthase protein" points="131,25 303,25 303,10 333,40 303,70 303,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="131" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="143" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="186" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="271" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="280" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="325,36 329,40 325,44" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbF (SEQ1241)
+equibactin biosynthetic protein</title>
+			<polygon class="eqbF (SEQ1241)
+equibactin biosynthetic protein" points="333,25 373,25 373,10 403,40 373,70 373,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="333" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<polygon class="PF08242" points="385,28 387,28 394,35 394,45 387,52 385,52" stroke-linejoin="round" width="9" height="24" fill="rgb(187,59,115)" stroke="rgb(149,47,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbG (SEQ1240)
+equibactin nonribosomal peptide synthase protein</title>
+			<polygon class="eqbG (SEQ1240)
+equibactin nonribosomal peptide synthase protein" points="403,25 500,25 500,10 530,40 500,70 500,55 403,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="409" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<rect class="PF08242" x="472" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(187,59,115)" stroke="rgb(149,47,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="494" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbH (SEQ1239)
+putative membrane protein</title>
+			<polygon class="eqbH (SEQ1239)
+putative membrane protein" points="530,10 549,40 530,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trep_Strep (PF09605)
+"Hypothetical bacterial integral membrane protein (Trep_Strep)"</title>
+				<polygon class="PF09605" points="530,28 538,28 546,40 538,52 530,52" stroke-linejoin="round" width="18" height="24" fill="rgb(200,75,172)" stroke="rgb(160,60,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbI (SEQ1238)
+putative transmembrane protein</title>
+			<polygon class="eqbI (SEQ1238)
+putative transmembrane protein" points="550,10 572,40 550,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CbiQ (PF02361)
+"Cobalt transport protein"</title>
+				<polygon class="PF02361" points="550,28 559,28 568,40 559,52 550,52" stroke-linejoin="round" width="19" height="24" fill="rgb(217,92,216)" stroke="rgb(173,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbJ (SEQ1237)
+putative ABC transporter ATP-binding component</title>
+			<polygon class="eqbJ (SEQ1237)
+putative ABC transporter ATP-binding component" points="573,25 588,25 588,10 618,40 588,70 588,55 573,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="574" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="600,28 602,28 613,39 613,41 602,52 600,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbK (SEQ1236)
+ABC transporter, ATP-binding membrane protein</title>
+			<polygon class="eqbK (SEQ1236)
+ABC transporter, ATP-binding membrane protein" points="619,25 647,25 647,10 677,40 647,70 647,55 619,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="621" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="654,28 661,28 668,35 668,45 661,52 654,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbL (SEQ1235)
+ABC transporter ATP-binding membrane protein</title>
+			<polygon class="eqbL (SEQ1235)
+ABC transporter ATP-binding membrane protein" points="678,25 706,25 706,10 736,40 706,70 706,55 678,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="680" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="713,28 719,28 727,36 727,44 719,52 713,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbM (SEQ1234)
+putative oxidoreductase</title>
+			<polygon class="eqbM (SEQ1234)
+putative oxidoreductase" points="737,25 742,25 742,10 772,40 742,70 742,55 737,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sacchrp_dh_NADP (PF03435)
+"Saccharopine dehydrogenase NADP binding domain"</title>
+				<rect class="PF03435" x="737" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(90,186,91)" stroke="rgb(72,148,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eqbN (SEQ1233)
+putative membrane protein</title>
+			<polygon class="eqbN (SEQ1233)
+putative membrane protein" points="773,25 773,25 773,10 803,40 773,70 773,55 773,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_4 (PF12146)
+"Serine aminopeptidase, S33"</title>
+				<polygon class="PF12146" points="780,28 786,28 792,34 792,46 786,52 780,52" stroke-linejoin="round" width="12" height="24" fill="rgb(140,98,205)" stroke="rgb(112,78,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

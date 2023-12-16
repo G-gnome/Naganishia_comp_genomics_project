@@ -1,0 +1,200 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="828.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="818.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>angM
+non-ribosomal peptide synthetase</title>
+			<polygon class="angM
+non-ribosomal peptide synthetase" points="80,25 40,25 40,10 10,40 40,70 40,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="14,40 26,28 52,28 52,52 26,52" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="55" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative transposase</title>
+			<polygon class="
+putative transposase" points="113,25 113,25 113,10 83,40 113,70 113,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1_5 (PF13737)
+"Transposase DDE domain"</title>
+				<rect class="PF13737" x="100" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(102,219,229)" stroke="rgb(81,175,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fatD
+ferric anguibactin transport protein</title>
+			<polygon class="fatD
+ferric anguibactin transport protein" points="129,25 130,25 130,10 160,40 130,70 130,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="129,28 144,28 156,40 144,52 129,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fatC
+ferric anguibactin transport protein</title>
+			<polygon class="fatC
+ferric anguibactin transport protein" points="160,25 161,25 161,10 191,40 161,70 161,55 160,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="160,28 175,28 187,40 175,52 160,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fatB
+ferric anguibactin transport protein</title>
+			<polygon class="fatB
+ferric anguibactin transport protein" points="194,25 196,25 196,10 226,40 196,70 196,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="199,28 210,28 222,40 210,52 199,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fatA
+ferric anguibactin receptor</title>
+			<polygon class="fatA
+ferric anguibactin receptor" points="229,25 271,25 271,10 301,40 271,70 271,55 229,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="237" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="249,28 285,28 297,40 285,52 249,52" stroke-linejoin="round" width="52" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>angR
+non-ribosomal peptide synthetase</title>
+			<polygon class="angR
+non-ribosomal peptide synthetase" points="305,25 379,25 379,10 409,40 379,70 379,55 305,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="306" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="350" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="391,28 393,28 398,33 398,47 393,52 391,52" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>angT
+non-ribosomal peptide synthetase</title>
+			<polygon class="angT
+non-ribosomal peptide synthetase" points="410,10 435,40 410,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="411,28 421,28 431,40 421,52 411,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>angU
+putative monooxygenase</title>
+			<polygon class="angU
+putative monooxygenase" points="482,25 468,25 468,10 438,40 468,70 468,55 482,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="447,35 454,28 481,28 481,52 454,52 447,45" stroke-linejoin="round" width="34" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>angN
+non-ribosomal peptide synthetase</title>
+			<polygon class="angN
+non-ribosomal peptide synthetase" points="582,25 517,25 517,10 487,40 517,70 517,55 582,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="511" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="539" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative transposase</title>
+			<polygon class="
+putative transposase" points="589,25 589,25 589,10 619,40 589,70 589,55 589,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1_5 (PF13737)
+"Transposase DDE domain"</title>
+				<rect class="PF13737" x="590" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(102,219,229)" stroke="rgb(81,175,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative transposase</title>
+			<polygon class="
+putative transposase" points="624,25 626,25 626,10 656,40 626,70 626,55 624,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_38 (PF13936)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13936" x="624" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(76,213,183)" stroke="rgb(60,170,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>angH
+histidine decarboxylase</title>
+			<polygon class="angH
+histidine decarboxylase" points="665,25 675,25 675,10 705,40 675,70 675,55 665,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="670,28 688,28 699,39 699,41 688,52 670,52" stroke-linejoin="round" width="29" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative ABC transporter</title>
+			<polygon class="
+putative ABC transporter" points="708,25 731,25 731,10 761,40 731,70 731,55 708,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="710" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="742,28 745,28 755,38 755,42 745,52 742,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative ABC transporter</title>
+			<polygon class="
+putative ABC transporter" points="762,25 788,25 788,10 818,40 788,70 788,55 762,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="795,28 801,28 809,36 809,44 801,52 795,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

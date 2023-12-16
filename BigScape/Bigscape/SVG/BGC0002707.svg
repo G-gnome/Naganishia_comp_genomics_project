@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="730.7333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="720.7333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (CONPUDRAFT_17337)
+NAD(P)-binding protein</title>
+			<polygon class=" (CONPUDRAFT_17337)
+NAD(P)-binding protein" points="10,25 13,25 13,10 43,40 13,70 13,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="10,28 27,28 29,30 29,50 27,52 10,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CONPUDRAFT_150757)
+MFS general substrate transporter</title>
+			<polygon class=" (CONPUDRAFT_150757)
+MFS general substrate transporter" points="188,25 221,25 221,10 251,40 221,70 221,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="191" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CONPUDRAFT_99245)
+MFS transporter</title>
+			<polygon class=" (CONPUDRAFT_99245)
+MFS transporter" points="404,25 539,25 539,10 569,40 539,70 539,55 404,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="408" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CONPUDRAFT_50941)
+terpenoid synthase</title>
+			<polygon class=" (CONPUDRAFT_50941)
+terpenoid synthase" points="624,25 616,25 616,10 586,40 616,70 616,55 624,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_syn_C_2 (PF19086)
+"Terpene synthase family 2, C-terminal metal binding"</title>
+				<polygon class="PF19086" points="596,34 602,28 615,28 615,52 602,52 596,46" stroke-linejoin="round" width="19" height="24" fill="rgb(55,207,154)" stroke="rgb(43,165,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CONPUDRAFT_119059)
+aldo-keto reductase</title>
+			<polygon class=" (CONPUDRAFT_119059)
+aldo-keto reductase" points="719,25 706,25 706,10 676,40 706,70 706,55 719,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="692,28 692,28 716,28 716,52 692,52 692,52" stroke-linejoin="round" width="24" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

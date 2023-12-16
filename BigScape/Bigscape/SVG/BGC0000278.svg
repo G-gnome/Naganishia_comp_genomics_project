@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="200.26666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="190.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>urdZ3
+NDP-hexose 4-ketoreductase UrdZ3</title>
+			<polygon class="urdZ3
+NDP-hexose 4-ketoreductase UrdZ3" points="10,25 14,25 14,10 44,40 14,70 14,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="10,28 28,28 34,34 34,46 28,52 10,52" stroke-linejoin="round" width="24" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdQ
+NDP-hexose 3,4-dehydratase UrdQ</title>
+			<polygon class="urdQ
+NDP-hexose 3,4-dehydratase UrdQ" points="45,25 58,25 58,10 88,40 58,70 58,55 45,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="48,28 72,28 84,40 72,52 48,52" stroke-linejoin="round" width="38" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdR
+NDP-hexose 4-ketoreductase UrdR</title>
+			<polygon class="urdR
+NDP-hexose 4-ketoreductase UrdR" points="90,10 114,40 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="91,28 101,28 107,36 107,44 101,52 91,52" stroke-linejoin="round" width="16" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdS
+NDP-hexose 2,3-dehydratase UrdS</title>
+			<polygon class="urdS
+NDP-hexose 2,3-dehydratase UrdS" points="116,25 133,25 133,10 163,40 133,70 133,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<rect class="PF03559" x="119" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<polygon class="PF03559" points="141,28 146,28 158,40 146,52 141,52" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>urdT
+oxidoreductase UrdT</title>
+			<polygon class="urdT
+oxidoreductase UrdT" points="163,10 189,40 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<polygon class="PF01408" points="163,28 174,28 175,28 175,52 174,52 163,52" stroke-linejoin="round" width="12" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,32 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="115.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="105.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (HMPREF9690_00879)
+hypothetical protein</title>
+			<polygon class=" (HMPREF9690_00879)
+hypothetical protein" points="67,25 40,25 40,10 10,40 40,70 40,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_5 (PF13444)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13444" points="25,29 26,28 35,28 35,52 26,52 25,51" stroke-linejoin="round" width="10" height="24" fill="rgb(226,151,71)" stroke="rgb(180,120,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyltransf_2 (PF19576)
+"Acyltransferase"</title>
+				<rect class="PF19576" x="42" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(152,200,92)" stroke="rgb(121,160,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (HMPREF9690_00880)
+delta-aminolevulinic acid dehydratase</title>
+			<polygon class=" (HMPREF9690_00880)
+delta-aminolevulinic acid dehydratase" points="105,25 103,25 103,10 73,40 103,70 103,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ALAD (PF00490)
+"Delta-aminolevulinic acid dehydratase"</title>
+				<polygon class="PF00490" points="77,40 89,28 104,28 104,52 89,52" stroke-linejoin="round" width="31" height="24" fill="rgb(119,78,220)" stroke="rgb(95,62,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

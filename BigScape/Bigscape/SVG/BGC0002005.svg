@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="226.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="216.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>raxX (BRN51_RS06460)
+RaxX family RiPP</title>
+			<polygon class="raxX (BRN51_RS06460)
+RaxX family RiPP" points="10,40 16,10 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>raxST (BRN51_RS06465)
+RiPP modification sulfotransferase RaxST</title>
+			<polygon class="raxST (BRN51_RS06465)
+RiPP modification sulfotransferase RaxST" points="30,10 56,40 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_3 (PF13469)
+"Sulfotransferase family"</title>
+				<polygon class="PF13469" points="30,28 41,28 50,37 50,43 41,52 30,52" stroke-linejoin="round" width="20" height="24" fill="rgb(59,182,84)" stroke="rgb(47,145,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BRN51_RS06470)
+HlyD family secretion protein</title>
+			<polygon class=" (BRN51_RS06470)
+HlyD family secretion protein" points="56,25 70,25 70,10 100,40 70,70 70,55 56,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl_2 (PF13533)
+"Biotin-lipoyl like"</title>
+				<rect class="PF13533" x="65" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(229,122,112)" stroke="rgb(183,97,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="84,29 95,40 84,51" stroke-linejoin="round" width="12" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>raxB (BRN51_RS06475)
+peptidase domain-containing ABC transporter RaxB</title>
+			<polygon class="raxB (BRN51_RS06475)
+peptidase domain-containing ABC transporter RaxB" points="100,25 142,25 142,10 172,40 142,70 142,55 100,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="101" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="117" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="150,28 155,28 164,37 164,43 155,52 150,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BRN51_RS06480)
+MFS transporter</title>
+			<polygon class=" (BRN51_RS06480)
+MFS transporter" points="182,25 186,25 186,10 216,40 186,70 186,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

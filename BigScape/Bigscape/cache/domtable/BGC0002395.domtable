@@ -1,0 +1,29 @@
+#                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002395_ORF1:gid:LOC123429120:pid:XP_044969119.1:loc:419:2090:strand:+ -            502   9.5e-91  305.0   0.0   1   1     6e-95   1.2e-90  304.7   0.0     1   454    37   483    37   493 0.88 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF3:gid:LOC123429121:pid:XP_044969120.1:loc:52135:59054:strand:+ -            502   5.9e-92  309.0   0.0   1   1   3.4e-96   6.7e-92  308.8   0.0     1   457    37   488    37   494 0.87 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF4:gid:LOC123424378:pid:XP_044963915.1:loc:114779:116361:strand:+ -            500   8.9e-94  315.0   0.0   1   1   5.4e-98   1.1e-93  314.7   0.0     1   455    35   482    35   491 0.87 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF5:gid:LOC123424377:pid:XP_044963914.1:loc:128264:129852:strand:+ -            502   5.9e-91  305.7   0.0   1   1   3.6e-95   7.1e-91  305.4   0.0     1   455    37   484    37   493 0.88 Cytochrome P450
+Terpene_synth_C      PF03936.19   267 BGC0002395_ORF6:gid:LOC123429122:pid:XP_044969121.1:loc:136921:141731:strand:+ -            835   5.9e-61  206.2   0.4   1   1   1.5e-64   9.5e-61  205.6   0.4     1   263   498   760   498   764 0.91 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0002395_ORF6:gid:LOC123429122:pid:XP_044969121.1:loc:136921:141731:strand:+ -            835   1.5e-40  139.1   0.3   1   1   3.6e-44   2.3e-40  138.5   0.3     4   192   259   454   256   454 0.88 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002395_ORF6:gid:LOC123429122:pid:XP_044969121.1:loc:136921:141731:strand:+ -            835     3e-39  135.0   0.1   1   1   9.4e-43   6.2e-39  134.0   0.1     2   196   564   761   563   764 0.89 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0002395_ORF7:gid:LOC123424379:pid:XP_044963916.1:loc:237742:239789:strand:- -            595   1.3e-73  248.5   0.0   1   1   7.8e-78   1.5e-73  248.2   0.0     1   453   114   580   114   589 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF8:gid:LOC123429124:pid:XP_044969122.1:loc:270784:272831:strand:- -            595   1.3e-73  248.5   0.0   1   1   7.8e-78   1.5e-73  248.2   0.0     1   453   114   580   114   589 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF9:gid:LOC123429125:pid:XP_044969123.1:loc:305190:307237:strand:- -            595   1.3e-73  248.5   0.0   1   1   7.8e-78   1.5e-73  248.2   0.0     1   453   114   580   114   589 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF10:gid:LOC123429126:pid:XP_044969124.1:loc:441314:442892:strand:- -            500   1.3e-90  304.5   0.0   1   1   8.4e-95   1.6e-90  304.2   0.0     1   450    38   480    38   492 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF11:gid:LOC123429127:pid:XP_044969126.1:loc:498702:500281:strand:- -            500   4.3e-91  306.1   0.0   1   1   2.7e-95   5.4e-91  305.8   0.0     1   450    38   480    38   492 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0002395_ORF12:gid:LOC123424381:pid:XP_044963918.1:loc:540076:541654:strand:- -            500   1.3e-90  304.5   0.0   1   1   8.4e-95   1.6e-90  304.2   0.0     1   450    38   480    38   492 0.89 Cytochrome P450
+PARG_cat             PF05028.17   336 BGC0002395_ORF13:gid:LOC123424884:pid:XP_044964509.1:loc:542310:544645:strand:+ -            163   2.6e-07   30.3   0.0   1   1   1.5e-11     3e-07   30.1   0.0     3    87    70   156    68   163 0.87 Poly (ADP-ribose) glycohydrolase (PARG)
+Terpene_synth        PF01397.24   192 BGC0002395_ORF14:gid:LOC123424380:pid:XP_044963917.1:loc:594468:598778:strand:+ -            757   2.2e-45  154.9   0.0   1   1   3.7e-49   3.6e-45  154.2   0.0     1   192   255   463   255   463 0.86 Terpene synthase, N-terminal domain
+Terpene_synth_C      PF03936.19   267 BGC0002395_ORF14:gid:LOC123424380:pid:XP_044963917.1:loc:594468:598778:strand:+ -            757   3.4e-07   30.0   0.1   1   1   5.3e-11   5.2e-07   29.4   0.1     1    98   507   624   507   727 0.78 Terpene synthase family, metal binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002395.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002395.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002395.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:56:17 2023
+# [ok]

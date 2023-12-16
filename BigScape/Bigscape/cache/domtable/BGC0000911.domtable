@@ -1,0 +1,15 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Tyrosinase           PF00264.23   222 BGC0000911_ORF1:gid:melC2-1:pid:BAG17356.1:loc:0:864:strand:- -            287   6.7e-39  134.6   0.5   1   1   4.8e-43   9.4e-39  134.1   0.5     3   221    30   237    28   238 0.71 Common central domain of tyrosinase
+MelC1                PF06236.14   115 BGC0000911_ORF2:gid:melC1-1:pid:BAG17357.1:loc:883:1288:strand:- -            134   1.2e-23   83.5   1.4   1   1   8.3e-28   1.6e-23   83.1   1.4    10   112    20   126     3   128 0.77 Tyrosinase co-factor MelC1
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000911.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000911.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000911.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:44:12 2023
+# [ok]

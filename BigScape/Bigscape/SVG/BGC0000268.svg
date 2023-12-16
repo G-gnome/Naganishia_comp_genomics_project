@@ -1,0 +1,755 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="2605.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="2595.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>schA1
+putative transport system permease ABC transporter</title>
+			<polygon class="schA1
+putative transport system permease ABC transporter" points="26,25 28,25 28,10 58,40 28,70 28,55 26,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="35,28 42,28 54,40 42,52 35,52" stroke-linejoin="round" width="22" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA2
+putative Oligogalacturonate transport system permease protein</title>
+			<polygon class="schA2
+putative Oligogalacturonate transport system permease protein" points="60,10 89,40 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="70,28 73,28 85,40 73,52 70,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA3
+putative 3-(2-hydroxyphenyl) propionic acid transporter</title>
+			<polygon class="schA3
+putative 3-(2-hydroxyphenyl) propionic acid transporter" points="198,25 192,25 192,10 162,40 192,70 192,55 198,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sugar_tr (PF00083)
+"Sugar (and other) transporter"</title>
+				<polygon class="PF00083" points="166,40 178,28 183,28 183,52 178,52" stroke-linejoin="round" width="20" height="24" fill="rgb(48,186,105)" stroke="rgb(38,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sugar_tr (PF00083)
+"Sugar (and other) transporter"</title>
+				<rect class="PF00083" x="182" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(48,186,105)" stroke="rgb(38,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA4
+putative TetR family transcriptional regulator</title>
+			<polygon class="schA4
+putative TetR family transcriptional regulator" points="217,40 239,10 239,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_29 (PF17938)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF17938" points="221,40 229,29 229,51" stroke-linejoin="round" width="11" height="24" fill="rgb(120,104,228)" stroke="rgb(95,83,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="232" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA5
+putative shikimate 5-dehydrogenase</title>
+			<polygon class="schA5
+putative shikimate 5-dehydrogenase" points="245,10 274,40 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Shikimate_dh_N (PF08501)
+"Shikimate dehydrogenase substrate binding domain"</title>
+				<rect class="PF08501" x="246" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(145,207,53)" stroke="rgb(116,165,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SDH_C (PF18317)
+"Shikimate 5'-dehydrogenase C-terminal domain"</title>
+				<polygon class="PF18317" points="270,40 270,40 270,40" stroke-linejoin="round" width="2" height="24" fill="rgb(56,215,75)" stroke="rgb(44,172,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA6
+putative 4-hydroxyphenyl pyruvate dioxygenase</title>
+			<polygon class="schA6
+putative 4-hydroxyphenyl pyruvate dioxygenase" points="278,25 310,25 310,10 340,40 310,70 310,55 278,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<rect class="PF01261" x="281" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyoxalase_5 (PF14696)
+"Hydroxyphenylpyruvate dioxygenase, HPPD, N-terminal"</title>
+				<rect class="PF14696" x="307" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(50,199,116)" stroke="rgb(40,159,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="322,28 324,28 336,40 324,52 322,52" stroke-linejoin="round" width="15" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA7
+probable amino acid transporter transmembrane protein s</title>
+			<polygon class="schA7
+probable amino acid transporter transmembrane protein s" points="350,25 369,25 369,10 399,40 369,70 369,55 350,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_permease_2 (PF13520)
+"Amino acid permease"</title>
+				<polygon class="PF13520" points="351,28 383,28 394,39 394,41 383,52 351,52" stroke-linejoin="round" width="43" height="24" fill="rgb(180,217,107)" stroke="rgb(144,173,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="400,25 402,25 402,10 432,40 402,70 402,55 400,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>schA9
+putative phosphate mutase</title>
+			<polygon class="schA9
+putative phosphate mutase" points="445,40 464,10 464,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_Phos_1 (PF00300)
+"Histidine phosphatase superfamily (branch 1)"</title>
+				<polygon class="PF00300" points="449,40 457,28 464,28 464,52 457,52" stroke-linejoin="round" width="19" height="24" fill="rgb(135,184,63)" stroke="rgb(107,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA10
+putative 6-phosphogluconate dehydrogenase</title>
+			<polygon class="schA10
+putative 6-phosphogluconate dehydrogenase" points="466,40 495,10 495,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>6PGD (PF00393)
+"6-phosphogluconate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00393" points="470,40 479,31 479,49" stroke-linejoin="round" width="13" height="24" fill="rgb(57,119,210)" stroke="rgb(45,95,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_2 (PF03446)
+"NAD binding domain of 6-phosphogluconate dehydrogenase"</title>
+				<polygon class="PF03446" points="479,31 482,28 494,28 494,52 482,52 479,49" stroke-linejoin="round" width="15" height="24" fill="rgb(205,164,98)" stroke="rgb(164,131,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA11
+glucose-6-phosphate isomerase</title>
+			<polygon class="schA11
+glucose-6-phosphate isomerase" points="541,25 525,25 525,10 495,40 525,70 525,55 541,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGI (PF00342)
+"Phosphoglucose isomerase"</title>
+				<polygon class="PF00342" points="499,40 511,28 541,28 541,52 511,52" stroke-linejoin="round" width="45" height="24" fill="rgb(160,69,196)" stroke="rgb(128,55,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="582,25 581,25 581,10 551,40 581,70 581,55 582,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OpcA_G6PD_C (PF20171)
+"Glucose-6-phosphate dehydrogenase subunit C-terminal domain"</title>
+				<polygon class="PF20171" points="555,40 564,31 564,49" stroke-linejoin="round" width="12" height="24" fill="rgb(52,186,100)" stroke="rgb(41,148,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OpcA_G6PD_assem (PF10128)
+"Glucose-6-phosphate dehydrogenase subunit N-terminal domain"</title>
+				<polygon class="PF10128" points="565,30 567,28 576,28 576,52 567,52 565,50" stroke-linejoin="round" width="11" height="24" fill="rgb(198,163,70)" stroke="rgb(158,130,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA13
+putative glucose-6-phosphate-1-dehydrogenase</title>
+			<polygon class="schA13
+putative glucose-6-phosphate-1-dehydrogenase" points="637,25 612,25 612,10 582,40 612,70 612,55 637,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G6PD_C (PF02781)
+"Glucose-6-phosphate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF02781" points="586,40 598,28 611,28 611,52 598,52" stroke-linejoin="round" width="29" height="24" fill="rgb(161,208,98)" stroke="rgb(128,166,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>G6PD_N (PF00479)
+"Glucose-6-phosphate dehydrogenase, NAD binding domain"</title>
+				<rect class="PF00479" x="612" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(176,80,200)" stroke="rgb(140,64,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA14
+putative trasnaldolase</title>
+			<polygon class="schA14
+putative trasnaldolase" points="676,25 668,25 668,10 638,40 668,70 668,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TAL_FSA (PF00923)
+"Transaldolase/Fructose-6-phosphate aldolase"</title>
+				<polygon class="PF00923" points="642,40 654,28 673,28 673,52 654,52" stroke-linejoin="round" width="34" height="24" fill="rgb(208,111,74)" stroke="rgb(166,88,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA15
+putative transketolase</title>
+			<polygon class="schA15
+putative transketolase" points="746,25 707,25 707,10 677,40 707,70 707,55 746,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="681,40 689,32 689,48" stroke-linejoin="round" width="11" height="24" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<polygon class="PF02779" points="691,30 693,28 709,28 709,52 693,52 691,50" stroke-linejoin="round" width="18" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transketolase_N (PF00456)
+"Transketolase, thiamine diphosphate binding domain"</title>
+				<rect class="PF00456" x="710" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(74,202,214)" stroke="rgb(59,161,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA16
+putative AraC-family transcriptional regulator</title>
+			<polygon class="schA16
+putative AraC-family transcriptional regulator" points="751,10 780,40 751,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AraC_binding (PF02311)
+"AraC-like ligand binding domain"</title>
+				<polygon class="PF02311" points="754,28 764,28 769,33 769,47 764,52 754,52" stroke-linejoin="round" width="15" height="24" fill="rgb(81,203,213)" stroke="rgb(64,162,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="772,36 776,40 772,44" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA17
+putative endo-1,3-beta-glucanase</title>
+			<polygon class="schA17
+putative endo-1,3-beta-glucanase" points="830,25 814,25 814,10 784,40 814,70 814,55 830,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CBM_6 (PF03422)
+"Carbohydrate binding module (family 6)"</title>
+				<polygon class="PF03422" points="788,40 796,32 796,48" stroke-linejoin="round" width="12" height="24" fill="rgb(79,51,186)" stroke="rgb(63,40,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_16 (PF00722)
+"Glycosyl hydrolases family 16"</title>
+				<polygon class="PF00722" points="799,29 800,28 821,28 821,52 800,52 799,51" stroke-linejoin="round" width="22" height="24" fill="rgb(213,60,152)" stroke="rgb(170,48,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA18
+putative oxidoreductase</title>
+			<polygon class="schA18
+putative oxidoreductase" points="876,25 873,25 873,10 843,40 873,70 873,55 876,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="857,30 859,28 871,28 871,52 859,52 857,50" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA19
+putative Oxidoreductase, alpha subunit</title>
+			<polygon class="schA19
+putative Oxidoreductase, alpha subunit" points="938,25 909,25 909,10 879,40 909,70 909,55 938,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PFOR_II (PF17147)
+"Pyruvate:ferredoxin oxidoreductase core domain II"</title>
+				<polygon class="PF17147" points="883,40 889,34 889,46" stroke-linejoin="round" width="9" height="24" fill="rgb(179,47,158)" stroke="rgb(143,37,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>POR_N (PF01855)
+"Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg"</title>
+				<polygon class="PF01855" points="892,31 895,28 915,28 915,52 895,52 892,49" stroke-linejoin="round" width="23" height="24" fill="rgb(146,196,83)" stroke="rgb(116,156,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>POR (PF01558)
+"Pyruvate ferredoxin/flavodoxin oxidoreductase"</title>
+				<rect class="PF01558" x="920" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(89,196,208)" stroke="rgb(71,156,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP1
+putative Acyl-CoA carboxylase</title>
+			<polygon class="schP1
+putative Acyl-CoA carboxylase" points="1004,25 973,25 973,10 943,40 973,70 973,55 1004,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="947,40 949,38 949,42" stroke-linejoin="round" width="6" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_C (PF02785)
+"Biotin carboxylase C-terminal domain"</title>
+				<polygon class="PF02785" points="957,30 959,28 968,28 968,52 959,52 957,50" stroke-linejoin="round" width="11" height="24" fill="rgb(82,186,211)" stroke="rgb(65,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<rect class="PF02786" x="969" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_N (PF00289)
+"Biotin carboxylase, N-terminal domain"</title>
+				<rect class="PF00289" x="990" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(59,114,187)" stroke="rgb(47,91,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP2
+putative methyl malonyl Co-A decarboxylase</title>
+			<polygon class="schP2
+putative methyl malonyl Co-A decarboxylase" points="1063,25 1041,25 1041,10 1011,40 1041,70 1041,55 1063,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="1015,40 1027,28 1059,28 1059,52 1027,52" stroke-linejoin="round" width="48" height="24" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS1
+putative dNDP-hexose 3-ketoreductase</title>
+			<polygon class="schS1
+putative dNDP-hexose 3-ketoreductase" points="1121,25 1117,25 1117,10 1087,40 1117,70 1117,55 1121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="1109" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS2
+putative NDP-hexose 2, 3-dehydratase</title>
+			<polygon class="schS2
+putative NDP-hexose 2, 3-dehydratase" points="1168,25 1152,25 1152,10 1122,40 1152,70 1152,55 1168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<polygon class="PF03559" points="1126,40 1138,28 1142,28 1142,52 1138,52" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<rect class="PF03559" x="1144" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS3
+putative NDP-hexose 3-dehydratase</title>
+			<polygon class="schS3
+putative NDP-hexose 3-dehydratase" points="1248,25 1235,25 1235,10 1205,40 1235,70 1235,55 1248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="1209,40 1221,28 1243,28 1243,52 1221,52" stroke-linejoin="round" width="38" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS4
+putative NDP-hexose 4-keto reductase</title>
+			<polygon class="schS4
+putative NDP-hexose 4-keto reductase" points="1281,25 1279,25 1279,10 1249,40 1279,70 1279,55 1281,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="1257,36 1265,28 1280,28 1280,52 1265,52 1257,44" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS5
+putative dNDP-glucose 4, 6-dehydratase</title>
+			<polygon class="schS5
+putative dNDP-glucose 4, 6-dehydratase" points="1314,25 1312,25 1312,10 1282,40 1312,70 1312,55 1314,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="1286,40 1298,28 1314,28 1314,52 1298,52" stroke-linejoin="round" width="30" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS6
+putative dNDP-glucose synthetase</title>
+			<polygon class="schS6
+putative dNDP-glucose synthetase" points="1349,25 1344,25 1344,10 1314,40 1344,70 1344,55 1349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="1325,33 1330,28 1348,28 1348,52 1330,52 1325,47" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS7
+putative C-glycosyltransferase</title>
+			<polygon class="schS7
+putative C-glycosyltransferase" points="1390,25 1383,25 1383,10 1353,40 1383,70 1383,55 1390,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="1364,33 1369,28 1373,28 1373,52 1369,52 1364,47" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS8
+putative NDP-hexose 3, 5-epimerase</title>
+			<polygon class="schS8
+putative NDP-hexose 3, 5-epimerase" points="1391,40 1410,10 1410,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="1395,40 1403,28 1410,28 1410,52 1403,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS9
+putative O-glycosyltransferase</title>
+			<polygon class="schS9
+putative O-glycosyltransferase" points="1451,25 1442,25 1442,10 1412,40 1442,70 1442,55 1451,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="1423,33 1428,28 1432,28 1432,52 1428,52 1423,47" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schS10
+putative O-glycosyltransferase</title>
+			<polygon class="schS10
+putative O-glycosyltransferase" points="1496,25 1483,25 1483,10 1453,40 1483,70 1483,55 1496,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="1464,33 1469,28 1473,28 1473,52 1469,52 1464,47" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA20
+putative transporter</title>
+			<polygon class="schA20
+putative transporter" points="1537,25 1527,25 1527,10 1497,40 1527,70 1527,55 1537,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="1501,40 1513,28 1535,28 1535,52 1513,52 1501,40" stroke-linejoin="round" width="34" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP3
+putative oxidase-reducatse</title>
+			<polygon class="schP3
+putative oxidase-reducatse" points="1602,25 1572,25 1572,10 1542,40 1572,70 1572,55 1602,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="1546,40 1558,28 1565,28 1565,52 1558,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="1574" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="1586" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP4
+putative aromatase</title>
+			<polygon class="schP4
+putative aromatase" points="1639,25 1638,25 1638,10 1608,40 1638,70 1638,55 1639,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="1624,28 1624,28 1638,28 1638,52 1624,52 1624,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP5
+putative ketoreducatse</title>
+			<polygon class="schP5
+putative ketoreducatse" points="1641,40 1667,10 1667,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="1646,39 1656,28 1665,28 1665,52 1656,52 1646,41" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP6
+putative acyl carrier protein</title>
+			<polygon class="schP6
+putative acyl carrier protein" points="1668,40 1677,10 1677,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="1671,40 1675,28 1676,28 1676,52 1675,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP7
+putative chain length factor</title>
+			<polygon class="schP7
+putative chain length factor" points="1719,25 1709,25 1709,10 1679,40 1709,70 1709,55 1719,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="1683,40 1694,29 1694,51 1683,40" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<polygon class="PF00109" points="1695,28 1695,28 1719,28 1719,52 1695,52 1695,52" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP8
+putative ketoacyl synthase</title>
+			<polygon class="schP8
+putative ketoacyl synthase" points="1762,25 1750,25 1750,10 1720,40 1750,70 1750,55 1762,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="1725,39 1736,28 1736,28 1736,52 1736,52 1725,41" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="1737" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP9
+putative cyclase</title>
+			<polygon class="schP9
+putative cyclase" points="1763,40 1773,10 1773,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="1766,40 1770,28 1773,28 1773,52 1770,52" stroke-linejoin="round" width="10" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP10
+putative oxygenase</title>
+			<polygon class="schP10
+putative oxygenase" points="1825,25 1806,25 1806,10 1776,40 1806,70 1806,55 1825,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="1792,28 1792,28 1825,28 1825,52 1792,52 1792,52" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schP11
+unknown</title>
+			<polygon class="schP11
+unknown" points="1833,40 1862,10 1862,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>schA21
+putative tetR-family regulatory protein</title>
+			<polygon class="schA21
+putative tetR-family regulatory protein" points="1867,40 1892,10 1892,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_1 (PF02909)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF02909" points="1871,40 1881,28 1881,28 1881,52 1881,52" stroke-linejoin="round" width="14" height="24" fill="rgb(151,203,75)" stroke="rgb(120,162,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="1883" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1896,10 1916,40 1896,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMN_red (PF03358)
+"NADPH-dependent FMN reductase"</title>
+				<polygon class="PF03358" points="1896,28 1904,28 1910,37 1910,43 1904,52 1896,52" stroke-linejoin="round" width="14" height="24" fill="rgb(90,228,61)" stroke="rgb(72,182,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA23
+putative transporter</title>
+			<polygon class="schA23
+putative transporter" points="1916,25 1938,25 1938,10 1968,40 1938,70 1938,55 1916,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="1919,28 1952,28 1958,34 1958,46 1952,52 1919,52" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA24
+putative oxidoreducatse</title>
+			<polygon class="schA24
+putative oxidoreducatse" points="1972,25 1979,25 1979,10 2009,40 1979,70 1979,55 1972,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_FMN (PF00724)
+"NADH:flavin oxidoreductase / NADH oxidase family"</title>
+				<polygon class="PF00724" points="1973,28 1993,28 2005,40 1993,52 1973,52" stroke-linejoin="round" width="34" height="24" fill="rgb(157,188,65)" stroke="rgb(125,150,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA25
+putative repressor-response regulator</title>
+			<polygon class="schA25
+putative repressor-response regulator" points="2018,10 2046,40 2018,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="2024,28 2030,28 2034,32 2034,48 2030,52 2024,52" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="2038,36 2042,40 2038,44" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA26
+putative oxidoreducatse</title>
+			<polygon class="schA26
+putative oxidoreducatse" points="2140,25 2117,25 2117,10 2087,40 2117,70 2117,55 2140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BBE (PF08031)
+"Berberine and berberine like"</title>
+				<polygon class="PF08031" points="2091,40 2092,39 2092,41" stroke-linejoin="round" width="5" height="24" fill="rgb(210,73,83)" stroke="rgb(168,58,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="2119" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA27
+putative transcriptional regulator</title>
+			<polygon class="schA27
+putative transcriptional regulator" points="2150,40 2175,10 2175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IclR (PF01614)
+"Bacterial transcriptional regulator"</title>
+				<polygon class="PF01614" points="2154,40 2162,30 2162,50" stroke-linejoin="round" width="12" height="24" fill="rgb(58,93,180)" stroke="rgb(46,74,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_IclR (PF09339)
+"IclR helix-turn-helix domain"</title>
+				<rect class="PF09339" x="2169" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(135,102,222)" stroke="rgb(108,81,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA28
+putative 3-Oxoacyl carrier protein reducatse</title>
+			<polygon class="schA28
+putative 3-Oxoacyl carrier protein reducatse" points="2209,10 2229,40 2209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="2209,28 2217,28 2224,38 2224,42 2217,52 2209,52" stroke-linejoin="round" width="15" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="2229,10 2258,40 2229,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_2 (PF04909)
+"Amidohydrolase"</title>
+				<polygon class="PF04909" points="2230,28 2242,28 2254,40 2242,52 2230,52" stroke-linejoin="round" width="27" height="24" fill="rgb(95,225,123)" stroke="rgb(76,180,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA30
+feruloyl-CoA synthetase</title>
+			<polygon class="schA30
+feruloyl-CoA synthetase" points="2260,25 2281,25 2281,10 2311,40 2281,70 2281,55 2260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="2261,28 2295,28 2300,33 2300,47 2295,52 2261,52" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="2301,34 2307,40 2301,46" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA31
+phenyl acetic acid responsive transcriptional repressor</title>
+			<polygon class="schA31
+phenyl acetic acid responsive transcriptional repressor" points="2329,40 2355,10 2355,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PaaX_C (PF08223)
+"PaaX-like protein C-terminal domain"</title>
+				<polygon class="PF08223" points="2333,40 2339,33 2339,47" stroke-linejoin="round" width="9" height="24" fill="rgb(110,217,80)" stroke="rgb(87,173,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PaaX (PF07848)
+"PaaX-like protein"</title>
+				<rect class="PF07848" x="2348" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(208,67,203)" stroke="rgb(166,53,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="2414,25 2389,25 2389,10 2359,40 2389,70 2389,55 2414,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>schA33
+putative secreted protein</title>
+			<polygon class="schA33
+putative secreted protein" points="2471,25 2446,25 2446,10 2416,40 2446,70 2446,55 2471,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Laminin_G_3 (PF13385)
+"Concanavalin A-like lectin/glucanases superfamily"</title>
+				<polygon class="PF13385" points="2420,40 2432,28 2433,28 2433,52 2432,52" stroke-linejoin="round" width="17" height="24" fill="rgb(93,162,213)" stroke="rgb(74,129,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>schA34
+beta-galactosidae</title>
+			<polygon class="schA34
+beta-galactosidae" points="2579,25 2512,25 2512,10 2482,40 2512,70 2512,55 2579,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bgal_small_N (PF02929)
+"Beta galactosidase small chain"</title>
+				<polygon class="PF02929" points="2486,40 2498,28 2506,28 2506,52 2498,52" stroke-linejoin="round" width="24" height="24" fill="rgb(180,83,167)" stroke="rgb(144,66,133)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LacZ_4 (PF16353)
+"Beta-galactosidase, domain 4"</title>
+				<rect class="PF16353" x="2508" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(198,111,90)" stroke="rgb(158,88,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_2_C (PF02836)
+"Glycosyl hydrolases family 2, TIM barrel domain"</title>
+				<rect class="PF02836" x="2518" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(92,103,201)" stroke="rgb(73,82,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_2 (PF00703)
+"Glycosyl hydrolases family 2"</title>
+				<rect class="PF00703" x="2548" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(199,91,180)" stroke="rgb(159,72,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_2_N (PF02837)
+"Glycosyl hydrolases family 2, sugar binding domain"</title>
+				<rect class="PF02837" x="2559" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(159,68,216)" stroke="rgb(127,54,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

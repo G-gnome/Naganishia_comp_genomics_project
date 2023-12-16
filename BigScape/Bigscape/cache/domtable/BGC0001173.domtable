@@ -1,0 +1,30 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_23      PF13489.9    165 BGC0001173_ORF1:gid::pid:EDW22947.1:loc:0:804:strand:- -            267   1.2e-13   51.3   0.0   1   1   5.8e-17   1.6e-13   50.9   0.0    17   125    56   175    31   203 0.82 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001173_ORF1:gid::pid:EDW22947.1:loc:0:804:strand:- -            267   1.1e-12   48.6   0.0   1   1     2e-15   5.6e-12   46.3   0.0     1    88    63   144    63   152 0.89 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001173_ORF1:gid::pid:EDW22947.1:loc:0:804:strand:- -            267   5.6e-12   45.8   0.1   1   1   2.8e-15   7.7e-12   45.4   0.1     4   127    60   177    57   215 0.81 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001173_ORF1:gid::pid:EDW22947.1:loc:0:804:strand:- -            267   2.4e-10   41.2   0.0   1   1   1.8e-13   5.1e-10   40.1   0.0     1    95    64   151    64   155 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001173_ORF1:gid::pid:EDW22947.1:loc:0:804:strand:- -            267   6.3e-10   39.7   0.0   1   1   3.7e-13     1e-09   39.0   0.0     1    89    64   150    64   157 0.90 Methyltransferase domain
+MetW                 PF07021.15   193 BGC0001173_ORF1:gid::pid:EDW22947.1:loc:0:804:strand:- -            267   8.6e-06   25.6   0.0   1   1   7.3e-09     2e-05   24.4   0.0    16    99    62   146    52   157 0.84 Methionine biosynthesis protein MetW
+Rce1-like            PF02517.19    92 BGC0001173_ORF2:gid::pid:EDW23292.1:loc:832:1504:strand:- -            223   5.5e-10   39.6  15.5   1   1   1.1e-13   2.1e-09   37.8  13.7     9    91   114   198    80   199 0.89 Type II CAAX prenyl endopeptidase Rce1-like
+Nitroreductase       PF00881.27   168 BGC0001173_ORF3:gid::pid:EDW23125.1:loc:1508:2318:strand:- -            269   1.1e-12   48.6   0.0   1   1   9.8e-17   1.9e-12   47.7   0.0     1   152    90   251    90   268 0.88 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0001173_ORF4:gid::pid:EDW22903.1:loc:2342:3689:strand:- -            448   6.3e-62  209.9   0.0   1   1     4e-66   7.9e-62  209.6   0.0     2   321    65   404    64   405 0.91 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Pentapeptide_4       PF13599.9     78 BGC0001173_ORF8:gid::pid:EDW23486.1:loc:6277:6997:strand:- -            239   1.5e-20   73.3  10.6   1   2   2.2e-13   1.4e-09   38.2   2.3     2    73    95   166    84   172 0.91 Pentapeptide repeats (9 copies)
+Pentapeptide_4       PF13599.9     78 BGC0001173_ORF8:gid::pid:EDW23486.1:loc:6277:6997:strand:- -            239   1.5e-20   73.3  10.6   2   2     3e-14     2e-10   40.9   1.2     1    69   164   232   164   238 0.89 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.25    40 BGC0001173_ORF8:gid::pid:EDW23486.1:loc:6277:6997:strand:- -            239   1.8e-12   46.8   0.2   1   1   4.4e-08   0.00029   20.5   0.1     3    34   176   207   174   216 0.85 Pentapeptide repeats (8 copies)
+ABC2_membrane        PF01061.27   210 BGC0001173_ORF9:gid::pid:EDW23538.1:loc:7141:7888:strand:- -            248   4.1e-21   75.5  19.6   1   1   4.1e-25   4.1e-21   75.5  19.6     6   207     4   206     1   208 0.86 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0001173_ORF9:gid::pid:EDW23538.1:loc:7141:7888:strand:- -            248   1.1e-18   67.6  21.2   1   1   1.2e-22   1.1e-18   67.6  21.2   160   345    49   236    41   237 0.87 ABC-2 family transporter protein
+ABC_tran             PF00005.30   137 BGC0001173_ORF10:gid::pid:EDW22956.1:loc:8150:9044:strand:- -            297   1.1e-28  100.5   0.0   1   1   4.2e-32   4.2e-28   98.7   0.0     1   136    17   152    17   153 0.97 ABC transporter
+AAA_21               PF13304.9    304 BGC0001173_ORF10:gid::pid:EDW22956.1:loc:8150:9044:strand:- -            297   4.6e-15   56.3   0.1   1   1   1.9e-10   1.9e-06   28.0   0.0   236   298   123   182   116   188 0.94 AAA domain, putative AbiEii toxin, Type IV TA system
+HTH_34               PF13601.9     80 BGC0001173_ORF11:gid::pid:EDW22796.1:loc:9065:9290:strand:- -             74     2e-20   72.8   0.0   1   1   1.1e-24   2.1e-20   72.7   0.0    13    79     4    70     1    71 0.95 Winged helix DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001173.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001173.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001173.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:44:17 2023
+# [ok]

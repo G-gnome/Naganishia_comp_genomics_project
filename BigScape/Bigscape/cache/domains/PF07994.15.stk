@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+BGC0000315_ORF34:gid:SCO3243:pid:CAB38887.1:loc:75178:76345:strand:-:3:382         TGIWLVGARGSVATTTVVGAAALRAGLVPAT----------GCVSALEAFDG-----------------VPLPGFDELVFGGHDVVGTGLVKRAEQlaeAGVVPRGLPGVLTAELDAADAE--------IRPAPPGTEEGGDGTPDQASAAGAIVADLTGFRERLGLDRVVVVNVSSTQPPAVPHPA-HASAAALREALA
+#=GR BGC0000315_ORF34:gid:SCO3243:pid:CAB38887.1:loc:75178:76345:strand:-:3:382 PP 69*****************************..........******99988.................9*******************9998888777******************9555........88899999999988889*****************************************.************
+BGC0002078_ORF30:gid::pid:QEO75005.1:loc:70625:71777:strand:+:3:374                TGVWLIGARGSLATTVACGLPALRRGLVPPT----------GCVTAA--LALGEV----------------FPDWDDLVLGGHDIVATPLEKRAEQlvgDGVVPQHVFAAVRPELADVERA--------LRPGYDPLTW---PG-SQADAVARLAADIEEFRAGHGLDRVVVVNVSSTEAPVAPRPE-HADLTALDRALA
+#=GR BGC0002078_ORF30:gid::pid:QEO75005.1:loc:70625:71777:strand:+:3:374        PP 69*****************************..........***976..566655................589*******************9999999******************443........3333333333...33.48999*************************************.************
+BGC0002079_ORF32:gid::pid:QEO75099.1:loc:70489:71617:strand:+:3:373                TGVWLIGARGSLAATVACGLLGLQAGLVAPT----------GCVTS--TLDL-SD---------------SFPDWDDLVLGGHDIVSKSLEKRAEQlveGGVLPLRVYSAVRGELAAVERS--------LRPGYDPLTWQG----SQADAVARLAADIEEFRTEHGLARVVVVNVSSTEPPVAGRPE-HTDLTALNWALA
+#=GR BGC0002079_ORF32:gid::pid:QEO75099.1:loc:70489:71617:strand:+:3:373        PP 69*****************************..........***85..6677.22...............489*****************9998887779*****************9443........455555555555....4788999***********************************.************
+#=GC PP_cons                                                                       69*****************************..........***97898777633..............9789*****************999998...9*****************9444........556666665577866868999*************************************.************
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000315_ORF34:gid:SCO3243:pid:CAB38887.1:loc:75178:76345:strand:-:3:382         RGERP.LPVSSLYAYAALRAGCAFVDFTPSTGArLPALDELAREQGLPYAGSDGKTgetlvksvlapmfarralrvrswsgtnllgggdgatladpervvsknaskglvleaelghaveggvhihhvpdlgewktawdhvtfegflgarmtlqftwqgcdsSLAAPLVLDLARFMALAHRAGVA-----------GPVPE
+#=GR BGC0000315_ORF34:gid:SCO3243:pid:CAB38887.1:loc:75178:76345:strand:-:3:382 PP *****.**********************************************************************************************************************************************************************************...........*****
+BGC0002078_ORF30:gid::pid:QEO75005.1:loc:70625:71777:strand:+:3:374                DPRDLvLPPSSVAAYAAVRAGCGYVDFTPSTGIrLPALTELARRAGLPFAGSDGKTgqtlvrsvlapmfaarglrvhswagtnllgggdgaslaapdraaaklask....agvlaadidaplhidnvpslgerkiawdhvafegflgarmslqftwdgydsALAAPLVLDLARLVAGAHAVGET-----------GPLSQ
+#=GR BGC0002078_ORF30:gid::pid:QEO75005.1:loc:70625:71777:strand:+:3:374        PP *999989***************************************************************************************************....************************************************************************99...........*****
+BGC0002079_ORF32:gid::pid:QEO75099.1:loc:70489:71617:strand:+:3:373                AHTDV.LPPSSIAAYAAIEAGCSYVDFTPSTGIrLPALTDLAARKGLPYAGSDGKTgqtlvrsvlapmfaaralrveswagtnllgggdgaslgepdraaaklask....arvldpdvvaplhidnvpslgerkvawdhvtfagflgarmslqltwdgydsALAAPLVLDLARLVAGAHAAGEA-----------GPLGA
+#=GR BGC0002079_ORF32:gid::pid:QEO75099.1:loc:70489:71617:strand:+:3:373        PP *8888.****************************************************************************************************....************************************************************************99...........*****
+#=GC PP_cons                                                                       *9999.***************************.**********************.........................................................................................................**********************9...........*****
+#=GC RF                                                                            xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.........................................................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000315_ORF34:gid:SCO3243:pid:CAB38887.1:loc:75178:76345:strand:-:3:382         LGFFFKDPVGS----AEHDLAAQYASLAAWAR..
+#=GR BGC0000315_ORF34:gid:SCO3243:pid:CAB38887.1:loc:75178:76345:strand:-:3:382 PP ***********....9************9998..
+BGC0002078_ORF30:gid::pid:QEO75005.1:loc:70625:71777:strand:+:3:374                LGFFFKDPLDS----AEHNLFAQARALAEW--ae
+#=GR BGC0002078_ORF30:gid::pid:QEO75005.1:loc:70625:71777:strand:+:3:374        PP ***********....9***********988..69
+BGC0002079_ORF32:gid::pid:QEO75099.1:loc:70489:71617:strand:+:3:373                LAFFFKDPLGS----DEHGLMEQARTLTDW--ae
+#=GR BGC0002079_ORF32:gid::pid:QEO75099.1:loc:70489:71617:strand:+:3:373        PP ***********....99********99988..69
+#=GC PP_cons                                                                       ***********....99**********99898..
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

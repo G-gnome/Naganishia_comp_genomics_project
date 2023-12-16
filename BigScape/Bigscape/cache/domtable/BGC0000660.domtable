@@ -1,0 +1,15 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.3    199 BGC0000660_ORF1:gid:SCO5222:pid:CAB94607.1:loc:0:1086:strand:+ -            361   2.8e-36  125.4   0.0   1   1   1.9e-40   3.8e-36  124.9   0.0     1   198    90   285    90   286 0.88 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0000660_ORF2:gid:SCO5223:pid:CAB94608.1:loc:1082:2468:strand:+ -            461   5.5e-70  236.5   0.0   1   1   3.4e-74   6.6e-70  236.2   0.0     6   438    30   436    24   453 0.91 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000660.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000660.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000660.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:26:02 2023
+# [ok]

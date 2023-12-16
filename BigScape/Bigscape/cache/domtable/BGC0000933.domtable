@@ -1,0 +1,18 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0000933_ORF1:gid::pid:AGY49247.1:loc:0:1563:strand:+ -            520   4.3e-61  206.9   0.1   1   1     7e-65   6.9e-61  206.3   0.1     6   420    24   394    17   398 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000933_ORF1:gid::pid:AGY49247.1:loc:0:1563:strand:+ -            520   9.9e-12   45.8   0.0   1   1   2.9e-15   2.9e-11   44.3   0.0     1    76   406   492   406   492 0.86 AMP-binding enzyme C-terminal domain
+UbiA                 PF01040.21   251 BGC0000933_ORF2:gid::pid:AGY49248.1:loc:1787:2729:strand:+ -            313   6.3e-58  196.2  28.2   1   1     4e-62   7.9e-58  195.8  28.2     2   249    53   301    52   303 0.95 UbiA prenyltransferase family
+SnoaL_2              PF12680.10   102 BGC0000933_ORF5:gid::pid:AGY49249.1:loc:4814:5189:strand:+ -            124   5.5e-07   30.3   1.0   1   1   6.4e-11   6.2e-07   30.1   1.0    10   100    20   113     9   115 0.88 SnoaL-like domain
+SnoaL_4              PF13577.9    126 BGC0000933_ORF5:gid::pid:AGY49249.1:loc:4814:5189:strand:+ -            124     2e-05   24.8   0.2   1   1     3e-09   2.9e-05   24.2   0.2    12    77     8    76     5   124 0.73 SnoaL-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000933.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000933.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000933.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:52:07 2023
+# [ok]

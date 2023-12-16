@@ -1,0 +1,20 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.20   256 BGC0000640_ORF1:gid:crtE:pid:AAZ73133.1:loc:2399:3305:strand:+ -            301   4.3e-41  140.8   0.0   1   1   2.7e-45   5.3e-41  140.5   0.0     5   241    40   270    36   280 0.83 Polyprenyl synthetase
+FMN_dh               PF01070.21   348 BGC0000640_ORF2:gid:idi:pid:AAZ73134.1:loc:3342:4392:strand:+ -            349   3.6e-27   95.4   5.5   1   2   1.8e-12   3.5e-08   33.0   0.0    16   106    17   108     3   139 0.85 FMN-dependent dehydrogenase
+FMN_dh               PF01070.21   348 BGC0000640_ORF2:gid:idi:pid:AAZ73134.1:loc:3342:4392:strand:+ -            349   3.6e-27   95.4   5.5   2   2   5.1e-21     1e-16   61.1   4.9   206   344   178   338   162   341 0.93 FMN-dependent dehydrogenase
+Lycopene_cycl        PF05834.15   380 BGC0000640_ORF3:gid:crtY:pid:AAZ73135.1:loc:4423:5593:strand:+ -            389   2.1e-91  307.0   0.0   1   1   1.2e-95   2.4e-91  306.8   0.0     1   376     5   371     5   375 0.98 Lycopene cyclase protein
+Amino_oxidase        PF01593.27   452 BGC0000640_ORF4:gid:crtI:pid:AAZ73136.1:loc:5589:7068:strand:+ -            492   3.4e-43  148.7   0.2   1   1   1.1e-46   5.4e-43  148.0   0.2     2   452    12   488    11   488 0.85 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000640_ORF4:gid:crtI:pid:AAZ73136.1:loc:5589:7068:strand:+ -            492   1.5e-13   50.9   0.2   1   1   1.2e-16   5.8e-13   49.0   0.1     1    63     6    68     6    72 0.93 NAD(P)-binding Rossmann-like domain
+SQS_PSY              PF00494.22   263 BGC0000640_ORF5:gid:crtB:pid:AAZ73137.1:loc:7067:7994:strand:+ -            308   3.2e-64  217.1   5.8   1   1     2e-68     4e-64  216.8   5.8     2   254    14   268    13   277 0.93 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000640.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000640.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000640.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:31:47 2023
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0000549_ORF1:gid:slvF:pid:AEX55154.1:loc:0:675:strand:+ -            224   2.3e-26   93.1   0.1   1   1   4.6e-30   4.6e-26   92.1   0.1     1   137    18   152    18   152 0.88 ABC transporter
+AAA_21               PF13304.9    304 BGC0000549_ORF1:gid:slvF:pid:AEX55154.1:loc:0:675:strand:+ -            224   2.9e-14   53.7   2.2   1   1   1.6e-13   1.6e-09   38.1   0.0   234   303   120   186    86   187 0.89 AAA domain, putative AbiEii toxin, Type IV TA system
+DUF772               PF05598.14    73 BGC0000549_ORF4:gid::pid:AEX55157.1:loc:2820:3705:strand:+ -            294   2.9e-12   46.5   0.2   1   1   1.5e-15   1.5e-11   44.3   0.2     1    71    26    91    26    96 0.89 Transposase domain (DUF772)
+DDE_Tnp_1            PF01609.24   214 BGC0000549_ORF4:gid::pid:AEX55157.1:loc:2820:3705:strand:+ -            294   7.2e-08   32.5   0.0   1   1   1.4e-11   1.4e-07   31.5   0.0    21   100   212   293   107   294 0.77 Transposase DDE domain
+HisKA                PF00512.28    67 BGC0000549_ORF5:gid:slvK:pid:AEX55158.1:loc:4382:5720:strand:- -            445   4.4e-10   39.6   0.1   1   1   1.5e-13   1.5e-09   37.9   0.0     6    64   232   289   227   292 0.91 His Kinase A (phospho-acceptor) domain
+HATPase_c            PF02518.29   112 BGC0000549_ORF5:gid:slvK:pid:AEX55158.1:loc:4382:5720:strand:- -            445   2.8e-08   34.4   0.0   1   1     5e-12   4.9e-08   33.6   0.0     4   109   339   444   336   445 0.87 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Response_reg         PF00072.27   112 BGC0000549_ORF6:gid:slvR:pid:AEX55159.1:loc:5712:6399:strand:- -            228   1.8e-23   83.0   1.0   1   1   2.7e-27   2.6e-23   82.4   1.0     1   111     4   112     4   113 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0000549_ORF6:gid:slvR:pid:AEX55159.1:loc:5712:6399:strand:- -            228   1.1e-17   64.0   0.1   1   1   2.6e-21   2.6e-17   62.8   0.0     1    76   152   225   152   226 0.96 Transcriptional regulatory protein, C terminal
+Peptidase_S8         PF00082.25   284 BGC0000549_ORF7:gid:slvP:pid:AEX55163.1:loc:6373:7990:strand:- -            538   1.9e-45  155.5   0.3   1   1   1.6e-49   3.1e-45  154.7   0.3     1   269   118   413   118   432 0.88 Subtilase family
+Spa1_C               PF18218.4     99 BGC0000549_ORF8:gid:slvI:pid:AEX55162.1:loc:7991:8726:strand:- -            244     1e-25   90.1   9.6   1   1   6.6e-25   1.3e-20   73.8   3.5     1    99   143   240   143   240 0.95 Lantibiotic immunity protein Spa1 C-terminal domain
+LANC_like            PF05147.16   352 BGC0000549_ORF9:gid:slvC:pid:AEX55161.1:loc:8738:9959:strand:- -            406   2.5e-61  207.4   8.9   1   1   1.6e-65   3.1e-61  207.0   8.9     2   351    30   399    29   400 0.90 Lanthionine synthetase C-like protein
+ABC_tran             PF00005.30   137 BGC0000549_ORF10:gid:slvT:pid:AEX55160.1:loc:9915:11754:strand:- -            612   9.7e-34  117.0   0.0   1   1   1.1e-37   2.2e-33  115.8   0.0     1   136   369   522   369   523 0.94 ABC transporter
+Lant_dehydr_N        PF04738.16   650 BGC0000549_ORF11:gid:slvB:pid:AEX55164.1:loc:11763:14718:strand:- -            984   6.2e-89  298.9   0.0   1   1   8.1e-93     8e-89  298.5   0.0     2   644    37   655    36   660 0.91 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000549_ORF11:gid:slvB:pid:AEX55164.1:loc:11763:14718:strand:- -            984   4.8e-24   85.7   0.0   1   1   2.6e-25   2.6e-21   76.7   0.0     1   286   732   976   732   977 0.78 Lantibiotic biosynthesis dehydratase C-term
+Gallidermin          PF02052.18    52 BGC0000549_ORF13:gid:slvD:pid:AEX55166.1:loc:15139:15313:strand:- -             57   6.2e-07   29.8   0.1   1   1   4.3e-11   8.4e-07   29.4   0.1    11    42     6    35     2    39 0.82 Gallidermin
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000549.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000549.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000549.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:19:33 2023
+# [ok]

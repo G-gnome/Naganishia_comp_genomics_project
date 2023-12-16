@@ -1,0 +1,37 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LytR_cpsA_psr        PF03816.17   152 BGC0000765_ORF1:gid::pid:ABM21381.1:loc:457:1462:strand:+ -            334   8.6e-46  156.0   0.3   1   1   9.1e-50   1.8e-45  155.0   0.1     1   150   100   245   100   247 0.94 LytR_cpsA_psr family
+Wzz                  PF02706.18    92 BGC0000765_ORF2:gid::pid:ABM21382.1:loc:1468:2332:strand:+ -            287   2.1e-17   63.3   0.6   1   1   1.1e-21   2.1e-17   63.3   0.6     1    89     9    98     9   101 0.89 Chain length determinant protein
+AAA_31               PF13614.9    177 BGC0000765_ORF3:gid::pid:ABM21383.1:loc:2342:3098:strand:+ -            251   1.3e-15   57.8   0.6   1   1   1.7e-18   8.5e-15   55.2   0.5    13   170    64   218    52   226 0.81 AAA domain
+ParA                 PF10609.12   246 BGC0000765_ORF3:gid::pid:ABM21383.1:loc:2342:3098:strand:+ -            251   2.7e-11   43.5   2.9   1   1   1.2e-14   5.7e-11   42.4   2.9    16   173    65   225    52   230 0.75 NUBPL iron-transfer P-loop NTPase
+CbiA                 PF01656.26   127 BGC0000765_ORF3:gid::pid:ABM21383.1:loc:2342:3098:strand:+ -            251   6.7e-10   39.2   0.1   1   1   2.1e-13     1e-09   38.6   0.1     9    84    63   228    55   232 0.83 CobQ/CobB/MinD/ParA nucleotide binding domain
+MipZ                 PF09140.14   262 BGC0000765_ORF3:gid::pid:ABM21383.1:loc:2342:3098:strand:+ -            251   3.6e-05   23.3   0.1   1   1   1.8e-08   8.7e-05   22.1   0.1    12    55    64   109    55   199 0.60 ATPase MipZ
+CpsB_CapC            PF19567.2    234 BGC0000765_ORF4:gid::pid:ABM21384.1:loc:3104:3875:strand:+ -            256   7.2e-46  156.6   0.0   1   1   4.2e-50   8.2e-46  156.4   0.0     2   233     4   235     3   236 0.97 Capsular polysaccharide synthesis, CpsB/CapC
+Bac_transf           PF02397.19   184 BGC0000765_ORF5:gid::pid:ABM21385.1:loc:3902:4562:strand:+ -            219   7.7e-72  240.9   0.0   1   1   4.5e-76   8.9e-72  240.7   0.0     1   183    26   213    26   214 0.94 Bacterial sugar transferase
+Alg14                PF08660.14   175 BGC0000765_ORF6:gid::pid:ABM21386.1:loc:4580:5030:strand:+ -            149   5.4e-16   59.2   0.0   1   1     5e-19   9.9e-15   55.0   0.0    78   174    60   147    53   148 0.91 Oligosaccharide biosynthesis protein Alg14 like
+Glyco_tran_28_C      PF04101.19   167 BGC0000765_ORF7:gid::pid:ABM21387.1:loc:5039:5540:strand:+ -            166   7.3e-24   84.8   0.3   1   1   4.4e-28   8.7e-24   84.5   0.3     1   143     1   136     1   162 0.84 Glycosyltransferase family 28 C-terminal domain
+Gly_transf_sug       PF04488.18    98 BGC0000765_ORF8:gid::pid:ABM21388.1:loc:5540:6266:strand:+ -            241   1.2e-13   51.6   1.2   1   1   1.9e-17   1.2e-13   51.6   1.2     2    94    19    98    18   102 0.81 Glycosyltransferase sugar-binding region containing DXD motif
+Caps_synth           PF05704.15   278 BGC0000765_ORF8:gid::pid:ABM21388.1:loc:5540:6266:strand:+ -            241   2.4e-12   47.0   4.3   1   1   6.7e-16   4.4e-12   46.1   4.0    47   156     4   108     1   179 0.79 Capsular polysaccharide synthesis protein
+Glycos_transf_2      PF00535.29   170 BGC0000765_ORF9:gid::pid:ABM21389.1:loc:6258:7164:strand:+ -            301   3.7e-18   66.0   0.3   1   1   4.6e-22   9.1e-18   64.8   0.2     1   130    11   139    11   172 0.90 Glycosyl transferase family 2
+Glycos_transf_2      PF00535.29   170 BGC0000765_ORF10:gid::pid:ABM21390.1:loc:7177:8200:strand:+ -            340   7.9e-25   87.7   0.3   1   1     8e-29   7.9e-25   87.7   0.3     3   130     2   128     1   158 0.86 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0000765_ORF10:gid::pid:ABM21390.1:loc:7177:8200:strand:+ -            340   1.4e-11   44.5   9.8   1   1   3.1e-15   3.1e-11   43.4   9.8     2   273     1   264     1   266 0.70 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.29   170 BGC0000765_ORF11:gid::pid:ABM21391.1:loc:8222:9251:strand:+ -            342   2.1e-34  118.9   0.6   1   1   5.2e-38   3.4e-34  118.2   0.6     1   167     6   174     6   177 0.95 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0000765_ORF11:gid::pid:ABM21391.1:loc:8222:9251:strand:+ -            342     1e-09   38.7   0.0   1   1     2e-13   1.3e-09   38.4   0.0     1   116     3   111     2   156 0.89 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0000765_ORF11:gid::pid:ABM21391.1:loc:8222:9251:strand:+ -            342     1e-07   31.8   0.0   1   1   3.1e-11     2e-07   30.9   0.0     1   112     6   113     6   125 0.84 Glycosyltransferase like family 2
+GLF                  PF03275.16   204 BGC0000765_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+ -            368   5.9e-89  297.3  11.1   1   1   1.2e-92   5.9e-89  297.3  11.1     1   204   146   350   146   350 0.98 UDP-galactopyranose mutase
+NAD_binding_8        PF13450.9     68 BGC0000765_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+ -            368   1.1e-19   70.5   0.1   1   1   4.6e-23   2.3e-19   69.5   0.1     1    68     6    72     6    72 0.97 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.27   452 BGC0000765_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+ -            368   1.3e-06   28.1   0.0   1   1   4.3e-10   2.1e-06   27.4   0.0     7   229    17   213    13   215 0.77 Flavin containing amine oxidoreductase
+Pyr_redox            PF00070.30    81 BGC0000765_ORF12:gid::pid:ABM21392.1:loc:9252:10359:strand:+ -            368   3.4e-06   27.6   0.4   1   1   1.7e-08   8.4e-05   23.1   0.1     3    41     5    44     3    52 0.88 Pyridine nucleotide-disulphide oxidoreductase
+Acyl_transf_3        PF01757.25   340 BGC0000765_ORF14:gid::pid:ABM21394.1:loc:12986:14003:strand:+ -            338   2.1e-21   76.5  46.0   1   1   1.3e-25   2.6e-21   76.2  46.0     2   332     9   323     8   329 0.77 Acyltransferase family
+RVT_1                PF00078.30   222 BGC0000765_ORF15:gid::pid:ABM21395.1:loc:16757:18083:strand:+ -            441   7.5e-14   51.9   1.7   1   1   3.9e-15   7.6e-11   42.1   0.1   122   222   225   347   200   347 0.88 Reverse transcriptase (RNA-dependent DNA polymerase)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000765.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000765.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000765.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:49:46 2023
+# [ok]

@@ -1,0 +1,38 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1517.3   0.0   1   7   4.5e-64   2.2e-60  204.6   0.0     5   424    53   451    49   451 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1517.3   0.0   2   7   1.5e-82   7.3e-79  265.5   0.0     5   424  1577  1967  1573  1967 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1517.3   0.0   3   7   1.1e-74   5.6e-71  239.5   0.0     5   424  2652  3051  2649  3051 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1517.3   0.0   4   7     3e-71   1.5e-67  228.2   0.0     5   423  3736  4131  3733  4132 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1517.3   0.0   5   7   1.1e-69   5.3e-66  223.1   0.0     9   424  5289  5676  5286  5676 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1517.3   0.0   6   7   6.3e-45   3.1e-41  141.5   0.0     4   423  6837  7227  6834  7228 0.84 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1517.3   0.0   7   7   3.3e-64   1.6e-60  205.0   0.0     3   423  8362  8757  8360  8758 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   1  11   1.5e-15   7.1e-12   44.9   0.0     6   436   675  1082   673  1087 0.70 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   2  11   8.5e-45   4.2e-41  141.2   0.0     2   451  1126  1549  1125  1555 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   3  11   1.3e-52   6.3e-49  167.0   0.1     2   456  2216  2629  2215  2630 0.88 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   4  11   1.8e-44     9e-41  140.1   0.0     2   456  3302  3713  3301  3714 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   5  11   2.3e-38   1.1e-34  120.0   1.0     6   445  4360  4805  4357  4810 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   6  11   2.7e-49   1.3e-45  156.1   0.0     3   451  4841  5257  4839  5262 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   7  11     1e-29   5.1e-26   91.5   0.6     5   446  5902  6343  5898  6347 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   8  11   5.8e-54   2.8e-50  171.5   0.0     2   456  6380  6815  6379  6816 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0   9  11   3.4e-31   1.7e-27   96.4   0.0     5   440  7456  7882  7452  7891 0.78 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0  10  11   3.3e-48   1.6e-44  152.5   0.0     1   452  7919  8337  7919  8341 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415         0 1430.7   0.0  11  11   1.3e-40   6.6e-37  127.4   0.0    33   358  9023  9325  9019  9397 0.78 Condensation domain
+PP-binding           PF00550.28    67 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415   7.9e-87  285.7   6.0   1   7   1.9e-13   9.5e-10   38.8   0.0     3    64   596   656   594   659 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415   7.9e-87  285.7   6.0   2   7   3.3e-12   1.6e-08   34.8   0.1     4    65  2112  2172  2109  2174 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415   7.9e-87  285.7   6.0   3   7   5.8e-14   2.8e-10   40.5   0.0     3    65  3196  3257  3194  3259 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415   7.9e-87  285.7   6.0   4   7   3.2e-12   1.6e-08   34.9   0.2     5    65  4280  4339  4276  4341 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415   7.9e-87  285.7   6.0   5   7   2.5e-15   1.2e-11   44.8   0.0     2    66  5819  5882  5818  5883 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415   7.9e-87  285.7   6.0   6   7   9.6e-17   4.7e-13   49.4   0.0     2    67  7374  7438  7373  7438 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001240_ORF1:gid::pid:EXU96269.1:loc:0:28516:strand:- -           9415   7.9e-87  285.7   6.0   7   7   4.6e-13   2.3e-09   37.6   0.2     2    67  8895  8959  8894  8959 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001240.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001240.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001240.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:07:10 2023
+# [ok]

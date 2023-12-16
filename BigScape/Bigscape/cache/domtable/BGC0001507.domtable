@@ -1,0 +1,16 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.24   355 BGC0001507_ORF1:gid::pid:KDN73296.1:loc:385:2221:strand:+ -            611   1.5e-34  120.3   0.0   1   1     1e-38     2e-34  119.9   0.0     1   355   208   593   208   593 0.81 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0001507_ORF2:gid::pid:KDN73297.1:loc:2204:2456:strand:+ -             83   4.4e-16   59.1   0.0   1   1   2.6e-20   5.1e-16   58.9   0.0     2    67    16    81    15    81 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0001507_ORF3:gid::pid:KDN73298.1:loc:2452:2884:strand:+ -            143   1.3e-26   93.0   6.8   1   1   8.2e-31   1.6e-26   92.6   6.8     2   116    22   132    21   133 0.96 Transglutaminase-like superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001507.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001507.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001507.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:54:14 2023
+# [ok]

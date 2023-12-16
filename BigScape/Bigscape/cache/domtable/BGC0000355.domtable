@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sugar_tr             PF00083.27   452 BGC0000355_ORF1:gid::pid:EAL89045.1:loc:0:1848:strand:+ -            534   1.2e-63  215.8  32.1   1   1   1.4e-67   1.4e-63  215.5  32.1     3   452    61   512    59   512 0.82 Sugar (and other) transporter
+MFS_1                PF07690.19   353 BGC0000355_ORF1:gid::pid:EAL89045.1:loc:0:1848:strand:+ -            534   1.8e-21   76.6  41.2   1   1   1.8e-25   1.8e-21   76.6  41.2    12   349    79   456    74   464 0.76 Major Facilitator Superfamily
+AMP-binding          PF00501.31   424 BGC0000355_ORF2:gid::pid:EAL89046.1:loc:3099:7014:strand:+ -           1160   1.4e-69  234.9   0.0   1   1   2.8e-73   1.8e-69  234.5   0.0     1   424   111   505   111   505 0.87 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0000355_ORF2:gid::pid:EAL89046.1:loc:3099:7014:strand:+ -           1160   2.1e-24   86.2   0.0   1   1     5e-28   3.3e-24   85.5   0.0     6   360   750  1079   746  1084 0.84 Condensation domain
+PP-binding           PF00550.28    67 BGC0000355_ORF2:gid::pid:EAL89046.1:loc:3099:7014:strand:+ -           1160   1.3e-09   38.4   0.0   1   1   5.8e-13   3.8e-09   36.8   0.0     2    67   650   715   649   715 0.94 Phosphopantetheine attachment site
+FAD_binding_3        PF01494.22   349 BGC0000355_ORF3:gid::pid:EAL89047.1:loc:7414:8781:strand:- -            418   8.6e-14   51.7   1.2   1   2   5.9e-10   1.2e-05   24.9   0.1   106   210    70   170    64   204 0.75 FAD binding domain
+FAD_binding_3        PF01494.22   349 BGC0000355_ORF3:gid::pid:EAL89047.1:loc:7414:8781:strand:- -            418   8.6e-14   51.7   1.2   2   2   7.8e-10   1.5e-05   24.5   0.1   284   320   265   301   258   309 0.90 FAD binding domain
+FAD_binding_4        PF01565.26   139 BGC0000355_ORF4:gid::pid:EAL89048.1:loc:9609:11433:strand:+ -            497   7.2e-15   55.1   0.9   1   1   1.3e-18   1.3e-14   54.2   0.9     3   139    74   212    73   212 0.87 FAD binding domain
+BBE                  PF08031.15    46 BGC0000355_ORF4:gid::pid:EAL89048.1:loc:9609:11433:strand:+ -            497   6.9e-08   32.6   0.0   1   1   1.3e-11   1.3e-07   31.7   0.0     1    46   451   494   451   494 0.93 Berberine and berberine like
+AMP-binding          PF00501.31   424 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955  3.1e-230  764.2   0.0   1   3   3.7e-74   1.8e-70  237.8   0.0     3   424   274   668   272   668 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955  3.1e-230  764.2   0.0   2   3   2.3e-85   1.1e-81  274.7   0.0     7   424  1356  1750  1350  1750 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955  3.1e-230  764.2   0.0   3   3   2.7e-77   1.3e-73  248.2   0.0     2   424  2886  3283  2885  3283 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955  9.3e-166  552.1   0.0   1   4   1.8e-48   8.8e-45  153.4   0.0     2   456   916  1331   915  1332 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955  9.3e-166  552.1   0.0   2   4     5e-40   2.5e-36  125.5   0.0     6   433  1971  2392  1968  2413 0.83 Condensation domain
+Condensation         PF00668.23   457 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955  9.3e-166  552.1   0.0   3   4   2.4e-44   1.2e-40  139.8   0.0     1   455  2437  2865  2437  2867 0.87 Condensation domain
+Condensation         PF00668.23   457 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955  9.3e-166  552.1   0.0   4   4   9.6e-41   4.7e-37  127.9   0.0    29   445  3556  3938  3541  3944 0.84 Condensation domain
+PP-binding           PF00550.28    67 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955   1.5e-35  121.4   0.2   1   3   1.4e-12   6.7e-09   36.1   0.0     3    66   812   874   810   875 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955   1.5e-35  121.4   0.2   2   3   1.7e-13   8.2e-10   39.0   0.0     3    65  1889  1950  1887  1951 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000355_ORF5:gid::pid:EAL89049.1:loc:12822:24812:strand:- -           3955   1.5e-35  121.4   0.2   3   3   2.1e-14   1.1e-10   41.8   0.0     2    65  3430  3492  3429  3493 0.96 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000355.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000355.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000355.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:51:20 2023
+# [ok]

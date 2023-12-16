@@ -1,0 +1,31 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1318.0   0.0   1   4  2.9e-104  1.1e-100  337.3   0.0     1   423   467   887   467   888 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1318.0   0.0   2   4   5.3e-98   2.1e-94  316.7   0.0     1   424  1537  1944  1537  1944 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1318.0   0.0   3   4   3.1e-98   1.2e-94  317.5   0.0     1   424  2588  2995  2588  2995 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1318.0   0.0   4   4  1.4e-105  5.7e-102  341.6   0.0     1   424  4097  4513  4097  4513 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1228.6  57.4   1   5   1.1e-61   4.3e-58  197.2  12.4     4   457    12   447    10   447 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1228.6  57.4   2   5   1.4e-96   5.4e-93  312.3   1.9     3   457  1077  1517  1075  1517 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1228.6  57.4   3   5     2e-97   7.8e-94  315.0   2.1     3   457  2128  2568  2126  2568 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1228.6  57.4   4   5   2.9e-57   1.1e-53  182.7   0.4     4   442  3183  3601  3181  3611 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949         0 1228.6  57.4   5   5     8e-76   3.1e-72  243.8  11.4     3   457  3633  4077  3631  4077 0.91 Condensation domain
+PP-binding           PF00550.28    67 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949     2e-58  194.7   5.1   1   4   9.2e-17   3.6e-13   49.7   0.1     2    64  1000  1060   999  1063 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949     2e-58  194.7   5.1   2   4   6.5e-17   2.5e-13   50.2   0.1     2    64  2051  2111  2050  2114 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949     2e-58  194.7   5.1   3   4   8.8e-16   3.5e-12   46.6   0.1     2    64  3102  3161  3101  3164 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949     2e-58  194.7   5.1   4   4   6.3e-16   2.5e-12   47.1   0.0     2    67  4620  4683  4619  4683 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949   8.7e-58  193.4   0.0   1   4   1.4e-15   5.4e-12   46.6   0.0     1    76   896   973   896   973 0.90 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949   8.7e-58  193.4   0.0   2   4   4.9e-15   1.9e-11   44.9   0.0     1    76  1952  2024  1952  2024 0.89 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949   8.7e-58  193.4   0.0   3   4   9.8e-17   3.8e-13   50.3   0.0     1    76  3003  3075  3003  3075 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949   8.7e-58  193.4   0.0   4   4   2.5e-15   9.7e-12   45.8   0.0     1    76  4521  4593  4521  4593 0.91 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001825_ORF1:gid::pid:CEK23605.1:loc:0:14850:strand:+ -           4949   2.5e-18   67.2   0.0   1   1   2.7e-21     1e-17   65.2   0.0     2   117  4705  4819  4704  4848 0.79 Thioesterase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001825.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001825.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001825.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:45:38 2023
+# [ok]

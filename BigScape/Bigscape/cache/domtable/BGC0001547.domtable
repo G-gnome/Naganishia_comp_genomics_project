@@ -1,0 +1,29 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Transferase          PF02458.18   434 BGC0001547_ORF1:gid:adrJ_:pid:BAW27596.1:loc:100:1653:strand:- -            494   1.2e-13   50.7   0.0   1   1   2.7e-17   5.3e-13   48.5   0.0   138   399   159   439   146   494 0.75 Transferase family
+p450                 PF00067.25   463 BGC0001547_ORF3:gid:ctr-P450:pid:BAW27598.1:loc:3849:5620:strand:+ -            518   1.1e-41  143.2   0.0   1   1   7.9e-46   1.6e-41  142.7   0.0    48   445    87   485    80   498 0.79 Cytochrome P450
+Epimerase            PF01370.24   241 BGC0001547_ORF4:gid:adrE_:pid:BAW27599.1:loc:5838:7055:strand:- -            291   3.9e-11   43.0   0.0   1   1   3.2e-14     1e-10   41.6   0.0     1   124    14   142    14   153 0.83 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0001547_ORF4:gid:adrE_:pid:BAW27599.1:loc:5838:7055:strand:- -            291   1.9e-09   37.1   0.0   1   1     1e-12   3.3e-09   36.3   0.0     1   128    15   143    15   146 0.79 3-beta hydroxysteroid dehydrogenase/isomerase family
+GDP_Man_Dehyd        PF16363.8    332 BGC0001547_ORF4:gid:adrE_:pid:BAW27599.1:loc:5838:7055:strand:- -            291   1.7e-07   31.1   0.0   1   1   7.2e-11   2.3e-07   30.7   0.0     1   129    15   131    15   145 0.86 GDP-mannose 4,6 dehydratase
+NAD_binding_10       PF13460.9    184 BGC0001547_ORF4:gid:adrE_:pid:BAW27599.1:loc:5838:7055:strand:- -            291   2.2e-07   31.1   0.0   1   1   1.1e-10   3.6e-07   30.4   0.0     1   101    18   134    18   151 0.75 NAD(P)H-binding
+NmrA                 PF05368.16   233 BGC0001547_ORF4:gid:adrE_:pid:BAW27599.1:loc:5838:7055:strand:- -            291   6.9e-05   22.6   0.0   1   1     3e-08   9.7e-05   22.1   0.0     1   103    14   132    14   145 0.84 NmrA-like family
+adh_short            PF00106.28   195 BGC0001547_ORF5:gid:adrF_:pid:BAW27600.1:loc:7505:8469:strand:+ -            258   2.9e-44  151.0   0.8   1   1   3.8e-48   3.8e-44  150.6   0.8     1   185     7   189     7   196 0.91 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001547_ORF5:gid:adrF_:pid:BAW27600.1:loc:7505:8469:strand:+ -            258   7.5e-42  143.6   1.4   1   1   1.4e-45   1.3e-41  142.8   1.4     1   231    13   253    13   256 0.87 Enoyl-(Acyl carrier protein) reductase
+p450                 PF00067.25   463 BGC0001547_ORF6:gid:adrA_:pid:BAW27601.1:loc:9048:10733:strand:+ -            502   1.2e-33  116.8   0.0   1   1   7.9e-38   1.6e-33  116.3   0.0   100   447   135   478   122   491 0.79 Cytochrome P450
+Dyp_perox            PF04261.15   327 BGC0001547_ORF7:gid:PO:pid:BAW27602.1:loc:11135:12918:strand:- -            465   1.5e-09   37.5   0.1   1   1   8.8e-12   1.7e-07   30.7   0.0   227   305   297   387   288   399 0.76 Dyp-type peroxidase family
+GO-like_E_set        PF09118.14    98 BGC0001547_ORF8:gid:GO:pid:BAW27603.1:loc:13812:15789:strand:- -            658     1e-23   83.6   0.0   1   1     6e-27     2e-23   82.7   0.0     1    98   561   656   561   656 0.92 Galactose oxidase-like, Early set domain
+F5_F8_type_C         PF00754.28   127 BGC0001547_ORF8:gid:GO:pid:BAW27603.1:loc:13812:15789:strand:- -            658   1.7e-16   60.7   2.4   1   1     1e-19   3.3e-16   59.7   2.4     4   114    49   152    46   164 0.87 F5/8 type C domain
+Kelch_1              PF01344.28    46 BGC0001547_ORF8:gid:GO:pid:BAW27603.1:loc:13812:15789:strand:- -            658     3e-07   30.1   2.8   1   1   2.7e-09   8.9e-06   25.3   0.5     4    41   290   328   287   332 0.91 Kelch motif
+FAD_binding_3        PF01494.22   349 BGC0001547_ORF10:gid:adrH_:pid:BAW27605.1:loc:17720:19301:strand:+ -            473   8.2e-26   91.2   0.0   1   1   1.2e-28   8.1e-25   87.9   0.0     3   348     7   373     5   374 0.65 FAD binding domain
+UbiA                 PF01040.21   251 BGC0001547_ORF11:gid:adrG_:pid:BAW27606.1:loc:19763:20696:strand:+ -            310   4.6e-32  111.4   9.8   1   1   2.9e-36   5.7e-32  111.1   9.8     3   250    37   295    35   299 0.79 UbiA prenyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001547.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001547.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001547.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:00:07 2023
+# [ok]

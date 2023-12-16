@@ -1,0 +1,15 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PrpF                 PF04303.16   384 BGC0001809_ORF1:gid::pid:WP_000701098.1:loc:0:1074:strand:+ -            357   1.2e-82  277.9   3.7   1   1   7.2e-87   1.4e-82  277.7   3.7     2   384     1   357     1   357 0.93 PrpF protein
+EamA                 PF00892.23   137 BGC0001809_ORF2:gid::pid:WP_000369347.1:loc:1185:2097:strand:+ -            303   6.9e-11   42.6  38.6   1   1   8.9e-11   1.8e-06   28.3  16.7     3   136     7   137     5   138 0.92 EamA-like transporter family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001809.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001809.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001809.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:53:07 2023
+# [ok]

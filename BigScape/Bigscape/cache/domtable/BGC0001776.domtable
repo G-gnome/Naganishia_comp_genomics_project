@@ -1,0 +1,41 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NB-ARC               PF00931.25   252 BGC0001776_ORF1:gid::pid:AGZ20483.1:loc:15:7575:strand:+ -           2365   2.7e-11   43.3   0.0   1   1   7.1e-15     7e-11   41.9   0.0     3   216   470   688   468   715 0.76 NB-ARC domain
+PNP_UDP_1            PF01048.23   234 BGC0001776_ORF1:gid::pid:AGZ20483.1:loc:15:7575:strand:+ -           2365   7.2e-10   38.7   0.0   1   1   2.1e-13   2.1e-09   37.2   0.0     2   230  2034  2324  2033  2328 0.83 Phosphorylase superfamily
+Ada3                 PF10198.12   132 BGC0001776_ORF2:gid::pid:AGZ20481.1:loc:8038:10182:strand:- -            658   1.5e-46  157.9   0.3   1   1   7.7e-51   1.5e-46  157.9   0.3     1   132   478   612   478   612 0.97 Histone acetyltransferases subunit 3
+zf-RING_2            PF13639.9     44 BGC0001776_ORF3:gid::pid:AGZ20482.1:loc:11347:12946:strand:+ -            501   5.6e-11   42.7   4.1   1   1     2e-14   1.3e-10   41.6   4.1     2    44   440   484   439   484 0.85 Ring finger domain
+zf-C3HC4             PF00097.28    41 BGC0001776_ORF3:gid::pid:AGZ20482.1:loc:11347:12946:strand:+ -            501   1.9e-06   27.8   1.7   1   1   2.9e-10   1.9e-06   27.8   1.7     1    41   441   483   441   483 0.96 Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4_2           PF13923.9     40 BGC0001776_ORF3:gid::pid:AGZ20482.1:loc:11347:12946:strand:+ -            501   1.9e-06   27.7   2.9   1   1   2.9e-10   1.9e-06   27.7   2.9     2    40   441   483   440   483 0.87 Zinc finger, C3HC4 type (RING finger)
+Ribosomal_L15e       PF00827.20   189 BGC0001776_ORF4:gid::pid:AGZ20484.1:loc:13487:14403:strand:+ -            203   4.8e-85  284.1  10.9   1   1   2.9e-89   5.8e-85  283.8  10.9     1   184     2   186     2   190 0.98 Ribosomal L15
+HECT                 PF00632.28   306 BGC0001776_ORF5:gid::pid:AGZ20485.1:loc:15278:19054:strand:+ -           1218   1.4e-71  241.6   0.0   1   1   9.7e-76   1.9e-71  241.2   0.0     2   305   901  1217   900  1218 0.94 HECT-domain (ubiquitin-transferase)
+Glyco_hydro_3_C      PF01915.25   204 BGC0001776_ORF6:gid::pid:AGZ20486.1:loc:21161:23932:strand:+ -            804   1.8e-42  145.7   0.0   1   1   5.3e-46   3.5e-42  144.8   0.0     2   204   392   667   391   667 0.90 Glycosyl hydrolase family 3 C-terminal domain
+Glyco_hydro_3        PF00933.24   319 BGC0001776_ORF6:gid::pid:AGZ20486.1:loc:21161:23932:strand:+ -            804     1e-35  123.9   0.0   1   1   2.6e-39   1.7e-35  123.1   0.0    77   317   105   341    92   343 0.86 Glycosyl hydrolase family 3 N terminal domain
+Fn3-like             PF14310.9     71 BGC0001776_ORF6:gid::pid:AGZ20486.1:loc:21161:23932:strand:+ -            804   1.9e-22   79.3   0.0   1   1   7.6e-26     5e-22   77.9   0.0     1    71   721   787   721   787 0.99 Fibronectin type III-like domain
+polyprenyl_synt      PF00348.20   256 BGC0001776_ORF7:gid:janG:pid:AGZ20472.2:loc:25022:26299:strand:- -            364   3.1e-64  216.6   0.0   1   1   1.9e-68   3.7e-64  216.4   0.0     2   253    68   306    67   309 0.94 Polyprenyl synthetase
+FAD_binding_3        PF01494.22   349 BGC0001776_ORF9:gid:janM:pid:AGZ20480.1:loc:29235:30817:strand:- -            475   4.6e-25   88.7   0.0   1   1   9.6e-29   9.5e-25   87.7   0.0     2   320     6   328     5   365 0.71 FAD binding domain
+polyprenyl_synt      PF00348.20   256 BGC0001776_ORF11:gid:janC:pid:AGZ20475.1:loc:33286:34406:strand:+ -            327   8.5e-22   77.6   0.0   1   1   6.2e-26   1.2e-21   77.1   0.0     6   230    52   267    48   290 0.84 Polyprenyl synthetase
+p450                 PF00067.25   463 BGC0001776_ORF12:gid:janP:pid:AGZ20476.1:loc:34798:36641:strand:- -            515   5.9e-43  147.4   0.0   1   1   3.8e-47   7.5e-43  147.1   0.0   138   447   178   491   107   502 0.83 Cytochrome P450
+p450                 PF00067.25   463 BGC0001776_ORF13:gid::pid:AGZ20477.1:loc:37970:39783:strand:+ -            566   4.5e-16   58.8   0.0   1   1   1.2e-16   2.4e-12   46.5   0.0     1   378    43   422    43   426 0.83 Cytochrome P450
+p450                 PF00067.25   463 BGC0001776_ORF14:gid:janQ:pid:AGZ20487.1:loc:40479:42545:strand:- -            501     1e-40  140.0   0.0   1   1   6.3e-45   1.2e-40  139.8   0.0   170   454   193   481    41   489 0.87 Cytochrome P450
+Trp_DMAT             PF11991.11   363 BGC0001776_ORF15:gid:janD:pid:AGZ20478.1:loc:44432:45819:strand:- -            438   4.6e-86  289.6   0.0   1   1   2.8e-90   5.4e-86  289.4   0.0     1   362    24   385    24   386 0.91 Tryptophan dimethylallyltransferase
+FAD_binding_4        PF01565.26   139 BGC0001776_ORF16:gid:janO:pid:AGZ20488.1:loc:46882:48450:strand:+ -            449   6.5e-26   90.9   0.0   1   1   4.7e-30   9.3e-26   90.4   0.0     1   139    36   171    36   171 0.96 FAD binding domain
+DUF3632              PF12311.11   175 BGC0001776_ORF17:gid::pid:AGZ20489.1:loc:50327:51298:strand:- -            281   6.3e-26   92.0   0.0   1   1   6.9e-30   1.4e-25   90.9   0.0     3   175    74   245    73   245 0.81 Protein of unknown function (DUF3632)
+ADH_N                PF08240.15   109 BGC0001776_ORF18:gid::pid:AGZ20490.1:loc:54127:55251:strand:+ -            348   2.1e-34  117.8   0.6   1   1   9.7e-38   4.7e-34  116.7   0.6     2   109    33   138    32   138 0.97 Alcohol dehydrogenase GroES-like domain
+ADH_zinc_N           PF00107.29   130 BGC0001776_ORF18:gid::pid:AGZ20490.1:loc:54127:55251:strand:+ -            348   4.2e-17   62.5   0.0   1   1   1.5e-20   7.3e-17   61.7   0.0     1   127   177   307   177   310 0.88 Zinc-binding dehydrogenase
+Glu_dehyd_C          PF16912.8    212 BGC0001776_ORF18:gid::pid:AGZ20490.1:loc:54127:55251:strand:+ -            348     5e-16   58.9   0.0   1   1   1.7e-19   8.2e-16   58.2   0.0     5   211   147   346   144   347 0.83 Glucose dehydrogenase C-terminus
+ADH_zinc_N_2         PF13602.9    133 BGC0001776_ORF18:gid::pid:AGZ20490.1:loc:54127:55251:strand:+ -            348   3.6e-06   28.1   0.0   1   1   1.4e-09   6.6e-06   27.3   0.0    15   126   226   339   210   341 0.81 Zinc-binding dehydrogenase
+FRG1                 PF06229.15   191 BGC0001776_ORF19:gid::pid:AGZ20479.1:loc:55985:56864:strand:+ -            272     7e-54  182.6   0.1   1   1   5.3e-58     1e-53  182.0   0.1     1   191    84   271    84   271 0.95 FRG1-like domain
+DUF2264              PF10022.12   352 BGC0001776_ORF20:gid::pid:AGZ20491.1:loc:60609:62903:strand:- -            722    8e-134  446.3   0.2   1   1    5e-138  9.7e-134  446.0   0.2     1   352    14   409    14   409 0.98 Uncharacterized protein conserved in bacteria (DUF2264)
+Fungal_trans         PF04082.21   267 BGC0001776_ORF22:gid::pid:AGZ20493.1:loc:65225:68182:strand:- -            805   1.7e-16   60.2   0.0   1   1   3.2e-20   3.1e-16   59.3   0.0     3   194   207   395   205   404 0.86 Fungal specific transcription factor domain
+Zn_clus              PF00172.21    40 BGC0001776_ORF22:gid::pid:AGZ20493.1:loc:65225:68182:strand:- -            805   6.7e-09   35.9  12.0   1   1   1.7e-12   1.6e-08   34.6  12.0     2    39    21    57    20    58 0.95 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001776.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001776.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001776.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:47:51 2023
+# [ok]

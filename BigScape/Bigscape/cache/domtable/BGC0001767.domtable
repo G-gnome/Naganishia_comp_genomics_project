@@ -1,0 +1,41 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_N               PF00440.26    47 BGC0001767_ORF1:gid::pid::loc:114:702:strand:+ -            195   1.6e-13   50.3   0.4   1   1   2.2e-17   4.3e-13   49.0   0.4     1    47    25    70    25    70 0.96 Bacterial regulatory proteins, tetR family
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001767_ORF3:gid::pid::loc:2068:3409:strand:+ -            446  7.2e-112  374.0   0.0   1   1  1.3e-115  8.4e-112  373.8   0.0     2   340    12   355    11   356 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Peripla_BP_2         PF01497.21   237 BGC0001767_ORF4:gid::pid::loc:3547:4573:strand:+ -            341   1.1e-21   77.6   0.5   1   1   7.2e-26   1.4e-21   77.2   0.5     1   217    70   291    70   303 0.79 Periplasmic binding protein
+AMP-binding          PF00501.31   424 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1273.3   0.3   1   4  1.2e-100   5.8e-97  325.1   0.0     1   424   464   860   464   860 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1273.3   0.3   2   4  5.1e-105  2.5e-101  339.5   0.0     3   424  1532  1926  1530  1926 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1273.3   0.3   3   4   2.1e-94     1e-90  304.5   0.0     2   424  3059  3479  3058  3479 0.84 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1273.3   0.3   4   4   7.6e-93   3.7e-89  299.4   0.0     1   424  4146  4545  4146  4545 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1270.9   0.0   1   6   6.1e-59     3e-55  187.8   0.0     5   457    14   445    11   445 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1270.9   0.0   2   6   4.2e-74     2e-70  237.8   0.0     4   453  1076  1507  1074  1511 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1270.9   0.0   3   6   4.4e-41   2.2e-37  129.0   0.0    27   399  2141  2521  2129  2526 0.80 Condensation domain
+Condensation         PF00668.23   457 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1270.9   0.0   4   6   2.5e-73   1.2e-69  235.3   0.0     2   456  2601  3038  2600  3039 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1270.9   0.0   5   6   1.2e-92   5.9e-89  299.0   0.0     4   453  3675  4123  3673  4127 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167         0 1270.9   0.0   6   6   1.2e-54     6e-51  173.7   0.0     6   451  4739  5162  4735  5167 0.87 Condensation domain
+PP-binding           PF00550.28    67 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.2e-62  208.2   7.2   1   4   8.7e-17   4.3e-13   49.5   0.0     2    66   973  1034   972  1035 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.2e-62  208.2   7.2   2   4   1.9e-17   9.4e-14   51.6   0.1     1    67  2035  2098  2035  2098 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.2e-62  208.2   7.2   3   4     2e-19   9.9e-16   57.9   0.3     2    67  3591  3656  3590  3656 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.2e-62  208.2   7.2   4   4   7.9e-17   3.9e-13   49.6   0.1     2    65  4654  4715  4653  4717 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.1e-55  186.6  15.9   1   4     7e-16   3.5e-12   47.3   0.3     1    76   868   946   868   946 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.1e-55  186.6  15.9   2   4   2.6e-15   1.3e-11   45.5   0.5     1    76  1934  2010  1934  2010 0.95 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.1e-55  186.6  15.9   3   4   2.4e-16   1.2e-12   48.8   0.6     1    76  3487  3564  3487  3564 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001767_ORF5:gid::pid::loc:4728:20232:strand:+ -           5167   1.1e-55  186.6  15.9   4   4   2.9e-17   1.4e-13   51.7   0.1     1    76  4553  4627  4553  4627 0.92 AMP-binding enzyme C-terminal domain
+MbtH                 PF03621.16    53 BGC0001767_ORF6:gid::pid::loc:20228:20438:strand:+ -             69     1e-28   98.6   0.1   1   1   6.2e-33   1.2e-28   98.4   0.1     1    52     2    53     2    54 0.98 MbtH-like protein
+FecCD                PF01032.21   312 BGC0001767_ORF9:gid::pid::loc:24469:25465:strand:+ -            331   1.2e-87  293.9  36.1   1   1   7.6e-92   1.5e-87  293.7  36.1     2   312    16   325    15   325 0.99 FecCD transport family
+FecCD                PF01032.21   312 BGC0001767_ORF10:gid::pid::loc:25461:26601:strand:+ -            379   1.5e-70  237.9  43.5   1   1   8.9e-75   1.7e-70  237.6  43.5     2   311    66   371    62   372 0.97 FecCD transport family
+ABC_tran             PF00005.30   137 BGC0001767_ORF11:gid::pid::loc:26597:27476:strand:+ -            292   4.2e-29  101.9   0.0   1   1   9.3e-33   6.1e-29  101.4   0.0     6   136    31   174    27   175 0.96 ABC transporter
+Amidohydro_3         PF07969.14   473 BGC0001767_ORF12:gid::pid::loc:27493:29074:strand:+ -            526   4.4e-83  280.5  11.6   1   1   5.1e-87     5e-83  280.3  11.6     1   470    45   518    45   521 0.92 Amidohydrolase family
+Amidohydro_1         PF01979.23   348 BGC0001767_ORF12:gid::pid::loc:27493:29074:strand:+ -            526   1.6e-14   54.1   0.0   1   1   3.8e-13   3.8e-09   36.4   0.0   263   345   434   517   406   520 0.67 Amidohydrolase family
+Acetyltransf_1       PF00583.28   117 BGC0001767_ORF13:gid::pid::loc:29354:29921:strand:+ -            188   2.9e-06   27.6   0.0   1   1   2.2e-10   4.4e-06   27.0   0.0    28   117    64   145    25   145 0.74 Acetyltransferase (GNAT) family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001767.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001767.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001767.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:05:50 2023
+# [ok]

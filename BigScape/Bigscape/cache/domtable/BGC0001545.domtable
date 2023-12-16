@@ -1,0 +1,26 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_4        PF01565.26   139 BGC0001545_ORF1:gid::pid:XP_011325834.1:loc:19:1767:strand:+ -            506   3.4e-12   46.4   3.3   1   1   1.2e-15   1.1e-11   44.7   3.3    16   138    91   211    65   212 0.93 FAD binding domain
+BBE                  PF08031.15    46 BGC0001545_ORF1:gid::pid:XP_011325834.1:loc:19:1767:strand:+ -            506   7.4e-06   26.1   0.0   1   1   2.1e-09   2.1e-05   24.7   0.0     1    44   461   504   461   506 0.86 Berberine and berberine like
+adh_short            PF00106.28   195 BGC0001545_ORF2:gid::pid:XP_011325835.1:loc:2382:3162:strand:- -            259   4.3e-18   65.6   0.0   1   1   8.1e-16     8e-12   45.2   0.0     3   116     4   111     2   131 0.85 short chain dehydrogenase
+Asn_synthase         PF00733.24   355 BGC0001545_ORF4:gid::pid:XP_011325837.1:loc:5264:7539:strand:- -            671   3.3e-65  221.2   0.0   1   1   6.9e-69   4.5e-65  220.8   0.0     2   334   251   639   250   657 0.84 Asparagine synthase
+GATase_7             PF13537.9    123 BGC0001545_ORF4:gid::pid:XP_011325837.1:loc:5264:7539:strand:- -            671   2.4e-36  124.5   0.0   1   1   7.6e-40     5e-36  123.5   0.0     1   123    59   178    59   178 0.96 Glutamine amidotransferase domain
+GATase_6             PF13522.9    133 BGC0001545_ORF4:gid::pid:XP_011325837.1:loc:5264:7539:strand:- -            671   8.4e-32  110.2   0.0   1   1   2.6e-35   1.7e-31  109.2   0.0     1   133    42   172    42   172 0.96 Glutamine amidotransferase domain
+AMP-binding          PF00501.31   424 BGC0001545_ORF5:gid::pid:XP_011325838.1:loc:9133:16382:strand:+ -           2381  9.4e-132  439.7   0.0   1   2   6.3e-65   3.1e-61  207.4   0.0     8   423   233   632   226   633 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001545_ORF5:gid::pid:XP_011325838.1:loc:9133:16382:strand:+ -           2381  9.4e-132  439.7   0.0   2   2   6.8e-72   3.3e-68  230.4   0.0     5   423  1309  1701  1305  1702 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001545_ORF5:gid::pid:XP_011325838.1:loc:9133:16382:strand:+ -           2381   2.3e-88  297.0   0.0   1   2     4e-52   1.9e-48  165.4   0.0     2   456   882  1286   881  1287 0.88 Condensation domain
+Condensation         PF00668.23   457 BGC0001545_ORF5:gid::pid:XP_011325838.1:loc:9133:16382:strand:+ -           2381   2.3e-88  297.0   0.0   2   2   5.5e-37   2.7e-33  115.5   0.0    25   436  1977  2372  1970  2377 0.81 Condensation domain
+PP-binding           PF00550.28    67 BGC0001545_ORF5:gid::pid:XP_011325838.1:loc:9133:16382:strand:+ -           2381   1.9e-19   69.9   0.6   1   2   1.8e-12     9e-09   35.6   0.1     3    64   779   839   777   842 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001545_ORF5:gid::pid:XP_011325838.1:loc:9133:16382:strand:+ -           2381   1.9e-19   69.9   0.6   2   2   3.5e-11   1.7e-07   31.5   0.0     2    63  1853  1913  1852  1916 0.94 Phosphopantetheine attachment site
+GATase               PF00117.31   191 BGC0001545_ORF6:gid::pid:XP_011325839.1:loc:16680:17507:strand:+ -            240   5.5e-08   32.9   0.0   1   1   4.1e-12     8e-08   32.4   0.0    41   176    56   190    25   199 0.79 Glutamine amidotransferase class-I
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001545.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001545.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001545.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:48:45 2023
+# [ok]

@@ -1,0 +1,36 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.22   349 BGC0002745_ORF1:gid::pid:OQD69144.1:loc:541:3363:strand:- -            805     4e-16   59.3   0.0   1   2   9.9e-13   1.9e-08   34.1   0.0     3   170     4   167     2   173 0.86 FAD binding domain
+FAD_binding_3        PF01494.22   349 BGC0002745_ORF1:gid::pid:OQD69144.1:loc:541:3363:strand:- -            805     4e-16   59.3   0.0   2   2     2e-09     4e-05   23.2   0.0   275   347   290   370   231   372 0.78 FAD binding domain
+Methyltransf_23      PF13489.9    165 BGC0002745_ORF2:gid::pid:OQD68888.1:loc:3960:4647:strand:+ -            228   1.7e-06   28.1   0.0   1   1   2.3e-10   2.2e-06   27.7   0.0    25   140    48   186    35   211 0.75 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002745_ORF2:gid::pid:OQD68888.1:loc:3960:4647:strand:+ -            228   8.1e-05   23.3   0.0   1   1   1.4e-08   0.00014   22.6   0.0     2    95    51   162    50   163 0.88 Methyltransferase domain
+FAD_binding_3        PF01494.22   349 BGC0002745_ORF3:gid::pid:OQD69870.1:loc:5738:7016:strand:+ -            385   3.2e-10   39.9   0.1   1   1   5.7e-14   1.1e-09   38.1   0.1   147   323    66   259    23   272 0.67 FAD binding domain
+p450                 PF00067.25   463 BGC0002745_ORF5:gid::pid:OQD69071.1:loc:9108:10847:strand:+ -            538   1.2e-73  248.6   0.0   1   1     8e-78   1.6e-73  248.2   0.0     1   447    33   480    33   495 0.85 Cytochrome P450
+ketoacyl-synt        PF00109.29   253 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566     2e-72  243.9   0.0   1   1   2.9e-75   3.8e-72  243.0   0.0     2   253     4   254     3   254 0.96 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   2.6e-50  171.5   0.0   1   1   3.6e-53   4.7e-50  170.6   0.0     1   292   950  1246   950  1251 0.92 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   4.2e-44  151.5   0.1   1   1     6e-47   7.9e-44  150.6   0.1     3   282   554   862   553   889 0.83 Acyl transferase domain
+KR                   PF08659.13   180 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   4.1e-44  150.7   0.0   1   1   1.4e-46   1.8e-43  148.6   0.0     2   178  2128  2300  2127  2302 0.96 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   5.3e-30  104.0   0.0   1   1   9.3e-33   1.2e-29  102.8   0.0     2   117   263   387   262   389 0.91 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   2.9e-22   79.4   0.0   1   1   5.9e-25   7.7e-22   78.0   0.0     1    99  1422  1523  1422  1523 0.95 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   2.1e-16   60.5   0.0   1   1   5.3e-19     7e-16   58.8   0.0    11   108   400   510   392   513 0.82 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.9     97 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   3.1e-15   56.7   0.0   1   1   6.4e-18   8.3e-15   55.4   0.0     1    97  1421  1521  1421  1521 0.86 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   3.1e-15   56.3   0.0   1   1   4.9e-17   6.5e-14   52.0   0.0     1   183  2127  2301  2127  2308 0.94 short chain dehydrogenase
+Methyltransf_11      PF08241.15    96 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   6.2e-14   52.5   0.0   1   1   1.2e-16   1.6e-13   51.2   0.0     1    94  1422  1523  1422  1525 0.86 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   6.1e-13   49.0   0.0   1   1   9.9e-16   1.3e-12   48.0   0.0    16   160  1412  1574  1392  1579 0.72 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   2.1e-11   43.9   0.0   1   1   3.6e-14   4.7e-11   42.8   0.0     5   108  1419  1524  1417  1535 0.92 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566     3e-08   33.4   0.0   1   1   4.1e-11   5.3e-08   32.6   0.0    47   161  1417  1535  1386  1547 0.84 ubiE/COQ5 methyltransferase family
+PP-binding           PF00550.28    67 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   1.3e-07   32.0   0.6   1   1   2.3e-10   3.1e-07   30.7   0.6    15    65  2433  2483  2419  2484 0.86 Phosphopantetheine attachment site
+adh_short_C2         PF13561.9    234 BGC0002745_ORF6:gid::pid:OQD69647.1:loc:11640:19397:strand:+ -           2566   9.9e-07   28.7   0.0   1   1   2.1e-09   2.7e-06   27.2   0.0     6   144  2138  2274  2133  2284 0.82 Enoyl-(Acyl carrier protein) reductase
+Fungal_trans         PF04082.21   267 BGC0002745_ORF7:gid::pid:OQD68940.1:loc:21115:23518:strand:- -            730   2.3e-11   43.3   1.6   1   1   4.5e-15   4.5e-11   42.4   1.6     2   265   346   628   345   630 0.66 Fungal specific transcription factor domain
+Zn_clus              PF00172.21    40 BGC0002745_ORF7:gid::pid:OQD68940.1:loc:21115:23518:strand:- -            730   5.5e-05   23.3  10.5   1   1   5.6e-09   5.5e-05   23.3  10.5     1    36    81   114    81   118 0.91 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002745.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002745.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002745.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:51:21 2023
+# [ok]

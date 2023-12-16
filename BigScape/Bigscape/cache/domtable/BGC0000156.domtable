@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fungal_trans         PF04082.21   267 BGC0000156_ORF1:gid:adaR:pid:AEN83885.1:loc:500:3004:strand:+ -            777   6.8e-12   45.1   0.0   1   1   1.2e-15   1.2e-11   44.4   0.0     3   205   240   438   238   462 0.76 Fungal specific transcription factor domain
+Zn_clus              PF00172.21    40 BGC0000156_ORF1:gid:adaR:pid:AEN83885.1:loc:500:3004:strand:+ -            777   1.5e-08   34.8   6.7   1   1   2.7e-12   2.6e-08   34.0   6.7     2    31    23    51    22    59 0.93 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Methyltransf_23      PF13489.9    165 BGC0000156_ORF2:gid:adaD:pid:AEN83886.1:loc:3411:4161:strand:- -            249   2.4e-07   30.8   0.0   1   1   3.2e-11   3.1e-07   30.5   0.0    17   120    63   183    53   230 0.80 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000156_ORF2:gid:adaD:pid:AEN83886.1:loc:3411:4161:strand:- -            249   7.9e-07   29.1   0.0   1   1     1e-10     1e-06   28.8   0.0     4   107    68   178    65   221 0.84 Methyltransferase domain
+FAD_binding_3        PF01494.22   349 BGC0000156_ORF3:gid:adaC:pid:AEN83887.1:loc:4636:5881:strand:+ -            414   1.6e-13   50.8   1.8   1   1   7.7e-16   1.5e-11   44.3   1.8     3   319     4   353     2   380 0.74 FAD binding domain
+Lactamase_B          PF00753.30   197 BGC0000156_ORF4:gid:adaB:pid:AEN83888.1:loc:6255:7260:strand:- -            317   1.9e-18   67.3   2.9   1   1   1.8e-21   3.5e-17   63.2   2.9     5   197    51   207    48   207 0.92 Metallo-beta-lactamase superfamily
+ketoacyl-synt        PF00109.29   253 BGC0000156_ORF5:gid:adaA:pid:AEN83889.1:loc:7893:13275:strand:+ -           1793     4e-71  239.7   0.0   1   1   2.1e-74   6.8e-71  238.9   0.0     3   253   390   639   388   639 0.94 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0000156_ORF5:gid:adaA:pid:AEN83889.1:loc:7893:13275:strand:+ -           1793   6.9e-46  156.9   0.2   1   1   5.7e-48   1.9e-44  152.2   0.0     7   236    16   250     8   253 0.90 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.24   319 BGC0000156_ORF5:gid:adaA:pid:AEN83889.1:loc:7893:13275:strand:+ -           1793   1.7e-39  136.3   0.8   1   1   9.1e-43     3e-39  135.5   0.0     1   316   923  1245   923  1248 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000156_ORF5:gid:adaA:pid:AEN83889.1:loc:7893:13275:strand:+ -           1793   1.2e-32  112.5   1.8   1   1   3.7e-36   1.2e-32  112.5   1.8     1   117   647   766   647   767 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000156_ORF5:gid:adaA:pid:AEN83889.1:loc:7893:13275:strand:+ -           1793   9.3e-13   48.4   0.2   1   1   7.8e-16   2.6e-12   47.0   0.2     5    67  1727  1789  1725  1789 0.96 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0000156_ORF5:gid:adaA:pid:AEN83889.1:loc:7893:13275:strand:+ -           1793   7.2e-11   42.7   0.3   1   1     1e-13   3.3e-10   40.5   0.0     2   108   772   885   772   888 0.87 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000156.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000156.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000156.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:56:39 2023
+# [ok]

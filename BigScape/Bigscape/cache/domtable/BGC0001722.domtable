@@ -1,0 +1,29 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193   8.6e-63  212.4   0.2   1   1   8.8e-66   2.2e-62  211.1   0.2     3   253   362   599   360   599 0.88 Beta-ketoacyl synthase, N-terminal domain
+NAD_binding_4        PF07993.15   257 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193   1.5e-31  109.7   0.0   1   1   1.1e-34   2.7e-31  108.8   0.0     1   257  1818  2062  1818  2062 0.85 Male sterility protein
+Ketoacyl-synt_C      PF02801.25   119 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193     2e-30  105.4   0.4   1   1   1.7e-33   4.1e-30  104.3   0.4     2   117   608   722   607   724 0.94 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193   7.9e-20   71.7   0.0   1   1   6.2e-23   1.5e-19   70.8   0.0    16   292   889  1173   875  1190 0.79 Acyl transferase domain
+SAT                  PF16073.8    240 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193   2.6e-18   66.6   0.4   1   1   8.4e-17   2.1e-13   50.6   0.1    47   199    59   208    46   249 0.70 Starter unit:ACP transacylase in aflatoxin biosynthesis
+PP-binding           PF00550.28    67 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193   5.8e-13   49.1   0.0   1   1   5.6e-16   1.4e-12   47.9   0.0     2    67  1632  1697  1631  1697 0.98 Phosphopantetheine attachment site
+Thiolase_N           PF00108.26   260 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193   4.3e-07   29.7   0.0   1   1   3.4e-10   8.4e-07   28.7   0.0    72   117   508   553   470   573 0.90 Thiolase, N-terminal domain
+Epimerase            PF01370.24   241 BGC0001722_ORF1:gid::pid:CBF83139.1:loc:0:6781:strand:- -           2193     5e-07   29.6   0.0   1   1   4.3e-10     1e-06   28.5   0.0     1   222  1816  2062  1816  2074 0.74 NAD dependent epimerase/dehydratase family
+GMC_oxred_N          PF00732.22   296 BGC0001722_ORF2:gid::pid:CBF83141.1:loc:7702:9641:strand:+ -            611   2.6e-53  181.5   0.0   1   1   4.3e-57   4.2e-53  180.8   0.0     1   295    41   357    41   358 0.90 GMC oxidoreductase
+GMC_oxred_C          PF05199.16   145 BGC0001722_ORF2:gid::pid:CBF83141.1:loc:7702:9641:strand:+ -            611   8.2e-41  140.0   0.1   1   1   1.5e-44   1.4e-40  139.2   0.1     1   145   466   603   466   603 0.96 GMC oxidoreductase
+UbiA                 PF01040.21   251 BGC0001722_ORF3:gid::pid:CBF83143.1:loc:10381:11311:strand:+ -            309   1.2e-31  110.1  12.7   1   1   8.3e-36   1.6e-31  109.6  12.7     6   250    39   292    28   293 0.84 UbiA prenyltransferase family
+FAD_binding_3        PF01494.22   349 BGC0001722_ORF4:gid::pid:CBF83145.1:loc:12261:13862:strand:+ -            504   2.1e-17   63.5   0.2   1   1   1.2e-20   1.2e-16   61.1   0.2     3   326    81   417    79   449 0.68 FAD binding domain
+DAO                  PF01266.27   353 BGC0001722_ORF4:gid::pid:CBF83145.1:loc:12261:13862:strand:+ -            504   8.4e-08   32.3   0.9   1   1   1.7e-11   1.7e-07   31.3   0.4     1    41    81   120    81   144 0.92 FAD dependent oxidoreductase
+adh_short            PF00106.28   195 BGC0001722_ORF5:gid::pid:CBF83147.1:loc:14468:15491:strand:+ -            312   3.8e-17   62.5   0.0   1   1   2.3e-18   2.3e-14   53.5   0.0     1   139    21   168    21   175 0.93 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001722_ORF5:gid::pid:CBF83147.1:loc:14468:15491:strand:+ -            312   2.4e-08   33.9   0.0   1   1   2.7e-11   2.7e-07   30.6   0.0     1   130    27   167    27   257 0.86 Enoyl-(Acyl carrier protein) reductase
+p450                 PF00067.25   463 BGC0001722_ORF6:gid::pid:CBF83149.1:loc:16613:18441:strand:+ -            508     2e-57  195.1   0.0   1   1   1.4e-61   2.7e-57  194.7   0.0    15   442    55   480    42   494 0.83 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001722.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001722.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001722.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:54:05 2023
+# [ok]

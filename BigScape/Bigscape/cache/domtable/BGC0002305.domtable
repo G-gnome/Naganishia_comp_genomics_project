@@ -1,0 +1,22 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peripla_BP_2         PF01497.21   237 BGC0002305_ORF1:gid:lgoE:pid:QKS42875.1:loc:0:1038:strand:+ -            345   1.2e-15   57.7   0.2   1   1   7.5e-20   1.5e-15   57.5   0.2     6   235    72   318    68   320 0.74 Periplasmic binding protein
+SIP                  PF04954.16   119 BGC0002305_ORF2:gid:lgoF:pid:QKS42876.1:loc:1045:1891:strand:+ -            281   1.9e-41  141.4   1.0   1   1   3.6e-45   3.5e-41  140.5   0.3     2   119   149   267   148   267 0.98 Siderophore-interacting protein
+FAD_binding_9        PF08021.14   121 BGC0002305_ORF2:gid:lgoF:pid:QKS42876.1:loc:1045:1891:strand:+ -            281   4.4e-38  130.3   0.0   1   1   6.7e-42   6.6e-38  129.8   0.0     2   120    17   135    16   136 0.98 Siderophore-interacting FAD-binding domain
+Pyridoxal_deC        PF00282.22   375 BGC0002305_ORF3:gid:lgoA:pid:QKS42877.1:loc:2189:3707:strand:+ -            505   1.7e-63  214.8   0.0   1   1   1.1e-67   2.1e-63  214.4   0.0    37   374    82   422    63   423 0.95 Pyridoxal-dependent decarboxylase conserved domain
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002305_ORF4:gid:lgoB:pid:QKS42878.1:loc:3800:5099:strand:+ -            432  3.3e-126  421.1   0.0   1   1    4e-130  3.9e-126  420.9   0.0     2   340     3   339     2   340 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Acetyltransf_8       PF13523.9    145 BGC0002305_ORF5:gid:lgoC:pid:QKS42879.1:loc:5095:5674:strand:+ -            192     5e-49  165.8   1.2   1   1   6.1e-53     6e-49  165.6   1.2     1   143    23   165    23   167 0.98 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.10   138 BGC0002305_ORF5:gid:lgoC:pid:QKS42879.1:loc:5095:5674:strand:+ -            192   6.6e-06   27.0   0.0   1   1   9.2e-10     9e-06   26.5   0.0     3   138    18   160    16   160 0.75 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 BGC0002305_ORF6:gid:lgoD:pid:QKS42880.1:loc:5670:7452:strand:+ -            593   2.1e-79  266.6   0.3   1   1   3.6e-83   3.5e-79  265.9   0.3     1   239   139   389   139   389 0.98 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002305_ORF6:gid:lgoD:pid:QKS42880.1:loc:5670:7452:strand:+ -            593   2.2e-39  135.6   0.8   1   1   3.8e-43   3.7e-39  134.9   0.8     2   161   411   568   410   570 0.96 Ferric iron reductase FhuF-like transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002305.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002305.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002305.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:09:48 2023
+# [ok]

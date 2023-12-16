@@ -1,0 +1,48 @@
+Loading [1mbigscape/1.1.5[22m
+  [94mLoading requirement[0m: db-pfam/35.0
+[1;34m
+/opt/linux/rocky/8.x/x86_64/pkgs/bigscape/1.1.5/resource/corason/CORASON/corason.pl requires the special_org argument (--s
+
+[0mfor help, type:
+corason.pl -h
+
+Consult our wiki at:https://github.com/nselem/EvoDivMet/wiki
+
+Usage:
+    CORASON extense manual can be consulted at:
+    https://github.com/nselem/EvoDivMet/wiki/Detailed-Tutorial/
+
+      --rast_ids            Required when faa files are used (No Default) RAST ids tab-separated table with the following Rast data.
+                             Job id\tGenome id\tOrganism name.
+
+      --g                   Genbank mode. If CORASON is used with genbank files instead of RAST fasta files, then -g must be used. 
+                            A RAST ids file will be automatically created in this mode.
+
+      --queryfile,-q        Required (No default)   Your aminoacid sequence on fasta file.
+
+      --special_org,-s      Required (No default)   Job Id (from RAST) for the cluster where your query belongs. 
+
+      --e_value             Default: 1E-15 (float)  E value. Minimal for a gene to be considered a hit.
+
+      --bitscore,-b         Default: 0 (Positive integer) After one run look into file .BLAST.pre to be more restrictive on hits.
+
+      --cluster_radio -c    Default: 10 (Positive integer) Number of genes in the neighborhood to analize.
+
+      --e_cluster           Default: 1E-3 (float)  e-value for sequences from reference cluster, values above it will be colored. 
+
+      --e_core              Default: 1E-3 (float) e-value for Best Bidirectional Hits used to cunstruct genomic core from clusters.
+
+      --list                Default: GENOME/*.faa (string separated by "," or ":". 
+                            Example 1,2,4:6 produce a search on genomes 1,2,4,5,6)
+                            Leaving this option empty will conduce to search on all genomes in GENOME directory.
+
+      --rescale,r           Default: 85000 (integer) Increasing this number will show a bigger cluster region with smaller genes.
+
+      --antismash,a         AntiSMASH file optional 
+ 
+      --verbose,v           If you would like to read more output from dir_scripts. 
+                            Most of the time only useful if you would like script debugging.
+
+    Remarks: For float values (as e_value, e_core etc) 0.001 will work, but
+    .001 won't do it.
+

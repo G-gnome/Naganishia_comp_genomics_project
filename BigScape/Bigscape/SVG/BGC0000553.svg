@@ -1,0 +1,77 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="268.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="258.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>lanKC (SSGG_RS0133190)
+class III lanthionine synthetase LanKC</title>
+			<polygon class="lanKC (SSGG_RS0133190)
+class III lanthionine synthetase LanKC" points="12,25 38,25 38,10 68,40 38,70 38,55 12,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<polygon class="PF00069" points="35,28 51,28 59,36 59,44 51,52 35,52" stroke-linejoin="round" width="24" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSGG_RS09930)
+hypothetical protein</title>
+			<polygon class=" (SSGG_RS09930)
+hypothetical protein" points="99,10 105,40 99,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SSGG_RS09925)
+SapB/AmfS family lanthipeptide</title>
+			<polygon class=" (SSGG_RS09925)
+SapB/AmfS family lanthipeptide" points="106,10 110,40 106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RamS (PF19402)
+"Lanthionine-containing peptide SapB precursor RamS"</title>
+				<polygon class="PF19402" points="106,31 107,40 106,49" stroke-linejoin="round" width="4" height="24" fill="rgb(78,105,213)" stroke="rgb(62,84,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSGG_RS0133195)
+ABC transporter ATP-binding protein</title>
+			<polygon class=" (SSGG_RS0133195)
+ABC transporter ATP-binding protein" points="114,25 119,25 119,10 149,40 119,70 119,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<polygon class="PF00664" points="116,28 133,28 142,37 142,43 133,52 116,52" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSGG_RS0133200)
+ATP-binding cassette domain-containing protein</title>
+			<polygon class=" (SSGG_RS0133200)
+ATP-binding cassette domain-containing protein" points="159,10 170,40 159,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="159,28 162,28 164,32 164,48 162,52 159,52" stroke-linejoin="round" width="5" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSGG_RS34700)
+ATP-binding cassette domain-containing protein</title>
+			<polygon class=" (SSGG_RS34700)
+ATP-binding cassette domain-containing protein" points="179,25 208,25 208,10 238,40 208,70 208,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="213,28 221,28 224,31 224,49 221,52 213,52" stroke-linejoin="round" width="11" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSGG_RS09915)
+response regulator transcription factor</title>
+			<polygon class=" (SSGG_RS09915)
+response regulator transcription factor" points="237,40 257,10 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="241,40 242,39 242,41" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

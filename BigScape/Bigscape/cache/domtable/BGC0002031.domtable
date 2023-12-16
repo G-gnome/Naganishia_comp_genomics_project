@@ -1,0 +1,22 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002031_ORF1:gid::pid:BAJ32821.1:loc:3:1182:strand:- -            392   1.5e-17   63.6   0.0   1   1   5.2e-19     1e-14   54.3   0.0   223   450   177   373   152   391 0.86 Cytochrome P450
+Cucumopine_C         PF18631.4    141 BGC0002031_ORF2:gid::pid:BAJ32822.1:loc:1230:2184:strand:- -            317   2.2e-30  105.5   0.0   1   1   1.6e-34   3.2e-30  105.0   0.0     7   141     6   136     2   136 0.94 Cucumopine synthase C-terminal helical bundle domain
+DAO                  PF01266.27   353 BGC0002031_ORF3:gid::pid:BAJ32823.1:loc:2258:3392:strand:- -            377     2e-31  110.0   6.9   1   1   4.8e-35   2.4e-31  109.8   6.9     2   351     8   353     7   355 0.77 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0002031_ORF3:gid::pid:BAJ32823.1:loc:2258:3392:strand:- -            377   1.2e-05   24.7   2.1   1   1   3.1e-08   0.00015   21.1   2.1     4   180    10   194     7   242 0.63 FAD binding domain
+NAD_binding_8        PF13450.9     68 BGC0002031_ORF3:gid::pid:BAJ32823.1:loc:2258:3392:strand:- -            377   4.2e-05   23.8   0.0   1   1     2e-08   9.8e-05   22.6   0.0     1    39    10    47    10    66 0.87 NAD(P)-binding Rossmann-like domain
+Chorismate_bind      PF00425.21   256 BGC0002031_ORF4:gid:pabB1:pid:BAJ32824.1:loc:3900:5337:strand:+ -            478     4e-82  275.8   0.0   1   1   5.3e-86   5.2e-82  275.4   0.0     2   256   206   464   205   464 0.98 chorismate binding enzyme
+Anth_synt_I_N        PF04715.16   142 BGC0002031_ORF4:gid:pabB1:pid:BAJ32824.1:loc:3900:5337:strand:+ -            478   1.5e-06   28.8   0.0   1   1   8.9e-10   8.8e-06   26.2   0.0    18   134    36   156    24   160 0.84 Anthranilate synthase component I, N terminal region
+GATase               PF00117.31   191 BGC0002031_ORF5:gid:pabA:pid:BAJ32825.1:loc:5339:5918:strand:+ -            192   1.1e-45  155.8   0.0   1   1   1.3e-49   1.3e-45  155.7   0.0     2   188     3   183     2   186 0.95 Glutamine amidotransferase class-I
+Peptidase_C26        PF07722.16   217 BGC0002031_ORF5:gid:pabA:pid:BAJ32825.1:loc:5339:5918:strand:+ -            192   2.3e-09   37.4   0.1   1   1   6.1e-13     6e-09   36.1   0.1   102   217    67   168    56   168 0.81 Peptidase C26
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002031.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002031.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002031.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:04:38 2023
+# [ok]

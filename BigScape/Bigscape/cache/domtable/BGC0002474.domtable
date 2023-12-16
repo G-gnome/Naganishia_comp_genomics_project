@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0002474_ORF1:gid:agbF:pid:BAC57933.1:loc:103:1750:strand:- -            548   2.7e-35  122.1   0.0   1   1   5.9e-31   1.2e-26   93.6   0.0    40   345     2   306     1   411 0.81 Condensation domain
+Chorismate_bind      PF00425.21   256 BGC0002474_ORF2:gid:agbC:pid:BAC16757.2:loc:1948:2977:strand:+ -            342   8.8e-36  123.9   0.0   1   1   5.9e-40   1.2e-35  123.5   0.0     3   176   125   299   123   311 0.94 chorismate binding enzyme
+AMP-binding          PF00501.31   424 BGC0002474_ORF3:gid:agbE:pid:BAC16758.1:loc:3141:4767:strand:+ -            541   4.9e-79  266.0   0.0   1   1   5.9e-83   5.8e-79  265.8   0.0     2   423    32   439    31   440 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002474_ORF3:gid:agbE:pid:BAC16758.1:loc:3141:4767:strand:+ -            541     7e-13   49.5   0.1   1   1   1.8e-16   1.8e-12   48.2   0.1     1    76   448   523   448   523 0.93 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.23   175 BGC0002474_ORF4:gid:agbB:pid:BAC16759.1:loc:4859:5729:strand:+ -            289   3.3e-33  115.4   0.0   1   1   4.9e-37   4.8e-33  114.9   0.0     2   174    32   205    31   206 0.95 Isochorismatase family
+PP-binding           PF00550.28    67 BGC0002474_ORF4:gid:agbB:pid:BAC16759.1:loc:4859:5729:strand:+ -            289   1.8e-09   37.9   0.0   1   1   3.4e-13   3.3e-09   37.0   0.0     8    64   222   279   218   282 0.88 Phosphopantetheine attachment site
+adh_short_C2         PF13561.9    234 BGC0002474_ORF5:gid:agbA:pid:BAC16760.1:loc:5742:6498:strand:+ -            251   1.8e-58  198.0   0.1   1   1   5.1e-62   2.5e-58  197.5   0.1     1   234    15   248    15   248 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002474_ORF5:gid:agbA:pid:BAC16760.1:loc:5742:6498:strand:+ -            251     6e-51  172.8   0.0   1   1   1.8e-54   8.8e-51  172.3   0.0     2   189    10   187     9   193 0.95 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002474_ORF5:gid:agbA:pid:BAC16760.1:loc:5742:6498:strand:+ -            251   5.1e-10   39.6   0.4   1   1   1.1e-11   5.4e-08   33.1   0.4     3   161    11   159    10   167 0.86 KR domain
+Epimerase            PF01370.24   241 BGC0002474_ORF5:gid:agbA:pid:BAC16760.1:loc:5742:6498:strand:+ -            251   3.2e-06   26.9   0.0   1   1     1e-09   4.9e-06   26.3   0.0     1    85    11    97    11   141 0.71 NAD dependent epimerase/dehydratase family
+4PPT_N               PF17837.4     68 BGC0002474_ORF6:gid:agbD:pid:BAC57934.1:loc:6528:7254:strand:+ -            241   9.9e-20   70.5   0.5   1   1   1.9e-23   1.9e-19   69.7   0.5     7    67    55   115    51   116 0.95 4'-phosphopantetheinyl transferase N-terminal domain
+ACPS                 PF01648.23   114 BGC0002474_ORF6:gid:agbD:pid:BAC57934.1:loc:6528:7254:strand:+ -            241   1.1e-09   38.6   0.0   1   1   2.1e-13   2.1e-09   37.7   0.0     1    86   123   200   123   219 0.80 4'-phosphopantetheinyl transferase superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002474.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002474.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002474.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:06:22 2023
+# [ok]

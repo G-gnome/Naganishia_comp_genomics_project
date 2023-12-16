@@ -1,0 +1,23 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nif11                PF07862.14    48 BGC0001867_ORF1:gid::pid:CAE20414.1:loc:0:297:strand:- -             98   3.2e-14   53.1   0.7   1   1   2.5e-18   4.9e-14   52.5   0.7     1    48     9    54     9    54 0.97 Nif11 domain
+Nif11                PF07862.14    48 BGC0001867_ORF3:gid::pid:CAE20416.1:loc:937:1213:strand:- -             91   9.1e-15   54.9   0.8   1   1   6.6e-19   1.3e-14   54.4   0.8     1    48     1    46     1    46 0.97 Nif11 domain
+Nif11                PF07862.14    48 BGC0001867_ORF6:gid::pid:CAE20417.1:loc:1871:2135:strand:- -             87   3.9e-15   56.0   0.7   1   1   2.8e-19   5.5e-15   55.6   0.7     1    48     1    46     1    46 0.97 Nif11 domain
+Nif11                PF07862.14    48 BGC0001867_ORF7:gid::pid:CAE20418.1:loc:2332:2578:strand:- -             81   8.1e-15   55.0   0.7   1   1   5.8e-19   1.1e-14   54.6   0.7     1    48     1    46     1    46 0.97 Nif11 domain
+Nif11                PF07862.14    48 BGC0001867_ORF8:gid::pid:CAE20419.1:loc:2801:3065:strand:- -             87   2.2e-14   53.7   0.5   1   1   1.6e-18   3.2e-14   53.1   0.5     1    48     1    46     1    46 0.97 Nif11 domain
+Nif11                PF07862.14    48 BGC0001867_ORF10:gid::pid:CAE20420.1:loc:3741:4029:strand:- -             95   9.5e-17   61.2   0.4   1   1   7.4e-21   1.4e-16   60.6   0.4     1    48     1    46     1    46 0.97 Nif11 domain
+Nif11                PF07862.14    48 BGC0001867_ORF14:gid::pid:CAE20422.1:loc:5361:5634:strand:- -             90   3.7e-16   59.3   1.0   1   1   2.6e-20   5.2e-16   58.9   1.0     1    48    10    55    10    55 0.97 Nif11 domain
+FA_desaturase        PF00487.27   254 BGC0001867_ORF16:gid::pid:CAE20424.1:loc:6125:7265:strand:- -            379   7.2e-23   81.8  27.5   1   1   7.2e-27   1.4e-22   80.9  27.5     2   249    68   345    67   349 0.71 Fatty acid desaturase
+DUF4135              PF13575.9    377 BGC0001867_ORF17:gid::pid:CAE20425.1:loc:7716:10923:strand:- -           1068    1e-114  383.8   0.0   1   1  1.5e-118  1.5e-114  383.3   0.0     1   376   187   579   187   579 0.97 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0001867_ORF17:gid::pid:CAE20425.1:loc:7716:10923:strand:- -           1068   4.5e-34  117.7   0.3   1   1     1e-37     1e-33  116.5   0.3     2   337   703  1047   702  1052 0.82 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001867.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001867.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001867.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:25:51 2023
+# [ok]

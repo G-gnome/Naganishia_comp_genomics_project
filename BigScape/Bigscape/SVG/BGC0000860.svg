@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="191.13333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="181.13333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ectR
+MarR family transcriptional regulator</title>
+			<polygon class="ectR
+MarR family transcriptional regulator" points="33,40 51,10 51,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="40,35 44,28 46,28 46,52 44,52 40,45" stroke-linejoin="round" width="6" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectA
+L-2,4-diaminobutyric acid acetyltransferase</title>
+			<polygon class="ectA
+L-2,4-diaminobutyric acid acetyltransferase" points="58,10 76,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="60,28 65,28 71,38 71,42 65,52 60,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectB
+L-2,4-diaminobutyrate transaminase</title>
+			<polygon class="ectB
+L-2,4-diaminobutyrate transaminase" points="78,25 91,25 91,10 121,40 91,70 91,55 78,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="80,28 104,28 116,40 104,52 80,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectC
+L-ectoine synthase</title>
+			<polygon class="ectC
+L-ectoine synthase" points="121,10 134,40 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="121,28 125,28 130,40 125,52 121,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ask
+aspartokinase</title>
+			<polygon class="ask
+aspartokinase" points="134,25 150,25 150,10 180,40 150,70 150,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<rect class="PF00696" x="134" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Catalase             PF00199.22   383 BGC0001573_ORF1:gid:easC:pid:ARB50203.1:loc:1077:2609:strand:+ -            480  3.6e-127  424.8   0.0   1   1  2.3e-131  4.6e-127  424.4   0.0    24   356    30   369    13   397 0.93 Catalase
+p450                 PF00067.25   463 BGC0001573_ORF2:gid:cloA:pid:ARB50204.1:loc:3434:5669:strand:+ -            508   3.7e-54  184.3   0.0   1   1   2.5e-58   4.9e-54  183.9   0.0    51   437    85   472    53   479 0.87 Cytochrome P450
+Oxidored_FMN         PF00724.23   342 BGC0001573_ORF3:gid:easA:pid:ARB50205.1:loc:6153:7308:strand:- -            384   3.8e-84  283.0   0.0   1   1   2.2e-88   4.4e-84  282.8   0.0     1   341     5   343     5   344 0.87 NADH:flavin oxidoreductase / NADH oxidase family
+AMP-binding          PF00501.31   424 BGC0001573_ORF4:gid:lpsB:pid:ARB50206.1:loc:7779:11900:strand:+ -           1338   2.8e-61  207.5   0.0   1   1   6.3e-65   4.1e-61  207.0   0.0     2   424   248   664   247   664 0.81 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001573_ORF4:gid:lpsB:pid:ARB50206.1:loc:7779:11900:strand:+ -           1338     7e-30  104.2   0.0   1   1   3.6e-28   2.4e-24   86.0   0.0     2   444   923  1325   922  1329 0.83 Condensation domain
+PP-binding           PF00550.28    67 BGC0001573_ORF4:gid:lpsB:pid:ARB50206.1:loc:7779:11900:strand:+ -           1338   1.8e-11   44.3   0.0   1   1   6.5e-15   4.2e-11   43.1   0.0     2    66   815   879   814   880 0.96 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590  1.6e-194  646.5   0.0   1   3   2.2e-70   1.4e-66  225.0   0.0     2   423   283   684   282   685 0.84 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590  1.6e-194  646.5   0.0   2   3   2.7e-60   1.8e-56  191.7   0.0     4   424  1394  1788  1391  1788 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590  1.6e-194  646.5   0.0   3   3   9.5e-71   6.2e-67  226.2   0.0     2   424  2514  2918  2513  2918 0.84 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590  1.2e-108  363.9   0.0   1   3   1.8e-37   1.2e-33  116.7   0.0     1   442   951  1354   951  1370 0.84 Condensation domain
+Condensation         PF00668.23   457 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590  1.2e-108  363.9   0.0   2   3   6.4e-56   4.2e-52  177.5   0.0     2   454  2064  2492  2063  2494 0.86 Condensation domain
+Condensation         PF00668.23   457 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590  1.2e-108  363.9   0.0   3   3   1.4e-17   9.3e-14   51.1   0.0    36   340  3190  3478  3184  3485 0.81 Condensation domain
+PP-binding           PF00550.28    67 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590   5.5e-39  132.4   0.1   1   3   6.3e-13   4.1e-09   36.7   0.0     2    65   830   893   829   894 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590   5.5e-39  132.4   0.1   2   3   4.7e-15   3.1e-11   43.5   0.0     2    66  1941  2004  1940  2005 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001573_ORF5:gid:lpsA:pid:ARB50207.1:loc:12509:23494:strand:- -           3590   5.5e-39  132.4   0.1   3   3   2.7e-16   1.8e-12   47.5   0.1     2    64  3058  3119  3057  3122 0.97 Phosphopantetheine attachment site
+PhyH                 PF05721.16   211 BGC0001573_ORF6:gid:easH:pid:ARB50208.1:loc:24517:25432:strand:+ -            304   1.1e-24   88.1   0.1   1   1   6.9e-29   1.4e-24   87.7   0.1     3   211    27   226    25   226 0.81 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001573.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001573.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001573.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:49:00 2023
+# [ok]

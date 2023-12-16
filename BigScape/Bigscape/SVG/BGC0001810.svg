@@ -1,0 +1,157 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="562.2333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="552.2333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>thgA
+major facilitator superfamily MFS_1</title>
+			<polygon class="thgA
+major facilitator superfamily MFS_1" points="14,25 30,25 30,10 60,40 30,70 30,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_2 (PF13347)
+"MFS/sugar transport protein"</title>
+				<polygon class="PF13347" points="17,28 44,28 56,40 44,52 17,52" stroke-linejoin="round" width="42" height="24" fill="rgb(68,198,83)" stroke="rgb(54,158,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgB
+serine/threonine protein kinase</title>
+			<polygon class="thgB
+serine/threonine protein kinase" points="64,25 65,25 65,10 95,40 65,70 65,55 64,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<polygon class="PF00069" points="64,28 79,28 89,38 89,42 79,52 64,52" stroke-linejoin="round" width="25" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgC
+protein ThgC</title>
+			<polygon class="thgC
+protein ThgC" points="106,25 146,25 146,10 176,40 146,70 146,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>fn3 (PF00041)
+"Fibronectin type III domain"</title>
+				<rect class="PF00041" x="148" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(203,70,135)" stroke="rgb(162,56,107)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgD
+alpha-amylase</title>
+			<polygon class="thgD
+alpha-amylase" points="202,25 231,25 231,10 261,40 231,70 231,55 202,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alpha-amylase (PF00128)
+"Alpha amylase, catalytic domain"</title>
+				<rect class="PF00128" x="211" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(72,189,149)" stroke="rgb(57,151,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Alpha-amylase_C (PF02806)
+"Alpha amylase, C-terminal all-beta domain"</title>
+				<polygon class="PF02806" points="241,28 245,28 249,32 249,48 245,52 241,52" stroke-linejoin="round" width="8" height="24" fill="rgb(60,49,183)" stroke="rgb(47,39,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CBM_20 (PF00686)
+"Starch binding domain"</title>
+				<polygon class="PF00686" points="252,35 257,40 252,45" stroke-linejoin="round" width="9" height="24" fill="rgb(189,66,101)" stroke="rgb(151,52,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgE
+conserved TM helix repeat-containing protein</title>
+			<polygon class="thgE
+conserved TM helix repeat-containing protein" points="268,10 296,40 268,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TM_helix (PF05552)
+"Conserved TM helix"</title>
+				<rect class="PF05552" x="269" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(126,211,80)" stroke="rgb(100,168,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgF
+major facilitator superfamily MFS_1</title>
+			<polygon class="thgF
+major facilitator superfamily MFS_1" points="298,25 319,25 319,10 349,40 319,70 319,55 298,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="304,28 333,28 340,35 340,45 333,52 304,52" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgG
+two component transcriptional regulator, LuxR family</title>
+			<polygon class="thgG
+two component transcriptional regulator, LuxR family" points="360,10 384,40 360,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="378,37 380,40 378,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgH
+enoyl-CoA hydratase</title>
+			<polygon class="thgH
+enoyl-CoA hydratase" points="392,10 421,40 392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="395,28 404,28 416,40 404,52 395,52" stroke-linejoin="round" width="25" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgI
+3-oxoacyl-[acyl-carrier-protein] synthase</title>
+			<polygon class="thgI
+3-oxoacyl-[acyl-carrier-protein] synthase" points="422,25 426,25 426,10 456,40 426,70 426,55 422,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<polygon class="PF08545" points="432,28 439,28 440,29 440,51 439,52 432,52" stroke-linejoin="round" width="8" height="24" fill="rgb(189,102,84)" stroke="rgb(151,81,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="445,34 451,40 445,46" stroke-linejoin="round" width="8" height="24" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgJ
+acyl transferase</title>
+			<polygon class="thgJ
+acyl transferase" points="457,10 483,40 457,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="471,31 474,35 474,45 471,49" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgK
+short-chain dehydrogenase/reductase</title>
+			<polygon class="thgK
+short-chain dehydrogenase/reductase" points="483,10 509,40 483,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="485,28 494,28 505,40 494,52 485,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thgL
+transcriptional regulator, LacI family</title>
+			<polygon class="thgL
+transcriptional regulator, LacI family" points="547,25 543,25 543,10 513,40 543,70 543,55 547,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_3 (PF13377)
+"Periplasmic binding protein-like domain"</title>
+				<polygon class="PF13377" points="517,40 529,28 529,28 529,52 529,52" stroke-linejoin="round" width="16" height="24" fill="rgb(101,208,189)" stroke="rgb(80,166,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LacI (PF00356)
+"Bacterial regulatory proteins, lacI family"</title>
+				<rect class="PF00356" x="541" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,188,63)" stroke="rgb(52,150,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

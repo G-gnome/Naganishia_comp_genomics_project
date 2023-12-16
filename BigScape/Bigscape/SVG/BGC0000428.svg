@@ -1,0 +1,341 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1110.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1100.4333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sibA
+SibA</title>
+			<polygon class="sibA
+SibA" points="10,10 39,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="10" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="28,33 35,40 35,40 28,47" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibB
+SibB</title>
+			<polygon class="sibB
+SibB" points="45,10 54,40 45,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sibC
+SibC</title>
+			<polygon class="sibC
+SibC" points="102,25 85,25 85,10 55,40 85,70 85,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="66,33 71,28 101,28 101,52 71,52 66,47" stroke-linejoin="round" width="35" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibD
+SibD</title>
+			<polygon class="sibD
+SibD" points="254,25 134,25 134,10 104,40 134,70 134,55 254,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="116,32 120,28 139,28 139,52 120,52 116,48" stroke-linejoin="round" width="23" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="144" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="153" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="161" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="203" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibE
+SibE</title>
+			<polygon class="sibE
+SibE" points="313,25 284,25 284,10 254,40 284,70 284,55 313,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="258,40 261,37 261,43" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="264,34 270,28 271,28 271,52 270,52 264,46" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="273" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibF
+SibF</title>
+			<polygon class="sibF
+SibF" points="393,25 346,25 346,10 316,40 346,70 346,55 393,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="324,36 332,28 344,28 344,52 332,52 324,44" stroke-linejoin="round" width="20" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UvrA_DNA-bind (PF17755)
+"UvrA DNA-binding domain"</title>
+				<rect class="PF17755" x="366" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(175,198,76)" stroke="rgb(140,158,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibG
+SibG</title>
+			<polygon class="sibG
+SibG" points="430,25 425,25 425,10 395,40 425,70 425,55 430,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="399,40 407,32 407,48 399,40" stroke-linejoin="round" width="8" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibH
+SibH</title>
+			<polygon class="sibH
+SibH" points="469,25 460,25 460,10 430,40 460,70 460,55 469,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPGT (PF00201)
+"UDP-glucoronosyl and UDP-glucosyl transferase"</title>
+				<polygon class="PF00201" points="434,40 446,28 446,28 446,52 446,52" stroke-linejoin="round" width="14" height="24" fill="rgb(225,150,107)" stroke="rgb(180,120,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibI
+SibI</title>
+			<polygon class="sibI
+SibI" points="502,25 499,25 499,10 469,40 499,70 499,55 502,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="478,35 485,28 501,28 501,52 485,52 478,45" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibJ
+SibJ</title>
+			<polygon class="sibJ
+SibJ" points="502,40 521,10 521,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="506,40 514,28 520,28 520,52 514,52" stroke-linejoin="round" width="16" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibK
+SibK</title>
+			<polygon class="sibK
+SibK" points="522,40 549,10 549,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BD-FAE (PF20434)
+"BD-FAE"</title>
+				<polygon class="PF20434" points="533,32 537,28 543,28 543,52 537,52 533,48" stroke-linejoin="round" width="10" height="24" fill="rgb(127,196,85)" stroke="rgb(101,156,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibL
+SibL</title>
+			<polygon class="sibL
+SibL" points="583,25 579,25 579,10 549,40 579,70 579,55 583,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="553,40 565,28 572,28 572,52 565,52" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="575" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(84,199,85)" stroke="rgb(67,159,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibM
+SibM</title>
+			<polygon class="sibM
+SibM" points="624,25 613,25 613,10 583,40 613,70 613,55 624,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_14 (PF08484)
+"C-methyltransferase C-terminal domain"</title>
+				<polygon class="PF08484" points="587,40 599,28 599,28 599,52 599,52" stroke-linejoin="round" width="15" height="24" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<rect class="PF13489" x="600" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_13 (PF08421)
+"Putative zinc binding domain"</title>
+				<rect class="PF08421" x="617" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibN
+SibN</title>
+			<polygon class="sibN
+SibN" points="664,25 655,25 655,10 625,40 655,70 655,55 664,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="629,40 641,28 662,28 662,52 641,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibO
+SibO</title>
+			<polygon class="sibO
+SibO" points="664,40 688,10 688,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MTS (PF05175)
+"Methyltransferase small domain"</title>
+				<polygon class="PF05175" points="669,39 678,28 685,28 685,52 678,52 669,41" stroke-linejoin="round" width="16" height="24" fill="rgb(99,227,110)" stroke="rgb(79,181,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibP
+SibP</title>
+			<polygon class="sibP
+SibP" points="689,40 715,10 715,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_dioxygenase (PF03301)
+"Tryptophan 2,3-dioxygenase"</title>
+				<polygon class="PF03301" points="693,40 701,31 701,49" stroke-linejoin="round" width="12" height="24" fill="rgb(50,195,197)" stroke="rgb(40,155,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trp_dioxygenase (PF03301)
+"Tryptophan 2,3-dioxygenase"</title>
+				<polygon class="PF03301" points="701,31 703,28 714,28 714,52 703,52 701,49" stroke-linejoin="round" width="13" height="24" fill="rgb(50,195,197)" stroke="rgb(40,155,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibQ
+SibQ</title>
+			<polygon class="sibQ
+SibQ" points="755,25 746,25 746,10 716,40 746,70 746,55 755,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="720,40 732,28 747,28 747,52 732,52" stroke-linejoin="round" width="28" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibR
+SibR</title>
+			<polygon class="sibR
+SibR" points="762,10 787,40 762,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sibS
+SibS</title>
+			<polygon class="sibS
+SibS" points="816,25 816,25 816,10 786,40 816,70 816,55 816,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhzC-PhzF (PF02567)
+"Phenazine biosynthesis-like protein"</title>
+				<polygon class="PF02567" points="790,40 802,28 815,28 815,52 802,52" stroke-linejoin="round" width="27" height="24" fill="rgb(223,91,96)" stroke="rgb(178,72,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibT
+SibT</title>
+			<polygon class="sibT
+SibT" points="816,40 845,10 845,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="821,39 832,28 844,28 844,52 832,52 821,41" stroke-linejoin="round" width="23" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibU
+SibU</title>
+			<polygon class="sibU
+SibU" points="876,25 875,25 875,10 845,40 875,70 875,55 876,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sibV
+SibV</title>
+			<polygon class="sibV
+SibV" points="876,40 891,10 891,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="879,40 885,28 889,28 889,52 885,52" stroke-linejoin="round" width="13" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibW
+SibW</title>
+			<polygon class="sibW
+SibW" points="907,25 926,25 926,10 956,40 926,70 926,55 907,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="913" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cytokin-bind (PF09265)
+"Cytokinin dehydrogenase 1, FAD and cytokinin binding"</title>
+				<polygon class="PF09265" points="935,28 939,28 951,40 939,52 935,52" stroke-linejoin="round" width="20" height="24" fill="rgb(67,184,162)" stroke="rgb(53,147,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibX
+SibX</title>
+			<polygon class="sibX
+SibX" points="959,25 968,25 968,10 998,40 968,70 968,55 959,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_30 (PF13556)
+"PucR C-terminal helix-turn-helix domain"</title>
+				<polygon class="PF13556" points="990,37 993,40 990,43" stroke-linejoin="round" width="5" height="24" fill="rgb(180,199,81)" stroke="rgb(144,159,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibY
+SibY</title>
+			<polygon class="sibY
+SibY" points="1058,25 1029,25 1029,10 999,40 1029,70 1029,55 1058,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G_glu_transpept (PF01019)
+"Gamma-glutamyltranspeptidase"</title>
+				<polygon class="PF01019" points="1003,40 1015,28 1055,28 1055,52 1015,52" stroke-linejoin="round" width="56" height="24" fill="rgb(117,205,100)" stroke="rgb(93,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sibZ
+SibZ</title>
+			<polygon class="sibZ
+SibZ" points="1066,25 1069,25 1069,10 1099,40 1069,70 1069,55 1066,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_31 (PF13847)
+"Methyltransferase domain"</title>
+				<polygon class="PF13847" points="1081,28 1083,28 1091,36 1091,44 1083,52 1081,52" stroke-linejoin="round" width="10" height="24" fill="rgb(214,74,181)" stroke="rgb(171,59,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

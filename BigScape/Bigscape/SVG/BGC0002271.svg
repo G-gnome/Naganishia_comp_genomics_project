@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="318.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="308.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ATEG_00700)
+conserved hypothetical protein</title>
+			<polygon class=" (ATEG_00700)
+conserved hypothetical protein" points="106,25 40,25 40,10 10,40 40,70 40,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="14,40 26,28 36,28 36,52 26,52" stroke-linejoin="round" width="26" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="39" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="60" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00701)
+predicted protein</title>
+			<polygon class=" (ATEG_00701)
+predicted protein" points="136,25 140,25 140,10 170,40 140,70 140,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ATEG_00702)
+predicted protein</title>
+			<polygon class=" (ATEG_00702)
+predicted protein" points="224,25 208,25 208,10 178,40 208,70 208,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="187,35 194,28 222,28 222,52 194,52 187,45" stroke-linejoin="round" width="35" height="24" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_00703)
+predicted protein</title>
+			<polygon class=" (ATEG_00703)
+predicted protein" points="263,25 278,25 278,10 308,40 278,70 278,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="288,28 291,28 296,33 296,47 291,52 288,52" stroke-linejoin="round" width="8" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

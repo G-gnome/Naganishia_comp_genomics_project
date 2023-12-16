@@ -1,0 +1,30 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325  2.7e-108  362.7   6.3   1   1  1.9e-111  4.2e-108  362.1   6.3     3   457    60   517    58   517 0.95 Condensation domain
+AMP-binding          PF00501.31   424 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   5.1e-56  190.2   0.0   1   1   3.1e-57   6.7e-54  183.2   0.0    16   423   819  1243   804  1244 0.80 AMP-binding enzyme
+KR                   PF08659.13   180 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   2.9e-40  138.2   0.0   1   1   2.8e-43   6.2e-40  137.1   0.0     1   180  1608  1803  1608  1803 0.90 KR domain
+Thioesterase         PF00975.23   230 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   9.2e-27   94.8   0.0   1   1   1.8e-29     4e-26   92.7   0.0     1   226  2042  2305  2042  2309 0.72 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   7.5e-15   55.1   0.6   1   1     2e-17   4.3e-14   52.7   0.3     2    66  1942  2004  1941  2005 0.94 Phosphopantetheine attachment site
+TubC_N               PF18563.4     52 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   1.2e-13   51.0   0.3   1   1   1.8e-16     4e-13   49.4   0.3     2    51     4    53     3    54 0.97 TubC N-terminal docking domain
+AMP-binding_C        PF13193.9     76 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   1.8e-12   48.2   0.0   1   1   8.9e-10   1.9e-06   28.8   0.0     2    75   627   693   626   694 0.91 AMP-binding enzyme C-terminal domain
+adh_short            PF00106.28   195 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   1.8e-08   34.2   0.1   1   1   1.4e-09     3e-06   27.0   0.1     3   160  1610  1782  1608  1790 0.75 short chain dehydrogenase
+Epimerase            PF01370.24   241 BGC0002480_ORF1:gid:clyF:pid:MBC5793737.1:loc:0:6978:strand:- -           2325   7.7e-06   25.7   0.0   1   1     8e-09   1.7e-05   24.5   0.0     2   157  1611  1799  1610  1806 0.81 NAD dependent epimerase/dehydratase family
+ketoacyl-synt        PF00109.29   253 BGC0002480_ORF2:gid:clyE:pid:MBC5793765.1:loc:6974:10835:strand:- -           1286     4e-86  288.8   0.0   1   1     5e-88   1.6e-84  283.5   0.0     1   253     1   253     1   253 0.93 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0002480_ORF2:gid:clyE:pid:MBC5793765.1:loc:6974:10835:strand:- -           1286     7e-65  219.3   0.0   1   1   4.6e-68   1.5e-64  218.2   0.0     1   293   839  1128   839  1131 0.94 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0002480_ORF2:gid:clyE:pid:MBC5793765.1:loc:6974:10835:strand:- -           1286   6.4e-44  148.9   0.2   1   1   4.4e-47   1.4e-43  147.8   0.2     2   118   262   378   261   379 0.98 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002480_ORF2:gid:clyE:pid:MBC5793765.1:loc:6974:10835:strand:- -           1286   2.7e-41  142.2   0.0   1   1   4.5e-36   1.5e-32  113.6   0.0     2   129   542   675   541   684 0.96 Acyl transferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002480_ORF2:gid:clyE:pid:MBC5793765.1:loc:6974:10835:strand:- -           1286     2e-20   73.5   0.1   1   1   1.8e-23     6e-20   71.9   0.1     3   105   383   496   382   505 0.86 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0002480_ORF2:gid:clyE:pid:MBC5793765.1:loc:6974:10835:strand:- -           1286   1.5e-10   41.3   0.1   1   1   1.3e-13   4.4e-10   39.9   0.1     2    64  1184  1247  1183  1250 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002480_ORF5:gid:clyB:pid:MBC5793740.1:loc:14208:14487:strand:- -             92     9e-18   64.5   0.5   1   1   1.1e-21   2.1e-17   63.3   0.1     1    67    24    90    24    90 0.98 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002480_ORF6:gid:clyA:pid:MBC5793764.1:loc:14639:16520:strand:- -            626   5.4e-90  302.1   0.0   1   1   3.4e-94   6.6e-90  301.9   0.0     6   424    26   468    21   468 0.89 AMP-binding enzyme
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002480.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002480.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002480.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:58:22 2023
+# [ok]

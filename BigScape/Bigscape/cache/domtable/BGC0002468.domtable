@@ -1,0 +1,40 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0002468_ORF1:gid:angM:pid:AAA81775.2:loc:0:2118:strand:- -            705   1.4e-50  172.5   0.0   1   1   2.6e-54   2.6e-50  171.6   0.0     4   431   277   698   275   704 0.89 Condensation domain
+PP-binding           PF00550.28    67 BGC0002468_ORF1:gid:angM:pid:AAA81775.2:loc:0:2118:strand:- -            705   4.4e-10   39.8   0.1   1   1   1.4e-13   1.4e-09   38.3   0.1    13    67   197   251   185   251 0.89 Phosphopantetheine attachment site
+DDE_Tnp_1_5          PF13737.9    112 BGC0002468_ORF2:gid::pid:AAA81774.2:loc:2206:3115:strand:- -            302   4.2e-38  130.1   0.0   1   1   7.6e-42   7.5e-38  129.3   0.0     2   112    20   130    19   130 0.97 Transposase DDE domain
+DDE_Tnp_1            PF01609.24   214 BGC0002468_ORF2:gid::pid:AAA81774.2:loc:2206:3115:strand:- -            302   3.5e-27   95.6   0.0   1   1   4.9e-31   4.8e-27   95.1   0.0     3   213   114   291   112   292 0.96 Transposase DDE domain
+FecCD                PF01032.21   312 BGC0002468_ORF3:gid:fatD:pid:AAR12524.1:loc:3577:4522:strand:+ -            314   4.3e-64  216.6  29.4   1   1   5.4e-68   5.3e-64  216.3  29.4     4   312    11   310     6   310 0.95 FecCD transport family
+ABC-3                PF00950.20   258 BGC0002468_ORF3:gid:fatD:pid:AAR12524.1:loc:3577:4522:strand:+ -            314   7.9e-07   29.0  22.2   1   1   1.2e-10   1.2e-06   28.4  22.2    18   234    60   283    47   310 0.72 ABC 3 transport family
+FecCD                PF01032.21   312 BGC0002468_ORF4:gid:fatC:pid:AAR12525.1:loc:4518:5472:strand:+ -            317   3.5e-37  128.2  33.0   1   1   2.3e-41   4.5e-37  127.8  33.0    31   312    27   312     4   312 0.89 FecCD transport family
+Peripla_BP_2         PF01497.21   237 BGC0002468_ORF5:gid:fatB:pid:AAR12526.1:loc:5525:6494:strand:+ -            322   4.8e-31  108.2   0.2   1   1   2.8e-35   5.6e-31  108.0   0.2     2   236    59   297    58   298 0.87 Periplasmic binding protein
+TonB_dep_Rec         PF00593.27   470 BGC0002468_ORF6:gid:fatA:pid:AAR12527.1:loc:6597:8778:strand:+ -            726   7.3e-33  115.3  26.6   1   1   1.2e-36   1.2e-32  114.6  26.6    30   468   289   723   200   725 0.73 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0002468_ORF6:gid:fatA:pid:AAR12527.1:loc:6597:8778:strand:+ -            726   2.6e-12   47.4   0.4   1   1   9.5e-16   9.3e-12   45.6   0.1     6   102    84   174    80   182 0.91 TonB-dependent Receptor Plug Domain
+AMP-binding          PF00501.31   424 BGC0002468_ORF7:gid:angR:pid:AAR12528.1:loc:8862:12009:strand:+ -           1048   4.9e-89  299.0   0.0   1   1     1e-92   6.8e-89  298.5   0.0     1   423   459   854   459   855 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002468_ORF7:gid:angR:pid:AAR12528.1:loc:8862:12009:strand:+ -           1048   6.2e-12   46.5   0.1   1   1   1.9e-15   1.3e-11   45.5   0.1     1    76   863   942   863   942 0.88 AMP-binding enzyme C-terminal domain
+Condensation         PF00668.23   457 BGC0002468_ORF7:gid:angR:pid:AAR12528.1:loc:8862:12009:strand:+ -           1048   1.5e-09   37.2   6.7   1   1   3.4e-13   2.2e-09   36.6   6.7     3   433    13   415    11   432 0.80 Condensation domain
+Thioesterase         PF00975.23   230 BGC0002468_ORF8:gid:angT:pid:AAR12529.1:loc:12005:12764:strand:+ -            252   1.3e-32  114.0   0.0   1   1   1.7e-36   1.7e-32  113.5   0.0     4   227    20   244    18   246 0.86 Thioesterase domain
+Abhydrolase_6        PF12697.10   220 BGC0002468_ORF8:gid:angT:pid:AAR12529.1:loc:12005:12764:strand:+ -            252   4.1e-06   27.7   0.0   1   1     1e-09     1e-05   26.4   0.0    54   214    70   236    20   239 0.59 Alpha/beta hydrolase family
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002468_ORF9:gid:angU:pid:AAR12530.1:loc:12861:14190:strand:- -            442  9.1e-111  370.4   0.0   1   1  5.5e-115  1.1e-110  370.1   0.0     3   340     7   347     5   348 0.95 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Condensation         PF00668.23   457 BGC0002468_ORF10:gid:angN:pid:AAR12531.1:loc:14313:17184:strand:- -            956   2.6e-46  158.4   0.1   1   2   1.9e-35   3.8e-31  108.4   0.0     6   446     3   432     1   437 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0002468_ORF10:gid:angN:pid:AAR12531.1:loc:14313:17184:strand:- -            956   2.6e-46  158.4   0.1   2   2   1.2e-15   2.3e-11   43.2   0.9     6   272   447   696   444   709 0.84 Condensation domain
+DDE_Tnp_1_5          PF13737.9    112 BGC0002468_ORF11:gid::pid:AAA81776.2:loc:17395:18316:strand:+ -            306   2.2e-41  140.7   0.0   1   1   9.2e-45   9.1e-41  138.7   0.0     1   112    19   129    19   129 0.97 Transposase DDE domain
+DDE_Tnp_1            PF01609.24   214 BGC0002468_ORF11:gid::pid:AAA81776.2:loc:17395:18316:strand:+ -            306   3.9e-23   82.4   1.0   1   1   6.4e-27   6.3e-23   81.7   1.0     4   213   114   292   111   293 0.94 Transposase DDE domain
+HTH_38               PF13936.9     44 BGC0002468_ORF12:gid::pid:AAR12532.1:loc:18436:19405:strand:+ -            322     7e-15   54.7   2.2   1   1   1.9e-18   1.8e-14   53.3   2.2     1    44     2    45     2    45 0.99 Helix-turn-helix domain
+HTH_23               PF13384.9     50 BGC0002468_ORF12:gid::pid:AAR12532.1:loc:18436:19405:strand:+ -            322   4.8e-07   29.6   0.3   1   1   1.7e-10   1.7e-06   27.9   0.3     5    40     9    44     5    47 0.91 Homeodomain-like domain
+Pyridoxal_deC        PF00282.22   375 BGC0002468_ORF13:gid:angH:pid:AAR12533.1:loc:19651:20854:strand:+ -            400   3.6e-24   85.3   0.0   1   1   1.4e-27   1.4e-23   83.4   0.0   142   355   121   326    50   342 0.90 Pyridoxal-dependent decarboxylase conserved domain
+Aminotran_1_2        PF00155.24   363 BGC0002468_ORF13:gid:angH:pid:AAR12533.1:loc:19651:20854:strand:+ -            400   6.4e-06   25.7   0.0   1   1   1.3e-09   1.3e-05   24.7   0.0    30   312    60   345    48   376 0.71 Aminotransferase class I and II
+ABC_tran             PF00005.30   137 BGC0002468_ORF14:gid::pid:AAR12534.1:loc:20969:22580:strand:+ -            536   9.3e-26   91.1   0.0   1   1   2.7e-29   1.7e-25   90.2   0.0     5   137   347   481   343   481 0.89 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002468_ORF14:gid::pid:AAR12534.1:loc:20969:22580:strand:+ -            536   2.8e-13   50.3   8.3   1   1   7.6e-17     5e-13   49.5   8.3     3   249    27   264    25   283 0.86 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002468_ORF15:gid::pid:AAR12535.1:loc:22576:24259:strand:+ -            560   1.9e-30  106.3   0.1   1   1   1.9e-34   3.8e-30  105.3   0.1     2   137   337   485   336   485 0.90 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002468.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002468.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002468.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:24:50 2023
+# [ok]

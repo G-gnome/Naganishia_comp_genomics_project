@@ -1,0 +1,24 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR                 PF01047.25    59 BGC0000857_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   6.8e-19   67.6   1.7   1   1   3.5e-22   1.4e-18   66.7   1.7     1    59    56   114    56   114 0.99 MarR family
+MarR_2               PF12802.10    61 BGC0000857_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   6.9e-13   48.6   2.4   1   1   1.8e-16   7.2e-13   48.5   1.0     3    60    56   112    54   113 0.97 MarR family
+HTH_24               PF13412.9     48 BGC0000857_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   9.7e-07   28.4   0.5   1   1   5.6e-10   2.2e-06   27.2   0.2     7    47    62   102    58   103 0.93 Winged helix-turn-helix DNA-binding
+HTH_27               PF13463.9     68 BGC0000857_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   2.4e-06   28.1   1.9   1   1   1.2e-09   4.6e-06   27.2   0.8     1    67    56   121    56   122 0.97 Winged helix DNA-binding domain
+Penicillinase_R      PF03965.19   115 BGC0000857_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   4.7e-05   23.8   1.5   1   1   2.4e-08   9.3e-05   22.9   0.5     9    58    64   110    56   144 0.75 Penicillinase repressor
+Acetyltransf_1       PF00583.28   117 BGC0000857_ORF2:gid:ectA:pid:ABY40744.1:loc:1135:1654:strand:+ -            172     3e-14   53.4   0.0   1   1     6e-18   3.9e-14   53.0   0.0    30   113    48   130    22   133 0.86 Acetyltransferase (GNAT) family
+Acetyltransf_3       PF13302.10   138 BGC0000857_ORF2:gid:ectA:pid:ABY40744.1:loc:1135:1654:strand:+ -            172   3.8e-07   31.0   0.0   1   1   7.7e-11   5.1e-07   30.6   0.0    57   134    53   131    15   133 0.80 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.10   128 BGC0000857_ORF2:gid:ectA:pid:ABY40744.1:loc:1135:1654:strand:+ -            172   1.3e-06   28.5   0.0   1   1   3.1e-10   2.1e-06   27.9   0.0    32    98    52   124    35   132 0.84 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.24   403 BGC0000857_ORF3:gid:ectB:pid:ABY40745.1:loc:1708:3037:strand:+ -            442   4.1e-82  276.2   0.0   1   1   2.5e-86   4.8e-82  275.9   0.0     9   403    18   411    11   411 0.90 Aminotransferase class-III
+Ectoine_synth        PF06339.15   127 BGC0000857_ORF4:gid:ectC:pid:ABY40746.1:loc:3082:3487:strand:+ -            134   7.8e-59  197.6   0.0   1   1   4.5e-63   8.8e-59  197.4   0.0     1   126     1   128     1   129 0.98 Ectoine synthase
+AA_kinase            PF00696.31   241 BGC0000857_ORF5:gid:ask:pid:ABY40747.1:loc:3557:4871:strand:+ -            438   1.6e-26   93.5   0.1   1   1   1.6e-30   3.2e-26   92.5   0.1     3   241     5   299     4   299 0.83 Amino acid kinase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000857.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000857.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000857.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:13:16 2023
+# [ok]

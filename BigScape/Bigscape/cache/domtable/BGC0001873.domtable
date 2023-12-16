@@ -1,0 +1,22 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.22   349 BGC0001873_ORF1:gid::pid:WP_038234862.1:loc:0:1179:strand:- -            392   3.4e-22   79.3   0.0   1   1   6.6e-26   4.3e-22   79.0   0.0     3   347     6   340     4   342 0.82 FAD binding domain
+Amino_oxidase        PF01593.27   452 BGC0001873_ORF1:gid::pid:WP_038234862.1:loc:0:1179:strand:- -            392   3.4e-06   26.8   0.2   1   1   1.7e-08   0.00011   21.8   0.0   210   257   107   154    92   160 0.91 Flavin containing amine oxidoreductase
+AMP-binding          PF00501.31   424 BGC0001873_ORF2:gid::pid:WP_051462298.1:loc:1163:8606:strand:- -           2480  1.3e-175  584.3   0.0   1   2  6.1e-104  2.4e-100  336.3   0.0     1   424   467   874   467   874 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001873_ORF2:gid::pid:WP_051462298.1:loc:1163:8606:strand:- -           2480  1.3e-175  584.3   0.0   2   2   1.6e-76   6.2e-73  245.9   0.0     4   424  1573  1985  1570  1985 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001873_ORF2:gid::pid:WP_051462298.1:loc:1163:8606:strand:- -           2480   1.3e-82  278.0  20.8   1   2   3.8e-35   1.5e-31  109.7   8.4     4   456     6   446     3   447 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0001873_ORF2:gid::pid:WP_051462298.1:loc:1163:8606:strand:- -           2480   1.3e-82  278.0  20.8   2   2   1.1e-54   4.5e-51  174.1   4.5     3   441  1102  1538  1100  1544 0.86 Condensation domain
+Thioesterase         PF00975.23   230 BGC0001873_ORF2:gid::pid:WP_051462298.1:loc:1163:8606:strand:- -           2480     1e-32  114.3   0.2   1   1   8.3e-36   3.3e-32  112.6   0.0     2   225  2197  2456  2196  2460 0.81 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001873_ORF2:gid::pid:WP_051462298.1:loc:1163:8606:strand:- -           2480   3.2e-29  101.2   0.4   1   2   1.4e-14   5.7e-11   42.7   0.0     4    67  1008  1068  1006  1068 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001873_ORF2:gid::pid:WP_051462298.1:loc:1163:8606:strand:- -           2480   3.2e-29  101.2   0.4   2   2   1.2e-18   4.7e-15   55.8   0.1     2    67  2101  2164  2100  2164 0.96 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001873.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001873.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001873.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:51:19 2023
+# [ok]

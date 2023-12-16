@@ -1,0 +1,18 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF4135              PF13575.9    377 BGC0000554_ORF3:gid::pid:WP_010071701.1:loc:580:3895:strand:+ -           1104  7.9e-106  354.6   0.0   1   1    1e-109    1e-105  354.2   0.0     1   376   224   605   224   606 0.95 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000554_ORF3:gid::pid:WP_010071701.1:loc:580:3895:strand:+ -           1104   1.6e-52  178.4   0.0   1   1     2e-56     2e-52  178.1   0.0     3   351   723  1092   721  1093 0.85 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.18   133 BGC0000554_ORF5:gid::pid:WP_010071703.1:loc:4398:6546:strand:+ -            715   2.3e-35  121.4   0.0   1   1   5.7e-39   3.7e-35  120.7   0.0     2   131     8   135     7   137 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000554_ORF5:gid::pid:WP_010071703.1:loc:4398:6546:strand:+ -            715   2.4e-34  118.9   0.0   1   1   7.4e-38   4.9e-34  117.9   0.0     1   137   494   643   494   643 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000554_ORF5:gid::pid:WP_010071703.1:loc:4398:6546:strand:+ -            715   2.2e-30  106.4   7.4   1   1   4.5e-34   2.9e-30  106.0   7.4     7   268   169   427   163   433 0.96 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000554.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000554.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000554.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:52:10 2023
+# [ok]

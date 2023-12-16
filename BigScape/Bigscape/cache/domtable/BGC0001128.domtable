@@ -1,0 +1,33 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216         0 1659.4   0.0   1   5   1.2e-97   4.5e-94  315.6   0.0     1   424    65   463    65   463 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216         0 1659.4   0.0   2   5    3e-101   1.2e-97  327.4   0.0     2   424  1141  1549  1140  1549 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216         0 1659.4   0.0   3   5  1.4e-104  5.4e-101  338.4   0.0     1   424  2211  2605  2211  2605 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216         0 1659.4   0.0   4   5    5e-103     2e-99  333.2   0.0     1   424  3282  3681  3282  3681 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216         0 1659.4   0.0   5   5  1.4e-104  5.4e-101  338.4   0.0     1   424  4358  4752  4358  4752 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216  9.4e-243  806.0   0.0   1   4   5.5e-46   2.2e-42  145.5   0.0     2   456   685  1119   684  1120 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216  9.4e-243  806.0   0.0   2   4  4.3e-107  1.7e-103  346.9   0.0     4   457  1747  2191  1744  2191 0.95 Condensation domain
+Condensation         PF00668.23   457 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216  9.4e-243  806.0   0.0   3   4   1.2e-46   4.6e-43  147.7   0.0     2   456  2827  3261  2826  3262 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216  9.4e-243  806.0   0.0   4   4   9.9e-51   3.9e-47  161.1   0.0     2   457  3903  4338  3902  4338 0.89 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-62  207.6   1.7   1   5   1.6e-13   6.2e-10   40.0   0.0     1    76   471   544   471   544 0.88 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-62  207.6   1.7   2   5   1.1e-14   4.4e-11   43.7   0.1     1    76  1557  1630  1557  1630 0.90 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-62  207.6   1.7   3   5   1.4e-14   5.4e-11   43.4   0.0     1    76  2613  2686  2613  2686 0.88 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-62  207.6   1.7   4   5   3.5e-12   1.4e-08   35.7   0.0     1    76  3689  3762  3689  3762 0.89 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-62  207.6   1.7   5   5     3e-13   1.2e-09   39.2   0.0     1    76  4760  4833  4760  4833 0.89 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-54  181.3   9.7   1   5   7.2e-12   2.8e-08   34.1   0.2     3    66   574   634   573   635 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-54  181.3   9.7   2   5   2.6e-13     1e-09   38.7   0.0     3    65  1660  1719  1659  1721 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-54  181.3   9.7   3   5   5.8e-14   2.3e-10   40.8   0.1     3    65  2716  2775  2715  2777 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-54  181.3   9.7   4   5   7.6e-13     3e-09   37.2   0.2     2    66  3791  3852  3790  3853 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216     3e-54  181.3   9.7   5   5   3.1e-11   1.2e-07   32.0   0.0     3    67  4863  4924  4862  4924 0.94 Phosphopantetheine attachment site
+Thioesterase         PF00975.23   230 BGC0001128_ORF1:gid::pid:CAE15637.1:loc:35:15686:strand:- -           5216   2.9e-24   86.6   0.1   1   1   2.4e-27   9.4e-24   84.9   0.1     2   225  4947  5202  4946  5207 0.75 Thioesterase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001128.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001128.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001128.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:46:36 2023
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0000945_ORF1:gid::pid::loc:129:7383:strand:- -            824   2.7e-44  151.7  14.1   1   2   1.5e-37   2.9e-33  115.4   7.2    10   447    11   444     4   448 0.84 Condensation domain
+Condensation         PF00668.23   457 BGC0000945_ORF1:gid::pid::loc:129:7383:strand:- -            824   2.7e-44  151.7  14.1   2   2   1.3e-14   2.5e-10   39.8   0.5     3   277   458   725   456   732 0.79 Condensation domain
+SIP                  PF04954.16   119 BGC0000945_ORF2:gid::pid:AAF95354.1:loc:7628:8444:strand:- -            271   2.3e-34  118.5   0.1   1   1   3.4e-38   3.4e-34  118.0   0.1     1   119   134   253   134   253 0.98 Siderophore-interacting protein
+FAD_binding_9        PF08021.14   121 BGC0000945_ORF2:gid::pid:AAF95354.1:loc:7628:8444:strand:- -            271   4.9e-34  117.3   0.0   1   1   1.7e-37   1.7e-33  115.5   0.0     3   120    16   127    14   128 0.93 Siderophore-interacting FAD-binding domain
+Plug                 PF07715.18   108 BGC0000945_ORF3:gid::pid:AAF95355.1:loc:8747:10811:strand:- -            687   3.7e-12   46.9   0.7   1   1   4.8e-16   9.3e-12   45.6   0.7     3   108    64   178    62   178 0.94 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000945.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000945.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000945.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:53:53 2023
+# [ok]

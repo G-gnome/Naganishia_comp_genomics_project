@@ -1,0 +1,435 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1278.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1268.4333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>wxcX
+conserved protein involved in carbohydrate biosynthesis</title>
+			<polygon class="wxcX
+conserved protein involved in carbohydrate biosynthesis" points="14,10 35,40 14,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_tran_WbsX (PF14307)
+"Glycosyltransferase WbsX"</title>
+				<rect class="PF14307" x="14" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(154,50,178)" stroke="rgb(123,40,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RgpF (PF05045)
+"Rhamnan synthesis protein F"</title>
+				<polygon class="PF05045" points="17,28 23,28 31,40 23,52 17,52" stroke-linejoin="round" width="15" height="24" fill="rgb(109,228,177)" stroke="rgb(87,182,141)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpsJ
+beta-subunit of putative 3-oxoacid CoA-transferase</title>
+			<polygon class="lpsJ
+beta-subunit of putative 3-oxoacid CoA-transferase" points="45,40 66,10 66,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="49,40 58,28 65,28 65,52 58,52" stroke-linejoin="round" width="19" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpsI
+alpha subunit of putative 3-oxoacid CoA-transferase</title>
+			<polygon class="lpsI
+alpha subunit of putative 3-oxoacid CoA-transferase" points="66,40 90,10 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="70,40 80,28 88,28 88,52 80,52" stroke-linejoin="round" width="21" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>xanA
+phosphoglucomutase / phosphomannomutase</title>
+			<polygon class="xanA
+phosphoglucomutase / phosphomannomutase" points="95,25 109,25 109,10 139,40 109,70 109,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGM_PMM_I (PF02878)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I"</title>
+				<rect class="PF02878" x="95" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(217,133,102)" stroke="rgb(173,106,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_II (PF02879)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II"</title>
+				<rect class="PF02879" x="110" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(192,221,60)" stroke="rgb(153,176,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_III (PF02880)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III"</title>
+				<polygon class="PF02880" points="120,28 123,28 131,36 131,44 123,52 120,52" stroke-linejoin="round" width="11" height="24" fill="rgb(67,204,90)" stroke="rgb(53,163,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_IV (PF00408)
+"Phosphoglucomutase/phosphomannomutase, C-terminal domain"</title>
+				<polygon class="PF00408" points="132,37 135,40 132,43" stroke-linejoin="round" width="7" height="24" fill="rgb(74,205,143)" stroke="rgb(59,164,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>xanB
+phosphomannose isomerase / GDP-mannose pyrophosphorylase</title>
+			<polygon class="xanB
+phosphomannose isomerase / GDP-mannose pyrophosphorylase" points="141,25 157,25 157,10 187,40 157,70 157,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<rect class="PF00483" x="141" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MannoseP_isomer (PF01050)
+"Mannose-6-phosphate isomerase"</title>
+				<polygon class="PF01050" points="172,29 183,40 172,51" stroke-linejoin="round" width="15" height="24" fill="rgb(53,184,51)" stroke="rgb(42,147,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rmlD
+dTDP-4-dehydrorhamnose reductase</title>
+			<polygon class="rmlD
+dTDP-4-dehydrorhamnose reductase" points="222,25 222,25 222,10 192,40 222,70 222,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RmlD_sub_bind (PF04321)
+"RmlD substrate binding domain"</title>
+				<polygon class="PF04321" points="196,40 208,28 221,28 221,52 208,52" stroke-linejoin="round" width="29" height="24" fill="rgb(196,203,60)" stroke="rgb(156,162,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rmlC
+dTDP-4-dehydrorhamnose 3,5-epimerase</title>
+			<polygon class="rmlC
+dTDP-4-dehydrorhamnose 3,5-epimerase" points="222,40 240,10 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="226,40 233,28 239,28 239,52 233,52" stroke-linejoin="round" width="16" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rmlA
+glucose-1-phosphate thymidylyltransferase</title>
+			<polygon class="rmlA
+glucose-1-phosphate thymidylyltransferase" points="241,40 270,10 270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="246,39 257,28 269,28 269,52 257,52 246,41" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rmlB
+dTDP-glucose 4,6-dehydratase</title>
+			<polygon class="rmlB
+dTDP-glucose 4,6-dehydratase" points="307,25 302,25 302,10 272,40 302,70 302,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="276,40 288,28 305,28 305,52 288,52" stroke-linejoin="round" width="31" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>etfS
+putative electron-transferring flavoprotein beta subunit</title>
+			<polygon class="etfS
+putative electron-transferring flavoprotein beta subunit" points="315,10 339,40 315,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ETF (PF01012)
+"Electron transfer flavoprotein domain"</title>
+				<polygon class="PF01012" points="317,28 326,28 335,39 335,41 326,52 317,52" stroke-linejoin="round" width="18" height="24" fill="rgb(218,56,91)" stroke="rgb(174,44,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>etfL
+putative electron-transferring flavoprotein alpha subunit</title>
+			<polygon class="etfL
+putative electron-transferring flavoprotein alpha subunit" points="340,25 341,25 341,10 371,40 341,70 341,55 340,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ETF (PF01012)
+"Electron transfer flavoprotein domain"</title>
+				<polygon class="PF01012" points="340,28 355,28 357,30 357,50 355,52 340,52" stroke-linejoin="round" width="17" height="24" fill="rgb(218,56,91)" stroke="rgb(174,44,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ETF_alpha (PF00766)
+"Electron transfer flavoprotein FAD-binding domain"</title>
+				<polygon class="PF00766" points="359,32 367,40 367,40 359,48" stroke-linejoin="round" width="8" height="24" fill="rgb(59,72,212)" stroke="rgb(47,57,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcH
+WxcH</title>
+			<polygon class="wxcH
+WxcH" points="373,10 384,40 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MannoseP_isomer (PF01050)
+"Mannose-6-phosphate isomerase"</title>
+				<polygon class="PF01050" points="379,34 381,40 379,46" stroke-linejoin="round" width="4" height="24" fill="rgb(53,184,51)" stroke="rgb(42,147,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcK
+nucleotide sugar aminotransferase</title>
+			<polygon class="wxcK
+nucleotide sugar aminotransferase" points="387,25 393,25 393,10 423,40 393,70 393,55 387,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="388,28 407,28 419,40 407,52 388,52" stroke-linejoin="round" width="34" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcL
+glycosyltransferase</title>
+			<polygon class="wxcL
+glycosyltransferase" points="423,25 425,25 425,10 455,40 425,70 425,55 423,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="424,28 439,28 440,29 440,51 439,52 424,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcM
+bifunctional nucleotide hexosamine acetyltransferase / isomerase</title>
+			<polygon class="wxcM
+bifunctional nucleotide hexosamine acetyltransferase / isomerase" points="455,25 456,25 456,10 486,40 456,70 456,55 455,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<rect class="PF00132" x="456" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<rect class="PF00132" x="464" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FdtA (PF05523)
+"WxcM-like, C-terminal"</title>
+				<polygon class="PF05523" points="472,31 481,40 472,49" stroke-linejoin="round" width="13" height="24" fill="rgb(91,72,180)" stroke="rgb(72,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcN
+putative integral membrane protein WxcN</title>
+			<polygon class="wxcN
+putative integral membrane protein WxcN" points="486,10 500,40 486,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GtrA (PF04138)
+"GtrA-like protein"</title>
+				<polygon class="PF04138" points="488,28 491,28 497,40 491,52 488,52" stroke-linejoin="round" width="11" height="24" fill="rgb(72,221,86)" stroke="rgb(57,176,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcO
+integral membrane protein</title>
+			<polygon class="wxcO
+integral membrane protein" points="503,25 548,25 548,10 578,40 548,70 548,55 503,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>rmd
+GDP-4-dehydro-D-rhamnose reductase</title>
+			<polygon class="rmd
+GDP-4-dehydro-D-rhamnose reductase" points="613,25 612,25 612,10 582,40 612,70 612,55 613,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="589,37 598,28 611,28 611,52 598,52 589,43" stroke-linejoin="round" width="22" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gmd
+GDP-mannose 4,6-dehydratase</title>
+			<polygon class="gmd
+GDP-mannose 4,6-dehydratase" points="647,25 643,25 643,10 613,40 643,70 643,55 647,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="617,40 629,28 646,28 646,52 629,52" stroke-linejoin="round" width="32" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcE
+Unknown</title>
+			<polygon class="wxcE
+Unknown" points="650,40 671,10 671,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>wxcD
+putative glycosyltransferase</title>
+			<polygon class="wxcD
+putative glycosyltransferase" points="729,25 701,25 701,10 671,40 701,70 701,55 729,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_4 (PF13692)
+"Glycosyl transferases group 1"</title>
+				<rect class="PF13692" x="695" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(85,182,142)" stroke="rgb(68,145,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcC
+glycosyltransferase</title>
+			<polygon class="wxcC
+glycosyltransferase" points="765,25 760,25 760,10 730,40 760,70 760,55 765,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="734,40 746,28 747,28 747,52 746,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcB
+putative protein kinase</title>
+			<polygon class="wxcB
+putative protein kinase" points="843,25 797,25 797,10 767,40 797,70 797,55 843,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_31 (PF13847)
+"Methyltransferase domain"</title>
+				<rect class="PF13847" x="827" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(214,74,181)" stroke="rgb(171,59,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzt
+ATP-binding component of an ABC-type polysaccharide exporter</title>
+			<polygon class="wzt
+ATP-binding component of an ABC-type polysaccharide exporter" points="887,25 875,25 875,10 845,40 875,70 875,55 887,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzt_C (PF14524)
+"Wzt C-terminal domain"</title>
+				<polygon class="PF14524" points="849,40 860,29 860,51" stroke-linejoin="round" width="14" height="24" fill="rgb(91,192,197)" stroke="rgb(72,153,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="870" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzm
+permease protein of an ABC-type polysaccaharide exporter</title>
+			<polygon class="wzm
+permease protein of an ABC-type polysaccaharide exporter" points="888,40 914,10 914,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="892,40 902,28 913,28 913,52 902,52 892,40" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxcA
+glycosyltransferase</title>
+			<polygon class="wxcA
+glycosyltransferase" points="963,25 947,25 947,10 917,40 947,70 947,55 963,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="921,40 933,28 938,28 938,52 933,52" stroke-linejoin="round" width="19" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uptH
+cystathionine gamma-synthase</title>
+			<polygon class="uptH
+cystathionine gamma-synthase" points="1003,25 993,25 993,10 963,40 993,70 993,55 1003,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cys_Met_Meta_PP (PF01053)
+"Cys/Met metabolism PLP-dependent enzyme"</title>
+				<polygon class="PF01053" points="967,40 979,28 1000,28 1000,52 979,52" stroke-linejoin="round" width="37" height="24" fill="rgb(142,222,85)" stroke="rgb(113,177,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uptG
+cystathionine beta-lyase</title>
+			<polygon class="uptG
+cystathionine beta-lyase" points="1051,25 1036,25 1036,10 1006,40 1036,70 1036,55 1051,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CBS (PF00571)
+"CBS domain"</title>
+				<polygon class="PF00571" points="1012,38 1018,32 1018,48 1012,42" stroke-linejoin="round" width="6" height="24" fill="rgb(220,56,105)" stroke="rgb(176,44,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="1021,29 1022,28 1050,28 1050,52 1022,52 1021,51" stroke-linejoin="round" width="29" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uptF
+UptF</title>
+			<polygon class="uptF
+UptF" points="1059,40 1075,10 1075,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF465 (PF04325)
+"Protein of unknown function (DUF465)"</title>
+				<polygon class="PF04325" points="1062,40 1063,38 1063,42" stroke-linejoin="round" width="4" height="24" fill="rgb(83,221,164)" stroke="rgb(66,176,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uptE
+putative outer membrane protein UptE precursor</title>
+			<polygon class="uptE
+putative outer membrane protein UptE precursor" points="1078,40 1107,10 1107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>uptD
+putative outer membrane protein UptD precursor</title>
+			<polygon class="uptD
+putative outer membrane protein UptD precursor" points="1107,40 1119,10 1119,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4398 (PF14346)
+"Domain of unknown function (DUF4398)"</title>
+				<polygon class="PF14346" points="1110,40 1115,28 1116,28 1116,52 1115,52" stroke-linejoin="round" width="8" height="24" fill="rgb(97,187,81)" stroke="rgb(77,149,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uptC
+type II secretion system protein-like protein</title>
+			<polygon class="uptC
+type II secretion system protein-like protein" points="1123,25 1130,25 1130,10 1160,40 1130,70 1130,55 1123,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>T2SSE (PF00437)
+"Type II/IV secretion system protein"</title>
+				<polygon class="PF00437" points="1123,28 1144,28 1149,33 1149,47 1144,52 1123,52" stroke-linejoin="round" width="26" height="24" fill="rgb(201,94,126)" stroke="rgb(160,75,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uptB
+putative maleylacetoacetate isomerase</title>
+			<polygon class="uptB
+putative maleylacetoacetate isomerase" points="1179,40 1201,10 1201,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GST_C_2 (PF13410)
+"Glutathione S-transferase, C-terminal domain"</title>
+				<polygon class="PF13410" points="1183,40 1187,35 1187,45" stroke-linejoin="round" width="7" height="24" fill="rgb(228,199,74)" stroke="rgb(182,159,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GST_N_3 (PF13417)
+"Glutathione S-transferase, N-terminal domain"</title>
+				<polygon class="PF13417" points="1192,28 1192,28 1199,28 1199,52 1192,52 1192,52" stroke-linejoin="round" width="7" height="24" fill="rgb(220,154,91)" stroke="rgb(176,123,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uptA
+putative dioxygenase</title>
+			<polygon class="uptA
+putative dioxygenase" points="1235,25 1232,25 1232,10 1202,40 1232,70 1232,55 1235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAA_hydrolase (PF01557)
+"Fumarylacetoacetate (FAA) hydrolase family"</title>
+				<polygon class="PF01557" points="1206,40 1218,28 1226,28 1226,52 1218,52" stroke-linejoin="round" width="24" height="24" fill="rgb(71,203,125)" stroke="rgb(56,162,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAA_hydro_N_2 (PF18288)
+"Fumarylacetoacetase N-terminal domain 2"</title>
+				<rect class="PF18288" x="1227" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(52,189,209)" stroke="rgb(41,151,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhlE
+putative ATP-dependent RNA helicase</title>
+			<polygon class="rhlE
+putative ATP-dependent RNA helicase" points="1248,10 1268,40 1248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<polygon class="PF00270" points="1250,28 1256,28 1264,40 1256,52 1250,52" stroke-linejoin="round" width="17" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="323.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="313.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>BH0451
+lantibiotic haloduracin protease and transporter</title>
+			<polygon class="BH0451
+lantibiotic haloduracin protease and transporter" points="82,25 40,25 40,10 10,40 40,70 40,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="17,37 26,28 31,28 31,52 26,52 17,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="39" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="68" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BH0452
+Class II lantibiotic synthetase</title>
+			<polygon class="BH0452
+Class II lantibiotic synthetase" points="181,25 112,25 112,10 82,40 112,70 112,55 181,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="86,40 98,28 116,28 116,52 98,52" stroke-linejoin="round" width="33" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="128" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BH0453
+lantibiotic haloduracin precursor</title>
+			<polygon class="BH0453
+lantibiotic haloduracin precursor" points="185,40 191,10 191,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>BH0454
+lantibiotic haloduracin precursor</title>
+			<polygon class="BH0454
+lantibiotic haloduracin precursor" points="198,10 205,40 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lantibiotic_a (PF14867)
+"Lantibiotic alpha"</title>
+				<polygon class="PF14867" points="201,37 201,40 201,43" stroke-linejoin="round" width="3" height="24" fill="rgb(140,86,183)" stroke="rgb(111,68,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BH0455
+Class II lantibiotic synthetase</title>
+			<polygon class="BH0455
+Class II lantibiotic synthetase" points="207,25 283,25 283,10 313,40 283,70 283,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="226" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="276,28 296,28 308,40 296,52 276,52" stroke-linejoin="round" width="34" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

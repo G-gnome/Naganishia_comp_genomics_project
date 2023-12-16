@@ -1,0 +1,33 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_N               PF00440.26    47 BGC0000604_ORF1:gid:tpdR:pid:ACS83759.1:loc:0:714:strand:+ -            237   1.3e-16   60.2   0.7   1   1   1.3e-20   2.6e-16   59.2   0.0     1    47    14    60    14    60 0.97 Bacterial regulatory proteins, tetR family
+YcaO                 PF02624.19   322 BGC0000604_ORF2:gid:tpdO:pid:ACS83760.1:loc:710:2612:strand:+ -            633   4.6e-75  253.1   0.2   1   1   3.2e-79   6.2e-75  252.6   0.2     2   321   251   588   250   589 0.86 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_N        PF04738.16   650 BGC0000604_ORF3:gid:tpdP:pid:ACS83761.1:loc:2608:5098:strand:+ -            829   3.6e-28   98.1  13.5   1   2   2.9e-20   5.6e-16   57.8   2.5     2   287   132   421   131   487 0.81 Lantibiotic dehydratase, N terminus
+Lant_dehydr_N        PF04738.16   650 BGC0000604_ORF3:gid:tpdP:pid:ACS83761.1:loc:2608:5098:strand:+ -            829   3.6e-28   98.1  13.5   2   2   1.4e-16   2.8e-12   45.6   3.5   498   634   632   766   613   780 0.83 Lantibiotic dehydratase, N terminus
+p450                 PF00067.25   463 BGC0000604_ORF4:gid:tpdQ:pid:ACS83762.1:loc:5094:6129:strand:+ -            344   2.7e-19   69.4   0.0   1   1   3.3e-18   6.6e-14   51.6   0.3   327   429   224   309   221   312 0.91 Cytochrome P450
+DUF5969              PF19394.2     93 BGC0000604_ORF5:gid:tpdS:pid:ACS83763.1:loc:6217:6904:strand:+ -            228   1.4e-40  137.6   0.1   1   1   1.2e-44   2.3e-40  136.9   0.1     1    93   139   228   139   228 0.98 Family of unknown function (DUF5969)
+MTS                  PF05175.17   170 BGC0000604_ORF6:gid:tpdT:pid:ACS83764.1:loc:6946:8065:strand:+ -            372   6.5e-12   45.5   0.0   1   1   2.7e-15   1.7e-11   44.1   0.0    20   108   133   220   129   266 0.87 Methyltransferase small domain
+Met_10               PF02475.19   199 BGC0000604_ORF6:gid:tpdT:pid:ACS83764.1:loc:6946:8065:strand:+ -            372   7.9e-06   25.9   0.0   1   1   2.5e-09   1.6e-05   24.9   0.0    98   176   142   218   130   224 0.90 Met-10+ like-protein
+PrmA                 PF06325.16   295 BGC0000604_ORF6:gid:tpdT:pid:ACS83764.1:loc:6946:8065:strand:+ -            372   4.2e-05   23.2   0.3   1   1   1.2e-08   7.6e-05   22.4   0.0   158   232   141   217   132   223 0.83 Ribosomal protein L11 methyltransferase (PrmA)
+Radical_SAM          PF04055.24   167 BGC0000604_ORF7:gid:tpdU:pid:ACS83765.1:loc:8093:9338:strand:+ -            414     3e-18   66.9   0.0   1   1   7.8e-22   1.5e-17   64.6   0.0     4   165    27   204    24   206 0.88 Radical SAM superfamily
+Thiopep_pre          PF19409.2     36 BGC0000604_ORF8:gid:tpdA:pid:ACS83766.1:loc:9461:9635:strand:+ -             57   2.2e-09   37.1   8.5   1   1   1.1e-13   2.2e-09   37.1   8.5     1    36    24    53    24    53 0.98 Thiopeptide-type bacteriocin precursor
+Lant_dehydr_N        PF04738.16   650 BGC0000604_ORF9:gid:tpdB:pid:ACS83767.1:loc:9645:12129:strand:+ -            827   2.7e-35  121.6   2.4   1   2   1.3e-25   2.5e-21   75.5   0.1     3   331   154   473   152   477 0.87 Lantibiotic dehydratase, N terminus
+Lant_dehydr_N        PF04738.16   650 BGC0000604_ORF9:gid:tpdB:pid:ACS83767.1:loc:9645:12129:strand:+ -            827   2.7e-35  121.6   2.4   2   2   1.4e-16   2.8e-12   45.6   0.0   486   630   603   756   596   759 0.86 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000604_ORF10:gid:tpdC:pid:ACS83768.1:loc:12125:13025:strand:+ -            299   9.6e-41  140.5   5.5   1   1   9.8e-45   1.9e-40  139.5   5.5     1   288     7   291     7   291 0.81 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.9    288 BGC0000604_ORF11:gid:tpdD:pid:ACS83769.1:loc:13024:14026:strand:+ -            333   2.2e-29  103.3   8.8   1   1   1.2e-33   2.4e-29  103.1   8.8     1   287     3   317     3   318 0.89 Lantibiotic biosynthesis dehydratase C-term
+Nitroreductase       PF00881.27   168 BGC0000604_ORF12:gid:tpdE:pid:ACS83770.1:loc:14022:15390:strand:+ -            455   7.9e-09   35.9   0.0   1   1   6.3e-13   1.2e-08   35.3   0.0     2   152   258   428   257   439 0.77 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0000604_ORF14:gid:tpdG:pid:ACS83772.1:loc:17200:18937:strand:+ -            578   1.6e-78  264.5   4.3   1   1     1e-82     2e-78  264.1   4.3     2   321   206   548   205   549 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Radical_SAM          PF04055.24   167 BGC0000604_ORF16:gid:tpdL:pid:ACS83774.1:loc:19326:20577:strand:+ -            416   1.2e-17   64.9   0.0   1   1   9.8e-22   1.9e-17   64.2   0.0     5   165    36   212    32   214 0.89 Radical SAM superfamily
+Methyltransf_2       PF00891.21   210 BGC0000604_ORF17:gid:tpdM:pid:ACS83775.1:loc:20578:21598:strand:+ -            339   4.4e-42  143.9   0.0   1   1   2.8e-46   5.5e-42  143.6   0.0     2   209   108   313   107   314 0.97 O-methyltransferase domain
+RibD_C               PF01872.20   200 BGC0000604_ORF18:gid:tpdN:pid:ACS83776.1:loc:22233:22848:strand:+ -            204   6.7e-21   75.2   0.0   1   1   5.1e-25     1e-20   74.6   0.0     2   199     3   178     2   179 0.86 RibD C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000604.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000604.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000604.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:29:35 2023
+# [ok]

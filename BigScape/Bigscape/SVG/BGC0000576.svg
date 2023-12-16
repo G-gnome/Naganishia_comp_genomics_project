@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="285.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="275.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (RGE_06950)
+putative TonB-dependent receptor</title>
+			<polygon class=" (RGE_06950)
+putative TonB-dependent receptor" points="10,25 73,25 73,10 103,40 73,70 73,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="20" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="47,28 86,28 98,40 86,52 47,52" stroke-linejoin="round" width="54" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RGE_06960)
+hypothetical protein</title>
+			<polygon class=" (RGE_06960)
+hypothetical protein" points="105,25 154,25 154,10 184,40 154,70 154,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (RGE_06970)
+putative asparagine synthase</title>
+			<polygon class=" (RGE_06970)
+putative asparagine synthase" points="243,25 212,25 212,10 182,40 212,70 212,55 243,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="186,40 198,28 220,28 220,52 198,52" stroke-linejoin="round" width="36" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RGE_06980)
+hypothetical protein</title>
+			<polygon class=" (RGE_06980)
+hypothetical protein" points="245,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="249,40 256,31 256,49" stroke-linejoin="round" width="11" height="24" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RGE_06990)
+hypothetical protein</title>
+			<polygon class=" (RGE_06990)
+hypothetical protein" points="271,40 274,10 274,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5974 (PF19399)
+"Family of unknown function (DUF5974)"</title>
+				<polygon class="PF19399" points="274,40 274,40 274,40" stroke-linejoin="round" width="3" height="24" fill="rgb(92,222,167)" stroke="rgb(73,177,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Tyrosinase           PF00264.23   222 BGC0002596_ORF1:gid::pid:CCE33498.1:loc:0:1593:strand:+ -            375   1.4e-46  159.7   1.4   1   1   9.5e-51   1.9e-46  159.3   1.4     1   221    85   318    85   319 0.95 Common central domain of tyrosinase
+Tyrosinase           PF00264.23   222 BGC0002596_ORF2:gid::pid:CCE33499.1:loc:5342:8402:strand:+ -            542   1.2e-41  143.6   2.4   1   1   8.5e-46   1.7e-41  143.1   2.4     1   221    92   325    92   326 0.95 Common central domain of tyrosinase
+ketoacyl-synt        PF00109.29   253 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228   1.1e-68  231.7   0.0   1   1   7.6e-72   2.1e-68  230.7   0.0     3   253   391   653   389   653 0.90 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228     1e-37  130.2   2.7   1   1   2.1e-38     6e-35  121.1   0.4     1   227     8   233     8   242 0.94 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.24   319 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228     4e-35  122.0   0.0   1   1   2.4e-38   6.9e-35  121.2   0.0     1   279   941  1241   941  1275 0.81 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228   1.8e-31  108.7   0.4   1   1   1.4e-34     4e-31  107.6   0.4     1   115   661   780   661   783 0.96 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228     8e-21   75.4   0.8   1   1   7.2e-24     2e-20   74.0   0.0     2   107  1959  2062  1958  2213 0.81 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228   6.4e-20   71.4   1.4   1   2     7e-11     2e-07   31.4   0.1     1    61  1713  1775  1713  1777 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228   6.4e-20   71.4   1.4   2   2   4.3e-13   1.2e-09   38.5   0.1     3    62  1831  1890  1829  1895 0.96 Phosphopantetheine attachment site
+PS-DH                PF14765.9    297 BGC0002596_ORF3:gid::pid:CCE33500.1:loc:9756:16626:strand:- -           2228   8.4e-17   61.5   0.0   1   1   8.3e-20   2.3e-16   60.0   0.0    31   292  1370  1651  1364  1654 0.85 Polyketide synthase dehydratase
+Tyrosinase           PF00264.23   222 BGC0002596_ORF5:gid::pid:CCE33502.1:loc:21768:23420:strand:+ -            387   1.1e-44  153.6   2.5   1   1   7.4e-49   1.4e-44  153.1   2.5     1   221    97   330    97   331 0.95 Common central domain of tyrosinase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002596.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002596.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002596.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:33:37 2023
+# [ok]

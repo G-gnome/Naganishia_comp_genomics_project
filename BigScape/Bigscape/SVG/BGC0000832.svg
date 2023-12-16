@@ -1,0 +1,363 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1118.1333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1108.1333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cloE
+Regulatory protein CloE</title>
+			<polygon class="cloE
+Regulatory protein CloE" points="10,10 31,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cloF
+prephenate dehydrogenase</title>
+			<polygon class="cloF
+prephenate dehydrogenase" points="34,25 40,25 40,10 70,40 40,70 40,55 34,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDH_N (PF02153)
+"Prephenate dehydrogenase, nucleotide-binding domain"</title>
+				<rect class="PF02153" x="35" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(90,185,212)" stroke="rgb(72,148,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloG
+regulatory protein CloG</title>
+			<polygon class="cloG
+regulatory protein CloG" points="89,25 91,25 91,10 121,40 91,70 91,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ParBc (PF02195)
+"ParB/Sulfiredoxin domain"</title>
+				<rect class="PF02195" x="91" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(55,214,209)" stroke="rgb(44,171,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloY
+mbtH-like protein</title>
+			<polygon class="cloY
+mbtH-like protein" points="129,10 136,40 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MbtH (PF03621)
+"MbtH-like protein"</title>
+				<polygon class="PF03621" points="129,28 129,28 133,40 129,52 129,52" stroke-linejoin="round" width="5" height="24" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloH
+peptide synthetase-like protein</title>
+			<polygon class="cloH
+peptide synthetase-like protein" points="144,25 174,25 174,10 204,40 174,70 174,55 144,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="146" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="187,28 187,28 194,35 194,45 187,52 187,52" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="197,38 199,40 197,42" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloI
+cytochrome P450</title>
+			<polygon class="cloI
+cytochrome P450" points="204,25 214,25 214,10 244,40 214,70 214,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="232,32 240,40 232,48" stroke-linejoin="round" width="9" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloJ
+b-ketotyrosyl-reductase</title>
+			<polygon class="cloJ
+b-ketotyrosyl-reductase" points="250,10 275,40 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="251,28 262,28 271,40 262,52 251,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloK
+b-ketotyrosyl-reductase</title>
+			<polygon class="cloK
+b-ketotyrosyl-reductase" points="276,10 300,40 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="276,28 287,28 295,38 295,42 287,52 276,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloL
+amide synthetase</title>
+			<polygon class="cloL
+amide synthetase" points="301,25 323,25 323,10 353,40 323,70 323,55 301,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="302,28 337,28 342,33 342,47 337,52 302,52" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="343,34 349,40 343,46" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloM
+glycosyltransferase</title>
+			<polygon class="cloM
+glycosyltransferase" points="354,25 363,25 363,10 393,40 363,70 363,55 354,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="370,28 376,28 379,31 379,49 376,52 370,52" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPGT (PF00201)
+"UDP-glucoronosyl and UDP-glucosyl transferase"</title>
+				<polygon class="PF00201" points="380,32 388,40 380,48" stroke-linejoin="round" width="12" height="24" fill="rgb(225,150,107)" stroke="rgb(180,120,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloN1
+acyl carrier protein</title>
+			<polygon class="cloN1
+acyl carrier protein" points="393,10 402,40 393,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="395,28 395,28 399,40 395,52 395,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloN2
+acyltransferase</title>
+			<polygon class="cloN2
+acyltransferase" points="403,25 408,25 408,10 438,40 408,70 408,55 403,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<rect class="PF08545" x="413" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(189,102,84)" stroke="rgb(151,81,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="427,33 434,40 427,47" stroke-linejoin="round" width="9" height="24" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloN3
+acyl-CoA dehydrogenase</title>
+			<polygon class="cloN3
+acyl-CoA dehydrogenase" points="438,25 445,25 445,10 475,40 445,70 445,55 438,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="438" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="449" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="460,29 471,40 460,51" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloN4
+acyl-CoA synthetase</title>
+			<polygon class="cloN4
+acyl-CoA synthetase" points="480,25 500,25 500,10 530,40 500,70 500,55 480,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="481,28 513,28 520,35 520,45 513,52 481,52" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="520,35 525,40 520,45" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloN5
+acyl carrier protein</title>
+			<polygon class="cloN5
+acyl carrier protein" points="530,10 539,40 530,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="532,28 535,40 532,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloN6
+methyltransferase</title>
+			<polygon class="cloN6
+methyltransferase" points="541,25 567,25 567,10 597,40 567,70 567,55 541,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>B12-binding (PF02310)
+"B12 binding domain"</title>
+				<rect class="PF02310" x="543" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(145,190,60)" stroke="rgb(115,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloN7
+acyl transferase</title>
+			<polygon class="cloN7
+acyl transferase" points="599,10 626,40 599,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_1 (PF00561)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF00561" points="601,28 611,28 621,39 621,41 611,52 601,52" stroke-linejoin="round" width="20" height="24" fill="rgb(86,180,151)" stroke="rgb(68,144,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>clohal
+halogenase</title>
+			<polygon class="clohal
+halogenase" points="635,25 657,25 657,10 687,40 657,70 657,55 635,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="644,28 671,28 677,34 677,46 671,52 644,52" stroke-linejoin="round" width="33" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloP
+O-methyltransferase</title>
+			<polygon class="cloP
+O-methyltransferase" points="698,10 725,40 698,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TylF (PF05711)
+"Macrocin-O-methyltransferase (TylF)"</title>
+				<polygon class="PF05711" points="701,28 710,28 721,40 710,52 701,52" stroke-linejoin="round" width="24" height="24" fill="rgb(175,228,98)" stroke="rgb(139,182,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloQ
+ABBA prenyltransferase</title>
+			<polygon class="cloQ
+ABBA prenyltransferase" points="759,25 761,25 761,10 791,40 761,70 761,55 759,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTase_Orf2 (PF11468)
+"Aromatic prenyltransferase Orf2"</title>
+				<polygon class="PF11468" points="760,28 775,28 787,40 775,52 760,52" stroke-linejoin="round" width="28" height="24" fill="rgb(121,52,185)" stroke="rgb(96,41,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloR
+alpha-ketoacid-dependent oxygenase</title>
+			<polygon class="cloR
+alpha-ketoacid-dependent oxygenase" points="791,10 818,40 791,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldolase_II (PF00596)
+"Class II Aldolase and Adducin N-terminal domain"</title>
+				<polygon class="PF00596" points="794,28 803,28 812,38 812,42 803,52 794,52" stroke-linejoin="round" width="18" height="24" fill="rgb(208,130,90)" stroke="rgb(166,104,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloS
+dTDP-4-keto-6-deoxyhexose reductase</title>
+			<polygon class="cloS
+dTDP-4-keto-6-deoxyhexose reductase" points="847,10 875,40 847,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RmlD_sub_bind (PF04321)
+"RmlD substrate binding domain"</title>
+				<polygon class="PF04321" points="847,28 859,28 871,40 859,52 847,52" stroke-linejoin="round" width="28" height="24" fill="rgb(196,203,60)" stroke="rgb(156,162,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloT
+dTDP-glucose 4,6-dehydratase</title>
+			<polygon class="cloT
+dTDP-glucose 4,6-dehydratase" points="877,25 880,25 880,10 910,40 880,70 880,55 877,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="877,28 894,28 906,40 894,52 877,52" stroke-linejoin="round" width="30" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloU
+C-methyltransferase</title>
+			<polygon class="cloU
+C-methyltransferase" points="918,25 930,25 930,10 960,40 930,70 930,55 918,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_13 (PF08421)
+"Putative zinc binding domain"</title>
+				<rect class="PF08421" x="919" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<rect class="PF13489" x="925" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_14 (PF08484)
+"C-methyltransferase C-terminal domain"</title>
+				<polygon class="PF08484" points="943,28 943,28 955,40 943,52 943,52" stroke-linejoin="round" width="15" height="24" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloV
+dTDP-glucose synthase</title>
+			<polygon class="cloV
+dTDP-glucose synthase" points="964,10 993,40 964,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="964,28 977,28 987,38 987,42 977,52 964,52" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloW
+dTDP-4-keto-6-deoxyglucose 3,5-epimerase</title>
+			<polygon class="cloW
+dTDP-4-keto-6-deoxyglucose 3,5-epimerase" points="993,10 1012,40 993,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="993,28 1001,28 1009,40 1001,52 993,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cloZ
+Unknown</title>
+			<polygon class="cloZ
+Unknown" points="1013,10 1038,40 1013,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gyrBR
+clorobiocin-resistant gyrase B</title>
+			<polygon class="gyrBR
+clorobiocin-resistant gyrase B" points="1050,25 1077,25 1077,10 1107,40 1077,70 1077,55 1050,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<rect class="PF02518" x="1055" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseB (PF00204)
+"DNA gyrase B"</title>
+				<polygon class="PF00204" points="1075,28 1091,28 1092,29 1092,51 1091,52 1075,52" stroke-linejoin="round" width="17" height="24" fill="rgb(66,134,179)" stroke="rgb(52,107,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Toprim (PF01751)
+"Toprim domain"</title>
+				<polygon class="PF01751" points="1095,32 1103,40 1095,48" stroke-linejoin="round" width="11" height="24" fill="rgb(95,212,145)" stroke="rgb(76,169,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

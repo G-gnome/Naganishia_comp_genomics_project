@@ -1,0 +1,37 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fungal_trans         PF04082.21   267 BGC0000968_ORF1:gid:cheC:pid:CAO91859.1:loc:0:2204:strand:+ -            709     7e-11   41.8   0.2   1   1   6.3e-15   1.2e-10   41.0   0.2     1   206   234   430   234   485 0.83 Fungal specific transcription factor domain
+AMP-binding          PF00501.31   424 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   4.3e-76  256.4   0.0   1   1   5.5e-79   6.3e-76  255.8   0.0     5   418  3035  3441  3031  3449 0.88 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013     2e-75  253.7   0.0   1   1   3.2e-78   3.7e-75  252.9   0.0     2   253     7   258     6   258 0.93 Beta-ketoacyl synthase, N-terminal domain
+Condensation         PF00668.23   457 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.4e-54  185.7   0.0   1   1   1.8e-57     2e-54  185.1   0.0     5   454  2567  3006  2563  3009 0.88 Condensation domain
+Acyl_transf_1        PF00698.24   319 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.8e-49  169.1   0.0   1   1     5e-52   5.7e-49  167.5   0.0     3   300   552   871   551   885 0.84 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.7e-49  168.8   0.0   1   1   2.6e-52     3e-49  168.0   0.0     3   295   946  1242   945  1244 0.88 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.5e-48  165.2   0.2   1   1   1.3e-51   1.5e-48  165.2   0.2     2   179  2106  2280  2105  2281 0.97 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.9e-30  105.4   0.0   1   1   3.9e-33   4.5e-30  104.2   0.0     2   117   267   386   266   388 0.95 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   4.9e-22   78.1   0.2   1   2   1.9e-09   2.2e-06   28.0   0.0     6    64  2403  2461  2399  2461 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   4.9e-22   78.1   0.2   2   2   8.9e-15     1e-11   45.1   0.0     2    67  3566  3631  3565  3631 0.96 Phosphopantetheine attachment site
+Methyltransf_12      PF08242.15    99 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.7e-20   73.7   0.3   1   1   7.5e-22   8.7e-19   68.2   0.0     1    99  1420  1521  1420  1521 0.91 Methyltransferase domain
+NAD_binding_4        PF07993.15   257 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   5.3e-17   62.0   0.0   1   1   9.2e-19   1.1e-15   57.7   0.0     1   254  3685  3908  3685  3911 0.74 Male sterility protein
+Methyltransf_23      PF13489.9    165 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   2.4e-15   56.9   0.0   1   1   2.4e-17   2.8e-14   53.4   0.0     9   162  1399  1574  1392  1577 0.76 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.3e-14   54.7   0.0   1   1   3.1e-17   3.6e-14   53.3   0.0    11   110   399   506   396   507 0.95 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.9     97 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   5.7e-13   49.5   0.3   1   1     5e-15   5.8e-12   46.3   0.0     1    97  1419  1519  1419  1519 0.91 Methyltransferase domain
+Epimerase            PF01370.24   241 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   3.4e-11   43.2   0.0   1   1   1.4e-10   1.7e-07   31.1   0.0     1   220  3683  3909  3683  3913 0.77 NAD dependent epimerase/dehydratase family
+Methyltransf_31      PF13847.9    152 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   7.8e-10   38.9   0.1   1   1   9.3e-12   1.1e-08   35.2   0.0     6   113  1418  1527  1414  1540 0.90 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013   1.5e-09   37.7   0.0   1   1   1.4e-11   1.6e-08   34.4   0.1     4   182  2108  2279  2105  2291 0.85 short chain dehydrogenase
+Methyltransf_11      PF08241.15    96 BGC0000968_ORF3:gid:cheA:pid:CAO91861.1:loc:4197:16239:strand:+ -           4013     4e-09   37.1   0.1   1   1   1.8e-11   2.1e-08   34.8   0.0     1    96  1420  1523  1420  1523 0.88 Methyltransferase domain
+p450                 PF00067.25   463 BGC0000968_ORF4:gid:cheD:pid:CAO91862.1:loc:16832:18776:strand:- -            427     3e-25   89.0   0.0   1   1   2.6e-27   5.1e-23   81.7   0.0   256   438   221   405   160   419 0.87 Cytochrome P450
+FAD_binding_3        PF01494.22   349 BGC0000968_ORF5:gid:cheE:pid:CAO91863.1:loc:19230:21209:strand:+ -            589   3.2e-64  217.5   0.0   1   1   2.5e-68   4.8e-64  216.9   0.0     4   346    15   383    12   386 0.86 FAD binding domain
+Fungal_trans         PF04082.21   267 BGC0000968_ORF6:gid:cheF:pid:CAO91864.1:loc:21321:23755:strand:- -            770   4.2e-10   39.2   1.9   1   1     7e-14   6.8e-10   38.5   1.9    10   204   284   469   275   535 0.83 Fungal specific transcription factor domain
+Zn_clus              PF00172.21    40 BGC0000968_ORF6:gid:cheF:pid:CAO91864.1:loc:21321:23755:strand:- -            770   2.5e-08   34.0  10.9   1   1   5.1e-12     5e-08   33.1  10.9     1    39    25    63    25    64 0.90 Fungal Zn(2)-Cys(6) binuclear cluster domain
+p450                 PF00067.25   463 BGC0000968_ORF7:gid:cheG:pid:CAO91865.1:loc:24297:25930:strand:- -            523   5.8e-41  140.8   0.0   1   1   3.9e-45   7.6e-41  140.4   0.0    37   434    84   480    65   495 0.82 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000968.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000968.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000968.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:26:54 2023
+# [ok]

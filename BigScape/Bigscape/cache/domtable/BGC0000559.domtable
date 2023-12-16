@@ -1,0 +1,36 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lant_dehydr_N        PF04738.16   650 BGC0000559_ORF1:gid:spaB:pid:AAB91586.1:loc:494:3587:strand:+ -           1030    4e-127  425.0   0.0   1   1  4.9e-131  4.8e-127  424.8   0.0     2   648    40   681    39   683 0.95 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000559_ORF1:gid:spaB:pid:AAB91586.1:loc:494:3587:strand:+ -           1030   3.7e-33  115.6   3.3   1   1   1.3e-36   1.3e-32  113.9   1.7     1   284   756  1012   756  1016 0.76 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.30   137 BGC0000559_ORF2:gid:spaT:pid:AAB91587.1:loc:3577:5422:strand:+ -            614   1.1e-31  110.3   0.1   1   1   1.6e-35   3.2e-31  108.8   0.0     1   136   370   523   370   524 0.90 ABC transporter
+LANC_like            PF05147.16   352 BGC0000559_ORF3:gid:spaC:pid:AAB91588.1:loc:5394:6720:strand:+ -            441   8.8e-91  304.2   0.6   1   1   5.3e-95     1e-90  304.0   0.6     2   352    48   440    47   440 0.95 Lanthionine synthetase C-like protein
+Gallidermin          PF02052.18    52 BGC0000559_ORF4:gid:spaS:pid:AAB91589.1:loc:6794:6965:strand:+ -             56   3.2e-06   27.5   0.3   1   1   2.4e-10   4.6e-06   27.0   0.3     9    44     5    37     2    43 0.77 Gallidermin
+Spa1_C               PF18218.4     99 BGC0000559_ORF5:gid:spai:pid:AAB91598.1:loc:7547:8045:strand:+ -            165   5.9e-27   94.1   1.4   1   1   4.9e-31   9.7e-27   93.4   1.4     1    99    59   157    59   157 0.98 Lantibiotic immunity protein Spa1 C-terminal domain
+ABC_tran             PF00005.30   137 BGC0000559_ORF6:gid:spaF:pid:AAB91597.1:loc:8031:8775:strand:+ -            247   3.8e-33  115.0   0.1   1   1   6.3e-37   6.2e-33  114.4   0.1     2   137    31   167    30   167 0.97 ABC transporter
+AAA_21               PF13304.9    304 BGC0000559_ORF6:gid:spaF:pid:AAB91597.1:loc:8031:8775:strand:+ -            247   2.3e-14   54.0   3.7   1   1   2.1e-13   2.1e-09   37.7   0.1   221   299   122   197    75   202 0.82 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0000559_ORF7:gid:spaE:pid:AAB91596.1:loc:8771:9527:strand:+ -            251   5.5e-09   36.4  19.7   1   1   2.8e-13   5.5e-09   36.4  19.7     2   177     5   166     4   168 0.81 ABC-2 family transporter protein
+Response_reg         PF00072.27   112 BGC0000559_ORF9:gid:spaR:pid:AAB91594.1:loc:10316:10979:strand:+ -            220     1e-21   77.3   0.3   1   1   2.1e-25   2.1e-21   76.3   0.3     1   112     4   112     4   112 0.93 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0000559_ORF9:gid:spaR:pid:AAB91594.1:loc:10316:10979:strand:+ -            220   1.8e-18   66.5   0.0   1   1   4.7e-22   4.6e-18   65.2   0.0     2    76   146   218   145   219 0.94 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.29   112 BGC0000559_ORF10:gid:spaK:pid:AAB91593.1:loc:10969:12349:strand:+ -            459   3.7e-14   53.3   0.0   1   1   1.2e-17   7.9e-14   52.2   0.0     5   111   351   457   348   458 0.92 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.28    67 BGC0000559_ORF10:gid:spaK:pid:AAB91593.1:loc:10969:12349:strand:+ -            459   8.4e-11   41.9   0.0   1   1   3.1e-14     2e-10   40.7   0.0     3    65   239   300   237   302 0.90 His Kinase A (phospho-acceptor) domain
+HATPase_c_3          PF13589.9    137 BGC0000559_ORF10:gid:spaK:pid:AAB91593.1:loc:10969:12349:strand:+ -            459   7.3e-07   29.3   0.0   1   1   3.4e-10   2.2e-06   27.8   0.0     4    81   353   428   349   434 0.85 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HxlR                 PF01638.20    91 BGC0000559_ORF11:gid::pid:AAB91592.1:loc:12558:12885:strand:- -            108   4.9e-34  116.2   0.0   1   1   2.8e-38   5.6e-34  116.0   0.0     1    89    16   104    16   106 0.98 HxlR-like helix-turn-helix
+HTH_31               PF13560.9     64 BGC0000559_ORF12:gid::pid:AAB91591.1:loc:12975:13395:strand:- -            139     1e-15   57.9   0.0   1   1   3.3e-19   1.6e-15   57.3   0.0     2    62     4    65     3    67 0.93 Helix-turn-helix domain
+HTH_3                PF01381.25    55 BGC0000559_ORF12:gid::pid:AAB91591.1:loc:12975:13395:strand:- -            139     4e-14   52.5   0.7   1   1   1.5e-17   7.1e-14   51.7   0.3     1    52     8    60     8    63 0.97 Helix-turn-helix
+HTH_19               PF12844.10    65 BGC0000559_ORF12:gid::pid:AAB91591.1:loc:12975:13395:strand:- -            139   8.7e-12   45.1   0.0   1   1   2.8e-15   1.4e-11   44.4   0.0     1    62     5    66     5    69 0.94 Helix-turn-helix domain
+HTH_26               PF13443.9     63 BGC0000559_ORF12:gid::pid:AAB91591.1:loc:12975:13395:strand:- -            139   9.9e-08   32.4   0.0   1   1   4.2e-11   2.1e-07   31.4   0.0     2    58     8    64     7    66 0.95 Cro/C1-type HTH DNA-binding domain
+HTH_31               PF13560.9     64 BGC0000559_ORF13:gid:yvan:pid:AAB91590.1:loc:13423:13831:strand:- -            135   1.1e-16   61.0   0.0   1   1   3.6e-20   1.8e-16   60.4   0.0     2    57     4    59     3    63 0.96 Helix-turn-helix domain
+HTH_3                PF01381.25    55 BGC0000559_ORF13:gid:yvan:pid:AAB91590.1:loc:13423:13831:strand:- -            135   1.9e-14   53.6   0.3   1   1   5.9e-18   2.9e-14   53.0   0.3     1    53     8    61     8    63 0.96 Helix-turn-helix
+HTH_19               PF12844.10    65 BGC0000559_ORF13:gid:yvan:pid:AAB91590.1:loc:13423:13831:strand:- -            135   2.3e-12   46.9   0.7   1   1   8.7e-16   4.3e-12   46.0   0.1     1    60     5    64     5    68 0.95 Helix-turn-helix domain
+HTH_26               PF13443.9     63 BGC0000559_ORF13:gid:yvan:pid:AAB91590.1:loc:13423:13831:strand:- -            135   4.5e-05   23.9   0.0   1   1   2.2e-08   0.00011   22.7   0.0     2    53     8    59     7    65 0.93 Cro/C1-type HTH DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000559.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000559.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000559.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:01:23 2023
+# [ok]

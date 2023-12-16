@@ -1,0 +1,32 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_11      PF08241.15    96 BGC0002148_ORF1:gid:gntJ:pid:QYX30480.1:loc:5:755:strand:- -            249     1e-12   48.7   0.0   1   1   3.5e-16   1.7e-12   47.9   0.0     2    94    80   175    79   177 0.90 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002148_ORF1:gid:gntJ:pid:QYX30480.1:loc:5:755:strand:- -            249   3.5e-09   36.8   0.0   1   1   1.1e-12   5.2e-09   36.2   0.0    14   163    69   219    58   221 0.83 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002148_ORF1:gid:gntJ:pid:QYX30480.1:loc:5:755:strand:- -            249   6.7e-09   36.4   0.0   1   1     3e-12   1.5e-08   35.3   0.0     3    97    80   173    79   173 0.85 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002148_ORF1:gid:gntJ:pid:QYX30480.1:loc:5:755:strand:- -            249   2.1e-06   27.8   0.0   1   1   6.7e-10   3.3e-06   27.1   0.0     7   107    78   175    74   213 0.79 Methyltransferase domain
+YqcI_YcgG            PF08892.14   211 BGC0002148_ORF2:gid:gntA:pid:QYX30481.1:loc:1017:1821:strand:+ -            267   1.3e-52  178.9   3.8   1   1   7.8e-57   1.5e-52  178.6   3.8     1   210    45   256    45   257 0.96 YqcI/YcgG family
+FA_desaturase        PF00487.27   254 BGC0002148_ORF3:gid:gntB:pid:QYX30482.1:loc:1844:2801:strand:+ -            318   4.1e-35  121.9  16.6   1   1   3.1e-39   6.2e-35  121.4  16.6     2   243    51   287    50   296 0.73 Fatty acid desaturase
+Aminotran_1_2        PF00155.24   363 BGC0002148_ORF4:gid:gntC:pid:QYX30483.1:loc:2952:4065:strand:+ -            370     4e-38  131.6   0.0   1   1   5.2e-42   5.1e-38  131.3   0.0    42   363    54   363    48   363 0.89 Aminotransferase class I and II
+Aminotran_5          PF00266.22   371 BGC0002148_ORF4:gid:gntC:pid:QYX30483.1:loc:2952:4065:strand:+ -            370   5.9e-07   28.9   0.0   1   1   1.1e-10   1.1e-06   28.0   0.0    47   176    60   187    45   199 0.84 Aminotransferase class-V
+TauD                 PF02668.19   268 BGC0002148_ORF5:gid:gntD:pid:QYX30484.1:loc:4061:5105:strand:+ -            347     2e-15   57.5   0.1   1   1   2.9e-19   5.8e-15   55.9   0.1    61   267   111   321    66   322 0.73 Taurine catabolism dioxygenase TauD, TfdA family
+Aminotran_3          PF00202.24   403 BGC0002148_ORF6:gid:gntE:pid:QYX30485.1:loc:5119:6430:strand:+ -            436   5.1e-71  239.6   0.0   1   1   3.3e-75   6.5e-71  239.3   0.0    12   403    36   430    28   430 0.90 Aminotransferase class-III
+NNMT_PNMT_TEMT       PF01234.20   256 BGC0002148_ORF7:gid:gntF:pid:QYX30486.1:loc:6633:7458:strand:+ -            274   1.4e-41  142.5   0.0   1   1   9.1e-46   1.8e-41  142.2   0.0    10   237     7   248     2   271 0.86 NNMT/PNMT/TEMT family
+Beta_elim_lyase      PF01212.24   291 BGC0002148_ORF8:gid:gntG:pid:QYX30487.1:loc:7463:8498:strand:+ -            344   5.8e-90  301.6   0.0   1   1     1e-93   6.6e-90  301.4   0.0     1   286     8   289     8   294 0.99 Beta-eliminating lyase
+Aminotran_1_2        PF00155.24   363 BGC0002148_ORF8:gid:gntG:pid:QYX30487.1:loc:7463:8498:strand:+ -            344     9e-07   28.5   0.0   1   1   2.9e-10   1.9e-06   27.5   0.0    18   323    16   302     8   318 0.80 Aminotransferase class I and II
+Lactamase_B_2        PF12706.10   201 BGC0002148_ORF9:gid:gntH:pid:QYX30488.1:loc:8689:9931:strand:+ -            413   9.5e-11   41.7   0.0   1   1   1.8e-14   1.8e-10   40.8   0.0     3   189   109   301   108   327 0.73 Beta-lactamase superfamily domain
+Lactamase_B          PF00753.30   197 BGC0002148_ORF9:gid:gntH:pid:QYX30488.1:loc:8689:9931:strand:+ -            413   4.9e-08   33.3   0.2   1   1   2.9e-11   2.8e-07   30.8   0.2     5    74    95   160    91   267 0.70 Metallo-beta-lactamase superfamily
+Choline_kinase       PF01633.23   213 BGC0002148_ORF10:gid:gntI:pid:QYX30489.1:loc:9993:10911:strand:+ -            305   2.8e-24   86.1   0.0   1   1   1.1e-27   7.1e-24   84.7   0.0    18   197    59   226    45   241 0.88 Choline/ethanolamine kinase
+APH                  PF01636.26   239 BGC0002148_ORF10:gid:gntI:pid:QYX30489.1:loc:9993:10911:strand:+ -            305   3.4e-18   66.5   0.0   1   1   9.9e-22   6.5e-18   65.6   0.0     8   228    30   233    22   247 0.82 Phosphotransferase enzyme family
+MatE                 PF01554.21   161 BGC0002148_ORF11:gid:gntT:pid:QYX30490.1:loc:11218:12577:strand:+ -            452   1.9e-29  102.5  33.3   1   2   1.2e-23   2.3e-19   69.8   7.6     3   161    23   182    22   182 0.99 MatE
+MatE                 PF01554.21   161 BGC0002148_ORF11:gid:gntT:pid:QYX30490.1:loc:11218:12577:strand:+ -            452   1.9e-29  102.5  33.3   2   2   1.3e-15   2.5e-11   43.6  11.4    32   157   275   400   243   404 0.90 MatE
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002148.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002148.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002148.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:24:46 2023
+# [ok]

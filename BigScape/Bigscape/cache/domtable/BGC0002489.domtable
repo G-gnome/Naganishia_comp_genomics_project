@@ -1,0 +1,19 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EamA                 PF00892.23   137 BGC0002489_ORF1:gid::pid:AAG08219.1:loc:0:855:strand:- -            284   3.3e-30  105.2  39.5   1   2   5.5e-21   1.1e-16   61.4  16.6     2   136     8   138     7   139 0.92 EamA-like transporter family
+EamA                 PF00892.23   137 BGC0002489_ORF1:gid::pid:AAG08219.1:loc:0:855:strand:- -            284   3.3e-30  105.2  39.5   2   2   1.8e-17   3.5e-13   50.0  14.9     5   136   151   279   148   280 0.95 EamA-like transporter family
+Staph_opine_DH       PF10100.12   424 BGC0002489_ORF2:gid::pid:AAG08220.1:loc:836:2138:strand:- -            433  1.3e-174  581.0   0.0   1   1  7.3e-179  1.4e-174  580.8   0.0     2   424    10   429     9   429 0.99 Staphylopine dehydrogenase
+NAS                  PF03059.19   276 BGC0002489_ORF3:gid::pid:AAG08221.1:loc:2134:2926:strand:- -            263   8.7e-12   45.1   0.0   1   1   6.6e-16   1.3e-11   44.5   0.0   119   255   118   246   105   261 0.81 Nicotianamine synthase protein
+TonB_dep_Rec         PF00593.27   470 BGC0002489_ORF4:gid::pid:AAG08222.1:loc:2955:5082:strand:- -            708   1.9e-72  245.8   9.7   1   1     2e-76   1.9e-72  245.8   9.7     2   469   236   706   235   707 0.80 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0002489_ORF4:gid::pid:AAG08222.1:loc:2955:5082:strand:- -            708   1.8e-16   60.8   0.2   1   1   3.9e-20   3.8e-16   59.7   0.2     3   108    65   163    63   163 0.94 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002489.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002489.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002489.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:51:56 2023
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.20   256 BGC0002320_ORF1:gid:Pc20g10860:pid:CAP86415.1:loc:3:2798:strand:- -            732   1.7e-46  158.5   0.0   1   1   2.6e-50   2.6e-46  157.9   0.0     5   228   390   603   386   631 0.88 Polyprenyl synthetase
+Terpene_syn_C_2      PF19086.3    199 BGC0002320_ORF1:gid:Pc20g10860:pid:CAP86415.1:loc:3:2798:strand:- -            732   1.4e-15   57.8   0.4   1   1     6e-17   5.9e-13   49.2   0.1    74   196   140   263    98   266 0.86 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0002320_ORF2:gid:Pc20g10870:pid:CAP86416.1:loc:5443:7131:strand:+ -            491   5.9e-47  160.6   0.0   1   1   4.1e-51   8.1e-47  160.1   0.0    21   457    52   476    35   479 0.79 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002320.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002320.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002320.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:02:48 2023
+# [ok]

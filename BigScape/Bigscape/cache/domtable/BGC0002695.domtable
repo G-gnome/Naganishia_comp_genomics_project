@@ -1,0 +1,38 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MbtH                 PF03621.16    53 BGC0002695_ORF1:gid::pid:NPC94425.1:loc:0:216:strand:- -             71   3.4e-24   84.1   0.0   1   1   2.2e-28   4.2e-24   83.8   0.0     1    52     1    52     1    53 0.98 MbtH-like protein
+AMP-binding          PF00501.31   424 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380    1e-220  732.8   0.0   1   2  1.1e-113  3.7e-110  368.6   0.0     1   424   459   859   459   859 0.93 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380    1e-220  732.8   0.0   2   2  9.1e-112    3e-108  362.3   0.0     1   424  1516  1930  1516  1930 0.90 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380    1e-178  594.9   0.0   1   2   2.8e-78     9e-75  252.2   0.0     7   454    11   438     7   441 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380    1e-178  594.9   0.0   2   2  4.1e-105  1.3e-101  340.7   0.0     2   457  1048  1497  1047  1497 0.94 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380   1.6e-33  115.6   1.0   1   2   5.6e-19   1.8e-15   57.8   0.1     1    76   867   942   867   942 0.93 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380   1.6e-33  115.6   1.0   2   2   2.8e-18   9.2e-15   55.5   0.2     1    76  1938  2014  1938  2014 0.92 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.23   230 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380   4.7e-32  112.1   0.0   1   1   4.6e-35   1.5e-31  110.4   0.0     2   215  2127  2354  2126  2366 0.80 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380   6.6e-28   96.9   0.9   1   2   9.4e-16   3.1e-12   46.7   0.0     3    66   970  1031   968  1032 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380   6.6e-28   96.9   0.9   2   2   3.1e-16     1e-12   48.3   0.1     3    66  2042  2103  2040  2104 0.94 Phosphopantetheine attachment site
+Abhydrolase_6        PF12697.10   220 BGC0002695_ORF2:gid::pid:NPC94426.1:loc:212:7355:strand:- -           2380   3.5e-06   27.9   0.1   1   1   1.1e-09   3.5e-06   27.9   0.1     1   117  2128  2254  2128  2337 0.63 Alpha/beta hydrolase family
+Isochorismatase      PF00857.23   175 BGC0002695_ORF3:gid::pid:NPC94427.1:loc:7369:8284:strand:- -            304   6.4e-41  140.6   0.1   1   1   2.9e-44   2.8e-40  138.5   0.0     1   174    31   204    31   205 0.99 Isochorismatase family
+PP-binding           PF00550.28    67 BGC0002695_ORF3:gid::pid:NPC94427.1:loc:7369:8284:strand:- -            304   1.1e-05   25.7   0.0   1   1   2.4e-09   2.4e-05   24.7   0.0     2    63   226   286   225   290 0.93 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002695_ORF4:gid::pid:NPC94428.1:loc:8312:9938:strand:- -            541   3.2e-83  279.8   0.0   1   1     4e-87   3.9e-83  279.5   0.0     2   423    32   435    31   436 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002695_ORF4:gid::pid:NPC94428.1:loc:8312:9938:strand:- -            541   5.6e-15   56.2   0.0   1   1   2.8e-18   2.7e-14   54.0   0.0     1    76   444   519   444   519 0.93 AMP-binding enzyme C-terminal domain
+Chorismate_bind      PF00425.21   256 BGC0002695_ORF5:gid:dhbC:pid:NPC94429.1:loc:9964:11158:strand:- -            397   1.5e-78  264.0   0.0   1   1   1.1e-82   2.1e-78  263.6   0.0     2   256   121   383   120   383 0.96 chorismate binding enzyme
+adh_short            PF00106.28   195 BGC0002695_ORF6:gid::pid:NPC94430.1:loc:11178:11949:strand:- -            256   1.3e-58  197.9   0.5   1   1   3.1e-62   1.5e-58  197.6   0.5     2   192     5   195     4   198 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002695_ORF6:gid::pid:NPC94430.1:loc:11178:11949:strand:- -            256     1e-57  195.5   1.1   1   1   2.6e-61   1.3e-57  195.2   1.1     1   234    10   253    10   253 0.93 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002695_ORF6:gid::pid:NPC94430.1:loc:11178:11949:strand:- -            256   1.7e-15   57.5   0.8   1   1     5e-19   2.5e-15   57.0   0.8     4   154     7   157     5   164 0.92 KR domain
+Epimerase            PF01370.24   241 BGC0002695_ORF6:gid::pid:NPC94430.1:loc:11178:11949:strand:- -            256   5.9e-06   26.0   0.1   1   1   9.7e-09   4.8e-05   23.1   0.1     1   229     6   237     6   248 0.63 NAD dependent epimerase/dehydratase family
+Esterase             PF00756.23   251 BGC0002695_ORF7:gid::pid:NPC94431.1:loc:12255:13113:strand:- -            285   8.1e-20   71.7   0.0   1   1   1.8e-23   1.8e-19   70.5   0.0     3   231    32   258    30   266 0.76 Putative esterase
+Peptidase_S9         PF00326.24   212 BGC0002695_ORF7:gid::pid:NPC94431.1:loc:12255:13113:strand:- -            285   8.3e-07   28.8   0.0   1   1   4.3e-10   4.3e-06   26.5   0.0    59   109   150   201   143   214 0.86 Prolyl oligopeptidase family
+FecCD                PF01032.21   312 BGC0002695_ORF8:gid::pid:NPC94432.1:loc:13134:14142:strand:- -            335   3.3e-83  279.4  27.7   1   1   2.1e-87   4.1e-83  279.1  27.7     1   312    11   329    11   329 0.98 FecCD transport family
+FecCD                PF01032.21   312 BGC0002695_ORF9:gid::pid:NPC94433.1:loc:14146:15151:strand:- -            334   1.5e-86  290.4  27.4   1   1   8.9e-91   1.7e-86  290.2  27.4     1   312    17   327    17   327 0.98 FecCD transport family
+Peripla_BP_2         PF01497.21   237 BGC0002695_ORF10:gid::pid:NPC94434.1:loc:15171:16125:strand:- -            317   1.9e-28   99.7   0.8   1   1   1.2e-32   2.3e-28   99.4   0.8    43   232    99   288    58   290 0.93 Periplasmic binding protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002695.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002695.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002695.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:41:25 2023
+# [ok]

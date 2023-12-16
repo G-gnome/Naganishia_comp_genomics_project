@@ -1,0 +1,29 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001621_ORF1:gid::pid:XP_002379984.1:loc:3190:9487:strand:- -           2074  1.2e-139  465.8   0.0   1   2   7.8e-79   5.1e-75  252.8   0.0     1   423   230   622   230   623 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001621_ORF1:gid::pid:XP_002379984.1:loc:3190:9487:strand:- -           2074  1.2e-139  465.8   0.0   2   2   3.7e-66   2.4e-62  211.0   0.0     3   424  1336  1740  1334  1740 0.83 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001621_ORF1:gid::pid:XP_002379984.1:loc:3190:9487:strand:- -           2074   5.8e-48  163.8   0.2   1   1   1.8e-42   1.2e-38  133.1   0.0     3   455   886  1314   884  1316 0.83 Condensation domain
+PP-binding           PF00550.28    67 BGC0001621_ORF1:gid::pid:XP_002379984.1:loc:3190:9487:strand:- -           2074     1e-20   73.9   0.0   1   2   1.5e-12   9.6e-09   35.6   0.0     3    67   773   842   771   842 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001621_ORF1:gid::pid:XP_002379984.1:loc:3190:9487:strand:- -           2074     1e-20   73.9   0.0   2   2   1.6e-12   1.1e-08   35.4   0.0     1    65  1887  1948  1887  1949 0.93 Phosphopantetheine attachment site
+FAD_binding_3        PF01494.22   349 BGC0001621_ORF2:gid::pid:XP_002379985.1:loc:10406:11198:strand:+ -            223     7e-31  107.9   0.0   1   1   4.4e-35   8.6e-31  107.6   0.0   147   294    63   213    37   216 0.89 FAD binding domain
+PTR2                 PF00854.24   397 BGC0001621_ORF3:gid::pid:XP_002379986.1:loc:12677:14606:strand:- -            406   2.9e-38  131.9   0.1   1   1   1.5e-42   2.9e-38  131.9   0.1   128   388   127   372   125   379 0.87 POT family
+DIOX_N               PF14226.9    118 BGC0001621_ORF4:gid::pid:XP_002379987.1:loc:15249:16410:strand:+ -            364   4.2e-21   76.0   0.2   1   1   2.6e-24   2.6e-20   73.4   0.3     1   118    10   153    10   153 0.89 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.23   101 BGC0001621_ORF4:gid::pid:XP_002379987.1:loc:15249:16410:strand:+ -            364   1.1e-12   48.5   0.0   1   1   1.8e-16   1.8e-12   47.8   0.0     7    99   206   313   200   315 0.80 2OG-Fe(II) oxygenase superfamily
+Methyltransf_33      PF10017.12   309 BGC0001621_ORF5:gid::pid:XP_002379988.1:loc:16946:18112:strand:+ -            369   1.1e-85  287.7   0.0   1   1   6.4e-90   1.3e-85  287.5   0.0     3   304    52   357    50   362 0.96 Histidine-specific methyltransferase, SAM-dependent
+Methyltransf_3       PF01596.20   204 BGC0001621_ORF6:gid::pid:XP_002379989.1:loc:18538:19282:strand:- -            247     1e-26   93.6   0.0   1   1   2.1e-30   1.4e-26   93.2   0.0     7   193    41   231    37   242 0.90 O-methyltransferase
+Methyltransf_24      PF13578.9    107 BGC0001621_ORF6:gid::pid:XP_002379989.1:loc:18538:19282:strand:- -            247   7.3e-10   40.0   0.0   1   1   2.8e-13   1.8e-09   38.7   0.0     1   106    83   190    83   191 0.88 Methyltransferase domain
+PCMT                 PF01135.22   210 BGC0001621_ORF6:gid::pid:XP_002379989.1:loc:18538:19282:strand:- -            247   1.5e-05   25.0   0.0   1   1   3.8e-09   2.5e-05   24.3   0.0    55   131    59   136    43   140 0.85 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+DAO                  PF01266.27   353 BGC0001621_ORF7:gid::pid:XP_002379990.1:loc:19548:21060:strand:- -            478   3.2e-22   79.7   0.2   1   1   2.5e-26   4.9e-22   79.1   0.2     2   353     7   445     6   445 0.64 FAD dependent oxidoreductase
+PTR2                 PF00854.24   397 BGC0001621_ORF9:gid::pid:XP_002379992.1:loc:21853:25087:strand:+ -            510   9.9e-59  199.3   4.3   1   1   2.1e-62     2e-58  198.2   4.3     2   291    29   306    28   307 0.92 POT family
+2OG-FeII_Oxy         PF03171.23   101 BGC0001621_ORF9:gid::pid:XP_002379992.1:loc:21853:25087:strand:+ -            510   3.5e-12   46.8   0.0   1   1   7.1e-16     7e-12   45.9   0.0     6    99   354   466   350   468 0.83 2OG-Fe(II) oxygenase superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001621.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001621.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001621.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:02:03 2023
+# [ok]

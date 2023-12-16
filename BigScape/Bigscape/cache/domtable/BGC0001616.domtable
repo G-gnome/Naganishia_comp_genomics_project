@@ -1,0 +1,18 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ADH_N                PF08240.15   109 BGC0001616_ORF1:gid:himH:pid:BBA91552.1:loc:488:1734:strand:+ -            342   2.4e-11   43.6   0.0   1   1   6.5e-15   6.4e-11   42.2   0.0     2    62    32    91    31    97 0.94 Alcohol dehydrogenase GroES-like domain
+ADH_zinc_N           PF00107.29   130 BGC0001616_ORF1:gid:himH:pid:BBA91552.1:loc:488:1734:strand:+ -            342   4.6e-11   43.0   0.0   1   1   8.6e-15   8.5e-11   42.1   0.0     2    81   171   247   170   277 0.85 Zinc-binding dehydrogenase
+PhyH                 PF05721.16   211 BGC0001616_ORF2:gid:himG:pid:BBA91553.1:loc:8839:9862:strand:- -            322   5.9e-19   69.3   0.0   1   1   4.7e-23   9.2e-19   68.7   0.0     3   207    39   238    37   242 0.79 Phytanoyl-CoA dioxygenase (PhyH)
+NmrA                 PF05368.16   233 BGC0001616_ORF3:gid:himF:pid:BBA91554.1:loc:10346:11614:strand:+ -            331   1.1e-33  116.8   0.0   1   1   2.4e-37   2.3e-33  115.8   0.0     1   232     4   250     4   251 0.87 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0001616_ORF3:gid:himF:pid:BBA91554.1:loc:10346:11614:strand:+ -            331   3.5e-12   46.7   0.4   1   1   5.5e-16   5.4e-12   46.1   0.4     1   100     8   116     8   141 0.85 NAD(P)H-binding
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001616.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001616.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001616.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:52:45 2023
+# [ok]

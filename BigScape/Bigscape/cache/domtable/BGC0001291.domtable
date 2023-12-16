@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBF                  PF01758.19   195 BGC0001291_ORF1:gid::pid:BAT21389.1:loc:0:711:strand:+ -            236   9.2e-40  136.5   7.6   1   1   4.7e-44   9.2e-40  136.5   7.6    68   194     1   133     1   134 0.98 Sodium Bile acid symporter family
+SBF                  PF01758.19   195 BGC0001291_ORF2:gid::pid:BAT21390.1:loc:720:1803:strand:+ -            360   1.2e-45  155.8  20.5   1   1   1.2e-49   1.2e-45  155.8  20.5     1   194    55   252    55   253 0.97 Sodium Bile acid symporter family
+SBF_like             PF13593.9    313 BGC0001291_ORF2:gid::pid:BAT21390.1:loc:720:1803:strand:+ -            360   1.5e-08   34.4  31.5   1   1     2e-12   1.9e-08   34.1  31.5     2   293    20   325    19   339 0.78 SBF-like CPA transporter family (DUF4137)
+LMWPc                PF01451.24   142 BGC0001291_ORF3:gid::pid:BAT21391.1:loc:1805:2213:strand:+ -            135   7.3e-26   91.4   0.0   1   1   4.3e-30   8.5e-26   91.2   0.0     1   142     4   134     4   134 0.92 Low molecular weight phosphotyrosine protein phosphatase
+ABC_tran             PF00005.30   137 BGC0001291_ORF7:gid:enkB3:pid:BAT21395.1:loc:5442:6033:strand:+ -            196   6.7e-11   43.0   0.1   1   1   2.9e-14   1.9e-10   41.5   0.1     5   135    21   147    17   149 0.74 ABC transporter
+RsgA_GTPase          PF03193.19   167 BGC0001291_ORF7:gid:enkB3:pid:BAT21395.1:loc:5442:6033:strand:+ -            196   2.3e-07   31.0   0.9   1   1   4.8e-11   3.2e-07   30.5   0.2    77   134     4    61     1    64 0.87 RsgA GTPase
+HATPase_c_5          PF14501.9    101 BGC0001291_ORF9:gid::pid:BAT21397.1:loc:6613:7924:strand:- -            436   4.1e-17   62.1   2.6   1   1   5.9e-21   1.2e-16   60.6   2.6     6   100   335   434   330   435 0.90 GHKL domain
+AgrB                 PF04647.18   183 BGC0001291_ORF10:gid::pid:BAT21398.1:loc:8075:8648:strand:- -            190   3.4e-23   82.1  16.7   1   1     2e-27     4e-23   81.8  16.7     5   183     2   176     1   176 0.88 Accessory gene regulator B
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001291.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001291.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001291.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:44:23 2023
+# [ok]

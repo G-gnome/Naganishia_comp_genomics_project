@@ -1,0 +1,18 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_3       PF01596.20   204 BGC0001678_ORF1:gid::pid::loc:3583:12155:strand:- -           1234   9.1e-45  152.6   0.1   1   1   3.9e-48   1.5e-44  151.8   0.1    17   203  1046  1232  1029  1233 0.94 O-methyltransferase
+DHQ_synthase         PF01761.23   262 BGC0001678_ORF1:gid::pid::loc:3583:12155:strand:- -           1234   4.2e-37  127.8   0.0   1   1     2e-40   7.9e-37  127.0   0.0     3   245   633   883   631   894 0.94 3-dehydroquinate synthase
+Dala_Dala_lig_C      PF07478.16   204 BGC0001678_ORF1:gid::pid::loc:3583:12155:strand:- -           1234   3.5e-14   52.9   0.0   1   1   2.8e-17   1.1e-13   51.3   0.0    35   187   147   314   140   318 0.83 D-ala D-ala ligase C-terminus
+Methyltransf_24      PF13578.9    107 BGC0001678_ORF1:gid::pid::loc:3583:12155:strand:- -           1234   1.7e-06   29.1   0.0   1   1   1.5e-09   5.9e-06   27.4   0.0     2   106  1079  1183  1078  1184 0.84 Methyltransferase domain
+PCMT                 PF01135.22   210 BGC0001678_ORF1:gid::pid::loc:3583:12155:strand:- -           1234   2.6e-06   27.5   0.0   1   1   1.2e-09   4.9e-06   26.6   0.0    61   117  1060  1117  1015  1134 0.82 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001678.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001678.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001678.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:01:09 2023
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FA_hydroxylase       PF04116.16   133 BGC0002365_ORF1:gid::pid:QGU18618.1:loc:660:1671:strand:+ -            336   9.3e-24   84.4   5.2   1   1   4.8e-28   9.3e-24   84.4   5.2     4   133   150   280   147   280 0.93 Fatty acid hydroxylase
+Condensation         PF00668.23   457 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   1.1e-98  331.1   0.0   1   1  8.1e-102   1.5e-98  330.6   0.0     4   457  1841  2284  1839  2284 0.96 Condensation domain
+AMP-binding          PF00501.31   424 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   2.5e-86  290.1   0.0   1   1     2e-89   3.5e-86  289.6   0.0     3   424  2310  2721  2308  2721 0.88 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   1.2e-80  270.8   0.0   1   1   1.3e-83   2.3e-80  270.0   0.0     2   253    14   265    13   265 0.95 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   1.5e-76  258.1   0.0   1   1   1.5e-79   2.7e-76  257.2   0.0     1   317   556   873   556   875 0.96 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   2.4e-67  227.4   1.8   1   1   2.6e-70   4.7e-67  226.5   1.8     1   294   916  1192   916  1194 0.91 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   1.4e-57  194.6   0.0   1   1   6.8e-60   1.2e-56  191.6   0.0     1   179  1454  1646  1454  1647 0.97 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   3.4e-41  140.1   0.3   1   1     4e-44   7.2e-41  139.1   0.3     1   119   273   391   273   391 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   9.5e-24   83.6   0.6   1   2   3.7e-12   6.6e-09   36.1   0.1     5    65  1751  1811  1747  1813 0.89 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   9.5e-24   83.6   0.6   2   2   5.9e-15     1e-11   45.0   0.0     3    66  2833  2894  2832  2895 0.92 Phosphopantetheine attachment site
+Thioesterase         PF00975.23   230 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   3.9e-22   79.7   0.0   1   1   5.7e-25     1e-21   78.3   0.0     2   131  2919  3038  2918  3065 0.79 Thioesterase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   1.2e-17   64.5   0.0   1   1   1.7e-20     3e-17   63.3   0.0     2   108   394   515   394   519 0.87 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.9     76 BGC0002365_ORF2:gid::pid:QGU18619.1:loc:1681:11086:strand:+ -           3134   5.1e-12   46.7   0.1   1   1   6.3e-14   1.1e-10   42.4   0.0     1    76  2729  2804  2729  2804 0.94 AMP-binding enzyme C-terminal domain
+NAD_binding_8        PF13450.9     68 BGC0002365_ORF3:gid::pid:QGU18620.1:loc:11075:12776:strand:+ -            566   8.6e-12   45.2   0.1   1   1   4.4e-15   2.9e-11   43.6   0.1     1    68    30    97    30    97 0.97 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.27   452 BGC0002365_ORF3:gid::pid:QGU18620.1:loc:11075:12776:strand:+ -            566   1.3e-08   34.7   0.0   1   1   6.3e-12   4.1e-08   33.1   0.0     1   353    35   412    35   525 0.69 Flavin containing amine oxidoreductase
+Amino_oxidase        PF01593.27   452 BGC0002365_ORF4:gid::pid:QGU18621.1:loc:12772:14497:strand:+ -            574   1.4e-13   51.1   0.0   1   1   2.8e-16   1.4e-12   47.8   0.0     3   345    25   392    23   404 0.68 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0002365_ORF4:gid::pid:QGU18621.1:loc:12772:14497:strand:+ -            574   7.2e-12   45.5   0.2   1   1   4.6e-15   2.2e-11   43.9   0.2     1    65    18    82    18    85 0.94 NAD(P)-binding Rossmann-like domain
+ADH_N_2              PF16884.8    108 BGC0002365_ORF5:gid::pid:QGU18622.1:loc:14493:15549:strand:+ -            351   5.8e-14   52.0   0.2   1   1   5.9e-18   5.8e-14   52.0   0.2     2   103     5   102     4   107 0.87 N-terminal domain of oxidoreductase
+ADH_zinc_N           PF00107.29   130 BGC0002365_ORF5:gid::pid:QGU18622.1:loc:14493:15549:strand:+ -            351   1.5e-13   51.0   0.0   1   1   2.9e-17   2.9e-13   50.1   0.0     1   116   170   293   170   307 0.79 Zinc-binding dehydrogenase
+p450                 PF00067.25   463 BGC0002365_ORF6:gid::pid:QGU18623.1:loc:15598:16780:strand:+ -            393   2.3e-15   56.5   0.0   1   1   5.4e-12   1.1e-07   31.2   0.0   341   433   280   363   268   375 0.82 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002365.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002365.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002365.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:07:19 2023
+# [ok]

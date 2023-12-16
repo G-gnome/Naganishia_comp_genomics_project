@@ -1,0 +1,16 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BATS                 PF06968.16    86 BGC0000608_ORF1:gid::pid:ADH93698.1:loc:304:1498:strand:- -            397     6e-09   36.1   0.0   1   1   5.4e-13   1.1e-08   35.3   0.0     1    84   276   378   276   380 0.94 Biotin and Thiamin Synthesis associated domain
+Radical_SAM          PF04055.24   167 BGC0000608_ORF3:gid::pid:ADH93700.1:loc:2257:3433:strand:+ -            391   1.4e-14   54.9   0.0   1   1   1.1e-18   2.1e-14   54.4   0.0     2   165     6   185     5   187 0.83 Radical SAM superfamily
+Lant_dehydr_C        PF14028.9    288 BGC0000608_ORF4:gid::pid:ADH93701.1:loc:3429:4371:strand:+ -            313   2.6e-07   30.8   0.5   1   1   2.4e-11   4.7e-07   30.0   0.1   143   286   112   294    90   305 0.78 Lantibiotic biosynthesis dehydratase C-term
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000608.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000608.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000608.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:04:50 2023
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_synth_C      PF03936.19   267 BGC0002399_ORF1:gid::pid:EOA32780.1:loc:58:2388:strand:- -            600   2.6e-91  305.8   3.1   1   1   5.6e-95   3.7e-91  305.3   3.1     1   266   278   541   278   542 0.98 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0002399_ORF1:gid::pid:EOA32780.1:loc:58:2388:strand:- -            600     4e-53  180.1   0.3   1   1   1.1e-56     7e-53  179.3   0.3     2   192    69   247    68   247 0.91 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002399_ORF1:gid::pid:EOA32780.1:loc:58:2388:strand:- -            600   1.6e-39  136.0   1.4   1   1   4.6e-43     3e-39  135.0   0.9     1   197   344   540   344   541 0.92 Terpene synthase family 2, C-terminal metal binding
+polyprenyl_synt      PF00348.20   256 BGC0002399_ORF2:gid::pid:EOA33076.1:loc:4320:5497:strand:- -            357   1.7e-59  201.1   0.0   1   1   1.2e-63   2.3e-59  200.7   0.0     4   230    90   321    87   341 0.89 Polyprenyl synthetase
+Terpene_synth_C      PF03936.19   267 BGC0002399_ORF3:gid::pid:EOA32912.1:loc:6100:8474:strand:- -            605   2.6e-92  309.0   0.3   1   1   5.8e-96   3.8e-92  308.5   0.3     1   266   281   545   281   546 0.98 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0002399_ORF3:gid::pid:EOA32912.1:loc:6100:8474:strand:- -            605   3.6e-50  170.5   0.4   1   1     9e-54   5.9e-50  169.8   0.4     2   192    73   250    72   250 0.91 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002399_ORF3:gid::pid:EOA32912.1:loc:6100:8474:strand:- -            605   7.1e-43  146.9   0.6   1   1   2.2e-46   1.4e-42  145.9   0.6     1   195   347   542   347   545 0.92 Terpene synthase family 2, C-terminal metal binding
+polyprenyl_synt      PF00348.20   256 BGC0002399_ORF4:gid::pid:EOA30900.1:loc:8931:10112:strand:- -            359   2.7e-59  200.5   0.0   1   1   2.4e-63   4.8e-59  199.6   0.0     4   230    92   323    90   343 0.89 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002399.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002399.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002399.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:52:51 2023
+# [ok]

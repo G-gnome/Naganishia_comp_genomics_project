@@ -1,0 +1,213 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="664.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="654.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>orf12
+hypothetical protein</title>
+			<polygon class="orf12
+hypothetical protein" points="12,25 31,25 31,10 61,40 31,70 31,55 12,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf11
+predicted alpha/beta superfamily hydrolase</title>
+			<polygon class="orf11
+predicted alpha/beta superfamily hydrolase" points="62,40 88,10 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="66,40 77,28 87,28 87,52 77,52" stroke-linejoin="round" width="24" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>auaEII
+anthranilate-CoA ligase</title>
+			<polygon class="auaEII
+anthranilate-CoA ligase" points="140,25 119,25 119,10 89,40 119,70 119,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="93,40 97,36 97,44" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="98,35 105,28 138,28 138,52 105,52 98,45" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf10
+predicted Rieske-[2Fe-2s]-domain protein</title>
+			<polygon class="orf10
+predicted Rieske-[2Fe-2s]-domain protein" points="179,25 175,25 175,10 145,40 175,70 175,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VanA_C (PF19112)
+"Vanillate O-demethylase oxygenase C-terminal domain"</title>
+				<polygon class="PF19112" points="149,40 161,28 165,28 165,52 161,52" stroke-linejoin="round" width="19" height="24" fill="rgb(95,196,187)" stroke="rgb(76,156,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="169" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf9
+predicted ABC transporter ATP-binding protein</title>
+			<polygon class="orf9
+predicted ABC transporter ATP-binding protein" points="181,40 205,10 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="187,38 195,28 202,28 202,52 195,52 187,42" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf8
+hypothetical protein</title>
+			<polygon class="orf8
+hypothetical protein" points="253,25 236,25 236,10 206,40 236,70 236,55 253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf7
+predicted outer membrane lipoprotein sorting protein</title>
+			<polygon class="orf7
+predicted outer membrane lipoprotein sorting protein" points="254,40 278,10 278,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LolA_like (PF17131)
+"Outer membrane lipoprotein-sorting protein"</title>
+				<polygon class="PF17131" points="258,40 268,28 271,28 271,52 268,52" stroke-linejoin="round" width="17" height="24" fill="rgb(189,100,83)" stroke="rgb(151,80,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf6
+predicted ABC-type lipoprotein release transporter, permease component</title>
+			<polygon class="orf6
+predicted ABC-type lipoprotein release transporter, permease component" points="322,25 310,25 310,10 280,40 310,70 310,55 322,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FtsX (PF02687)
+"FtsX-like permease family"</title>
+				<polygon class="PF02687" points="284,40 292,32 292,48" stroke-linejoin="round" width="12" height="24" fill="rgb(126,55,214)" stroke="rgb(100,44,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf5
+predicted ABC-type transport system</title>
+			<polygon class="orf5
+predicted ABC-type transport system" points="322,40 351,10 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FtsX (PF02687)
+"FtsX-like permease family"</title>
+				<polygon class="PF02687" points="326,40 334,32 334,48" stroke-linejoin="round" width="12" height="24" fill="rgb(126,55,214)" stroke="rgb(100,44,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf4
+predicted transcriptional regulator</title>
+			<polygon class="orf4
+predicted transcriptional regulator" points="366,40 386,10 386,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="380" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>auaA
+prenyltransferase</title>
+			<polygon class="auaA
+prenyltransferase" points="393,25 395,25 395,10 425,40 395,70 395,55 393,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="394,28 409,28 419,38 419,42 409,52 394,52" stroke-linejoin="round" width="25" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>auaB
+acyl carrier protein</title>
+			<polygon class="auaB
+acyl carrier protein" points="428,10 436,40 428,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="428,28 429,28 433,40 429,52 428,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>auaC
+beta-ketoacyl-ACP synthase II</title>
+			<polygon class="auaC
+beta-ketoacyl-ACP synthase II" points="437,25 447,25 447,10 477,40 447,70 447,55 437,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="437" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="461,28 461,28 472,39 472,41 461,52 461,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>auaD
+beta-ketoacyl-CLF synthase II</title>
+			<polygon class="auaD
+beta-ketoacyl-CLF synthase II" points="478,25 488,25 488,10 518,40 488,70 488,55 478,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="478" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="503,29 514,40 514,40 503,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>auaE
+anthranilate-CoA-ACP transferase</title>
+			<polygon class="auaE
+anthranilate-CoA-ACP transferase" points="519,25 538,25 538,10 568,40 538,70 538,55 519,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="520,28 552,28 560,36 560,44 552,52 520,52" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf1
+predicted carboxymethylenebutenolidase</title>
+			<polygon class="orf1
+predicted carboxymethylenebutenolidase" points="568,40 590,10 590,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DLH (PF01738)
+"Dienelactone hydrolase family"</title>
+				<polygon class="PF01738" points="572,40 581,28 588,28 588,52 581,52" stroke-linejoin="round" width="20" height="24" fill="rgb(188,185,48)" stroke="rgb(150,147,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf2
+hypothetical protein</title>
+			<polygon class="orf2
+hypothetical protein" points="593,40 615,10 615,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M15_4 (PF13539)
+"D-alanyl-D-alanine carboxypeptidase"</title>
+				<polygon class="PF13539" points="597,40 600,36 600,44" stroke-linejoin="round" width="6" height="24" fill="rgb(79,118,198)" stroke="rgb(63,94,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf3
+predicted secreted hydrolase</title>
+			<polygon class="orf3
+predicted secreted hydrolase" points="621,40 647,10 647,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_43 (PF04616)
+"Glycosyl hydrolases family 43"</title>
+				<polygon class="PF04616" points="627,38 636,28 647,28 647,52 636,52 627,42" stroke-linejoin="round" width="20" height="24" fill="rgb(62,179,73)" stroke="rgb(49,143,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,26 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6710              PF20457.1    203 BGC0000521_ORF1:gid::pid:AAC72260.1:loc:0:498:strand:- -            166   4.9e-17   62.4   2.3   1   1   2.8e-21   5.5e-17   62.2   2.3    17   142    29   165     3   166 0.79 Family of unknown function (DUF6710)
+DDE_Tnp_1            PF01609.24   214 BGC0000521_ORF2:gid:tpase:pid:AAC72261.1:loc:736:2056:strand:+ -            439   8.6e-35  120.4   1.4   1   1   6.7e-39   1.3e-34  119.8   1.4     3   214   116   365   114   365 0.95 Transposase DDE domain
+L_biotic_typeA       PF04604.16    51 BGC0000521_ORF3:gid:lctA:pid:AAC72257.1:loc:2470:2626:strand:+ -             51   1.2e-27   95.6   2.0   1   1   6.6e-32   1.3e-27   95.5   2.0     1    51     1    50     1    50 0.97 Type-A lantibiotic
+LANC_like            PF05147.16   352 BGC0000521_ORF4:gid:lctM:pid:AAC72258.1:loc:2763:5532:strand:+ -            922   8.8e-77  258.2  14.7   1   1   1.7e-80   1.7e-76  257.2  14.7     2   344   576   912   575   918 0.95 Lanthionine synthetase C-like protein
+DUF4135              PF13575.9    377 BGC0000521_ORF4:gid:lctM:pid:AAC72258.1:loc:2763:5532:strand:+ -            922   3.4e-72  243.9   0.0   1   1   4.5e-76   4.4e-72  243.5   0.0     1   376    87   460    87   461 0.89 Domain of unknown function (DUF4135)
+ABC_membrane         PF00664.26   274 BGC0000521_ORF5:gid:lctT:pid:AAC72259.1:loc:5550:7626:strand:+ -            691   1.8e-42  146.0  30.3   1   1   4.2e-46   2.8e-42  145.4  30.3     5   273   158   421   156   422 0.99 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 BGC0000521_ORF5:gid:lctT:pid:AAC72259.1:loc:5550:7626:strand:+ -            691   1.2e-38  132.1   0.1   1   1     5e-42   3.3e-38  130.6   0.1     3   132     2   134     1   135 0.95 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000521_ORF5:gid:lctT:pid:AAC72259.1:loc:5550:7626:strand:+ -            691     6e-26   91.7   0.3   1   1   9.2e-30     6e-26   91.7   0.3     2   136   481   621   480   622 0.81 ABC transporter
+ABC_tran             PF00005.30   137 BGC0000521_ORF6:gid:lctF:pid:AAC72253.1:loc:7683:8604:strand:+ -            306   1.3e-31  110.0   1.0   1   1     8e-35   7.9e-31  107.5   0.0     2   137    23   163    22   163 0.93 ABC transporter
+AAA_21               PF13304.9    304 BGC0000521_ORF6:gid:lctF:pid:AAC72253.1:loc:7683:8604:strand:+ -            306   1.5e-13   51.3   1.3   1   1   1.1e-13   1.1e-09   38.7   0.1   235   299   132   194    90   199 0.80 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0000521_ORF7:gid:lctE:pid:AAC72254.1:loc:8603:9356:strand:+ -            250   4.2e-14   53.0  19.2   1   1   2.1e-18   4.2e-14   53.0  19.2     2   179     5   179     4   179 0.82 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.10   179 BGC0000521_ORF8:gid:lctG:pid:AAC72255.1:loc:9349:10087:strand:+ -            245   3.5e-19   69.6  20.4   1   1   1.8e-23   3.5e-19   69.6  20.4     1   177     5   181     5   184 0.84 ABC-2 family transporter protein
+DDE_Tnp_1            PF01609.24   214 BGC0000521_ORF9:gid:tpase_rename1:pid:AAC72256.1:loc:10387:11707:strand:+ -            439   8.6e-35  120.4   1.4   1   1   6.7e-39   1.3e-34  119.8   1.4     3   214   116   365   114   365 0.95 Transposase DDE domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000521.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000521.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000521.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:22:20 2023
+# [ok]

@@ -1,0 +1,38 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ECH_1                PF00378.23   251 BGC0002270_ORF1:gid::pid:EFY95975.1:loc:0:828:strand:- -            275   2.7e-19   69.6   0.0   1   1   1.8e-23   3.6e-19   69.2   0.0    21   228    29   234    17   251 0.84 Enoyl-CoA hydratase/isomerase
+APH                  PF01636.26   239 BGC0002270_ORF3:gid::pid:EFY95973.1:loc:10803:12028:strand:+ -            390   7.9e-13   48.9   0.0   1   1   5.7e-17   1.1e-12   48.4   0.0    17   198    74   295    58   333 0.69 Phosphotransferase enzyme family
+EBP                  PF05241.15   115 BGC0002270_ORF4:gid::pid:EFY95972.1:loc:12469:13234:strand:+ -            235   3.1e-26   92.1   9.7   1   1   1.6e-30   3.1e-26   92.1   9.7     2   112   100   210    99   213 0.96 EXPERA (EXPanded EBP superfamily)
+Pkinase              PF00069.28   264 BGC0002270_ORF5:gid::pid:EFY95971.2:loc:13918:15403:strand:+ -            423   8.9e-13   48.3   0.0   1   1   1.1e-15   2.2e-11   43.8   0.0   155   263   244   410   221   411 0.89 Protein kinase domain
+PhyH                 PF05721.16   211 BGC0002270_ORF6:gid::pid:EFY95970.1:loc:16442:17496:strand:- -            331   2.5e-17   64.0   0.0   1   1   1.9e-21   3.7e-17   63.4   0.0     2   204    58   256    57   264 0.78 Phytanoyl-CoA dioxygenase (PhyH)
+AMP-binding          PF00501.31   424 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488     3e-92  309.6   0.0   1   1   5.3e-95     8e-92  308.2   0.0     1   424    33   422    33   422 0.88 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   4.3e-85  285.4   0.8   1   1   5.4e-88   8.2e-85  284.5   0.2     2   253   617   863   616   863 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   5.7e-58  195.9   0.2   1   1   2.8e-58   4.3e-55  186.5   0.1     1   179  1723  1901  1723  1902 0.97 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   1.1e-56  192.8   0.0   1   1   1.5e-59   2.3e-56  191.8   0.0     3   317  1149  1471  1147  1473 0.94 Acyl transferase domain
+NAD_binding_4        PF07993.15   257 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   2.6e-47  161.3   0.0   1   1   1.2e-48   1.8e-45  155.3   0.0     1   256  2136  2364  2136  2365 0.93 Male sterility protein
+Ketoacyl-synt_C      PF02801.25   119 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   1.7e-41  141.1   2.0   1   1   2.5e-44   3.7e-41  140.0   0.4     1   118   871   988   871   989 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488     3e-21   75.6   0.0   1   2   1.8e-15   2.7e-12   46.9   0.0     1    67   530   594   530   594 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488     3e-21   75.6   0.0   2   2   1.2e-08   1.8e-05   25.1   0.0     3    67  2008  2073  2007  2073 0.94 Phosphopantetheine attachment site
+Epimerase            PF01370.24   241 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   2.9e-14   53.2   0.0   1   1   6.9e-11     1e-07   31.8   0.0     1   157  2134  2301  2134  2336 0.80 NAD dependent epimerase/dehydratase family
+KAsynt_C_assoc       PF16197.8    112 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   1.1e-12   48.5   0.0   1   1   5.2e-15   7.8e-12   45.8   0.0     1   108   991  1109   991  1113 0.78 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.9     76 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   7.7e-10   39.7   0.0   1   1   1.2e-12   1.9e-09   38.5   0.0     1    76   430   503   430   503 0.88 AMP-binding enzyme C-terminal domain
+adh_short            PF00106.28   195 BGC0002270_ORF7:gid::pid:EFY95969.1:loc:19199:26666:strand:+ -           2488   6.8e-08   32.3   0.1   1   1   4.5e-10   6.8e-07   29.1   0.0     2   161  1724  1883  1723  1910 0.85 short chain dehydrogenase
+NAD_binding_10       PF13460.9    184 BGC0002270_ORF8:gid::pid:EFY95968.1:loc:27107:28025:strand:- -            305   2.1e-07   31.1   0.0   1   1   3.7e-11   3.6e-07   30.4   0.0     4   149     9   144     7   165 0.77 NAD(P)H-binding
+NmrA                 PF05368.16   233 BGC0002270_ORF8:gid::pid:EFY95968.1:loc:27107:28025:strand:- -            305   1.3e-06   28.2   0.0   1   1   1.8e-10   1.7e-06   27.8   0.0     5   154     6   151     3   202 0.85 NmrA-like family
+NmrA                 PF05368.16   233 BGC0002270_ORF9:gid::pid:EFY95967.1:loc:28880:30012:strand:+ -            341   6.5e-10   39.0   0.9   1   1   1.1e-10   5.6e-07   29.4   0.9     1   103     4   107     4   117 0.79 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0002270_ORF9:gid::pid:EFY95967.1:loc:28880:30012:strand:+ -            341   4.5e-09   36.6   0.9   1   1     3e-12   1.5e-08   34.9   0.9     1   149     8   169     8   182 0.71 NAD(P)H-binding
+AA_permease_2        PF13520.9    427 BGC0002270_ORF10:gid::pid:EFY95966.2:loc:30258:31749:strand:- -            496   8.2e-42  143.7  46.7   1   1     1e-45     1e-41  143.4  46.7     1   425    37   474    37   479 0.89 Amino acid permease
+AA_permease          PF00324.24   479 BGC0002270_ORF10:gid::pid:EFY95966.2:loc:30258:31749:strand:- -            496   8.2e-07   28.1  38.6   1   1   1.2e-10   1.2e-06   27.5  38.6    13   467    54   492    39   495 0.80 Amino acid permease
+PhyH                 PF05721.16   211 BGC0002270_ORF11:gid::pid:EFY95965.1:loc:32908:33897:strand:+ -            307     1e-22   81.6   0.0   1   1   8.4e-27   1.7e-22   80.9   0.0     2   206    35   235    34   241 0.78 Phytanoyl-CoA dioxygenase (PhyH)
+Aminotran_1_2        PF00155.24   363 BGC0002270_ORF12:gid::pid:EFY95964.2:loc:34273:35770:strand:- -            498   2.2e-16   60.2   0.0   1   1   1.4e-20   2.7e-16   59.8   0.0    71   361   154   485   115   487 0.83 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002270.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002270.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002270.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:11:04 2023
+# [ok]

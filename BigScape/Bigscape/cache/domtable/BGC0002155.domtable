@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_23      PF13489.9    165 BGC0002155_ORF2:gid::pid:EHA48593.1:loc:2012:4758:strand:- -            422   2.4e-16   60.1   0.0   1   1   5.5e-20   3.6e-16   59.5   0.0    10   164   162   323   146   324 0.78 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002155_ORF2:gid::pid:EHA48593.1:loc:2012:4758:strand:- -            422     4e-09   37.2   0.0   1   1   1.1e-12   7.2e-09   36.3   0.0     1    97   176   263   176   263 0.82 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002155_ORF2:gid::pid:EHA48593.1:loc:2012:4758:strand:- -            422   1.7e-07   31.3   0.0   1   1   6.3e-11   4.1e-07   30.0   0.0     6   105   175   263   170   285 0.89 Methyltransferase domain
+KR                   PF08659.13   180 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   4.1e-55  186.6   0.2   1   1   3.1e-58   4.1e-55  186.6   0.2     1   176  2372  2552  2372  2556 0.95 KR domain
+PS-DH                PF14765.9    297 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   2.4e-47  161.8   0.1   1   1   3.4e-50   4.4e-47  160.9   0.1     1   295  1124  1442  1124  1444 0.83 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   5.6e-40  137.9   0.3   1   1   1.5e-42     2e-39  136.1   0.0     2   253   699   981   698   989 0.81 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   5.2e-37  126.6   0.1   1   1   1.2e-39   1.6e-36  125.0   0.1     2   116   328   442   327   445 0.98 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   2.8e-32  112.4   0.1   1   2   1.7e-21   2.2e-18   66.9   0.0     6   105   158   260   157   262 0.97 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   2.8e-32  112.4   0.1   2   2   1.1e-15   1.4e-12   47.8   0.0   187   253   253   319   252   319 0.97 Beta-ketoacyl synthase, N-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   2.9e-18   66.6   0.0   1   1   5.6e-21   7.3e-18   65.3   0.0     1    99  1622  1727  1622  1727 0.89 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   1.4e-13   50.9   0.0   1   1   3.7e-16   4.9e-13   49.1   0.0     4   183  2375  2556  2373  2566 0.85 short chain dehydrogenase
+KAsynt_C_assoc       PF16197.8    112 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   7.8e-13   49.0   0.3   1   1   1.3e-11   1.7e-08   35.1   0.0     2    46   448   493   448   526 0.91 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.9    165 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   1.9e-11   44.2   0.0   1   1   3.5e-14   4.6e-11   42.9   0.0     8   163  1604  1781  1597  1783 0.72 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   8.8e-11   42.5   0.0   1   1     3e-13     4e-10   40.4   0.0     1    97  1621  1725  1621  1725 0.85 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   1.7e-10   41.2   0.1   1   1   3.4e-13   4.5e-10   39.8   0.1     1    67  2680  2746  2680  2746 0.97 Phosphopantetheine attachment site
+Methyltransf_31      PF13847.9    152 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   3.2e-10   40.1   0.0   1   1   5.9e-13   7.8e-10   38.9   0.0     4   112  1618  1732  1616  1755 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758   2.6e-09   37.7   0.0   1   1   7.2e-12   9.5e-09   35.9   0.0     1    96  1622  1729  1622  1729 0.83 Methyltransferase domain
+adh_short_C2         PF13561.9    234 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758     3e-06   27.1   0.1   1   1   2.3e-09     3e-06   27.1   0.1     4   157  2381  2536  2378  2542 0.79 Enoyl-(Acyl carrier protein) reductase
+Ubie_methyltran      PF01209.21   233 BGC0002155_ORF3:gid::pid:EHA48594.1:loc:6813:16511:strand:+ -           2758     3e-06   26.9   0.0   1   1   4.6e-09     6e-06   25.9   0.0    43   159  1613  1737  1599  1747 0.83 ubiE/COQ5 methyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002155.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002155.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002155.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:01:49 2023
+# [ok]

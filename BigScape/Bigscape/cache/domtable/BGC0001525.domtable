@@ -1,0 +1,27 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.23   172 BGC0001525_ORF1:gid::pid:AKV71846.1:loc:0:1674:strand:- -            557     2e-16   60.1   0.0   1   1   5.2e-18   5.2e-14   52.3   0.0     3   143   207   352   205   359 0.83 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 BGC0001525_ORF1:gid::pid:AKV71846.1:loc:0:1674:strand:- -            557   9.2e-12   45.6   0.0   1   1   1.8e-15   1.7e-11   44.7   0.0     3   120   221   352   219   364 0.80 Glycosyl transferases group 1
+DUF5122              PF17164.7     36 BGC0001525_ORF2:gid::pid:AKV71847.1:loc:2259:4764:strand:+ -            834   2.4e-06   27.9  13.3   1   1     7e-10   6.9e-06   26.4   0.5     2    32   324   359   323   360 0.96 Domain of unknown function (DUF5122) beta-propeller
+ACP_syn_III_C        PF08541.13    90 BGC0001525_ORF4:gid::pid:AKV71849.1:loc:6021:7173:strand:+ -            383   2.5e-09   37.3   0.0   1   1   3.3e-13   6.4e-09   36.0   0.0     3    73   289   364   288   366 0.88 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+UDPGT                PF00201.21   499 BGC0001525_ORF5:gid::pid:AKV71850.1:loc:7259:8522:strand:+ -            420   2.2e-23   83.0   0.0   1   1   2.1e-24   1.4e-20   73.7   0.0   232   418   209   394   182   401 0.83 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.19   167 BGC0001525_ORF5:gid::pid:AKV71850.1:loc:7259:8522:strand:+ -            420   2.1e-09   37.7   0.0   1   1     5e-13   3.3e-09   37.1   0.0    54   155   296   395   262   411 0.84 Glycosyltransferase family 28 C-terminal domain
+UDPGT                PF00201.21   499 BGC0001525_ORF6:gid::pid:AKV71851.1:loc:8597:9845:strand:+ -            415   2.3e-20   73.0   0.0   1   1   6.9e-24   6.8e-20   71.5   0.0    95   420    85   396    75   412 0.78 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.19   167 BGC0001525_ORF6:gid::pid:AKV71851.1:loc:8597:9845:strand:+ -            415   3.2e-05   24.1   0.0   1   1   5.2e-09   5.1e-05   23.5   0.0    32   141   280   381   259   410 0.75 Glycosyltransferase family 28 C-terminal domain
+HlyD_3               PF13437.9    106 BGC0001525_ORF7:gid::pid:AKV71852.1:loc:10080:11433:strand:+ -            450   1.5e-10   41.8  14.0   1   1   2.7e-10   1.7e-06   28.7   0.1     2    82   324   401   323   437 0.80 HlyD family secretion protein
+HlyD_D23             PF16576.8    214 BGC0001525_ORF7:gid::pid:AKV71852.1:loc:10080:11433:strand:+ -            450   4.4e-09   36.0  16.3   1   1   3.9e-11   2.6e-07   30.3   8.3    52   188   258   399   154   402 0.89 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+Biotin_lipoyl_2      PF13533.9     50 BGC0001525_ORF7:gid::pid:AKV71852.1:loc:10080:11433:strand:+ -            450   4.9e-08   32.8   1.7   1   1   7.5e-12   4.9e-08   32.8   1.7     1    38    83   125    83   152 0.78 Biotin-lipoyl like
+FtsX                 PF02687.24   121 BGC0001525_ORF8:gid::pid:AKV71853.1:loc:11595:12765:strand:+ -            389   4.7e-18   65.5   7.5   1   1   2.4e-22   4.7e-18   65.5   7.5     5   116   274   379   265   384 0.96 FtsX-like permease family
+ABC_tran             PF00005.30   137 BGC0001525_ORF9:gid::pid:AKV71854.1:loc:12817:13495:strand:+ -            225   5.6e-32  111.2   0.0   1   1   1.2e-35     8e-32  110.7   0.0     3   137    26   173    24   173 0.89 ABC transporter
+Beta_helix           PF13229.9    158 BGC0001525_ORF11:gid::pid:AKV71856.1:loc:14895:16392:strand:- -            498   7.4e-11   42.3  48.6   1   1   2.1e-13   4.1e-09   36.6  13.8     3   147    99   249    97   256 0.86 Right handed beta helix region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001525.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001525.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001525.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:02:19 2023
+# [ok]

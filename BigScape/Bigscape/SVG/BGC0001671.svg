@@ -1,0 +1,225 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="2610.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="2600.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>Rhz1
+N-acyl-L-homoserine lactone synthetase-like</title>
+			<polygon class="Rhz1
+N-acyl-L-homoserine lactone synthetase-like" points="180,10 199,40 180,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_synth (PF00765)
+"Autoinducer synthase"</title>
+				<polygon class="PF00765" points="180,28 188,28 196,40 188,52 180,52" stroke-linejoin="round" width="17" height="24" fill="rgb(197,72,80)" stroke="rgb(157,57,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz2
+radical SAM</title>
+			<polygon class="Rhz2
+radical SAM" points="231,10 258,40 231,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="231,28 242,28 248,34 248,46 242,52 231,52" stroke-linejoin="round" width="17" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz3
+autoinducer binding domain</title>
+			<polygon class="Rhz3
+autoinducer binding domain" points="262,10 289,40 262,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_bind (PF03472)
+"Autoinducer binding domain"</title>
+				<polygon class="PF03472" points="266,28 273,28 280,35 280,45 273,52 266,52" stroke-linejoin="round" width="14" height="24" fill="rgb(99,181,52)" stroke="rgb(79,144,41)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="282,37 285,40 282,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz4
+penicillin binding transpeptidase 1</title>
+			<polygon class="Rhz4
+penicillin binding transpeptidase 1" points="554,25 559,25 559,10 589,40 559,70 559,55 554,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S11 (PF00768)
+"D-alanyl-D-alanine carboxypeptidase"</title>
+				<polygon class="PF00768" points="556,28 573,28 578,33 578,47 573,52 556,52" stroke-linejoin="round" width="22" height="24" fill="rgb(227,157,83)" stroke="rgb(181,125,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz5
+SbnB</title>
+			<polygon class="Rhz5
+SbnB" points="1488,25 1492,25 1492,10 1522,40 1492,70 1492,55 1488,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OCD_Mu_crystall (PF02423)
+"Ornithine cyclodeaminase/mu-crystallin family"</title>
+				<polygon class="PF02423" points="1488,28 1506,28 1518,40 1506,52 1488,52" stroke-linejoin="round" width="32" height="24" fill="rgb(221,120,93)" stroke="rgb(176,96,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz6
+EM5400 NRPS scaffold</title>
+			<polygon class="Rhz6
+EM5400 NRPS scaffold" points="1524,25 1780,25 1780,10 1810,40 1780,70 1780,55 1524,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1525" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1572" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="1613" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1624" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1631" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1679" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1726" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="1767" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1777" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz7
+sulfotransferase 1</title>
+			<polygon class="Rhz7
+sulfotransferase 1" points="1810,10 1834,40 1810,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_2 (PF03567)
+"Sulfotransferase family"</title>
+				<polygon class="PF03567" points="1810,28 1821,28 1830,40 1821,52 1810,52" stroke-linejoin="round" width="22" height="24" fill="rgb(192,80,119)" stroke="rgb(153,64,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz8
+monobactam CAS homolog</title>
+			<polygon class="Rhz8
+monobactam CAS homolog" points="1835,10 1864,40 1835,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="1835,28 1848,28 1860,40 1848,52 1835,52" stroke-linejoin="round" width="26" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz9
+methyltransferase</title>
+			<polygon class="Rhz9
+methyltransferase" points="1868,10 1896,40 1868,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_31 (PF13847)
+"Methyltransferase domain"</title>
+				<polygon class="PF13847" points="1871,28 1880,28 1885,33 1885,47 1880,52 1871,52" stroke-linejoin="round" width="14" height="24" fill="rgb(214,74,181)" stroke="rgb(171,59,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz10
+sulfotransferase 2</title>
+			<polygon class="Rhz10
+sulfotransferase 2" points="1897,10 1924,40 1897,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_3 (PF13469)
+"Sulfotransferase family"</title>
+				<polygon class="PF13469" points="1897,28 1909,28 1917,37 1917,43 1909,52 1897,52" stroke-linejoin="round" width="20" height="24" fill="rgb(59,182,84)" stroke="rgb(47,145,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz11
+bifunctional ATP sulfurylase (ATPS) / adenosine 5'-phosphosulfate kinase (APSK)</title>
+			<polygon class="Rhz11
+bifunctional ATP sulfurylase (ATPS) / adenosine 5'-phosphosulfate kinase (APSK)" points="1956,25 1990,25 1990,10 2020,40 1990,70 1990,55 1956,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="1958" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(196,118,83)" stroke="rgb(156,94,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>APS_kinase (PF01583)
+"Adenylylsulphate kinase"</title>
+				<polygon class="PF01583" points="2002,28 2003,28 2015,40 2003,52 2002,52" stroke-linejoin="round" width="15" height="24" fill="rgb(48,131,188)" stroke="rgb(38,104,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz12
+SbnA</title>
+			<polygon class="Rhz12
+SbnA" points="2088,25 2086,25 2086,10 2056,40 2086,70 2086,55 2088,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="2060,40 2072,28 2086,28 2086,52 2072,52" stroke-linejoin="round" width="27" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz13
+penicillin binding transpeptidase 2</title>
+			<polygon class="Rhz13
+penicillin binding transpeptidase 2" points="2107,25 2118,25 2118,10 2148,40 2118,70 2118,55 2107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S11 (PF00768)
+"D-alanyl-D-alanine carboxypeptidase"</title>
+				<rect class="PF00768" x="2109" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(227,157,83)" stroke="rgb(181,125,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SPOR (PF05036)
+"SPOR domain"</title>
+				<polygon class="PF05036" points="2140,36 2144,40 2140,44" stroke-linejoin="round" width="8" height="24" fill="rgb(173,203,80)" stroke="rgb(138,162,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz14
+putative N-acetlytransferase</title>
+			<polygon class="Rhz14
+putative N-acetlytransferase" points="2460,10 2474,40 2460,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="2460,28 2465,28 2470,38 2470,42 2465,52 2460,52" stroke-linejoin="round" width="10" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Rhz15
+beta lactamase</title>
+			<polygon class="Rhz15
+beta lactamase" points="2552,25 2544,25 2544,10 2514,40 2544,70 2544,55 2552,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase (PF00144)
+"Beta-lactamase"</title>
+				<polygon class="PF00144" points="2518,40 2530,28 2543,28 2543,52 2530,52" stroke-linejoin="round" width="29" height="24" fill="rgb(92,159,200)" stroke="rgb(73,127,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

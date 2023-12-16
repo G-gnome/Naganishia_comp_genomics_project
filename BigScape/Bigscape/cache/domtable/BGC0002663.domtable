@@ -1,0 +1,34 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lantibiotic_a        PF14867.9     29 BGC0002663_ORF1:gid::pid:AMQ71638.1:loc:0:207:strand:+ -             68   2.7e-15   55.9   5.9   1   1   1.8e-19   3.5e-15   55.6   5.9     2    29    39    68    38    68 0.98 Lantibiotic alpha
+DUF4135              PF13575.9    377 BGC0002663_ORF2:gid::pid:AMQ71639.1:loc:282:3426:strand:+ -           1047  6.9e-113  377.8   0.0   1   1  8.9e-117  8.7e-113  377.5   0.0     3   376   197   569   195   570 0.94 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0002663_ORF2:gid::pid:AMQ71639.1:loc:282:3426:strand:+ -           1047   4.3e-70  236.2   6.8   1   1   7.6e-74   7.5e-70  235.4   6.8     2   351   692  1037   691  1038 0.96 Lanthionine synthetase C-like protein
+DUF4135              PF13575.9    377 BGC0002663_ORF5:gid::pid:AMQ71642.1:loc:4066:7138:strand:+ -           1023  8.8e-115  384.1   0.1   1   1  1.3e-118  1.2e-114  383.6   0.1     1   376   189   563   189   564 0.95 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0002663_ORF5:gid::pid:AMQ71642.1:loc:4066:7138:strand:+ -           1023   1.3e-63  214.9   2.7   1   1   1.8e-67   1.7e-63  214.4   2.7     2   346   681  1011   680  1017 0.92 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.18   133 BGC0002663_ORF6:gid::pid:AMQ71643.1:loc:7134:9282:strand:+ -            715   6.8e-41  139.3   0.1   1   1   2.9e-44   1.9e-40  137.9   0.0     2   131    13   140    12   142 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0002663_ORF6:gid::pid:AMQ71643.1:loc:7134:9282:strand:+ -            715   1.8e-35  122.6   0.1   1   1   6.5e-39   4.3e-35  121.3   0.1     2   137   497   645   496   645 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002663_ORF6:gid::pid:AMQ71643.1:loc:7134:9282:strand:+ -            715   2.2e-25   90.0  21.6   1   1   5.7e-29   3.7e-25   89.2  21.6     3   272   168   434   166   436 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002663_ORF8:gid::pid:AMQ70215.1:loc:9751:10672:strand:+ -            306   3.5e-31  108.7   0.2   1   1   1.2e-34   1.2e-30  106.9   0.0     2   137    24   163    23   163 0.94 ABC transporter
+AAA_21               PF13304.9    304 BGC0002663_ORF8:gid::pid:AMQ70215.1:loc:9751:10672:strand:+ -            306   7.5e-13   49.0   0.8   1   1   4.8e-12   4.7e-08   33.3   0.0   235   299   132   194    94   199 0.89 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0002663_ORF9:gid::pid:AMQ71645.1:loc:10668:11376:strand:+ -            235   8.8e-14   52.0  13.6   1   1   4.5e-18   8.8e-14   52.0  13.6     1   175     5   181     5   187 0.71 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.10   179 BGC0002663_ORF10:gid::pid:AMQ71646.1:loc:11377:12118:strand:+ -            246     1e-24   87.6  14.6   1   1   1.1e-28     1e-24   87.6  14.6     1   177     5   176     5   178 0.78 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.10   288 BGC0002663_ORF10:gid::pid:AMQ71646.1:loc:11377:12118:strand:+ -            246   3.1e-07   30.0  14.7   1   1   3.2e-11   3.1e-07   30.0  14.7    80   286    55   243    28   245 0.74 ABC-2 family transporter protein
+HTH_3                PF01381.25    55 BGC0002663_ORF11:gid::pid:AMQ70216.1:loc:12142:12373:strand:+ -             76   5.3e-14   52.1   0.1   1   1   1.4e-17   7.1e-14   51.7   0.1     4    54    17    67    16    68 0.94 Helix-turn-helix
+HTH_31               PF13560.9     64 BGC0002663_ORF11:gid::pid:AMQ70216.1:loc:12142:12373:strand:+ -             76     2e-07   31.4   0.0   1   1   4.5e-11   2.2e-07   31.2   0.0     4    59    12    66     9    70 0.90 Helix-turn-helix domain
+HTH_26               PF13443.9     63 BGC0002663_ORF11:gid::pid:AMQ70216.1:loc:12142:12373:strand:+ -             76   8.1e-07   29.5   0.0   1   1   2.1e-10     1e-06   29.2   0.0     1    62    13    73    13    74 0.94 Cro/C1-type HTH DNA-binding domain
+ABC_tran             PF00005.30   137 BGC0002663_ORF12:gid::pid:AMQ70217.1:loc:12397:13312:strand:+ -            304   6.1e-28   98.2   0.0   1   1   1.7e-31   1.7e-27   96.7   0.0     2   137    19   159    18   159 0.96 ABC transporter
+AAA_21               PF13304.9    304 BGC0002663_ORF12:gid::pid:AMQ70217.1:loc:12397:13312:strand:+ -            304   2.9e-14   53.7   0.4   1   1   6.3e-14   6.2e-10   39.5   0.1   187   298    85   189    67   195 0.80 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0002663_ORF13:gid::pid:AMQ71647.1:loc:13308:14019:strand:+ -            236   2.9e-07   30.7  16.2   1   1   1.5e-11   2.9e-07   30.7  16.2     1   175     4   180     4   184 0.64 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.10   179 BGC0002663_ORF14:gid::pid:AMQ71648.1:loc:14020:14785:strand:+ -            254   1.9e-12   47.6  17.7   1   1   9.9e-17   1.9e-12   47.6  17.7     4   178    10   187     7   204 0.74 ABC-2 family transporter protein
+Peptidase_S8         PF00082.25   284 BGC0002663_ORF15:gid::pid:AMQ71649.1:loc:14879:16274:strand:+ -            464   1.5e-50  172.2   1.6   1   1   1.2e-54   2.3e-50  171.6   1.6     1   269   139   442   139   456 0.88 Subtilase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002663.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002663.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002663.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:40:19 2023
+# [ok]

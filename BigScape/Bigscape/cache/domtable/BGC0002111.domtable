@@ -1,0 +1,24 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0002111_ORF1:gid::pid:QIW19938.1:loc:0:852:strand:+ -            283   3.3e-25   89.3   0.0   1   1     3e-29   5.8e-25   88.5   0.0     1   136    20   158    20   159 0.94 ABC transporter
+ABC2_membrane_5      PF13346.9    205 BGC0002111_ORF2:gid::pid:QIW19939.1:loc:852:1503:strand:+ -            216   1.8e-33  116.0  27.3   1   1     1e-37   2.1e-33  115.8  27.3     1   204     3   211     3   212 0.89 ABC-2 family transporter protein
+Pkinase              PF00069.28   264 BGC0002111_ORF3:gid:lanKC:pid:QIW19940.1:loc:1779:4398:strand:+ -            872   9.8e-19   67.9   0.0   1   1   2.7e-22   1.8e-18   67.0   0.0    11   161   238   400   228   415 0.86 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.20   259 BGC0002111_ORF3:gid:lanKC:pid:QIW19940.1:loc:1779:4398:strand:+ -            872   2.6e-08   33.6   0.0   1   1     7e-12   4.6e-08   32.8   0.0    10   157   237   393   228   405 0.85 Protein tyrosine and serine/threonine kinase
+Methyltransf_25      PF13649.9     97 BGC0002111_ORF11:gid::pid:QIW19941.1:loc:5847:6681:strand:+ -            277   1.4e-17   64.3   0.0   1   1   1.4e-20   3.5e-17   63.0   0.0     1    97    69   163    69   163 0.96 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002111_ORF11:gid::pid:QIW19941.1:loc:5847:6681:strand:+ -            277   9.6e-15   55.1   0.0   1   1   8.5e-18   2.1e-14   54.1   0.0     2    95    71   166    70   167 0.96 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002111_ORF11:gid::pid:QIW19941.1:loc:5847:6681:strand:+ -            277   1.3e-14   54.4   0.0   1   1   7.1e-18   1.8e-14   54.0   0.0     4   124    66   176    64   241 0.81 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002111_ORF11:gid::pid:QIW19941.1:loc:5847:6681:strand:+ -            277   1.9e-14   53.9   0.0   1   1   2.4e-17     6e-14   52.3   0.0    11   162    55   251    48   254 0.71 Methyltransferase domain
+TehB                 PF03848.17   193 BGC0002111_ORF11:gid::pid:QIW19941.1:loc:5847:6681:strand:+ -            277   6.8e-13   48.6   0.2   1   1   5.9e-16   1.5e-12   47.5   0.1    28   156    63   193    50   215 0.80 Tellurite resistance protein TehB
+Methyltransf_12      PF08242.15    99 BGC0002111_ORF11:gid::pid:QIW19941.1:loc:5847:6681:strand:+ -            277   6.8e-10   39.7   0.0   1   1     6e-13   1.5e-09   38.6   0.0     2    98    71   164    70   165 0.79 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002111_ORF11:gid::pid:QIW19941.1:loc:5847:6681:strand:+ -            277   6.9e-06   25.7   0.0   1   1   6.9e-09   1.7e-05   24.4   0.0    37   163    55   179    51   215 0.84 ubiE/COQ5 methyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002111.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002111.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002111.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:53:31 2023
+# [ok]

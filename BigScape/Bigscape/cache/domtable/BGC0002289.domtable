@@ -1,0 +1,19 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0002289_ORF1:gid:sle_05770__ls2E:pid:CQR60039.1:loc:3:1785:strand:- -            593   7.9e-25   88.1   0.0   1   1   7.9e-29   1.5e-24   87.2   0.0     1   136   372   518   372   519 0.95 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002289_ORF2:gid:sle_05780__ls2E:pid:CQR60040.1:loc:1781:3542:strand:- -            586   3.6e-17   63.0   0.2   1   1   4.6e-21   4.5e-17   62.7   0.2    45   270    58   282    22   286 0.88 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002289_ORF2:gid:sle_05780__ls2E:pid:CQR60040.1:loc:1781:3542:strand:- -            586   2.4e-15   57.4   0.0   1   1   3.8e-19   3.7e-15   56.8   0.0     1   136   343   489   343   490 0.83 ABC transporter
+Transglut_core3      PF13471.9    117 BGC0002289_ORF4:gid:sle_05791__ls2D:pid:CQR60042.1:loc:3810:4266:strand:- -            151   2.7e-23   82.2   6.3   1   1   1.7e-27   3.4e-23   81.9   6.3     3   108     3   107     1   116 0.92 Transglutaminase-like superfamily
+PqqD                 PF05402.15    67 BGC0002289_ORF5:gid:sle_05800__ls2C:pid:CQR60043.1:loc:4322:4580:strand:- -             85   7.7e-12   45.5   0.2   1   1   4.9e-16   9.6e-12   45.2   0.2     2    63    18    79    17    82 0.94 Coenzyme PQQ synthesis protein D (PqqD)
+Asn_synthase         PF00733.24   355 BGC0002289_ORF6:gid:sle_05810__ls2B:pid:CQR60044.1:loc:4583:6461:strand:- -            625     1e-27   97.9   0.1   1   1   7.8e-32   1.5e-27   97.3   0.1     2   337   213   581   212   596 0.75 Asparagine synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002289.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002289.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002289.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:10:39 2023
+# [ok]

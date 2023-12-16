@@ -1,0 +1,32 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KR                   PF08659.13   180 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   1.4e-56  191.3   0.2   1   1   1.3e-58   1.6e-55  187.9   0.0     1   178  1853  2030  1853  2032 0.97 KR domain
+PS-DH                PF14765.9    297 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   2.7e-51  174.7   0.0   1   1   3.7e-54   4.5e-51  174.0   0.0     2   293   625   938   624   942 0.88 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   8.3e-47  160.4   0.1   1   1   1.1e-49   1.3e-46  159.7   0.1     2   280   248   539   247   571 0.88 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   9.3e-27   93.5   1.1   1   1   4.6e-29   5.7e-26   91.0   0.1    38   117     2    82     1    84 0.96 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   2.2e-20   73.4   0.0   1   1   5.2e-23   6.4e-20   71.9   0.0     1    99  1124  1230  1124  1230 0.90 Methyltransferase domain
+ADH_zinc_N_2         PF13602.9    133 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   1.5e-17   65.0   0.0   1   1   4.6e-19   5.6e-16   59.9   0.0     7   133  1695  1830  1691  1830 0.84 Zinc-binding dehydrogenase
+Methyltransf_25      PF13649.9     97 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   1.6e-13   51.2   0.0   1   1   1.1e-15   1.4e-12   48.3   0.0     1    97  1123  1228  1123  1228 0.86 Methyltransferase domain
+ADH_zinc_N           PF00107.29   130 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   2.5e-13   50.3   0.0   1   1   2.2e-15   2.7e-12   46.9   0.0     1   116  1654  1773  1654  1789 0.84 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.8    112 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   3.1e-12   47.1   0.0   1   1   6.8e-15   8.3e-12   45.7   0.0     2   112    87   218    87   218 0.84 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.9    165 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   5.1e-12   46.0   0.0   1   1   8.2e-15     1e-11   45.1   0.0    17   161  1114  1281  1099  1285 0.69 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   1.6e-11   44.9   0.0   1   1   5.1e-14   6.2e-11   42.9   0.0     1    96  1124  1232  1124  1232 0.82 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   3.9e-11   43.1   0.0   1   1   9.5e-14   1.2e-10   41.6   0.0     3   113  1119  1236  1117  1258 0.88 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   1.9e-08   34.1   0.6   1   1   5.9e-10   7.3e-07   29.0   0.0     4   151  1855  2003  1852  2018 0.90 short chain dehydrogenase
+PP-binding           PF00550.28    67 BGC0001858_ORF1:gid::pid:EAT86855.2:loc:715:7654:strand:- -           2215   1.6e-07   31.6   0.0   1   1   4.5e-10   5.6e-07   29.9   0.0     2    65  2139  2202  2138  2204 0.91 Phosphopantetheine attachment site
+FAD_binding_4        PF01565.26   139 BGC0001858_ORF3:gid::pid:EAT86857.2:loc:10151:11791:strand:- -            473   1.5e-20   73.5   0.1   1   1   8.9e-24   8.7e-20   71.0   0.1     3   137    59   183    57   185 0.90 FAD binding domain
+BBE                  PF08031.15    46 BGC0001858_ORF3:gid::pid:EAT86857.2:loc:10151:11791:strand:- -            473   9.8e-06   25.7   0.2   1   1   2.8e-09   2.8e-05   24.3   0.2     2    45   423   470   422   471 0.83 Berberine and berberine like
+p450                 PF00067.25   463 BGC0001858_ORF4:gid::pid:EAT86859.2:loc:13215:16536:strand:+ -            680   3.1e-52  178.0   0.0   1   2   9.9e-19   1.9e-14   53.4   0.0    25   186     8   164     2   213 0.80 Cytochrome P450
+p450                 PF00067.25   463 BGC0001858_ORF4:gid::pid:EAT86859.2:loc:13215:16536:strand:+ -            680   3.1e-52  178.0   0.0   2   2   4.5e-36   8.9e-32  110.5   0.0   299   444   215   363   205   378 0.91 Cytochrome P450
+Sulfotransfer_4      PF17784.4    216 BGC0001858_ORF6:gid::pid:EAT86861.2:loc:18751:19483:strand:+ -            243   1.7e-51  175.3   0.0   1   1   1.1e-55   2.1e-51  175.0   0.0    21   215     1   196     1   197 0.94 Sulfotransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001858.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001858.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001858.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:27:45 2023
+# [ok]

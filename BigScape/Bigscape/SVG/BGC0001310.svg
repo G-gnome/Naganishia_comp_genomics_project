@@ -1,0 +1,32 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="110.16666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="100.16666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>p-mel (SCLAV_5491)
+Cytochrome P450</title>
+			<polygon class="p-mel (SCLAV_5491)
+Cytochrome P450" points="10,25 25,25 25,10 55,40 25,70 25,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="42,31 51,40 42,49" stroke-linejoin="round" width="11" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rppA (SCLAV_5492)
+Type III PKS, putative chalcone synthase</title>
+			<polygon class="rppA (SCLAV_5492)
+Type III PKS, putative chalcone synthase" points="64,25 69,25 69,10 99,40 69,70 69,55 64,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<polygon class="PF00195" points="64,28 82,28 84,30 84,50 82,52 64,52" stroke-linejoin="round" width="20" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="84,30 94,40 84,50" stroke-linejoin="round" width="13" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

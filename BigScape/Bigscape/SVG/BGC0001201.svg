@@ -1,0 +1,27 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="96.36666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="86.36666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cypA8 (sce8551)
+Cytochrome P450 CYP264B1</title>
+			<polygon class="cypA8 (sce8551)
+Cytochrome P450 CYP264B1" points="10,25 21,25 21,10 51,40 21,70 21,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="26,28 35,28 47,40 47,40 35,52 26,52" stroke-linejoin="round" width="21" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>geoA (sce8552)
+putative terpene cyclase</title>
+			<polygon class="geoA (sce8552)
+putative terpene cyclase" points="53,25 56,25 56,10 86,40 56,70 56,55 53,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_syn_C_2 (PF19086)
+"Terpene synthase family 2, C-terminal metal binding"</title>
+				<polygon class="PF19086" points="61,28 69,28 80,39 80,41 69,52 61,52" stroke-linejoin="round" width="19" height="24" fill="rgb(55,207,154)" stroke="rgb(43,165,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

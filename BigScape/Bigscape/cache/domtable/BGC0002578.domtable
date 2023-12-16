@@ -1,0 +1,24 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OKR_DC_1             PF01276.23   417 BGC0002578_ORF1:gid::pid:CCA57465.1:loc:0:1677:strand:+ -            558     3e-51  174.6   0.0   1   1   2.2e-55   4.3e-51  174.1   0.0     1   328    26   357    26   414 0.88 Orn/Lys/Arg decarboxylase, major domain
+AMP-binding          PF00501.31   424 BGC0002578_ORF2:gid::pid:CCA57466.1:loc:1962:3561:strand:+ -            532   7.2e-55  186.4   0.0   1   1   4.3e-59   8.4e-55  186.2   0.0     2   422     8   415     7   417 0.82 AMP-binding enzyme
+EamA                 PF00892.23   137 BGC0002578_ORF3:gid::pid:CCA57467.1:loc:3798:4863:strand:+ -            354   6.6e-27   94.5  34.7   1   1   1.5e-25     3e-21   76.2   9.8     2   136     9   147     8   148 0.97 EamA-like transporter family
+TetR_N               PF00440.26    47 BGC0002578_ORF4:gid::pid:CCA57468.1:loc:4979:5582:strand:- -            200   6.6e-17   61.2   1.0   1   1   8.4e-21   1.7e-16   59.9   1.0     1    47    20    66    20    66 0.98 Bacterial regulatory proteins, tetR family
+AfsA                 PF03756.16   133 BGC0002578_ORF5:gid::pid:CCA57469.1:loc:5703:6741:strand:+ -            345   3.6e-44  150.1   1.2   1   2   1.3e-30   2.6e-26   92.3   0.1     1   129    42   183    42   187 0.95 A-factor biosynthesis hotdog domain
+AfsA                 PF03756.16   133 BGC0002578_ORF5:gid::pid:CCA57469.1:loc:5703:6741:strand:+ -            345   3.6e-44  150.1   1.2   2   2   4.1e-19   8.1e-15   55.1   0.1    18   127   249   340   243   344 0.86 A-factor biosynthesis hotdog domain
+HTH_1                PF00126.30    60 BGC0002578_ORF6:gid::pid:CCA57470.1:loc:6819:7116:strand:+ -             98     5e-22   77.7   0.7   1   1   3.4e-26   6.6e-22   77.4   0.7     1    59     3    62     3    63 0.95 Bacterial regulatory helix-turn-helix protein, lysR family
+HAD                  PF12710.10   188 BGC0002578_ORF7:gid::pid:CCA57471.1:loc:7112:7886:strand:+ -            257   3.8e-28   99.4   0.2   1   1   2.3e-32   4.6e-28   99.1   0.2     1   188     9   194     9   194 0.85 haloacid dehalogenase-like hydrolase
+TetR_N               PF00440.26    47 BGC0002578_ORF9:gid::pid:CCA57473.1:loc:8172:8793:strand:- -            206   9.9e-14   51.0   2.2   1   1   1.6e-17   3.2e-13   49.4   1.6     2    46    15    59    14    60 0.95 Bacterial regulatory proteins, tetR family
+Acyl-CoA_dh_2        PF08028.14   134 BGC0002578_ORF10:gid::pid:CCA57474.1:loc:8927:10145:strand:+ -            405   6.7e-28   97.7   9.6   1   1   6.9e-32   6.7e-28   97.7   9.6     3   133   256   388   254   389 0.94 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_1        PF00441.27   150 BGC0002578_ORF10:gid::pid:CCA57474.1:loc:8927:10145:strand:+ -            405   1.4e-07   32.0   4.1   1   1   7.5e-11   7.3e-07   29.6   4.1    18   130   256   380   252   384 0.79 Acyl-CoA dehydrogenase, C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002578.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002578.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002578.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:53:19 2023
+# [ok]

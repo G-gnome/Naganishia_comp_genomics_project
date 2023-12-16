@@ -1,0 +1,33 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AAA_16               PF13191.9    170 BGC0001808_ORF1:gid:toyA:pid:APT68170.1:loc:0:2877:strand:+ -            958   2.2e-18   67.3   0.2   1   1   2.3e-22   2.2e-18   67.3   0.2     3   160    13   168    11   177 0.72 AAA ATPase domain
+GerE                 PF00196.22    57 BGC0001808_ORF1:gid:toyA:pid:APT68170.1:loc:0:2877:strand:+ -            958   1.3e-12   47.2   0.0   1   1   2.6e-16   2.6e-12   46.3   0.0     3    52   889   938   887   943 0.95 Bacterial regulatory proteins, luxR family
+QueC                 PF06508.16   209 BGC0001808_ORF2:gid:toyM:pid:APT68169.1:loc:3032:3749:strand:+ -            238     1e-58  198.4   0.0   1   1   1.2e-62   1.2e-58  198.3   0.0     1   208    12   220    12   221 0.95 Queuosine biosynthesis protein QueC
+Asn_synthase         PF00733.24   355 BGC0001808_ORF2:gid:toyM:pid:APT68169.1:loc:3032:3749:strand:+ -            238   1.1e-10   41.9   0.2   1   1   1.6e-14   1.6e-10   41.3   0.2    22    80    15    72    10    78 0.93 Asparagine synthase
+HAD_2                PF13419.9    178 BGC0001808_ORF3:gid:toyI:pid:APT68171.1:loc:3852:4551:strand:- -            232   5.3e-09   36.5   0.0   1   1   2.1e-12     1e-08   35.6   0.0     1   178    13   194    13   194 0.81 Haloacid dehalogenase-like hydrolase
+HAD                  PF12710.10   188 BGC0001808_ORF3:gid:toyI:pid:APT68171.1:loc:3852:4551:strand:- -            232   4.4e-08   34.0   0.6   1   1   1.7e-11   8.2e-08   33.1   0.6     1   188    13   185    13   185 0.66 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.9     75 BGC0001808_ORF3:gid:toyI:pid:APT68171.1:loc:3852:4551:strand:- -            232     3e-08   33.8   0.1   1   1   1.3e-11   6.3e-08   32.7   0.1    10    74   156   220   151   221 0.84 HAD-hyrolase-like
+Pribosyltran         PF00156.30   158 BGC0001808_ORF4:gid:toyH:pid:APT68172.1:loc:4556:5078:strand:- -            173   2.6e-19   69.3   0.0   1   1   1.8e-23   3.6e-19   68.8   0.0    10   153    19   160    15   163 0.82 Phosphoribosyl transferase domain
+Adenylsucc_synt      PF00709.24   415 BGC0001808_ORF5:gid:toyG:pid:APT68173.1:loc:5074:6130:strand:- -            351     3e-71  240.5   0.4   1   2   5.4e-32   1.1e-27   97.0   0.0     1   148     5   146     5   148 0.93 Adenylosuccinate synthetase
+Adenylsucc_synt      PF00709.24   415 BGC0001808_ORF5:gid:toyG:pid:APT68173.1:loc:5074:6130:strand:- -            351     3e-71  240.5   0.4   2   2     1e-40     2e-36  125.8   0.4   189   330   148   287   145   295 0.95 Adenylosuccinate synthetase
+Lyase_1              PF00206.23   312 BGC0001808_ORF6:gid:toyF:pid:APT68174.1:loc:6114:7500:strand:- -            461   1.7e-45  155.9   0.0   1   1   2.8e-49   2.7e-45  155.2   0.0     7   306    12   292     8   296 0.90 Lyase
+ADSL_C               PF10397.12    77 BGC0001808_ORF6:gid:toyF:pid:APT68174.1:loc:6114:7500:strand:- -            461   2.6e-10   41.0   7.1   1   1   1.6e-12   1.6e-08   35.2   4.3     4    74   365   437   364   440 0.93 Adenylosuccinate lyase C-terminus
+IMPDH                PF00478.28   345 BGC0001808_ORF7:gid:toyE:pid:APT68175.1:loc:7496:8642:strand:- -            381  6.8e-119  397.0   5.3   1   1  1.2e-122  7.7e-119  396.8   5.3     1   345     9   363     9   363 0.95 IMP dehydrogenase / GMP reductase domain
+NMO                  PF03060.18   331 BGC0001808_ORF7:gid:toyE:pid:APT68175.1:loc:7496:8642:strand:- -            381   1.7e-08   34.4  19.5   1   1     4e-11   2.6e-07   30.5  19.4     8   236    39   264    33   269 0.73 Nitronate monooxygenase
+FMN_dh               PF01070.21   348 BGC0001808_ORF7:gid:toyE:pid:APT68175.1:loc:7496:8642:strand:- -            381   8.8e-08   31.7  18.1   1   1   1.6e-10     1e-06   28.1   9.4   204   303   146   253   125   265 0.79 FMN-dependent dehydrogenase
+GTP_cyclohydroI      PF01227.25   179 BGC0001808_ORF8:gid:toyD:pid:APT68176.1:loc:8676:9273:strand:- -            198   5.5e-52  175.9   0.0   1   1   3.4e-56   6.7e-52  175.6   0.0     3   176    23   191    21   193 0.91 GTP cyclohydrolase I
+Fer4_14              PF13394.9    118 BGC0001808_ORF9:gid:toyC:pid:APT68177.1:loc:9278:9908:strand:- -            209   2.2e-10   40.8   0.0   1   1   8.8e-14   5.8e-10   39.5   0.0     3    92     1    94     1   116 0.75 4Fe-4S single cluster domain
+Radical_SAM          PF04055.24   167 BGC0001808_ORF9:gid:toyC:pid:APT68177.1:loc:9278:9908:strand:- -            209   3.3e-10   40.7   0.0   1   1   1.8e-13   1.2e-09   38.9   0.0     5   107     4   108     2   125 0.88 Radical SAM superfamily
+Fer4_12              PF13353.9    137 BGC0001808_ORF9:gid:toyC:pid:APT68177.1:loc:9278:9908:strand:- -            209   3.6e-07   30.9   0.0   1   1   7.7e-11     5e-07   30.4   0.0    11    95     2    95     1   125 0.78 4Fe-4S single cluster domain
+PTPS                 PF01242.22   123 BGC0001808_ORF10:gid:toyB:pid:APT68178.1:loc:10047:10410:strand:- -            120   7.4e-31  106.8   0.0   1   1   4.2e-35   8.2e-31  106.7   0.0     1   121     4   119     4   120 0.94 6-pyruvoyl tetrahydropterin synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001808.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001808.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001808.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:38:23 2023
+# [ok]

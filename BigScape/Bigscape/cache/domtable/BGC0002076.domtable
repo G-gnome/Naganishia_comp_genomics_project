@@ -1,0 +1,19 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AfsA                 PF03756.16   133 BGC0002076_ORF1:gid::pid:TNB99240.1:loc:6:1251:strand:+ -            414   2.8e-10   40.4   0.5   1   1   6.9e-13   1.3e-08   35.0   0.0     6   130   132   256   129   259 0.73 A-factor biosynthesis hotdog domain
+Oxidored_FMN         PF00724.23   342 BGC0002076_ORF2:gid::pid:TNB99241.1:loc:1247:2396:strand:+ -            382     6e-43  147.5   0.0   1   1   3.5e-47   6.9e-43  147.3   0.0     4   340    10   344     7   346 0.88 NADH:flavin oxidoreductase / NADH oxidase family
+adh_short_C2         PF13561.9    234 BGC0002076_ORF3:gid::pid:TNB99242.1:loc:2409:3180:strand:+ -            256   2.8e-56  190.8   2.0   1   1   7.1e-60   3.5e-56  190.5   2.0     3   233    15   251    13   252 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002076_ORF3:gid::pid:TNB99242.1:loc:2409:3180:strand:+ -            256   4.7e-51  173.2   0.9   1   1   1.2e-54   5.9e-51  172.8   0.9     1   191     7   199     7   203 0.96 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002076_ORF3:gid::pid:TNB99242.1:loc:2409:3180:strand:+ -            256   3.4e-18   66.3   0.3   1   1     1e-21   5.1e-18   65.7   0.3     3   161     9   165     7   175 0.87 KR domain
+Epimerase            PF01370.24   241 BGC0002076_ORF3:gid::pid:TNB99242.1:loc:2409:3180:strand:+ -            256   7.8e-08   32.2   0.1   1   1   3.4e-11   1.7e-07   31.1   0.1     2   228    10   235     9   247 0.73 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002076.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002076.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002076.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:40:24 2023
+# [ok]

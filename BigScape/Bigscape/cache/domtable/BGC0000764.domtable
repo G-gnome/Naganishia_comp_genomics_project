@@ -1,0 +1,35 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HTH_28               PF13518.9     52 BGC0000764_ORF1:gid::pid:AAX19714.1:loc:1684:2143:strand:- -            152   3.6e-13   49.5   0.0   1   1   1.1e-09   1.1e-05   25.6   0.1     2    47     9    56     8    58 0.89 Helix-turn-helix domain
+HTH_3                PF01381.25    55 BGC0000764_ORF2:gid:epsR:pid:AAX19698.1:loc:2589:2907:strand:+ -            105   1.6e-07   31.4   0.0   1   1   1.2e-11   2.4e-07   30.8   0.0     1    55     9    62     9    62 0.98 Helix-turn-helix
+Wzz                  PF02706.18    92 BGC0000764_ORF4:gid:epsA:pid:AAX19700.1:loc:3747:4527:strand:+ -            259   1.1e-20   73.8   1.1   1   1   1.1e-24   1.1e-20   73.8   1.1     2    91     8    97     7    98 0.97 Chain length determinant protein
+GNVR                 PF13807.9     82 BGC0000764_ORF4:gid:epsA:pid:AAX19700.1:loc:3747:4527:strand:+ -            259   7.7e-09   35.5   0.2   1   1   7.9e-13   7.7e-09   35.5   0.2    35    81   150   196   141   197 0.92 G-rich domain on putative tyrosine kinase
+AAA_31               PF13614.9    177 BGC0000764_ORF5:gid:epsB:pid:AAX19701.1:loc:4536:5232:strand:+ -            231   8.4e-15   55.2   0.9   1   1   3.7e-18   1.8e-14   54.1   0.9    13   159    56   197    45   211 0.71 AAA domain
+ParA                 PF10609.12   246 BGC0000764_ORF5:gid:epsB:pid:AAX19701.1:loc:4536:5232:strand:+ -            231     2e-11   44.0   1.5   1   1   9.1e-15   4.5e-11   42.8   1.5     6   171    47   213    44   215 0.75 NUBPL iron-transfer P-loop NTPase
+CbiA                 PF01656.26   127 BGC0000764_ORF5:gid:epsB:pid:AAX19701.1:loc:4536:5232:strand:+ -            231   1.6e-08   34.8   0.0   1   1   7.3e-12   3.6e-08   33.6   0.0     3    87    49   221    47   230 0.86 CobQ/CobB/MinD/ParA nucleotide binding domain
+MipZ                 PF09140.14   262 BGC0000764_ORF5:gid:epsB:pid:AAX19701.1:loc:4536:5232:strand:+ -            231   3.4e-05   23.4   0.0   1   1   1.6e-08   7.9e-05   22.2   0.0     9   108    53   163    46   172 0.68 ATPase MipZ
+CpsB_CapC            PF19567.2    234 BGC0000764_ORF6:gid:epsC:pid:AAX19702.1:loc:5286:6051:strand:+ -            254   7.3e-61  205.7   0.1   1   1   4.4e-65   8.6e-61  205.5   0.1     1   233     1   232     1   233 0.96 Capsular polysaccharide synthesis, CpsB/CapC
+Bac_transf           PF02397.19   184 BGC0000764_ORF7:gid:epsD:pid:AAX19703.1:loc:6072:6759:strand:+ -            228   5.1e-54  182.8   0.0   1   1     3e-58   5.8e-54  182.6   0.0     1   182    31   221    31   223 0.92 Bacterial sugar transferase
+Alg14                PF08660.14   175 BGC0000764_ORF8:gid:epsE:pid:AAX19704.1:loc:6762:7212:strand:+ -            149     1e-17   64.7   0.0   1   1   1.8e-20   3.6e-16   59.7   0.0    76   173    58   146    51   148 0.91 Oligosaccharide biosynthesis protein Alg14 like
+Glyco_tran_28_C      PF04101.19   167 BGC0000764_ORF9:gid:epsF:pid:AAX19705.1:loc:7211:7697:strand:+ -            161   1.9e-20   73.6   0.0   1   1   1.1e-24   2.2e-20   73.5   0.0     1   124     1   116     1   158 0.91 Glycosyltransferase family 28 C-terminal domain
+Glycos_transf_2      PF00535.29   170 BGC0000764_ORF10:gid:epsG:pid:AAX19706.1:loc:7696:8260:strand:+ -            187   4.1e-19   69.1   0.0   1   1   2.5e-23   4.9e-19   68.9   0.0     1   116     7   118     7   162 0.88 Glycosyl transferase family 2
+Glycos_transf_2      PF00535.29   170 BGC0000764_ORF12:gid:epsI:pid:AAX19708.1:loc:9748:10591:strand:+ -            280     7e-07   29.3   0.2   1   1   6.5e-11   1.3e-06   28.5   0.0    58   130     5    76     1   130 0.85 Glycosyl transferase family 2
+PS_pyruv_trans       PF04230.16   286 BGC0000764_ORF13:gid:epsJ:pid:AAX19709.1:loc:10593:11676:strand:+ -            360   6.9e-29  101.8   6.8   1   1   4.4e-33   8.5e-29  101.5   6.8     1   286    12   289    12   289 0.92 Polysaccharide pyruvyl transferase
+Glycos_transf_2      PF00535.29   170 BGC0000764_ORF14:gid:epsK:pid:AAX19710.1:loc:11679:12630:strand:+ -            316   2.4e-24   86.2   0.1   1   1   4.2e-28   4.1e-24   85.4   0.1     1   109    11   117    11   179 0.87 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0000764_ORF14:gid:epsK:pid:AAX19710.1:loc:11679:12630:strand:+ -            316   1.9e-12   47.6   0.0   1   1   2.8e-16   2.8e-12   47.1   0.0     4   119    10   121     8   142 0.89 Glycosyltransferase like family 2
+Polysacc_synt        PF01943.20   275 BGC0000764_ORF15:gid:epsM:pid:AAX19711.1:loc:12778:14227:strand:+ -            482   2.1e-27   96.3  26.2   1   1   3.2e-31   2.1e-27   96.3  26.2     3   275     6   270     4   270 0.96 Polysaccharide biosynthesis protein
+Polysacc_synt_C      PF14667.9    143 BGC0000764_ORF15:gid:epsM:pid:AAX19711.1:loc:12778:14227:strand:+ -            482   1.1e-23   84.0  17.7   1   1   1.7e-27   1.1e-23   84.0  17.7     3   142   324   459   322   460 0.95 Polysaccharide biosynthesis C-terminal domain
+Polysacc_synt_3      PF13440.9    293 BGC0000764_ORF15:gid:epsM:pid:AAX19711.1:loc:12778:14227:strand:+ -            482   1.6e-11   44.2  17.2   1   1   2.4e-15   1.6e-11   44.2  17.2    11   289    38   317    28   320 0.86 Polysaccharide biosynthesis protein
+NAGPA                PF09992.12   170 BGC0000764_ORF16:gid:epsL:pid:AAX19712.1:loc:14833:15736:strand:+ -            300   1.4e-15   58.0   2.7   1   1   1.2e-19   2.3e-15   57.3   0.7     6   168   139   298   135   300 0.87 Phosphodiester glycosidase
+LytR_cpsA_psr        PF03816.17   152 BGC0000764_ORF17:gid::pid:AAX19713.1:loc:15760:16663:strand:- -            300   2.2e-07   31.3   6.1   1   1   3.4e-11   6.6e-07   29.7   6.1    38   133   110   202    43   223 0.79 LytR_cpsA_psr family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000764.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000764.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000764.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:10:45 2023
+# [ok]

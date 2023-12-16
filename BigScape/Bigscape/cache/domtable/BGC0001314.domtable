@@ -1,0 +1,28 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001314_ORF4:gid:CYP716A1:pid:NP_198460.1:loc:5377:7614:strand:+ -            477   8.1e-56  189.8   0.0   1   1   5.3e-60     1e-55  189.5   0.0     1   437    35   449    35   465 0.86 Cytochrome P450
+YGGT                 PF02325.20    69 BGC0001314_ORF5:gid:CCB3:pid:NP_198461.2:loc:8679:9204:strand:- -            174   3.7e-14   53.0   3.9   1   1   3.6e-18   7.1e-14   52.1   3.9     3    69    89   158    88   159 0.92 YGGT family
+p450                 PF00067.25   463 BGC0001314_ORF6:gid::pid:NP_198462.1:loc:19293:19812:strand:- -            140   1.2e-31  110.1   0.3   1   1   6.9e-36   1.4e-31  109.9   0.3   322   437     2   112     1   130 0.92 Cytochrome P450
+p450                 PF00067.25   463 BGC0001314_ORF7:gid:CYP716A2:pid:NP_198463.1:loc:22212:23260:strand:- -            318     1e-14   54.3   0.0   1   1   7.2e-19   1.4e-14   53.8   0.0     1   301    34   311    34   315 0.81 Cytochrome P450
+SQHop_cyclase_C      PF13243.9    319 BGC0001314_ORF8:gid:PEN3:pid:NP_001318680.1:loc:30737:35423:strand:- -            760   1.6e-51  175.4   0.1   1   1   5.8e-48   3.8e-44  151.2   0.0     2   318   416   753   415   754 0.82 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.9    291 BGC0001314_ORF8:gid:PEN3:pid:NP_001318680.1:loc:30737:35423:strand:- -            760   2.3e-43  148.5   0.0   1   1   9.1e-44   5.9e-40  137.3   0.0     4   289   102   405    99   407 0.82 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.24    44 BGC0001314_ORF8:gid:PEN3:pid:NP_001318680.1:loc:30737:35423:strand:- -            760   3.3e-21   74.8   3.5   1   3   3.6e-09   2.4e-05   24.1   0.0     2    44   148   190   147   190 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0001314_ORF8:gid:PEN3:pid:NP_001318680.1:loc:30737:35423:strand:- -            760   3.3e-21   74.8   3.5   2   3   4.4e-10   2.9e-06   27.0   0.2     5    44   594   632   592   632 0.93 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0001314_ORF8:gid:PEN3:pid:NP_001318680.1:loc:30737:35423:strand:- -            760   3.3e-21   74.8   3.5   3   3   4.1e-08   0.00027   20.8   0.0     3    28   641   666   639   674 0.93 Prenyltransferase and squalene oxidase repeat
+Aminotran_1_2        PF00155.24   363 BGC0001314_ORF9:gid::pid:NP_198465.3:loc:43261:45130:strand:- -            420   1.1e-53  182.8   0.0   1   1   6.5e-58   1.3e-53  182.6   0.0     2   351    43   396    42   408 0.93 Aminotransferase class I and II
+PCRF                 PF03462.21   192 BGC0001314_ORF11:gid:HCF109:pid:NP_851096.1:loc:46083:47975:strand:- -            456   4.5e-53  180.1   0.9   1   1   4.6e-57   4.5e-53  180.1   0.9     1   192   107   299   107   299 0.92 PCRF domain
+RF-1                 PF00472.23   116 BGC0001314_ORF11:gid:HCF109:pid:NP_851096.1:loc:46083:47975:strand:- -            456     3e-34  117.5   2.4   1   1   3.2e-38   3.2e-34  117.5   0.1     3   116   310   418   307   418 0.91 RF-1 domain
+Peptidase_S10        PF00450.25   421 BGC0001314_ORF14:gid:scpl1:pid:NP_198467.2:loc:49198:51863:strand:+ -            441  1.7e-126  423.2   1.0   1   1  9.6e-131  1.9e-126  423.0   1.0     1   421    37   438    37   438 0.97 Serine carboxypeptidase
+FBA_1                PF07734.16   164 BGC0001314_ORF19:gid::pid:NP_198469.1:loc:54106:56297:strand:- -            471   1.2e-60  204.3   0.7   1   1   3.1e-64     2e-60  203.6   0.1     1   164   215   384   215   384 0.93 F-box associated
+F-box                PF00646.36    43 BGC0001314_ORF19:gid::pid:NP_198469.1:loc:54106:56297:strand:- -            471     1e-09   38.1   0.2   1   1   3.7e-13   2.4e-09   36.9   0.2     2    42     4    44     3    45 0.94 F-box domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001314.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001314.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001314.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:43:29 2023
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002617_ORF1:gid::pid:AMQ36132.1:loc:657:7197:strand:+ -           2179  3.2e-137  457.7   0.0   1   2   4.6e-70     3e-66  223.9   0.0     3   424    41   442    39   442 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002617_ORF1:gid::pid:AMQ36132.1:loc:657:7197:strand:+ -           2179  3.2e-137  457.7   0.0   2   2   1.8e-72   1.2e-68  231.8   0.0     1   424  1118  1516  1118  1516 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002617_ORF1:gid::pid:AMQ36132.1:loc:657:7197:strand:+ -           2179   1.3e-63  215.5   0.0   1   2   5.8e-34   3.8e-30  105.1   0.0     1   444   692  1087   692  1101 0.78 Condensation domain
+Condensation         PF00668.23   457 BGC0002617_ORF1:gid::pid:AMQ36132.1:loc:657:7197:strand:+ -           2179   1.3e-63  215.5   0.0   2   2   6.1e-33     4e-29  101.7   0.0     3   441  1760  2173  1758  2176 0.80 Condensation domain
+PP-binding           PF00550.28    67 BGC0002617_ORF1:gid::pid:AMQ36132.1:loc:657:7197:strand:+ -           2179   3.3e-24   85.1   0.0   1   2   6.6e-12   4.3e-08   33.5   0.0     2    64   586   647   585   650 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002617_ORF1:gid::pid:AMQ36132.1:loc:657:7197:strand:+ -           2179   3.3e-24   85.1   0.0   2   2     1e-16   6.8e-13   48.8   0.0     2    65  1653  1715  1652  1717 0.97 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0002617_ORF2:gid::pid:AMQ36133.1:loc:8035:9660:strand:- -            503   1.2e-66  225.5   0.0   1   1   7.3e-71   1.4e-66  225.3   0.0     5   456    58   494    54   501 0.88 Cytochrome P450
+AMP-binding          PF00501.31   424 BGC0002617_ORF3:gid::pid:AMQ36134.1:loc:11320:14847:strand:+ -           1175   5.1e-68  229.7   0.0   1   1     1e-71   6.7e-68  229.4   0.0     3   424    91   488    89   488 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002617_ORF3:gid::pid:AMQ36134.1:loc:11320:14847:strand:+ -           1175   5.4e-37  127.7   0.0   1   1   1.4e-40   9.2e-37  126.9   0.0    30   444   774  1171   755  1174 0.77 Condensation domain
+PP-binding           PF00550.28    67 BGC0002617_ORF3:gid::pid:AMQ36134.1:loc:11320:14847:strand:+ -           1175   4.9e-12   46.1   0.0   1   1   1.9e-15   1.2e-11   44.8   0.0     1    63   645   706   645   709 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002617.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002617.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002617.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:28:57 2023
+# [ok]

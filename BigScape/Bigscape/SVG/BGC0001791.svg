@@ -1,0 +1,232 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1026.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1016.4333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (YC6258_RS23045)
+GNAT family N-acetyltransferase</title>
+			<polygon class=" (YC6258_RS23045)
+GNAT family N-acetyltransferase" points="10,10 26,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="14,28 16,28 23,40 16,52 14,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23050)
+methyl-accepting chemotaxis protein</title>
+			<polygon class=" (YC6258_RS23050)
+methyl-accepting chemotaxis protein" points="90,25 57,25 57,10 27,40 57,70 57,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MCPsignal (PF00015)
+"Methyl-accepting chemotaxis protein (MCP) signalling domain"</title>
+				<polygon class="PF00015" points="31,40 43,28 47,28 47,52 43,52" stroke-linejoin="round" width="17" height="24" fill="rgb(104,174,223)" stroke="rgb(83,139,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HAMP (PF00672)
+"HAMP domain"</title>
+				<rect class="PF00672" x="55" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(124,89,195)" stroke="rgb(99,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>dCache_1 (PF02743)
+"Cache domain"</title>
+				<rect class="PF02743" x="63" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(84,194,113)" stroke="rgb(67,155,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23055)
+TRAP transporter small permease subunit</title>
+			<polygon class=" (YC6258_RS23055)
+TRAP transporter small permease subunit" points="108,10 124,40 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DctQ (PF04290)
+"Tripartite ATP-independent periplasmic transporters, DctQ component"</title>
+				<polygon class="PF04290" points="111,28 114,28 121,40 114,52 111,52" stroke-linejoin="round" width="13" height="24" fill="rgb(77,57,182)" stroke="rgb(61,45,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23060)
+TRAP transporter large permease subunit</title>
+			<polygon class=" (YC6258_RS23060)
+TRAP transporter large permease subunit" points="125,25 139,25 139,10 169,40 139,70 139,55 125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DctM (PF06808)
+"Tripartite ATP-independent periplasmic transporter, DctM component"</title>
+				<polygon class="PF06808" points="125,28 152,28 164,40 152,52 125,52" stroke-linejoin="round" width="42" height="24" fill="rgb(223,62,92)" stroke="rgb(178,49,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dctP (YC6258_RS23065)
+TRAP transporter substrate-binding protein DctP</title>
+			<polygon class="dctP (YC6258_RS23065)
+TRAP transporter substrate-binding protein DctP" points="171,25 175,25 175,10 205,40 175,70 175,55 171,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TAT_signal (PF10518)
+"TAT (twin-arginine translocation) pathway signal sequence"</title>
+				<rect class="PF10518" x="171" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(85,137,217)" stroke="rgb(68,109,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DctP (PF03480)
+"Bacterial extracellular solute-binding protein, family 7"</title>
+				<polygon class="PF03480" points="175,28 189,28 201,40 189,52 175,52" stroke-linejoin="round" width="27" height="24" fill="rgb(209,103,193)" stroke="rgb(167,82,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>xrtE (YC6258_RS23070)
+exosortase E/protease, VPEID-CTERM system</title>
+			<polygon class="xrtE (YC6258_RS23070)
+exosortase E/protease, VPEID-CTERM system" points="215,25 239,25 239,10 269,40 239,70 239,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exosortase_EpsH (PF09721)
+"Transmembrane exosortase (Exosortase_EpsH)"</title>
+				<rect class="PF09721" x="216" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(94,107,207)" stroke="rgb(75,85,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="258,33 265,40 258,47" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23075)
+non-ribosomal peptide synthetase</title>
+			<polygon class=" (YC6258_RS23075)
+non-ribosomal peptide synthetase" points="308,25 665,25 665,10 695,40 665,70 665,55 308,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="309" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="354" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="396" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="406" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="414" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="458" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="504" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="546" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="556" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="564" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="610" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="651" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="661" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="670,28 678,28 690,40 678,52 670,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23080)
+NAD(P)/FAD-dependent oxidoreductase</title>
+			<polygon class=" (YC6258_RS23080)
+NAD(P)/FAD-dependent oxidoreductase" points="702,10 731,40 702,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="702,28 715,28 717,30 717,50 715,52 702,52" stroke-linejoin="round" width="15" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="719,32 727,40 719,48" stroke-linejoin="round" width="10" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23085)
+transporter substrate-binding domain-containing protein</title>
+			<polygon class=" (YC6258_RS23085)
+transporter substrate-binding domain-containing protein" points="747,10 768,40 747,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_3 (PF00497)
+"Bacterial extracellular solute-binding proteins, family 3"</title>
+				<polygon class="PF00497" points="747,28 756,28 764,40 756,52 747,52" stroke-linejoin="round" width="21" height="24" fill="rgb(186,76,141)" stroke="rgb(148,60,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23090)
+UbiA family prenyltransferase</title>
+			<polygon class=" (YC6258_RS23090)
+UbiA family prenyltransferase" points="785,10 814,40 785,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="786,28 798,28 810,40 798,52 786,52" stroke-linejoin="round" width="25" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23095)
+aminotransferase class III-fold pyridoxal phosphate-dependent enzyme</title>
+			<polygon class=" (YC6258_RS23095)
+aminotransferase class III-fold pyridoxal phosphate-dependent enzyme" points="837,25 894,25 894,10 924,40 894,70 894,55 837,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<rect class="PF00202" x="838" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (YC6258_RS23100)
+PEP-utilizing enzyme</title>
+			<polygon class=" (YC6258_RS23100)
+PEP-utilizing enzyme" points="925,25 985,25 985,10 1015,40 985,70 985,55 925,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, AMP/ATP-binding domain"</title>
+				<rect class="PF01326" x="927" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers (PF00391)
+"PEP-utilising enzyme, mobile domain"</title>
+				<polygon class="PF00391" points="1005,34 1011,40 1005,46" stroke-linejoin="round" width="7" height="24" fill="rgb(206,59,219)" stroke="rgb(164,47,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

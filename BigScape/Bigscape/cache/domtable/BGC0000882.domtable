@@ -1,0 +1,29 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Thymidylat_synt      PF00303.22   270 BGC0000882_ORF1:gid:milA:pid:ACA14348.1:loc:0:1005:strand:+ -            334   8.9e-18   64.5   0.0   1   1   5.1e-22     1e-17   64.3   0.0     3   222    13   227    11   271 0.83 Thymidylate synthase
+Nuc_deoxyrib_tr      PF05014.18   118 BGC0000882_ORF2:gid:MilB:pid:ACA14349.1:loc:1127:1640:strand:+ -            170   8.7e-08   32.5   0.0   1   1   5.9e-12   1.2e-07   32.1   0.0    13   108    37   128    31   156 0.81 Nucleoside 2-deoxyribosyltransferase
+DegT_DnrJ_EryC1      PF01041.20   360 BGC0000882_ORF4:gid:milD:pid:AFD20744.1:loc:3060:4248:strand:+ -            395   3.7e-48  164.7   0.0   1   1   2.2e-52   4.2e-48  164.5   0.0     5   308    37   334    32   389 0.90 DegT/DnrJ/EryC1/StrS aminotransferase family
+APH                  PF01636.26   239 BGC0000882_ORF5:gid:milE:pid:AFD20745.1:loc:4255:5077:strand:+ -            273   4.3e-17   62.9   6.0   1   1     3e-21   5.9e-17   62.4   6.0    22   230    39   221     9   235 0.73 Phosphotransferase enzyme family
+Radical_SAM          PF04055.24   167 BGC0000882_ORF7:gid:milG:pid:AFD20747.1:loc:5502:6510:strand:+ -            335   2.3e-18   67.3   0.0   1   1   7.9e-22   5.2e-18   66.1   0.0     3   157    21   164    19   174 0.87 Radical SAM superfamily
+Fer4_12              PF13353.9    137 BGC0000882_ORF7:gid:milG:pid:AFD20747.1:loc:5502:6510:strand:+ -            335   2.4e-05   25.0   0.0   1   1   9.1e-09     6e-05   23.7   0.0    14   118    24   123    10   132 0.86 4Fe-4S single cluster domain
+PP-binding           PF00550.28    67 BGC0000882_ORF9:gid:milI:pid:AFD20749.1:loc:8823:9906:strand:+ -            360   9.9e-05   22.7   0.0   1   1   9.6e-09   0.00019   21.8   0.0    29    67    69   108    49   108 0.91 Phosphopantetheine attachment site
+MFS_1                PF07690.19   353 BGC0000882_ORF11:gid:milK:pid:AFD20751.1:loc:11027:12356:strand:+ -            442     2e-23   83.0  54.0   1   2   1.4e-19   1.4e-15   57.2  30.7    25   308    42   329    16   334 0.74 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0000882_ORF11:gid:milK:pid:AFD20751.1:loc:11027:12356:strand:+ -            442     2e-23   83.0  54.0   2   2     3e-14     3e-10   39.7  15.3     3   187   237   421   236   435 0.83 Major Facilitator Superfamily
+MFS_1_like           PF12832.10   385 BGC0000882_ORF11:gid:milK:pid:AFD20751.1:loc:11027:12356:strand:+ -            442   3.8e-07   29.4   4.9   1   1   2.7e-10   2.6e-06   26.7   3.2    26   333    39   346    34   378 0.80 MFS_1 like family
+Aminotran_1_2        PF00155.24   363 BGC0000882_ORF13:gid:milM:pid:AFD20753.1:loc:13423:14593:strand:+ -            389   1.3e-06   28.0   0.0   1   1   8.8e-11   1.7e-06   27.6   0.0    49   356    66   374    55   381 0.79 Aminotransferase class I and II
+DHDPS                PF00701.25   289 BGC0000882_ORF14:gid:milN:pid:AFD20754.1:loc:14585:15362:strand:+ -            258     4e-17   62.0   0.0   1   1   2.7e-21   5.3e-17   61.6   0.0     4   211     5   207     3   218 0.91 Dihydrodipicolinate synthetase family
+GerE                 PF00196.22    57 BGC0000882_ORF15:gid:milO:pid:AFD20755.1:loc:16094:17165:strand:- -            356   5.5e-08   32.4   0.1   1   1     5e-12   9.9e-08   31.6   0.1    10    56   286   332   284   333 0.95 Bacterial regulatory proteins, luxR family
+ABC_tran             PF00005.30   137 BGC0000882_ORF16:gid:milP:pid:AFD20756.1:loc:17170:18754:strand:- -            527   1.8e-28   99.9   0.0   1   2     7e-19   6.9e-15   55.9   0.0    13   137     2   162     1   162 0.74 ABC transporter
+ABC_tran             PF00005.30   137 BGC0000882_ORF16:gid:milP:pid:AFD20756.1:loc:17170:18754:strand:- -            527   1.8e-28   99.9   0.0   2   2   5.4e-14   5.3e-10   40.1   0.0     6   136   319   459   314   460 0.72 ABC transporter
+APH                  PF01636.26   239 BGC0000882_ORF17:gid:milQ:pid:AFD20757.1:loc:19043:19814:strand:+ -            256   2.6e-16   60.3   4.1   1   1   1.5e-15     3e-11   43.8   0.3   168   238   122   189   111   199 0.86 Phosphotransferase enzyme family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000882.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000882.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000882.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:45:12 2023
+# [ok]

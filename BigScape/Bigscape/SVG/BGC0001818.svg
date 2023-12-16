@@ -1,0 +1,541 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1368.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1358.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>vzb0
+putative membrane protein</title>
+			<polygon class="vzb0
+putative membrane protein" points="10,40 17,10 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vzb1
+MerR-family transcriptional regulator</title>
+			<polygon class="vzb1
+MerR-family transcriptional regulator" points="21,40 46,10 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TipAS (PF07739)
+"TipAS antibiotic-recognition domain"</title>
+				<polygon class="PF07739" points="25,40 32,32 32,48" stroke-linejoin="round" width="11" height="24" fill="rgb(94,74,206)" stroke="rgb(75,59,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<rect class="PF13411" x="39" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(100,202,107)" stroke="rgb(80,161,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb2
+putative ligase/carboxylase</title>
+			<polygon class="vzb2
+putative ligase/carboxylase" points="91,25 80,25 80,10 50,40 80,70 80,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_3 (PF02655)
+"ATP-grasp domain"</title>
+				<polygon class="PF02655" points="62,32 66,28 80,28 80,52 66,52 62,48" stroke-linejoin="round" width="18" height="24" fill="rgb(84,156,185)" stroke="rgb(67,124,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb3
+branched-chain amino acid transporter</title>
+			<polygon class="vzb3
+branched-chain amino acid transporter" points="92,40 102,10 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AzlD (PF05437)
+"Branched-chain amino acid transport protein (AzlD)"</title>
+				<polygon class="PF05437" points="95,40 99,28 101,28 101,52 99,52" stroke-linejoin="round" width="9" height="24" fill="rgb(89,184,63)" stroke="rgb(71,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb4
+branched-chain amino acid transporter</title>
+			<polygon class="vzb4
+branched-chain amino acid transporter" points="103,40 130,10 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AzlC (PF03591)
+"AzlC protein"</title>
+				<polygon class="PF03591" points="111,36 118,28 125,28 125,52 118,52 111,44" stroke-linejoin="round" width="14" height="24" fill="rgb(70,147,184)" stroke="rgb(56,117,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb5
+acyl-CoA dehydrogenase</title>
+			<polygon class="vzb5
+acyl-CoA dehydrogenase" points="170,25 162,25 162,10 132,40 162,70 162,55 170,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="136,40 147,29 147,51" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="157" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb6
+pimeloyl-CoA dehydrogenase</title>
+			<polygon class="vzb6
+pimeloyl-CoA dehydrogenase" points="210,25 202,25 202,10 172,40 202,70 202,55 210,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="176,40 187,29 187,51" stroke-linejoin="round" width="15" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<polygon class="PF02770" points="188,28 188,28 197,28 197,52 188,52 188,52" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="198" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb7
+NRPS (C-A-PCP-TE)</title>
+			<polygon class="vzb7
+NRPS (C-A-PCP-TE)" points="349,25 240,25 240,10 210,40 240,70 240,55 349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="214,40 226,28 235,28 235,52 226,52" stroke-linejoin="round" width="25" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="238" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="247" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="256" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="298" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb8
+PCP domain protein</title>
+			<polygon class="vzb8
+PCP domain protein" points="348,40 360,10 360,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="352,38 356,28 358,28 358,52 356,52 352,42" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb9
+Glutamine--scyllo-inositol transaminase</title>
+			<polygon class="vzb9
+Glutamine--scyllo-inositol transaminase" points="406,25 390,25 390,10 360,40 390,70 390,55 406,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="368,36 376,28 403,28 403,52 376,52 368,44" stroke-linejoin="round" width="35" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb10
+hypothetical protein</title>
+			<polygon class="vzb10
+hypothetical protein" points="440,25 436,25 436,10 406,40 436,70 436,55 440,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BtrH_N (PF14399)
+"Butirosin biosynthesis protein H, N-terminal"</title>
+				<rect class="PF14399" x="425" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(159,218,73)" stroke="rgb(127,174,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb11
+hypothetical protein</title>
+			<polygon class="vzb11
+hypothetical protein" points="440,40 461,10 461,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vzb12
+GCN5-related N-acetyltransferase</title>
+			<polygon class="vzb12
+GCN5-related N-acetyltransferase" points="493,25 492,25 492,10 462,40 492,70 492,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="478,28 478,28 489,28 489,52 478,52 478,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb13
+peptidase M20</title>
+			<polygon class="vzb13
+peptidase M20" points="536,25 522,25 522,10 492,40 522,70 522,55 536,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M20 (PF01546)
+"Peptidase family M20/M25/M40"</title>
+				<polygon class="PF01546" points="496,40 508,28 528,28 528,52 508,52" stroke-linejoin="round" width="36" height="24" fill="rgb(88,213,108)" stroke="rgb(70,170,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb14
+thioesterase</title>
+			<polygon class="vzb14
+thioesterase" points="537,40 564,10 564,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="541,40 552,28 561,28 561,52 552,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb15
+NRPS (A-PCP)</title>
+			<polygon class="vzb15
+NRPS (A-PCP)" points="625,25 594,25 594,10 564,40 594,70 594,55 625,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="568,40 572,36 572,44" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="576,32 580,28 583,28 583,52 580,52 576,48" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="584" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb16
+MbtH</title>
+			<polygon class="vzb16
+MbtH" points="626,40 632,10 632,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MbtH (PF03621)
+"MbtH-like protein"</title>
+				<polygon class="PF03621" points="629,40 632,28 632,28 632,52 632,52" stroke-linejoin="round" width="5" height="24" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb17
+LuxR family transcriptional regulator</title>
+			<polygon class="vzb17
+LuxR family transcriptional regulator" points="638,40 660,10 660,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="642,40 644,37 644,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="648,32 651,28 659,28 659,52 651,52 648,48" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb18
+sulfate adenylyltransferase</title>
+			<polygon class="vzb18
+sulfate adenylyltransferase" points="709,25 696,25 696,10 666,40 696,70 696,55 709,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<polygon class="PF00009" points="676,34 682,28 707,28 707,52 682,52 676,46" stroke-linejoin="round" width="31" height="24" fill="rgb(196,118,83)" stroke="rgb(156,94,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb19
+sulfate adenylyltransferase</title>
+			<polygon class="vzb19
+sulfate adenylyltransferase" points="743,25 739,25 739,10 709,40 739,70 739,55 743,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAPS_reduct (PF01507)
+"Phosphoadenosine phosphosulfate reductase family"</title>
+				<polygon class="PF01507" points="713,40 725,28 735,28 735,52 725,52 713,40" stroke-linejoin="round" width="22" height="24" fill="rgb(87,190,105)" stroke="rgb(69,152,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb20
+adenylylsulfate kinase</title>
+			<polygon class="vzb20
+adenylylsulfate kinase" points="743,40 761,10 761,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APS_kinase (PF01583)
+"Adenylylsulphate kinase"</title>
+				<polygon class="PF01583" points="747,40 754,28 759,28 759,52 754,52" stroke-linejoin="round" width="15" height="24" fill="rgb(48,131,188)" stroke="rgb(38,104,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb21
+hypothetical protein</title>
+			<polygon class="vzb21
+hypothetical protein" points="764,40 788,10 788,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_5 (PF19798)
+"Sulfotransferase domain"</title>
+				<polygon class="PF19798" points="768,40 778,28 787,28 787,52 778,52" stroke-linejoin="round" width="23" height="24" fill="rgb(189,100,66)" stroke="rgb(151,80,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb22
+LysW</title>
+			<polygon class="vzb22
+LysW" points="798,10 803,40 798,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vzb23
+LysX</title>
+			<polygon class="vzb23
+LysX" points="804,10 833,40 804,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RimK (PF08443)
+"RimK-like ATP-grasp domain"</title>
+				<polygon class="PF08443" points="813,28 817,28 829,40 817,52 813,52" stroke-linejoin="round" width="19" height="24" fill="rgb(192,59,192)" stroke="rgb(153,47,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb24
+LysY</title>
+			<polygon class="vzb24
+LysY" points="833,25 837,25 837,10 867,40 837,70 837,55 833,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dh (PF01118)
+"Semialdehyde dehydrogenase, NAD binding domain"</title>
+				<rect class="PF01118" x="833" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(191,106,221)" stroke="rgb(152,84,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb25
+LysZ</title>
+			<polygon class="vzb25
+LysZ" points="868,10 896,40 868,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="868,28 880,28 892,40 892,40 880,52 868,52" stroke-linejoin="round" width="24" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb26
+LysK</title>
+			<polygon class="vzb26
+LysK" points="897,25 904,25 904,10 934,40 904,70 904,55 897,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M20 (PF01546)
+"Peptidase family M20/M25/M40"</title>
+				<polygon class="PF01546" points="904,28 918,28 930,40 918,52 904,52" stroke-linejoin="round" width="27" height="24" fill="rgb(88,213,108)" stroke="rgb(70,170,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb27
+Transketolase N-terminal domain protein</title>
+			<polygon class="vzb27
+Transketolase N-terminal domain protein" points="934,10 963,40 934,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transketolase_N (PF00456)
+"Transketolase, thiamine diphosphate binding domain"</title>
+				<polygon class="PF00456" points="936,28 946,28 958,40 946,52 936,52" stroke-linejoin="round" width="26" height="24" fill="rgb(74,202,214)" stroke="rgb(59,161,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb28
+Transketolase C-terminal domain protein</title>
+			<polygon class="vzb28
+Transketolase C-terminal domain protein" points="963,25 966,25 966,10 996,40 966,70 966,55 963,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<rect class="PF02779" x="964" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="982,30 992,40 982,50" stroke-linejoin="round" width="12" height="24" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb29
+transcriptional regulator</title>
+			<polygon class="vzb29
+transcriptional regulator" points="1002,40 1023,10 1023,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PadR (PF03551)
+"Transcriptional regulator PadR-like family"</title>
+				<polygon class="PF03551" points="1014,29 1015,28 1021,28 1021,52 1015,52 1014,51" stroke-linejoin="round" width="7" height="24" fill="rgb(210,176,95)" stroke="rgb(168,140,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb30
+hypothetical protein</title>
+			<polygon class="vzb30
+hypothetical protein" points="1025,40 1042,10 1042,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF664 (PF04978)
+"Protein of unknown function (DUF664)"</title>
+				<polygon class="PF04978" points="1028,40 1035,28 1041,28 1041,52 1035,52" stroke-linejoin="round" width="15" height="24" fill="rgb(102,82,189)" stroke="rgb(81,65,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb31
+aldehyde dehydrogenase</title>
+			<polygon class="vzb31
+aldehyde dehydrogenase" points="1094,25 1076,25 1076,10 1046,40 1076,70 1076,55 1094,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="1050,40 1062,28 1092,28 1092,52 1062,52" stroke-linejoin="round" width="45" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb32
+helix-turn-helix domain protein</title>
+			<polygon class="vzb32
+helix-turn-helix domain protein" points="1128,25 1127,25 1127,10 1097,40 1127,70 1127,55 1128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5753 (PF19054)
+"Domain of unknown function (DUF5753)"</title>
+				<polygon class="PF19054" points="1101,40 1113,28 1115,28 1115,52 1113,52" stroke-linejoin="round" width="18" height="24" fill="rgb(211,92,211)" stroke="rgb(168,73,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="1118" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(207,145,90)" stroke="rgb(165,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb33
+hypothetical protein</title>
+			<polygon class="vzb33
+hypothetical protein" points="1131,40 1137,10 1137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vzb34
+regulator</title>
+			<polygon class="vzb34
+regulator" points="1137,10 1154,40 1137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_2 (PF13581)
+"Histidine kinase-like ATPase domain"</title>
+				<polygon class="PF13581" points="1140,28 1143,28 1150,40 1143,52 1140,52" stroke-linejoin="round" width="12" height="24" fill="rgb(86,179,88)" stroke="rgb(68,143,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb35
+putative regulator</title>
+			<polygon class="vzb35
+putative regulator" points="1156,40 1165,10 1165,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF397 (PF04149)
+"Domain of unknown function (DUF397)"</title>
+				<polygon class="PF04149" points="1159,40 1162,31 1162,49" stroke-linejoin="round" width="5" height="24" fill="rgb(94,195,165)" stroke="rgb(75,156,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb36
+30S ribosomal protein S18</title>
+			<polygon class="vzb36
+30S ribosomal protein S18" points="1172,40 1180,10 1180,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_S18 (PF01084)
+"Ribosomal protein S18"</title>
+				<polygon class="PF01084" points="1175,40 1177,33 1177,47" stroke-linejoin="round" width="5" height="24" fill="rgb(195,114,97)" stroke="rgb(156,91,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb37
+cobalamin synthesis CobW domain containing protein</title>
+			<polygon class="vzb37
+cobalamin synthesis CobW domain containing protein" points="1218,25 1211,25 1211,10 1181,40 1211,70 1211,55 1218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CobW_C (PF07683)
+"Cobalamin synthesis protein cobW C-terminal domain"</title>
+				<polygon class="PF07683" points="1185,40 1194,31 1194,49" stroke-linejoin="round" width="11" height="24" fill="rgb(172,98,218)" stroke="rgb(137,78,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>cobW (PF02492)
+"CobW/HypB/UreG, nucleotide-binding domain"</title>
+				<rect class="PF02492" x="1199" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(79,112,178)" stroke="rgb(63,89,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb38
+50S ribosomal protein L31 type B</title>
+			<polygon class="vzb38
+50S ribosomal protein L31 type B" points="1218,40 1226,10 1226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L31 (PF01197)
+"Ribosomal protein L31"</title>
+				<polygon class="PF01197" points="1221,40 1224,28 1225,28 1225,52 1224,52" stroke-linejoin="round" width="7" height="24" fill="rgb(63,90,213)" stroke="rgb(50,71,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb39
+50S ribosomal protein L33</title>
+			<polygon class="vzb39
+50S ribosomal protein L33" points="1227,40 1233,10 1233,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L33 (PF00471)
+"Ribosomal protein L33"</title>
+				<polygon class="PF00471" points="1230,40 1231,36 1231,44" stroke-linejoin="round" width="4" height="24" fill="rgb(82,52,197)" stroke="rgb(65,41,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb40
+50S ribosomal protein L28</title>
+			<polygon class="vzb40
+50S ribosomal protein L28" points="1235,10 1242,40 1235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L28 (PF00830)
+"Ribosomal L28 family"</title>
+				<polygon class="PF00830" points="1235,28 1236,28 1239,40 1236,52 1235,52" stroke-linejoin="round" width="5" height="24" fill="rgb(191,73,161)" stroke="rgb(152,58,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb41
+30S ribosomal protein S14</title>
+			<polygon class="vzb41
+30S ribosomal protein S14" points="1242,10 1252,40 1242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vzb42
+membrane protein</title>
+			<polygon class="vzb42
+membrane protein" points="1251,10 1270,40 1251,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vzb43
+hypothetical protein</title>
+			<polygon class="vzb43
+hypothetical protein" points="1270,40 1275,10 1275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vzb44
+hypothetical protein</title>
+			<polygon class="vzb44
+hypothetical protein" points="1320,25 1312,25 1312,10 1282,40 1312,70 1312,55 1320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2786 (PF10979)
+"Protein of unknown function (DUF2786)"</title>
+				<rect class="PF10979" x="1301" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(191,60,131)" stroke="rgb(152,48,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vzb45
+DNA polymerase I</title>
+			<polygon class="vzb45
+DNA polymerase I" points="1332,10 1357,40 1332,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

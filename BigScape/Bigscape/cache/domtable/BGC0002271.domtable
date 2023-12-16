@@ -1,0 +1,18 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002271_ORF1:gid::pid:EAU39346.1:loc:0:2889:strand:- -            962   4.2e-55  187.2   0.0   1   1   9.7e-59   6.4e-55  186.6   0.0     4   423    34   462    31   463 0.82 AMP-binding enzyme
+Thioesterase         PF00975.23   230 BGC0002271_ORF1:gid::pid:EAU39346.1:loc:0:2889:strand:- -            962   1.6e-27   97.3   0.0   1   1   9.3e-31   6.1e-27   95.4   0.0     2   225   694   952   693   957 0.75 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002271_ORF1:gid::pid:EAU39346.1:loc:0:2889:strand:- -            962   1.8e-07   31.5   0.2   1   1     6e-11   3.9e-07   30.4   0.2     2    67   600   668   599   668 0.92 Phosphopantetheine attachment site
+Trp_DMAT             PF11991.11   363 BGC0002271_ORF3:gid::pid:EAU39348.1:loc:5057:6466:strand:- -            424     1e-86  291.7   0.0   1   1   6.2e-91   1.2e-86  291.5   0.0     4   358    19   369    17   375 0.93 Tryptophan dimethylallyltransferase
+Methyltransf_2       PF00891.21   210 BGC0002271_ORF4:gid::pid:EAU39349.1:loc:7609:8963:strand:+ -            364   2.1e-17   63.3   0.1   1   1   1.2e-15   2.3e-11   43.6   0.0   124   209   256   340   255   341 0.97 O-methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002271.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002271.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002271.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:00:46 2023
+# [ok]

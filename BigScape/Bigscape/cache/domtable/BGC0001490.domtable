@@ -1,0 +1,28 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FMO-like             PF00743.22   532 BGC0001490_ORF1:gid::pid:AQU14204.1:loc:16:1609:strand:+ -            530   3.5e-57  194.2   0.0   1   1   4.2e-60   1.4e-56  192.2   0.0     5   488     5   476     3   504 0.83 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.9    305 BGC0001490_ORF1:gid::pid:AQU14204.1:loc:16:1609:strand:+ -            530   7.5e-24   84.6   0.1   1   1   5.6e-23   1.8e-19   70.2   0.0     1   197     5   198     5   206 0.83 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.17   295 BGC0001490_ORF1:gid::pid:AQU14204.1:loc:16:1609:strand:+ -            530   3.2e-11   43.1   0.6   1   1   1.1e-13   3.6e-10   39.7   0.6     2   168     3   247     2   337 0.64 Pyridine nucleotide-disulphide oxidoreductase
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001490_ORF1:gid::pid:AQU14204.1:loc:16:1609:strand:+ -            530   2.2e-09   37.0   1.6   1   1   4.3e-12   1.4e-08   34.4   0.7    90   229    71   204    58   321 0.67 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+NAD_binding_9        PF13454.9    155 BGC0001490_ORF1:gid::pid:AQU14204.1:loc:16:1609:strand:+ -            530   1.1e-07   32.2   3.5   1   1   4.8e-09   1.6e-05   25.2   0.3     2   154     6   133     5   134 0.83 FAD-NAD(P)-binding
+NAD_binding_8        PF13450.9     68 BGC0001490_ORF1:gid::pid:AQU14204.1:loc:16:1609:strand:+ -            530   5.8e-06   26.6   1.3   1   1   8.1e-09   2.7e-05   24.5   0.1     1    35     6    41     6    56 0.92 NAD(P)-binding Rossmann-like domain
+p450                 PF00067.25   463 BGC0001490_ORF2:gid::pid:AQU14205.1:loc:2162:3638:strand:+ -            491   7.3e-88  295.5   0.0   1   1   4.5e-92   8.8e-88  295.2   0.0     1   461    19   485    19   487 0.86 Cytochrome P450
+FMO-like             PF00743.22   532 BGC0001490_ORF5:gid::pid:AQU14208.1:loc:4701:5721:strand:+ -            339   2.6e-33  115.4   0.0   1   1   6.7e-36   1.6e-32  112.8   0.0     5   343     5   333     3   338 0.79 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.9    305 BGC0001490_ORF5:gid::pid:AQU14208.1:loc:4701:5721:strand:+ -            339   6.7e-24   84.8   0.0   1   1   2.6e-23   6.3e-20   71.8   0.0     1   197     5   198     5   224 0.84 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.17   295 BGC0001490_ORF5:gid::pid:AQU14208.1:loc:4701:5721:strand:+ -            339   5.9e-12   45.6   0.0   1   1   5.9e-14   1.5e-10   41.0   0.0     2   168     3   190     2   219 0.74 Pyridine nucleotide-disulphide oxidoreductase
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001490_ORF5:gid::pid:AQU14208.1:loc:4701:5721:strand:+ -            339     1e-08   34.9   0.2   1   1   3.6e-11   8.8e-08   31.8   0.0    90   273    71   249    58   322 0.65 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+NAD_binding_8        PF13450.9     68 BGC0001490_ORF5:gid::pid:AQU14208.1:loc:4701:5721:strand:+ -            339   1.3e-06   28.6   0.6   1   1   1.1e-08   2.6e-05   24.5   0.2     1    35     6    41     6    56 0.92 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.27   417 BGC0001490_ORF5:gid::pid:AQU14208.1:loc:4701:5721:strand:+ -            339   3.9e-05   23.0   0.3   1   1   3.1e-08   7.5e-05   22.1   0.3     1    39     3    42     3    54 0.91 FAD binding domain
+FMO-like             PF00743.22   532 BGC0001490_ORF6:gid::pid:AQU14209.1:loc:5727:6219:strand:+ -            163   1.3e-16   60.3   0.0   1   1   7.1e-21   1.4e-16   60.2   0.0   364   489     9   136     1   150 0.86 Flavin-binding monooxygenase-like
+Rv2949c-like         PF01947.19   149 BGC0001490_ORF8:gid::pid:AQU14211.1:loc:8102:8669:strand:+ -            188   2.5e-16   60.1   0.1   1   1   1.6e-20   3.1e-16   59.8   0.1     1   143    27   176    27   182 0.92 Chorismate pyruvate-lyase Rv2949c-like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001490.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001490.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001490.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:45:58 2023
+# [ok]

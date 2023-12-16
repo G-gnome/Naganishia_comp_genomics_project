@@ -1,0 +1,30 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LysR_substrate       PF03466.23   209 BGC0001736_ORF1:gid::pid:CAE15166.1:loc:2389:3283:strand:- -            297   8.1e-28   97.4   0.2   1   1   8.3e-32   8.1e-28   97.4   0.2     3   200    88   285    86   291 0.92 LysR substrate binding domain
+HTH_1                PF00126.30    60 BGC0001736_ORF1:gid::pid:CAE15166.1:loc:2389:3283:strand:- -            297   1.3e-21   76.4   0.4   1   1   2.4e-25   2.4e-21   75.6   0.4     1    60     3    62     3    62 0.99 Bacterial regulatory helix-turn-helix protein, lysR family
+GTP_cyclohydroI      PF01227.25   179 BGC0001736_ORF2:gid::pid:CAE15167.1:loc:3966:4671:strand:+ -            234   1.2e-42  145.5   0.0   1   1   7.6e-47   1.5e-42  145.2   0.0     6   178    54   230    49   231 0.89 GTP cyclohydrolase I
+PTPS                 PF01242.22   123 BGC0001736_ORF3:gid::pid:CAE15168.1:loc:4667:5252:strand:+ -            194   8.5e-31  106.6   0.2   1   1     6e-35   1.2e-30  106.2   0.2     1   121     5   147     5   149 0.97 6-pyruvoyl tetrahydropterin synthase
+E1_dh                PF00676.23   300 BGC0001736_ORF4:gid::pid:CAE15169.1:loc:5286:7239:strand:+ -            650   2.3e-43  148.4   0.0   1   1   1.2e-46   3.8e-43  147.7   0.0     4   295    10   287     7   291 0.89 Dehydrogenase E1 component
+Transket_pyr         PF02779.27   178 BGC0001736_ORF4:gid::pid:CAE15169.1:loc:5286:7239:strand:+ -            650   1.4e-34  119.4   0.0   1   1   7.4e-38   2.4e-34  118.7   0.0     2   176   314   490   313   492 0.94 Transketolase, pyrimidine binding domain
+DXP_synthase_N       PF13292.9    273 BGC0001736_ORF4:gid::pid:CAE15169.1:loc:5286:7239:strand:+ -            650   2.4e-10   40.3   0.0   1   1   1.1e-13   3.8e-10   39.6   0.0   107   206   101   201    81   228 0.81 1-deoxy-D-xylulose-5-phosphate synthase
+Transketolase_C      PF02780.23   124 BGC0001736_ORF4:gid::pid:CAE15169.1:loc:5286:7239:strand:+ -            650   6.6e-09   35.8   0.0   1   1   4.3e-12   1.4e-08   34.8   0.0     8   121   519   631   514   634 0.91 Transketolase, C-terminal domain
+TPP_enzyme_C         PF02775.24   153 BGC0001736_ORF4:gid::pid:CAE15169.1:loc:5286:7239:strand:+ -            650   2.6e-06   27.4   0.0   1   1   7.9e-09   2.6e-05   24.2   0.0    28    99   105   182    92   225 0.77 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+Condensation         PF00668.23   457 BGC0001736_ORF5:gid::pid:CAE15170.1:loc:7280:10088:strand:+ -            935   9.3e-58  196.1   0.9   1   1     5e-61     2e-57  195.0   0.6     5   438   492   920   489   930 0.86 Condensation domain
+2-oxoacid_dh         PF00198.26   233 BGC0001736_ORF5:gid::pid:CAE15170.1:loc:7280:10088:strand:+ -            935   1.2e-48  165.7   0.0   1   1     6e-52   2.3e-48  164.8   0.0     4   226   169   373   166   382 0.91 2-oxoacid dehydrogenases acyltransferase (catalytic domain)
+PP-binding           PF00550.28    67 BGC0001736_ORF5:gid::pid:CAE15170.1:loc:7280:10088:strand:+ -            935     4e-12   46.4   0.0   1   1   1.4e-14   5.7e-11   42.7   0.0     2    65   407   468   406   470 0.93 Phosphopantetheine attachment site
+Biotin_lipoyl        PF00364.25    73 BGC0001736_ORF5:gid::pid:CAE15170.1:loc:7280:10088:strand:+ -            935   8.1e-12   44.9   0.3   1   1   3.8e-15   1.5e-11   44.1   0.3    15    73    17    75     9    75 0.91 Biotin-requiring enzyme
+adh_short_C2         PF13561.9    234 BGC0001736_ORF7:gid::pid:CAE15172.1:loc:11500:12265:strand:+ -            254   3.7e-47  161.0   0.0   1   1   7.2e-51   4.7e-47  160.6   0.0     1   232    19   249    19   250 0.89 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001736_ORF7:gid::pid:CAE15172.1:loc:11500:12265:strand:+ -            254   5.2e-44  150.2   0.0   1   1   9.3e-48   6.1e-44  150.0   0.0     2   183    14   195    13   208 0.95 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001736_ORF7:gid::pid:CAE15172.1:loc:11500:12265:strand:+ -            254   4.8e-05   23.5   0.1   1   1   1.1e-08     7e-05   22.9   0.1     3   109    15   119    14   124 0.88 KR domain
+HPPK                 PF01288.23   111 BGC0001736_ORF8:gid::pid:CAE15173.1:loc:12345:12888:strand:+ -            180   1.5e-30  106.1   0.1   1   1   1.3e-34   2.6e-30  105.3   0.0     2   110    10   136     9   137 0.92 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001736.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001736.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001736.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:54:48 2023
+# [ok]

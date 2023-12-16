@@ -1,0 +1,150 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="953.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="943.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cdmA
+2-oxoglutarate/Fe(II)-dependent dioxygenase CdmA</title>
+			<polygon class="cdmA
+2-oxoglutarate/Fe(II)-dependent dioxygenase CdmA" points="10,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="16,38 26,28 35,28 35,52 26,52 16,42" stroke-linejoin="round" width="19" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmB
+putative MFS toxin efflux pump CdmB</title>
+			<polygon class="cdmB
+putative MFS toxin efflux pump CdmB" points="98,25 130,25 130,10 160,40 130,70 130,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="106,28 144,28 146,30 146,50 144,52 106,52" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmC
+acetyltransferase CdmC</title>
+			<polygon class="cdmC
+acetyltransferase CdmC" points="199,25 212,25 212,10 242,40 212,70 212,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MBOAT_2 (PF13813)
+"Membrane bound O-acyl transferase family"</title>
+				<polygon class="PF13813" points="222,28 226,28 231,33 231,47 226,52 222,52" stroke-linejoin="round" width="9" height="24" fill="rgb(96,197,109)" stroke="rgb(76,157,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmD
+2-oxoglutarate/Fe(II)-dependent dioxygenase CdmD</title>
+			<polygon class="cdmD
+2-oxoglutarate/Fe(II)-dependent dioxygenase CdmD" points="300,25 300,25 300,10 270,40 300,70 300,55 300,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="276,38 286,28 297,28 297,52 286,52 276,42" stroke-linejoin="round" width="21" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmE
+polyketide synthase CdmE</title>
+			<polygon class="cdmE
+polyketide synthase CdmE" points="346,25 593,25 593,10 623,40 593,70 593,55 346,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="349" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="375" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="387" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="404" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="443" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<rect class="PF08242" x="494" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(187,59,115)" stroke="rgb(149,47,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<rect class="PF00107" x="548" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="568" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="597" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmF
+short-chain dehydrogenase/reductase CdmF</title>
+			<polygon class="cdmF
+short-chain dehydrogenase/reductase CdmF" points="651,25 652,25 652,10 682,40 652,70 652,55 651,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="652,28 666,28 676,38 676,42 666,52 652,52" stroke-linejoin="round" width="24" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmG
+terpene cyclase CdmG</title>
+			<polygon class="cdmG
+terpene cyclase CdmG" points="694,40 720,10 720,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cdmH
+prenyltransferase CdmH</title>
+			<polygon class="cdmH
+prenyltransferase CdmH" points="790,25 783,25 783,10 753,40 783,70 783,55 790,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="758,39 769,28 786,28 786,52 769,52 758,41" stroke-linejoin="round" width="28" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmI
+flavin-dependent monooxygenase CdmI</title>
+			<polygon class="cdmI
+flavin-dependent monooxygenase CdmI" points="812,25 835,25 835,10 865,40 835,70 835,55 812,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="813" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cdmJ
+cytochrome P450 monooxygenase CdmJ</title>
+			<polygon class="cdmJ
+cytochrome P450 monooxygenase CdmJ" points="881,25 912,25 912,10 942,40 912,70 912,55 881,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="894,28 926,28 930,32 930,48 926,52 894,52" stroke-linejoin="round" width="36" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

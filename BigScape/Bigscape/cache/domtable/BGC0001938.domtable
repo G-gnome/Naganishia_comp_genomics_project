@@ -1,0 +1,23 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.9     97 BGC0001938_ORF1:gid:cepB:pid:AVI26429.1:loc:0:711:strand:- -            236     1e-13   51.9   0.1   1   1   5.2e-17   1.7e-13   51.2   0.1     1    96    62   159    62   159 0.88 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001938_ORF1:gid:cepB:pid:AVI26429.1:loc:0:711:strand:- -            236   1.1e-10   41.6   0.0   1   1   4.9e-14   1.6e-10   41.1   0.0     5   112    60   166    58   192 0.83 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001938_ORF1:gid:cepB:pid:AVI26429.1:loc:0:711:strand:- -            236   8.8e-10   39.2   0.0   1   1   4.7e-13   1.5e-09   38.5   0.0     1    91    63   159    63   162 0.85 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001938_ORF1:gid:cepB:pid:AVI26429.1:loc:0:711:strand:- -            236   1.7e-09   38.4   0.0   1   1   1.1e-12   3.5e-09   37.4   0.0     1    96    63   159    63   161 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001938_ORF1:gid:cepB:pid:AVI26429.1:loc:0:711:strand:- -            236   1.5e-08   34.8   0.0   1   1   5.3e-12   1.7e-08   34.5   0.0    11   112    46   158    32   218 0.73 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0001938_ORF1:gid:cepB:pid:AVI26429.1:loc:0:711:strand:- -            236   2.9e-06   26.9   0.0   1   1   1.2e-09   3.9e-06   26.5   0.0    47   149    58   162    37   181 0.85 ubiE/COQ5 methyltransferase family
+Chal_sti_synt_C      PF02797.18   151 BGC0001938_ORF2:gid:cepA:pid:AVI26430.1:loc:712:1819:strand:- -            368   1.1e-22   80.8   0.0   1   1   4.1e-26     2e-22   79.9   0.0    10   148   234   365   227   366 0.82 Chalcone and stilbene synthases, C-terminal domain
+Chal_sti_synt_N      PF00195.22   225 BGC0001938_ORF2:gid:cepA:pid:AVI26430.1:loc:712:1819:strand:- -            368   6.5e-22   78.2   0.1   1   1   1.8e-25   8.9e-22   77.7   0.1    15   221     9   212     3   216 0.83 Chalcone and stilbene synthases, N-terminal domain
+ACP_syn_III_C        PF08541.13    90 BGC0001938_ORF2:gid:cepA:pid:AVI26430.1:loc:712:1819:strand:- -            368   2.9e-10   40.3   0.0   1   1   1.7e-13   8.5e-10   38.8   0.0     4    88   277   364   274   365 0.93 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+FAE1_CUT1_RppA       PF08392.15   290 BGC0001938_ORF2:gid:cepA:pid:AVI26430.1:loc:712:1819:strand:- -            368   7.1e-10   38.8   0.0   1   1     2e-13   9.7e-10   38.3   0.0    75   211    83   220    40   239 0.82 FAE1/Type III polyketide synthase-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001938.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001938.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001938.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:41:19 2023
+# [ok]

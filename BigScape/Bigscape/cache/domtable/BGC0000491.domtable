@@ -1,0 +1,17 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BacteriocIIc_cy      PF12173.11    91 BGC0000491_ORF3:gid:gaaA:pid:BAA22261.1:loc:1221:1497:strand:+ -             91   3.3e-50  168.4  11.3   1   1   1.9e-54   3.6e-50  168.3  11.3     1    91     1    91     1    91 0.99 Bacteriocin class IIc cyclic gassericin A-like
+SpoIIM               PF01944.20   156 BGC0000491_ORF4:gid:gaaD:pid:BAG66054.1:loc:1580:2069:strand:+ -            162   2.7e-07   30.9  23.9   1   1   8.6e-11   1.7e-06   28.3  23.9     4   156    14   155    10   155 0.68 Stage II sporulation protein M
+ABC_tran             PF00005.30   137 BGC0000491_ORF6:gid:gaaT:pid:BAG66056.1:loc:2274:2955:strand:+ -            226   2.5e-21   76.8   0.0   1   1   5.8e-25   5.7e-21   75.6   0.0     1   137    21   149    21   149 0.88 ABC transporter
+ABC2_membrane_5      PF13346.9    205 BGC0000491_ORF7:gid:gaaE:pid:BAG66057.1:loc:2957:3596:strand:+ -            212   4.8e-17   62.3  42.0   1   1   2.8e-21   5.4e-17   62.2  42.0     1   204     3   208     3   209 0.86 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000491.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000491.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000491.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:34:27 2023
+# [ok]

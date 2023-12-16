@@ -1,0 +1,88 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="304.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="294.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>psmA
+methyltransferase</title>
+			<polygon class="psmA
+methyltransferase" points="10,25 13,25 13,10 43,40 13,70 13,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<polygon class="PF13489" points="11,28 27,28 28,29 28,51 27,52 11,52" stroke-linejoin="round" width="17" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>psmB
+hydrolase</title>
+			<polygon class="psmB
+hydrolase" points="46,25 47,25 47,10 77,40 47,70 47,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="53,28 60,28 72,40 60,52 53,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>psmC
+methyltransferase</title>
+			<polygon class="psmC
+methyltransferase" points="78,10 104,40 78,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="83,28 90,28 92,31 92,49 90,52 83,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>psmD
+methyltransferase</title>
+			<polygon class="psmD
+methyltransferase" points="105,10 131,40 105,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="111,28 116,28 120,32 120,48 116,52 111,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>psmE
+carbamoyltransferase</title>
+			<polygon class="psmE
+carbamoyltransferase" points="132,25 157,25 157,10 187,40 157,70 157,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="132" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_C (PF16861)
+"Carbamoyltransferase C-terminus"</title>
+				<polygon class="PF16861" points="170,28 171,28 183,40 171,52 170,52" stroke-linejoin="round" width="15" height="24" fill="rgb(183,87,154)" stroke="rgb(146,69,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>psmF
+N-acetyltransferase</title>
+			<polygon class="psmF
+N-acetyltransferase" points="187,10 205,40 187,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>psmG
+putative tryptophan 2,3-dioxygenase</title>
+			<polygon class="psmG
+putative tryptophan 2,3-dioxygenase" points="205,25 215,25 215,10 245,40 215,70 215,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>psmH
+PLP-dependent decarboxylase</title>
+			<polygon class="psmH
+PLP-dependent decarboxylase" points="245,25 264,25 264,10 294,40 264,70 264,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="249,28 278,28 286,36 286,44 278,52 249,52" stroke-linejoin="round" width="37" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

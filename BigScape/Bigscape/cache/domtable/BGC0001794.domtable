@@ -1,0 +1,34 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AA_permease_2        PF13520.9    427 BGC0001794_ORF1:gid::pid:AQV04225.1:loc:3660:5519:strand:+ -            489     7e-51  173.6  41.1   1   1   9.2e-55     9e-51  173.2  41.1    45   427    46   450    40   450 0.84 Amino acid permease
+AA_permease          PF00324.24   479 BGC0001794_ORF1:gid::pid:AQV04225.1:loc:3660:5519:strand:+ -            489   1.1e-14   54.0  38.2   1   1   1.5e-18   1.5e-14   53.6  38.2    38   459    41   459    39   467 0.75 Amino acid permease
+NAD_binding_10       PF13460.9    184 BGC0001794_ORF2:gid:swnR:pid:AQV04226.1:loc:8157:9075:strand:- -            305   2.2e-07   31.0   0.0   1   1   3.8e-11   3.7e-07   30.3   0.0     6   149    11   144     7   161 0.79 NAD(P)H-binding
+NmrA                 PF05368.16   233 BGC0001794_ORF2:gid:swnR:pid:AQV04226.1:loc:8157:9075:strand:- -            305   2.7e-07   30.4   0.0   1   1   4.7e-11   4.6e-07   29.7   0.0     5   152     6   149     3   228 0.82 NmrA-like family
+NmrA                 PF05368.16   233 BGC0001794_ORF3:gid:swnN:pid:AQV04227.1:loc:9350:10514:strand:- -            331   1.3e-12   47.9   0.0   1   1   3.1e-16     2e-12   47.2   0.0     1   228     4   236     4   275 0.79 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0001794_ORF3:gid:swnN:pid:AQV04227.1:loc:9350:10514:strand:- -            331   1.4e-08   35.0   0.1   1   1   4.7e-12   3.1e-08   33.9   0.1     1   149     8   150     8   161 0.79 NAD(P)H-binding
+KR                   PF08659.13   180 BGC0001794_ORF3:gid:swnN:pid:AQV04227.1:loc:9350:10514:strand:- -            331     3e-05   24.1   0.3   1   1   7.8e-09   5.1e-05   23.4   0.3     4    67     5    81     3    99 0.68 KR domain
+PhyH                 PF05721.16   211 BGC0001794_ORF4:gid:swnH1:pid:AQV04228.1:loc:12521:13508:strand:+ -            306   1.5e-20   74.5   0.0   1   1   1.1e-24   2.1e-20   74.0   0.0     2   204    35   232    34   239 0.85 Phytanoyl-CoA dioxygenase (PhyH)
+PhyH                 PF05721.16   211 BGC0001794_ORF5:gid:swnH2:pid:AQV04229.1:loc:13553:14569:strand:- -            318   1.6e-17   64.6   0.0   1   1   1.3e-21   2.5e-17   64.0   0.0     2   206    46   245    45   251 0.78 Phytanoyl-CoA dioxygenase (PhyH)
+AMP-binding          PF00501.31   424 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   3.4e-94  316.0   0.0   1   1   5.6e-97   8.5e-94  314.7   0.0     1   424    48   439    48   439 0.90 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504     6e-85  285.0   0.0   1   1   6.9e-88     1e-84  284.2   0.0     2   253   636   882   635   882 0.97 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   1.5e-59  201.0   0.1   1   1   8.8e-60   1.3e-56  191.4   0.1     1   179  1735  1914  1735  1915 0.98 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   3.8e-53  181.2   0.0   1   1   7.3e-56   1.1e-52  179.7   0.1     3   315  1168  1485  1166  1489 0.94 Acyl transferase domain
+NAD_binding_4        PF07993.15   257 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   2.1e-48  164.9   0.0   1   1   9.9e-49   1.5e-45  155.5   0.0     1   257  2154  2383  2154  2383 0.94 Male sterility protein
+Ketoacyl-synt_C      PF02801.25   119 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   6.7e-40  135.9   0.2   1   1   9.4e-43   1.4e-39  134.9   0.2     1   118   890  1007   890  1008 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   1.5e-16   60.6   0.0   1   2   1.2e-11   1.8e-08   34.7   0.0     3    67   549   611   547   611 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   1.5e-16   60.6   0.0   2   2   6.6e-08    0.0001   22.7   0.0     3    67  2021  2086  2019  2086 0.89 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   8.6e-14   52.1   0.0   1   1   2.2e-16   3.3e-13   50.2   0.0     1   107  1010  1126  1010  1131 0.82 Ketoacyl-synthetase C-terminal extension
+Epimerase            PF01370.24   241 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   5.2e-12   45.9   0.0   1   1   1.9e-10   2.8e-07   30.4   0.0     1   158  2152  2320  2152  2354 0.79 NAD dependent epimerase/dehydratase family
+adh_short            PF00106.28   195 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504     8e-11   41.9   0.0   1   1   2.1e-11   3.2e-08   33.4   0.0     2   183  1736  1914  1735  1926 0.85 short chain dehydrogenase
+AMP-binding_C        PF13193.9     76 BGC0001794_ORF6:gid:swnK:pid:AQV04230.1:loc:15663:23178:strand:+ -           2504   1.4e-09   39.0   0.0   1   1   2.1e-12   3.2e-09   37.8   0.0     1    76   447   520   447   520 0.83 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001794.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001794.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001794.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:29:13 2023
+# [ok]

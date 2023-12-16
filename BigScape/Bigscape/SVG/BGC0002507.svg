@@ -1,0 +1,111 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="631.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="621.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>spoP
+polyketide synthase</title>
+			<polygon class="spoP
+polyketide synthase" points="203,25 52,25 52,10 22,40 52,70 52,55 203,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="27,39 33,33 33,47 27,41" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="79" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="127" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="139" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="178" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(77,115,183)" stroke="rgb(61,91,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spoB
+metallo-beta-lactamase</title>
+			<polygon class="spoB
+metallo-beta-lactamase" points="266,25 260,25 260,10 230,40 260,70 260,55 266,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="245,29 246,28 261,28 261,52 246,52 245,51" stroke-linejoin="round" width="16" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spoR
+regulatory protein</title>
+			<polygon class="spoR
+regulatory protein" points="353,25 336,25 336,10 306,40 336,70 336,55 353,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AflR (PF08493)
+"Aflatoxin regulatory protein"</title>
+				<polygon class="PF08493" points="318,32 322,28 328,28 328,52 322,52 318,48" stroke-linejoin="round" width="10" height="24" fill="rgb(86,63,214)" stroke="rgb(68,50,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="342" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(121,178,76)" stroke="rgb(96,142,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spoF
+fasciclin domain-containing protein</title>
+			<polygon class="spoF
+fasciclin domain-containing protein" points="428,25 414,25 414,10 384,40 414,70 414,55 428,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fasciclin (PF02469)
+"Fasciclin domain"</title>
+				<polygon class="PF02469" points="393,35 400,28 407,28 407,52 400,52 393,45" stroke-linejoin="round" width="14" height="24" fill="rgb(216,185,71)" stroke="rgb(172,148,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fasciclin (PF02469)
+"Fasciclin domain"</title>
+				<rect class="PF02469" x="408" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(216,185,71)" stroke="rgb(172,148,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spoL
+laccase</title>
+			<polygon class="spoL
+laccase" points="441,25 488,25 488,10 518,40 488,70 488,55 441,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cu-oxidase_3 (PF07732)
+"Multicopper oxidase"</title>
+				<rect class="PF07732" x="443" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(80,81,179)" stroke="rgb(63,64,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cu-oxidase (PF00394)
+"Multicopper oxidase"</title>
+				<rect class="PF00394" x="458" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(172,188,74)" stroke="rgb(137,150,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cu-oxidase_2 (PF07731)
+"Multicopper oxidase"</title>
+				<rect class="PF07731" x="483" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(183,55,192)" stroke="rgb(146,44,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spoM
+O-methyltransferase</title>
+			<polygon class="spoM
+O-methyltransferase" points="600,25 584,25 584,10 554,40 584,70 584,55 600,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="558,40 570,28 579,28 579,52 570,52 558,40" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

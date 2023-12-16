@@ -1,0 +1,35 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.17   454 BGC0002605_ORF1:gid::pid:AUS29481.1:loc:0:1843:strand:- -            498   1.1e-23   83.9   0.3   1   2   1.7e-14   1.7e-10   40.5   0.0     2    85     9    86     8    97 0.87 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0002605_ORF1:gid::pid:AUS29481.1:loc:0:1843:strand:- -            498   1.1e-23   83.9   0.3   2   2   1.2e-14   1.2e-10   41.0   0.2   146   344    99   340    82   371 0.61 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0002605_ORF1:gid::pid:AUS29481.1:loc:0:1843:strand:- -            498   4.1e-12   46.1   0.0   1   1   9.2e-16   9.1e-12   45.0   0.0     2   329     7   353     6   362 0.71 FAD binding domain
+p450                 PF00067.25   463 BGC0002605_ORF3:gid::pid:AUS29483.1:loc:4328:6128:strand:+ -            516     9e-54  183.1   0.0   1   1     6e-58   1.2e-53  182.7   0.0    24   453    67   495    50   503 0.82 Cytochrome P450
+AMP-binding          PF00501.31   424 BGC0002605_ORF4:gid::pid:AUS29484.1:loc:6818:12509:strand:+ -           1875  6.7e-140  466.6   0.1   1   2   7.1e-72   4.7e-68  229.9   0.0     3   419   202   590   200   595 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002605_ORF4:gid::pid:AUS29484.1:loc:6818:12509:strand:+ -           1875  6.7e-140  466.6   0.1   2   2   2.3e-73   1.5e-69  234.8   0.0     2   424  1264  1659  1263  1659 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002605_ORF4:gid::pid:AUS29484.1:loc:6818:12509:strand:+ -           1875   8.3e-38  130.4   0.0   1   1   3.9e-41   2.6e-37  128.7   0.0     2   456   836  1245   835  1246 0.88 Condensation domain
+PP-binding           PF00550.28    67 BGC0002605_ORF4:gid::pid:AUS29484.1:loc:6818:12509:strand:+ -           1875   6.7e-14   52.1   0.0   1   1   1.3e-14   8.5e-11   42.1   0.0     4    67   734   796   731   796 0.97 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.29   253 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   1.2e-60  205.3   0.0   1   1   1.8e-63   2.3e-60  204.5   0.0     2   252    10   259     9   260 0.95 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541     2e-56  190.8   0.2   1   1   3.3e-59   4.1e-56  189.8   0.2     1   178  2165  2344  2165  2346 0.98 KR domain
+PS-DH                PF14765.9    297 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   1.2e-51  175.9   0.1   1   1   1.7e-54     2e-51  175.1   0.1     1   293   957  1251   957  1255 0.92 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   9.4e-45  153.6   0.0   1   1   1.4e-47   1.7e-44  152.8   0.0     2   300   571   888   570   905 0.84 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   9.8e-36  122.5   0.1   1   1   2.1e-38   2.6e-35  121.1   0.1     2   118   269   383   268   384 0.97 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   1.1e-18   68.0   0.2   1   1   5.4e-21   6.7e-18   65.4   0.0     1    99  1441  1553  1441  1553 0.91 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   4.7e-16   59.4   0.0   1   1   3.7e-18   4.6e-15   56.2   0.0     2   112   387   543   387   543 0.81 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.28   195 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541     7e-13   48.6   0.1   1   1   1.5e-15   1.9e-12   47.2   0.1     4   164  2168  2330  2166  2347 0.89 short chain dehydrogenase
+Methyltransf_23      PF13489.9    165 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   2.3e-10   40.7   0.0   1   1   1.5e-12   1.8e-09   37.7   0.0    18   161  1432  1605  1418  1607 0.74 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   2.7e-09   37.3   0.1   1   1   7.7e-12   9.4e-09   35.6   0.1     6    65  2465  2524  2460  2526 0.94 Phosphopantetheine attachment site
+adh_short_C2         PF13561.9    234 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   1.1e-08   35.1   0.0   1   1   1.9e-11   2.3e-08   34.0   0.0     5   152  2175  2326  2171  2345 0.87 Enoyl-(Acyl carrier protein) reductase
+Methyltransf_25      PF13649.9     97 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   4.3e-08   33.9   0.0   1   1   2.4e-10   2.9e-07   31.2   0.0     1    97  1440  1551  1440  1551 0.84 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   1.4e-07   32.1   0.0   1   1   4.9e-10     6e-07   30.1   0.0     1    96  1441  1555  1441  1555 0.87 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002605_ORF5:gid::pid:AUS29485.1:loc:13445:21508:strand:+ -           2541   1.2e-06   28.1   0.0   1   1   2.7e-09   3.3e-06   26.7   0.0    44   166  1433  1570  1427  1582 0.91 ubiE/COQ5 methyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002605.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002605.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002605.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:17:04 2023
+# [ok]

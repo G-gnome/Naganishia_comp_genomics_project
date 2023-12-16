@@ -1,0 +1,23 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peripla_BP_2         PF01497.21   237 BGC0000940_ORF1:gid:SCO2780:pid:CAB87217.1:loc:0:1050:strand:+ -            349   1.3e-14   54.3   0.7   1   1   8.4e-19   1.6e-14   54.0   0.7     7   232    77   319    72   324 0.75 Periplasmic binding protein
+FAD_binding_9        PF08021.14   121 BGC0000940_ORF2:gid:SCO2781:pid:CAB87218.1:loc:1277:2123:strand:+ -            281   3.1e-41  140.5   0.0   1   1   6.9e-45   6.8e-41  139.4   0.0     5   120    14   140    11   141 0.96 Siderophore-interacting FAD-binding domain
+SIP                  PF04954.16   119 BGC0000940_ORF2:gid:SCO2781:pid:CAB87218.1:loc:1277:2123:strand:+ -            281   3.9e-38  130.7   1.8   1   1   6.3e-42   6.2e-38  130.1   1.8     3   119   155   271   153   271 0.90 Siderophore-interacting protein
+Pyridoxal_deC        PF00282.22   375 BGC0000940_ORF3:gid:SCO2782:pid:CAB87219.1:loc:2286:3729:strand:+ -            480   1.9e-59  201.4   0.0   1   1   4.1e-63   2.7e-59  200.9   0.0    21   373    62   401    48   403 0.94 Pyridoxal-dependent decarboxylase conserved domain
+SepSecS              PF05889.16   389 BGC0000940_ORF3:gid:SCO2782:pid:CAB87219.1:loc:2286:3729:strand:+ -            480   3.1e-07   29.6   0.0   1   1   6.4e-11   4.2e-07   29.1   0.0   105   243   172   313   121   326 0.80 O-phosphoseryl-tRNA(Sec) selenium transferase, SepSecS
+Aminotran_5          PF00266.22   371 BGC0000940_ORF3:gid:SCO2782:pid:CAB87219.1:loc:2286:3729:strand:+ -            480   1.1e-05   24.7   0.0   1   1   3.2e-09   2.1e-05   23.8   0.0    65   178   142   264   133   269 0.73 Aminotransferase class-V
+Lys_Orn_oxgnase      PF13434.9    341 BGC0000940_ORF4:gid:SCO2783:pid:CAB87220.1:loc:3751:4993:strand:+ -            413    1e-120  403.1   0.0   1   1  1.2e-124  1.2e-120  402.9   0.0     7   340     2   326     1   327 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Acetyltransf_8       PF13523.9    145 BGC0000940_ORF5:gid:SCO2784:pid:CAB87221.1:loc:4989:5544:strand:+ -            184   1.3e-48  164.5   1.0   1   1   7.9e-53   1.5e-48  164.2   1.0     1   144    19   162    19   163 0.98 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 BGC0000940_ORF6:gid:SCO2785:pid:CAB87222.1:loc:5540:7328:strand:+ -            595   9.6e-78  261.2   0.0   1   1   2.1e-81   2.1e-77  260.1   0.0     1   239   144   394   144   394 0.97 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000940_ORF6:gid:SCO2785:pid:CAB87222.1:loc:5540:7328:strand:+ -            595   1.5e-39  136.2   0.3   1   1   2.6e-43   2.5e-39  135.4   0.3     2   161   416   572   415   574 0.97 Ferric iron reductase FhuF-like transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000940.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000940.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000940.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:13:19 2023
+# [ok]

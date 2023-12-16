@@ -1,0 +1,39 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding_C        PF13193.9     76 BGC0001844_ORF1:gid::pid::loc:234:453:strand:- -             73   2.3e-08   35.0   0.7   1   1   1.4e-12   2.8e-08   34.7   0.7     2    55    21    72    20    73 0.87 AMP-binding enzyme C-terminal domain
+AMP-binding          PF00501.31   424 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2057.3   0.8   1   6  8.4e-107  2.7e-103  345.9   0.0     1   424   459   858   459   858 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2057.3   0.8   2   6    6e-107    2e-103  346.4   0.0     1   424  1516  1911  1516  1911 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2057.3   0.8   3   6  5.7e-104  1.9e-100  336.6   0.0     1   424  2569  2969  2569  2969 0.90 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2057.3   0.8   4   6  4.8e-107  1.6e-103  346.7   0.0     1   424  3628  4026  3628  4026 0.90 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2057.3   0.8   5   6  1.4e-102   4.6e-99  332.0   0.0     1   424  4684  5074  4684  5074 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2057.3   0.8   6   6  4.9e-105  1.6e-101  340.1   0.0     1   424  5732  6130  5732  6130 0.90 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2016.9   0.0   1   6   4.9e-64   1.6e-60  205.2   0.0     3   457     9   439     7   439 0.90 Condensation domain
+Condensation         PF00668.23   457 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2016.9   0.0   2   6  5.6e-110  1.8e-106  356.7   0.0     4   456  1052  1495  1049  1496 0.95 Condensation domain
+Condensation         PF00668.23   457 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2016.9   0.0   3   6  2.9e-109  9.4e-106  354.3   0.0     4   456  2105  2548  2102  2549 0.95 Condensation domain
+Condensation         PF00668.23   457 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2016.9   0.0   4   6    2e-111  6.4e-108  361.5   0.0     4   456  3164  3607  3161  3608 0.95 Condensation domain
+Condensation         PF00668.23   457 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2016.9   0.0   5   6    2e-111  6.7e-108  361.4   0.0     4   456  4220  4663  4217  4664 0.95 Condensation domain
+Condensation         PF00668.23   457 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566         0 2016.9   0.0   6   6  5.2e-114  1.7e-110  370.0   0.0     4   456  5268  5711  5265  5712 0.95 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   2.5e-88  291.2  18.7   1   6   2.9e-16   9.6e-13   49.0   0.3     1    76   866   939   866   939 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   2.5e-88  291.2  18.7   2   6     5e-17   1.6e-13   51.5   0.4     1    76  1919  1992  1919  1992 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   2.5e-88  291.2  18.7   3   6   1.3e-16   4.1e-13   50.2   0.0     1    76  2977  3052  2977  3052 0.93 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   2.5e-88  291.2  18.7   4   6   2.2e-16   7.3e-13   49.4   0.1     1    76  4034  4107  4034  4107 0.88 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   2.5e-88  291.2  18.7   5   6   2.2e-16   7.3e-13   49.4   0.1     1    76  5082  5155  5082  5155 0.88 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   2.5e-88  291.2  18.7   6   6   1.1e-16   3.5e-13   50.4   0.1     1    76  6138  6211  6138  6211 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   4.3e-78  257.7  10.1   1   6   2.7e-14   8.9e-11   42.1   0.0     3    66   969  1029   969  1030 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   4.3e-78  257.7  10.1   2   6   2.7e-14   8.9e-11   42.1   0.0     3    66  2022  2082  2022  2083 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   4.3e-78  257.7  10.1   3   6   6.1e-14     2e-10   41.0   0.0     2    66  3081  3142  3080  3143 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   4.3e-78  257.7  10.1   4   6   6.3e-14   2.1e-10   40.9   0.1     2    66  4136  4197  4135  4198 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   4.3e-78  257.7  10.1   5   6   6.3e-14   2.1e-10   40.9   0.1     2    66  5184  5245  5183  5246 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   4.3e-78  257.7  10.1   6   6   2.8e-17   9.2e-14   51.6   0.0     2    67  6240  6303  6239  6303 0.95 Phosphopantetheine attachment site
+Thioesterase         PF00975.23   230 BGC0001844_ORF2:gid::pid:WP_041754829.1:loc:962:20663:strand:- -           6566   1.6e-28  100.5   0.1   1   1   2.7e-31   8.7e-28   98.1   0.1     2   130  6328  6454  6327  6541 0.87 Thioesterase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001844.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001844.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001844.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:35:45 2023
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FA_hydroxylase       PF04116.16   133 BGC0000643_ORF1:gid:crtG:pid:ABC50107.1:loc:363:1113:strand:- -            249     2e-26   93.0  16.1   1   1     1e-30     2e-26   93.0  16.1     1   132    99   233    99   234 0.88 Fatty acid hydroxylase
+FA_hydroxylase       PF04116.16   133 BGC0000643_ORF2:gid:crtZ:pid:ABC50108.1:loc:1187:1673:strand:+ -            161   1.2e-11   45.3  12.3   1   1   7.5e-16   1.5e-11   44.9  12.3     1   121    10   136    10   141 0.72 Fatty acid hydroxylase
+FMN_dh               PF01070.21   348 BGC0000643_ORF3:gid:idi:pid:ABC50109.1:loc:1639:2683:strand:- -            347   3.5e-20   72.5   9.4   1   2   5.2e-12     1e-07   31.5   0.0    22    96    24   100    14   106 0.88 FMN-dependent dehydrogenase
+FMN_dh               PF01070.21   348 BGC0000643_ORF3:gid:idi:pid:ABC50109.1:loc:1639:2683:strand:- -            347   3.5e-20   72.5   9.4   2   2   5.8e-15   1.1e-10   41.2   7.0   207   344   180   339   138   343 0.89 FMN-dependent dehydrogenase
+polyprenyl_synt      PF00348.20   256 BGC0000643_ORF4:gid:crtE:pid:ABC50110.1:loc:2792:3689:strand:+ -            298   2.6e-43  148.1   0.4   1   1   1.6e-47   3.2e-43  147.8   0.4     4   210    41   247    38   260 0.92 Polyprenyl synthetase
+ABC_tran             PF00005.30   137 BGC0000643_ORF5:gid::pid:ABC50111.1:loc:3744:4596:strand:+ -            283   2.8e-23   83.1   0.0   1   1   2.5e-27   4.9e-23   82.3   0.0     1   136     2   139     2   140 0.91 ABC transporter
+ABC2_membrane_3      PF12698.10   346 BGC0000643_ORF6:gid::pid:ABC50112.1:loc:4595:5660:strand:+ -            354   9.3e-20   71.1   0.0   1   1   1.2e-23   1.2e-19   70.8   0.0     2   338    16   338    15   346 0.81 ABC-2 family transporter protein
+ABC2_membrane        PF01061.27   210 BGC0000643_ORF6:gid::pid:ABC50112.1:loc:4595:5660:strand:+ -            354     1e-16   61.2   2.8   1   1     1e-20     1e-16   61.2   2.8    51   209   158   317   142   318 0.90 ABC-2 type transporter
+SQS_PSY              PF00494.22   263 BGC0000643_ORF7:gid:crtB:pid:ABC50113.1:loc:5663:6596:strand:- -            310   3.7e-66  223.5   3.8   1   1   2.2e-70   4.4e-66  223.2   3.8     3   251    15   264    13   275 0.94 Squalene/phytoene synthase
+Amino_oxidase        PF01593.27   452 BGC0000643_ORF8:gid:crtI:pid:ABC50114.1:loc:6592:8077:strand:- -            494   6.3e-46  157.7   0.0   1   1     2e-49   7.9e-46  157.4   0.0     2   452    12   487    11   487 0.86 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000643_ORF8:gid:crtI:pid:ABC50114.1:loc:6592:8077:strand:- -            494   9.5e-12   45.1   0.1   1   1   6.5e-15   2.6e-11   43.7   0.1     1    65     6    67     6    70 0.92 NAD(P)-binding Rossmann-like domain
+Lycopene_cycl        PF05834.15   380 BGC0000643_ORF9:gid:crtY:pid:ABC50115.1:loc:8073:9240:strand:- -            388   7.3e-94  315.1   0.0   1   1   4.2e-98   8.2e-94  314.9   0.0     1   376    12   376    12   380 0.97 Lycopene cyclase protein
+FA_desaturase        PF00487.27   254 BGC0000643_ORF10:gid:crtW:pid:ABC50116.1:loc:9320:10046:strand:+ -            241     7e-19   68.8  35.0   1   2     4e-14   7.8e-10   39.1   9.0     5   102    47   143    42   148 0.78 Fatty acid desaturase
+FA_desaturase        PF00487.27   254 BGC0000643_ORF10:gid:crtW:pid:ABC50116.1:loc:9320:10046:strand:+ -            241     7e-19   68.8  35.0   2   2   1.9e-14   3.7e-10   40.2  14.3   135   232   144   239   138   240 0.76 Fatty acid desaturase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000643.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000643.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000643.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:38:44 2023
+# [ok]

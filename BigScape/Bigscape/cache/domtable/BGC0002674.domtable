@@ -1,0 +1,21 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0002674_ORF1:gid:enfT:pid:BAR87968.1:loc:175:2236:strand:+ -            686   1.3e-33  116.5   1.8   1   1   2.1e-37   1.4e-33  116.4   0.5     1   137   497   644   497   644 0.94 ABC transporter
+Peptidase_C39        PF03412.18   133 BGC0002674_ORF1:gid:enfT:pid:BAR87968.1:loc:175:2236:strand:+ -            686   1.1e-31  109.6   0.1   1   1   3.3e-35   2.1e-31  108.6   0.1     2   131     4   135     3   137 0.93 Peptidase C39 family
+ABC_membrane         PF00664.26   274 BGC0002674_ORF1:gid:enfT:pid:BAR87968.1:loc:175:2236:strand:+ -            686   1.4e-23   84.0  28.4   1   1   4.6e-27     3e-23   83.0  28.4     1   272   165   432   164   434 0.97 ABC transporter transmembrane region
+DUF6568              PF20207.1    161 BGC0002674_ORF3:gid:enfB:pid:BAR87970.1:loc:2573:3035:strand:+ -            153   7.1e-10   39.0   3.8   1   1   3.6e-14   7.1e-10   39.0   3.8    50   156    34   137    24   141 0.86 Family of unknown function (DUF6568)
+Glycos_transf_2      PF00535.29   170 BGC0002674_ORF4:gid:enfC:pid:BAR87971.1:loc:3018:4227:strand:+ -            402   1.1e-17   64.5   0.1   1   1   2.9e-21   1.9e-17   63.7   0.1     1   125    34   152    34   192 0.85 Glycosyl transferase family 2
+Glyco_tranf_2_4      PF13704.9     96 BGC0002674_ORF4:gid:enfC:pid:BAR87971.1:loc:3018:4227:strand:+ -            402   3.4e-13   50.1   0.2   1   1   5.1e-16   3.3e-12   46.9   0.1     1    84    40   119    40   131 0.87 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0002674_ORF4:gid:enfC:pid:BAR87971.1:loc:3018:4227:strand:+ -            402   6.5e-09   35.8   0.3   1   1   1.8e-12   1.1e-08   35.0   0.3    16   115    47   140    34   162 0.80 Glycosyltransferase like family 2
+EntA_Immun           PF08951.13    73 BGC0002674_ORF5:gid:enfI:pid:BAR87972.1:loc:4389:4686:strand:+ -             98   1.4e-07   31.8   1.4   1   1   9.1e-12   1.8e-07   31.5   1.4     3    67    16    82    14    86 0.90 Enterocin A Immunity
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002674.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002674.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002674.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:08:49 2023
+# [ok]

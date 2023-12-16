@@ -1,0 +1,191 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="575.8333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="565.8333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (BamIOP4010DRAFT_0375)
+transcriptional regulator, LuxR family</title>
+			<polygon class=" (BamIOP4010DRAFT_0375)
+transcriptional regulator, LuxR family" points="10,40 33,10 33,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="14,40 15,39 15,41" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Autoind_bind (PF03472)
+"Autoinducer binding domain"</title>
+				<polygon class="PF03472" points="17,36 24,28 31,28 31,52 24,52 17,44" stroke-linejoin="round" width="14" height="24" fill="rgb(99,181,52)" stroke="rgb(79,144,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0376)
+conserved hypothetical protein</title>
+			<polygon class=" (BamIOP4010DRAFT_0376)
+conserved hypothetical protein" points="48,10 60,40 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4902 (PF16245)
+"Domain of unknown function (DUF4902)"</title>
+				<polygon class="PF16245" points="48,28 52,28 57,40 52,52 48,52" stroke-linejoin="round" width="11" height="24" fill="rgb(65,108,210)" stroke="rgb(52,86,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0377)
+autoinducer synthesis protein</title>
+			<polygon class=" (BamIOP4010DRAFT_0377)
+autoinducer synthesis protein" points="72,10 93,40 72,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_synth (PF00765)
+"Autoinducer synthase"</title>
+				<polygon class="PF00765" points="72,28 81,28 90,40 90,40 81,52 72,52" stroke-linejoin="round" width="18" height="24" fill="rgb(197,72,80)" stroke="rgb(157,57,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0378)
+3-oxoacyl-(acyl-carrier-protein) synthase 2</title>
+			<polygon class=" (BamIOP4010DRAFT_0378)
+3-oxoacyl-(acyl-carrier-protein) synthase 2" points="99,25 112,25 112,10 142,40 112,70 112,55 99,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="99" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="125,28 125,28 136,39 136,41 125,52 125,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0379)
+monooxygenase FAD-binding</title>
+			<polygon class=" (BamIOP4010DRAFT_0379)
+monooxygenase FAD-binding" points="147,25 163,25 163,10 193,40 163,70 163,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="147,28 176,28 180,32 180,48 176,52 147,52" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0380)
+fatty acid desaturase</title>
+			<polygon class=" (BamIOP4010DRAFT_0380)
+fatty acid desaturase" points="197,25 203,25 203,10 233,40 203,70 203,55 197,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<polygon class="PF00487" points="202,28 216,28 225,37 225,43 216,52 202,52" stroke-linejoin="round" width="23" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0381)
+Rieske (2Fe-2S) domain protein</title>
+			<polygon class=" (BamIOP4010DRAFT_0381)
+Rieske (2Fe-2S) domain protein" points="236,25 239,25 239,10 269,40 239,70 239,55 236,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="236" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>VanA_C (PF19112)
+"Vanillate O-demethylase oxygenase C-terminal domain"</title>
+				<polygon class="PF19112" points="250,28 253,28 265,40 253,52 250,52" stroke-linejoin="round" width="18" height="24" fill="rgb(95,196,187)" stroke="rgb(76,156,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0382)
+conserved hypothetical protein</title>
+			<polygon class=" (BamIOP4010DRAFT_0382)
+conserved hypothetical protein" points="269,10 298,40 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0383)
+major facilitator superfamily MFS_1</title>
+			<polygon class=" (BamIOP4010DRAFT_0383)
+major facilitator superfamily MFS_1" points="299,25 316,25 316,10 346,40 316,70 316,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="301,28 330,28 340,38 340,42 330,52 301,52" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0384)
+AMP-dependent synthetase and ligase</title>
+			<polygon class=" (BamIOP4010DRAFT_0384)
+AMP-dependent synthetase and ligase" points="349,25 378,25 378,10 408,40 378,70 378,55 349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="351,28 392,28 397,33 397,47 392,52 351,52" stroke-linejoin="round" width="46" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0385)
+Stearoyl-CoA 9-desaturase</title>
+			<polygon class=" (BamIOP4010DRAFT_0385)
+Stearoyl-CoA 9-desaturase" points="411,25 413,25 413,10 443,40 413,70 413,55 411,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<polygon class="PF00487" points="416,28 426,28 438,40 426,52 416,52" stroke-linejoin="round" width="23" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0386)
+Stearoyl-CoA 9-desaturase</title>
+			<polygon class=" (BamIOP4010DRAFT_0386)
+Stearoyl-CoA 9-desaturase" points="444,25 446,25 446,10 476,40 446,70 446,55 444,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<polygon class="PF00487" points="450,28 460,28 472,40 460,52 450,52" stroke-linejoin="round" width="24" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0387)
+phosphopantetheine-binding</title>
+			<polygon class=" (BamIOP4010DRAFT_0387)
+phosphopantetheine-binding" points="478,10 488,40 478,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="481,28 485,40 481,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0388)
+fatty acid desaturase</title>
+			<polygon class=" (BamIOP4010DRAFT_0388)
+fatty acid desaturase" points="489,25 495,25 495,10 525,40 495,70 495,55 489,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<polygon class="PF00487" points="495,28 509,28 520,39 520,41 509,52 495,52" stroke-linejoin="round" width="25" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0389)
+delta 12 desaturase</title>
+			<polygon class=" (BamIOP4010DRAFT_0389)
+delta 12 desaturase" points="526,25 526,25 526,10 556,40 526,70 526,55 526,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_4 (PF12146)
+"Serine aminopeptidase, S33"</title>
+				<polygon class="PF12146" points="534,28 540,28 548,36 548,44 540,52 534,52" stroke-linejoin="round" width="14" height="24" fill="rgb(140,98,205)" stroke="rgb(112,78,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BamIOP4010DRAFT_0390)
+Rubredoxin-type Fe(Cys)4 protein</title>
+			<polygon class=" (BamIOP4010DRAFT_0390)
+Rubredoxin-type Fe(Cys)4 protein" points="557,10 563,40 557,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rubredoxin (PF00301)
+"Rubredoxin"</title>
+				<polygon class="PF00301" points="558,30 560,40 558,50" stroke-linejoin="round" width="4" height="24" fill="rgb(130,88,185)" stroke="rgb(104,70,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

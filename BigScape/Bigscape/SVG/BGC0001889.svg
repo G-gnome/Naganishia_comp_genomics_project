@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="189.66666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="179.66666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (Tfu_1142)
+ABC-type multidrug transport system ATPase and permease components</title>
+			<polygon class=" (Tfu_1142)
+ABC-type multidrug transport system ATPase and permease components" points="67,25 40,25 40,10 10,40 40,70 40,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="17,37 26,28 31,28 31,52 26,52 17,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="38" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Tfu_1143)
+conserved hypothetical protein</title>
+			<polygon class=" (Tfu_1143)
+conserved hypothetical protein" points="68,40 81,10 81,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="71,40 77,28 79,28 79,52 77,52" stroke-linejoin="round" width="11" height="24" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Tfu_1144)
+conserved hypothetical protein</title>
+			<polygon class=" (Tfu_1144)
+conserved hypothetical protein" points="81,40 90,10 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="84,40 87,30 87,50" stroke-linejoin="round" width="6" height="24" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Tfu_1145)
+asparagine synthase (glutamine-hydrolysing)</title>
+			<polygon class=" (Tfu_1145)
+asparagine synthase (glutamine-hydrolysing)" points="151,25 120,25 120,10 90,40 120,70 120,55 151,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="94,40 102,32 102,48" stroke-linejoin="round" width="11" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="106,28 106,28 129,28 129,52 106,52 106,52" stroke-linejoin="round" width="23" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.23   172 BGC0001526_ORF1:gid:brtA:pid:AOH72619.1:loc:0:1674:strand:- -            557   4.2e-17   62.3   0.0   1   1   7.4e-18   4.9e-14   52.4   0.0     3   143   207   352   205   359 0.87 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 BGC0001526_ORF1:gid:brtA:pid:AOH72619.1:loc:0:1674:strand:- -            557   4.8e-12   46.5   0.0   1   1   1.6e-15     1e-11   45.4   0.0     3   120   221   352   219   364 0.81 Glycosyl transferases group 1
+DUF5122              PF17164.7     36 BGC0001526_ORF2:gid:brtB:pid:AOH72618.1:loc:2377:4873:strand:+ -            831   7.8e-07   29.4  22.9   1   1     7e-10   6.9e-06   26.4   0.5     2    32   328   363   327   364 0.96 Domain of unknown function (DUF5122) beta-propeller
+ACP_syn_III_C        PF08541.13    90 BGC0001526_ORF4:gid:brtD:pid:AOH72616.1:loc:6134:7286:strand:+ -            383     2e-10   40.8   0.0   1   1   2.4e-14   4.8e-10   39.6   0.0     3    74   289   365   288   367 0.88 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+UDPGT                PF00201.21   499 BGC0001526_ORF5:gid:brtE:pid:AOH72615.1:loc:7432:8629:strand:+ -            398   1.9e-21   76.6   0.0   1   1   1.1e-23     1e-19   70.9   0.0   236   418   196   377   176   391 0.84 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.19   167 BGC0001526_ORF5:gid:brtE:pid:AOH72615.1:loc:7432:8629:strand:+ -            398   1.6e-09   38.2   0.1   1   1   2.6e-13   2.6e-09   37.4   0.1    32   153   263   376   245   394 0.81 Glycosyltransferase family 28 C-terminal domain
+HlyD_3               PF13437.9    106 BGC0001526_ORF6:gid:brtG:pid:AOH72614.1:loc:8889:10170:strand:+ -            426   8.8e-11   42.5  14.7   1   1   2.8e-11   2.8e-07   31.3   0.7     1    96   294   398   294   406 0.78 HlyD family secretion protein
+HlyD_D23             PF16576.8    214 BGC0001526_ORF6:gid:brtG:pid:AOH72614.1:loc:8889:10170:strand:+ -            426   1.5e-09   37.5   3.1   1   1   1.5e-13   1.5e-09   37.5   3.1    52   192   229   374   210   375 0.83 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+FtsX                 PF02687.24   121 BGC0001526_ORF7:gid:brtH:pid:AOH72613.1:loc:10427:11501:strand:+ -            357   2.1e-18   66.6   3.6   1   1   1.8e-22   3.5e-18   65.9   3.6     5   116   242   347   231   352 0.96 FtsX-like permease family
+ABC_tran             PF00005.30   137 BGC0001526_ORF8:gid:brtI:pid:AOH72612.1:loc:11554:12232:strand:+ -            225   2.5e-32  112.4   0.0   1   1   7.3e-36   3.6e-32  111.9   0.0     3   137    26   173    24   173 0.94 ABC transporter
+DUF559               PF04480.15   109 BGC0001526_ORF10:gid:brtK:pid:AOH72610.1:loc:14027:14417:strand:- -            129   8.2e-26   90.1   0.0   1   1   4.8e-30   9.4e-26   89.9   0.0     2   108    16   127    15   128 0.93 Protein of unknown function (DUF559)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001526.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001526.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001526.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:55:28 2023
+# [ok]

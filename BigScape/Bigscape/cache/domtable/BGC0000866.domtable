@@ -1,0 +1,26 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PhaC_N               PF07167.16   173 BGC0000866_ORF1:gid::pid:AAF23364.1:loc:467:2345:strand:+ -            625   5.2e-65  218.5   0.0   1   1   8.4e-69   8.3e-65  217.8   0.0     1   172   133   299   133   300 0.99 Poly-beta-hydroxybutyrate polymerase (PhaC) N-terminus
+Abhydrolase_1        PF00561.23   257 BGC0000866_ORF1:gid::pid:AAF23364.1:loc:467:2345:strand:+ -            625   2.3e-23   83.3   0.0   1   1     4e-27   3.9e-23   82.5   0.0     2   252   275   545   274   550 0.96 alpha/beta hydrolase fold
+Thiolase_N           PF00108.26   260 BGC0000866_ORF2:gid::pid:AAF23365.1:loc:2443:3625:strand:+ -            393    4e-108  360.8   4.6   1   1  7.9e-112  5.2e-108  360.5   4.6     1   259     4   262     4   263 0.99 Thiolase, N-terminal domain
+Thiolase_C           PF02803.21   123 BGC0000866_ORF2:gid::pid:AAF23365.1:loc:2443:3625:strand:+ -            393   1.4e-51  173.4   1.1   1   1   5.6e-55   3.7e-51  172.1   0.6     1   123   270   392   270   392 0.99 Thiolase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000866_ORF2:gid::pid:AAF23365.1:loc:2443:3625:strand:+ -            393   0.00013   21.8   1.0   1   1     2e-08   0.00013   21.8   1.0   168   205    81   118    78   130 0.89 Beta-ketoacyl synthase, N-terminal domain
+adh_short            PF00106.28   195 BGC0000866_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   1.1e-62  211.1   0.3   1   1   3.3e-66   1.3e-62  210.9   0.3     2   193     5   197     4   199 0.99 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000866_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   4.3e-55  187.0   0.1   1   1   1.3e-58   5.2e-55  186.7   0.1     4   234    13   244    10   244 0.94 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0000866_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   4.7e-19   69.1   0.0   1   1   1.5e-22   6.1e-19   68.7   0.0     5   169     8   177     5   187 0.87 KR domain
+NAD_binding_10       PF13460.9    184 BGC0000866_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   4.5e-07   30.0   0.1   1   1   1.8e-10   7.2e-07   29.4   0.1     1   147    10   187    10   201 0.78 NAD(P)H-binding
+Epimerase            PF01370.24   241 BGC0000866_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   9.3e-06   25.4   0.0   1   1   4.1e-09   1.6e-05   24.6   0.0     1   118     6   141     6   216 0.71 NAD dependent epimerase/dehydratase family
+PHB_acc              PF05233.16    40 BGC0000866_ORF4:gid::pid:AAF23367.1:loc:4598:5165:strand:+ -            188   3.7e-33  113.5  26.8   1   2   9.5e-22   9.3e-18   64.2   1.3     1    39    75   113    75   113 0.97 PHB accumulation regulatory domain
+PHB_acc              PF05233.16    40 BGC0000866_ORF4:gid::pid:AAF23367.1:loc:4598:5165:strand:+ -            188   3.7e-33  113.5  26.8   2   2   7.4e-19   7.3e-15   54.9  17.0     1    40   126   165   126   165 0.98 PHB accumulation regulatory domain
+PHB_acc_N            PF07879.14    61 BGC0000866_ORF4:gid::pid:AAF23367.1:loc:4598:5165:strand:+ -            188   2.1e-30  104.7   1.2   1   1   2.1e-34   2.1e-30  104.7   1.2     1    60    11    70    11    71 0.98 PHB/PHA accumulation regulator DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000866.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000866.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000866.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:26:54 2023
+# [ok]

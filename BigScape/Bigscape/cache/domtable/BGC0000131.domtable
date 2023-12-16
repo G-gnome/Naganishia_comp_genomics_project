@@ -1,0 +1,23 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TPP_enzyme_C         PF02775.24   153 BGC0000131_ORF1:gid:dox5:pid:ABO15872.1:loc:0:1125:strand:+ -            374   4.2e-30  104.7   0.0   1   1   4.2e-34   8.2e-30  103.7   0.0     2   153    81   228    80   228 0.93 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+Na_H_Exchanger       PF00999.24   381 BGC0000131_ORF2:gid:dox6:pid:ABO15873.1:loc:1162:2602:strand:+ -            479   2.4e-42  145.2  35.7   1   1   1.5e-46     3e-42  144.9  35.7     3   379    22   411    19   413 0.84 Sodium/hydrogen exchanger family
+Acyl-CoA_dh_1        PF00441.27   150 BGC0000131_ORF3:gid:dox7:pid:ABO15874.1:loc:2697:3837:strand:+ -            379   1.3e-36  126.2   0.6   1   1     4e-40     2e-36  125.6   0.6     5   149   233   377   229   378 0.97 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_M        PF02770.22    97 BGC0000131_ORF3:gid:dox7:pid:ABO15874.1:loc:2697:3837:strand:+ -            379   5.7e-23   81.0   0.0   1   1   1.8e-26   8.6e-23   80.5   0.0     3    96   124   216   122   217 0.91 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_N        PF02771.19   113 BGC0000131_ORF3:gid:dox7:pid:ABO15874.1:loc:2697:3837:strand:+ -            379   2.6e-20   73.3   0.0   1   1   1.1e-23   5.5e-20   72.2   0.0    14   113    19   118     6   118 0.78 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_2        PF08028.14   134 BGC0000131_ORF3:gid:dox7:pid:ABO15874.1:loc:2697:3837:strand:+ -            379   4.7e-17   62.6   0.6   1   1   1.8e-20   8.9e-17   61.7   0.6     5   123   248   356   244   366 0.95 Acyl-CoA dehydrogenase, C-terminal domain
+AMP-binding          PF00501.31   424 BGC0000131_ORF4:gid:dox8:pid:ABO15875.1:loc:3842:5312:strand:+ -            489   1.1e-82  278.0   0.0   1   1   1.4e-86   1.4e-82  277.7   0.0     3   424     9   392     7   392 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000131_ORF4:gid:dox8:pid:ABO15875.1:loc:3842:5312:strand:+ -            489   2.3e-08   35.0   0.1   1   1     5e-12   4.9e-08   34.0   0.1     1    76   400   474   400   474 0.90 AMP-binding enzyme C-terminal domain
+Flavin_Reduct        PF01613.21   155 BGC0000131_ORF5:gid:dox9:pid:ABO15876.1:loc:5311:5875:strand:+ -            187   9.9e-33  113.6   0.0   1   1     6e-37   1.2e-32  113.3   0.0     1   154    32   178    32   179 0.96 Flavin reductase like domain
+PP-binding           PF00550.28    67 BGC0000131_ORF6:gid:dox10:pid:ABO15877.1:loc:5983:6280:strand:- -             98   2.2e-11   44.0   0.0   1   1   1.3e-15   2.6e-11   43.8   0.0     1    67    13    79    13    79 0.97 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000131.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000131.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000131.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:28:31 2023
+# [ok]

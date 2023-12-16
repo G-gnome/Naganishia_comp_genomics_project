@@ -1,0 +1,25 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001717_ORF1:gid:okaA:pid:BBB04327.1:loc:0:6075:strand:- -           1981   1.8e-73  247.7   0.0   1   1   4.4e-77   2.9e-73  247.0   0.0     2   424   231   624   230   624 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001717_ORF1:gid:okaA:pid:BBB04327.1:loc:0:6075:strand:- -           1981   1.4e-61  208.7   0.0   1   2   5.9e-37   3.9e-33  115.0   0.0     2   449   883  1294   882  1301 0.84 Condensation domain
+Condensation         PF00668.23   457 BGC0001717_ORF1:gid:okaA:pid:BBB04327.1:loc:0:6075:strand:- -           1981   1.4e-61  208.7   0.0   2   2   2.4e-29   1.5e-25   89.9   0.0    36   435  1586  1978  1581  1980 0.82 Condensation domain
+PP-binding           PF00550.28    67 BGC0001717_ORF1:gid:okaA:pid:BBB04327.1:loc:0:6075:strand:- -           1981   5.9e-19   68.3   4.1   1   2   8.1e-12   5.3e-08   33.2   0.5     3    63   772   832   770   835 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001717_ORF1:gid:okaA:pid:BBB04327.1:loc:0:6075:strand:- -           1981   5.9e-19   68.3   4.1   2   2   1.2e-12   7.6e-09   35.9   0.2     2    64  1446  1507  1445  1510 0.95 Phosphopantetheine attachment site
+FAD_binding_3        PF01494.22   349 BGC0001717_ORF2:gid:okaB:pid:BBB04328.1:loc:6980:8562:strand:+ -            450   3.5e-12   46.4   4.4   1   1   3.9e-12   1.5e-08   34.4   0.4   109   343   121   369   106   375 0.66 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0001717_ORF2:gid:okaB:pid:BBB04328.1:loc:6980:8562:strand:+ -            450   2.2e-06   27.1   0.2   1   1   4.5e-09   1.8e-05   24.2   0.1     2    31    16    45    15    51 0.93 FAD binding domain
+Trp_DMAT             PF11991.11   363 BGC0001717_ORF3:gid:okaC:pid:BBB04329.1:loc:8960:10315:strand:- -            429   9.5e-95  318.2   0.0   1   1   7.3e-99   1.4e-94  317.6   0.0     2   361    27   373    26   375 0.94 Tryptophan dimethylallyltransferase
+p450                 PF00067.25   463 BGC0001717_ORF4:gid:okaD:pid:BBB04330.1:loc:10815:12405:strand:+ -            529   4.4e-55  187.4   0.0   1   1   4.2e-59   8.3e-55  186.5   0.0     1   445    46   468    46   483 0.88 Cytochrome P450
+PhyH                 PF05721.16   211 BGC0001717_ORF5:gid:okaE:pid:BBB04331.1:loc:13482:14385:strand:+ -            300   7.8e-19   68.9   0.7   1   1   5.2e-23     1e-18   68.5   0.7     2   203    29   215    28   224 0.86 Phytanoyl-CoA dioxygenase (PhyH)
+Methyltransf_2       PF00891.21   210 BGC0001717_ORF6:gid:okaF:pid:BBB04332.1:loc:15978:17357:strand:+ -            382   1.4e-19   70.4   0.1   1   1   1.2e-23   2.4e-19   69.6   0.1    65   209   219   361   214   362 0.90 O-methyltransferase domain
+p450                 PF00067.25   463 BGC0001717_ORF7:gid:okaG:pid:BBB04333.1:loc:17775:19662:strand:- -            538   2.4e-32  112.4   0.0   1   1   1.9e-36   3.7e-32  111.8   0.0    95   441   131   513   119   530 0.76 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001717.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001717.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001717.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:24:53 2023
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 BGC0000025_ORF1:gid:orf-1:pid:BAA84591.1:loc:159:873:strand:+ -            237   7.1e-39  133.4   0.0   1   1   1.1e-42   1.1e-38  132.8   0.0    39   188    11   163     1   166 0.91 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000025_ORF1:gid:orf-1:pid:BAA84591.1:loc:159:873:strand:+ -            237     1e-34  120.3   0.7   1   1   1.3e-38   1.2e-34  120.0   0.7    24   223     3   208     1   212 0.91 Enoyl-(Acyl carrier protein) reductase
+UDPGT                PF00201.21   499 BGC0000025_ORF2:gid:aveBI:pid:BAA84592.1:loc:930:2169:strand:+ -            412     3e-16   59.5   0.0   1   1   2.6e-19   1.7e-15   56.9   0.0   274   412   240   379   230   389 0.88 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.19   167 BGC0000025_ORF2:gid:aveBI:pid:BAA84592.1:loc:930:2169:strand:+ -            412   6.4e-09   36.2   0.0   1   1   1.6e-12     1e-08   35.5   0.0    54   146   290   377   262   399 0.83 Glycosyltransferase family 28 C-terminal domain
+GDP_Man_Dehyd        PF16363.8    332 BGC0000025_ORF3:gid:aveBII:pid:BAA84593.1:loc:2074:3142:strand:- -            355   1.8e-78  264.4   0.0   1   1   9.6e-82   2.7e-78  263.9   0.0     3   332     2   303     1   303 0.91 GDP-mannose 4,6 dehydratase
+Epimerase            PF01370.24   241 BGC0000025_ORF3:gid:aveBII:pid:BAA84593.1:loc:2074:3142:strand:- -            355   4.1e-64  216.5   0.0   1   1   1.8e-67   5.1e-64  216.2   0.0     3   241     1   239     1   239 0.97 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0000025_ORF3:gid:aveBII:pid:BAA84593.1:loc:2074:3142:strand:- -            355   3.4e-20   72.3   0.0   1   1   1.6e-23   4.4e-20   72.0   0.0     3   220     2   218     1   229 0.85 3-beta hydroxysteroid dehydrogenase/isomerase family
+Polysacc_synt_2      PF02719.18   294 BGC0000025_ORF3:gid:aveBII:pid:BAA84593.1:loc:2074:3142:strand:- -            355   1.6e-18   67.0   0.0   1   1   4.4e-21   1.2e-17   64.1   0.0     4   250     2   260     1   272 0.83 Polysaccharide biosynthesis protein
+NAD_binding_4        PF07993.15   257 BGC0000025_ORF3:gid:aveBII:pid:BAA84593.1:loc:2074:3142:strand:- -            355   3.1e-15   56.2   0.4   1   1   2.7e-17   7.5e-14   51.6   0.4     2   208     2   179     1   237 0.79 Male sterility protein
+RmlD_sub_bind        PF04321.20   287 BGC0000025_ORF3:gid:aveBII:pid:BAA84593.1:loc:2074:3142:strand:- -            355   5.5e-15   55.3   0.0   1   1   3.3e-18   9.2e-15   54.6   0.0     6   282     2   304     1   308 0.77 RmlD substrate binding domain
+NAD_binding_10       PF13460.9    184 BGC0000025_ORF3:gid:aveBII:pid:BAA84593.1:loc:2074:3142:strand:- -            355   2.5e-07   30.9   0.0   1   1   2.2e-10   6.2e-07   29.6   0.0     1   133     3   159     3   175 0.72 NAD(P)H-binding
+NTP_transferase      PF00483.26   247 BGC0000025_ORF4:gid:aveBIII:pid:BAA84594.1:loc:3138:4038:strand:- -            299   2.2e-57  194.6   0.0   1   1   2.7e-61   2.7e-57  194.3   0.0     1   242     2   235     2   239 0.97 Nucleotidyl transferase
+NTP_transf_3         PF12804.10   160 BGC0000025_ORF4:gid:aveBIII:pid:BAA84594.1:loc:3138:4038:strand:- -            299   6.6e-10   39.7   0.0   1   1     8e-14   7.9e-10   39.4   0.0     1   127     3   139     3   210 0.80 MobA-like NTP transferase domain
+Epimerase            PF01370.24   241 BGC0000025_ORF5:gid:aveBIV:pid:BAA84595.1:loc:4163:5195:strand:+ -            343   2.1e-32  112.7   0.0   1   1     5e-36   2.5e-32  112.4   0.0     1   241    29   266    29   266 0.91 NAD dependent epimerase/dehydratase family
+RmlD_sub_bind        PF04321.20   287 BGC0000025_ORF5:gid:aveBIV:pid:BAA84595.1:loc:4163:5195:strand:+ -            343   1.4e-08   34.2   0.1   1   1   3.6e-12   1.8e-08   34.0   0.1     3   270    29   326    27   343 0.72 RmlD substrate binding domain
+NAD_binding_10       PF13460.9    184 BGC0000025_ORF5:gid:aveBIV:pid:BAA84595.1:loc:4163:5195:strand:+ -            343   2.1e-06   27.9   5.4   1   1   4.3e-10   2.1e-06   27.9   1.6     1   134    33   184    33   193 0.76 NAD(P)H-binding
+dTDP_sugar_isom      PF00908.20   168 BGC0000025_ORF6:gid:aveBV:pid:BAA84596.1:loc:5248:5926:strand:- -            225     2e-54  183.9   0.0   1   1   1.2e-58   2.4e-54  183.7   0.0     4   167    34   204    31   205 0.97 dTDP-4-dehydrorhamnose 3,5-epimerase
+Hexose_dehydrat      PF03559.17   204 BGC0000025_ORF7:gid:aveBVI:pid:BAA84597.1:loc:5987:7397:strand:- -            469  2.6e-164  543.1   0.0   1   2   2.2e-92   4.3e-88  294.2   0.0     4   204    45   245    42   245 0.99 NDP-hexose 2,3-dehydratase
+Hexose_dehydrat      PF03559.17   204 BGC0000025_ORF7:gid:aveBVI:pid:BAA84597.1:loc:5987:7397:strand:- -            469  2.6e-164  543.1   0.0   2   2   5.3e-78     1e-73  247.2   0.0     2   204   259   462   258   462 0.99 NDP-hexose 2,3-dehydratase
+Aldo_ket_red         PF00248.24   292 BGC0000025_ORF9:gid:aveBVIII:pid:BAA84599.1:loc:8253:9297:strand:- -            347   5.9e-65  219.3   0.0   1   1   3.7e-69   7.2e-65  219.0   0.0     2   290    35   331    34   332 0.93 Aldo/keto reductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000025.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000025.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000025.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:32:40 2023
+# [ok]

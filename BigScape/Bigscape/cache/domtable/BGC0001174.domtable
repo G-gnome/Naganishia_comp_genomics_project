@@ -1,0 +1,18 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.9     97 BGC0001174_ORF2:gid::pid:AGE37168.1:loc:846:1554:strand:+ -            235   6.9e-09   36.4   0.0   1   1     2e-12   1.3e-08   35.5   0.0     1    86    64   142    64   152 0.86 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001174_ORF2:gid::pid:AGE37168.1:loc:846:1554:strand:+ -            235   8.2e-08   32.9   0.0   1   1   2.3e-11   1.5e-07   32.1   0.0     1    95    65   155    65   156 0.92 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001174_ORF2:gid::pid:AGE37168.1:loc:846:1554:strand:+ -            235   7.9e-07   29.2   0.0   1   1   1.8e-10   1.1e-06   28.6   0.0     7   158    47   198    37   199 0.80 Methyltransferase domain
+YcaO                 PF02624.19   322 BGC0001174_ORF5:gid::pid:AGE37171.1:loc:3237:4632:strand:+ -            464   2.9e-69  234.0   0.0   1   1   1.7e-73   3.4e-69  233.8   0.0     4   321    83   420    79   421 0.86 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.27   168 BGC0001174_ORF6:gid::pid:AGE37172.1:loc:4643:5477:strand:+ -            277   9.8e-15   55.2   0.0   1   1   7.7e-19   1.5e-14   54.5   0.0     1   164    92   271    92   275 0.86 Nitroreductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001174.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001174.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001174.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:07:17 2023
+# [ok]

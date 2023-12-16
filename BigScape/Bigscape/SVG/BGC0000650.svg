@@ -1,0 +1,97 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="278.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="268.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+ORF1</title>
+			<polygon class="
+ORF1" points="10,10 27,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="11,28 16,28 17,29 17,51 16,52 11,52" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="20,34 23,40 20,46" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtI
+CrtI</title>
+			<polygon class="crtI
+CrtI" points="28,25 47,25 47,10 77,40 47,70 47,55 28,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="29,28 61,28 73,40 61,52 29,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtB
+CrtB</title>
+			<polygon class="crtB
+CrtB" points="82,10 110,40 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="83,28 94,28 105,40 94,52 83,52" stroke-linejoin="round" width="24" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtYcd
+CrtYcd</title>
+			<polygon class="crtYcd
+CrtYcd" points="110,10 133,40 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lycopene_cyc (PF18916)
+"Lycopene cyclase"</title>
+				<rect class="PF18916" x="110" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(208,69,86)" stroke="rgb(166,55,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lycopene_cyc (PF18916)
+"Lycopene cyclase"</title>
+				<polygon class="PF18916" points="122,31 129,40 122,49" stroke-linejoin="round" width="9" height="24" fill="rgb(208,69,86)" stroke="rgb(166,55,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ispH
+IspH</title>
+			<polygon class="ispH
+IspH" points="134,10 162,40 134,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LYTB (PF02401)
+"LytB protein"</title>
+				<polygon class="PF02401" points="134,28 146,28 158,40 146,52 134,52" stroke-linejoin="round" width="27" height="24" fill="rgb(155,62,193)" stroke="rgb(124,49,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtW
+CrtW</title>
+			<polygon class="crtW
+CrtW" points="161,10 186,40 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<polygon class="PF00487" points="175,31 182,40 175,49" stroke-linejoin="round" width="10" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="185,25 236,25 236,10 266,40 236,70 236,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarbopepD_reg_2 (PF13715)
+"CarboxypepD_reg-like domain"</title>
+				<rect class="PF13715" x="189" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(198,51,128)" stroke="rgb(158,40,102)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="198" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

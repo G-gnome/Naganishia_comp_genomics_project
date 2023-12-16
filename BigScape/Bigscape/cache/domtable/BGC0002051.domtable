@@ -1,0 +1,32 @@
+#                                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0002051_ORF1:gid:efflux_transporter:pid:QOE83921.1:loc:162:1470:strand:+ -            435   1.6e-26   93.2  81.6   1   1   4.7e-26   4.6e-22   78.5  41.1     4   342    24   360    21   365 0.82 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0002051_ORF1:gid:efflux_transporter:pid:QOE83921.1:loc:162:1470:strand:+ -            435   2.7e-23   82.3  36.9   1   1   3.6e-27   3.6e-23   81.9  36.9     5   400    11   411     8   429 0.91 Transmembrane secretion effector
+Condensation         PF00668.23   457 BGC0002051_ORF3:gid:tycC:pid:QOE83923.1:loc:3032:6227:strand:+ -           1064   8.9e-69  232.4   0.0   1   1   1.7e-72   1.1e-68  232.1   0.0     5   445     2   442     1   447 0.95 Condensation domain
+AMP-binding          PF00501.31   424 BGC0002051_ORF3:gid:tycC:pid:QOE83923.1:loc:3032:6227:strand:+ -           1064   8.1e-67  225.8   0.0   1   1   3.4e-70   2.2e-66  224.3   0.0    11   424   474   857   465   857 0.85 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0002051_ORF3:gid:tycC:pid:QOE83923.1:loc:3032:6227:strand:+ -           1064   4.5e-09   36.6   0.0   1   1   1.6e-12   1.1e-08   35.4   0.0     3    66   982  1043   980  1044 0.92 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002051_ORF4:gid:lgrD:pid:QOE83924.1:loc:6223:8167:strand:+ -            647   8.4e-67  225.7   0.0   1   1   1.6e-70     1e-66  225.4   0.0     1   424    48   452    48   452 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002051_ORF4:gid:lgrD:pid:QOE83924.1:loc:6223:8167:strand:+ -            647   1.3e-08   35.8   0.0   1   1   6.6e-12   4.3e-08   34.1   0.0     1    76   460   535   460   535 0.90 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002051_ORF4:gid:lgrD:pid:QOE83924.1:loc:6223:8167:strand:+ -            647   7.6e-07   29.5   0.2   1   1   2.5e-10   1.6e-06   28.4   0.2     2    64   572   632   571   635 0.94 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002051_ORF5:gid:lgrB_1:pid:QOE83925.1:loc:8168:10088:strand:+ -            639   1.3e-92  310.8   0.1   1   1   2.5e-96   1.6e-92  310.4   0.1     2   424    49   437    48   437 0.89 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002051_ORF5:gid:lgrB_1:pid:QOE83925.1:loc:8168:10088:strand:+ -            639   7.2e-14   52.6   2.3   1   1   1.4e-17     9e-14   52.3   0.9     1    76   445   520   445   520 0.89 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002051_ORF5:gid:lgrB_1:pid:QOE83925.1:loc:8168:10088:strand:+ -            639   6.8e-13   48.8   0.1   1   1   3.3e-16   2.2e-12   47.2   0.3     2    65   554   615   553   617 0.94 Phosphopantetheine attachment site
+Condensation         PF00668.23   457 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952   9.7e-71  238.9   0.0   1   1   5.7e-74   1.4e-70  238.4   0.0     5   444    40   461    36   469 0.88 Condensation domain
+Epimerase            PF01370.24   241 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952   5.5e-16   58.9   0.0   1   1   5.5e-19   1.3e-15   57.6   0.0     1   180   658   821   658   883 0.76 NAD dependent epimerase/dehydratase family
+NAD_binding_10       PF13460.9    184 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952   4.6e-12   46.3   0.4   1   1   4.4e-15   1.1e-11   45.1   0.2     1   130   662   791   662   798 0.74 NAD(P)H-binding
+GDP_Man_Dehyd        PF16363.8    332 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952   1.3e-09   38.1   0.0   1   1     2e-12     5e-09   36.2   0.0     1   164   659   792   659   801 0.86 GDP-mannose 4,6 dehydratase
+AMP-binding_C        PF13193.9     76 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952     2e-08   35.2   0.0   1   1     3e-11   7.5e-08   33.4   0.0     3    75   479   547   478   548 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952   1.4e-08   35.0   0.0   1   1   1.4e-11   3.3e-08   33.8   0.0     3    67   571   632   569   632 0.89 Phosphopantetheine attachment site
+3Beta_HSD            PF01073.22   280 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952   4.8e-08   32.5   0.0   1   1   2.3e-10   5.5e-07   29.0   0.0     1   188   659   819   659   828 0.79 3-beta hydroxysteroid dehydrogenase/isomerase family
+NmrA                 PF05368.16   233 BGC0002051_ORF6:gid:lgrB_2:pid:QOE83926.1:loc:10077:12936:strand:+ -            952   1.7e-07   31.1   0.2   1   1     1e-10   2.5e-07   30.6   0.2     1    80   658   735   658   749 0.84 NmrA-like family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002051.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002051.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002051.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:11:15 2023
+# [ok]

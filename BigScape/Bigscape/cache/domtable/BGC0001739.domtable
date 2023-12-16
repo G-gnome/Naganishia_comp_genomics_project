@@ -1,0 +1,34 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldedh               PF00171.25   462 BGC0001739_ORF1:gid::pid:WP_033283297.1:loc:0:1458:strand:+ -            485  1.3e-148  495.5   0.0   1   1  7.5e-153  1.5e-148  495.3   0.0     4   462    16   478    13   478 0.97 Aldehyde dehydrogenase family
+LAL_C2               PF18603.4     78 BGC0001739_ORF2:gid::pid:WP_051801204.1:loc:1764:2937:strand:+ -            390   3.8e-21   75.2   0.2   1   1   7.8e-25   3.8e-21   75.2   0.2     1    76   304   379   304   381 0.97 L-amino acid ligase C-terminal domain 2
+ATP-grasp_4          PF13535.9    160 BGC0001739_ORF2:gid::pid:WP_051801204.1:loc:1764:2937:strand:+ -            390     1e-16   61.0   0.0   1   1     3e-20   1.5e-16   60.5   0.0     2   158   119   265   118   267 0.88 ATP-grasp domain
+GARS_A               PF01071.22   194 BGC0001739_ORF2:gid::pid:WP_051801204.1:loc:1764:2937:strand:+ -            390   5.8e-08   32.9   0.0   1   1   2.2e-11   1.1e-07   32.0   0.0    18    99   100   182    85   192 0.92 Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain
+ATP-grasp            PF02222.25   171 BGC0001739_ORF3:gid::pid:WP_033283298.1:loc:2989:4240:strand:+ -            416   8.2e-07   28.9   0.0   1   1   1.9e-10   1.9e-06   27.7   0.0     2   160   122   288   121   290 0.80 ATP-grasp domain
+MFS_1                PF07690.19   353 BGC0001739_ORF4:gid::pid:WP_033283299.1:loc:4236:5514:strand:+ -            425   1.4e-21   77.0  66.1   1   1   7.5e-22   1.5e-17   63.7  36.4     4   344    24   354    21   358 0.86 Major Facilitator Superfamily
+Amidase              PF01425.24   446 BGC0001739_ORF5:gid::pid:WP_033283300.1:loc:5491:6742:strand:+ -            416   1.7e-52  179.1   4.4   1   1   3.1e-55     6e-51  174.0   4.4     3   446    23   405    21   405 0.87 Amidase
+AurF                 PF11583.11   283 BGC0001739_ORF6:gid::pid:WP_199811032.1:loc:6753:7686:strand:- -            310   7.1e-26   91.2   0.0   1   1   4.3e-30   8.5e-26   90.9   0.0    30   281    23   289     8   291 0.88 P-aminobenzoate N-oxygenase AurF
+Methyltransf_25      PF13649.9     97 BGC0001739_ORF7:gid::pid:WP_051801205.1:loc:7876:8599:strand:+ -            240   2.7e-12   47.3   0.0   1   1   9.1e-16   4.5e-12   46.6   0.0     1    97    75   165    75   165 0.92 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001739_ORF7:gid::pid:WP_051801205.1:loc:7876:8599:strand:+ -            240   1.3e-11   44.7   0.0   1   1   3.2e-15   1.6e-11   44.5   0.0    22   125    71   181    19   224 0.73 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001739_ORF7:gid::pid:WP_051801205.1:loc:7876:8599:strand:+ -            240   1.4e-08   35.4   0.0   1   1   4.5e-12   2.2e-08   34.8   0.0     1    96    76   169    76   169 0.85 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001739_ORF7:gid::pid:WP_051801205.1:loc:7876:8599:strand:+ -            240   1.7e-07   32.0   0.0   1   1   5.1e-11   2.5e-07   31.5   0.0     1    99    76   167    76   167 0.80 Methyltransferase domain
+Aldedh               PF00171.25   462 BGC0001739_ORF8:gid::pid:WP_063744463.1:loc:8621:10091:strand:- -            489  7.7e-156  519.4   0.0   1   1  4.8e-160  9.4e-156  519.1   0.0     9   461    30   483    23   484 0.98 Aldehyde dehydrogenase family
+PEP_mutase           PF13714.9    241 BGC0001739_ORF9:gid::pid:WP_051801207.1:loc:10074:11016:strand:- -            313   2.5e-65  220.5   2.1   1   1   3.1e-69     3e-65  220.2   2.1     1   241     7   252     7   252 0.93 Phosphoenolpyruvate phosphomutase
+ICL                  PF00463.24   526 BGC0001739_ORF9:gid::pid:WP_051801207.1:loc:10074:11016:strand:- -            313   1.1e-06   27.5   0.1   1   1   1.6e-10   1.6e-06   27.1   0.1   150   232    76   156    58   162 0.80 Isocitrate lyase family
+TPP_enzyme_C         PF02775.24   153 BGC0001739_ORF10:gid::pid:WP_033283302.1:loc:11113:11656:strand:- -            180   4.1e-16   59.3   0.8   1   1   3.7e-20   7.3e-16   58.4   0.8    25   100    41   116    24   142 0.84 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_N         PF02776.21   172 BGC0001739_ORF11:gid::pid:WP_063744464.1:loc:11655:12171:strand:- -            171   2.3e-08   34.0   0.0   1   1   1.5e-12   2.9e-08   33.6   0.0     3   147     8   156     6   169 0.70 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+CDP-OH_P_transf      PF01066.24   150 BGC0001739_ORF12:gid::pid:WP_051801208.1:loc:12167:12881:strand:- -            237   7.8e-11   42.8   9.0   1   1   6.5e-15   1.3e-10   42.1   9.0     4   136    41   185    39   231 0.66 CDP-alcohol phosphatidyltransferase
+Asn_synthase         PF00733.24   355 BGC0001739_ORF13:gid:asnB:pid:WP_033283361.1:loc:12877:14815:strand:- -            645     3e-80  270.7   0.1   1   1   5.5e-84   3.6e-80  270.4   0.1     3   355   242   640   240   640 0.88 Asparagine synthase
+GATase_7             PF13537.9    123 BGC0001739_ORF13:gid:asnB:pid:WP_033283361.1:loc:12877:14815:strand:- -            645   8.2e-46  155.1   0.0   1   1   2.1e-49   1.4e-45  154.4   0.0     2   122    49   166    48   167 0.97 Glutamine amidotransferase domain
+GATase_6             PF13522.9    133 BGC0001739_ORF13:gid:asnB:pid:WP_033283361.1:loc:12877:14815:strand:- -            645   1.8e-39  135.0   0.0   1   1   5.4e-43   3.5e-39  134.1   0.0     1   133    33   161    33   161 0.99 Glutamine amidotransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001739.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001739.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001739.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:01:14 2023
+# [ok]

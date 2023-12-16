@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Resolvase            PF00239.24   146 BGC0002328_ORF1:gid::pid:ACL76466.1:loc:344:1988:strand:- -            547   1.3e-31  109.7   0.1   1   1   4.7e-35   3.1e-31  108.5   0.1     3   145    25   171    23   172 0.97 Resolvase, N terminal domain
+Recombinase          PF07508.16   103 BGC0002328_ORF1:gid::pid:ACL76466.1:loc:344:1988:strand:- -            547   5.3e-23   81.5   1.3   1   1   4.8e-26   3.1e-22   79.0   0.2     1   103   192   301   192   301 0.96 Recombinase
+Zn_ribbon_recom      PF13408.9     58 BGC0002328_ORF1:gid::pid:ACL76466.1:loc:344:1988:strand:- -            547   2.5e-08   34.4   1.8   1   1   3.8e-12   2.5e-08   34.4   1.8     2    56   319   377   318   379 0.93 Recombinase zinc beta ribbon domain
+Glyco_hydro_53       PF07745.16   340 BGC0002328_ORF2:gid::pid:ACL76467.1:loc:2013:3291:strand:- -            425   3.3e-97  325.6   7.0   1   1     5e-99   3.3e-95  319.1   7.0     2   309   117   402   116   416 0.94 Glycosyl hydrolase family 53
+Dockerin_1           PF00404.21    58 BGC0002328_ORF2:gid::pid:ACL76467.1:loc:2013:3291:strand:- -            425   6.4e-16   58.4   1.9   1   1   3.1e-19   2.1e-15   56.8   1.9     1    57    42    99    42   100 0.95 Dockerin type I domain
+Cellulase            PF00150.21   281 BGC0002328_ORF2:gid::pid:ACL76467.1:loc:2013:3291:strand:- -            425   9.6e-07   28.6  10.6   1   1   5.7e-10   3.7e-06   26.7  10.6    12   276   126   395   114   399 0.74 Cellulase (glycosyl hydrolase family 5)
+HATPase_c_5          PF14501.9    101 BGC0002328_ORF4:gid::pid:ACL76469.1:loc:3869:5165:strand:+ -            431   1.3e-09   38.0   2.3   1   1   3.3e-13   3.2e-09   36.7   2.3     2    91   329   415   328   426 0.83 GHKL domain
+SPOB_a               PF14689.9     62 BGC0002328_ORF4:gid::pid:ACL76469.1:loc:3869:5165:strand:+ -            431   4.5e-07   29.5   1.2   1   1   1.1e-10     1e-06   28.4   1.2     7    51   234   278   225   287 0.87 Sensor_kinase_SpoOB-type, alpha-helical domain
+AgrB                 PF04647.18   183 BGC0002328_ORF6:gid::pid:ACL76471.1:loc:5310:5895:strand:- -            194   9.8e-36  122.9  15.5   1   1   6.4e-40   1.3e-35  122.6  15.5     2   176     7   174     6   180 0.93 Accessory gene regulator B
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002328.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002328.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002328.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:10:27 2023
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LANC_like            PF05147.16   352 BGC0000519_ORF1:gid:labKC:pid:CAX48971.1:loc:0:2589:strand:+ -            862   8.5e-13   47.7   0.6   1   1   3.6e-11   1.7e-07   30.2   0.0     3   113   600   766   598   777 0.71 Lanthionine synthetase C-like protein
+Pkinase              PF00069.28   264 BGC0000519_ORF1:gid:labKC:pid:CAX48971.1:loc:0:2589:strand:+ -            862   4.6e-12   46.0   0.0   1   1   1.3e-15   6.5e-12   45.5   0.0    13   195   237   430   225   457 0.79 Protein kinase domain
+ABC1                 PF03109.19   244 BGC0000519_ORF1:gid:labKC:pid:CAX48971.1:loc:0:2589:strand:+ -            862   3.9e-07   29.6   0.0   1   1   1.7e-10   8.4e-07   28.5   0.0   139   221   298   393   289   398 0.85 ABC1 atypical kinase-like domain
+RamS                 PF19402.2     44 BGC0000519_ORF2:gid:labA1:pid:CAX48972.1:loc:2598:2721:strand:+ -             40   1.8e-06   28.3   0.8   1   1     1e-10     2e-06   28.2   0.8     1    41     1    35     1    40 0.76 Lanthionine-containing peptide SapB precursor RamS
+RamS                 PF19402.2     44 BGC0000519_ORF3:gid:labA2:pid:CAX48973.1:loc:2760:2877:strand:+ -             38   1.4e-06   28.7   0.9   1   1   7.8e-11   1.5e-06   28.6   0.9     1    43     1    37     1    38 0.85 Lanthionine-containing peptide SapB precursor RamS
+ABC_tran             PF00005.30   137 BGC0000519_ORF4:gid:labT1:pid:CAX48974.1:loc:2987:4688:strand:+ -            566   1.5e-24   87.2   0.0   1   1   2.8e-28   2.7e-24   86.4   0.0     1   137   345   492   345   492 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000519_ORF4:gid:labT1:pid:CAX48974.1:loc:2987:4688:strand:+ -            566   1.2e-20   74.4   0.0   1   1   1.6e-24   1.6e-20   74.0   0.0     4   264    21   278    18   287 0.96 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000519_ORF5:gid:labT2:pid:CAX48975.1:loc:4684:6400:strand:+ -            571   1.4e-24   87.3   0.0   1   1     1e-28     2e-24   86.8   0.0     2   136   351   496   350   497 0.97 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000519.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000519.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000519.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:45:53 2023
+# [ok]

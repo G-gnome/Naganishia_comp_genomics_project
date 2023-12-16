@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="195.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="185.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+McnR</title>
+			<polygon class="
+McnR" points="12,10 26,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Histone_HNS (PF00816)
+"H-NS histone family"</title>
+				<polygon class="PF00816" points="16,28 17,28 23,40 17,52 16,52" stroke-linejoin="round" width="9" height="24" fill="rgb(192,206,65)" stroke="rgb(153,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+McnI</title>
+			<polygon class="
+McnI" points="37,10 47,40 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+McnN</title>
+			<polygon class="
+McnN" points="47,10 56,40 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+McnA</title>
+			<polygon class="
+McnA" points="71,25 83,25 83,10 113,40 83,70 83,55 71,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CusB_dom_1 (PF00529)
+"Cation efflux system protein CusB domain 1"</title>
+				<polygon class="PF00529" points="74,28 97,28 109,40 97,52 74,52" stroke-linejoin="round" width="36" height="24" fill="rgb(100,228,198)" stroke="rgb(80,182,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+McnB</title>
+			<polygon class="
+McnB" points="113,25 153,25 153,10 183,40 153,70 153,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="115" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="130" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="164,28 167,28 178,39 178,41 167,52 164,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

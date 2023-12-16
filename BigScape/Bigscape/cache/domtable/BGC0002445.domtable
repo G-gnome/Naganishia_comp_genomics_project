@@ -1,0 +1,19 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002445_ORF1:gid:CYP-Arm1:pid:QJQ03970.1:loc:12358:14516:strand:+ -            538   7.5e-71  239.4   0.0   1   1   8.4e-75   1.6e-70  238.2   0.0     1   436    33   477    33   509 0.87 Cytochrome P450
+p450                 PF00067.25   463 BGC0002445_ORF2:gid:CYP-Arm2:pid:QJQ03971.1:loc:17424:19546:strand:- -            513   1.8e-72  244.7   0.0   1   1     1e-76     2e-72  244.6   0.0     1   440    32   463    32   492 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0002445_ORF3:gid:CYP-Arm3:pid:QJQ03972.1:loc:24168:26301:strand:- -            521   4.8e-74  249.9   0.0   1   1     3e-78   5.8e-74  249.6   0.0     1   436    37   467    37   499 0.90 Cytochrome P450
+Terpene_syn_C_2      PF19086.3    199 BGC0002445_ORF4:gid:6-protoilludene_synthase:pid:QJQ03973.1:loc:28998:30475:strand:- -            346   3.9e-44  151.0   0.5   1   1   6.7e-48   6.6e-44  150.3   0.5     1   196    75   265    75   268 0.94 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth_C      PF03936.19   267 BGC0002445_ORF4:gid:6-protoilludene_synthase:pid:QJQ03973.1:loc:28998:30475:strand:- -            346     9e-08   31.9   0.1   1   1   1.4e-11   1.3e-07   31.3   0.1   124   257   130   258    21   267 0.83 Terpene synthase family, metal binding domain
+p450                 PF00067.25   463 BGC0002445_ORF5:gid:CYP-Arm4:pid:QJQ03974.1:loc:32290:34562:strand:+ -            509     9e-66  222.6   0.0   1   1   5.8e-70   1.1e-65  222.3   0.0     1   437    32   464    32   487 0.88 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002445.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002445.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002445.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:39:35 2023
+# [ok]

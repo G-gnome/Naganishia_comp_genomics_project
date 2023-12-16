@@ -1,0 +1,80 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="523.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="513.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (AFLA_108540)
+NADH oxidase, putative</title>
+			<polygon class=" (AFLA_108540)
+NADH oxidase, putative" points="51,25 40,25 40,10 10,40 40,70 40,55 51,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_FMN (PF00724)
+"NADH:flavin oxidoreductase / NADH oxidase family"</title>
+				<polygon class="PF00724" points="14,40 26,28 47,28 47,52 26,52" stroke-linejoin="round" width="35" height="24" fill="rgb(157,188,65)" stroke="rgb(125,150,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AFLA_108550)
+polyketide synthase, putative</title>
+			<polygon class=" (AFLA_108550)
+polyketide synthase, putative" points="277,25 126,25 126,10 96,40 126,70 126,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="103,37 109,31 109,49 103,43" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="154" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="201" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="214" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="252" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(77,115,183)" stroke="rgb(61,91,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AFLA_108560)
+O-methyltransferase, putative</title>
+			<polygon class=" (AFLA_108560)
+O-methyltransferase, putative" points="329,25 347,25 347,10 377,40 347,70 347,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="346,28 361,28 367,34 367,46 361,52 346,52" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AFLA_108570)
+conserved hypothetical protein</title>
+			<polygon class=" (AFLA_108570)
+conserved hypothetical protein" points="433,25 428,25 428,10 398,40 428,70 428,55 433,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<rect class="PF13649" x="419" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AFLA_108580)
+cytochrome P450, putative</title>
+			<polygon class=" (AFLA_108580)
+cytochrome P450, putative" points="512,25 484,25 484,10 454,40 484,70 484,55 512,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="466,32 470,28 503,28 503,52 470,52 466,48" stroke-linejoin="round" width="37" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

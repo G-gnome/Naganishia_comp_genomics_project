@@ -1,0 +1,26 @@
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/condabin/conda
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/bin/conda
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/bin/conda-env
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/bin/activate
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/bin/deactivate
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/etc/profile.d/conda.sh
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/etc/fish/conf.d/conda.fish
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/shell/condabin/Conda.psm1
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/shell/condabin/conda-hook.ps1
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/lib/python3.9/site-packages/xontrib/conda.xsh
+no change     /opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/etc/profile.d/conda.csh
+modified      /rhome/kkell060/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+
+EnvironmentNameNotFound: Could not find conda environment: bigscape
+You can list all discoverable environments with `conda info --envs`.
+
+
+/opt/linux/rhel/8.x/x86_64/pkgs/miniconda3/py39_4.12.0/lib/python3.9/site-packages/Bio/pairwise2.py:278: BiopythonDeprecationWarning: Bio.pairwise2 has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.PairwiseAligner as a replacement, and contact the Biopython developers if you still need the Bio.pairwise2 module.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape/bigscape.py", line 61, in <module>
+    from Bio.SubsMat.MatrixInfo import pam250 as scoring_matrix
+ModuleNotFoundError: No module named 'Bio.SubsMat'

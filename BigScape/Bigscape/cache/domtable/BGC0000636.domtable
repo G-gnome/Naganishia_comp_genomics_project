@@ -1,0 +1,35 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF2867              PF11066.11   144 BGC0000636_ORF1:gid::pid:AAF65580.1:loc:0:1373:strand:+ -            456   5.6e-35  120.9   0.8   1   1   1.1e-38   1.1e-34  120.0   0.8     1   144   300   445   300   445 0.98 Protein of unknown function (DUF2867)
+NAD_binding_10       PF13460.9    184 BGC0000636_ORF1:gid::pid:AAF65580.1:loc:0:1373:strand:+ -            456   1.8e-06   28.1   0.1   1   1   3.1e-10     3e-06   27.4   0.1    39   102    14    84     3   104 0.78 NAD(P)H-binding
+SQS_PSY              PF00494.22   263 BGC0000636_ORF2:gid:crtB:pid:AAF65581.1:loc:1534:2434:strand:+ -            299   1.7e-29  103.3   1.2   1   1     2e-31     4e-27   95.5   0.0     3   175    24   211    22   220 0.90 Squalene/phytoene synthase
+Amino_oxidase        PF01593.27   452 BGC0000636_ORF3:gid:crtI:pid:AAF65582.1:loc:2430:4017:strand:+ -            528   1.2e-28  100.7   0.1   1   1     8e-32   2.6e-28   99.6   0.1     2   445    13   506    12   508 0.79 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000636_ORF3:gid:crtI:pid:AAF65582.1:loc:2430:4017:strand:+ -            528   3.4e-19   69.0   0.1   1   1   3.2e-22     1e-18   67.4   0.1     1    65     7    71     7    73 0.97 NAD(P)-binding Rossmann-like domain
+FAD_binding_7        PF03441.17   203 BGC0000636_ORF5:gid:cpd1:pid:AAF65584.1:loc:4922:6386:strand:- -            487   5.4e-64  215.5   8.3   1   1   4.5e-67   4.4e-63  212.6   7.7     1   151   299   447   299   453 0.97 FAD binding domain of DNA photolyase
+DNA_photolyase       PF00875.21   164 BGC0000636_ORF5:gid:cpd1:pid:AAF65584.1:loc:4922:6386:strand:- -            487   1.5e-41  142.2   0.1   1   1   2.6e-45   2.6e-41  141.4   0.1     1   154     9   164     9   177 0.92 DNA photolyase
+TspO_MBR             PF03073.18   143 BGC0000636_ORF6:gid:crtK:pid:AAF65585.1:loc:6385:6904:strand:- -            172   2.1e-37  128.2   5.8   1   1   1.3e-41   2.6e-37  128.0   5.8     4   141    14   153    10   155 0.90 TspO/MBR family
+Amino_oxidase        PF01593.27   452 BGC0000636_ORF7:gid:crtU:pid:AAF65586.1:loc:6950:8504:strand:- -            517   8.1e-28   98.0   0.1   1   1   8.9e-31   1.5e-27   97.2   0.1     1   452    37   486    37   486 0.76 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000636_ORF7:gid:crtU:pid:AAF65586.1:loc:6950:8504:strand:- -            517   2.6e-15   56.5   0.7   1   1   7.5e-18   1.2e-14   54.4   0.3     1    67    32    97    32    98 0.93 NAD(P)-binding Rossmann-like domain
+Pyr_redox            PF00070.30    81 BGC0000636_ORF7:gid:crtU:pid:AAF65586.1:loc:6950:8504:strand:- -            517   1.4e-09   38.5   1.0   1   1   3.6e-08   5.9e-05   23.6   1.8     1    35    29    63    29    68 0.93 Pyridine nucleotide-disulphide oxidoreductase
+FAD_oxidored         PF12831.10   427 BGC0000636_ORF7:gid:crtU:pid:AAF65586.1:loc:6950:8504:strand:- -            517   8.3e-07   28.8   0.0   1   1   7.1e-10   1.2e-06   28.3   0.0     2    39    30    67    29   106 0.81 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0000636_ORF7:gid:crtU:pid:AAF65586.1:loc:6950:8504:strand:- -            517   1.3e-06   28.0   3.3   1   1   1.6e-09   2.6e-06   26.9   3.3     2    36    30    64    29    69 0.93 FAD binding domain
+FAD_binding_3        PF01494.22   349 BGC0000636_ORF7:gid:crtU:pid:AAF65586.1:loc:6950:8504:strand:- -            517     5e-06   26.1   0.8   1   1   6.1e-09   9.9e-06   25.2   0.8     4    33    30    59    28    66 0.94 FAD binding domain
+AlaDh_PNT_C          PF01262.24   214 BGC0000636_ORF7:gid:crtU:pid:AAF65586.1:loc:6950:8504:strand:- -            517   1.2e-05   24.8   0.7   1   1   1.6e-08   2.6e-05   23.8   0.7    27    59    26    58    19    68 0.92 Alanine dehydrogenase/PNT, C-terminal domain
+Lycopene_cyc         PF18916.3     92 BGC0000636_ORF8:gid:crtYd:pid:AAF65587.1:loc:8500:8824:strand:- -            107   6.1e-12   46.0   1.3   1   1   3.7e-16   7.2e-12   45.8   1.3     3    91     7    97     4    98 0.72 Lycopene cyclase
+Lycopene_cyc         PF18916.3     92 BGC0000636_ORF9:gid:crtYc:pid:AAF65588.1:loc:8813:9191:strand:- -            125   2.8e-10   40.7   3.8   1   1   1.8e-14   3.5e-10   40.3   3.8     8    90    12    94     5    96 0.83 Lycopene cyclase
+p450                 PF00067.25   463 BGC0000636_ORF10:gid::pid:AAF65589.1:loc:9187:10417:strand:- -            409   5.1e-16   58.6   0.0   1   1   7.6e-18   1.5e-13   50.5   0.0    47   430    27   366    19   368 0.79 Cytochrome P450
+polyprenyl_synt      PF00348.20   256 BGC0000636_ORF11:gid:crtE:pid:AAF65590.1:loc:10413:11571:strand:- -            385   9.2e-48  162.7   0.1   1   1   6.4e-52   1.2e-47  162.2   0.1     7   225    74   308    69   338 0.90 Polyprenyl synthetase
+rve                  PF00665.29   102 BGC0000636_ORF13:gid::pid:AAF65592.1:loc:12189:13446:strand:+ -            418   5.9e-10   39.5   0.0   1   1   4.9e-14   9.6e-10   38.8   0.0     5   101   176   271   172   272 0.90 Integrase core domain
+MarR_2               PF12802.10    61 BGC0000636_ORF14:gid::pid:AAF65593.1:loc:13471:14167:strand:+ -            231     2e-08   34.3   0.3   1   1     3e-12     2e-08   34.3   0.3     6    60    82   139    79   140 0.89 MarR family
+MarR                 PF01047.25    59 BGC0000636_ORF14:gid::pid:AAF65593.1:loc:13471:14167:strand:+ -            231   1.4e-07   31.4   0.1   1   1   4.1e-11   2.7e-07   30.5   0.1    16    58    97   140    84   141 0.87 MarR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000636.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000636.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000636.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:55:43 2023
+# [ok]

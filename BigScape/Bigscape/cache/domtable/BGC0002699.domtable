@@ -1,0 +1,25 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF4135              PF13575.9    377 BGC0002699_ORF1:gid::pid:ACC84958.1:loc:0:3351:strand:+ -           1116  6.5e-134  447.0   0.0   1   1    1e-137    1e-133  446.4   0.0     1   375   242   635   242   636 0.96 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0002699_ORF1:gid::pid:ACC84958.1:loc:0:3351:strand:+ -           1116   8.4e-60  202.3   0.0   1   1   1.3e-63   1.3e-59  201.7   0.0     2   352   760  1114   759  1114 0.91 Lanthionine synthetase C-like protein
+Nif11                PF07862.14    48 BGC0002699_ORF2:gid::pid:ACC84959.1:loc:3881:4193:strand:+ -            103   3.1e-12   46.8   0.2   1   1   3.6e-16   7.1e-12   45.6   0.2     1    47     1    51     1    52 0.97 Nif11 domain
+Acetyltransf_1       PF00583.28   117 BGC0002699_ORF3:gid::pid:ACC84960.1:loc:4489:5377:strand:+ -            295   3.9e-12   46.5   0.0   1   1   1.4e-13   1.3e-09   38.4   0.0    25   116    28   120     4   121 0.73 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.10   128 BGC0002699_ORF3:gid::pid:ACC84960.1:loc:4489:5377:strand:+ -            295     3e-07   30.6   0.0   1   1   5.9e-10   5.8e-06   26.4   0.0    22    87    26    97     9   127 0.75 Acetyltransferase (GNAT) domain
+Biotin_lipoyl_2      PF13533.9     50 BGC0002699_ORF4:gid::pid:ACC84961.1:loc:5555:7172:strand:+ -            538     6e-10   38.9   4.9   1   1   2.4e-13   1.6e-09   37.5   1.7     2    49    73   120    72   129 0.94 Biotin-lipoyl like
+Peptidase_C39        PF03412.18   133 BGC0002699_ORF5:gid::pid:ACC84962.1:loc:7158:9417:strand:+ -            752   5.5e-35  120.2   0.0   1   1   1.9e-38   9.4e-35  119.4   0.0     2   132    31   159    30   160 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0002699_ORF5:gid::pid:ACC84962.1:loc:7158:9417:strand:+ -            752   3.1e-33  115.3   0.0   1   1   1.1e-36   5.5e-33  114.5   0.0     2   137   533   681   532   681 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002699_ORF5:gid::pid:ACC84962.1:loc:7158:9417:strand:+ -            752   5.8e-30  105.0  17.2   1   1   1.6e-33   7.6e-30  104.6  17.2     2   270   186   451   185   455 0.98 ABC transporter transmembrane region
+Peptidase_C70        PF12385.11   143 BGC0002699_ORF5:gid::pid:ACC84962.1:loc:7158:9417:strand:+ -            752   5.3e-05   23.2   0.0   1   1   1.9e-08   9.4e-05   22.4   0.0     6   140    30   146    25   149 0.79 Papain-like cysteine protease AvrRpt2
+ABC_tran             PF00005.30   137 BGC0002699_ORF6:gid::pid:ACC84963.1:loc:9674:12569:strand:+ -            964   1.8e-32  112.8   0.0   1   1   4.7e-36   4.6e-32  111.5   0.0     1   137   745   893   745   893 0.85 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002699_ORF6:gid::pid:ACC84963.1:loc:9674:12569:strand:+ -            964     3e-16   60.0  14.6   1   1   4.5e-20   4.4e-16   59.5  14.6     2   254   407   656   406   682 0.94 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002699.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002699.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002699.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:33:41 2023
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cu-oxidase_3         PF07732.18   119 BGC0002301_ORF1:gid:ashL:pid:QDK64758.1:loc:2654:4915:strand:- -            648   6.4e-31  107.0   0.3   1   1   3.2e-33   2.1e-29  102.1   0.0     4   118    31   138    28   139 0.93 Multicopper oxidase
+Cu-oxidase_2         PF07731.17   137 BGC0002301_ORF1:gid:ashL:pid:QDK64758.1:loc:2654:4915:strand:- -            648   7.2e-22   77.7   3.1   1   1   1.7e-23   1.1e-19   70.7   0.2    23   134   453   589   435   592 0.81 Multicopper oxidase
+Cu-oxidase           PF00394.25   159 BGC0002301_ORF1:gid:ashL:pid:QDK64758.1:loc:2654:4915:strand:- -            648   8.8e-17   61.8   0.0   1   1   5.6e-20   3.7e-16   59.8   0.0     5   136   167   350   164   369 0.85 Multicopper oxidase
+MFS_1                PF07690.19   353 BGC0002301_ORF2:gid:ashT:pid:QDK64761.1:loc:7880:9670:strand:+ -            548   5.1e-39  134.3  57.1   1   1   7.5e-41   7.3e-37  127.2  54.0     2   352    56   457    55   458 0.77 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0002301_ORF2:gid:ashT:pid:QDK64761.1:loc:7880:9670:strand:+ -            548     1e-08   34.7  34.5   1   1   4.3e-11   4.2e-07   29.3  16.1    36   191    74   223    51   236 0.87 Sugar (and other) transporter
+EthD                 PF07110.14    97 BGC0002301_ORF3:gid:ashZ:pid:QDK64759.1:loc:10002:10547:strand:- -            141   2.3e-23   83.3   0.1   1   1   1.4e-27   2.8e-23   83.0   0.1     1    96    16   112    16   113 0.94 EthD domain
+ketoacyl-synt        PF00109.29   253 BGC0002301_ORF4:gid:ashP:pid:QDK64760.1:loc:12958:19498:strand:+ -           2110   4.2e-76  256.0   0.1   1   1     3e-79     1e-75  254.8   0.0     2   253   379   628   378   628 0.95 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0002301_ORF4:gid:ashP:pid:QDK64760.1:loc:12958:19498:strand:+ -           2110     4e-57  193.7   0.8   1   1   1.2e-60     4e-57  193.7   0.8     2   240     9   244     8   244 0.98 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.24   319 BGC0002301_ORF4:gid:ashP:pid:QDK64760.1:loc:12958:19498:strand:+ -           2110   1.3e-43  149.9   0.0   1   1   1.1e-46   3.7e-43  148.4   0.0     2   311   919  1236   918  1240 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002301_ORF4:gid:ashP:pid:QDK64760.1:loc:12958:19498:strand:+ -           2110   7.2e-33  113.2   1.0   1   1   8.2e-36   2.7e-32  111.4   1.0     2   118   637   755   636   756 0.97 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0002301_ORF4:gid:ashP:pid:QDK64760.1:loc:12958:19498:strand:+ -           2110   7.9e-22   78.6   0.1   1   1   1.4e-24   4.6e-21   76.1   0.0     3   113  1865  1976  1863  2016 0.85 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002301_ORF4:gid:ashP:pid:QDK64760.1:loc:12958:19498:strand:+ -           2110   1.4e-09   38.2   1.9   1   1   1.1e-12   3.5e-09   36.9   1.9     2    67  1698  1763  1697  1763 0.97 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002301.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002301.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002301.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:30:48 2023
+# [ok]

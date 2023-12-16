@@ -1,0 +1,27 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001518_ORF1:gid::pid:BAE60013.1:loc:0:4017:strand:- -           1338   1.2e-62  212.0   0.0   1   1   2.4e-66   1.6e-62  211.6   0.0     1   424   271   681   271   681 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001518_ORF1:gid::pid:BAE60013.1:loc:0:4017:strand:- -           1338   4.2e-17   62.1   0.0   1   1   1.1e-20   7.2e-17   61.3   0.0    30   440   949  1336   943  1338 0.83 Condensation domain
+PP-binding           PF00550.28    67 BGC0001518_ORF1:gid::pid:BAE60013.1:loc:0:4017:strand:- -           1338   2.2e-05   24.8   0.0   1   1   1.1e-08     7e-05   23.2   0.0     5    65   828   887   825   889 0.92 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0001518_ORF2:gid::pid:BAE60012.1:loc:4988:6527:strand:- -            512   5.3e-63  213.5   0.0   1   1   3.4e-67   6.6e-63  213.2   0.0     1   442    30   448    30   472 0.88 Cytochrome P450
+p450                 PF00067.25   463 BGC0001518_ORF4:gid::pid:BAE60010.1:loc:9937:11652:strand:+ -            512   4.6e-73  246.7   0.0   1   1   3.1e-77   6.1e-73  246.3   0.0    17   458    66   495    55   501 0.87 Cytochrome P450
+adh_short_C2         PF13561.9    234 BGC0001518_ORF5:gid::pid:BAE60009.1:loc:12715:13501:strand:+ -            261   7.2e-62  209.1   6.8   1   1   1.3e-65   8.3e-62  208.9   6.8     1   234    19   259    19   259 0.94 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001518_ORF5:gid::pid:BAE60009.1:loc:12715:13501:strand:+ -            261   4.4e-50  170.0   5.7   1   1     8e-54   5.2e-50  169.8   5.7     1   192    13   207    13   210 0.97 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001518_ORF5:gid::pid:BAE60009.1:loc:12715:13501:strand:+ -            261   2.3e-08   34.3   2.6   1   1   5.4e-12   3.5e-08   33.7   2.6     4   163    16   178    14   193 0.84 KR domain
+p450                 PF00067.25   463 BGC0001518_ORF6:gid::pid:BAE60008.1:loc:13921:15487:strand:- -            521   6.5e-69  233.0   0.0   1   1   4.2e-73   8.3e-69  232.6   0.0     2   446    43   464    42   484 0.89 Cytochrome P450
+Transferase          PF02458.18   434 BGC0001518_ORF7:gid::pid:BAE60007.1:loc:16075:17581:strand:+ -            471   5.6e-26   91.3   0.0   1   1   4.2e-28   8.3e-24   84.2   0.0    20   390     8   439     2   470 0.69 Transferase family
+MFS_1                PF07690.19   353 BGC0001518_ORF8:gid::pid:BAE60006.1:loc:18193:20011:strand:+ -            564   1.2e-38  133.1  48.9   1   1     6e-43   1.2e-38  133.1  48.9     1   352    76   477    76   478 0.85 Major Facilitator Superfamily
+HAD_2                PF13419.9    178 BGC0001518_ORF9:gid::pid:BAE60005.1:loc:20511:21117:strand:+ -            201   1.3e-06   28.8   0.0   1   1     2e-10     2e-06   28.2   0.0   112   173   122   183    44   187 0.80 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 BGC0001518_ORF9:gid::pid:BAE60005.1:loc:20511:21117:strand:+ -            201     2e-06   28.4   0.0   1   1   2.2e-10   2.1e-06   28.3   0.0   119   206    88   178    25   182 0.89 haloacid dehalogenase-like hydrolase
+p450                 PF00067.25   463 BGC0001518_ORF10:gid::pid:BAE60004.1:loc:21177:23499:strand:- -            500   3.3e-67  227.4   0.0   1   1   1.9e-71   3.8e-67  227.2   0.0     8   456    42   483    36   490 0.89 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001518.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001518.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001518.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:31:10 2023
+# [ok]

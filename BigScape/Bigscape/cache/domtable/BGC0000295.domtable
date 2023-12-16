@@ -1,0 +1,29 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.15   239 BGC0000295_ORF1:gid:acbA:pid:BAM09326.1:loc:569:2354:strand:+ -            594   2.9e-53  181.1   0.1   1   1   4.2e-57   4.1e-53  180.5   0.1     1   239   144   377   144   377 0.92 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000295_ORF1:gid:acbA:pid:BAM09326.1:loc:569:2354:strand:+ -            594   3.1e-34  118.9   0.7   1   1   7.2e-38     7e-34  117.7   0.7     1   161   408   567   408   569 0.90 Ferric iron reductase FhuF-like transporter
+Lys_Orn_oxgnase      PF13434.9    341 BGC0000295_ORF2:gid:acbB:pid:BAM09327.1:loc:2346:3828:strand:+ -            493  2.7e-109  365.6   1.5   1   1  4.1e-113  2.7e-109  365.6   1.5     2   339     1   338     1   340 0.95 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyr_redox_3          PF13738.9    305 BGC0000295_ORF2:gid:acbB:pid:BAM09327.1:loc:2346:3828:strand:+ -            493   1.2e-09   38.1   0.0   1   1     2e-11   1.3e-07   31.3   0.0    35   188    48   208     5   225 0.75 Pyridine nucleotide-disulphide oxidoreductase
+IucA_IucC            PF04183.15   239 BGC0000295_ORF3:gid:acbC:pid:BAM09328.1:loc:3824:5642:strand:+ -            605   3.4e-64  216.8   0.0   1   1   4.7e-68   4.7e-64  216.4   0.0     5   239   142   387   138   387 0.96 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000295_ORF3:gid:acbC:pid:BAM09328.1:loc:3824:5642:strand:+ -            605   1.4e-32  113.5   0.6   1   1   3.5e-36   3.4e-32  112.2   0.6     2   158   409   566   408   571 0.97 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 BGC0000295_ORF4:gid:acbD:pid:BAM09329.1:loc:5669:6308:strand:+ -            212     3e-36  124.4   0.0   1   1     2e-40   3.9e-36  124.0   0.0     4   143    30   169    27   171 0.95 Acetyltransferase (GNAT) domain
+MFS_1                PF07690.19   353 BGC0000295_ORF6:gid:actC:pid:BAM09331.1:loc:6672:7908:strand:+ -            411   1.2e-19   70.6  47.2   1   1   2.1e-20     2e-16   60.0  36.0     3   297    21   307    19   327 0.73 Major Facilitator Superfamily
+Acatn                PF13000.10   548 BGC0000295_ORF6:gid:actC:pid:BAM09331.1:loc:6672:7908:strand:+ -            411   1.8e-16   59.9  10.7   1   1   2.9e-17   2.8e-13   49.3  10.7     4   169    18   160    15   169 0.82 Acetyl-coenzyme A transporter 1
+TonB_dep_Rec         PF00593.27   470 BGC0000295_ORF7:gid:actA:pid:BAM09332.1:loc:7917:10176:strand:+ -            752   1.6e-37  130.6  43.0   1   1   3.8e-41   2.5e-37  130.0  28.8    54   470   307   751   277   751 0.68 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0000295_ORF7:gid:actA:pid:BAM09332.1:loc:7917:10176:strand:+ -            752   1.3e-18   67.6   4.5   1   1   2.1e-22   1.3e-18   67.6   4.5     3   108    61   163    59   163 0.94 TonB-dependent Receptor Plug Domain
+OMP_b-brl_3          PF14905.9    408 BGC0000295_ORF7:gid:actA:pid:BAM09332.1:loc:7917:10176:strand:+ -            752   8.6e-08   31.7   5.3   1   1   1.3e-11   8.6e-08   31.7   5.3     2   299   321   622   320   748 0.71 Outer membrane protein beta-barrel family
+MFS_1                PF07690.19   353 BGC0000295_ORF8:gid:actD:pid:BAM09333.1:loc:10230:11457:strand:+ -            408   3.5e-30  105.3  51.7   1   2   4.4e-24   8.7e-20   71.1  29.8     2   292     9   300     8   301 0.81 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0000295_ORF8:gid:actD:pid:BAM09333.1:loc:10230:11457:strand:+ -            408   3.5e-30  105.3  51.7   2   2   1.9e-14   3.8e-10   39.4  19.7    63   172   286   391   279   403 0.91 Major Facilitator Superfamily
+DDE_Tnp_1            PF01609.24   214 BGC0000295_ORF9:gid::pid:BAM09334.1:loc:11774:12332:strand:+ -            185   1.4e-06   28.2   0.3   1   1   2.3e-10   4.4e-06   26.6   0.0    24   108    93   182    81   184 0.90 Transposase DDE domain
+DDE_Tnp_1            PF01609.24   214 BGC0000295_ORF10:gid::pid:BAM09335.1:loc:12430:12865:strand:+ -            144     9e-06   25.6   0.3   1   1   1.2e-09   2.4e-05   24.2   0.1   170   210    30    71    21    75 0.91 Transposase DDE domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000295.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000295.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000295.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:16:35 2023
+# [ok]

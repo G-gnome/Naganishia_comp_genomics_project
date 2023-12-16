@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="6800.533333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="6790.533333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+C3 methyltransferase</title>
+			<polygon class="
+C3 methyltransferase" points="156,25 166,25 166,10 196,40 166,70 166,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_13 (PF08421)
+"Putative zinc binding domain"</title>
+				<rect class="PF08421" x="156" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<rect class="PF13489" x="163" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_14 (PF08484)
+"C-methyltransferase C-terminal domain"</title>
+				<polygon class="PF08484" points="180,28 180,28 192,40 180,52 180,52" stroke-linejoin="round" width="15" height="24" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+C3 transaminase</title>
+			<polygon class="
+C3 transaminase" points="346,25 353,25 353,10 383,40 353,70 353,55 346,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="347,28 366,28 378,40 366,52 347,52" stroke-linejoin="round" width="35" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+C3,5 epimerase</title>
+			<polygon class="
+C3,5 epimerase" points="394,10 417,40 394,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="396,28 404,28 413,40 413,40 404,52 396,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+C4 ketoreductase</title>
+			<polygon class="
+C4 ketoreductase" points="416,25 420,25 420,10 450,40 420,70 420,55 416,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="417,28 433,28 440,35 440,45 433,52 417,52" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+C2 dehydratase</title>
+			<polygon class="
+C2 dehydratase" points="2933,25 2949,25 2949,10 2979,40 2949,70 2949,55 2933,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<rect class="PF03559" x="2936" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<polygon class="PF03559" points="2958,28 2962,28 2974,40 2962,52 2958,52" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

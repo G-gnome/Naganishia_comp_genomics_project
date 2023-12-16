@@ -1,0 +1,32 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5388              PF17363.5     70 BGC0000523_ORF2:gid::pid:CAC33834.1:loc:229:580:strand:+ -            116   3.7e-29  100.8   1.1   1   1   2.5e-33     5e-29  100.4   1.1     2    70    43   111    42   111 0.97 Family of unknown function (DUF5388)
+DUF6710              PF20457.1    203 BGC0000523_ORF3:gid::pid:CAC33835.1:loc:798:1200:strand:- -            133   3.9e-22   79.1   1.4   1   1   2.3e-26   4.5e-22   78.9   1.4    97   200     2   114     1   117 0.86 Family of unknown function (DUF6710)
+DDE_Tnp_IS240        PF13610.9    139 BGC0000523_ORF5:gid:tnp1519L:pid:CAC33837.1:loc:1535:2216:strand:+ -            226   2.2e-43  147.9   1.2   1   1   5.4e-47   3.5e-43  147.3   1.2     3   137    72   202    70   204 0.96 DDE domain
+rve                  PF00665.29   102 BGC0000523_ORF5:gid:tnp1519L:pid:CAC33837.1:loc:1535:2216:strand:+ -            226   1.8e-10   41.1   0.1   1   1   1.6e-12     1e-08   35.5   0.0     5    85    70   144    66   162 0.85 Integrase core domain
+zf-ISL3              PF14690.9     47 BGC0000523_ORF6:gid:tnp1516delC:pid:CAC33838.1:loc:2896:3352:strand:+ -            151   8.5e-08   32.8   0.7   1   1   7.1e-12   1.4e-07   32.2   0.7     2    47    40    88    39    88 0.91 zinc-finger of transposase IS204/IS1001/IS1096/IS1165
+DDE_Tnp_ISL3         PF01610.20   240 BGC0000523_ORF7:gid:tnp1516delN:pid:CAC33839.1:loc:3352:4168:strand:+ -            271   3.1e-52  177.8   7.2   1   1   1.8e-56   3.6e-52  177.6   7.2     1   240     7   256     7   256 0.92 Transposase
+ABC_tran             PF00005.30   137 BGC0000523_ORF8:gid:lasY:pid:CAC33840.1:loc:4572:5475:strand:- -            300   7.4e-29  101.1   0.1   1   1   3.4e-32   2.2e-28   99.6   0.0     5   136    21   157    17   158 0.95 ABC transporter
+DUF4162              PF13732.9     81 BGC0000523_ORF8:gid:lasY:pid:CAC33840.1:loc:4572:5475:strand:- -            300   1.1e-09   39.0   1.9   1   1     3e-13     2e-09   38.2   1.0     1    77   211   289   211   293 0.95 Domain of unknown function (DUF4162)
+DUF4135              PF13575.9    377 BGC0000523_ORF11:gid:lasM:pid:CAA91110.1:loc:6884:9662:strand:+ -            925   1.3e-58  199.2   0.0   1   1   1.8e-62   1.8e-58  198.7   0.0     1   376   102   467   102   468 0.87 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000523_ORF11:gid:lasM:pid:CAA91110.1:loc:6884:9662:strand:+ -            925   1.1e-17   63.8   2.6   1   1   2.8e-21   2.7e-17   62.5   2.6    49   344   640   914   585   920 0.78 Lanthionine synthetase C-like protein
+FMN_red              PF03358.18   156 BGC0000523_ORF12:gid:lasN:pid:CAA91111.1:loc:9676:10396:strand:+ -            239   4.5e-16   59.1   0.0   1   1   6.3e-20   6.2e-16   58.6   0.0     1   135     1   134     1   152 0.83 NADPH-dependent FMN reductase
+Flavodoxin_2         PF02525.20   198 BGC0000523_ORF12:gid:lasN:pid:CAA91111.1:loc:9676:10396:strand:+ -            239     5e-07   29.8   0.0   1   1   9.1e-11   8.9e-07   28.9   0.0    47   137    46   122     1   141 0.69 Flavodoxin-like fold
+ABC_membrane         PF00664.26   274 BGC0000523_ORF13:gid:lasT:pid:CAA91112.1:loc:10398:12006:strand:+ -            535   5.1e-22   78.9  24.8   1   1   7.3e-26   7.1e-22   78.5  24.8     1   274    13   280    13   280 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000523_ORF13:gid:lasT:pid:CAA91112.1:loc:10398:12006:strand:+ -            535   1.3e-17   64.7   0.0   1   1   2.8e-21   2.7e-17   63.7   0.0     1   134   341   472   341   475 0.84 ABC transporter
+Peptidase_S8         PF00082.25   284 BGC0000523_ORF16:gid:lasP:pid:CAA91115.1:loc:12670:13471:strand:+ -            266   7.3e-13   48.5   1.9   1   1   8.6e-17   1.7e-12   47.3   1.9     5   246    28   249    26   253 0.81 Subtilase family
+ABC2_membrane_3      PF12698.10   346 BGC0000523_ORF18:gid:lasW:pid:CAA91117.1:loc:13701:14946:strand:+ -            414   7.3e-30  104.4  37.4   1   1   4.4e-34   8.6e-30  104.1  37.4     4   345    22   386    19   387 0.80 ABC-2 family transporter protein
+DDE_Tnp_IS240        PF13610.9    139 BGC0000523_ORF19:gid:tnp1519R:pid:CAC33842.1:loc:15067:15754:strand:+ -            228   1.4e-43  148.5   0.9   1   1   3.8e-47   2.5e-43  147.8   0.9     3   137    74   204    72   206 0.96 DDE domain
+rve                  PF00665.29   102 BGC0000523_ORF19:gid:tnp1519R:pid:CAC33842.1:loc:15067:15754:strand:+ -            228   2.7e-10   40.6   0.0   1   1   2.8e-12   1.8e-08   34.7   0.0     5    85    72   146    68   164 0.85 Integrase core domain
+DDE_Tnp_IS66         PF03050.17   281 BGC0000523_ORF19:gid:tnp1519R:pid:CAC33842.1:loc:15067:15754:strand:+ -            228   2.6e-06   27.2   2.8   1   1   5.1e-09   3.3e-05   23.6   0.4    16   123    23   126     9   151 0.80 Transposase IS66 family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000523.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000523.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000523.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:06:05 2023
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PfkB                 PF00294.27   302 BGC0002692_ORF2:gid::pid:TCC25648.1:loc:1795:3304:strand:+ -            502     3e-23   82.7   0.0   1   1   2.8e-27   5.6e-23   81.8   0.0     3   301   191   489   189   490 0.85 pfkB family carbohydrate kinase
+IucA_IucC            PF04183.15   239 BGC0002692_ORF5:gid::pid:TCC25651.1:loc:5000:6734:strand:- -            577   1.4e-75  254.1   0.2   1   1   2.2e-79   2.2e-75  253.5   0.2     3   239   128   371   126   371 0.95 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002692_ORF5:gid::pid:TCC25651.1:loc:5000:6734:strand:- -            577   2.5e-23   83.4   0.3   1   1   5.4e-27   5.3e-23   82.4   0.3     2   145   388   530   387   545 0.89 Ferric iron reductase FhuF-like transporter
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002692_ORF6:gid::pid:TCC25652.1:loc:6730:7987:strand:- -            418  1.1e-102  343.8   0.0   1   1  6.8e-107  1.3e-102  343.5   0.0     2   340     1   328     1   329 0.96 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Acetyltransf_8       PF13523.9    145 BGC0002692_ORF7:gid::pid:TCC25833.1:loc:7974:8445:strand:- -            156   1.2e-38  132.2   2.0   1   1   7.1e-43   1.4e-38  132.0   2.0    13   144     1   133     1   134 0.96 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 BGC0002692_ORF8:gid::pid:TCC25653.1:loc:8501:10142:strand:- -            546   2.9e-55  187.6   0.0   1   1   4.2e-59   4.1e-55  187.1   0.0     2   237   119   344   118   346 0.88 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002692_ORF8:gid::pid:TCC25653.1:loc:8501:10142:strand:- -            546   3.2e-28   99.3   0.0   1   1   6.9e-32   6.8e-28   98.3   0.0     3   160   366   527   365   529 0.86 Ferric iron reductase FhuF-like transporter
+Pyridoxal_deC        PF00282.22   375 BGC0002692_ORF9:gid::pid:TCC25654.1:loc:10138:11626:strand:- -            495     4e-54  183.9   0.0   1   1   2.5e-58     5e-54  183.6   0.0    38   374    84   414    75   415 0.90 Pyridoxal-dependent decarboxylase conserved domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002692.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002692.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002692.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:43:59 2023
+# [ok]

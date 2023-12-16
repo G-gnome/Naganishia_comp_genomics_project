@@ -1,0 +1,23 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DAP_epimerase        PF01678.22   121 BGC0001733_ORF1:gid:dapF:pid:WP_015143115.1:loc:0:846:strand:+ -            281   4.4e-63  211.0   0.0   1   2   1.8e-36   3.6e-32  111.2   0.0     1   120     5   127     5   128 0.92 Diaminopimelate epimerase
+DAP_epimerase        PF01678.22   121 BGC0001733_ORF1:gid:dapF:pid:WP_015143115.1:loc:0:846:strand:+ -            281   4.4e-63  211.0   0.0   2   2   2.1e-32   4.1e-28   98.1   0.0     2   121   159   274   158   274 0.97 Diaminopimelate epimerase
+Nif11                PF07862.14    48 BGC0001733_ORF2:gid::pid:WP_015143116.1:loc:1050:1485:strand:+ -            144   2.3e-06   28.0   0.8   1   1   2.4e-10   4.7e-06   27.0   0.8     4    48     7    50     6    50 0.95 Nif11 domain
+Radical_SAM          PF04055.24   167 BGC0001733_ORF3:gid::pid:WP_015143117.1:loc:1590:2853:strand:+ -            420   1.2e-20   74.7   0.5   1   1   1.1e-23   7.1e-20   72.2   0.0     2   142    12   144    11   151 0.96 Radical SAM superfamily
+SPASM                PF13186.9     68 BGC0001733_ORF3:gid::pid:WP_015143117.1:loc:1590:2853:strand:+ -            420   3.2e-05   24.4   0.1   1   1     1e-08   6.9e-05   23.4   0.1     1    67   251   319   251   326 0.77 Iron-sulfur cluster-binding domain
+ACR_tran             PF00873.22  1021 BGC0001733_ORF5:gid::pid:WP_015143119.1:loc:3048:6147:strand:- -           1032  5.1e-248  825.7  19.1   1   1    9e-252  5.9e-248  825.5  19.1     2  1020     6  1001     5  1002 0.98 AcrB/AcrD/AcrF family
+MMPL                 PF03176.18   333 BGC0001733_ORF5:gid::pid:WP_015143119.1:loc:3048:6147:strand:- -           1032   3.6e-05   23.0  12.9   1   1   5.5e-09   3.6e-05   23.0  12.9   166   302   346   490   339   520 0.86 MMPL family
+HlyD_D23             PF16576.8    214 BGC0001733_ORF6:gid::pid:WP_015143120.1:loc:6483:8070:strand:- -            528   1.7e-22   79.8  17.5   1   1   7.8e-23   5.1e-19   68.5  17.5     2   213   148   442   147   443 0.80 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+HlyD_3               PF13437.9    106 BGC0001733_ORF6:gid::pid:WP_015143120.1:loc:6483:8070:strand:- -            528   5.7e-19   68.9   8.7   1   1   1.2e-21     8e-18   65.2   0.5     2   106   341   440   340   440 0.96 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.9     50 BGC0001733_ORF6:gid::pid:WP_015143120.1:loc:6483:8070:strand:- -            528   4.5e-10   39.3   2.9   1   1   6.8e-14   4.5e-10   39.3   2.9     3    49   164   211   162   212 0.94 Biotin-lipoyl like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001733.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001733.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001733.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:21:53 2023
+# [ok]

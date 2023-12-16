@@ -1,0 +1,39 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+APH                  PF01636.26   239 BGC0000711_ORF1:gid::pid:CAH58684.1:loc:179:986:strand:- -            268   2.2e-33  116.2   9.4   1   1   2.5e-37   2.5e-33  116.1   9.4    14   230    28   251    14   261 0.86 Phosphotransferase enzyme family
+DUF6545              PF20182.1    137 BGC0000711_ORF2:gid::pid:CAH58685.1:loc:994:2290:strand:- -            431   1.5e-26   93.6  17.7   1   1   7.6e-31   1.5e-26   93.6  17.7     4   135   238   375   234   378 0.88 Family of unknown function (DUF6545)
+ADH_N                PF08240.15   109 BGC0000711_ORF5:gid::pid:CAH58688.1:loc:4400:5423:strand:+ -            340   9.2e-25   86.8   2.0   1   1   1.7e-28   1.1e-24   86.5   0.4     1   107    24   129    24   131 0.95 Alcohol dehydrogenase GroES-like domain
+ADH_zinc_N           PF00107.29   130 BGC0000711_ORF5:gid::pid:CAH58688.1:loc:4400:5423:strand:+ -            340   1.3e-15   57.7   0.3   1   1   3.1e-19     2e-15   57.1   0.3     1   129   171   298   171   299 0.91 Zinc-binding dehydrogenase
+DegT_DnrJ_EryC1      PF01041.20   360 BGC0000711_ORF6:gid::pid:CAH58689.1:loc:5501:6776:strand:+ -            424   7.5e-84  282.1   0.0   1   1   5.8e-88   1.1e-83  281.5   0.0    10   349    31   388    28   412 0.88 DegT/DnrJ/EryC1/StrS aminotransferase family
+DHQ_synthase         PF01761.23   262 BGC0000711_ORF7:gid::pid:CAH58690.1:loc:6946:8239:strand:+ -            430   4.3e-68  229.4   0.6   1   1   5.7e-72   5.6e-68  229.1   0.6     5   260    70   323    66   325 0.97 3-dehydroquinate synthase
+Fe-ADH_2             PF13685.9    251 BGC0000711_ORF7:gid::pid:CAH58690.1:loc:6946:8239:strand:+ -            430   1.7e-11   44.6   4.4   1   1     3e-15   2.9e-11   43.8   4.4     8   225    23   257    16   268 0.74 Iron-containing alcohol dehydrogenase
+Glycos_transf_1      PF00534.23   172 BGC0000711_ORF8:gid::pid:CAH58691.1:loc:8466:9651:strand:+ -            394   1.4e-25   89.9   0.0   1   1   3.8e-29   1.9e-25   89.5   0.0     3   165   191   354   189   359 0.94 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 BGC0000711_ORF8:gid::pid:CAH58691.1:loc:8466:9651:strand:+ -            394     4e-23   82.4   0.3   1   1   1.5e-26   7.2e-23   81.5   0.3     1   133   203   345   203   347 0.87 Glycosyl transferases group 1
+Glyco_trans_4_4      PF13579.9    159 BGC0000711_ORF8:gid::pid:CAH58691.1:loc:8466:9651:strand:+ -            394   1.6e-19   70.9  16.8   1   1   3.4e-23   1.6e-19   70.9  16.8     4   157     2   176     1   177 0.77 Glycosyl transferase 4-like domain
+Glyco_transf_4       PF13439.9    170 BGC0000711_ORF8:gid::pid:CAH58691.1:loc:8466:9651:strand:+ -            394   2.2e-16   60.5   2.3   1   1   4.5e-20   2.2e-16   60.5   2.3     4   163     1   176     1   180 0.79 Glycosyltransferase Family 4
+ABC_membrane         PF00664.26   274 BGC0000711_ORF9:gid::pid:CAH58692.1:loc:9647:11639:strand:+ -            663   4.9e-36  124.9   0.6   1   1   6.1e-40     6e-36  124.6   0.6     7   273    24   288    18   289 0.97 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000711_ORF9:gid::pid:CAH58692.1:loc:9647:11639:strand:+ -            663   6.1e-27   94.9   0.0   1   1   9.7e-31   9.5e-27   94.3   0.0     1   136   353   544   353   545 0.93 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000711_ORF10:gid::pid:CAH58693.1:loc:11635:13420:strand:+ -            594   2.1e-36  126.1   0.0   1   1   4.1e-40   2.7e-36  125.8   0.0     3   268    30   296    28   302 0.94 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000711_ORF10:gid::pid:CAH58693.1:loc:11635:13420:strand:+ -            594   6.7e-32  111.0   0.0   1   1   1.5e-35     1e-31  110.4   0.0     1   137   369   518   369   518 0.91 ABC transporter
+GMC_oxred_C          PF05199.16   145 BGC0000711_ORF11:gid::pid:CAH58694.1:loc:13628:15254:strand:+ -            541   3.6e-24   86.0   0.5   1   1   2.7e-27   1.3e-23   84.2   0.5     1   144   404   524   404   525 0.91 GMC oxidoreductase
+GMC_oxred_N          PF00732.22   296 BGC0000711_ORF11:gid::pid:CAH58694.1:loc:13628:15254:strand:+ -            541   2.5e-14   53.5   0.0   1   1   1.3e-17   6.3e-14   52.2   0.0     2   292    39   325    38   329 0.77 GMC oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000711_ORF11:gid::pid:CAH58694.1:loc:13628:15254:strand:+ -            541   1.7e-05   25.1   0.0   1   1   1.4e-08   6.9e-05   23.1   0.0     1    32    42    73    42    87 0.90 NAD(P)-binding Rossmann-like domain
+Radical_SAM          PF04055.24   167 BGC0000711_ORF12:gid::pid:CAH58695.1:loc:15427:16327:strand:+ -            299   3.9e-08   34.0   0.0   1   1     3e-12   5.9e-08   33.4   0.0     6    95    25   105    20   168 0.76 Radical SAM superfamily
+His_Phos_1           PF00300.25   194 BGC0000711_ORF13:gid::pid:CAH58696.1:loc:16323:17025:strand:+ -            233   1.2e-26   93.8   0.3   1   1   2.5e-24     5e-20   72.2   0.2    44   191    75   222    71   225 0.83 Histidine phosphatase superfamily (branch 1)
+DUF6137              PF19634.2     82 BGC0000711_ORF14:gid::pid:CAH58697.1:loc:17021:17273:strand:+ -             83   1.1e-20   73.4   0.1   1   1   6.5e-25   1.3e-20   73.2   0.1     6    74     2    70     1    74 0.96 Family of unknown function (DUF6137)
+PIG-L                PF02585.20   130 BGC0000711_ORF16:gid::pid:CAH58699.1:loc:18358:19198:strand:+ -            279   7.8e-14   52.5   0.0   1   1   6.6e-18   1.3e-13   51.8   0.0     1   129    26   167    26   168 0.89 GlcNAc-PI de-N-acetylase
+Aminotran_3          PF00202.24   403 BGC0000711_ORF18:gid::pid:CAH58701.1:loc:21494:22745:strand:+ -            416   2.9e-26   92.3   0.0   1   2   3.7e-13   7.3e-09   34.9   0.0     6   129    18   131    13   134 0.86 Aminotransferase class-III
+Aminotran_3          PF00202.24   403 BGC0000711_ORF18:gid::pid:CAH58701.1:loc:21494:22745:strand:+ -            416   2.9e-26   92.3   0.0   2   2   2.3e-19   4.6e-15   55.4   0.0   187   373   166   342   157   352 0.87 Aminotransferase class-III
+Antibiotic_NAT       PF02522.17   230 BGC0000711_ORF20:gid::pid:CAH58703.1:loc:26933:27797:strand:- -            287   5.5e-71  239.0   0.0   1   1   3.3e-75   6.5e-71  238.7   0.0     1   230    35   277    35   277 0.98 Aminoglycoside 3-N-acetyltransferase
+AAA_16               PF13191.9    170 BGC0000711_ORF21:gid::pid:CAH58704.1:loc:28176:30837:strand:- -            886   3.3e-19   70.0   0.7   1   1   1.7e-23   3.3e-19   70.0   0.7     2   170    14   184    13   184 0.83 AAA ATPase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000711.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000711.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000711.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:13:09 2023
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 BGC0002707_ORF1:gid::pid:EIW83690.1:loc:3:1013:strand:+ -            280   1.5e-33  116.1   0.0   1   1     5e-37     2e-33  115.7   0.0     4   188     1   194     1   200 0.94 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002707_ORF1:gid::pid:EIW83690.1:loc:3:1013:strand:+ -            280   1.9e-24   86.7   0.0   1   1   6.7e-28   2.6e-24   86.2   0.0     1   198     4   212     4   220 0.87 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002707_ORF1:gid::pid:EIW83690.1:loc:3:1013:strand:+ -            280   1.2e-10   41.7   0.0   1   1   5.9e-14   2.3e-10   40.8   0.0     4   156     1   154     1   162 0.85 KR domain
+NAD_binding_10       PF13460.9    184 BGC0002707_ORF1:gid::pid:EIW83690.1:loc:3:1013:strand:+ -            280   6.2e-07   29.6   0.1   1   1   2.4e-10   9.3e-07   29.0   0.1     1    83     4   101     4   115 0.81 NAD(P)H-binding
+Epimerase            PF01370.24   241 BGC0002707_ORF1:gid::pid:EIW83690.1:loc:3:1013:strand:+ -            280   1.8e-05   24.5   0.0   1   1   6.5e-09   2.5e-05   24.0   0.0     2   121     1   141     1   160 0.72 NAD dependent epimerase/dehydratase family
+MFS_1                PF07690.19   353 BGC0002707_ORF2:gid::pid:EIW83691.1:loc:5352:7245:strand:+ -            489   2.3e-38  132.2  46.9   1   1   3.3e-37   2.1e-33  115.8  25.1     1   353    30   437    30   437 0.80 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0002707_ORF2:gid::pid:EIW83691.1:loc:5352:7245:strand:+ -            489   7.7e-08   31.8  22.0   1   1   3.8e-10   2.5e-06   26.8  22.6    47   431    68   471    54   473 0.77 Sugar (and other) transporter
+TRI12                PF06609.16   599 BGC0002707_ORF2:gid::pid:EIW83691.1:loc:5352:7245:strand:+ -            489   6.4e-07   28.3   0.8   1   1     2e-10   1.3e-06   27.3   0.8    80   199    69   189    61   235 0.81 Fungal trichothecene efflux pump (TRI12)
+MFS_1                PF07690.19   353 BGC0002707_ORF3:gid::pid:EIW83692.1:loc:11828:16780:strand:+ -            490   5.5e-30  104.6  28.5   1   1   2.8e-34   5.5e-30  104.6  28.5     6   353    48   441    43   441 0.77 Major Facilitator Superfamily
+Terpene_syn_C_2      PF19086.3    199 BGC0002707_ORF4:gid::pid:EIW83693.1:loc:17285:18431:strand:- -            341   1.8e-54  184.7   0.0   1   1   2.4e-58   2.4e-54  184.4   0.0     1   197    83   271    83   273 0.91 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth_C      PF03936.19   267 BGC0002707_ORF4:gid::pid:EIW83693.1:loc:17285:18431:strand:- -            341   5.2e-09   35.9   0.0   1   1     8e-13   7.9e-09   35.3   0.0   136   262   143   268   134   272 0.90 Terpene synthase family, metal binding domain
+Aldo_ket_red         PF00248.24   292 BGC0002707_ORF5:gid::pid:EIW83694.1:loc:19982:21301:strand:- -            282   4.5e-38  131.1   0.0   1   1     2e-40   3.9e-36  124.7   0.0     6   291    27   269    22   270 0.94 Aldo/keto reductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002707.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002707.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002707.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:56:17 2023
+# [ok]

@@ -1,0 +1,29 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_DMAT             PF11991.11   363 BGC0002128_ORF1:gid:SCO7467:pid:CAC36059.1:loc:264:1392:strand:+ -            375   2.2e-11   43.9   0.0   1   1   9.5e-13   1.9e-08   34.3   0.0    32   248    39   221    34   230 0.80 Tryptophan dimethylallyltransferase
+FMO-like             PF00743.22   532 BGC0002128_ORF2:gid:SCO7468:pid:CAD55403.1:loc:1494:2793:strand:- -            432   1.5e-80  271.3   0.0   1   1     9e-84     2e-80  270.9   0.0     3   438     2   426     1   431 0.93 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.9    305 BGC0002128_ORF2:gid:SCO7468:pid:CAD55403.1:loc:1494:2793:strand:- -            432   1.6e-18   67.2   0.0   1   1   1.2e-17   2.6e-14   53.3   0.0     2   195     5   208     4   218 0.75 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.17   295 BGC0002128_ORF2:gid:SCO7468:pid:CAD55403.1:loc:1494:2793:strand:- -            432     1e-11   44.8   0.0   1   1   4.7e-11     1e-07   31.6   0.0     2   175     2   208     1   229 0.64 Pyridine nucleotide-disulphide oxidoreductase
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002128_ORF2:gid:SCO7468:pid:CAD55403.1:loc:1494:2793:strand:- -            432   1.9e-09   37.2   0.1   1   1   4.9e-12   1.1e-08   34.8   0.0   101   218    91   205    76   253 0.76 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+NAD_binding_8        PF13450.9     68 BGC0002128_ORF2:gid:SCO7468:pid:CAD55403.1:loc:1494:2793:strand:- -            432   4.7e-07   30.1   2.9   1   1   2.2e-10   4.8e-07   30.0   0.3     1    35     5    39     5    65 0.92 NAD(P)-binding Rossmann-like domain
+AMP-binding_C_2      PF14535.9     96 BGC0002128_ORF3:gid:SCO7469:pid:CAC44647.1:loc:2904:4251:strand:- -            448   4.1e-27   94.5   0.1   1   1   8.1e-31     8e-27   93.5   0.1     1    96   353   446   353   446 0.97 AMP-binding enzyme C-terminal domain
+AMP-binding          PF00501.31   424 BGC0002128_ORF3:gid:SCO7469:pid:CAC44647.1:loc:2904:4251:strand:- -            448   7.5e-14   51.3   0.1   1   1   7.6e-18   7.5e-14   51.3   0.1   168   371   110   306    64   310 0.84 AMP-binding enzyme
+4HBT                 PF03061.25    79 BGC0002128_ORF4:gid:SCO7470:pid:CAC44648.1:loc:4247:4760:strand:- -            170   2.9e-09   37.2   1.0   1   1   2.3e-13   4.5e-09   36.7   1.0     3    78    55   127    53   128 0.95 Thioesterase superfamily
+PaaA_PaaC            PF05138.15   263 BGC0002128_ORF5:gid:SCO7471:pid:CAC44649.1:loc:4924:5911:strand:+ -            328  1.7e-101  338.9   0.1   1   1  9.4e-106  1.9e-101  338.8   0.1     4   263    32   306     1   306 0.97 Phenylacetic acid catabolic protein
+PaaB                 PF06243.14    89 BGC0002128_ORF6:gid:SCO7472:pid:CAC44650.1:loc:5907:6219:strand:+ -            103   2.6e-38  130.2   0.0   1   1   1.5e-42     3e-38  130.1   0.0     2    87    14    99    13   101 0.98 Phenylacetic acid degradation B
+PaaA_PaaC            PF05138.15   263 BGC0002128_ORF7:gid:SCO7473:pid:CAC44651.1:loc:6228:7056:strand:+ -            275   3.8e-74  249.3   0.4   1   1   3.7e-76   7.2e-72  241.8   0.4    13   263    41   275    31   275 0.96 Phenylacetic acid catabolic protein
+FeS_assembly_P       PF01883.22    75 BGC0002128_ORF8:gid:SCO7474:pid:CAC44652.1:loc:7052:7565:strand:+ -            170   9.9e-13   48.2   0.7   1   1   1.2e-16   2.3e-12   47.1   0.2     9    64    18    75    12    88 0.91 Iron-sulfur cluster assembly protein
+NAD_binding_1        PF00175.24   109 BGC0002128_ORF9:gid:SCO7475:pid:CAC44653.1:loc:7564:8671:strand:+ -            368     4e-19   69.4   0.0   1   1   9.3e-23   6.1e-19   68.8   0.0     1   108   130   239   130   240 0.96 Oxidoreductase NAD-binding domain
+Fer2                 PF00111.30    78 BGC0002128_ORF9:gid:SCO7475:pid:CAC44653.1:loc:7564:8671:strand:+ -            368   5.4e-13   48.8   0.1   1   1   1.6e-16   1.1e-12   47.9   0.1     2    77   284   357   283   358 0.84 2Fe-2S iron-sulfur cluster binding domain
+FAD_binding_6        PF00970.27    99 BGC0002128_ORF9:gid:SCO7475:pid:CAC44653.1:loc:7564:8671:strand:+ -            368   1.5e-10   41.4   0.0   1   1   4.5e-14     3e-10   40.4   0.0     2    97    23   118    22   119 0.92 Oxidoreductase FAD-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002128.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002128.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002128.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:00:13 2023
+# [ok]

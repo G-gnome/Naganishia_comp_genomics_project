@@ -1,0 +1,37 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Response_reg         PF00072.27   112 BGC0000903_ORF1:gid:flE:pid:CAJ20002.1:loc:126:795:strand:- -            222   2.1e-08   34.4   0.0   1   1   1.8e-12   3.6e-08   33.7   0.0     1    82   105   187   105   198 0.93 Response regulator receiver domain
+HAD_2                PF13419.9    178 BGC0000903_ORF2:gid:flD:pid:CAJ20003.1:loc:853:1504:strand:- -            216   3.5e-21   76.2   0.0   1   1   6.2e-25   4.1e-21   76.0   0.0     1   177     8   184     8   185 0.86 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 BGC0000903_ORF2:gid:flD:pid:CAJ20003.1:loc:853:1504:strand:- -            216   2.5e-11   44.4   0.1   1   1     2e-13   1.3e-09   38.8   0.1     3   209     7   178     5   179 0.73 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.9     75 BGC0000903_ORF2:gid:flD:pid:CAJ20003.1:loc:853:1504:strand:- -            216   1.7e-08   34.6   0.2   1   1   1.6e-11     1e-07   32.0   0.0     3    69   141   203   139   209 0.89 HAD-hyrolase-like
+MFS_1                PF07690.19   353 BGC0000903_ORF3:gid:flC:pid:CAJ20004.1:loc:1844:3038:strand:+ -            397   4.1e-21   75.4  47.5   1   1   4.1e-25   4.1e-21   75.4  47.5     2   349    17   354    16   357 0.82 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000903_ORF3:gid:flC:pid:CAJ20004.1:loc:1844:3038:strand:+ -            397   3.5e-07   29.6   3.0   1   1   3.5e-11   3.5e-07   29.6   3.0    36   133    36   131    19   152 0.87 Sugar (and other) transporter
+PNP_UDP_1            PF01048.23   234 BGC0000903_ORF4:gid:flB:pid:CAJ20005.1:loc:3052:3952:strand:- -            299   7.2e-46  156.5   0.1   1   1   4.7e-50   9.3e-46  156.1   0.1     1   225    14   246    14   254 0.91 Phosphorylase superfamily
+SAM_HAT_N            PF01887.19   147 BGC0000903_ORF5:gid:flA:pid:CAJ20006.1:loc:4171:5071:strand:+ -            299   1.9e-27   96.0   0.0   1   2   2.2e-21   2.2e-17   63.4   0.1     1    83    11    93    11    97 0.97 SAM hydroxide adenosyltransferase N-terminal domain
+SAM_HAT_N            PF01887.19   147 BGC0000903_ORF5:gid:flA:pid:CAJ20006.1:loc:4171:5071:strand:+ -            299   1.9e-27   96.0   0.0   2   2   2.9e-11   2.9e-07   30.5   0.0    81   147   113   179   108   179 0.88 SAM hydroxide adenosyltransferase N-terminal domain
+SAM_HAT_C            PF20257.1     85 BGC0000903_ORF5:gid:flA:pid:CAJ20006.1:loc:4171:5071:strand:+ -            299   1.1e-12   48.4   0.0   1   1   2.5e-16   2.5e-12   47.3   0.0     3    82   206   292   204   295 0.86 SAM hydroxide adenosyltransferase C-terminal domain
+HTH_3                PF01381.25    55 BGC0000903_ORF6:gid:flF:pid:CAJ20007.1:loc:5195:5753:strand:+ -            185   9.1e-14   51.4   0.1   1   1   2.8e-17   1.4e-13   50.8   0.1     1    55    15    69    15    69 0.96 Helix-turn-helix
+HTH_31               PF13560.9     64 BGC0000903_ORF6:gid:flF:pid:CAJ20007.1:loc:5195:5753:strand:+ -            185   2.1e-13   50.5   1.7   1   1   4.2e-17   2.1e-13   50.5   1.7     3    59    12    67    10    72 0.93 Helix-turn-helix domain
+HTH_26               PF13443.9     63 BGC0000903_ORF6:gid:flF:pid:CAJ20007.1:loc:5195:5753:strand:+ -            185   8.1e-09   35.9   0.0   1   1   2.9e-12   1.4e-08   35.1   0.0     5    60    18    72    14    75 0.91 Cro/C1-type HTH DNA-binding domain
+Cupin_2              PF07883.14    71 BGC0000903_ORF6:gid:flF:pid:CAJ20007.1:loc:5195:5753:strand:+ -            185     2e-07   30.7   0.1   1   1   7.4e-11   3.6e-07   29.9   0.1    11    70   120   178   113   180 0.83 Cupin domain
+GerE                 PF00196.22    57 BGC0000903_ORF7:gid:flG:pid:CAJ20008.1:loc:5946:6651:strand:- -            234   1.8e-16   59.6   0.4   1   1   3.3e-20   3.2e-16   58.8   0.4     2    57   161   216   160   216 0.97 Bacterial regulatory proteins, luxR family
+Response_reg         PF00072.27   112 BGC0000903_ORF7:gid:flG:pid:CAJ20008.1:loc:5946:6651:strand:- -            234   1.4e-08   35.0   0.0   1   1   2.3e-12   2.3e-08   34.3   0.0     2   111    22   132    21   133 0.97 Response regulator receiver domain
+Na_H_Exchanger       PF00999.24   381 BGC0000903_ORF8:gid:flH:pid:CAJ20009.1:loc:6647:8051:strand:- -            467   2.1e-36  125.7  34.9   1   1   1.3e-40   2.5e-36  125.4  34.9     4   380    15   436    11   437 0.83 Sodium/hydrogen exchanger family
+AdoHcyase            PF05221.20   299 BGC0000903_ORF9:gid:flI:pid:CAJ20010.1:loc:8316:9786:strand:+ -            489  7.2e-145  481.8   0.0   1   1  1.7e-148  8.2e-145  481.7   0.0     1   299    16   488    16   488 0.97 S-adenosyl-L-homocysteine hydrolase
+AdoHcyase_NAD        PF00670.24   162 BGC0000903_ORF9:gid:flI:pid:CAJ20010.1:loc:8316:9786:strand:+ -            489     9e-79  263.4   0.6   1   1   2.5e-82   1.2e-78  262.9   0.6     1   162   247   409   247   409 0.99 S-adenosyl-L-homocysteine hydrolase, NAD binding domain
+2-Hacid_dh_C         PF02826.22   178 BGC0000903_ORF9:gid:flI:pid:CAJ20010.1:loc:8316:9786:strand:+ -            489   2.2e-07   30.5   0.1   1   1   7.4e-11   3.6e-07   29.8   0.1    34   127   267   356   248   359 0.92 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+IlvN                 PF07991.15   165 BGC0000903_ORF9:gid:flI:pid:CAJ20010.1:loc:8316:9786:strand:+ -            489   2.3e-05   24.1   0.2   1   1   7.6e-09   3.7e-05   23.5   0.2     4    68   269   332   265   353 0.84 Acetohydroxy acid isomeroreductase, NADPH-binding domain
+DUF190               PF02641.18    97 BGC0000903_ORF10:gid:flJ:pid:CAJ20011.1:loc:9801:10197:strand:+ -            131   4.5e-25   87.9   0.0   1   1   2.6e-29   5.2e-25   87.7   0.0     2    96    14   108    13   109 0.98 Uncharacterized ACR, COG1993
+GerE                 PF00196.22    57 BGC0000903_ORF12:gid:flL:pid:CAJ20013.1:loc:10695:11373:strand:- -            225   2.1e-18   65.8   0.0   1   1   3.8e-22   3.7e-18   65.0   0.0     3    57   157   211   155   211 0.97 Bacterial regulatory proteins, luxR family
+Response_reg         PF00072.27   112 BGC0000903_ORF12:gid:flL:pid:CAJ20013.1:loc:10695:11373:strand:- -            225   8.1e-14   51.9   0.0   1   1   1.1e-17   1.1e-13   51.5   0.0     1   110     5   117     5   119 0.92 Response regulator receiver domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000903.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000903.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000903.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:20:29 2023
+# [ok]

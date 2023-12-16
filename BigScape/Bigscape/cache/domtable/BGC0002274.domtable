@@ -1,0 +1,16 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002274_ORF1:gid::pid:EAU36966.1:loc:0:2779:strand:- -            915   4.9e-55  187.0   0.0   1   1   1.1e-58   6.9e-55  186.5   0.0     5   423    15   436    10   437 0.78 AMP-binding enzyme
+Thioesterase         PF00975.23   230 BGC0002274_ORF1:gid::pid:EAU36966.1:loc:0:2779:strand:- -            915   3.6e-27   96.1   0.0   1   1   1.4e-30   9.4e-27   94.8   0.0     2   219   653   899   652   910 0.74 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002274_ORF1:gid::pid:EAU36966.1:loc:0:2779:strand:- -            915   6.7e-10   39.3   0.3   1   1   2.8e-13   1.9e-09   37.8   0.3     2    66   572   639   571   640 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002274.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002274.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002274.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:59:00 2023
+# [ok]

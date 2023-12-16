@@ -1,0 +1,21 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.29   170 BGC0001862_ORF2:gid:palS:pid:WP_066251544.1:loc:658:1957:strand:+ -            432   7.2e-17   61.8   0.7   1   1   1.9e-20   1.9e-16   60.5   0.5     4    95    65   149    62   197 0.94 Glycosyl transferase family 2
+Glyco_tranf_2_4      PF13704.9     96 BGC0001862_ORF2:gid:palS:pid:WP_066251544.1:loc:658:1957:strand:+ -            432   6.4e-09   36.4   0.7   1   1   6.6e-13   6.4e-09   36.4   0.7     1    89    68   151    68   161 0.81 Glycosyl transferase family 2
+ABC_membrane         PF00664.26   274 BGC0001862_ORF3:gid:palT:pid:WP_082829620.1:loc:1988:4136:strand:+ -            715   4.9e-42  144.6  25.4   1   1   1.5e-45   4.9e-42  144.6  25.4     3   273   181   448   179   449 0.99 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 BGC0001862_ORF3:gid:palT:pid:WP_082829620.1:loc:1988:4136:strand:+ -            715   4.6e-30  104.3   0.1   1   1   2.7e-33   8.7e-30  103.4   0.1     2   132    13   148    12   149 0.94 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0001862_ORF3:gid:palT:pid:WP_082829620.1:loc:1988:4136:strand:+ -            715   1.3e-28  100.4   0.0   1   1   7.7e-32   2.5e-28   99.4   0.0     2   135   511   656   510   658 0.91 ABC transporter
+Peptidase_C39_2      PF13529.9    144 BGC0001862_ORF3:gid:palT:pid:WP_082829620.1:loc:1988:4136:strand:+ -            715   6.1e-07   30.2   0.3   1   1   2.8e-09   9.3e-06   26.4   0.0     4   143    14   120    11   121 0.84 Peptidase_C39 like family
+Thioredoxin          PF00085.23   103 BGC0001862_ORF4:gid::pid:WP_066251542.1:loc:4132:4540:strand:+ -            135   1.1e-08   35.1   0.6   1   1   6.6e-13   1.3e-08   34.9   0.6     3   101    33   133    31   135 0.82 Thioredoxin
+DsbB                 PF02600.19   148 BGC0001862_ORF5:gid::pid:WP_066251547.1:loc:4735:5173:strand:+ -            145     1e-13   52.0   5.5   1   1   2.1e-17   4.2e-13   50.1   5.5     4   146     6   127     3   129 0.87 Disulfide bond formation protein DsbB
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001862.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001862.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001862.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:41:28 2023
+# [ok]

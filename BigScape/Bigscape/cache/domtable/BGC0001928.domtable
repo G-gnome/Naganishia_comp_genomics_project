@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0001928_ORF1:gid:orf1:pid:CEG06576.1:loc:108:1362:strand:- -            417   4.4e-25   88.5  56.8   1   1   1.8e-24   1.7e-20   73.4  33.2     2   289    29   307    28   308 0.75 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001928_ORF1:gid:orf1:pid:CEG06576.1:loc:108:1362:strand:- -            417   7.5e-07   28.5   6.1   1   1   7.7e-11   7.5e-07   28.5   6.1    44   194    56   203    23   206 0.86 Sugar (and other) transporter
+GerE                 PF00196.22    57 BGC0001928_ORF2:gid:fdrE:pid:CEG06577.1:loc:1550:2189:strand:+ -            212   1.1e-19   69.9   0.3   1   1   1.9e-23   1.9e-19   69.1   0.3     2    56   141   195   140   196 0.96 Bacterial regulatory proteins, luxR family
+Response_reg         PF00072.27   112 BGC0001928_ORF2:gid:fdrE:pid:CEG06577.1:loc:1550:2189:strand:+ -            212   1.3e-09   38.4   0.0   1   1   1.9e-13   1.9e-09   37.8   0.0     8   112     8   114     2   114 0.90 Response regulator receiver domain
+Cyclase              PF04199.16   135 BGC0001928_ORF3:gid:fdrD:pid:CEG06578.1:loc:2181:3039:strand:+ -            285   1.7e-31  109.4   0.1   1   1     1e-35     2e-31  109.2   0.1     1   133    23   221    23   223 0.84 Putative cyclase
+adh_short_C2         PF13561.9    234 BGC0001928_ORF4:gid:fdrC:pid:CEG06579.1:loc:3090:3876:strand:- -            261   2.7e-70  236.7   2.2   1   1   4.7e-74   3.1e-70  236.5   2.2     1   233    21   258    21   259 0.96 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001928_ORF4:gid:fdrC:pid:CEG06579.1:loc:3090:3876:strand:- -            261   4.6e-49  166.7   0.1   1   1   8.5e-53   5.6e-49  166.4   0.1     1   191    15   205    15   209 0.98 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001928_ORF4:gid:fdrC:pid:CEG06579.1:loc:3090:3876:strand:- -            261   1.2e-14   54.8   1.2   1   1   2.7e-18   1.8e-14   54.2   1.2     4   163    18   177    16   197 0.85 KR domain
+ILVD_EDD             PF00920.24   516 BGC0001928_ORF5:gid:fdrB:pid:CEG06580.1:loc:3872:5579:strand:- -            568  8.9e-181  602.1   0.9   1   1  5.1e-185    1e-180  602.0   0.9     1   516    37   554    37   554 0.98 Dehydratase family
+YmdB                 PF13277.9    253 BGC0001928_ORF6:gid:fdrA:pid:CEG06581.1:loc:5824:6625:strand:+ -            266   1.7e-59  201.3   0.0   1   1     1e-63     2e-59  201.1   0.0     1   240     4   248     4   259 0.88 YmdB-like protein
+Aldolase_II          PF00596.24   186 BGC0001928_ORF7:gid:fdrF:pid:CEG06582.1:loc:6642:7446:strand:+ -            267   3.6e-43  147.7   0.2   1   1   2.3e-47   4.6e-43  147.4   0.2     2   186    39   218    38   218 0.92 Class II Aldolase and Adducin N-terminal domain
+ABC_tran             PF00005.30   137 BGC0001928_ORF8:gid:fdrG:pid:CEG06583.1:loc:7475:8402:strand:- -            308   1.2e-26   94.0   0.0   1   1   1.6e-30   1.6e-26   93.6   0.0     1   137    59   213    59   213 0.82 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001928.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001928.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001928.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:52:27 2023
+# [ok]

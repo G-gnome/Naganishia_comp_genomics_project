@@ -1,0 +1,33 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 BGC0001002_ORF1:gid:jaw1:pid:BAO98802.1:loc:1:1258:strand:- -            418   1.8e-30  106.0   0.4   1   1   7.9e-34   3.1e-30  105.2   0.4     2   181    17   202    16   213 0.94 short chain dehydrogenase
+F420H2_quin_red      PF04075.17   130 BGC0001002_ORF1:gid:jaw1:pid:BAO98802.1:loc:1:1258:strand:- -            418   7.9e-24   84.4   0.0   1   1   3.9e-27   1.5e-23   83.4   0.0    10   126   296   413   289   417 0.89 F420H(2)-dependent quinone reductase
+adh_short_C2         PF13561.9    234 BGC0001002_ORF1:gid:jaw1:pid:BAO98802.1:loc:1:1258:strand:- -            418   5.8e-21   75.3   2.6   1   1   2.8e-24   1.1e-20   74.3   2.6     4   163    25   190    22   205 0.86 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0001002_ORF1:gid:jaw1:pid:BAO98802.1:loc:1:1258:strand:- -            418   1.5e-11   44.7   0.4   1   1   7.2e-15   2.8e-11   43.8   0.4     3   111    18   125    17   136 0.90 KR domain
+Epimerase            PF01370.24   241 BGC0001002_ORF1:gid:jaw1:pid:BAO98802.1:loc:1:1258:strand:- -            418   2.4e-06   27.3   0.5   1   1   1.1e-09   4.2e-06   26.5   0.1     2    76    19   106    18   125 0.80 NAD dependent epimerase/dehydratase family
+HTH_18               PF12833.10    81 BGC0001002_ORF3:gid:jaw3:pid:BAO98804.1:loc:2653:3619:strand:+ -            321   2.4e-18   66.3   0.9   1   1   6.1e-22   5.9e-18   65.0   0.0     2    80   233   312   232   313 0.92 Helix-turn-helix domain
+ketoacyl-synt        PF00109.29   253 BGC0001002_ORF4:gid:jaw4:pid:BAO98805.1:loc:3704:7895:strand:+ -           1396     3e-83  279.4   0.8   1   1   3.1e-86     1e-82  277.7   0.2     2   252    36   285    35   286 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001002_ORF4:gid:jaw4:pid:BAO98805.1:loc:3704:7895:strand:+ -           1396     2e-66  224.8   0.3   1   1   9.2e-70     3e-66  224.2   0.3     2   317   568   887   567   888 0.91 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0001002_ORF4:gid:jaw4:pid:BAO98805.1:loc:3704:7895:strand:+ -           1396   2.9e-42  145.1   3.5   1   1     2e-45   6.4e-42  143.9   3.5    11   291   970  1255   962  1260 0.83 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0001002_ORF4:gid:jaw4:pid:BAO98805.1:loc:3704:7895:strand:+ -           1396   6.8e-39  132.7   1.6   1   1   4.3e-42   1.4e-38  131.7   0.5     1   118   294   411   294   412 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001002_ORF4:gid:jaw4:pid:BAO98805.1:loc:3704:7895:strand:+ -           1396   2.1e-17   63.7   0.0   1   1   1.7e-20   5.7e-17   62.3   0.0     2   108   415   528   415   531 0.90 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0001002_ORF4:gid:jaw4:pid:BAO98805.1:loc:3704:7895:strand:+ -           1396     8e-10   39.0   0.4   1   1   5.9e-13   1.9e-09   37.8   0.4     2    67  1301  1373  1300  1373 0.83 Phosphopantetheine attachment site
+Radical_SAM          PF04055.24   167 BGC0001002_ORF5:gid:jaw5:pid:BAO98806.1:loc:7953:9390:strand:+ -            478     3e-13   50.6   0.1   1   1   7.5e-17   1.5e-12   48.4   0.0     8   165    73   237    66   239 0.86 Radical SAM superfamily
+adh_short_C2         PF13561.9    234 BGC0001002_ORF6:gid:jaw6:pid:BAO98807.1:loc:9382:10147:strand:+ -            254   2.3e-58  197.7   0.9   1   1   4.3e-62   2.8e-58  197.4   0.9     3   233    18   252    16   253 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001002_ORF6:gid:jaw6:pid:BAO98807.1:loc:9382:10147:strand:+ -            254   1.1e-54  185.0   0.2   1   1     2e-58   1.3e-54  184.7   0.2     3   193    12   206    10   208 0.98 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001002_ORF6:gid:jaw6:pid:BAO98807.1:loc:9382:10147:strand:+ -            254   3.6e-12   46.7   0.1   1   1   7.7e-16     5e-12   46.2   0.1     4   168    13   185    11   196 0.84 KR domain
+TauD                 PF02668.19   268 BGC0001002_ORF7:gid:jaw7:pid:BAO98808.1:loc:10160:10991:strand:+ -            276   2.7e-20   73.4   1.0   1   1   1.4e-23   2.7e-19   70.1   1.0    31   266    29   265    11   267 0.77 Taurine catabolism dioxygenase TauD, TfdA family
+Aminotran_3          PF00202.24   403 BGC0001002_ORF8:gid:jaw8:pid:BAO98809.1:loc:11066:12386:strand:+ -            439   1.1e-70  238.6   0.0   1   1   6.5e-75   1.3e-70  238.3   0.0    14   402    33   426    23   427 0.91 Aminotransferase class-III
+NAD_binding_10       PF13460.9    184 BGC0001002_ORF9:gid:jaw9:pid:BAO98810.1:loc:12532:13261:strand:+ -            242   2.8e-13   50.3   1.6   1   1   1.8e-16   1.8e-12   47.7   1.6     1   181     7   172     7   174 0.81 NAD(P)H-binding
+NmrA                 PF05368.16   233 BGC0001002_ORF9:gid:jaw9:pid:BAO98810.1:loc:12532:13261:strand:+ -            242   4.9e-10   39.4   1.3   1   1   2.9e-12   2.9e-08   33.6   1.3     2   194     4   172     3   186 0.78 NmrA-like family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001002.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001002.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001002.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:20:35 2023
+# [ok]

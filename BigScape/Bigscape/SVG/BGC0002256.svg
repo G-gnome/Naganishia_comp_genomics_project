@@ -1,0 +1,120 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="816.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="806.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>fscA
+NRPS-like oxidoreductase</title>
+			<polygon class="fscA
+NRPS-like oxidoreductase" points="127,25 55,25 55,10 25,40 55,70 55,55 127,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="36,33 41,28 58,28 58,52 41,52 36,47" stroke-linejoin="round" width="22" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="84" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fscB
+putative TF</title>
+			<polygon class="fscB
+putative TF" points="158,25 179,25 179,10 209,40 179,70 179,55 158,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>fscC
+NRPS-like tryptophan epimerase</title>
+			<polygon class="fscC
+NRPS-like tryptophan epimerase" points="231,25 346,25 346,10 376,40 346,70 346,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="232" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="294" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="338,28 360,28 372,40 360,52 338,52" stroke-linejoin="round" width="35" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fscD
+tryptophan 2,3-dioxygenase</title>
+			<polygon class="fscD
+tryptophan 2,3-dioxygenase" points="392,25 406,25 406,10 436,40 406,70 406,55 392,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IDO (PF01231)
+"Indoleamine 2,3-dioxygenase"</title>
+				<polygon class="PF01231" points="392,28 420,28 431,39 431,41 420,52 392,52" stroke-linejoin="round" width="39" height="24" fill="rgb(188,79,75)" stroke="rgb(150,63,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fscE
+putative tryptophan 6-hydroxylase</title>
+			<polygon class="fscE
+putative tryptophan 6-hydroxylase" points="442,25 467,25 467,10 497,40 467,70 467,55 442,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="446,28 481,28 491,38 491,42 481,52 446,52" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fscF
+FscF</title>
+			<polygon class="fscF
+FscF" points="513,25 541,25 541,10 571,40 541,70 541,55 513,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="517,28 555,28 563,36 563,44 555,52 517,52" stroke-linejoin="round" width="46" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fscG
+DMATS-type prenyltransferase</title>
+			<polygon class="fscG
+DMATS-type prenyltransferase" points="619,25 606,25 606,10 576,40 606,70 606,55 619,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="580,40 592,28 616,28 616,52 592,52 580,40" stroke-linejoin="round" width="36" height="24" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fscH
+kynurenine formamidase-like hydrolase</title>
+			<polygon class="fscH
+kynurenine formamidase-like hydrolase" points="628,25 629,25 629,10 659,40 629,70 629,55 628,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>fscI
+oxidoreductase</title>
+			<polygon class="fscI
+oxidoreductase" points="671,40 698,10 698,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="681,34 686,28 696,28 696,52 686,52 681,46" stroke-linejoin="round" width="15" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fscJ
+putative aromatic peroxidase</title>
+			<polygon class="fscJ
+putative aromatic peroxidase" points="790,25 773,25 773,10 743,40 773,70 773,55 790,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peroxidase_2 (PF01328)
+"Peroxidase, family 2"</title>
+				<polygon class="PF01328" points="759,28 759,28 782,28 782,52 759,52 759,52" stroke-linejoin="round" width="23" height="24" fill="rgb(200,64,64)" stroke="rgb(160,51,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

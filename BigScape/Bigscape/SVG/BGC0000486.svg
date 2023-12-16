@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="167.63333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="157.63333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bviB
+ATP binding protein BviB</title>
+			<polygon class="bviB
+ATP binding protein BviB" points="62,10 90,40 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="64,28 74,28 77,31 77,49 74,52 64,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bviC
+BviB</title>
+			<polygon class="bviC
+BviB" points="90,10 111,40 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_5 (PF13346)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF13346" points="90,28 99,28 107,40 99,52 90,52" stroke-linejoin="round" width="20" height="24" fill="rgb(176,207,85)" stroke="rgb(140,165,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bviD
+BviC</title>
+			<polygon class="bviD
+BviC" points="113,10 118,40 113,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>bviA
+butyrivibriocin AR10</title>
+			<polygon class="bviA
+butyrivibriocin AR10" points="120,10 128,40 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BacteriocIIc_cy (PF12173)
+"Bacteriocin class IIc cyclic gassericin A-like"</title>
+				<polygon class="PF12173" points="120,28 121,28 124,40 121,52 120,52" stroke-linejoin="round" width="7" height="24" fill="rgb(121,181,84)" stroke="rgb(96,144,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bviE
+BviE</title>
+			<polygon class="bviE
+BviE" points="131,10 147,40 131,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIM (PF01944)
+"Stage II sporulation protein M"</title>
+				<polygon class="PF01944" points="132,28 137,28 144,40 137,52 132,52" stroke-linejoin="round" width="14" height="24" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

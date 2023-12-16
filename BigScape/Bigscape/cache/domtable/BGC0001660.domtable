@@ -1,0 +1,25 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BTAD                 PF03704.20   146 BGC0001660_ORF1:gid::pid:ARW80048.1:loc:0:765:strand:+ -            254   4.8e-35  121.2   4.3   1   1   6.8e-39   6.6e-35  120.8   4.3     1   146   104   249   104   249 0.99 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0001660_ORF1:gid::pid:ARW80048.1:loc:0:765:strand:+ -            254   9.9e-08   32.1   0.0   1   1   2.4e-11   2.3e-07   30.9   0.0     8    76    27    96    22    97 0.91 Transcriptional regulatory protein, C terminal
+DUF5950              PF19375.2    103 BGC0001660_ORF2:gid::pid:ARW80049.1:loc:1018:1384:strand:+ -            121   6.2e-48  161.4   1.6   1   1   3.6e-52   7.2e-48  161.2   1.6     1   102    15   116    15   117 0.99 Family of unknown function (DUF5950)
+DUF5973              PF19398.2     81 BGC0001660_ORF3:gid::pid:ARW80050.1:loc:1419:1659:strand:+ -             79   1.9e-33  114.8   0.5   1   1   1.1e-37   2.1e-33  114.7   0.5     1    81     1    79     1    79 0.98 Family of unknown function (DUF5973)
+DUF4135              PF13575.9    377 BGC0001660_ORF4:gid::pid:ARW80051.1:loc:1784:4994:strand:+ -           1069   4.6e-75  253.3   0.0   1   1   6.3e-79   6.2e-75  252.9   0.0     1   376   234   608   234   609 0.87 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0001660_ORF4:gid::pid:ARW80051.1:loc:1784:4994:strand:+ -           1069   3.6e-61  206.8   0.0   1   1   4.6e-65   4.5e-61  206.5   0.0     3   352   711  1058   709  1058 0.93 Lanthionine synthetase C-like protein
+Nif11                PF07862.14    48 BGC0001660_ORF5:gid::pid:ARW80052.1:loc:5002:5905:strand:+ -            300   1.1e-06   29.0   0.0   1   1   1.3e-10   2.5e-06   27.8   0.0     1    44     1    44     1    48 0.95 Nif11 domain
+ABC_tran             PF00005.30   137 BGC0001660_ORF6:gid::pid:ARW80053.1:loc:5965:7012:strand:+ -            348   1.4e-30  106.7   0.0   1   1   1.9e-34   1.9e-30  106.3   0.0     3   136    47   188    45   189 0.96 ABC transporter
+AAA_21               PF13304.9    304 BGC0001660_ORF6:gid::pid:ARW80053.1:loc:5965:7012:strand:+ -            348   8.5e-11   42.3   0.8   1   1   3.2e-12   3.1e-08   33.9   0.1   228   298   151   219   145   221 0.95 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.27   210 BGC0001660_ORF7:gid::pid:ARW80054.1:loc:7008:7887:strand:+ -            292   5.1e-34  117.7  13.7   1   1     1e-37   6.6e-34  117.3  13.7     4   208    31   242    28   244 0.90 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0001660_ORF7:gid::pid:ARW80054.1:loc:7008:7887:strand:+ -            292   2.3e-20   73.2   5.6   1   1   3.5e-24   2.3e-20   73.2   5.6   159   345    82   285    66   286 0.88 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.10   288 BGC0001660_ORF7:gid::pid:ARW80054.1:loc:7008:7887:strand:+ -            292   1.8e-10   40.7  14.4   1   1   1.2e-13   7.6e-10   38.6  14.4    91   287   101   292    31   292 0.81 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001660.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001660.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001660.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:49:52 2023
+# [ok]

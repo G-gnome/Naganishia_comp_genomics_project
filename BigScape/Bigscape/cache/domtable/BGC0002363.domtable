@@ -1,0 +1,31 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ribosom_S12_S23      PF00164.28   114 BGC0002363_ORF1:gid::pid:QVN25642.1:loc:0:372:strand:+ -            123   7.9e-44  148.0   1.6   1   1   4.7e-48   9.1e-44  147.8   1.6     1   114    12   123    12   123 0.97 Ribosomal protein S12/S23
+Ribosomal_S7         PF00177.24   149 BGC0002363_ORF2:gid::pid:QVN25643.1:loc:374:845:strand:+ -            156   5.6e-59  198.2   0.1   1   1   3.2e-63   6.2e-59  198.1   0.1     1   149     1   149     1   149 0.99 Ribosomal protein S7p/S5e
+GTP_EFTU             PF00009.30   195 BGC0002363_ORF3:gid::pid:QVN25644.1:loc:883:3013:strand:+ -            709   2.5e-66  223.1   0.1   1   1   9.4e-70   3.7e-66  222.5   0.1     2   195    10   294     9   294 0.93 Elongation factor Tu GTP binding domain
+EFG_IV               PF03764.21   121 BGC0002363_ORF3:gid::pid:QVN25644.1:loc:883:3013:strand:+ -            709   1.3e-47  160.7   0.4   1   1   6.9e-51   2.7e-47  159.6   0.4     1   121   492   613   492   613 0.99 Elongation factor G, domain IV
+EFG_III              PF14492.9     75 BGC0002363_ORF3:gid::pid:QVN25644.1:loc:883:3013:strand:+ -            709   1.2e-33  115.1   0.1   1   1     7e-37   2.7e-33  113.9   0.1     1    75   417   491   417   491 0.99 Elongation Factor G, domain III
+EFG_C                PF00679.27    89 BGC0002363_ORF3:gid::pid:QVN25644.1:loc:883:3013:strand:+ -            709   1.6e-29  101.9   0.1   1   1   1.2e-32   4.6e-29  100.4   0.1     1    88   615   701   615   702 0.97 Elongation factor G C-terminus
+GTP_EFTU_D2          PF03144.28    74 BGC0002363_ORF3:gid::pid:QVN25644.1:loc:883:3013:strand:+ -            709   4.6e-16   59.1   0.9   1   1   3.8e-19   1.5e-15   57.4   0.9     1    74   337   404   337   404 0.98 Elongation factor Tu domain 2
+GTP_EFTU             PF00009.30   195 BGC0002363_ORF4:gid::pid:QVN25645.1:loc:3160:4354:strand:+ -            397   5.6e-57  192.6   0.1   1   1   1.6e-60   7.8e-57  192.1   0.1     1   194    10   203    10   204 0.94 Elongation factor Tu GTP binding domain
+GTP_EFTU_D3          PF03143.20   108 BGC0002363_ORF4:gid::pid:QVN25645.1:loc:3160:4354:strand:+ -            397   6.7e-39  132.6   0.1   1   1   3.1e-42   1.5e-38  131.5   0.1     1   107   301   395   301   396 0.98 Elongation factor Tu C-terminal domain
+GTP_EFTU_D2          PF03144.28    74 BGC0002363_ORF4:gid::pid:QVN25645.1:loc:3160:4354:strand:+ -            397   1.2e-17   64.2   7.2   1   1   6.3e-21   3.1e-17   62.8   7.2     1    73   227   296   227   297 0.95 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.26   114 BGC0002363_ORF4:gid::pid:QVN25645.1:loc:3160:4354:strand:+ -            397   1.1e-05   25.6   0.2   1   1   9.9e-09   4.8e-05   23.5   0.0     2   113    15   138    14   139 0.77 50S ribosome-binding GTPase
+YcaO                 PF02624.19   322 BGC0002363_ORF8:gid::pid:QVN25649.1:loc:7532:8879:strand:- -            448   1.6e-60  205.3   1.8   1   1     1e-64     2e-60  205.0   1.8     2   321    75   406    74   407 0.82 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_N        PF04738.16   650 BGC0002363_ORF11:gid::pid:QVN25652.1:loc:10665:13323:strand:+ -            885     4e-23   81.4   0.1   1   1   3.2e-27   6.3e-23   80.8   0.1     2   630   141   791   140   796 0.80 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0002363_ORF12:gid::pid:QVN25653.1:loc:13300:14260:strand:+ -            319   2.4e-40  139.2   0.0   1   1   1.4e-44   2.8e-40  139.0   0.0     1   285    16   312    16   315 0.84 Lantibiotic biosynthesis dehydratase C-term
+p450                 PF00067.25   463 BGC0002363_ORF13:gid::pid:QVN25654.1:loc:14380:15583:strand:- -            400   1.2e-27   97.0   0.0   1   1   4.6e-22     9e-18   64.4   0.0   325   430   272   367   269   371 0.93 Cytochrome P450
+TSNR_N               PF04705.15   111 BGC0002363_ORF15:gid::pid:QVN25656.1:loc:16704:17415:strand:+ -            236   6.2e-30  103.7   0.1   1   1   1.3e-33   1.3e-29  102.6   0.1    29   110     1    82     1    83 0.98 Thiostrepton-resistance methylase, N terminus
+SpoU_methylase       PF00588.22   142 BGC0002363_ORF15:gid::pid:QVN25656.1:loc:16704:17415:strand:+ -            236   8.6e-28   97.4   0.0   1   1   1.3e-31   1.3e-27   96.8   0.0     4   142    88   227    86   227 0.94 SpoU rRNA Methylase family
+PIG-L                PF02585.20   130 BGC0002363_ORF16:gid::pid:QVN25657.1:loc:17509:19588:strand:- -            692   3.8e-24   85.9   0.0   1   1   5.8e-28   1.1e-23   84.3   0.0     1   130    59   273    59   273 0.87 GlcNAc-PI de-N-acetylase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002363.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002363.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002363.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:08:32 2023
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Gallidermin          PF02052.18    52 BGC0001618_ORF1:gid:hyiA:pid:ARD24445.1:loc:70:214:strand:+ -             47     2e-22   79.4   1.3   1   1   1.1e-26   2.1e-22   79.3   1.3     8    52     2    47     1    47 0.94 Gallidermin
+Lant_dehydr_N        PF04738.16   650 BGC0001618_ORF2:gid:hyiB:pid:ARD24446.1:loc:270:3264:strand:+ -            997  1.8e-134  449.3   0.0   1   1  2.2e-138  2.2e-134  449.1   0.0     2   650    40   674    39   674 0.95 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0001618_ORF2:gid:hyiB:pid:ARD24446.1:loc:270:3264:strand:+ -            997   1.6e-20   74.2   0.1   1   1   4.2e-23   4.1e-19   69.5   0.1     1   281   733   979   733   986 0.77 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.16   352 BGC0001618_ORF3:gid:hyiC:pid:ARD24447.1:loc:3256:4501:strand:+ -            414   9.8e-76  254.7  10.6   1   1   5.7e-80   1.1e-75  254.5  10.6     2   352    32   412    31   412 0.94 Lanthionine synthetase C-like protein
+Flavoprotein         PF02441.22   157 BGC0001618_ORF4:gid:hyiD:pid:ARD24448.1:loc:4517:5048:strand:+ -            176   9.2e-32  110.1   0.1   1   1   5.8e-36   1.1e-31  109.8   0.1     2   155     4   174     3   175 0.85 Flavoprotein
+Peptidase_S8         PF00082.25   284 BGC0001618_ORF5:gid:hyiP:pid:ARD24449.1:loc:5077:6430:strand:+ -            450   1.2e-49  169.2  10.4   1   1     6e-54   1.2e-49  169.2  10.4     3   253   124   403   122   434 0.87 Subtilase family
+ABC_tran             PF00005.30   137 BGC0001618_ORF6:gid:hyiF:pid:ARD24450.1:loc:6452:7142:strand:+ -            229     8e-29  101.0   0.1   1   1   1.3e-32   1.3e-28  100.3   0.1     1   137    19   156    19   156 0.91 ABC transporter
+AAA_21               PF13304.9    304 BGC0001618_ORF6:gid:hyiF:pid:ARD24450.1:loc:6452:7142:strand:+ -            229   2.4e-14   54.0   0.9   1   1   2.8e-13   2.8e-09   37.3   0.0   237   298   127   185   116   191 0.93 AAA domain, putative AbiEii toxin, Type IV TA system
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001618.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001618.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001618.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:15:19 2023
+# [ok]

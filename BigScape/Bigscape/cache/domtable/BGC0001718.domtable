@@ -1,0 +1,23 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001718_ORF1:gid::pid:XP_020057667.1:loc:0:6139:strand:- -           1997   3.5e-73  246.7   0.0   1   1     8e-77   5.2e-73  246.2   0.0     5   424   231   621   227   621 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001718_ORF1:gid::pid:XP_020057667.1:loc:0:6139:strand:- -           1997   1.5e-51  175.7   0.0   1   2     4e-29   2.6e-25   89.2   0.0     2   444   883  1290   882  1293 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0001718_ORF1:gid::pid:XP_020057667.1:loc:0:6139:strand:- -           1997   1.5e-51  175.7   0.0   2   2   7.3e-27   4.8e-23   81.7   0.0    37   434  1590  1987  1578  1994 0.78 Condensation domain
+PP-binding           PF00550.28    67 BGC0001718_ORF1:gid::pid:XP_020057667.1:loc:0:6139:strand:- -           1997   1.9e-20   73.0   3.9   1   2   3.2e-12   2.1e-08   34.5   0.4     3    65   771   833   769   835 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001718_ORF1:gid::pid:XP_020057667.1:loc:0:6139:strand:- -           1997   1.9e-20   73.0   3.9   2   2   1.3e-13   8.6e-10   38.9   0.2     2    64  1447  1508  1446  1511 0.97 Phosphopantetheine attachment site
+FAD_binding_3        PF01494.22   349 BGC0001718_ORF2:gid::pid:XP_020057668.1:loc:6861:8354:strand:+ -            450   3.5e-13   49.6   2.9   1   1   2.6e-13   1.3e-09   37.9   0.3   111   321   123   348   110   374 0.69 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0001718_ORF2:gid::pid:XP_020057668.1:loc:6861:8354:strand:+ -            450   1.4e-05   24.5   0.1   1   1   5.4e-09   2.6e-05   23.6   0.1     2    33    16    47    15    51 0.94 FAD binding domain
+Trp_DMAT             PF11991.11   363 BGC0001718_ORF3:gid::pid:XP_020057669.1:loc:9843:11149:strand:- -            415   4.7e-93  312.6   0.0   1   1   3.8e-97   7.4e-93  312.0   0.0     2   362    12   360    11   361 0.94 Tryptophan dimethylallyltransferase
+p450                 PF00067.25   463 BGC0001718_ORF4:gid::pid:XP_020057670.1:loc:12039:13626:strand:+ -            528   6.3e-53  180.3   0.0   1   1   4.6e-57     9e-53  179.8   0.0     1   444    44   466    44   482 0.88 Cytochrome P450
+PhyH                 PF05721.16   211 BGC0001718_ORF5:gid::pid:XP_020057671.1:loc:14316:15216:strand:+ -            299   2.4e-18   67.3   0.4   1   1   1.6e-22   3.1e-18   66.9   0.4     2   203    29   215    28   224 0.89 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001718.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001718.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001718.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:01:38 2023
+# [ok]

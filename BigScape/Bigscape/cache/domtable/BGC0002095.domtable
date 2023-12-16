@@ -1,0 +1,41 @@
+#                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436  7.2e-197  654.2   0.0   1   2  2.7e-105    1e-101  340.7   0.0     3   424   473   891   471   891 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436  7.2e-197  654.2   0.0   2   2   1.8e-96   7.1e-93  311.6   0.0     2   424  1567  1961  1566  1961 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436  4.5e-144  480.6   0.0   1   2     3e-97   1.2e-93  314.5   0.0    10   453     1   444     1   447 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436  4.5e-144  480.6   0.0   2   2     2e-51   7.9e-48  163.4   0.0     2   454  1102  1544  1101  1546 0.88 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436   1.3e-28   99.9   1.2   1   2   3.1e-14   1.2e-10   42.3   0.1     1    76   899   977   899   977 0.89 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436   1.3e-28   99.9   1.2   2   2   2.9e-18   1.2e-14   55.2   0.1     1    76  1969  2048  1969  2048 0.88 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.23   230 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436   4.3e-25   89.3   0.2   1   1   2.8e-28   1.1e-24   88.0   0.2     2   130  2164  2304  2163  2415 0.87 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436   4.6e-25   87.8   0.1   1   2   5.3e-14   2.1e-10   40.9   0.0     2    66  1007  1068  1006  1069 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002095_ORF1:gid::pid::loc:0:7311:strand:+ -           2436   4.6e-25   87.8   0.1   2   2     6e-15   2.4e-11   43.9   0.0     3    67  2079  2141  2077  2141 0.88 Phosphopantetheine attachment site
+Lyase_1              PF00206.23   312 BGC0002095_ORF2:gid::pid:KMO93430.1:loc:7500:9069:strand:+ -            522   1.3e-28  100.5   0.0   1   1   1.3e-32   2.5e-28   99.5   0.0    31   305    47   302    32   307 0.88 Lyase
+GHMP_kinases_N       PF00288.29    66 BGC0002095_ORF3:gid::pid:KMO93431.1:loc:9034:10015:strand:+ -            326   2.2e-07   31.1   0.0   1   1   3.9e-11   7.6e-07   29.4   0.0     2    33   100   131    99   169 0.88 GHMP kinases N terminal domain
+PALP                 PF00291.28   294 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   4.8e-48  164.2   4.4   1   1   7.9e-50   1.9e-46  158.9   0.0     1   293     6   290     6   291 0.93 Pyridoxal-phosphate dependent enzyme
+ATP-grasp_4          PF13535.9    160 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   1.2e-23   83.6   0.0   1   1   7.5e-27   1.8e-23   83.0   0.0     3   156   488   634   486   637 0.92 ATP-grasp domain
+LAL_C2               PF18603.4     78 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   1.9e-19   69.8   3.7   1   1   1.9e-22   4.6e-19   68.5   2.6     1    77   673   749   673   750 0.98 L-amino acid ligase C-terminal domain 2
+ATPgrasp_Ter         PF15632.9    131 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   2.8e-11   43.4   0.0   1   1   1.6e-13     4e-10   39.6   0.0     3   113   533   660   531   675 0.72 ATP-grasp in the biosynthetic pathway with Ter operon
+GARS_A               PF01071.22   194 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   1.6e-09   38.0   0.0   1   1   9.8e-12   2.4e-08   34.1   0.0     3   105   453   558   451   568 0.88 Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain
+ATP-grasp_3          PF02655.17   161 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   1.8e-09   38.0   0.0   1   1   1.5e-12   3.6e-09   37.0   0.0     1   160   450   632   450   633 0.81 ATP-grasp domain
+ATPgrasp_N           PF18130.4     81 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   2.7e-09   37.6   0.1   1   1   1.1e-12   2.7e-09   37.6   0.1     3    81   364   441   362   441 0.89 ATP-grasp N-terminal domain
+CPSase_L_D2          PF02786.20   211 BGC0002095_ORF4:gid::pid:KMO93432.1:loc:10017:12285:strand:+ -            755   4.9e-06   26.3   0.0   1   1   3.5e-09   8.6e-06   25.5   0.0     1   206   452   658   452   663 0.81 Carbamoyl-phosphate synthase L chain, ATP binding domain
+MbtH                 PF03621.16    53 BGC0002095_ORF5:gid::pid:KMO93433.1:loc:12359:12584:strand:+ -             74   1.7e-26   91.5   0.2   1   1   1.1e-30   2.1e-26   91.2   0.2     1    53     1    53     1    53 0.98 MbtH-like protein
+Condensation         PF00668.23   457 BGC0002095_ORF6:gid::pid:KMO93434.1:loc:12576:14364:strand:+ -            595   9.5e-28   97.2   0.0   1   1   1.5e-31   1.5e-27   96.6   0.0    26   340   119   458   109   481 0.80 Condensation domain
+PP-binding           PF00550.28    67 BGC0002095_ORF6:gid::pid:KMO93434.1:loc:12576:14364:strand:+ -            595   3.2e-11   43.5   0.2   1   1   6.8e-15   6.6e-11   42.5   0.2     2    65    19    79    18    81 0.94 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002095_ORF7:gid::pid:KMO93435.1:loc:14360:17570:strand:+ -           1069   8.1e-94  314.7   0.1   1   1   2.3e-97   1.1e-93  314.3   0.1     1   424   472   868   472   868 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002095_ORF7:gid::pid:KMO93435.1:loc:14360:17570:strand:+ -           1069   7.2e-77  259.1   0.0   1   1   1.8e-80   8.6e-77  258.9   0.0     4   457     1   453     1   453 0.90 Condensation domain
+PP-binding           PF00550.28    67 BGC0002095_ORF7:gid::pid:KMO93435.1:loc:14360:17570:strand:+ -           1069   4.1e-18   65.6   0.1   1   1   4.3e-21   2.1e-17   63.3   0.0     2    67   981  1044   980  1044 0.96 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002095_ORF7:gid::pid:KMO93435.1:loc:14360:17570:strand:+ -           1069   1.4e-16   61.3   0.1   1   1   9.5e-20   4.6e-16   59.7   0.1     1    76   876   951   876   951 0.94 AMP-binding enzyme C-terminal domain
+AMP-binding          PF00501.31   424 BGC0002095_ORF8:gid::pid:KMO93436.1:loc:20916:22455:strand:+ -            512   2.6e-74  250.5   0.0   1   1   3.4e-78   3.4e-74  250.1   0.0     3   424    15   418    13   418 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002095_ORF8:gid::pid:KMO93436.1:loc:20916:22455:strand:+ -            512   1.1e-08   36.1   1.1   1   1   2.7e-12   2.6e-08   34.8   0.6     1    76   426   500   426   500 0.88 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002095.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002095.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002095.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:54:09 2023
+# [ok]

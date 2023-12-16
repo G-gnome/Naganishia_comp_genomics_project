@@ -1,0 +1,24 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ThiF                 PF00899.24   219 BGC0000585_ORF2:gid:mccB:pid:CAA40809.1:loc:300:1353:strand:+ -            350   6.5e-39  133.5   0.0   1   1   4.3e-43   8.5e-39  133.1   0.0    13   196   108   323    92   344 0.86 ThiF family
+MFS_1                PF07690.19   353 BGC0000585_ORF3:gid:mccC:pid:CAA40810.1:loc:1349:2564:strand:+ -            404   2.9e-10   39.7  26.1   1   1   1.5e-14   2.9e-10   39.7  26.1    14   327    19   331     6   354 0.70 Major Facilitator Superfamily
+Methyltransf_25      PF13649.9     97 BGC0000585_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267   3.3e-13   50.2   0.0   1   1   1.2e-16   5.8e-13   49.5   0.0     2    97    55   149    54   149 0.90 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0000585_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267   4.5e-13   49.8   0.0   1   1   1.7e-16   8.2e-13   49.0   0.0     1    95    55   152    55   153 0.94 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000585_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267   1.1e-11   44.9   1.1   1   1   4.5e-15   2.2e-11   43.9   1.1     2   118    49   158    48   226 0.85 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0000585_ORF4:gid:mccD:pid:CAA40811.1:loc:2560:3364:strand:+ -            267   7.5e-08   32.1   0.0   1   1   2.1e-11   1.1e-07   31.6   0.0    41   154    44   156    38   178 0.84 ubiE/COQ5 methyltransferase family
+Orn_Arg_deC_N        PF02784.19   247 BGC0000585_ORF6:gid:mccE:pid:CAA40813.1:loc:3551:5117:strand:+ -            521   9.7e-16   58.0   0.0   1   1     2e-19   1.3e-15   57.6   0.0    32   246     1   208     1   209 0.83 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Acetyltransf_3       PF13302.10   138 BGC0000585_ORF6:gid:mccE:pid:CAA40813.1:loc:3551:5117:strand:+ -            521   5.8e-12   46.6   0.0   1   1   1.5e-15     1e-11   45.8   0.0    26   138   384   495   356   495 0.82 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.28   117 BGC0000585_ORF6:gid:mccE:pid:CAA40813.1:loc:3551:5117:strand:+ -            521   4.4e-10   39.9   0.0   1   1   1.5e-13   9.6e-10   38.8   0.0    31   117   407   494   378   494 0.82 Acetyltransferase (GNAT) family
+Peptidase_S66        PF02016.18   119 BGC0000585_ORF7:gid:mccF:pid:CAA40814.1:loc:5172:6207:strand:- -            344   5.4e-30  104.1   0.0   1   1   9.2e-34     9e-30  103.3   0.0     1   119    19   138    19   138 0.92 LD-carboxypeptidase N-terminal domain
+Peptidase_S66C       PF17676.4    123 BGC0000585_ORF7:gid:mccF:pid:CAA40814.1:loc:5172:6207:strand:- -            344     2e-26   93.1   0.0   1   1     4e-30   3.9e-26   92.1   0.0     1   122   211   325   211   326 0.89 LD-carboxypeptidase C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000585.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000585.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000585.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:08:10 2023
+# [ok]

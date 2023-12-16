@@ -1,0 +1,28 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001706_ORF1:gid:nodW:pid:AUM60065.1:loc:0:1825:strand:- -            532   7.4e-58  196.5   0.0   1   1   5.9e-62   1.2e-57  195.9   0.0    21   443   110   500    96   509 0.81 Cytochrome P450
+p450                 PF00067.25   463 BGC0001706_ORF2:gid:nodR:pid:AUM60066.1:loc:2652:4478:strand:+ -            511   2.7e-32  112.2   0.0   1   1   2.2e-36   4.4e-32  111.6   0.0   190   459   226   498   181   502 0.80 Cytochrome P450
+CoA_transf_3         PF02515.20   367 BGC0001706_ORF3:gid:nodX:pid:AUM60050.1:loc:4871:6883:strand:- -            593   3.6e-38  131.8   0.0   1   1   7.8e-39   1.5e-34  119.9   0.0     1   195   266   455   266   485 0.91 CoA-transferase family III
+FAD_binding_3        PF01494.22   349 BGC0001706_ORF4:gid:nodM:pid:AUM60051.1:loc:7595:9172:strand:+ -            463   1.5e-27   96.9   0.0   1   2   1.4e-18   9.2e-15   54.9   0.0     2   171     6   169     5   188 0.85 FAD binding domain
+FAD_binding_3        PF01494.22   349 BGC0001706_ORF4:gid:nodM:pid:AUM60051.1:loc:7595:9172:strand:+ -            463   1.5e-27   96.9   0.0   2   2   3.4e-14   2.2e-10   40.4   0.0   273   329   287   343   221   371 0.82 FAD binding domain
+FAD_binding_4        PF01565.26   139 BGC0001706_ORF6:gid:nodO:pid:AUM60052.1:loc:10954:12468:strand:+ -            448   2.7e-26   92.1   0.0   1   1   2.1e-30   4.1e-26   91.5   0.0     1   138    39   173    39   174 0.96 FAD binding domain
+p450                 PF00067.25   463 BGC0001706_ORF7:gid:nodJ:pid:AUM60053.1:loc:12910:14604:strand:- -            514   1.2e-25   90.4   0.0   1   1   5.5e-29   1.1e-24   87.2   0.0     5   448    35   468    30   485 0.82 Cytochrome P450
+polyprenyl_synt      PF00348.20   256 BGC0001706_ORF8:gid:nodC:pid:AUM60067.1:loc:15448:16573:strand:+ -            326   8.9e-25   87.3   0.0   1   1   6.6e-29   1.3e-24   86.8   0.0     8   230    53   266    49   289 0.84 Polyprenyl synthetase
+FAD_binding_3        PF01494.22   349 BGC0001706_ORF9:gid:nodY1:pid:AUM60054.1:loc:17116:18555:strand:- -            431   1.4e-11   44.4   0.1   1   1   1.1e-13   5.5e-10   39.1   0.0     2   175     6   175     5   274 0.80 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0001706_ORF9:gid:nodY1:pid:AUM60054.1:loc:17116:18555:strand:- -            431   5.5e-06   25.9   0.1   1   1     2e-09     1e-05   25.0   0.1     2    32     8    38     7    42 0.92 FAD binding domain
+Trp_DMAT             PF11991.11   363 BGC0001706_ORF10:gid:nodD2:pid:AUM60055.1:loc:19734:21106:strand:+ -            434   4.5e-81  273.2   0.0   1   1   2.7e-85   5.3e-81  273.0   0.0     1   362    29   388    29   389 0.92 Tryptophan dimethylallyltransferase
+Trp_DMAT             PF11991.11   363 BGC0001706_ORF11:gid:nodD1:pid:AUM60056.1:loc:22207:23550:strand:+ -            431   4.7e-83  279.7   0.0   1   1   2.9e-87   5.8e-83  279.4   0.0     2   362    30   388    29   389 0.92 Tryptophan dimethylallyltransferase
+FAD_binding_3        PF01494.22   349 BGC0001706_ORF12:gid:nodY2:pid:AUM60057.1:loc:24801:26363:strand:+ -            461   2.1e-17   63.5   0.8   1   1   1.6e-17   7.6e-14   51.8   0.0    80   333   111   380    90   392 0.68 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0001706_ORF12:gid:nodY2:pid:AUM60057.1:loc:24801:26363:strand:+ -            461   1.6e-07   30.9   0.3   1   1   1.6e-09   7.8e-06   25.3   0.2     2    32    21    51    20    54 0.93 FAD binding domain
+p450                 PF00067.25   463 BGC0001706_ORF13:gid:nodZ:pid:AUM60058.1:loc:27101:28945:strand:+ -            507     1e-23   84.0   0.0   1   1   9.8e-28   1.9e-23   83.1   0.0   296   462   306   493   289   494 0.91 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001706.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001706.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001706.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:08:47 2023
+# [ok]

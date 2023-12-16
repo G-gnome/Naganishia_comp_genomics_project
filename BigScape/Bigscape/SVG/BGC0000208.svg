@@ -1,0 +1,291 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="890.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="880.0333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>orf1
+hypothetical protein</title>
+			<polygon class="orf1
+hypothetical protein" points="25,25 26,25 26,10 56,40 26,70 26,55 25,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CobD_Cbib (PF03186)
+"CobD/Cbib protein"</title>
+				<polygon class="PF03186" points="26,28 40,28 52,40 40,52 26,52" stroke-linejoin="round" width="28" height="24" fill="rgb(184,228,63)" stroke="rgb(147,182,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf2
+hypothetical protein</title>
+			<polygon class="orf2
+hypothetical protein" points="56,25 75,25 75,10 105,40 75,70 75,55 56,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CbiA (PF01656)
+"CobQ/CobB/MinD/ParA nucleotide binding domain"</title>
+				<rect class="PF01656" x="56" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(143,82,224)" stroke="rgb(114,65,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GATase_3 (PF07685)
+"CobB/CobQ-like glutamine amidotransferase domain"</title>
+				<polygon class="PF07685" points="81,28 89,28 98,37 98,43 89,52 81,52" stroke-linejoin="round" width="17" height="24" fill="rgb(206,104,226)" stroke="rgb(164,83,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdP
+putative keto-acyl synthase alpha</title>
+			<polygon class="chdP
+putative keto-acyl synthase alpha" points="112,25 125,25 125,10 155,40 125,70 125,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="112" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="138,28 139,28 149,38 149,42 139,52 138,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdK
+putative keto-acyl synthase beta</title>
+			<polygon class="chdK
+putative keto-acyl synthase beta" points="155,25 166,25 166,10 196,40 166,70 166,55 155,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="156" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="181,29 192,40 192,40 181,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdS
+putative acyl carrier protein</title>
+			<polygon class="chdS
+putative acyl carrier protein" points="198,10 206,40 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="198,28 199,28 203,40 199,52 198,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdQI
+putative cyclase/aromatase</title>
+			<polygon class="chdQI
+putative cyclase/aromatase" points="239,25 239,25 239,10 209,40 239,70 239,55 239,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="224,29 225,28 238,28 238,52 225,52 224,51" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdMII
+putative methyltransferase</title>
+			<polygon class="chdMII
+putative methyltransferase" points="276,25 272,25 272,10 242,40 272,70 272,55 276,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="246,40 258,28 264,28 264,52 258,52" stroke-linejoin="round" width="20" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="266" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(84,199,85)" stroke="rgb(67,159,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdGIV
+putative glycosyltransferase</title>
+			<polygon class="chdGIV
+putative glycosyltransferase" points="282,25 292,25 292,10 322,40 292,70 292,55 282,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="300,28 305,28 309,32 309,48 305,52 300,52" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdTn
+putative transposase</title>
+			<polygon class="chdTn
+putative transposase" points="329,25 350,25 350,10 380,40 350,70 350,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nterm_IS4 (PF13006)
+"Insertion element 4 transposase N-terminal"</title>
+				<rect class="PF13006" x="331" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(148,213,91)" stroke="rgb(118,170,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DDE_Tnp_1 (PF01609)
+"Transposase DDE domain"</title>
+				<polygon class="PF01609" points="342,28 363,28 366,31 366,49 363,52 342,52" stroke-linejoin="round" width="24" height="24" fill="rgb(229,102,99)" stroke="rgb(183,81,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdR
+putative exporter</title>
+			<polygon class="chdR
+putative exporter" points="433,25 415,25 415,10 385,40 415,70 415,55 433,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="391,38 401,28 430,28 430,52 401,52 391,42" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdA
+putative transcriptional regulator</title>
+			<polygon class="chdA
+putative transcriptional regulator" points="438,10 457,40 438,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="438" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_C_1 (PF02909)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF02909" points="444,28 445,28 453,40 453,40 445,52 444,52" stroke-linejoin="round" width="9" height="24" fill="rgb(151,203,75)" stroke="rgb(120,162,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdN
+putative aminotransferase</title>
+			<polygon class="chdN
+putative aminotransferase" points="502,25 488,25 488,10 458,40 488,70 488,55 502,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="462,40 474,28 495,28 495,52 474,52" stroke-linejoin="round" width="36" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdOI
+putative oxygenase</title>
+			<polygon class="chdOI
+putative oxygenase" points="507,25 517,25 517,10 547,40 517,70 517,55 507,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="507,28 531,28 540,37 540,43 531,52 507,52" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdMI
+putative methyltransferase</title>
+			<polygon class="chdMI
+putative methyltransferase" points="582,25 578,25 578,10 548,40 578,70 578,55 582,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="552,40 564,28 570,28 570,52 564,52" stroke-linejoin="round" width="20" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdL-chdOIII
+putative acyl-CoA ligase/oxygenase fusion protein</title>
+			<polygon class="chdL-chdOIII
+putative acyl-CoA ligase/oxygenase fusion protein" points="648,25 614,25 614,10 584,40 614,70 614,55 648,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="588,40 593,35 593,45" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="596,32 600,28 603,28 603,52 600,52 596,48" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="604" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdX
+putative cyclase</title>
+			<polygon class="chdX
+putative cyclase" points="650,40 665,10 665,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_4 (PF13577)
+"SnoaL-like domain"</title>
+				<polygon class="PF13577" points="653,40 659,28 663,28 663,52 659,52" stroke-linejoin="round" width="12" height="24" fill="rgb(68,223,209)" stroke="rgb(54,178,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdT
+putative ketoreductase</title>
+			<polygon class="chdT
+putative ketoreductase" points="670,10 696,40 670,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="670,28 682,28 689,37 689,43 682,52 670,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdQII
+putative cyclase/aromatase</title>
+			<polygon class="chdQII
+putative cyclase/aromatase" points="697,25 698,25 698,10 728,40 698,70 698,55 697,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF10604" x="697" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="712,28 712,28 724,40 712,52 712,52" stroke-linejoin="round" width="15" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdOII-chdY
+putative oxygenase/cyclase fusion protein</title>
+			<polygon class="chdOII-chdY
+putative oxygenase/cyclase fusion protein" points="729,25 779,25 779,10 809,40 779,70 779,55 729,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="729" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cyclase (PF04199)
+"Putative cyclase"</title>
+				<polygon class="PF04199" points="784,28 793,28 802,37 802,43 793,52 784,52" stroke-linejoin="round" width="18" height="24" fill="rgb(140,47,181)" stroke="rgb(112,37,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdB
+SARP family transcriptional regulator</title>
+			<polygon class="chdB
+SARP family transcriptional regulator" points="815,10 840,40 815,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="816" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<polygon class="PF03704" points="825,28 827,28 836,40 827,52 825,52" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chdC
+LuxR family transcriptional regulator</title>
+			<polygon class="chdC
+LuxR family transcriptional regulator" points="842,40 863,10 863,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="846,40 848,37 848,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

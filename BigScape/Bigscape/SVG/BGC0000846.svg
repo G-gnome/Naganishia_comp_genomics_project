@@ -1,0 +1,148 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="785.7333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="775.7333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_orf1)</title>
+			<polygon class=" (ctg1_orf1)" points="16,10 30,40 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf2)</title>
+			<polygon class=" (ctg1_orf2)" points="33,25 41,25 41,10 71,40 41,70 41,55 33,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf3)</title>
+			<polygon class=" (ctg1_orf3)" points="75,25 84,25 84,10 114,40 84,70 84,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf4)</title>
+			<polygon class=" (ctg1_orf4)" points="114,10 141,40 114,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf5)</title>
+			<polygon class=" (ctg1_orf5)" points="142,25 154,25 154,10 184,40 154,70 154,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf6)</title>
+			<polygon class=" (ctg1_orf6)" points="185,10 208,40 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf7)</title>
+			<polygon class=" (ctg1_orf7)" points="209,25 217,25 217,10 247,40 217,70 217,55 209,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf8)</title>
+			<polygon class=" (ctg1_orf8)" points="285,25 317,25 317,10 347,40 317,70 317,55 285,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="290" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="309,28 330,28 342,40 330,52 309,52" stroke-linejoin="round" width="36" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf9)</title>
+			<polygon class=" (ctg1_orf9)" points="349,10 377,40 349,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="349,28 361,28 373,40 361,52 349,52" stroke-linejoin="round" width="26" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf10)</title>
+			<polygon class=" (ctg1_orf10)" points="378,25 417,25 417,10 447,40 417,70 417,55 378,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="378" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<rect class="PF05199" x="416" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="433,30 443,40 433,50" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf11)</title>
+			<polygon class=" (ctg1_orf11)" points="447,25 449,25 449,10 479,40 449,70 449,55 447,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<rect class="PF00892" x="449" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf12)</title>
+			<polygon class=" (ctg1_orf12)" points="479,25 491,25 491,10 521,40 491,70 491,55 479,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_4 (PF13535)
+"ATP-grasp domain"</title>
+				<polygon class="PF13535" points="493,28 504,28 508,32 508,48 504,52 493,52" stroke-linejoin="round" width="15" height="24" fill="rgb(197,156,74)" stroke="rgb(157,124,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf13)</title>
+			<polygon class=" (ctg1_orf13)" points="524,25 537,25 537,10 567,40 537,70 537,55 524,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sugar_tr (PF00083)
+"Sugar (and other) transporter"</title>
+				<rect class="PF00083" x="525" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(48,186,105)" stroke="rgb(38,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf14)</title>
+			<polygon class=" (ctg1_orf14)" points="570,10 583,40 570,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3742 (PF12553)
+"Protein of unknown function (DUF3742)"</title>
+				<polygon class="PF12553" points="570,28 574,28 580,40 574,52 570,52" stroke-linejoin="round" width="13" height="24" fill="rgb(88,220,153)" stroke="rgb(70,176,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf15)</title>
+			<polygon class=" (ctg1_orf15)" points="585,25 606,25 606,10 636,40 606,70 606,55 585,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf16)</title>
+			<polygon class=" (ctg1_orf16)" points="636,10 648,40 636,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf17)</title>
+			<polygon class=" (ctg1_orf17)" points="649,25 659,25 659,10 689,40 659,70 659,55 649,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf18)</title>
+			<polygon class=" (ctg1_orf18)" points="688,10 694,40 688,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf19)</title>
+			<polygon class=" (ctg1_orf19)" points="695,25 696,25 696,10 726,40 696,70 696,55 695,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf20)</title>
+			<polygon class=" (ctg1_orf20)" points="726,10 741,40 726,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf21)</title>
+			<polygon class=" (ctg1_orf21)" points="755,10 761,40 755,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf22)</title>
+			<polygon class=" (ctg1_orf22)" points="766,10 773,40 766,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HEAT_2 (PF13646)
+"HEAT repeats"</title>
+				<polygon class="PF13646" points="766,28 767,28 770,40 767,52 766,52" stroke-linejoin="round" width="6" height="24" fill="rgb(161,180,58)" stroke="rgb(128,144,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

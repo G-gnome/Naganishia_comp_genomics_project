@@ -1,0 +1,17 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PhyH                 PF05721.16   211 BGC0002052_ORF1:gid:ectD:pid:QOE83927.1:loc:188:1088:strand:- -            299     3e-37  129.0   0.0   1   1   1.9e-41   3.7e-37  128.8   0.0     1   209    47   262    47   264 0.96 Phytanoyl-CoA dioxygenase (PhyH)
+Ectoine_synth        PF06339.15   127 BGC0002052_ORF2:gid:ectC:pid:QOE83928.1:loc:1183:1600:strand:- -            138   3.3e-54  182.6   0.2   1   1   1.9e-58   3.7e-54  182.5   0.2     1   125     1   127     1   129 0.98 Ectoine synthase
+Aminotran_3          PF00202.24   403 BGC0002052_ORF3:gid:ectB:pid:QOE83929.1:loc:1646:2915:strand:- -            422   8.8e-79  265.2   0.0   1   1   5.6e-83   1.1e-78  264.9   0.0    11   403    27   418    20   418 0.87 Aminotransferase class-III
+Acetyltransf_1       PF00583.28   117 BGC0002052_ORF4:gid:ectA:pid:QOE83930.1:loc:3050:3620:strand:- -            189   2.1e-14   53.9   0.0   1   1   1.4e-18   2.8e-14   53.5   0.0    24   113    53   143    30   146 0.85 Acetyltransferase (GNAT) family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002052.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002052.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002052.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:25:37 2023
+# [ok]

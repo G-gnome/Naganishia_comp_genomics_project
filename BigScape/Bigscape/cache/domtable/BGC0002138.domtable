@@ -1,0 +1,27 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002138_ORF1:gid::pid:PAU45552.1:loc:0:4023:strand:+ -           1340   6.8e-80  268.4   0.0   1   1   3.4e-83   1.1e-79  267.7   0.0     2   252    29   280    28   281 0.95 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002138_ORF1:gid::pid:PAU45552.1:loc:0:4023:strand:+ -           1340   1.1e-62  212.6   0.0   1   1   4.9e-66   1.6e-62  212.0   0.0     2   317   561   874   560   876 0.94 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0002138_ORF1:gid::pid:PAU45552.1:loc:0:4023:strand:+ -           1340   4.5e-44  151.0   0.4   1   1   2.5e-47   8.1e-44  150.2   0.4    14   293   938  1205   930  1209 0.83 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0002138_ORF1:gid::pid:PAU45552.1:loc:0:4023:strand:+ -           1340   1.8e-41  141.0   0.8   1   1   1.3e-44   4.3e-41  139.8   0.4     1   118   289   406   289   407 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002138_ORF1:gid::pid:PAU45552.1:loc:0:4023:strand:+ -           1340   3.9e-18   66.1   0.0   1   1   4.4e-21   1.4e-17   64.3   0.0     2   108   410   521   410   524 0.89 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0002138_ORF1:gid::pid:PAU45552.1:loc:0:4023:strand:+ -           1340   4.1e-10   40.0   0.5   1   1   3.5e-13   1.1e-09   38.5   0.5     9    67  1263  1321  1249  1321 0.90 Phosphopantetheine attachment site
+Radical_SAM          PF04055.24   167 BGC0002138_ORF2:gid::pid:PAU45553.1:loc:4078:5545:strand:+ -            488   7.9e-14   52.5   0.0   1   1   7.7e-18   1.5e-13   51.6   0.0     9   165    78   241    77   243 0.87 Radical SAM superfamily
+adh_short_C2         PF13561.9    234 BGC0002138_ORF3:gid::pid:PAU45554.1:loc:5534:6296:strand:+ -            253   1.1e-58  198.8   1.3   1   1   1.8e-62   1.2e-58  198.6   1.3     3   233    18   251    11   252 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002138_ORF3:gid::pid:PAU45554.1:loc:5534:6296:strand:+ -            253   1.1e-55  188.3   0.2   1   1     2e-59   1.3e-55  188.0   0.2     3   194    12   206    10   207 0.98 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002138_ORF3:gid::pid:PAU45554.1:loc:5534:6296:strand:+ -            253   9.6e-14   51.8   0.4   1   1   1.9e-17   1.3e-13   51.4   0.4     3   174    12   190    11   196 0.85 KR domain
+4HBT_3               PF13622.9    250 BGC0002138_ORF4:gid::pid:PAU45555.1:loc:6341:7241:strand:- -            299   1.2e-59  202.8   2.5   1   1   1.4e-63   1.4e-59  202.5   2.5     9   250    37   289    31   289 0.85 Thioesterase-like superfamily
+Acyl_CoA_thio        PF02551.18   132 BGC0002138_ORF4:gid::pid:PAU45555.1:loc:6341:7241:strand:- -            299     1e-24   87.0   0.0   1   1   5.4e-26   5.3e-22   78.2   0.0    29   132   178   288   166   288 0.89 Acyl-CoA thioesterase
+MMPL                 PF03176.18   333 BGC0002138_ORF5:gid::pid:PAU45556.1:loc:7381:9694:strand:+ -            770   5.7e-80  268.9  31.1   1   2   1.3e-49   2.6e-45  154.9  12.0     2   331    72   407    71   409 0.86 MMPL family
+MMPL                 PF03176.18   333 BGC0002138_ORF5:gid::pid:PAU45556.1:loc:7381:9694:strand:+ -            770   5.7e-80  268.9  31.1   2   2   6.2e-39   1.2e-34  119.9  11.2     3   308   437   751   435   764 0.84 MMPL family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002138.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002138.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002138.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:48:28 2023
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.26   274 BGC0001188_ORF2:gid::pid:WP_052230046.1:loc:573:2424:strand:+ -            616   8.4e-39  134.0   1.6   1   1   1.1e-42   1.1e-38  133.6   1.6     2   274     4   271     3   271 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0001188_ORF2:gid::pid:WP_052230046.1:loc:573:2424:strand:+ -            616   3.6e-28   98.9   0.0   1   1   6.3e-32   6.2e-28   98.2   0.0     1   137   344   493   344   493 0.93 ABC transporter
+Amino_oxidase        PF01593.27   452 BGC0001188_ORF3:gid::pid:WP_043270372.1:loc:2420:3905:strand:+ -            494   3.3e-09   36.7   1.8   1   1   4.2e-12   4.2e-08   33.1   0.3     3   237    15   250    14   267 0.75 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001188_ORF3:gid::pid:WP_043270372.1:loc:2420:3905:strand:+ -            494   5.2e-09   36.3   0.1   1   1     2e-12   1.9e-08   34.5   0.1     1    51     8    60     8    73 0.86 NAD(P)-binding Rossmann-like domain
+Methyltransf_25      PF13649.9     97 BGC0001188_ORF4:gid::pid:WP_107068144.1:loc:4373:5132:strand:+ -            252   5.7e-16   59.1   0.0   1   1     3e-19   9.7e-16   58.4   0.0     3    97    48   140    47   140 0.93 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001188_ORF4:gid::pid:WP_107068144.1:loc:4373:5132:strand:+ -            252   1.4e-12   48.2   0.0   1   1   7.6e-16   2.5e-12   47.4   0.0     2    96    48   144    47   144 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001188_ORF4:gid::pid:WP_107068144.1:loc:4373:5132:strand:+ -            252   1.5e-11   44.5   0.0   1   1     7e-15   2.3e-11   43.9   0.0    21   162    41   226    24   229 0.71 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001188_ORF4:gid::pid:WP_107068144.1:loc:4373:5132:strand:+ -            252   2.7e-09   37.8   0.0   1   1   1.2e-12   4.1e-09   37.2   0.0     2    99    48   142    47   142 0.82 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001188_ORF4:gid::pid:WP_107068144.1:loc:4373:5132:strand:+ -            252   9.4e-08   32.1   0.0   1   1   3.5e-11   1.2e-07   31.8   0.0     7   113    46   148    42   209 0.87 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0001188_ORF4:gid::pid:WP_107068144.1:loc:4373:5132:strand:+ -            252    0.0002   20.9   0.0   1   1   9.8e-08   0.00032   20.2   0.0    50   157    45   150    33   167 0.79 ubiE/COQ5 methyltransferase family
+HTH_Tnp_1            PF01527.23    75 BGC0001188_ORF5:gid::pid:WP_241777777.1:loc:5228:5519:strand:+ -             96   1.5e-07   31.7   0.1   1   1   2.1e-11     2e-07   31.3   0.1    22    73     3    63     1    65 0.85 Transposase
+HTH_28               PF13518.9     52 BGC0001188_ORF5:gid::pid:WP_241777777.1:loc:5228:5519:strand:+ -             96   9.6e-07   29.0   0.2   1   1   1.6e-10   1.6e-06   28.2   0.2    12    51     3    43     1    44 0.91 Helix-turn-helix domain
+Abhydrolase_6        PF12697.10   220 BGC0001188_ORF7:gid::pid:WP_241777778.1:loc:5774:6611:strand:+ -            278   6.6e-14   53.2   1.6   1   1   1.2e-17   7.9e-14   52.9   1.6     1   219     2   242     1   243 0.66 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.23   257 BGC0001188_ORF7:gid::pid:WP_241777778.1:loc:5774:6611:strand:+ -            278   2.7e-10   40.4   0.2   1   1   1.3e-12   8.7e-09   35.5   0.1     4   119     3   121     1   130 0.85 alpha/beta hydrolase fold
+Thioesterase         PF00975.23   230 BGC0001188_ORF7:gid::pid:WP_241777778.1:loc:5774:6611:strand:+ -            278   2.7e-06   27.8   0.1   1   1   5.8e-10   3.8e-06   27.3   0.1    56   228    54   246     6   247 0.78 Thioesterase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001188.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001188.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001188.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:58:08 2023
+# [ok]

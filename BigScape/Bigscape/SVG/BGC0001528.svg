@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="720.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="710.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>btcD
+putative alpha-ketoglutarate-dependent dioxygenase</title>
+			<polygon class="btcD
+putative alpha-ketoglutarate-dependent dioxygenase" points="148,25 139,25 139,10 109,40 139,70 139,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="116,37 125,28 146,28 146,52 125,52 116,43" stroke-linejoin="round" width="30" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>btcC
+putative cytochrome P450</title>
+			<polygon class="btcC
+putative cytochrome P450" points="373,25 345,25 345,10 315,40 345,70 345,55 373,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="324,35 331,28 370,28 370,52 331,52 324,45" stroke-linejoin="round" width="46" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>btcB
+putative cytochrome P450</title>
+			<polygon class="btcB
+putative cytochrome P450" points="460,25 430,25 430,10 400,40 430,70 430,55 460,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="408,36 416,28 453,28 453,52 416,52 408,44" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>btcA
+putative bifunctional terpene synthase</title>
+			<polygon class="btcA
+putative bifunctional terpene synthase" points="493,25 542,25 542,10 572,40 542,70 542,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_syn_C_2 (PF19086)
+"Terpene synthase family 2, C-terminal metal binding"</title>
+				<rect class="PF19086" x="502" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(55,207,154)" stroke="rgb(43,165,123)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="535,28 556,28 559,31 559,49 556,52 535,52" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

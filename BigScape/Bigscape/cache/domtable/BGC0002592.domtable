@@ -1,0 +1,39 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_2       PF00891.21   210 BGC0002592_ORF1:gid::pid:EAU31622.1:loc:0:1636:strand:- -            486   1.1e-26   93.6   0.0   1   1   1.2e-30   2.4e-26   92.5   0.0    65   209   293   461   283   462 0.87 O-methyltransferase domain
+Lactamase_B          PF00753.30   197 BGC0002592_ORF2:gid::pid:EAU31623.1:loc:2207:3239:strand:- -            320   2.7e-16   60.3   4.5   1   1   2.6e-14   5.1e-10   39.8   2.2     4    68    56   119    54   123 0.93 Metallo-beta-lactamase superfamily
+ketoacyl-synt        PF00109.29   253 BGC0002592_ORF3:gid::pid:EAU31624.1:loc:3751:9306:strand:+ -           1771   8.8e-71  238.5   0.0   1   1   1.2e-73   3.8e-70  236.5   0.0     2   253   403   654   402   654 0.95 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0002592_ORF3:gid::pid:EAU31624.1:loc:3751:9306:strand:+ -           1771   2.5e-52  178.0   0.0   1   1   1.4e-54   4.7e-51  173.8   0.0    17   236    39   264    30   267 0.95 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.24   319 BGC0002592_ORF3:gid::pid:EAU31624.1:loc:3751:9306:strand:+ -           1771   2.7e-43  148.8   0.3   1   1   1.8e-46     6e-43  147.7   0.3     2   318   937  1257   936  1258 0.90 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002592_ORF3:gid::pid:EAU31624.1:loc:3751:9306:strand:+ -           1771   2.7e-34  117.8   0.9   1   1     2e-37   6.6e-34  116.6   0.4     1   118   662   782   662   783 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002592_ORF3:gid::pid:EAU31624.1:loc:3751:9306:strand:+ -           1771   2.3e-11   43.9   0.2   1   1   2.1e-14   6.8e-11   42.5   0.2     4    65  1703  1764  1700  1766 0.94 Phosphopantetheine attachment site
+PS-DH                PF14765.9    297 BGC0002592_ORF3:gid::pid:EAU31624.1:loc:3751:9306:strand:+ -           1771   7.7e-10   38.6   0.0   1   1   4.3e-13   1.4e-09   37.7   0.0    66   292  1397  1632  1380  1637 0.75 Polyketide synthase dehydratase
+Zn_clus              PF00172.21    40 BGC0002592_ORF5:gid::pid:EAU31626.1:loc:11915:12605:strand:+ -            229   2.1e-08   34.3  10.2   1   1   2.2e-12   4.3e-08   33.3  10.2     2    34    11    42    10    48 0.90 Fungal Zn(2)-Cys(6) binuclear cluster domain
+GST_N                PF02798.23    76 BGC0002592_ORF6:gid::pid:EAU31627.1:loc:13272:13953:strand:- -            226   1.7e-15   57.2   0.0   1   1   1.1e-18   3.5e-15   56.2   0.0     2    75     6    78     5    79 0.93 Glutathione S-transferase, N-terminal domain
+GST_N_3              PF13417.9     75 BGC0002592_ORF6:gid::pid:EAU31627.1:loc:13272:13953:strand:- -            226   1.8e-15   57.1   0.0   1   1     1e-18   3.4e-15   56.2   0.0     8    73    15    83    12    86 0.89 Glutathione S-transferase, N-terminal domain
+GST_N_2              PF13409.9     70 BGC0002592_ORF6:gid::pid:EAU31627.1:loc:13272:13953:strand:- -            226     2e-11   44.2   0.1   1   1   1.4e-14   4.6e-11   43.0   0.0     3    68    15    78    13    80 0.88 Glutathione S-transferase, N-terminal domain
+GST_C                PF00043.28    93 BGC0002592_ORF6:gid::pid:EAU31627.1:loc:13272:13953:strand:- -            226   1.5e-08   34.8   0.0   1   1   7.5e-12   2.5e-08   34.1   0.0    26    93   134   212   112   212 0.77 Glutathione S-transferase, C-terminal domain
+GST_C_3              PF14497.9    104 BGC0002592_ORF6:gid::pid:EAU31627.1:loc:13272:13953:strand:- -            226   1.1e-07   32.0   0.0   1   1   5.5e-11   1.8e-07   31.4   0.0    39   101   147   218   117   220 0.77 Glutathione S-transferase, C-terminal domain
+GST_C_5              PF16865.8    108 BGC0002592_ORF6:gid::pid:EAU31627.1:loc:13272:13953:strand:- -            226   3.6e-07   30.8   0.0   1   1   8.8e-10   2.9e-06   27.9   0.0    31   107   137   216   129   217 0.92 Glutathione S-transferase, C-terminal domain
+Methyltransf_11      PF08241.15    96 BGC0002592_ORF8:gid::pid:EAU31629.1:loc:15748:16711:strand:- -            320     9e-16   58.4   0.1   1   1   4.8e-19   1.9e-15   57.4   0.1     2    96    61   154    60   154 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002592_ORF8:gid::pid:EAU31629.1:loc:15748:16711:strand:- -            320   4.7e-14   53.0   0.1   1   1   2.5e-17   9.9e-14   51.9   0.1     1    97    59   150    59   150 0.92 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002592_ORF8:gid::pid:EAU31629.1:loc:15748:16711:strand:- -            320   2.6e-09   37.2   0.0   1   1   1.1e-12   4.4e-09   36.4   0.0     6   113    58   158    55   208 0.88 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002592_ORF8:gid::pid:EAU31629.1:loc:15748:16711:strand:- -            320   1.4e-08   35.5   0.0   1   1   6.3e-12   2.5e-08   34.7   0.0     2    99    61   152    60   152 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002592_ORF8:gid::pid:EAU31629.1:loc:15748:16711:strand:- -            320   1.4e-06   28.4   0.0   1   1   5.9e-10   2.3e-06   27.6   0.0    25   132    58   169    30   218 0.82 Methyltransferase domain
+EthD                 PF07110.14    97 BGC0002592_ORF9:gid::pid:EAU31630.1:loc:17268:18487:strand:+ -            313   1.4e-16   61.6   1.4   1   1   1.2e-20   2.3e-16   60.8   1.4     1    96   196   292   196   293 0.86 EthD domain
+Cu-oxidase_2         PF07731.17   137 BGC0002592_ORF10:gid::pid:EAU31631.1:loc:18877:21038:strand:+ -            605     1e-44  151.7   6.6   1   1     6e-41   3.9e-37  127.2   0.1     1   136   424   563   424   564 0.88 Multicopper oxidase
+Cu-oxidase_3         PF07732.18   119 BGC0002592_ORF10:gid::pid:EAU31631.1:loc:18877:21038:strand:+ -            605   1.5e-43  147.7   0.8   1   1   2.3e-47   1.5e-43  147.7   0.8     2   118    66   182    65   183 0.96 Multicopper oxidase
+Cu-oxidase           PF00394.25   159 BGC0002592_ORF10:gid::pid:EAU31631.1:loc:18877:21038:strand:+ -            605   7.4e-37  127.0   0.0   1   1   2.7e-40   1.8e-36  125.8   0.0     4   159   192   347   189   347 0.93 Multicopper oxidase
+Questin_oxidase      PF14027.9    348 BGC0002592_ORF11:gid::pid:EAU31632.1:loc:21461:22802:strand:+ -            446     1e-82  278.7   0.1   1   1   6.5e-87   1.3e-82  278.3   0.1     2   348    51   381    50   381 0.93 Questin oxidase-like
+Trp_halogenase       PF04820.17   454 BGC0002592_ORF12:gid::pid:EAU31633.1:loc:23423:24926:strand:+ -            500   5.3e-12   45.5   0.7   1   1     1e-14     2e-10   40.2   0.2   197   341   124   292   111   311 0.71 Tryptophan halogenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002592.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002592.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002592.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:59:52 2023
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0000674_ORF1:gid::pid:EDY49121.1:loc:0:1347:strand:- -            448   2.3e-62  211.4   0.0   1   1   7.2e-66   1.4e-61  208.8   0.0     4   448    16   423    13   435 0.87 Cytochrome P450
+Terpene_syn_C_2      PF19086.3    199 BGC0000674_ORF2:gid::pid:EDY49122.1:loc:1348:2332:strand:- -            327   7.1e-34  117.5   0.0   1   1   4.6e-38   8.9e-34  117.2   0.0     1   198    75   267    75   268 0.92 Terpene synthase family 2, C-terminal metal binding
+Methyltransf_11      PF08241.15    96 BGC0000674_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   1.9e-15   57.4   0.0   1   1   8.4e-19   3.3e-15   56.6   0.0     1    95    57   147    57   148 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0000674_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   1.4e-13   51.1   0.0   1   1   4.8e-17   1.9e-13   50.7   0.0     8   120    35   151    27   192 0.79 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000674_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   4.2e-13   49.9   0.0   1   1     2e-16   7.7e-13   49.1   0.0     2    97    57   144    56   144 0.94 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0000674_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   3.1e-12   47.2   0.0   1   1   1.4e-15   5.7e-12   46.4   0.0     1    99    57   146    57   146 0.84 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000674_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   4.8e-08   33.1   0.0   1   1     1e-10   3.9e-07   30.1   0.0     6   113    55   152    52   182 0.80 Methyltransferase domain
+Amino_oxidase        PF01593.27   452 BGC0000674_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   2.7e-43  149.0   0.5   1   1   9.5e-47   3.1e-43  148.8   0.5     1   452    17   454    17   454 0.84 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000674_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   2.1e-18   66.4   0.1   1   1   1.5e-21   4.9e-18   65.2   0.1     1    67    12    80    12    81 0.91 NAD(P)-binding Rossmann-like domain
+Pyr_redox_2          PF07992.17   295 BGC0000674_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   1.5e-09   37.7   0.2   1   1   2.4e-10   7.9e-07   28.7   0.0     2    41     9    47     8    84 0.84 Pyridine nucleotide-disulphide oxidoreductase
+FAD_oxidored         PF12831.10   427 BGC0000674_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   1.6e-07   31.2   0.0   1   1   8.2e-11   2.7e-07   30.4   0.0     3    42    11    50    10    83 0.90 FAD dependent oxidoreductase
+DAO                  PF01266.27   353 BGC0000674_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   5.7e-07   29.6   9.1   1   1   1.8e-10   5.9e-07   29.5   6.3     2   300    10   383     9   420 0.58 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0000674_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   1.2e-06   28.0   1.4   1   1     8e-10   2.6e-06   26.9   0.1     2    36    10    44     9    50 0.93 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000674.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000674.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000674.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:24:19 2023
+# [ok]

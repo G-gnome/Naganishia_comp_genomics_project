@@ -1,0 +1,17 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.24   363 BGC0001238_ORF1:gid:biF:pid:ACR44939.1:loc:107:1462:strand:- -            412   5.5e-36  124.6   0.0   1   1   3.2e-40   6.3e-36  124.4   0.0     4   363    36   398    33   398 0.86 Aminotransferase class I and II
+AAA_26               PF13500.9    198 BGC0001238_ORF2:gid:biA1:pid:ACR44941.1:loc:2170:3443:strand:+ -            389   8.4e-17   61.8   0.0   1   1   7.1e-21   1.4e-16   61.1   0.0     5   177    17   195    13   210 0.81 AAA domain
+BATS                 PF06968.16    86 BGC0001238_ORF3:gid:biB:pid:ACR44940.1:loc:5676:6955:strand:+ -            393   9.8e-22   77.0   0.2   1   1   4.3e-25   4.2e-21   75.0   0.0     1    85   265   355   265   356 0.99 Biotin and Thiamin Synthesis associated domain
+Radical_SAM          PF04055.24   167 BGC0001238_ORF3:gid:biB:pid:ACR44940.1:loc:5676:6955:strand:+ -            393   3.7e-15   56.8   0.0   1   1   2.2e-18   2.1e-14   54.3   0.0     4   163    93   250    90   254 0.84 Radical SAM superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001238.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001238.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001238.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:06:52 2023
+# [ok]

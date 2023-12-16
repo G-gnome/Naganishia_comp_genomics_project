@@ -1,0 +1,174 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="412.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="402.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sapA
+SapA</title>
+			<polygon class="sapA
+SapA" points="10,10 18,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="11,28 11,28 15,40 11,52 11,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapB
+SapB</title>
+			<polygon class="sapB
+SapB" points="22,10 37,40 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3995 (PF13160)
+"Protein of unknown function (DUF3995)"</title>
+				<polygon class="PF13160" points="22,28 27,28 33,40 27,52 22,52" stroke-linejoin="round" width="12" height="24" fill="rgb(84,135,199)" stroke="rgb(67,107,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapC
+SapC</title>
+			<polygon class="sapC
+SapC" points="38,25 41,25 41,10 71,40 41,70 41,55 38,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="39,28 55,28 66,39 66,41 55,52 39,52" stroke-linejoin="round" width="27" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapD
+SapD</title>
+			<polygon class="sapD
+SapD" points="71,25 74,25 74,10 104,40 74,70 74,55 71,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OCD_Mu_crystall (PF02423)
+"Ornithine cyclodeaminase/mu-crystallin family"</title>
+				<polygon class="PF02423" points="72,28 88,28 100,40 88,52 72,52" stroke-linejoin="round" width="30" height="24" fill="rgb(221,120,93)" stroke="rgb(176,96,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapE
+SapE</title>
+			<polygon class="sapE
+SapE" points="108,10 132,40 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="109,28 119,28 128,40 119,52 109,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapF
+SapF</title>
+			<polygon class="sapF
+SapF" points="132,10 146,40 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FabA (PF07977)
+"FabA-like domain"</title>
+				<polygon class="PF07977" points="132,28 137,28 143,40 137,52 132,52" stroke-linejoin="round" width="12" height="24" fill="rgb(66,205,188)" stroke="rgb(52,164,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapG
+SapG</title>
+			<polygon class="sapG
+SapG" points="146,10 162,40 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FabA (PF07977)
+"FabA-like domain"</title>
+				<polygon class="PF07977" points="147,28 152,28 158,40 152,52 147,52" stroke-linejoin="round" width="13" height="24" fill="rgb(66,205,188)" stroke="rgb(52,164,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapH
+SapH</title>
+			<polygon class="sapH
+SapH" points="167,25 177,25 177,10 207,40 177,70 177,55 167,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="167" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="191,28 191,28 202,39 202,41 191,52 191,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapI
+SapI</title>
+			<polygon class="sapI
+SapI" points="207,25 216,25 216,10 246,40 216,70 216,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="208" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="232,30 241,39 241,41 232,50" stroke-linejoin="round" width="9" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapJ
+SapJ</title>
+			<polygon class="sapJ
+SapJ" points="246,25 253,25 253,10 283,40 253,70 253,55 246,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="246" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="268,29 279,40 279,40 268,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapK
+SapK</title>
+			<polygon class="sapK
+SapK" points="284,25 286,25 286,10 316,40 286,70 286,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<polygon class="PF00109" points="288,28 300,28 303,31 303,49 300,52 288,52" stroke-linejoin="round" width="15" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapL
+SapL</title>
+			<polygon class="sapL
+SapL" points="316,25 316,25 316,10 346,40 316,70 316,55 316,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="320,28 329,28 341,40 329,52 320,52" stroke-linejoin="round" width="22" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapM
+SapM</title>
+			<polygon class="sapM
+SapM" points="346,25 347,25 347,10 377,40 347,70 347,55 346,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT_2 (PF13279)
+"Thioesterase-like superfamily"</title>
+				<polygon class="PF13279" points="361,28 361,28 373,40 361,52 361,52" stroke-linejoin="round" width="15" height="24" fill="rgb(213,114,82)" stroke="rgb(170,91,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sapN
+SapN</title>
+			<polygon class="sapN
+SapN" points="378,10 402,40 378,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DSBA (PF01323)
+"DSBA-like thioredoxin domain"</title>
+				<polygon class="PF01323" points="378,28 389,28 397,39 397,41 389,52 378,52" stroke-linejoin="round" width="19" height="24" fill="rgb(221,114,99)" stroke="rgb(176,91,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

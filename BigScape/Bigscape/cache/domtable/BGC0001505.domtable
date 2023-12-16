@@ -1,0 +1,24 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.25   284 BGC0001505_ORF3:gid:sphA:pid:AVD53610.1:loc:530:2534:strand:- -            667   1.1e-41  143.1   0.0   1   1   2.7e-45   1.8e-41  142.4   0.0     2   270    21   267    20   284 0.86 Subtilase family
+PatG_C               PF18065.4    115 BGC0001505_ORF3:gid:sphA:pid:AVD53610.1:loc:530:2534:strand:- -            667     5e-38  129.7   0.0   1   1   1.5e-41     1e-37  128.8   0.0     2   115   550   663   549   663 0.98 PatG C-terminal
+PatG_D               PF18047.4    118 BGC0001505_ORF3:gid:sphA:pid:AVD53610.1:loc:530:2534:strand:- -            667   6.9e-19   68.5   0.0   1   1   4.3e-22   2.8e-18   66.5   0.0     1   116   391   503   391   505 0.95 PatG Domain
+DUF5840              PF19158.3     49 BGC0001505_ORF4:gid:sphE:pid:AVD53611.1:loc:3298:3442:strand:+ -             47   7.8e-26   90.3   0.8   1   1   4.7e-30   9.1e-26   90.1   0.8     1    49     1    47     1    47 0.98 Family of unknown function (DUF5840)
+Y1_Tnp               PF01797.19   122 BGC0001505_ORF5:gid::pid:AVG44180.1:loc:3475:4267:strand:- -            263   1.3e-20   73.8   0.3   1   1   1.2e-24   2.4e-20   73.0   0.3     3   122    10   134     8   134 0.87 Transposase IS200 like
+DUF5838              PF19156.3    289 BGC0001505_ORF6:gid:sphF:pid:AVD53612.1:loc:4282:5155:strand:+ -            290   4.8e-73  246.1   4.0   1   1   2.9e-77   5.6e-73  245.9   4.0     2   289    13   281    12   281 0.95 Family of unknown function (DUF5838)
+Uma2                 PF05685.15   172 BGC0001505_ORF7:gid::pid:AXU44625.1:loc:5884:6568:strand:+ -            227   2.8e-32  111.8   0.1   1   1     2e-36     4e-32  111.2   0.1     4   170    27   193    25   196 0.94 Putative restriction endonuclease
+XisI                 PF08869.14   110 BGC0001505_ORF9:gid::pid:AVG44181.1:loc:7316:7652:strand:- -            111     1e-48  164.4   0.6   1   1   5.8e-53   1.1e-48  164.3   0.6     1   110     1   110     1   110 1.00 XisI protein
+PatG_C               PF18065.4    115 BGC0001505_ORF10:gid:sphG:pid:AVG44182.1:loc:8086:10279:strand:+ -            730   1.3e-33  115.5   0.0   1   1     2e-37   1.3e-33  115.5   0.0     4   115   613   724   610   724 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0001505_ORF10:gid:sphG:pid:AVG44182.1:loc:8086:10279:strand:+ -            730   1.1e-20   74.1   0.0   1   1   2.8e-24   1.8e-20   73.4   0.0     4   269    41   329    38   356 0.79 Subtilase family
+PatG_D               PF18047.4    118 BGC0001505_ORF10:gid:sphG:pid:AVG44182.1:loc:8086:10279:strand:+ -            730     3e-19   69.7   0.0   1   1   1.5e-22   9.8e-19   68.0   0.0     1   114   451   561   451   565 0.93 PatG Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001505.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001505.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001505.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:01:05 2023
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+4PPT_N               PF17837.4     68 BGC0001341_ORF1:gid::pid:ORC16616.1:loc:0:633:strand:- -            210   2.2e-22   79.0   0.6   1   1   3.3e-26   3.2e-22   78.5   0.6     1    68    13    80    13    80 0.97 4'-phosphopantetheinyl transferase N-terminal domain
+ACPS                 PF01648.23   114 BGC0001341_ORF1:gid::pid:ORC16616.1:loc:0:633:strand:- -            210   7.4e-09   35.9   0.0   1   1   1.5e-12   1.5e-08   34.9   0.0     2    81    88   161    87   175 0.87 4'-phosphopantetheinyl transferase superfamily
+ABC_tran             PF00005.30   137 BGC0001341_ORF3:gid::pid:ORC16572.1:loc:1770:2643:strand:- -            290   1.1e-22   81.2   0.0   1   1   5.1e-26     5e-22   79.0   0.0     4   136    20   155    17   156 0.83 ABC transporter
+AAA_21               PF13304.9    304 BGC0001341_ORF3:gid::pid:ORC16572.1:loc:1770:2643:strand:- -            290   5.6e-17   62.6   0.3   1   1   3.3e-16   3.3e-12   46.9   0.0   231   298   121   185    91   188 0.88 AAA domain, putative AbiEii toxin, Type IV TA system
+AMP-binding          PF00501.31   424 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656  1.4e-134  449.0   0.0   1   2   3.8e-66   1.1e-62  212.2   0.0    16   423   203   623   187   624 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656  1.4e-134  449.0   0.0   2   2   8.5e-73   2.4e-69  234.1   0.0     5   424  1812  2194  1808  2194 0.87 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656     1e-83  281.7   0.0   1   1   5.2e-87   1.5e-83  281.2   0.0     7   456  1351  1788  1346  1789 0.95 Condensation domain
+Thioesterase         PF00975.23   230 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656   2.7e-21   76.9   0.0   1   1   5.2e-24   1.4e-20   74.5   0.0     1   226  2392  2642  2392  2644 0.76 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656   6.4e-20   71.4   0.3   1   2     9e-12   2.5e-08   34.2   0.0     2    67  1261  1324  1260  1324 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656   6.4e-20   71.4   0.3   2   2   1.1e-11   3.1e-08   33.9   0.4     2    66  2304  2365  2303  2366 0.95 Phosphopantetheine attachment site
+KR                   PF08659.13   180 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656   9.9e-19   68.0   1.1   1   1   3.5e-22   9.9e-19   68.0   1.1     1   179   944  1133   944  1134 0.86 KR domain
+Abhydrolase_6        PF12697.10   220 BGC0001341_ORF4:gid::pid:ORC16617.1:loc:2639:10610:strand:- -           2656   4.6e-07   30.8   0.3   1   1   1.6e-10   4.6e-07   30.8   0.3     1   207  2394  2626  2394  2643 0.55 Alpha/beta hydrolase family
+Condensation         PF00668.23   457 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359  1.8e-186  620.4   0.0   1   3   1.8e-86   7.1e-83  278.9   0.1     2   451  1317  1767  1316  1772 0.94 Condensation domain
+Condensation         PF00668.23   457 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359  1.8e-186  620.4   0.0   2   3   6.5e-42   2.6e-38  132.0   0.0     3   363  2366  2710  2364  2731 0.88 Condensation domain
+Condensation         PF00668.23   457 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359  1.8e-186  620.4   0.0   3   3     3e-64   1.2e-60  205.7   0.0     2   436  2818  3247  2817  3261 0.90 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359  1.4e-139  465.5   2.7   1   2   1.6e-58   6.1e-55  186.7   0.1     6   423    18   422    14   423 0.77 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359  1.4e-139  465.5   2.7   2   2   6.1e-86   2.4e-82  276.9   0.0     3   424  1791  2177  1789  2177 0.88 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359   3.5e-24   85.0   0.1   1   2   2.4e-14   9.4e-11   42.0   0.0     2    64  1239  1299  1238  1302 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359   3.5e-24   85.0   0.1   2   2   1.1e-13   4.4e-10   39.9   0.0     3    65  2288  2347  2286  2349 0.93 Phosphopantetheine attachment site
+KR                   PF08659.13   180 BGC0001341_ORF5:gid::pid:ORC16618.1:loc:10642:20722:strand:- -           3359   1.2e-16   61.3   0.4   1   1   6.4e-20   2.5e-16   60.2   0.4     1   180   922  1101   922  1101 0.92 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001341.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001341.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001341.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:01:23 2023
+# [ok]

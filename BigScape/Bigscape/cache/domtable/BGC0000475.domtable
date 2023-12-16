@@ -1,0 +1,26 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.25   284 BGC0000475_ORF1:gid:patA:pid:AAY21150.1:loc:226:2335:strand:+ -            702   5.3e-37  127.7   0.0   1   1   1.3e-40   8.8e-37  127.0   0.0     3   274    16   260    14   273 0.90 Subtilase family
+PatG_C               PF18065.4    115 BGC0000475_ORF1:gid:patA:pid:AAY21150.1:loc:226:2335:strand:+ -            702   2.6e-36  124.2   0.0   1   1   6.6e-40   4.3e-36  123.5   0.0     4   115   587   698   584   698 0.97 PatG C-terminal
+PatG_D               PF18047.4    118 BGC0000475_ORF1:gid:patA:pid:AAY21150.1:loc:226:2335:strand:+ -            702   2.9e-20   72.9   0.0   1   1   1.4e-23   9.2e-20   71.3   0.0     1   118   426   540   426   540 0.96 PatG Domain
+YcaO                 PF02624.19   322 BGC0000475_ORF4:gid:patD:pid:AAY21153.1:loc:3269:5624:strand:+ -            784     6e-95  318.4   0.0   1   1   4.4e-99   8.7e-95  317.9   0.0     1   322   415   747   415   747 0.94 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+DUF5837              PF19155.3     61 BGC0000475_ORF5:gid:patE:pid:AAY21154.1:loc:5755:5971:strand:+ -             71   1.2e-21   76.7   1.4   1   1   1.5e-25   2.9e-21   75.4   1.4     1    59     1    70     1    71 0.81 Family of unknown function (DUF5837)
+DUF5838              PF19156.3    289 BGC0000475_ORF6:gid:patF:pid:AAY21155.1:loc:6231:7194:strand:+ -            320   2.5e-74  250.4   0.0   1   1   1.5e-78   2.9e-74  250.1   0.0     2   288    15   302    14   303 0.94 Family of unknown function (DUF5838)
+PatG_C               PF18065.4    115 BGC0000475_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   7.3e-29  100.2   0.0   1   1   3.7e-32   1.4e-28   99.3   0.0     3   115  1069  1181  1067  1181 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0000475_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   1.2e-21   77.3   0.0   1   1     5e-25     2e-21   76.6   0.0    54   269   615   820   543   843 0.90 Subtilase family
+PatG_D               PF18047.4    118 BGC0000475_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   2.1e-18   66.9   0.0   1   1   4.2e-21   1.7e-17   64.0   0.0     2   112   923  1019   922  1032 0.90 PatG Domain
+Nitroreductase       PF00881.27   168 BGC0000475_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   1.1e-11   45.3   0.0   1   1   5.7e-15   2.2e-11   44.2   0.0     1   162   276   474   276   480 0.88 Nitroreductase family
+HTH_57               PF18679.4    112 BGC0000475_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   3.2e-10   40.3   0.0   1   1   1.8e-13   6.9e-10   39.2   0.0     3   111    10   115     8   116 0.86 ThcOx helix turn helix domain
+FAD_binding_7        PF03441.17   203 BGC0000475_ORF8:gid::pid:AAY21157.1:loc:11027:12455:strand:- -            475   1.1e-81  273.4   3.0   1   1   1.5e-85   1.4e-81  272.9   3.0     1   202   280   471   280   472 0.95 FAD binding domain of DNA photolyase
+DNA_photolyase       PF00875.21   164 BGC0000475_ORF8:gid::pid:AAY21157.1:loc:11027:12455:strand:- -            475   9.3e-49  165.6   0.0   1   1   2.3e-52   2.3e-48  164.4   0.0     2   159     6   163     5   171 0.95 DNA photolyase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000475.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000475.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000475.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:40:45 2023
+# [ok]

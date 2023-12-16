@@ -1,0 +1,27 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0002682_ORF1:gid:matC:pid:BAD02214.1:loc:139:907:strand:+ -            255   1.8e-31  109.6   0.0   1   1   3.6e-35   2.3e-31  109.2   0.0     2   137    18   166    17   166 0.94 ABC transporter
+Peripla_BP_2         PF01497.21   237 BGC0002682_ORF2:gid:matD:pid:BAD02215.1:loc:930:1824:strand:+ -            297   1.1e-25   90.6   0.0   1   1   7.3e-30   1.4e-25   90.2   0.0     1   235    37   273    37   274 0.96 Periplasmic binding protein
+FecCD                PF01032.21   312 BGC0002682_ORF3:gid:matB:pid:BAD02216.1:loc:1820:3818:strand:+ -            665    1e-129  432.2  75.5   1   2   2.1e-65   4.2e-61  206.8  33.3     2   312    22   336    21   336 0.87 FecCD transport family
+FecCD                PF01032.21   312 BGC0002682_ORF3:gid:matB:pid:BAD02216.1:loc:1820:3818:strand:+ -            665    1e-129  432.2  75.5   2   2   2.3e-72   4.5e-68  229.7  34.2     2   312   369   665   362   665 0.95 FecCD transport family
+IucA_IucC            PF04183.15   239 BGC0002682_ORF4:gid:iucA:pid:BAD02217.1:loc:4029:5826:strand:+ -            598   2.9e-53  181.0   0.0   1   1   4.5e-57   4.4e-53  180.4   0.0     2   239   148   383   147   383 0.89 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002682_ORF4:gid:iucA:pid:BAD02217.1:loc:4029:5826:strand:+ -            598   1.1e-28  100.9   0.3   1   1   2.5e-32   2.4e-28   99.7   0.3     1   162   413   574   413   575 0.91 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 BGC0002682_ORF5:gid:iucB:pid:BAD02218.1:loc:5818:6736:strand:+ -            305   2.7e-51  173.2   0.1   1   1     2e-55   3.9e-51  172.7   0.1     2   144   141   284   140   285 0.96 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 BGC0002682_ORF6:gid:iucC:pid:BAD02219.1:loc:6729:8505:strand:+ -            591   1.8e-47  162.0   0.0   1   2   2.1e-10   2.1e-06   27.7   0.0     7    39   141   173   135   178 0.89 IucA / IucC family
+IucA_IucC            PF04183.15   239 BGC0002682_ORF6:gid:iucC:pid:BAD02219.1:loc:6729:8505:strand:+ -            591   1.8e-47  162.0   0.0   2   2   2.8e-42   2.8e-38  132.0   0.0   100   238   235   384   229   385 0.96 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002682_ORF6:gid:iucC:pid:BAD02219.1:loc:6729:8505:strand:+ -            591     9e-30  104.4   0.5   1   1   5.8e-33   5.7e-29  101.8   0.1     1   151   406   556   406   569 0.93 Ferric iron reductase FhuF-like transporter
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002682_ORF7:gid:iucD:pid:BAD02220.1:loc:8570:9833:strand:+ -            420  3.5e-106  355.3   0.1   1   1  8.8e-110  4.3e-106  355.0   0.1     3   340     9   336     7   337 0.96 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyr_redox_3          PF13738.9    305 BGC0002682_ORF7:gid:iucD:pid:BAD02220.1:loc:8570:9833:strand:+ -            420   3.8e-17   62.6   0.0   1   1     4e-18     2e-14   53.7   0.0    74   186    94   206    67   226 0.84 Pyridine nucleotide-disulphide oxidoreductase
+TonB_dep_Rec         PF00593.27   470 BGC0002682_ORF8:gid:iutA:pid:BAD02221.1:loc:9983:12158:strand:+ -            724   5.4e-26   92.6  39.4   1   1   5.5e-30   5.4e-26   92.6  39.4     8   470   249   723   241   723 0.72 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0002682_ORF8:gid:iutA:pid:BAD02221.1:loc:9983:12158:strand:+ -            724   7.4e-18   65.2   0.5   1   1   1.5e-21   1.4e-17   64.3   0.5     3   108    55   157    53   157 0.95 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002682.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002682.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002682.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:08:23 2023
+# [ok]

@@ -1,0 +1,27 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="62.93333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="52.93333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>melC2-1 (SGR_527)
+putative tyrosinase</title>
+			<polygon class="melC2-1 (SGR_527)
+putative tyrosinase" points="10,40 38,10 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tyrosinase (PF00264)
+"Common central domain of tyrosinase"</title>
+				<polygon class="PF00264" points="15,39 26,28 36,28 36,52 26,52 15,41" stroke-linejoin="round" width="21" height="24" fill="rgb(87,199,223)" stroke="rgb(69,159,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>melC1-1 (SGR_528)
+putative tyrosinase co-factor protein</title>
+			<polygon class="melC1-1 (SGR_528)
+putative tyrosinase co-factor protein" points="39,40 52,10 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MelC1 (PF06236)
+"Tyrosinase co-factor MelC1"</title>
+				<polygon class="PF06236" points="42,40 47,28 51,28 51,52 47,52" stroke-linejoin="round" width="12" height="24" fill="rgb(182,64,58)" stroke="rgb(145,51,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

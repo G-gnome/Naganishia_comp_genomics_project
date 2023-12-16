@@ -1,0 +1,33 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BTAD                 PF03704.20   146 BGC0002346_ORF1:gid:kyaR1:pid:QDF63352.1:loc:610:1396:strand:+ -            261   2.8e-36  125.2  10.8   1   1   3.9e-40   3.8e-36  124.8  10.8     1   146   103   249   103   249 0.97 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0002346_ORF1:gid:kyaR1:pid:QDF63352.1:loc:610:1396:strand:+ -            261   6.4e-08   32.7   0.0   1   1   1.2e-11   1.2e-07   31.8   0.0     8    75    27    94    24    96 0.91 Transcriptional regulatory protein, C terminal
+SNARE_assoc          PF09335.14   123 BGC0002346_ORF2:gid:kyaorf11:pid:QDF63353.1:loc:1380:2283:strand:- -            300   4.8e-15   56.2   1.2   1   1   2.5e-19   4.8e-15   56.2   1.2     7   122    43   160    34   161 0.84 SNARE associated Golgi protein
+Methyltransf_25      PF13649.9     97 BGC0002346_ORF3:gid:kyaL:pid:QDF63354.1:loc:2282:2963:strand:- -            226   1.2e-10   42.0   0.0   1   1   4.6e-14   1.8e-10   41.5   0.0     1    97    57   159    57   159 0.89 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002346_ORF3:gid:kyaL:pid:QDF63354.1:loc:2282:2963:strand:- -            226   3.4e-07   31.0   0.0   1   1   1.2e-10   4.7e-07   30.6   0.0     1    99    58   161    58   161 0.91 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002346_ORF3:gid:kyaL:pid:QDF63354.1:loc:2282:2963:strand:- -            226   8.1e-07   29.1   0.0   1   1   2.8e-10   1.1e-06   28.7   0.0    10   117    40   163    32   201 0.73 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002346_ORF3:gid:kyaL:pid:QDF63354.1:loc:2282:2963:strand:- -            226   1.3e-05   25.9   0.0   1   1   5.1e-09     2e-05   25.3   0.0     1    95    58   162    58   163 0.91 Methyltransferase domain
+MTS                  PF05175.17   170 BGC0002346_ORF3:gid:kyaL:pid:QDF63354.1:loc:2282:2963:strand:- -            226   1.3e-05   25.0   0.0   1   1   4.5e-09   1.8e-05   24.6   0.0    29   138    49   163    33   175 0.80 Methyltransferase small domain
+HisKA_3              PF07730.16    68 BGC0002346_ORF4:gid:kyaK:pid:QDF63355.1:loc:3087:4206:strand:+ -            372   4.1e-16   59.4   4.1   1   1   2.1e-20   4.1e-16   59.4   4.1     1    66   167   232   167   234 0.97 Histidine kinase
+Response_reg         PF00072.27   112 BGC0002346_ORF5:gid:kyaR:pid:QDF63356.1:loc:4202:4853:strand:+ -            216   1.4e-24   86.5   0.0   1   1   3.1e-28     2e-24   86.0   0.0     2   111     5   115     4   116 0.98 Response regulator receiver domain
+GerE                 PF00196.22    57 BGC0002346_ORF5:gid:kyaR:pid:QDF63356.1:loc:4202:4853:strand:+ -            216   7.2e-16   57.7   0.0   1   1   1.6e-19   1.1e-15   57.1   0.0     3    56   155   208   153   209 0.96 Bacterial regulatory proteins, luxR family
+DUF5950              PF19375.2    103 BGC0002346_ORF6:gid:kyaN:pid:QDF63357.1:loc:4997:5369:strand:+ -            123   1.7e-37  127.8   0.3   1   1     1e-41     2e-37  127.6   0.3     1   100    16   115    16   118 0.98 Family of unknown function (DUF5950)
+DUF5973              PF19398.2     81 BGC0002346_ORF7:gid:kyaA:pid:QDF63358.1:loc:5401:5638:strand:+ -             78   4.6e-29  100.8   0.3   1   1   2.5e-33     5e-29  100.7   0.3     4    81     3    78     1    78 0.98 Family of unknown function (DUF5973)
+DUF4135              PF13575.9    377 BGC0002346_ORF8:gid:kyaM:pid:QDF63359.1:loc:5709:8907:strand:+ -           1065     9e-70  235.9   0.0   1   1   1.5e-73   1.4e-69  235.3   0.0     1   376   231   606   231   607 0.88 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0002346_ORF8:gid:kyaM:pid:QDF63359.1:loc:5709:8907:strand:+ -           1065   2.3e-62  210.8   0.0   1   1     3e-66   2.9e-62  210.4   0.0     4   352   710  1059   707  1059 0.95 Lanthionine synthetase C-like protein
+Nif11                PF07862.14    48 BGC0002346_ORF9:gid:kyaX:pid:QDF63360.1:loc:9014:9923:strand:+ -            302   2.6e-11   43.8   0.7   1   1   3.4e-15   6.8e-11   42.5   0.1     1    48     1    48     1    48 0.98 Nif11 domain
+ABC_tran             PF00005.30   137 BGC0002346_ORF10:gid:kyaT:pid:QDF63361.1:loc:9970:10954:strand:+ -            327   1.8e-31  109.6   0.0   1   1   2.7e-35   2.6e-31  109.1   0.0     2   136    35   177    34   178 0.92 ABC transporter
+AAA_21               PF13304.9    304 BGC0002346_ORF10:gid:kyaT:pid:QDF63361.1:loc:9970:10954:strand:+ -            327   1.1e-08   35.4   0.5   1   1   3.7e-10   3.7e-06   27.1   0.1   237   298   149   208   124   210 0.85 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.27   210 BGC0002346_ORF11:gid:kyaH:pid:QDF63362.1:loc:10979:11864:strand:+ -            294     1e-27   97.1  12.7   1   1   1.5e-31   1.5e-27   96.5  12.7     5   208    32   242    29   244 0.84 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0002346_ORF11:gid:kyaH:pid:QDF63362.1:loc:10979:11864:strand:+ -            294   1.6e-14   53.9   8.7   1   1   1.7e-18   1.6e-14   53.9   8.7   158   330    81   276    71   287 0.84 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002346.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002346.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002346.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:49:42 2023
+# [ok]

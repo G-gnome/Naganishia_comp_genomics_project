@@ -1,0 +1,20 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.3    199 BGC0002651_ORF1:gid::pid:GAP90682.1:loc:0:1747:strand:- -            406   8.1e-44  150.0   0.8   1   1   1.2e-47   1.2e-43  149.4   0.8     1   198   146   344   146   345 0.91 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth_C      PF03936.19   267 BGC0002651_ORF1:gid::pid:GAP90682.1:loc:0:1747:strand:- -            406   2.1e-06   27.4   0.6   1   1   2.9e-10   2.9e-06   26.9   0.6    43   267   121   345   103   345 0.77 Terpene synthase family, metal binding domain
+p450                 PF00067.25   463 BGC0002651_ORF2:gid::pid:GAW26838.1:loc:2531:4457:strand:- -            537   7.9e-39  133.8   0.0   1   1   4.9e-43   9.7e-39  133.5   0.0   106   461   160   529   129   531 0.86 Cytochrome P450
+Methyltransf_21      PF05050.15   173 BGC0002651_ORF3:gid::pid:GAW26839.1:loc:5639:6377:strand:- -            245   2.7e-17   63.5   0.0   1   1   1.8e-21   3.6e-17   63.1   0.0     1   170    46   222    46   225 0.67 Methyltransferase FkbM domain
+p450                 PF00067.25   463 BGC0002651_ORF5:gid::pid:GAP90685.1:loc:9520:11674:strand:- -            524   1.2e-45  156.3   0.0   1   1   9.6e-50   1.9e-45  155.6   0.0    20   431    72   482    54   497 0.79 Cytochrome P450
+p450                 PF00067.25   463 BGC0002651_ORF7:gid::pid:GAP90687.1:loc:13114:14469:strand:- -            433   4.5e-61  207.2   0.0   1   1   2.8e-65   5.5e-61  206.9   0.0    22   458     1   419     1   425 0.83 Cytochrome P450
+p450                 PF00067.25   463 BGC0002651_ORF8:gid::pid:GAP90688.2:loc:15093:16858:strand:+ -            514   1.6e-57  195.4   0.0   1   1   1.2e-61   2.3e-57  194.9   0.0    20   458    64   499    45   503 0.84 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002651.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002651.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002651.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:00:52 2023
+# [ok]

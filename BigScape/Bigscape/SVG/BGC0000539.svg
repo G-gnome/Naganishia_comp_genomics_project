@@ -1,0 +1,141 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="411.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="401.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative response regulator</title>
+			<polygon class="
+putative response regulator" points="15,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="19,40 24,34 24,46" stroke-linejoin="round" width="9" height="24" fill="rgb(207,76,174)" stroke="rgb(165,60,139)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="28,29 29,28 39,28 39,52 29,52 28,51" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nukA
+NukA</title>
+			<polygon class="nukA
+NukA" points="54,40 59,10 59,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>L_biotic_typeA (PF04604)
+"Type-A lantibiotic"</title>
+				<polygon class="PF04604" points="57,40 59,28 59,28 59,52 59,52" stroke-linejoin="round" width="5" height="24" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nukM
+NukM</title>
+			<polygon class="nukM
+NukM" points="73,25 134,25 134,10 164,40 134,70 134,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="81" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="130,28 148,28 160,40 148,52 130,52" stroke-linejoin="round" width="34" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nukT
+NukT</title>
+			<polygon class="nukT
+NukT" points="165,25 204,25 204,10 234,40 204,70 204,55 165,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="165" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="180" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="213,28 218,28 226,36 226,44 218,52 213,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nukF
+NukF</title>
+			<polygon class="nukF
+NukF" points="235,10 264,40 235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="237,28 248,28 251,31 251,49 248,52 237,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nukE
+NukE</title>
+			<polygon class="nukE
+NukE" points="266,10 291,40 266,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_4 (PF12730)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12730" points="266,28 277,28 283,35 283,45 277,52 266,52" stroke-linejoin="round" width="17" height="24" fill="rgb(203,161,59)" stroke="rgb(162,128,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nukG
+NukG</title>
+			<polygon class="nukG
+NukG" points="290,10 314,40 290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_4 (PF12730)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12730" points="290,28 301,28 307,36 307,44 301,52 290,52" stroke-linejoin="round" width="17" height="24" fill="rgb(203,161,59)" stroke="rgb(162,128,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nukH
+NukH</title>
+			<polygon class="nukH
+NukH" points="315,10 324,40 315,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+putative plasmid replication-associated protein</title>
+			<polygon class="
+putative plasmid replication-associated protein" points="328,40 334,10 334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+putative plasmid replication-associated protein</title>
+			<polygon class="
+putative plasmid replication-associated protein" points="335,40 356,10 356,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_31 (PF13614)
+"AAA domain"</title>
+				<polygon class="PF13614" points="343,34 348,28 356,28 356,52 348,52 343,46" stroke-linejoin="round" width="13" height="24" fill="rgb(144,187,62)" stroke="rgb(115,149,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rep
+replication protein</title>
+			<polygon class="rep
+replication protein" points="383,10 401,40 383,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RepA_N (PF06970)
+"Replication initiator protein A (RepA) N-terminus"</title>
+				<polygon class="PF06970" points="383,28 390,28 391,29 391,51 390,52 383,52" stroke-linejoin="round" width="8" height="24" fill="rgb(221,85,68)" stroke="rgb(176,67,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RepA_N (PF06970)
+"Replication initiator protein A (RepA) N-terminus"</title>
+				<polygon class="PF06970" points="395,36 397,40 395,44" stroke-linejoin="round" width="6" height="24" fill="rgb(221,85,68)" stroke="rgb(176,67,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

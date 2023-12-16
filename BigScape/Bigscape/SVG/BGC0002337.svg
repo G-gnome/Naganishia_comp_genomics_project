@@ -1,0 +1,27 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="111.36666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="101.36666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>lanL (IG05_RS0137475)
+class IV lanthionine synthetase LanL</title>
+			<polygon class="lanL (IG05_RS0137475)
+class IV lanthionine synthetase LanL" points="95,25 40,25 40,10 10,40 40,70 40,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="14,40 26,28 44,28 44,52 26,52" stroke-linejoin="round" width="34" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="49" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (IG05_RS0137480)
+SflA family class IV lanthipeptide</title>
+			<polygon class=" (IG05_RS0137480)
+SflA family class IV lanthipeptide" points="95,40 101,10 101,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

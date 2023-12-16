@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1020.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1010.0333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>spdQ
+putative cytochrome P450</title>
+			<polygon class="spdQ
+putative cytochrome P450" points="164,25 130,25 130,10 100,40 130,70 130,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="111,33 116,28 146,28 146,52 116,52 111,47" stroke-linejoin="round" width="35" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spdM
+putative monooxygenase</title>
+			<polygon class="spdM
+putative monooxygenase" points="223,25 202,25 202,10 172,40 202,70 202,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="188,28 188,28 222,28 222,52 188,52 188,52" stroke-linejoin="round" width="34" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spdB
+putative membrane protein</title>
+			<polygon class="spdB
+putative membrane protein" points="246,40 272,10 272,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>spdE
+putative prenyltransferase</title>
+			<polygon class="spdE
+putative prenyltransferase" points="282,25 339,25 339,10 369,40 339,70 339,55 282,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<rect class="PF00348" x="287" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="318,28 352,28 355,31 355,49 352,52 318,52" stroke-linejoin="round" width="37" height="24" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spdJ
+putative cytochrome P450</title>
+			<polygon class="spdJ
+putative cytochrome P450" points="400,25 434,25 434,10 464,40 434,70 434,55 400,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="415,28 448,28 451,31 451,49 448,52 415,52" stroke-linejoin="round" width="36" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>spdH
+putative GMC oxidoreductase</title>
+			<polygon class="spdH
+putative GMC oxidoreductase" points="632,25 668,25 668,10 698,40 668,70 668,55 632,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="634" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="676,28 682,28 690,36 690,44 682,52 676,52" stroke-linejoin="round" width="14" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

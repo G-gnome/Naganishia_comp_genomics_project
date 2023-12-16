@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="178.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="168.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (STRAU_RS02290)
+ABC transporter ATP-binding protein/permease</title>
+			<polygon class=" (STRAU_RS02290)
+ABC transporter ATP-binding protein/permease" points="69,25 40,25 40,10 10,40 40,70 40,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="18,36 26,28 32,28 32,52 26,52 18,44" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="41" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STRAU_RS02295)
+lasso peptide biosynthesis B2 protein</title>
+			<polygon class=" (STRAU_RS02295)
+lasso peptide biosynthesis B2 protein" points="71,40 85,10 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="74,40 80,28 83,28 83,52 80,52" stroke-linejoin="round" width="11" height="24" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STRAU_RS02300)
+lasso peptide biosynthesis PqqD family chaperone</title>
+			<polygon class=" (STRAU_RS02300)
+lasso peptide biosynthesis PqqD family chaperone" points="85,40 93,10 93,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="88,40 91,28 91,28 91,52 91,52" stroke-linejoin="round" width="6" height="24" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STRAU_RS02305)
+lasso peptide isopeptide bond-forming cyclase</title>
+			<polygon class=" (STRAU_RS02305)
+lasso peptide isopeptide bond-forming cyclase" points="156,25 125,25 125,10 95,40 125,70 125,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="99,40 111,28 134,28 134,52 111,52" stroke-linejoin="round" width="38" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STRAU_RS41245)
+keywimysin-related RiPP</title>
+			<polygon class=" (STRAU_RS41245)
+keywimysin-related RiPP" points="158,40 161,10 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5972 (PF19397)
+"Family of unknown function (DUF5972)"</title>
+				<polygon class="PF19397" points="161,40 160,48 160,32" stroke-linejoin="round" width="2" height="24" fill="rgb(197,103,64)" stroke="rgb(157,82,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

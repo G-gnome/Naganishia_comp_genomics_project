@@ -1,0 +1,31 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6176              PF19673.2    110 BGC0000598_ORF1:gid:poyK:pid:AFS60634.1:loc:0:351:strand:+ -            116     2e-25   89.0   0.0   1   1   1.1e-29   2.2e-25   88.9   0.0     2   107     3   109     2   112 0.95 Family of unknown function (DUF6176)
+Hydrolase_4          PF12146.11   239 BGC0000598_ORF2:gid:poyJ:pid:AFS60635.1:loc:463:2200:strand:- -            578   4.2e-18   65.6   0.0   1   1   3.3e-21   1.1e-17   64.2   0.0    11   232   312   540   311   543 0.83 Serine aminopeptidase, S33
+Abhydrolase_1        PF00561.23   257 BGC0000598_ORF2:gid:poyJ:pid:AFS60635.1:loc:463:2200:strand:- -            578   1.4e-07   31.5   0.0   1   1   2.1e-10   6.8e-07   29.3   0.0     7   107   312   416   311   464 0.87 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.10   220 BGC0000598_ORF2:gid:poyJ:pid:AFS60635.1:loc:463:2200:strand:- -            578   2.8e-07   31.5   2.5   1   1   1.3e-10   4.4e-07   30.8   0.0     1   208   300   541   300   560 0.55 Alpha/beta hydrolase family
+Peptidase_S15        PF02129.21   269 BGC0000598_ORF2:gid:poyJ:pid:AFS60635.1:loc:463:2200:strand:- -            578   8.2e-06   25.7   0.0   1   1   9.7e-09   3.2e-05   23.8   0.0     6   242   285   510   282   540 0.75 X-Pro dipeptidyl-peptidase (S15 family)
+DDE_Tnp_IS240        PF13610.9    139 BGC0000598_ORF3:gid::pid:AFS60636.1:loc:2388:3072:strand:+ -            227   2.1e-49  167.4   0.2   1   1   3.2e-53   3.1e-49  166.9   0.2     3   138    73   207    71   208 0.98 DDE domain
+DDE_Tnp_IS66         PF03050.17   281 BGC0000598_ORF3:gid::pid:AFS60636.1:loc:2388:3072:strand:+ -            227   2.5e-08   33.9   1.5   1   1   3.8e-11   3.8e-07   30.0   0.7    17   123    23   121    10   139 0.91 Transposase IS66 family
+Radical_SAM          PF04055.24   167 BGC0000598_ORF4:gid:poyB:pid:AFS60637.1:loc:3315:5307:strand:+ -            663   8.4e-13   49.2   0.0   1   1   1.6e-16   1.5e-12   48.3   0.0     1   167   263   426   263   426 0.96 Radical SAM superfamily
+Radical_SAM          PF04055.24   167 BGC0000598_ORF5:gid:poyC:pid:AFS60638.1:loc:5348:7361:strand:+ -            670   5.9e-12   46.4   0.0   1   1   6.5e-16   1.3e-11   45.3   0.0     2   167   269   431   268   431 0.94 Radical SAM superfamily
+MTS                  PF05175.17   170 BGC0000598_ORF8:gid:poyE:pid:AFS60641.1:loc:9515:10718:strand:+ -            400   5.2e-14   52.4   0.0   1   1   9.7e-17   3.8e-13   49.5   0.0    20   110   155   248   150   317 0.87 Methyltransferase small domain
+Methyltransf_25      PF13649.9     97 BGC0000598_ORF8:gid:poyE:pid:AFS60641.1:loc:9515:10718:strand:+ -            400   1.5e-07   32.1   0.0   1   1   8.8e-11   3.5e-07   30.9   0.0     1    71   173   243   173   257 0.88 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000598_ORF8:gid:poyE:pid:AFS60641.1:loc:9515:10718:strand:+ -            400   1.6e-07   31.4   0.0   1   1   6.8e-11   2.7e-07   30.7   0.0     4   106   170   286   167   314 0.81 Methyltransferase domain
+PrmA                 PF06325.16   295 BGC0000598_ORF8:gid:poyE:pid:AFS60641.1:loc:9515:10718:strand:+ -            400   4.1e-07   29.9   0.0   1   1   1.6e-10   6.3e-07   29.2   0.0   159   232   167   243   159   244 0.85 Ribosomal protein L11 methyltransferase (PrmA)
+DUF4135              PF13575.9    377 BGC0000598_ORF9:gid:poyF:pid:AFS60642.1:loc:10692:12453:strand:+ -            586     1e-87  295.0   0.0   1   1   6.8e-92   1.3e-87  294.6   0.0     1   376   148   513   148   514 0.95 Domain of unknown function (DUF4135)
+Inhibitor_I42        PF09394.13    91 BGC0000598_ORF10:gid:poyG:pid:AFS60643.1:loc:12456:12789:strand:+ -            110   3.6e-11   43.5   0.0   1   1     2e-15     4e-11   43.3   0.0     4    81    21    97    18   108 0.90 Chagasin family peptidase inhibitor I42
+Peptidase_C1         PF00112.26   219 BGC0000598_ORF11:gid:poyH:pid:AFS60644.1:loc:12854:13826:strand:+ -            323   9.1e-44  150.3   3.6   1   1   6.8e-48   1.3e-43  149.7   3.6     2   215    87   302    86   305 0.84 Papain family cysteine protease
+Cupin_8              PF13621.9    254 BGC0000598_ORF12:gid:poyI:pid:AFS60645.1:loc:13877:15050:strand:+ -            390   6.2e-51  173.8   0.0   1   1     8e-55   7.9e-51  173.4   0.0     2   249    20   243    18   247 0.87 Cupin-like domain
+JmjC_2               PF08007.15   127 BGC0000598_ORF12:gid:poyI:pid:AFS60645.1:loc:13877:15050:strand:+ -            390   3.2e-07   30.0   0.0   1   1   1.4e-10   1.4e-06   28.0   0.0    39   117   147   238   133   243 0.73 JmjC domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000598.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000598.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000598.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:49:45 2023
+# [ok]

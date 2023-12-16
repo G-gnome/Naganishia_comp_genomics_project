@@ -1,0 +1,17 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MelC1                PF06236.14   115 BGC0000909_ORF2:gid:melC1_:pid:BAB69181.1:loc:1060:1447:strand:+ -            128   7.6e-29  100.3   0.9   1   1   3.9e-33   7.6e-29  100.3   0.9    26   112    10    95     3   100 0.86 Tyrosinase co-factor MelC1
+Tyrosinase           PF00264.23   222 BGC0000909_ORF3:gid:melC2_:pid:BAB69182.1:loc:1433:2297:strand:+ -            287   1.7e-42  146.3   1.4   1   1   1.3e-46   2.5e-42  145.8   1.4     2   222    29   238    28   238 0.75 Common central domain of tyrosinase
+Dynamin_N            PF00350.26   168 BGC0000909_ORF4:gid::pid:BAB69183.1:loc:2849:4454:strand:+ -            534   4.5e-09   36.7   0.0   1   1   5.8e-13   1.1e-08   35.4   0.0     3   143    65   196    62   219 0.85 Dynamin family
+MMR_HSR1             PF01926.26   114 BGC0000909_ORF5:gid::pid:BAB69184.1:loc:4756:6625:strand:+ -            622   1.7e-06   28.2   0.0   1   1   3.3e-10   3.3e-06   27.3   0.0     2    93   122   237   121   260 0.62 50S ribosome-binding GTPase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000909.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000909.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000909.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:18:24 2023
+# [ok]

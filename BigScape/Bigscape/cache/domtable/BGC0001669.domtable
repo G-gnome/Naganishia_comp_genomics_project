@@ -1,0 +1,37 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0001669_ORF1:gid:bcrA:pid:AVH76806.1:loc:4732:5719:strand:- -            328   4.9e-28   98.5   0.0   1   1   7.1e-32   6.9e-28   98.0   0.0     2   137    50   190    49   190 0.98 ABC transporter
+AAA_21               PF13304.9    304 BGC0001669_ORF1:gid:bcrA:pid:AVH76806.1:loc:4732:5719:strand:- -            328   1.2e-14   54.9   0.3   1   1   7.4e-14   7.3e-10   39.2   0.0   236   298   160   219   124   225 0.85 AAA domain, putative AbiEii toxin, Type IV TA system
+Response_reg         PF00072.27   112 BGC0001669_ORF2:gid:yxjL:pid:AVH76827.1:loc:5762:6467:strand:- -            234   7.3e-28   97.1   0.1   1   1   1.7e-31   1.1e-27   96.5   0.1     1   112    10   124    10   124 0.98 Response regulator receiver domain
+GerE                 PF00196.22    57 BGC0001669_ORF2:gid:yxjL:pid:AVH76827.1:loc:5762:6467:strand:- -            234   3.2e-19   68.4   0.1   1   1   7.4e-23   4.8e-19   67.8   0.1     2    57   162   217   161   217 0.98 Bacterial regulatory proteins, luxR family
+Sigma70_r4_2         PF08281.15    54 BGC0001669_ORF2:gid:yxjL:pid:AVH76827.1:loc:5762:6467:strand:- -            234   5.4e-10   38.9   0.0   1   1   1.5e-13   9.8e-10   38.1   0.0     6    54   158   205   157   205 0.94 Sigma-70, region 4
+HisKA_3              PF07730.16    68 BGC0001669_ORF3:gid:yxjM:pid:AVH76828.1:loc:6463:7636:strand:- -            390   2.7e-11   44.0   3.6   1   1   4.7e-15   9.1e-11   42.3   0.3     1    60   190   247   190   250 0.91 Histidine kinase
+DUF4135              PF13575.9    377 BGC0001669_ORF5:gid:lanM:pid:AVH76809.1:loc:8162:11246:strand:+ -           1027   1.8e-83  281.0   0.0   1   1   2.3e-87   2.2e-83  280.7   0.0     1   376   192   563   192   564 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0001669_ORF5:gid:lanM:pid:AVH76809.1:loc:8162:11246:strand:+ -           1027     5e-40  137.3   0.0   1   1   6.9e-44   6.8e-40  136.8   0.0     2   351   680  1024   679  1025 0.84 Lanthionine synthetase C-like protein
+MFS_3                PF05977.16   524 BGC0001669_ORF6:gid:entS:pid:AVH76807.1:loc:11271:12543:strand:- -            423   3.4e-35  121.6  36.0   1   1   6.5e-39   4.3e-35  121.3  36.0    11   386    15   398     5   420 0.89 Transmembrane secretion effector
+MFS_1                PF07690.19   353 BGC0001669_ORF6:gid:entS:pid:AVH76807.1:loc:11271:12543:strand:- -            423   2.3e-24   86.1  80.8   1   1   1.4e-23   9.3e-20   71.0  43.6     2   343    20   358    19   359 0.77 Major Facilitator Superfamily
+MFS_2                PF13347.9    427 BGC0001669_ORF6:gid:entS:pid:AVH76807.1:loc:11271:12543:strand:- -            423   4.2e-07   29.0   9.9   1   1   6.4e-11   4.2e-07   29.0   9.9   174   332   176   333   170   344 0.81 MFS/sugar transport protein
+Aldedh               PF00171.25   462 BGC0001669_ORF9:gid:micY:pid:AVH76820.1:loc:15935:17132:strand:+ -            398   2.8e-18   65.8   0.0   1   1   2.2e-22   4.4e-18   65.2   0.0   206   390   147   321   132   330 0.85 Aldehyde dehydrogenase family
+Flavoprotein         PF02441.22   157 BGC0001669_ORF10:gid:micD:pid:AVH76813.1:loc:17122:17668:strand:+ -            181   1.8e-12   47.5   0.0   1   1   9.9e-17   1.9e-12   47.3   0.0     1   136     1   156     1   180 0.87 Flavoprotein
+APH                  PF01636.26   239 BGC0001669_ORF11:gid:micKC:pid:AVH76818.1:loc:17664:20247:strand:+ -            860     6e-07   29.7   1.3   1   1   2.7e-09   5.3e-05   23.3   0.0   152   199   352   396   325   399 0.78 Phosphotransferase enzyme family
+AMP-binding          PF00501.31   424 BGC0001669_ORF12:gid:micE:pid:AVH76814.1:loc:20224:21136:strand:+ -            303   3.4e-24   85.4   0.0   1   1   2.6e-28   5.2e-24   84.8   0.0   156   420    57   298     7   301 0.79 AMP-binding enzyme
+Ketoacyl-synt_C      PF02801.25   119 BGC0001669_ORF13:gid:micF:pid:AVH76815.1:loc:21132:22200:strand:+ -            355   3.6e-13   49.7   1.0   1   1   5.1e-17     1e-12   48.3   1.0    19   107   206   289   194   292 0.87 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0001669_ORF14:gid:micACP:pid:AVH76811.1:loc:22192:22450:strand:+ -             85     4e-08   33.6   0.3   1   1   2.4e-12   4.6e-08   33.4   0.3    17    66    26    76     5    77 0.89 Phosphopantetheine attachment site
+TPP_enzyme_M         PF00205.25   137 BGC0001669_ORF19:gid:micJ:pid:AVH76817.1:loc:25206:26787:strand:+ -            526     1e-15   57.8   0.4   1   1   3.2e-19   2.1e-15   56.8   0.4     9   134   204   328   193   330 0.86 Thiamine pyrophosphate enzyme, central domain
+TPP_enzyme_N         PF02776.21   172 BGC0001669_ORF19:gid:micJ:pid:AVH76817.1:loc:25206:26787:strand:+ -            526   2.7e-13   50.0   0.8   1   1   1.1e-16   6.9e-13   48.7   0.1     8   159    11   157     9   163 0.92 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.24   153 BGC0001669_ORF19:gid:micJ:pid:AVH76817.1:loc:25206:26787:strand:+ -            526     2e-10   40.8   0.0   1   1   2.1e-11   1.4e-07   31.6   0.0    14    91   395   469   381   512 0.77 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+SfLAP                PF11139.11   214 BGC0001669_ORF20:gid:tauE:pid:AVH76825.1:loc:26781:27531:strand:- -            249   6.9e-27   94.4  26.4   1   1   4.3e-31   8.5e-27   94.1  26.4     1   213     9   236     9   237 0.92 Sap, sulfolipid-1-addressing protein
+AvrD                 PF05655.14   332 BGC0001669_ORF22:gid::pid:AVH76824.1:loc:28138:29074:strand:+ -            311   3.2e-34  118.8   2.1   1   2   3.9e-26   7.6e-22   78.1   0.2     5   167    17   169    14   187 0.86 Pseudomonas avirulence D protein (AvrD)
+AvrD                 PF05655.14   332 BGC0001669_ORF22:gid::pid:AVH76824.1:loc:28138:29074:strand:+ -            311   3.2e-34  118.8   2.1   2   2   9.3e-15   1.8e-10   40.7   0.2   236   328   218   308   177   310 0.84 Pseudomonas avirulence D protein (AvrD)
+TetR_N               PF00440.26    47 BGC0001669_ORF23:gid:tetR:pid:AVH76826.1:loc:29061:29763:strand:- -            233   4.2e-14   52.2   0.1   1   1     6e-18   1.2e-13   50.7   0.1     2    47    31    76    30    76 0.96 Bacterial regulatory proteins, tetR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001669.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001669.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001669.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:12:29 2023
+# [ok]

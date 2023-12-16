@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="602.4333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="592.4333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>braA
+brasilane synthase</title>
+			<polygon class="braA
+brasilane synthase" points="41,25 58,25 58,10 88,40 58,70 58,55 41,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_syn_C_2 (PF19086)
+"Terpene synthase family 2, C-terminal metal binding"</title>
+				<rect class="PF19086" x="51" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(55,207,154)" stroke="rgb(43,165,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>braB
+N-acetylglucosamine transferase</title>
+			<polygon class="braB
+N-acetylglucosamine transferase" points="139,25 127,25 127,10 97,40 127,70 127,55 139,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caps_synth (PF05704)
+"Capsular polysaccharide synthesis protein"</title>
+				<rect class="PF05704" x="116" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(199,186,82)" stroke="rgb(159,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>braC
+cytochrome P450 monooxygenase</title>
+			<polygon class="braC
+cytochrome P450 monooxygenase" points="179,25 207,25 207,10 237,40 207,70 207,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="193,28 221,28 228,35 228,45 221,52 193,52" stroke-linejoin="round" width="35" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>braD
+hypothetical protein</title>
+			<polygon class="braD
+hypothetical protein" points="255,40 283,10 283,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>braE
+ABC transporter</title>
+			<polygon class="braE
+ABC transporter" points="570,25 436,25 436,10 406,40 436,70 436,55 570,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="432" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="454" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="495" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

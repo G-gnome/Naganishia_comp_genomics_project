@@ -1,0 +1,22 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0002064_ORF1:gid::pid:QFU91019.1:loc:0:1719:strand:- -            572   6.8e-28   98.0   0.0   1   1   6.2e-32   1.2e-27   97.2   0.0     1   136   349   494   349   495 0.94 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002064_ORF2:gid:msbA1:pid:QFU91020.1:loc:1715:3428:strand:- -            570   9.3e-25   87.9   2.7   1   1   1.2e-28   1.2e-24   87.6   2.7     4   270    27   287    25   291 0.89 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002064_ORF2:gid:msbA1:pid:QFU91020.1:loc:1715:3428:strand:- -            570   1.1e-21   77.9   0.0   1   1   1.7e-25   1.7e-21   77.3   0.0     1   137   344   491   344   491 0.82 ABC transporter
+Bac_luciferase       PF00296.23   314 BGC0002064_ORF3:gid:luxA2:pid:QFU91021.1:loc:3414:4461:strand:- -            348   3.3e-51  174.7   8.0   1   1     3e-55   5.9e-51  173.9   8.0     2   306     8   298     7   306 0.86 Luciferase-like monooxygenase
+Transglut_core3      PF13471.9    117 BGC0002064_ORF4:gid::pid:QFU91022.1:loc:4478:4889:strand:- -            136   5.9e-27   94.0   6.2   1   1     4e-31   7.9e-27   93.6   6.2     4   116    24   132    15   133 0.94 Transglutaminase-like superfamily
+PqqD                 PF05402.15    67 BGC0002064_ORF5:gid::pid:QFU91023.1:loc:4885:5143:strand:- -             85   6.3e-12   45.8   0.0   1   1   3.8e-16   7.4e-12   45.5   0.0     2    67    18    83    17    83 0.97 Coenzyme PQQ synthesis protein D (PqqD)
+Asn_synthase         PF00733.24   355 BGC0002064_ORF6:gid:asnB3:pid:QFU91024.1:loc:5139:6951:strand:- -            603   4.5e-37  128.7   1.4   1   1     3e-41   5.9e-37  128.3   1.4     2   355   205   590   204   590 0.82 Asparagine synthase
+BTAD                 PF03704.20   146 BGC0002064_ORF9:gid:afsR29:pid:QFU91027.1:loc:7456:8887:strand:- -            476   8.8e-38  130.1  11.0   1   1   2.9e-41   1.9e-37  129.0  11.0     1   146   104   246   104   246 0.93 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0002064_ORF9:gid:afsR29:pid:QFU91027.1:loc:7456:8887:strand:- -            476   7.7e-10   38.9   0.0   1   1   2.9e-13   1.9e-09   37.6   0.0    11    77    32    97    27    97 0.91 Transcriptional regulatory protein, C terminal
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002064.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002064.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002064.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:42:15 2023
+# [ok]

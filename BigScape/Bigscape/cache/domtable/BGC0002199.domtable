@@ -1,0 +1,26 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MBOAT_2              PF13813.9     83 BGC0002199_ORF1:gid:nanB:pid:QIQ51362.1:loc:0:1335:strand:- -            417   2.2e-24   85.6   2.5   1   1   1.1e-28   2.2e-24   85.6   2.5     1    73   233   308   233   321 0.89 Membrane bound O-acyl transferase family
+IDO                  PF01231.21   438 BGC0002199_ORF2:gid:nanC:pid:QIQ51363.1:loc:1918:3275:strand:- -            410  1.8e-122  409.4   0.0   1   1  2.2e-126  4.4e-122  408.1   0.0     2   438     9   404     8   404 0.93 Indoleamine 2,3-dioxygenase
+Trp_DMAT             PF11991.11   363 BGC0002199_ORF3:gid:nanD:pid:QIQ51364.1:loc:4089:5451:strand:+ -            435   1.4e-88  297.9   0.0   1   1   8.3e-93   1.6e-88  297.7   0.0     1   362    37   397    37   398 0.93 Tryptophan dimethylallyltransferase
+AMP-binding          PF00501.31   424 BGC0002199_ORF4:gid:nanA:pid:QIQ51365.1:loc:5657:13175:strand:- -           2486  4.8e-143  476.9   0.0   1   2   1.9e-70   1.2e-66  225.2   0.0     4   424   231   637   228   637 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002199_ORF4:gid:nanA:pid:QIQ51365.1:loc:5657:13175:strand:- -           2486  4.8e-143  476.9   0.0   2   2   6.3e-78   4.1e-74  249.8   0.0     2   424  1339  1735  1338  1735 0.87 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002199_ORF4:gid:nanA:pid:QIQ51365.1:loc:5657:13175:strand:- -           2486   7.5e-67  226.1   0.0   1   2   2.2e-38   1.4e-34  119.7   0.0     2   451   902  1314   901  1320 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0002199_ORF4:gid:nanA:pid:QIQ51365.1:loc:5657:13175:strand:- -           2486   7.5e-67  226.1   0.0   2   2   2.7e-28   1.8e-24   86.4   0.0     2   455  1982  2398  1981  2400 0.84 Condensation domain
+PP-binding           PF00550.28    67 BGC0002199_ORF4:gid:nanA:pid:QIQ51365.1:loc:5657:13175:strand:- -           2486   4.5e-37  126.3   0.3   1   3   5.7e-14   3.7e-10   40.1   0.1     2    65   791   854   790   855 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002199_ORF4:gid:nanA:pid:QIQ51365.1:loc:5657:13175:strand:- -           2486   4.5e-37  126.3   0.3   2   3   2.3e-13   1.5e-09   38.1   0.0     2    66  1880  1943  1879  1944 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002199_ORF4:gid:nanA:pid:QIQ51365.1:loc:5657:13175:strand:- -           2486   4.5e-37  126.3   0.3   3   3   4.2e-15   2.7e-11   43.7   0.0     2    67  2412  2476  2411  2476 0.95 Phosphopantetheine attachment site
+Methyltransf_2       PF00891.21   210 BGC0002199_ORF5:gid:nanE:pid:QIQ51366.1:loc:13783:15277:strand:- -            405   4.2e-17   62.3   0.0   1   1   3.2e-21   6.2e-17   61.7   0.0    28   206   192   378   166   381 0.81 O-methyltransferase domain
+FAD_binding_3        PF01494.22   349 BGC0002199_ORF6:gid:nanF:pid:QIQ51367.1:loc:15896:17425:strand:- -            459   1.4e-17   64.1   1.9   1   1   5.6e-20   2.8e-16   59.9   1.9     3   319    21   355    19   373 0.69 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0002199_ORF6:gid:nanF:pid:QIQ51367.1:loc:15896:17425:strand:- -            459   2.2e-06   27.2   2.6   1   1   1.3e-09   6.3e-06   25.7   0.4     2    35    22    55    21    60 0.94 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002199.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002199.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002199.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:51:24 2023
+# [ok]

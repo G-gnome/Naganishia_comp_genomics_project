@@ -1,0 +1,35 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   3.5e-86  289.6   0.0   1   1     4e-89   5.6e-86  288.9   0.0     3   423  2873  3283  2871  3284 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   9.4e-71  239.0   0.0   1   1   9.7e-74   1.4e-70  238.4   0.0     5   454  2399  2846  2396  2849 0.93 Condensation domain
+ketoacyl-synt        PF00109.29   253 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   1.8e-70  237.6   0.0   1   1   2.6e-73   3.7e-70  236.5   0.0     5   249    45   287    45   291 0.95 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   2.2e-61  207.8   0.4   1   1   3.3e-64   4.7e-61  206.8   0.4     1   295   961  1276   961  1278 0.86 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   5.2e-59  199.3   0.7   1   1   7.1e-62   9.9e-59  198.4   0.0     2   178  1990  2162  1989  2164 0.98 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   7.7e-52  176.9   0.0   1   1     1e-54   1.4e-51  176.0   0.0     2   282   566   870   565   900 0.85 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   1.1e-38  132.0   0.0   1   1   1.9e-41   2.6e-38  130.8   0.0     2   118   300   415   299   416 0.98 Beta-ketoacyl synthase, C-terminal domain
+NAD_binding_4        PF07993.15   257 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   3.8e-31  108.3   0.0   1   1   1.7e-33   2.4e-30  105.7   0.0     2   253  3555  3805  3554  3809 0.81 Male sterility protein
+KAsynt_C_assoc       PF16197.8    112 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   1.5e-23   83.5   0.0   1   1     3e-26   4.3e-23   82.1   0.0     1   112   418   536   418   536 0.93 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N           PF00107.29   130 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   8.2e-17   61.6   0.0   1   1   1.9e-19   2.7e-16   59.9   0.0     1   101  1787  1891  1787  1913 0.84 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.9    133 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940     7e-16   59.6   0.0   1   1   1.7e-17   2.4e-14   54.6   0.0     5   133  1826  1962  1822  1962 0.84 Zinc-binding dehydrogenase
+PP-binding           PF00550.28    67 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   3.4e-16   59.4   1.8   1   2   2.7e-07   0.00038   20.8   0.0     4    65  2281  2340  2278  2341 0.90 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002210_ORF1:gid:pyvA:pid:FAA01291.1:loc:100:12071:strand:- -           3940   3.4e-16   59.4   1.8   2   2   2.6e-12   3.7e-09   36.9   0.1     2    67  3435  3501  3434  3501 0.94 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0002210_ORF2:gid:pyvB:pid:FAA01292.1:loc:12958:14602:strand:+ -            487   1.1e-37  130.1   0.0   1   1   1.9e-41   3.7e-37  128.3   0.0     2   439    46   453    45   468 0.80 Cytochrome P450
+FAD_binding_3        PF01494.22   349 BGC0002210_ORF3:gid:pyvC:pid:FAA01293.1:loc:15265:16868:strand:+ -            427   1.7e-25   90.1   0.0   1   1   1.6e-29   3.1e-25   89.3   0.0     2   348    10   370     9   371 0.80 FAD binding domain
+DLH                  PF01738.21   217 BGC0002210_ORF4:gid:pyvD:pid:FAA01294.1:loc:17129:18063:strand:+ -            245   3.9e-27   95.4   0.0   1   1   2.3e-31   4.5e-27   95.2   0.0     4   217    33   243    30   243 0.90 Dienelactone hydrolase family
+FAD_binding_4        PF01565.26   139 BGC0002210_ORF5:gid:pyvE:pid:FAA01295.1:loc:18567:19998:strand:+ -            452   1.1e-32  112.8   8.6   1   1   1.1e-36   1.1e-32  112.8   8.6     2   138    39   172    38   173 0.97 FAD binding domain
+BBE                  PF08031.15    46 BGC0002210_ORF5:gid:pyvE:pid:FAA01295.1:loc:18567:19998:strand:+ -            452   1.9e-09   37.6   0.6   1   1   3.8e-13   3.8e-09   36.6   0.6     1    40   408   444   408   448 0.96 Berberine and berberine like
+GMC_oxred_N          PF00732.22   296 BGC0002210_ORF6:gid:pyvF:pid:FAA01296.1:loc:20823:23146:strand:+ -            629   5.7e-55  186.9   0.0   1   1   1.7e-58   8.2e-55  186.4   0.0     1   295    52   365    52   366 0.92 GMC oxidoreductase
+GMC_oxred_C          PF05199.16   145 BGC0002210_ORF6:gid:pyvF:pid:FAA01296.1:loc:20823:23146:strand:+ -            629   8.4e-34  117.3   0.0   1   1     3e-37   1.5e-33  116.5   0.0     1   145   468   608   468   608 0.93 GMC oxidoreductase
+MFS_1                PF07690.19   353 BGC0002210_ORF7:gid:pyvG:pid:FAA01297.1:loc:23955:25849:strand:+ -            543   1.8e-27   96.4  35.8   1   1   8.9e-32   1.8e-27   96.4  35.8     3   347   109   488   107   493 0.77 Major Facilitator Superfamily
+Methyltransf_2       PF00891.21   210 BGC0002210_ORF8:gid:pyvH:pid:FAA01298.1:loc:26543:28102:strand:- -            426   4.7e-27   94.8   0.0   1   1   3.6e-31   7.1e-27   94.2   0.0    61   207   249   400   181   402 0.88 O-methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002210.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002210.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002210.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:15:28 2023
+# [ok]

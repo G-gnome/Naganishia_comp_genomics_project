@@ -1,0 +1,32 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FMO-like             PF00743.22   532 BGC0000627_ORF3:gid::pid:EED49414.1:loc:2031:3843:strand:+ -            398   5.3e-30  104.5   0.0   1   1   1.4e-31   4.5e-28   98.1   0.0     2   216     7   220     6   222 0.88 Flavin-binding monooxygenase-like
+Pyr_redox_2          PF07992.17   295 BGC0000627_ORF3:gid::pid:EED49414.1:loc:2031:3843:strand:+ -            398   3.4e-12   46.4   0.0   1   1   1.4e-15   4.6e-12   45.9   0.0     2   162     8   206     7   251 0.80 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000627_ORF3:gid::pid:EED49414.1:loc:2031:3843:strand:+ -            398   3.2e-07   30.6   1.9   1   1   1.1e-10   3.6e-07   30.4   0.1     1    35    11    45    11    53 0.95 NAD(P)-binding Rossmann-like domain
+NAD_binding_9        PF13454.9    155 BGC0000627_ORF3:gid::pid:EED49414.1:loc:2031:3843:strand:+ -            398   1.6e-06   28.4   0.3   1   1   3.4e-09   1.1e-05   25.7   0.3     1   154    10   150    10   151 0.73 FAD-NAD(P)-binding
+p450                 PF00067.25   463 BGC0000627_ORF4:gid::pid:EED49415.1:loc:4049:5918:strand:+ -            403   5.6e-30  104.6   0.0   1   1   4.9e-32   9.6e-28   97.3   0.0   273   423   170   329   162   335 0.91 Cytochrome P450
+UstYa                PF11807.11   220 BGC0000627_ORF7:gid::pid:EED49418.1:loc:7834:8744:strand:- -            213     7e-27   94.8   3.0   1   1   3.2e-30   6.3e-26   91.6   1.3   104   220    94   204    87   204 0.81 Mycotoxin biosynthesis protein UstYa
+Peptidase_S41        PF03572.21   166 BGC0000627_ORF9:gid::pid:EED49420.1:loc:9901:11391:strand:+ -            480   3.3e-10   39.9   0.0   1   1   3.6e-14     7e-10   38.8   0.0     1   118   134   336   134   379 0.86 Peptidase family S41
+G_glu_transpept      PF01019.24   512 BGC0000627_ORF11:gid::pid:EED49422.1:loc:12907:14972:strand:+ -            591  9.1e-149  496.6   0.0   1   1  5.5e-153  1.1e-148  496.4   0.0     2   510    72   576    71   578 0.95 Gamma-glutamyltranspeptidase
+Aminotran_5          PF00266.22   371 BGC0000627_ORF12:gid::pid:EED49423.1:loc:15079:16532:strand:- -            439   6.4e-48  163.7   0.0   1   1   4.5e-52   8.9e-48  163.2   0.0     5   371    58   427    55   427 0.87 Aminotransferase class-V
+FMO-like             PF00743.22   532 BGC0000627_ORF13:gid::pid:EED49424.1:loc:16796:18446:strand:+ -            494   1.1e-32  113.3   0.2   1   2   2.1e-20   4.1e-17   62.0   0.0    69   218   123   278   106   297 0.84 Flavin-binding monooxygenase-like
+FMO-like             PF00743.22   532 BGC0000627_ORF13:gid::pid:EED49424.1:loc:16796:18446:strand:+ -            494   1.1e-32  113.3   0.2   2   2   4.4e-10   8.7e-07   27.9   0.0   311   433   319   452   315   470 0.73 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.9    305 BGC0000627_ORF13:gid::pid:EED49424.1:loc:16796:18446:strand:+ -            494   1.2e-17   64.3   0.1   1   1   5.9e-16   1.2e-12   47.9   0.0   127   302   199   374   188   379 0.80 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.17   295 BGC0000627_ORF13:gid::pid:EED49424.1:loc:16796:18446:strand:+ -            494   3.4e-14   52.9   0.0   1   1   1.1e-16   2.1e-13   50.3   0.0     2   275     8   380     7   386 0.79 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000627_ORF13:gid::pid:EED49424.1:loc:16796:18446:strand:+ -            494   2.2e-07   31.1   2.4   1   1   1.6e-10   3.1e-07   30.6   0.3     1    52    11    62    11    70 0.86 NAD(P)-binding Rossmann-like domain
+NAD_binding_9        PF13454.9    155 BGC0000627_ORF13:gid::pid:EED49424.1:loc:16796:18446:strand:+ -            494   3.2e-05   24.1   3.5   1   1   5.1e-08    0.0001   22.5   0.2     1    43    10    47    10    65 0.89 FAD-NAD(P)-binding
+Tyrosinase           PF00264.23   222 BGC0000627_ORF14:gid::pid:EED49425.1:loc:18660:20010:strand:+ -            358   4.5e-39  135.1   0.2   1   1   5.3e-43     1e-38  134.0   0.2     3   221   112   304   110   305 0.87 Common central domain of tyrosinase
+MFS_1                PF07690.19   353 BGC0000627_ORF15:gid::pid:EED49426.1:loc:20133:21924:strand:- -            507   3.5e-15   55.9  31.0   1   1   1.8e-19   3.5e-15   55.9  31.0    53   349   134   461   126   464 0.69 Major Facilitator Superfamily
+Zn_clus              PF00172.21    40 BGC0000627_ORF16:gid::pid:EED49427.1:loc:24115:25009:strand:+ -            297   2.4e-08   34.1   7.9   1   1     2e-12   3.9e-08   33.4   7.9     1    37     9    45     9    48 0.90 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Fungal_trans_2       PF11951.11   384 BGC0000627_ORF17:gid::pid:EED49428.1:loc:25024:25942:strand:+ -            305   3.6e-30  105.2   2.5   1   1   2.2e-34   4.3e-30  104.9   2.5   137   384    51   305     4   305 0.86 Fungal specific transcription factor domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000627.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000627.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000627.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:24:55 2023
+# [ok]

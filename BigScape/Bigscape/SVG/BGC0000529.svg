@@ -1,0 +1,205 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="733.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="723.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mibJ
+MibJ, hypothetical membrane protein</title>
+			<polygon class="mibJ
+MibJ, hypothetical membrane protein" points="10,10 31,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mibY
+putative ABC permease</title>
+			<polygon class="mibY
+putative ABC permease" points="31,10 56,40 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mibZ
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="mibZ
+putative ABC transporter ATP-binding protein" points="56,25 56,25 56,10 86,40 56,70 56,55 56,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="58,28 69,28 72,31 72,49 69,52 58,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibO
+cytochrome P450</title>
+			<polygon class="mibO
+cytochrome P450" points="86,25 97,25 97,10 127,40 97,70 97,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="114,31 123,40 114,49" stroke-linejoin="round" width="12" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibQ
+putative lipoprotein signal peptide-containing protein</title>
+			<polygon class="mibQ
+putative lipoprotein signal peptide-containing protein" points="129,10 142,40 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2511 (PF10709)
+"Protein of unknown function (DUF2511)"</title>
+				<polygon class="PF10709" points="133,28 133,28 138,39 138,41 133,52 133,52" stroke-linejoin="round" width="5" height="24" fill="rgb(204,93,76)" stroke="rgb(163,74,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibR
+putative DNA-binding protein, transcriptional activator</title>
+			<polygon class="mibR
+putative DNA-binding protein, transcriptional activator" points="152,10 178,40 152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mibW
+putative anti-sigma factor</title>
+			<polygon class="mibW
+putative anti-sigma factor" points="190,40 215,10 215,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mibX
+RNA polymerase, sigma-24 subunit, ECF subfamily</title>
+			<polygon class="mibX
+RNA polymerase, sigma-24 subunit, ECF subfamily" points="215,40 237,10 237,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="219,40 221,37 221,43" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="225,32 228,28 231,28 231,52 228,52 225,48" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibA
+microbisporicin structural preproprotein</title>
+			<polygon class="mibA
+microbisporicin structural preproprotein" points="242,10 247,40 242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="242,26 244,40 242,54" stroke-linejoin="round" width="5" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibB
+lantibiotic dehydratase</title>
+			<polygon class="mibB
+lantibiotic dehydratase" points="251,25 332,25 332,10 362,40 332,70 332,55 251,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="259" y="28" stroke-linejoin="round" width="66" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="332,28 346,28 358,40 346,52 332,52" stroke-linejoin="round" width="28" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibC
+lantibiotic cyclase</title>
+			<polygon class="mibC
+lantibiotic cyclase" points="363,25 381,25 381,10 411,40 381,70 381,55 363,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="369,28 395,28 407,40 395,52 369,52" stroke-linejoin="round" width="40" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibD
+flavoprotein decarboxylase</title>
+			<polygon class="mibD
+flavoprotein decarboxylase" points="412,10 434,40 412,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="413,28 422,28 429,38 429,42 422,52 413,52" stroke-linejoin="round" width="16" height="24" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibT
+ABC transporter ATP-binding domain</title>
+			<polygon class="mibT
+ABC transporter ATP-binding domain" points="435,25 436,25 436,10 466,40 436,70 436,55 435,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="437,28 450,28 451,29 451,51 450,52 437,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibU
+ABC-type multidrug transport system permease component</title>
+			<polygon class="mibU
+ABC-type multidrug transport system permease component" points="466,10 495,40 466,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="470,28 478,28 490,40 478,52 470,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibV
+hypothetical protein</title>
+			<polygon class="mibV
+hypothetical protein" points="495,25 498,25 498,10 528,40 498,70 498,55 495,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mibE
+putative lantibiotic ABC transporter permease protein</title>
+			<polygon class="mibE
+putative lantibiotic ABC transporter permease protein" points="555,10 580,40 555,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mibF
+putative lantibiotic ABC transporter ATP-binding protein</title>
+			<polygon class="mibF
+putative lantibiotic ABC transporter ATP-binding protein" points="580,10 603,40 580,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="581,28 590,28 594,33 594,47 590,52 581,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibH
+tryptophan-5-halogenase</title>
+			<polygon class="mibH
+tryptophan-5-halogenase" points="605,25 631,25 631,10 661,40 631,70 631,55 605,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="610,28 645,28 655,38 655,42 645,52 610,52" stroke-linejoin="round" width="45" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibS
+flavin reductase</title>
+			<polygon class="mibS
+flavin reductase" points="662,10 679,40 662,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavin_Reduct (PF01613)
+"Flavin reductase like domain"</title>
+				<polygon class="PF01613" points="664,28 669,28 676,40 669,52 664,52" stroke-linejoin="round" width="14" height="24" fill="rgb(107,197,222)" stroke="rgb(85,157,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mibN
+integral membrane ion antiporter</title>
+			<polygon class="mibN
+integral membrane ion antiporter" points="680,25 693,25 693,10 723,40 693,70 693,55 680,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_Exchanger (PF00999)
+"Sodium/hydrogen exchanger family"</title>
+				<polygon class="PF00999" points="681,28 707,28 719,40 707,52 681,52" stroke-linejoin="round" width="39" height="24" fill="rgb(229,67,191)" stroke="rgb(183,53,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

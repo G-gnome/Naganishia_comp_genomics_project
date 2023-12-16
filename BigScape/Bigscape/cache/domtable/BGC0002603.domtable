@@ -1,0 +1,26 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002603_ORF1:gid:cle1:pid:BBG28471.1:loc:0:5488:strand:- -           1807   7.5e-65  219.1   0.2   1   1   1.6e-67   4.4e-64  216.6   0.5     3   253   387   618   385   618 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002603_ORF1:gid:cle1:pid:BBG28471.1:loc:0:5488:strand:- -           1807   9.1e-37  125.8   0.2   1   1   7.1e-40     2e-36  124.7   0.2     1   118   626   746   626   747 0.97 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002603_ORF1:gid:cle1:pid:BBG28471.1:loc:0:5488:strand:- -           1807   1.2e-18   67.9   0.0   1   1   4.9e-20   1.4e-16   61.1   0.0    15   266   919  1176   905  1199 0.80 Acyl transferase domain
+PP-binding           PF00550.28    67 BGC0002603_ORF1:gid:cle1:pid:BBG28471.1:loc:0:5488:strand:- -           1807   8.8e-17   61.3   1.6   1   2   3.9e-12   1.1e-08   35.4   0.1     5    65  1613  1673  1611  1675 0.88 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002603_ORF1:gid:cle1:pid:BBG28471.1:loc:0:5488:strand:- -           1807   8.8e-17   61.3   1.6   2   2   9.2e-09   2.6e-05   24.6   0.1    20    64  1746  1790  1728  1793 0.81 Phosphopantetheine attachment site
+SAT                  PF16073.8    240 BGC0002603_ORF1:gid:cle1:pid:BBG28471.1:loc:0:5488:strand:- -           1807   3.8e-10   39.9   2.1   1   1   1.3e-12   3.7e-09   36.7   0.0    75   240   106   280    86   280 0.79 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Thiolase_N           PF00108.26   260 BGC0002603_ORF1:gid:cle1:pid:BBG28471.1:loc:0:5488:strand:- -           1807   1.8e-08   34.2   0.5   1   1   1.4e-11     4e-08   33.1   0.5    74   125   529   580   520   591 0.89 Thiolase, N-terminal domain
+p450                 PF00067.25   463 BGC0002603_ORF2:gid:cle2:pid:BBG28472.1:loc:6016:7840:strand:+ -            544   2.4e-32  112.4   0.3   1   1   4.5e-36   8.9e-32  110.6   0.3    55   448    95   514    78   521 0.74 Cytochrome P450
+FAD_binding_3        PF01494.22   349 BGC0002603_ORF3:gid:cle3:pid:BBG28473.1:loc:8160:9796:strand:- -            491   2.1e-26   93.2   0.1   1   1   1.1e-29   1.1e-25   90.8   0.1     3   320    27   359    25   393 0.75 FAD binding domain
+NAD_binding_8        PF13450.9     68 BGC0002603_ORF3:gid:cle3:pid:BBG28473.1:loc:8160:9796:strand:- -            491   3.6e-05   24.1   0.2   1   1   1.1e-08   0.00011   22.5   0.2     1    31    30    60    30    83 0.93 NAD(P)-binding Rossmann-like domain
+p450                 PF00067.25   463 BGC0002603_ORF4:gid:cle4:pid:BBG28474.1:loc:10463:12174:strand:+ -            496   1.3e-34  119.9   0.0   1   1   8.2e-39   1.6e-34  119.6   0.0   113   441   133   464   113   485 0.85 Cytochrome P450
+UbiA                 PF01040.21   251 BGC0002603_ORF5:gid:cle5:pid:BBG28475.1:loc:12298:13388:strand:- -            321   8.8e-32  110.5  13.8   1   1   5.8e-36   1.1e-31  110.1  13.8    19   240    52   291    29   308 0.85 UbiA prenyltransferase family
+polyprenyl_synt      PF00348.20   256 BGC0002603_ORF6:gid:cle6:pid:BBG28476.1:loc:14479:15802:strand:- -            380   9.4e-63  211.8   0.0   1   1   8.4e-67   1.7e-62  211.0   0.0     2   251    87   329    86   334 0.92 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002603.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002603.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002603.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:50:08 2023
+# [ok]

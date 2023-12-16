@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_4        PF01565.26   139 BGC0002217_ORF1:gid::pid:CCD48291.1:loc:0:1794:strand:+ -            597   6.6e-25   87.6   0.4   1   1   2.7e-28   2.7e-24   85.6   0.5     3   138   152   292   150   293 0.92 FAD binding domain
+BBE                  PF08031.15    46 BGC0002217_ORF1:gid::pid:CCD48291.1:loc:0:1794:strand:+ -            597   5.7e-12   45.7   1.1   1   1   5.9e-16   5.7e-12   45.7   1.1     1    40   538   576   538   581 0.96 Berberine and berberine like
+Aldo_ket_red         PF00248.24   292 BGC0002217_ORF2:gid::pid:CCD48292.1:loc:3058:4050:strand:+ -            292   9.4e-40  136.6   0.2   1   1   1.6e-42   3.2e-38  131.6   0.2    15   290    37   272    22   274 0.89 Aldo/keto reductase family
+p450                 PF00067.25   463 BGC0002217_ORF3:gid::pid:CCD48293.1:loc:4771:6702:strand:- -            546   9.2e-44  150.1   0.0   1   1   5.6e-48   1.1e-43  149.8   0.0    10   456   104   535    94   541 0.77 Cytochrome P450
+UbiA                 PF01040.21   251 BGC0002217_ORF4:gid::pid:CCD48294.1:loc:7384:8365:strand:+ -            326   2.9e-31  108.8   5.9   1   1   2.1e-35   4.1e-31  108.3   5.9     5   250    56   313    52   314 0.82 UbiA prenyltransferase family
+DDE_1                PF03184.22   175 BGC0002217_ORF6:gid::pid:CCD48296.1:loc:11446:12826:strand:- -            459   1.1e-28  100.2   0.0   1   1   1.3e-32   2.6e-28   99.0   0.0     4   175   110   276   106   276 0.94 DDE superfamily endonuclease
+EthD                 PF07110.14    97 BGC0002217_ORF8:gid::pid:CCD48298.1:loc:17085:17508:strand:+ -            140   1.9e-17   64.3   0.3   1   1   1.2e-21   2.3e-17   64.1   0.3     1    96    13   122    13   123 0.95 EthD domain
+FAD_binding_4        PF01565.26   139 BGC0002217_ORF10:gid::pid:CCD48300.1:loc:18341:20196:strand:+ -            577   4.4e-19   68.7   3.3   1   1   4.5e-23   4.4e-19   68.7   3.3     3   138   133   274   131   275 0.90 FAD binding domain
+BBE                  PF08031.15    46 BGC0002217_ORF10:gid::pid:CCD48300.1:loc:18341:20196:strand:+ -            577   1.8e-10   40.9   0.4   1   1   3.5e-14   3.4e-10   40.0   0.4     1    43   517   558   517   561 0.93 Berberine and berberine like
+CMAS                 PF02353.23   273 BGC0002217_ORF14:gid::pid:CCD48304.1:loc:24650:25961:strand:+ -            355   9.5e-75  251.5   0.0   1   1   3.2e-78   1.6e-74  250.8   0.0     3   268    48   334    46   339 0.91 Mycolic acid cyclopropane synthetase
+Methyltransf_25      PF13649.9     97 BGC0002217_ORF14:gid::pid:CCD48304.1:loc:24650:25961:strand:+ -            355   7.1e-09   36.3   0.0   1   1   4.2e-12   2.1e-08   34.9   0.0     1    95   113   209   113   210 0.94 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002217_ORF14:gid::pid:CCD48304.1:loc:24650:25961:strand:+ -            355   3.2e-07   30.4   0.0   1   1   1.1e-10   5.2e-07   29.8   0.0     7   122    92   221    86   247 0.84 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002217_ORF14:gid::pid:CCD48304.1:loc:24650:25961:strand:+ -            355   4.2e-06   27.5   0.0   1   1   1.8e-09   8.7e-06   26.4   0.0     1    90   114   209   114   216 0.87 Methyltransferase domain
+GST_N                PF02798.23    76 BGC0002217_ORF15:gid::pid:CCD48305.1:loc:26607:27389:strand:- -            227   1.5e-12   47.8   0.0   1   1   4.4e-16   2.9e-12   46.9   0.0     5    74    11    80     7    82 0.93 Glutathione S-transferase, N-terminal domain
+GST_N_2              PF13409.9     70 BGC0002217_ORF15:gid::pid:CCD48305.1:loc:26607:27389:strand:- -            227   7.8e-11   42.3   0.0   1   1   2.7e-14   1.8e-10   41.1   0.0     5    67    20    80    18    83 0.91 Glutathione S-transferase, N-terminal domain
+GST_N_3              PF13417.9     75 BGC0002217_ORF15:gid::pid:CCD48305.1:loc:26607:27389:strand:- -            227   7.4e-10   39.1   0.0   1   1     2e-13   1.3e-09   38.3   0.0    10    72    20    85    13    94 0.90 Glutathione S-transferase, N-terminal domain
+2-Hacid_dh_C         PF02826.22   178 BGC0002217_ORF16:gid::pid:CCD48306.1:loc:28000:29276:strand:+ -            354   1.3e-45  155.1   0.0   1   1   2.7e-49   1.7e-45  154.6   0.0     2   178   129   311   128   311 0.95 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+2-Hacid_dh           PF00389.33   134 BGC0002217_ORF16:gid::pid:CCD48306.1:loc:28000:29276:strand:+ -            354     7e-12   45.3   0.0   1   1   1.4e-15   9.3e-12   44.9   0.0    54   134    78   343    71   343 0.98 D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+NAD_binding_2        PF03446.18   158 BGC0002217_ORF16:gid::pid:CCD48306.1:loc:28000:29276:strand:+ -            354     6e-05   23.4   0.0   1   1   2.4e-08   0.00016   22.0   0.0     2   105   171   276   170   287 0.83 NAD binding domain of 6-phosphogluconate dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002217.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002217.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002217.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:11:59 2023
+# [ok]

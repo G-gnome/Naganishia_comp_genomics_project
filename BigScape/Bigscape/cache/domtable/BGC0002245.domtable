@@ -1,0 +1,19 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002245_ORF1:gid::pid:EMD93703.1:loc:219:2064:strand:- -            506   4.2e-63  213.8   0.0   1   1   2.6e-67   5.2e-63  213.5   0.0     8   439    53   477    44   497 0.92 Cytochrome P450
+polyprenyl_synt      PF00348.20   256 BGC0002245_ORF2:gid::pid:EMD93704.1:loc:3218:5428:strand:+ -            704   1.3e-51  175.3   0.0   1   1   2.8e-55   2.7e-51  174.2   0.0     4   243   393   620   391   628 0.94 Polyprenyl synthetase
+Terpene_syn_C_2      PF19086.3    199 BGC0002245_ORF2:gid::pid:EMD93704.1:loc:3218:5428:strand:+ -            704   8.7e-21   74.8   0.1   1   1   6.1e-21     6e-17   62.3   0.0    75   199   155   283    94   283 0.84 Terpene synthase family 2, C-terminal metal binding
+FAD_binding_4        PF01565.26   139 BGC0002245_ORF3:gid::pid:EMD93705.1:loc:5928:7641:strand:+ -            518     6e-27   94.2   3.8   1   1   1.3e-30   1.2e-26   93.2   3.8     1   137    79   213    79   215 0.95 FAD binding domain
+BBE                  PF08031.15    46 BGC0002245_ORF3:gid::pid:EMD93705.1:loc:5928:7641:strand:+ -            518   3.7e-06   27.1   0.1   1   1   7.3e-10   7.2e-06   26.1   0.1     2    41   472   509   471   510 0.95 Berberine and berberine like
+p450                 PF00067.25   463 BGC0002245_ORF4:gid::pid:EMD93706.1:loc:9404:11090:strand:+ -            525   5.5e-43  147.5   0.0   1   1   3.7e-47   7.3e-43  147.1   0.0     1   441    45   486    45   498 0.84 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002245.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002245.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002245.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:51:07 2023
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GerE                 PF00196.22    57 BGC0000879_ORF1:gid:toyA:pid:ACF06633.1:loc:1167:4053:strand:+ -            961   7.5e-15   54.4   0.0   1   1   2.8e-18   1.4e-14   53.6   0.0     2    55   890   943   889   945 0.96 Bacterial regulatory proteins, luxR family
+AAA_16               PF13191.9    170 BGC0000879_ORF1:gid:toyA:pid:ACF06633.1:loc:1167:4053:strand:+ -            961   1.4e-13   51.6   0.1   1   1     3e-17   1.4e-13   51.6   0.1     8   169    25   184    23   185 0.69 AAA ATPase domain
+PTPS                 PF01242.22   123 BGC0000879_ORF2:gid:toyB:pid:ACF06634.1:loc:4312:4708:strand:+ -            131   3.7e-32  111.0   0.2   1   1   2.1e-36   4.2e-32  110.8   0.2     1   121    14   130    14   131 0.92 6-pyruvoyl tetrahydropterin synthase
+GTP_cyclohydroI      PF01227.25   179 BGC0000879_ORF3:gid:toyD:pid:ACF06635.1:loc:5475:6078:strand:+ -            200     1e-49  168.5   0.0   1   1   6.4e-54   1.3e-49  168.2   0.0     4   176    27   194    24   196 0.90 GTP cyclohydrolase I
+IMPDH                PF00478.28   345 BGC0000879_ORF4:gid:toyE:pid:ACF06636.1:loc:6164:7319:strand:+ -            384  8.2e-121  403.3   1.2   1   1  1.4e-124  9.2e-121  403.2   1.2     2   345    11   367    10   367 0.96 IMP dehydrogenase / GMP reductase domain
+NMO                  PF03060.18   331 BGC0000879_ORF4:gid:toyE:pid:ACF06636.1:loc:6164:7319:strand:+ -            384   8.6e-12   45.2  16.0   1   1   1.2e-10     8e-07   28.9   8.4   143   234   171   266   151   295 0.85 Nitronate monooxygenase
+FMN_dh               PF01070.21   348 BGC0000879_ORF4:gid:toyE:pid:ACF06636.1:loc:6164:7319:strand:+ -            384   2.5e-07   30.2   9.3   1   1   3.8e-11   2.5e-07   30.2   9.3   201   303   147   257   106   265 0.80 FMN-dependent dehydrogenase
+Lyase_1              PF00206.23   312 BGC0000879_ORF5:gid:toyF:pid:ACF06637.1:loc:7315:8671:strand:+ -            451   1.2e-52  179.4   0.0   1   1   1.8e-56   1.7e-52  178.9   0.0     7   308    12   294     8   297 0.91 Lyase
+ADSL_C               PF10397.12    77 BGC0000879_ORF5:gid:toyF:pid:ACF06637.1:loc:7315:8671:strand:+ -            451   3.6e-10   40.5   2.4   1   1   1.8e-12   1.7e-08   35.2   2.3     4    74   365   437   364   440 0.91 Adenylosuccinate lyase C-terminus
+Adenylsucc_synt      PF00709.24   415 BGC0000879_ORF6:gid:toyG:pid:ACF06638.1:loc:8672:9728:strand:+ -            351   1.1e-67  228.7   1.5   1   2   2.4e-33   4.7e-29  101.5   0.2     1   148     5   146     5   150 0.92 Adenylosuccinate synthetase
+Adenylsucc_synt      PF00709.24   415 BGC0000879_ORF6:gid:toyG:pid:ACF06638.1:loc:8672:9728:strand:+ -            351   1.1e-67  228.7   1.5   2   2     8e-38   1.6e-33  116.2   0.0   189   329   148   285   145   289 0.96 Adenylosuccinate synthetase
+Pribosyltran         PF00156.30   158 BGC0000879_ORF7:gid:toyH:pid:ACF06639.1:loc:9724:10255:strand:+ -            176   1.6e-23   83.0   0.0   1   1   1.1e-27   2.1e-23   82.5   0.0    15   152    25   160    17   163 0.81 Phosphoribosyl transferase domain
+HAD_2                PF13419.9    178 BGC0000879_ORF8:gid:toyI:pid:ACF06640.1:loc:10251:10977:strand:+ -            241   7.5e-10   39.3   0.0   1   1   3.7e-13   1.8e-09   38.0   0.0     1   178    23   204    23   204 0.84 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 BGC0000879_ORF8:gid:toyI:pid:ACF06640.1:loc:10251:10977:strand:+ -            241   3.1e-09   37.5   1.6   1   1   9.4e-11   4.6e-07   30.5   1.6     3   210    22   198    20   198 0.79 haloacid dehalogenase-like hydrolase
+HAD                  PF12710.10   188 BGC0000879_ORF8:gid:toyI:pid:ACF06640.1:loc:10251:10977:strand:+ -            241   1.9e-08   35.1   2.3   1   1   5.7e-12   2.8e-08   34.6   2.3     1   188    23   195    23   195 0.73 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.9     75 BGC0000879_ORF8:gid:toyI:pid:ACF06640.1:loc:10251:10977:strand:+ -            241   2.2e-07   30.9   6.4   1   1   5.5e-11   2.7e-07   30.7   0.4    12    68   168   223   164   230 0.77 HAD-hyrolase-like
+NHase_alpha          PF02979.19   184 BGC0000879_ORF9:gid:toyJ:pid:ACF06641.1:loc:11088:11676:strand:- -            195   8.4e-74  247.1   0.0   1   1   5.3e-78     1e-73  246.8   0.0     3   184    10   193     9   193 0.98 Nitrile hydratase, alpha chain
+NHase_beta           PF02211.18   219 BGC0000879_ORF10:gid:toyK:pid:ACF06642.1:loc:11672:11984:strand:- -            103   1.9e-22   80.5   0.0   1   1     1e-26     2e-22   80.4   0.0   130   219     3    90     1    90 0.93 Nitrile hydratase beta subunit
+NHase_beta           PF02211.18   219 BGC0000879_ORF11:gid:toyL:pid:ACF06643.1:loc:11976:12252:strand:- -             91   2.1e-19   70.6   0.0   1   1   1.1e-23   2.2e-19   70.5   0.0     1    85     1    87     1    91 0.94 Nitrile hydratase beta subunit
+QueC                 PF06508.16   209 BGC0000879_ORF12:gid:toyM:pid:ACF06644.1:loc:12268:12985:strand:- -            238   3.7e-59  199.9   0.0   1   1   4.3e-63   4.2e-59  199.7   0.0     2   208    13   220    12   221 0.95 Queuosine biosynthesis protein QueC
+Asn_synthase         PF00733.24   355 BGC0000879_ORF12:gid:toyM:pid:ACF06644.1:loc:12268:12985:strand:- -            238   3.5e-08   33.7   0.1   1   1   5.1e-12     5e-08   33.1   0.1    22    80    15    72    10    76 0.94 Asparagine synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000879.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000879.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000879.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:22:46 2023
+# [ok]

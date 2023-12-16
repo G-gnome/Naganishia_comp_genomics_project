@@ -1,0 +1,26 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.22   349 BGC0002242_ORF1:gid::pid:KIA75686.1:loc:982:2581:strand:+ -            459   1.6e-11   44.2   0.1   1   1     3e-15     3e-11   43.3   0.1     3   320    16   349    14   375 0.75 FAD binding domain
+p450                 PF00067.25   463 BGC0002242_ORF2:gid::pid:KIA75687.1:loc:3212:5312:strand:- -            522   7.3e-62  209.7   0.0   1   1   4.5e-66   8.9e-62  209.5   0.0    17   458    64   507    48   512 0.80 Cytochrome P450
+AMP-binding          PF00501.31   424 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.6e-221  735.5   0.0   1   3     3e-75     2e-71  241.0   0.0     2   424   230   622   229   622 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.6e-221  735.5   0.0   2   3   1.8e-74   1.2e-70  238.4   0.0     2   424  1313  1708  1312  1708 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.6e-221  735.5   0.0   3   3   8.9e-79   5.8e-75  252.6   0.0     3   424  2853  3250  2851  3250 0.87 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.2e-152  509.0   0.0   1   5   2.3e-40   1.5e-36  126.2   0.0     3   456   875  1291   873  1292 0.80 Condensation domain
+Condensation         PF00668.23   457 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.2e-152  509.0   0.0   2   5   5.4e-25   3.5e-21   75.5   0.0     6   181  1944  2107  1941  2117 0.88 Condensation domain
+Condensation         PF00668.23   457 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.2e-152  509.0   0.0   3   5   6.7e-13   4.4e-09   35.7   0.0   252   436  2172  2363  2144  2376 0.80 Condensation domain
+Condensation         PF00668.23   457 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.2e-152  509.0   0.0   4   5   1.2e-47   8.1e-44  150.2   0.0     1   454  2404  2830  2404  2833 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905  1.2e-152  509.0   0.0   5   5   3.1e-34     2e-30  106.0   0.0    29   362  3513  3821  3497  3840 0.86 Condensation domain
+PP-binding           PF00550.28    67 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905   2.2e-33  114.5   0.1   1   2   4.2e-14   2.8e-10   40.5   0.0     2    66  1855  1920  1854  1921 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002242_ORF3:gid::pid:KIA75688.1:loc:7071:18848:strand:+ -           3905   2.2e-33  114.5   0.1   2   2   6.5e-17   4.3e-13   49.5   0.0     2    66  3389  3452  3388  3453 0.96 Phosphopantetheine attachment site
+MFS_1                PF07690.19   353 BGC0002242_ORF4:gid::pid:KIA75689.1:loc:20975:22850:strand:+ -            442   4.6e-18   65.4  27.5   1   1   2.3e-16   4.5e-12   45.7  15.2   198   352   200   352   167   353 0.80 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002242.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002242.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002242.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:05:59 2023
+# [ok]

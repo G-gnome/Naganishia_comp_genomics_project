@@ -1,0 +1,28 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GerE                 PF00196.22    57 BGC0002354_ORF1:gid::pid:AHH97431.1:loc:0:2871:strand:+ -            956   4.6e-11   42.2   0.0   1   1   1.1e-14   1.1e-10   41.1   0.0     2    52   884   934   883   938 0.96 Bacterial regulatory proteins, luxR family
+AAA_16               PF13191.9    170 BGC0002354_ORF1:gid::pid:AHH97431.1:loc:0:2871:strand:+ -            956   1.8e-08   35.1   1.7   1   1   1.8e-12   1.8e-08   35.1   1.7     2   170    24   179    23   179 0.65 AAA ATPase domain
+QueC                 PF06508.16   209 BGC0002354_ORF2:gid::pid:AHH97432.1:loc:3024:3741:strand:+ -            238   9.6e-56  188.7   0.0   1   1   1.1e-59   1.1e-55  188.5   0.0     1   207    12   219    12   221 0.95 Queuosine biosynthesis protein QueC
+Asn_synthase         PF00733.24   355 BGC0002354_ORF2:gid::pid:AHH97432.1:loc:3024:3741:strand:+ -            238   3.1e-08   33.8   0.9   1   1   4.8e-12   4.7e-08   33.2   0.9    22    79    15    71    10    76 0.93 Asparagine synthase
+Methyltransf_11      PF08241.15    96 BGC0002354_ORF3:gid::pid:AHH97433.1:loc:3778:4669:strand:+ -            296   2.2e-16   60.4   0.0   1   1   6.7e-20   4.4e-16   59.4   0.0     1    90    72   161    72   162 0.90 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002354_ORF3:gid::pid:AHH97433.1:loc:3778:4669:strand:+ -            296   5.5e-13   49.5   0.0   1   1   2.9e-16   1.9e-12   47.8   0.0     1    95    71   161    71   162 0.94 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002354_ORF3:gid::pid:AHH97433.1:loc:3778:4669:strand:+ -            296   1.1e-06   28.3   0.0   1   1   2.8e-10   1.8e-06   27.6   0.0    41   145    61   161    49   170 0.82 ubiE/COQ5 methyltransferase family
+PTPS                 PF01242.22   123 BGC0002354_ORF4:gid::pid:AHH97434.1:loc:5055:5421:strand:+ -            121   4.2e-31  107.6   0.0   1   1   2.4e-35   4.7e-31  107.5   0.0     1   121     4   120     4   121 0.93 6-pyruvoyl tetrahydropterin synthase
+Radical_SAM          PF04055.24   167 BGC0002354_ORF5:gid::pid:AHH97435.1:loc:5582:6191:strand:+ -            202   2.8e-07   31.2   0.0   1   1   6.3e-11   6.2e-07   30.1   0.0    10   115     2   109     1   174 0.81 Radical SAM superfamily
+Fer4_14              PF13394.9    118 BGC0002354_ORF5:gid::pid:AHH97435.1:loc:5582:6191:strand:+ -            202   3.7e-07   30.4   0.0   1   1     9e-11   8.9e-07   29.2   0.0    11    92     2    87     1   109 0.70 4Fe-4S single cluster domain
+GTP_cyclohydroI      PF01227.25   179 BGC0002354_ORF6:gid::pid:AHH97436.1:loc:6193:6793:strand:+ -            199   3.4e-53  179.9   0.0   1   1   2.1e-57     4e-53  179.6   0.0     3   176    20   189    18   191 0.93 GTP cyclohydrolase I
+Glyco_trans_1_4      PF13692.9    135 BGC0002354_ORF7:gid::pid:AHH97437.1:loc:6827:7937:strand:+ -            369   5.9e-12   46.2   0.1   1   1   2.2e-15   1.1e-11   45.4   0.1     8   135   193   333   188   333 0.75 Glycosyl transferases group 1
+Glyco_transf_4       PF13439.9    170 BGC0002354_ORF7:gid::pid:AHH97437.1:loc:6827:7937:strand:+ -            369   1.4e-10   41.6   0.6   1   1   2.1e-13     1e-09   38.8   0.1     3   165    17   167    15   169 0.78 Glycosyltransferase Family 4
+Glycos_transf_1      PF00534.23   172 BGC0002354_ORF7:gid::pid:AHH97437.1:loc:6827:7937:strand:+ -            369   3.5e-08   33.3   0.0   1   1   1.1e-11   5.6e-08   32.6   0.0    20   135   191   311   188   347 0.80 Glycosyl transferases group 1
+Glyco_trans_4_4      PF13579.9    159 BGC0002354_ORF7:gid::pid:AHH97437.1:loc:6827:7937:strand:+ -            369   5.9e-07   30.1   6.0   1   1   1.2e-10   5.9e-07   30.1   6.0     2   158    17   166    16   167 0.86 Glycosyl transferase 4-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002354.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002354.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002354.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:40:53 2023
+# [ok]

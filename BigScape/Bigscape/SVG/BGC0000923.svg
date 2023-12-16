@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="233.23333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="223.23333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>pvcA
+PvcA</title>
+			<polygon class="pvcA
+PvcA" points="41,25 43,25 43,10 73,40 43,70 43,55 41,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DIT1_PvcA (PF05141)
+"Pyoverdine/dityrosine biosynthesis protein"</title>
+				<polygon class="PF05141" points="45,28 57,28 69,40 57,52 45,52" stroke-linejoin="round" width="25" height="24" fill="rgb(213,100,188)" stroke="rgb(170,80,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pvcB
+PvcB</title>
+			<polygon class="pvcB
+PvcB" points="74,10 103,40 74,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="77,28 87,28 99,40 87,52 77,52" stroke-linejoin="round" width="24" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pvcC
+PvcC</title>
+			<polygon class="pvcC
+PvcC" points="105,25 125,25 125,10 155,40 125,70 125,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HpaB_N (PF11794)
+"4-hydroxyphenylacetate 3-hydroxylase N terminal"</title>
+				<rect class="PF11794" x="106" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(122,202,60)" stroke="rgb(97,161,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HpaB (PF03241)
+"4-hydroxyphenylacetate 3-hydroxylase C terminal"</title>
+				<polygon class="PF03241" points="133,28 138,28 150,40 138,52 133,52" stroke-linejoin="round" width="20" height="24" fill="rgb(73,153,185)" stroke="rgb(58,122,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pvcD
+PvcD</title>
+			<polygon class="pvcD
+PvcD" points="155,10 176,40 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytochrome_CBB3 (PF13442)
+"Cytochrome C oxidase, cbb3-type, subunit III"</title>
+				<polygon class="PF13442" points="158,28 164,28 165,30 165,50 164,52 158,52" stroke-linejoin="round" width="7" height="24" fill="rgb(49,184,120)" stroke="rgb(39,147,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cytochrom_C (PF00034)
+"Cytochrome c"</title>
+				<polygon class="PF00034" points="167,32 172,40 167,48" stroke-linejoin="round" width="8" height="24" fill="rgb(130,184,61)" stroke="rgb(104,147,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transcriptional activator PtxR</title>
+			<polygon class="
+transcriptional activator PtxR" points="211,25 210,25 210,10 180,40 210,70 210,55 211,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="184,40 196,28 201,28 201,52 196,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="204" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

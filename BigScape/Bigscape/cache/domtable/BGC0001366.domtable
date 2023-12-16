@@ -1,0 +1,40 @@
+#                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BTAD                 PF03704.20   146 BGC0001366_ORF2:gid::pid::loc:680:2492:strand:+ -            603     2e-46  158.1   8.9   1   1   6.2e-50     4e-46  157.1   8.9     1   145   100   244   100   245 0.99 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0001366_ORF2:gid::pid::loc:680:2492:strand:+ -            603   7.5e-11   42.1   0.0   1   1     4e-14   2.6e-10   40.4   0.0     7    76    22    92    17    93 0.94 Transcriptional regulatory protein, C terminal
+NB-ARC               PF00931.25   252 BGC0001366_ORF2:gid::pid::loc:680:2492:strand:+ -            603   8.6e-10   38.3   0.0   1   1   2.7e-13   1.8e-09   37.3   0.0    12   208   295   482   284   489 0.77 NB-ARC domain
+MFS_1                PF07690.19   353 BGC0001366_ORF4:gid::pid::loc:3373:4846:strand:+ -            490   1.5e-45  155.8  48.5   1   1   1.8e-49   3.5e-45  154.6  44.4     3   352    22   412    20   413 0.80 Major Facilitator Superfamily
+SchA_CurD            PF04486.15   119 BGC0001366_ORF5:gid::pid::loc:5010:5694:strand:+ -            227   2.1e-11   44.1   0.0   1   1   6.9e-13   1.4e-08   35.1   0.0     2   114   112   218   111   222 0.92 SchA/CurD like domain
+Cupin_2              PF07883.14    71 BGC0001366_ORF6:gid::pid::loc:5742:6168:strand:+ -            141   9.7e-17   60.6   0.4   1   1   1.3e-20   1.3e-16   60.2   0.4     2    68    42   108    41   111 0.95 Cupin domain
+ketoacyl-synt        PF00109.29   253 BGC0001366_ORF7:gid::pid::loc:6164:7430:strand:+ -            421   3.4e-54  184.2   2.1   1   1   5.5e-58   5.4e-54  183.5   2.1     5   250     6   249     2   252 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001366_ORF7:gid::pid::loc:6164:7430:strand:+ -            421   4.2e-36  123.7   1.9   1   1   1.3e-39   1.3e-35  122.1   0.2     1   118   260   374   260   375 0.97 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0001366_ORF8:gid::pid::loc:7426:8707:strand:+ -            426     3e-34  118.8   2.9   1   1   4.6e-38   4.5e-34  118.3   2.9     5   251    15   260    12   262 0.88 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001366_ORF8:gid::pid::loc:7426:8707:strand:+ -            426   1.8e-16   60.3   0.0   1   1   4.6e-20   4.5e-16   59.0   0.0     1   116   271   377   271   379 0.87 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0001366_ORF9:gid::pid::loc:8724:8982:strand:+ -             85   1.9e-11   44.2   0.2   1   1   1.1e-15   2.1e-11   44.1   0.2     3    64     9    74     7    77 0.82 Phosphopantetheine attachment site
+Polyketide_cyc       PF03364.23   130 BGC0001366_ORF10:gid::pid::loc:8990:9494:strand:+ -            167   3.1e-15   56.6   0.8   1   1   6.1e-19     4e-15   56.3   0.8     1   121    25   146    25   152 0.93 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.12   142 BGC0001366_ORF10:gid::pid::loc:8990:9494:strand:+ -            167     2e-14   54.2   1.5   1   1   3.8e-18   2.5e-14   53.9   1.5     4   129    19   146    16   159 0.79 Polyketide cyclase / dehydrase and lipid transport
+AHSA1                PF08327.14   126 BGC0001366_ORF10:gid::pid::loc:8990:9494:strand:+ -            167     7e-05   23.2   1.3   1   1   1.4e-08   9.2e-05   22.8   1.3     1   105    26   134    26   157 0.73 Activator of Hsp90 ATPase homolog 1-like protein
+Cyclase_polyket      PF04673.15   104 BGC0001366_ORF11:gid::pid::loc:9540:9882:strand:+ -            113   3.6e-31  107.6   0.0   1   1     2e-35     4e-31  107.5   0.0     2   104     3   105     2   105 0.96 Polyketide synthesis cyclase
+Trp_halogenase       PF04820.17   454 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   4.1e-42  144.7   0.5   1   2   3.2e-17   5.7e-14   51.9   0.0     1    95    18   105    18   109 0.96 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   4.1e-42  144.7   0.5   2   2   2.3e-29   4.1e-26   92.0   0.1   144   406   107   397   104   404 0.77 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   2.8e-23   82.9   0.0   1   1   1.9e-26   3.4e-23   82.6   0.0     2   342    17   363    16   370 0.81 FAD binding domain
+DAO                  PF01266.27   353 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   5.2e-13   49.4   0.3   1   1   5.9e-12   1.1e-08   35.3   0.1     1    34    18    51    18    58 0.93 FAD dependent oxidoreductase
+FAD_oxidored         PF12831.10   427 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   1.2e-09   38.1   2.4   1   1     3e-12   5.4e-09   36.0   1.2     1   146    18   177    18   183 0.77 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   3.9e-09   36.2   0.1   1   1   9.6e-10   1.7e-06   27.5   0.0     1    36    18    53    18    70 0.90 FAD binding domain
+NAD_binding_8        PF13450.9     68 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   3.5e-07   30.5   0.3   1   1   1.7e-09   3.1e-06   27.4   0.1     1    28    21    48    21    57 0.95 NAD(P)-binding Rossmann-like domain
+Pyr_redox_2          PF07992.17   295 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   3.6e-07   29.8   0.2   1   1   6.3e-10   1.1e-06   28.2   0.1     1    36    17    51    17    62 0.87 Pyridine nucleotide-disulphide oxidoreductase
+HI0933_like          PF03486.17   409 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   4.6e-06   25.7   0.0   1   1   5.4e-09   9.6e-06   24.7   0.0     1    33    17    49    17    55 0.94 HI0933-like protein
+GIDA                 PF01134.25   392 BGC0001366_ORF12:gid::pid::loc:9900:11211:strand:+ -            436   1.9e-05   24.0   0.0   1   1   1.5e-08   2.7e-05   23.6   0.0     1    28    18    45    18    61 0.90 Glucose inhibited division protein A
+Methyltransf_2       PF00891.21   210 BGC0001366_ORF14:gid::pid::loc:11553:12585:strand:+ -            343   1.1e-38  132.8   0.0   1   1   1.5e-42   1.4e-38  132.4   0.0     1   209   116   322   116   323 0.94 O-methyltransferase domain
+Dimerisation2        PF16864.8     90 BGC0001366_ORF14:gid::pid::loc:11553:12585:strand:+ -            343   3.6e-08   33.4   0.0   1   1   1.3e-11   1.2e-07   31.6   0.0     2    81    16    90    15    96 0.90 Dimerisation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001366.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001366.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001366.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:58:36 2023
+# [ok]

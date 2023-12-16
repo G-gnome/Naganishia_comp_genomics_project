@@ -1,0 +1,22 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HTH_18               PF12833.10    81 BGC0002013_ORF1:gid::pid:WP_062148863.1:loc:0:417:strand:+ -            138     1e-21   77.1   1.4   1   1   1.5e-25   1.5e-21   76.6   1.4     1    80    52   132    52   132 0.93 Helix-turn-helix domain
+HTH_AraC             PF00165.26    42 BGC0002013_ORF1:gid::pid:WP_062148863.1:loc:0:417:strand:+ -            138   7.5e-15   54.7   0.1   1   1   3.7e-14   3.6e-10   39.8   0.1    10    42    99   132    94   132 0.94 Bacterial regulatory helix-turn-helix proteins, AraC family
+Beta-lactamase       PF00144.27   330 BGC0002013_ORF2:gid::pid:WP_062148866.1:loc:456:1686:strand:- -            409   2.7e-61  207.8   4.4   1   1   1.8e-65   3.5e-61  207.4   4.4     1   314    16   388    16   398 0.92 Beta-lactamase
+DUF6624              PF20329.1    173 BGC0002013_ORF3:gid::pid::loc:1896:2394:strand:- -            166   5.5e-23   81.4   0.0   1   1   3.7e-27   7.2e-23   81.1   0.0     7   161    12   162     5   165 0.83 Family of unknown function (DUF6624)
+Nitroreductase       PF00881.27   168 BGC0002013_ORF4:gid::pid:WP_062148869.1:loc:2516:3914:strand:- -            465   6.5e-22   78.5   0.0   1   1     5e-26   9.9e-22   77.9   0.0     1   167   269   455   269   456 0.92 Nitroreductase family
+DUF5944              PF19369.2    243 BGC0002013_ORF7:gid::pid:WP_062148878.1:loc:5855:6641:strand:- -            261   1.9e-91  306.1   0.0   1   1   1.1e-95   2.2e-91  305.9   0.0     2   243    10   250     9   250 0.99 Family of unknown function (DUF5944)
+p450                 PF00067.25   463 BGC0002013_ORF8:gid::pid:WP_062148882.1:loc:6637:8047:strand:- -            469   9.8e-59  199.4   0.0   1   1   6.2e-62   1.2e-57  195.8   0.0    35   443    62   435    40   452 0.83 Cytochrome P450
+YcaO                 PF02624.19   322 BGC0002013_ORF9:gid::pid:WP_159042661.1:loc:9005:10406:strand:- -            466   9.8e-56  189.6   3.2   1   1     6e-60   1.2e-55  189.3   3.2     2   321    91   428    90   429 0.86 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+JmjC_2               PF08007.15   127 BGC0002013_ORF11:gid::pid:WP_244181632.1:loc:10736:11564:strand:- -            275   3.5e-17   62.3   0.0   1   1   1.1e-20   1.1e-16   60.7   0.0    24   125    82   200    69   202 0.87 JmjC domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002013.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002013.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002013.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:44:58 2023
+# [ok]

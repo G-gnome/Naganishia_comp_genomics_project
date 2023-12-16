@@ -1,0 +1,29 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Orn_Arg_deC_N        PF02784.19   247 BGC0002567_ORF1:gid:lysA_1:pid:SPE99793.1:loc:0:1368:strand:- -            455   6.5e-27   94.6   0.0   1   1   9.7e-30   9.5e-26   90.8   0.0     6   218    48   253    44   268 0.89 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Ala_racemase_N       PF01168.23   219 BGC0002567_ORF1:gid:lysA_1:pid:SPE99793.1:loc:0:1368:strand:- -            455   2.7e-08   33.9   0.4   1   1   4.1e-12     4e-08   33.3   0.4     5   194    45   234    43   248 0.80 Alanine racemase, N-terminal domain
+OCD_Mu_crystall      PF02423.18   320 BGC0002567_ORF2:gid::pid:SPE99794.1:loc:1358:2381:strand:- -            340   4.2e-29  101.6   0.0   1   1     3e-33   5.8e-29  101.1   0.0     8   308    24   319    18   325 0.87 Ornithine cyclodeaminase/mu-crystallin family
+TauD                 PF02668.19   268 BGC0002567_ORF3:gid:asnO:pid:SPE99795.1:loc:2377:3367:strand:- -            329   3.1e-09   37.2   0.2   1   1   1.4e-11   2.8e-07   30.7   0.0   205   266   238   299   213   301 0.84 Taurine catabolism dioxygenase TauD, TfdA family
+SBP_bac_5            PF00496.25   377 BGC0002567_ORF4:gid:appA:pid:SPE99796.1:loc:3628:5185:strand:+ -            518   6.6e-72  242.7   4.8   1   1   4.2e-76   8.2e-72  242.4   4.8     3   375    94   438    92   440 0.92 Bacterial extracellular solute-binding proteins, family 5 Middle
+BPD_transp_1         PF00528.25   185 BGC0002567_ORF5:gid:gsiC_1:pid:SPE99797.1:loc:5169:6195:strand:+ -            341   9.3e-31  107.1   7.4   1   1   9.5e-35   9.3e-31  107.1   7.4     2   178   144   335   143   340 0.96 Binding-protein-dependent transport system inner membrane component
+BPD_transp_1_N       PF19300.2    114 BGC0002567_ORF5:gid:gsiC_1:pid:SPE99797.1:loc:5169:6195:strand:+ -            341   8.5e-06   26.1   0.0   1   1     3e-09     3e-05   24.3   0.0    13    75    44   106    32   132 0.86 Binding-prot-dependent transport system membrane comp, N-term
+BPD_transp_1         PF00528.25   185 BGC0002567_ORF6:gid:ddpC_1:pid:SPE99798.1:loc:6191:7007:strand:+ -            271   6.2e-17   62.0  12.5   1   1   3.2e-21   6.2e-17   62.0  12.5     3   181    87   261    85   265 0.90 Binding-protein-dependent transport system inner membrane component
+ABC_tran             PF00005.30   137 BGC0002567_ORF7:gid:gsiA_1:pid:SPE99799.1:loc:7003:8719:strand:+ -            571   1.3e-61  207.2   0.0   1   2   1.8e-32   2.6e-29  102.6   0.0     1   137    41   193    41   193 0.91 ABC transporter
+ABC_tran             PF00005.30   137 BGC0002567_ORF7:gid:gsiA_1:pid:SPE99799.1:loc:7003:8719:strand:+ -            571   1.3e-61  207.2   0.0   2   2   1.5e-32   2.3e-29  102.8   0.0     1   137   340   492   340   492 0.93 ABC transporter
+AAA_21               PF13304.9    304 BGC0002567_ORF7:gid:gsiA_1:pid:SPE99799.1:loc:7003:8719:strand:+ -            571     2e-26   93.6   7.2   1   1   1.4e-13   2.1e-10   41.0   0.2   223   304   150   229    89   229 0.79 AAA domain, putative AbiEii toxin, Type IV TA system
+RicinB_lectin_2      PF14200.9     89 BGC0002567_ORF8:gid::pid:SPE99800.1:loc:8738:9296:strand:- -            185   1.4e-18   67.4   0.3   1   2   9.2e-15     9e-11   42.4   0.0    13    89    42   122    34   122 0.86 Ricin-type beta-trefoil lectin domain-like
+RicinB_lectin_2      PF14200.9     89 BGC0002567_ORF8:gid::pid:SPE99800.1:loc:8738:9296:strand:- -            185   1.4e-18   67.4   0.3   2   2   7.4e-11   7.2e-07   29.9   0.0    15    89    94   170    86   170 0.90 Ricin-type beta-trefoil lectin domain-like
+Ricin_B_lectin       PF00652.25   127 BGC0002567_ORF8:gid::pid:SPE99800.1:loc:8738:9296:strand:- -            185   3.1e-13   50.2   0.1   1   1   2.9e-15   2.8e-11   43.9   0.1     3   127    44   180    42   180 0.78 Ricin-type beta-trefoil lectin domain
+AA_permease_2        PF13520.9    427 BGC0002567_ORF9:gid:yhdG_3:pid:SPE99801.1:loc:9395:10865:strand:- -            489   4.1e-29  101.8  36.1   1   1   5.3e-33   5.2e-29  101.5  36.1    15   407    44   443    27   468 0.78 Amino acid permease
+AA_permease          PF00324.24   479 BGC0002567_ORF9:gid:yhdG_3:pid:SPE99801.1:loc:9395:10865:strand:- -            489   3.6e-29  101.8  31.4   1   1   4.5e-33   4.4e-29  101.5  31.4     6   434    36   440    31   473 0.81 Amino acid permease
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002567.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002567.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002567.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:12:01 2023
+# [ok]

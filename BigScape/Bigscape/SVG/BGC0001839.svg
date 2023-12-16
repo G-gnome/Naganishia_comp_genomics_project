@@ -1,0 +1,45 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="727.1666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="717.1666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (gene1)</title>
+			<polygon class=" (gene1)" points="218,25 210,25 210,10 180,40 210,70 210,55 218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_A4 (PF01828)
+"Peptidase A4 family"</title>
+				<rect class="PF01828" x="201" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(219,75,91)" stroke="rgb(175,59,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (gene2)</title>
+			<polygon class=" (gene2)" points="383,25 373,25 373,10 343,40 373,70 373,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="350,37 359,28 378,28 378,52 359,52 350,43" stroke-linejoin="round" width="28" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (gene3)</title>
+			<polygon class=" (gene3)" points="409,25 434,25 434,10 464,40 434,70 434,55 409,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DnaJ (PF00226)
+"DnaJ domain"</title>
+				<rect class="PF00226" x="409" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(207,80,207)" stroke="rgb(165,63,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DnaJ-X (PF14308)
+"X-domain of DnaJ-containing"</title>
+				<polygon class="PF14308" points="432,28 448,28 452,32 452,48 448,52 432,52" stroke-linejoin="round" width="20" height="24" fill="rgb(98,211,104)" stroke="rgb(78,168,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (gene4)</title>
+			<polygon class=" (gene4)" points="498,10 524,40 498,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (gene5)</title>
+			<polygon class=" (gene5)" points="699,25 660,25 660,10 630,40 660,70 660,55 699,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,39 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001748_ORF1:gid:spuA:pid:ATP76245.1:loc:0:4191:strand:+ -           1396     1e-69  235.4   0.0   1   1   1.8e-72     7e-69  232.6   0.0    15   423   218   623   204   624 0.87 AMP-binding enzyme
+KR                   PF08659.13   180 BGC0001748_ORF1:gid:spuA:pid:ATP76245.1:loc:0:4191:strand:+ -           1396   7.2e-43  146.7   0.1   1   1   3.8e-46   1.5e-42  145.7   0.1     1   180   990  1171   990  1171 0.97 KR domain
+adh_short            PF00106.28   195 BGC0001748_ORF1:gid:spuA:pid:ATP76245.1:loc:0:4191:strand:+ -           1396   2.3e-15   56.7   0.5   1   1   1.1e-17   4.1e-14   52.6   0.0     4   161   993  1151   991  1161 0.81 short chain dehydrogenase
+PP-binding           PF00550.28    67 BGC0001748_ORF1:gid:spuA:pid:ATP76245.1:loc:0:4191:strand:+ -           1396   7.2e-15   55.2   0.7   1   1   7.8e-18   3.1e-14   53.2   0.1     2    67  1307  1370  1307  1370 0.95 Phosphopantetheine attachment site
+adh_short_C2         PF13561.9    234 BGC0001748_ORF1:gid:spuA:pid:ATP76245.1:loc:0:4191:strand:+ -           1396   7.6e-10   38.9   0.0   1   1   1.1e-11   4.2e-08   33.2   0.0     4   155   999  1153   996  1158 0.83 Enoyl-(Acyl carrier protein) reductase
+Condensation         PF00668.23   457 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116         0 1441.6  32.5   1   4  4.4e-123  9.6e-120  400.5   0.1     3   457    73   515    71   515 0.96 Condensation domain
+Condensation         PF00668.23   457 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116         0 1441.6  32.5   2   4   1.7e-93   3.6e-90  302.9   2.5     3   444  1114  1556  1112  1564 0.92 Condensation domain
+Condensation         PF00668.23   457 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116         0 1441.6  32.5   3   4    3e-111  6.5e-108  361.5   6.3     2   457  1594  2039  1593  2039 0.95 Condensation domain
+Condensation         PF00668.23   457 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116         0 1441.6  32.5   4   4  4.8e-120    1e-116  390.4   4.7     4   457  2653  3098  2650  3098 0.97 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116         0 1066.2   0.0   1   3  7.8e-109  1.7e-105  353.2   0.0     1   424   535   927   535   927 0.91 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116         0 1066.2   0.0   2   3  1.1e-110  2.4e-107  359.3   0.0     1   424  2059  2455  2059  2455 0.90 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116         0 1066.2   0.0   3   3  6.6e-108  1.4e-104  350.2   0.0     1   424  3118  3524  3118  3524 0.88 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   9.1e-70  234.9   0.0   1   1   7.1e-73   1.5e-69  234.1   0.0     1   257  3744  3981  3744  3981 0.95 Male sterility protein
+AMP-binding_C        PF13193.9     76 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   6.9e-45  152.0   4.3   1   3   6.3e-18   1.4e-14   55.0   0.1     1    76   935  1008   935  1008 0.93 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   6.9e-45  152.0   4.3   2   3   1.4e-16     3e-13   50.7   0.0     1    76  2463  2538  2463  2538 0.94 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   6.9e-45  152.0   4.3   3   3   7.3e-15   1.6e-11   45.1   0.0     1    76  3532  3606  3532  3606 0.91 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   1.2e-39  134.6   6.6   1   3   3.6e-12   7.7e-09   35.9   0.1     3    65  1038  1097  1036  1099 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   1.2e-39  134.6   6.6   2   3   1.1e-16   2.4e-13   50.3   0.1     2    66  2567  2629  2566  2630 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   1.2e-39  134.6   6.6   3   3   1.8e-15     4e-12   46.4   0.1     3    65  3635  3695  3633  3697 0.93 Phosphopantetheine attachment site
+TubC_N               PF18563.4     52 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   8.6e-23   80.3   0.9   1   1   2.1e-25   4.5e-22   78.0   0.9     1    52     3    54     3    54 0.98 TubC N-terminal docking domain
+Epimerase            PF01370.24   241 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   1.1e-12   48.0   0.0   1   1   2.6e-15   5.6e-12   45.8   0.0     1   194  3742  3957  3742  3976 0.79 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   2.8e-09   36.5   0.0   1   1   2.3e-12     5e-09   35.7   0.0     2   162  3744  3921  3743  3940 0.77 3-beta hydroxysteroid dehydrogenase/isomerase family
+Polysacc_synt_2      PF02719.18   294 BGC0001748_ORF2:gid:spuB:pid:ATP76246.1:loc:4192:16543:strand:+ -           4116   1.9e-05   24.2   0.0   1   1   2.2e-08   4.7e-05   22.8   0.0     1   128  3742  3874  3742  3880 0.70 Polysaccharide biosynthesis protein
+ABC_membrane_2       PF06472.18   269 BGC0001748_ORF3:gid:spuF:pid:ATP76247.1:loc:16701:18705:strand:+ -            667     4e-41  141.3  13.2   1   1   6.3e-45   4.2e-41  141.2  11.6    12   264    48   298    43   303 0.95 ABC transporter transmembrane region 2
+ABC_tran             PF00005.30   137 BGC0001748_ORF3:gid:spuF:pid:ATP76247.1:loc:16701:18705:strand:+ -            667   7.4e-19   68.8   0.0   1   1   3.2e-22   2.1e-18   67.3   0.0     2   137   392   529   391   529 0.89 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001748_ORF3:gid:spuF:pid:ATP76247.1:loc:16701:18705:strand:+ -            667     6e-11   42.6  13.8   1   1   1.7e-14   1.1e-10   41.8  13.8     2   271    54   322    52   325 0.88 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001748.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001748.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001748.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:29:21 2023
+# [ok]

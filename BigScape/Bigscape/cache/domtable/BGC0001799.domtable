@@ -1,0 +1,18 @@
+#                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001799_ORF1:gid::pid::loc:0:3066:strand:+ -            191   1.6e-08   33.9   0.0   1   1     1e-12     2e-08   33.5   0.0     7   121    63   184    58   189 0.79 Cytochrome P450
+p450                 PF00067.25   463 BGC0001799_ORF2:gid::pid::loc:63855:66614:strand:+ -            190   2.1e-05   23.6   0.0   1   1   1.4e-09   2.8e-05   23.2   0.0     7   109    63   171    58   185 0.79 Cytochrome P450
+p450                 PF00067.25   463 BGC0001799_ORF3:gid::pid::loc:76974:78482:strand:+ -            140   6.8e-10   38.4   0.0   1   1   4.1e-14   8.1e-10   38.2   0.0     1    87    44   129    44   135 0.90 Cytochrome P450
+p450                 PF00067.25   463 BGC0001799_ORF5:gid::pid::loc:130497:135550:strand:+ -            111   2.9e-08   33.0   0.0   1   1   1.8e-12   3.5e-08   32.8   0.0     1    63    44   107    44   110 0.96 Cytochrome P450
+Bet_v_1              PF00407.22   151 BGC0001799_ORF10:gid::pid::loc:917206:917919:strand:- -            127   1.8e-09   37.8   0.0   1   1   1.1e-13   2.2e-09   37.5   0.0     2    65    31    93    30   101 0.92 Pathogenesis-related protein Bet v 1 family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001799.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001799.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001799.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:17:15 2023
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GerE                 PF00196.22    57 BGC0000496_ORF1:gid:amfR:pid:BAG19222.1:loc:0:606:strand:+ -            201   4.6e-12   45.5   0.0   1   1   5.3e-16     1e-11   44.3   0.0     1    57   139   195   139   195 0.97 Bacterial regulatory proteins, luxR family
+ABC_tran             PF00005.30   137 BGC0000496_ORF2:gid:amfA:pid:BAG19223.1:loc:648:2553:strand:- -            634   9.3e-26   91.1   0.0   1   1     7e-30   1.4e-25   90.6   0.0     1   137   399   542   399   542 0.90 ABC transporter
+ABC_tran             PF00005.30   137 BGC0000496_ORF3:gid:amfB:pid:BAG19224.1:loc:2549:4466:strand:- -            638   7.4e-20   72.0   0.0   1   1   1.1e-23   1.1e-19   71.5   0.0     1   136   350   496   350   497 0.88 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000496_ORF3:gid:amfB:pid:BAG19224.1:loc:2549:4466:strand:- -            638     1e-13   51.7   0.0   1   1   1.3e-17   1.3e-13   51.4   0.0     4   269    27   287    24   291 0.95 ABC transporter transmembrane region
+RamS                 PF19402.2     44 BGC0000496_ORF4:gid:amfS:pid:BAG19225.1:loc:4541:4673:strand:- -             43   4.2e-15   56.0   2.6   1   1   2.3e-19   4.6e-15   55.9   2.6     1    43     1    41     1    42 0.93 Lanthionine-containing peptide SapB precursor RamS
+Pkinase              PF00069.28   264 BGC0000496_ORF5:gid:amfT:pid:BAG19226.1:loc:4717:7345:strand:- -            875   5.3e-13   49.1   0.0   1   1   7.3e-17   7.2e-13   48.6   0.0    11   191   243   435   233   472 0.85 Protein kinase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000496.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000496.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000496.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:02:34 2023
+# [ok]

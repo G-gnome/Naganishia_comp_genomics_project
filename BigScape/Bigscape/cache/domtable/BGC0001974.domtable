@@ -1,0 +1,17 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.3    199 BGC0001974_ORF1:gid:kabA:pid:QCC62379.1:loc:0:1320:strand:+ -            439   3.3e-11   43.5   0.0   1   1   3.8e-15   7.4e-11   42.4   0.0    62   195   231   364   133   368 0.90 Terpene synthase family 2, C-terminal metal binding
+RVT_2                PF07727.17   243 BGC0001974_ORF3:gid:rvt:pid:QCC62381.1:loc:7336:8053:strand:+ -            238   6.7e-35  121.0   0.2   1   1     4e-39   7.8e-35  120.8   0.2    68   242     3   178     1   179 0.96 Reverse transcriptase (RNA-dependent DNA polymerase)
+2OG-FeII_Oxy         PF03171.23   101 BGC0001974_ORF5:gid:kabC:pid:QCC62383.1:loc:11298:12381:strand:+ -            360   3.5e-11   43.6   0.0   1   1   6.4e-15   6.3e-11   42.8   0.0     6   101   203   310   196   310 0.80 2OG-Fe(II) oxygenase superfamily
+DIOX_N               PF14226.9    118 BGC0001974_ORF5:gid:kabC:pid:QCC62383.1:loc:11298:12381:strand:+ -            360   7.6e-11   42.9   0.0   1   1   1.4e-14   1.4e-10   42.0   0.0     1    84    42   123    42   160 0.82 non-haem dioxygenase in morphine synthesis N-terminal
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001974.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001974.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001974.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:11:22 2023
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  1.3e-286  949.9   0.0   1   4     1e-68   4.9e-65  219.9   0.0     2   423   220   617   219   618 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  1.3e-286  949.9   0.0   2   4   1.1e-71   5.4e-68  229.7   0.0     2   423  1827  2232  1826  2233 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  1.3e-286  949.9   0.0   3   4   8.1e-74     4e-70  236.7   0.0     1   424  2978  3385  2978  3385 0.84 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  1.3e-286  949.9   0.0   4   4   1.7e-80   8.3e-77  258.7   0.0     4   422  4133  4532  4130  4534 0.84 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  2.2e-150  501.5   0.0   1   5   2.8e-35   1.4e-31  109.9   0.0     4   428   854  1282   852  1309 0.79 Condensation domain
+Condensation         PF00668.23   457 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  2.2e-150  501.5   0.0   2   5     3e-37   1.4e-33  116.4   0.0     2   454  1336  1805  1335  1807 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  2.2e-150  501.5   0.0   3   5   5.1e-38   2.5e-34  118.9   0.0     2   434  2530  2929  2529  2947 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  2.2e-150  501.5   0.0   4   5   2.3e-24   1.1e-20   73.9   0.0     2   454  3648  4100  3647  4102 0.77 Condensation domain
+Condensation         PF00668.23   457 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207  2.2e-150  501.5   0.0   5   5   1.1e-23   5.2e-20   71.7   0.0    15   343  4792  5099  4780  5106 0.82 Condensation domain
+PP-binding           PF00550.28    67 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207   3.4e-38  129.9   0.0   1   4   2.7e-10   1.3e-06   28.7   0.0     2    65   771   834   770   836 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207   3.4e-38  129.9   0.0   2   4   1.4e-10   6.7e-07   29.6   0.0     1    67  2385  2448  2385  2448 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207   3.4e-38  129.9   0.0   3   4   5.1e-08   0.00025   21.4   0.0     3    65  3540  3601  3539  3603 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001166_ORF1:gid:HTS1:pid:AGQ43600.1:loc:0:15624:strand:+ -           5207   3.4e-38  129.9   0.0   4   4   4.5e-15   2.2e-11   44.0   0.0     2    67  4669  4734  4668  4734 0.94 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001166.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001166.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001166.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:59:39 2023
+# [ok]

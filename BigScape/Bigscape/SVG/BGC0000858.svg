@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="161.76666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="151.76666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ectA
+L-2,4-diaminobutyric acid acetyltransferase</title>
+			<polygon class="ectA
+L-2,4-diaminobutyric acid acetyltransferase" points="17,10 33,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="17,28 23,28 28,38 28,42 23,52 17,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectB
+L-2,4-diaminobutyric acid aminotransferase</title>
+			<polygon class="ectB
+L-2,4-diaminobutyric acid aminotransferase" points="32,25 44,25 44,10 74,40 44,70 44,55 32,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="33,28 58,28 70,40 58,52 33,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectC
+ectoine synthase</title>
+			<polygon class="ectC
+ectoine synthase" points="75,10 88,40 75,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="75,28 79,28 85,40 79,52 75,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssf
+transporter solute:sodium symporter (SSS) family protein</title>
+			<polygon class="ssf
+transporter solute:sodium symporter (SSS) family protein" points="91,25 106,25 106,10 136,40 106,70 106,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SSF (PF00474)
+"Sodium:solute symporter family"</title>
+				<polygon class="PF00474" points="92,28 120,28 131,39 131,41 120,52 92,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,186,178)" stroke="rgb(39,148,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

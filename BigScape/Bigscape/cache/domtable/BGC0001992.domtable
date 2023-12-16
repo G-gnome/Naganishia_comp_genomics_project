@@ -1,0 +1,21 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HTH_1                PF00126.30    60 BGC0001992_ORF1:gid::pid:WP_004156381.1:loc:0:876:strand:- -            291   1.1e-21   76.7   0.7   1   1   1.9e-25   1.8e-21   75.9   0.7     1    60     7    66     7    66 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+LysR_substrate       PF03466.23   209 BGC0001992_ORF1:gid::pid:WP_004156381.1:loc:0:876:strand:- -            291   1.3e-20   73.8   0.1   1   1   2.3e-24   2.3e-20   73.0   0.0     6   208    92   287    90   288 0.89 LysR substrate binding domain
+NUDIX                PF00293.31   131 BGC0001992_ORF3:gid::pid:WP_004156386.1:loc:1838:2237:strand:+ -            132   1.7e-11   44.4   0.0   1   1     1e-15     2e-11   44.2   0.0     8   115    10   107     4   125 0.75 NUDIX domain
+DUF6024              PF19488.2    290 BGC0001992_ORF4:gid::pid:WP_004156388.1:loc:2236:3112:strand:+ -            291  7.5e-154  511.3   0.4   1   1  4.3e-158  8.5e-154  511.1   0.4     1   289     1   289     1   290 1.00 Family of unknown function (DUF6024)
+EamA                 PF00892.23   137 BGC0001992_ORF5:gid::pid:WP_004156390.1:loc:3108:4011:strand:+ -            300   3.5e-14   53.3  39.5   1   1     4e-13   7.8e-09   35.9  12.9     3   136     9   141     7   142 0.86 EamA-like transporter family
+ADK                  PF00406.25   151 BGC0001992_ORF6:gid:adk:pid:WP_004156392.1:loc:4104:4749:strand:+ -            214   3.9e-60  202.5   0.1   1   1   7.2e-64   4.7e-60  202.2   0.1     1   150     5   186     5   187 0.99 Adenylate kinase
+AAA_17               PF13207.9    136 BGC0001992_ORF6:gid:adk:pid:WP_004156392.1:loc:4104:4749:strand:+ -            214   2.5e-26   92.8   0.3   1   1   9.8e-30   6.4e-26   91.5   0.1     1   127     6   131     6   135 0.88 AAA domain
+ADK_lid              PF05191.17    36 BGC0001992_ORF6:gid:adk:pid:WP_004156392.1:loc:4104:4749:strand:+ -            214   3.8e-16   58.9   0.0   1   1   1.2e-19   7.7e-16   57.9   0.0     1    36   123   158   123   158 0.99 Adenylate kinase, active site lid
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001992.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001992.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001992.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:18:11 2023
+# [ok]

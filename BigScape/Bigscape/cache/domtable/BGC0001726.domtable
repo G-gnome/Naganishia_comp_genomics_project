@@ -1,0 +1,39 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6183              PF19681.2    361 BGC0001726_ORF1:gid::pid:APD26277.1:loc:12489:13680:strand:- -            396     2e-52  178.7   0.1   1   1   1.3e-56   2.5e-52  178.5   0.1    33   361    53   389    31   389 0.86 Family of unknown function (DUF6183)
+FA_hydroxylase       PF04116.16   133 BGC0001726_ORF2:gid::pid:APD26278.1:loc:14289:15195:strand:+ -            301   2.3e-23   83.1   7.0   1   1   1.2e-27   2.3e-23   83.1   7.0     2   133   128   260   127   260 0.94 Fatty acid hydroxylase
+Condensation         PF00668.23   457 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   1.1e-96  324.4   0.0   1   1  8.2e-100   1.5e-96  324.0   0.0     4   436  1833  2254  1830  2276 0.94 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   1.8e-83  280.6   0.0   1   1   1.8e-86   3.3e-83  279.8   0.0     5   424  2300  2698  2297  2698 0.88 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   4.2e-83  278.9   0.0   1   1   5.1e-86   9.1e-83  277.8   0.0     2   253    11   262    10   262 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   1.1e-72  245.4   0.0   1   1   1.4e-75   2.5e-72  244.2   0.0     1   318   545   863   545   864 0.94 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   3.6e-72  243.3   2.4   1   1   3.5e-75   6.3e-72  242.5   2.4     1   295   905  1186   905  1188 0.93 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   3.9e-57  193.2   0.0   1   1   1.1e-59     2e-56  190.9   0.0     1   179  1447  1639  1447  1640 0.97 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   6.1e-43  145.7   0.5   1   1   8.2e-46   1.5e-42  144.5   0.5     1   119   270   388   270   388 0.98 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   7.1e-24   85.3   0.7   1   1   9.9e-27   1.8e-23   84.1   0.7     2   132  2898  3020  2897  3035 0.90 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   2.4e-21   75.9   0.6   1   2   8.6e-12   1.5e-08   34.9   0.2     3    66  1742  1805  1740  1806 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   2.4e-21   75.9   0.6   2   2   1.5e-12   2.6e-09   37.4   0.0     5    66  2812  2871  2809  2872 0.92 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   8.1e-18   65.1   0.0   1   1   9.6e-21   1.7e-17   64.0   0.0     1   108   390   502   390   506 0.89 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.9     76 BGC0001726_ORF3:gid::pid:APD26279.1:loc:15331:24676:strand:+ -           3114   4.2e-13   50.2   0.5   1   1   2.3e-15   4.1e-12   47.0   0.1     1    76  2706  2781  2706  2781 0.91 AMP-binding enzyme C-terminal domain
+Amino_oxidase        PF01593.27   452 BGC0001726_ORF4:gid::pid:APD26280.1:loc:24662:26348:strand:+ -            561   8.7e-16   58.4   0.1   1   1   1.7e-19   1.1e-15   58.0   0.1     1   449    28   516    28   519 0.77 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001726_ORF4:gid::pid:APD26280.1:loc:24662:26348:strand:+ -            561   5.1e-12   46.0   0.1   1   1   3.1e-15     2e-11   44.0   0.1     1    68    23    90    23    90 0.95 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.27   452 BGC0001726_ORF5:gid::pid:APD26281.1:loc:26359:28003:strand:+ -            547   7.7e-12   45.4   0.0   1   1     2e-15     2e-11   44.0   0.0     2   346     9   378     8   396 0.72 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001726_ORF5:gid::pid:APD26281.1:loc:26359:28003:strand:+ -            547   1.1e-11   44.9   0.1   1   1   2.9e-15   2.9e-11   43.6   0.1     1    65     3    67     3    70 0.94 NAD(P)-binding Rossmann-like domain
+ADH_N_2              PF16884.8    108 BGC0001726_ORF6:gid::pid:APD26282.1:loc:27999:29055:strand:+ -            351     4e-15   55.8   0.1   1   1     9e-19   8.8e-15   54.7   0.1     2   104     5   103     4   106 0.91 N-terminal domain of oxidoreductase
+ADH_zinc_N           PF00107.29   130 BGC0001726_ORF6:gid::pid:APD26282.1:loc:27999:29055:strand:+ -            351   2.1e-13   50.6   0.0   1   1   3.6e-17   3.6e-13   49.8   0.0     1   114   170   291   170   306 0.80 Zinc-binding dehydrogenase
+KshA_C               PF19298.2    202 BGC0001726_ORF7:gid::pid:APD26283.1:loc:29051:30143:strand:+ -            363   3.8e-19   69.8   0.0   1   1   1.3e-22   1.3e-18   68.0   0.0     1   202   131   338   131   338 0.80 3-Ketosteroid 9alpha-hydroxylase C-terminal domain
+Rieske               PF00355.29    89 BGC0001726_ORF7:gid::pid:APD26283.1:loc:29051:30143:strand:+ -            363   1.3e-14   54.0   0.0   1   1   2.6e-18   2.5e-14   53.1   0.0     2    78    29   104    28   121 0.94 Rieske [2Fe-2S] domain
+Flavin_Reduct        PF01613.21   155 BGC0001726_ORF8:gid::pid:APD26284.1:loc:30201:30696:strand:- -            164   8.4e-34  117.0   0.1   1   1   4.8e-38   9.5e-34  116.9   0.1     1   153    11   156    11   158 0.95 Flavin reductase like domain
+HTH_IclR             PF09339.13    52 BGC0001726_ORF9:gid::pid:APD26285.1:loc:30860:31637:strand:- -            258   1.3e-15   57.0   3.0   1   1   9.4e-19   4.6e-15   55.3   1.1     2    50    17    65    16    67 0.95 IclR helix-turn-helix domain
+IclR                 PF01614.21   128 BGC0001726_ORF9:gid::pid:APD26285.1:loc:30860:31637:strand:- -            258   5.9e-10   39.2   0.1   1   1     2e-13   9.7e-10   38.5   0.1     4   124   135   249   132   255 0.82 Bacterial transcriptional regulator
+MarR_2               PF12802.10    61 BGC0001726_ORF9:gid::pid:APD26285.1:loc:30860:31637:strand:- -            258   7.7e-07   29.2   0.3   1   1   4.4e-10   2.1e-06   27.8   0.3     8    55    21    68    14    70 0.94 MarR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001726.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001726.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001726.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:56:53 2023
+# [ok]

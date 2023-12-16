@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Transglut_core3      PF13471.9    117 BGC0001496_ORF1:gid::pid:EWC60869.1:loc:0:384:strand:- -            127   2.5e-23   82.3   4.7   1   1   1.8e-27   3.5e-23   81.9   4.5     3   110     8   111     6   116 0.94 Transglutaminase-like superfamily
+PqqD                 PF05402.15    67 BGC0001496_ORF2:gid::pid:EWC60870.1:loc:380:647:strand:- -             88   4.3e-08   33.5   0.5   1   1   2.5e-12   4.9e-08   33.3   0.5     4    66    20    83    10    84 0.90 Coenzyme PQQ synthesis protein D (PqqD)
+Asn_synthase         PF00733.24   355 BGC0001496_ORF3:gid::pid:EWC60871.1:loc:643:2086:strand:- -            480   3.3e-30  106.1   0.2   1   1   2.2e-34   4.4e-30  105.7   0.2     2   334    83   451    82   470 0.82 Asparagine synthase
+ABC_membrane         PF00664.26   274 BGC0001496_ORF5:gid::pid:EWC60873.1:loc:2903:4664:strand:+ -            586     1e-33  117.3   2.5   1   1     1e-37     1e-33  117.3   2.5     7   274    30   292    25   292 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0001496_ORF5:gid::pid:EWC60873.1:loc:2903:4664:strand:+ -            586   1.3e-31  110.1   0.0   1   1   2.4e-35   2.3e-31  109.2   0.0     1   137   364   513   364   513 0.95 ABC transporter
+ABC_tran             PF00005.30   137 BGC0001496_ORF6:gid::pid:EWC60874.1:loc:4792:5506:strand:+ -            237     4e-22   79.3   0.0   1   1   5.6e-26   5.5e-22   78.9   0.0     1   137    17   156    17   156 0.96 ABC transporter
+AAA_21               PF13304.9    304 BGC0001496_ORF6:gid::pid:EWC60874.1:loc:4792:5506:strand:+ -            237   1.2e-13   51.7   0.0   1   1     2e-11     2e-07   31.2   0.0   236   298   126   185   103   191 0.87 AAA domain, putative AbiEii toxin, Type IV TA system
+HisKA_3              PF07730.16    68 BGC0001496_ORF11:gid::pid:EWC60879.1:loc:8257:9037:strand:+ -            259   2.5e-13   50.5   5.7   1   1   4.6e-17   9.1e-13   48.7   3.8     1    66    61   122    61   124 0.95 Histidine kinase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001496.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001496.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001496.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:15:10 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002181_ORF1:gid:ple1:pid:BCI98769.1:loc:1003:3127:strand:+ -            523   6.8e-67  226.3   0.0   1   1   4.1e-71   8.1e-67  226.1   0.0     1   445    36   477    36   495 0.85 Cytochrome P450
+MBOAT_2              PF13813.9     83 BGC0002181_ORF2:gid:ple2:pid:BCI98770.1:loc:3412:4711:strand:- -            377     9e-23   80.5   1.1   1   1   9.6e-27   1.9e-22   79.4   1.1     1    83   209   297   209   297 0.93 Membrane bound O-acyl transferase family
+polyprenyl_synt      PF00348.20   256 BGC0002181_ORF4:gid:ple4:pid:BCI98772.1:loc:9659:10944:strand:+ -            350   1.1e-50  172.2   0.0   1   1   7.5e-55   1.5e-50  171.8   0.0    12   256    61   301    50   301 0.91 Polyprenyl synthetase
+p450                 PF00067.25   463 BGC0002181_ORF5:gid:ple5:pid:BCI98773.1:loc:11356:13653:strand:- -            523   7.7e-67  226.2   0.0   1   1   4.9e-71   9.6e-67  225.8   0.0     1   445    41   477    41   494 0.87 Cytochrome P450
+p450                 PF00067.25   463 BGC0002181_ORF6:gid:ple6:pid:BCI98774.1:loc:14505:16665:strand:- -            525   2.2e-59  201.6   0.0   1   1   1.3e-63   2.5e-59  201.4   0.0     1   451    42   496    42   508 0.84 Cytochrome P450
+adh_short            PF00106.28   195 BGC0002181_ORF7:gid:ple7:pid:BCI98775.1:loc:17307:18265:strand:+ -            253   2.2e-40  138.3   0.6   1   1   2.8e-44   2.8e-40  138.0   0.6     1   192     4   191     4   194 0.93 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002181_ORF7:gid:ple7:pid:BCI98775.1:loc:17307:18265:strand:+ -            253     7e-39  133.9   0.4   1   1   1.1e-42   1.1e-38  133.3   0.4     1   231    10   248    10   251 0.87 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002181.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002181.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002181.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:31:12 2023
+# [ok]

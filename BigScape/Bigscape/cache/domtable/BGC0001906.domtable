@@ -1,0 +1,36 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glyco_hydro_35       PF01301.22   316 BGC0001906_ORF1:gid::pid::loc:35:1751:strand:+ -            516   8.9e-70  235.9   0.0   1   1   1.5e-73   1.5e-69  235.2   0.0    36   315     1   273     1   274 0.90 Glycosyl hydrolases family 35
+BetaGal_dom4_5       PF13364.9    114 BGC0001906_ORF1:gid::pid::loc:35:1751:strand:+ -            516   1.7e-05   25.5   0.0   1   1   4.4e-09   4.3e-05   24.2   0.0    32   107   413   488   393   492 0.84 Beta-galactosidase jelly roll domain
+adh_short_C2         PF13561.9    234 BGC0001906_ORF4:gid::pid::loc:21536:22389:strand:+ -            243   1.1e-32  113.6   0.2   1   2   3.9e-12   2.5e-08   33.9   0.1     1   110    23   131    23   133 0.87 Enoyl-(Acyl carrier protein) reductase
+adh_short_C2         PF13561.9    234 BGC0001906_ORF4:gid::pid::loc:21536:22389:strand:+ -            243   1.1e-32  113.6   0.2   2   2   1.5e-25   9.7e-22   77.8   0.0   134   233   132   242   130   243 0.87 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001906_ORF4:gid::pid::loc:21536:22389:strand:+ -            243   4.8e-28   98.1   0.4   1   2   8.7e-19   5.7e-15   55.4   0.2     1   115    17   130    17   133 0.92 short chain dehydrogenase
+adh_short            PF00106.28   195 BGC0001906_ORF4:gid::pid::loc:21536:22389:strand:+ -            243   4.8e-28   98.1   0.4   2   2   2.4e-14   1.6e-10   40.9   0.0   142   190   132   180   129   184 0.93 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001906_ORF4:gid::pid::loc:21536:22389:strand:+ -            243   2.5e-08   34.1   0.2   1   1   6.1e-12     4e-08   33.5   0.2     3    73    19    86    17    92 0.91 KR domain
+SAT                  PF16073.8    240 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215   4.9e-78  262.2   0.1   1   1   1.7e-81   4.9e-78  262.2   0.1     1   240    62   299    62   299 0.98 Starter unit:ACP transacylase in aflatoxin biosynthesis
+ketoacyl-synt        PF00109.29   253 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215   2.9e-70  236.9   0.0   1   1     2e-73   5.7e-70  235.9   0.0     4   253   438   685   436   685 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215   7.5e-42  144.1   0.0   1   1   5.5e-45   1.5e-41  143.0   0.0     2   315   965  1282   964  1286 0.89 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215   6.5e-34  116.6   0.4   1   1     6e-37   1.7e-33  115.3   0.4     1   118   693   813   693   814 0.97 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215   7.1e-24   85.3   0.0   1   1   3.2e-26   8.8e-23   81.8   0.0     1   219  1970  2202  1970  2211 0.73 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215     9e-23   80.5   2.0   1   2   4.2e-15   1.2e-11   44.9   0.2     2    65  1712  1775  1711  1777 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215     9e-23   80.5   2.0   2   2   7.1e-12     2e-08   34.5   0.1     3    65  1840  1902  1838  1904 0.93 Phosphopantetheine attachment site
+PS-DH                PF14765.9    297 BGC0001906_ORF6:gid::pid::loc:39995:46925:strand:- -           2215   1.3e-12   47.7   0.0   1   1     1e-15   2.8e-12   46.6   0.0    32   275  1381  1637  1380  1656 0.80 Polyketide synthase dehydratase
+Cu-oxidase_2         PF07731.17   137 BGC0001906_ORF7:gid::pid::loc:51931:53617:strand:- -            344   1.2e-35  122.3   0.1   1   1     2e-39   1.9e-35  121.7   0.1     3   136   166   296   164   297 0.86 Multicopper oxidase
+Cu-oxidase           PF00394.25   159 BGC0001906_ORF7:gid::pid::loc:51931:53617:strand:- -            344   2.7e-11   44.0   0.2   1   1   1.1e-11   1.1e-07   32.2   0.0    85   136    22    74    14    93 0.87 Multicopper oxidase
+RNA_pol_Rpb1_5       PF04998.20   267 BGC0001906_ORF8:gid::pid::loc:55348:59870:strand:- -           1405   1.9e-77  260.4   0.1   1   1   8.4e-81   3.3e-77  259.7   0.1     1   265   781  1319   781  1321 0.97 RNA polymerase Rpb1, domain 5
+RNA_pol_Rpb1_2       PF00623.23   166 BGC0001906_ORF8:gid::pid::loc:55348:59870:strand:- -           1405   1.8e-71  239.9   0.0   1   1   1.1e-74   4.4e-71  238.6   0.0     1   166   289   458   289   458 0.93 RNA polymerase Rpb1, domain 2
+RNA_pol_Rpb1_1       PF04997.15   312 BGC0001906_ORF8:gid::pid::loc:55348:59870:strand:- -           1405   9.1e-44  150.2   0.0   1   1   5.4e-47   2.1e-43  149.0   0.0   126   312    63   287    21   287 0.83 RNA polymerase Rpb1, domain 1
+RNA_pol_Rpb1_3       PF04983.21   157 BGC0001906_ORF8:gid::pid::loc:55348:59870:strand:- -           1405   8.4e-38  129.9   0.0   1   1   4.9e-41   1.9e-37  128.7   0.0     1   157   461   643   461   643 0.94 RNA polymerase Rpb1, domain 3
+RNA_pol_Rpb1_4       PF05000.20   108 BGC0001906_ORF8:gid::pid::loc:55348:59870:strand:- -           1405   1.3e-28   99.2   0.1   1   1   8.3e-32   3.2e-28   97.9   0.1     2   108   669   774   668   774 0.97 RNA polymerase Rpb1, domain 4
+DDHD                 PF02862.20   254 BGC0001906_ORF9:gid::pid::loc:61295:64276:strand:+ -            910   8.5e-61  206.3   0.2   1   1   4.3e-65   8.5e-61  206.3   0.2     1   224   594   893   594   902 0.81 DDHD domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001906.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001906.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001906.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:13:54 2023
+# [ok]

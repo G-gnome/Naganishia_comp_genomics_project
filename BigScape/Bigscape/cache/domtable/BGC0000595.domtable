@@ -1,0 +1,36 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NAD_binding_8        PF13450.9     68 BGC0000595_ORF1:gid::pid:NP_626681.1:loc:0:1407:strand:+ -            468     9e-05   22.8   0.6   1   1   1.8e-08     9e-05   22.8   0.6     1    28     7    35     7    40 0.93 NAD(P)-binding Rossmann-like domain
+SGL                  PF08450.15   246 BGC0000595_ORF2:gid::pid:NP_626682.1:loc:1464:2325:strand:- -            286     3e-80  269.5   0.2   1   1   1.7e-84   3.4e-80  269.3   0.2     1   246    18   256    18   256 0.97 SMP-30/Gluconolactonase/LRE-like region
+IclR                 PF01614.21   128 BGC0000595_ORF3:gid::pid:NP_626683.1:loc:2321:3095:strand:- -            257   1.3e-35  122.2   0.1   1   1   1.9e-39   1.8e-35  121.7   0.1     3   126   124   248   122   250 0.95 Bacterial transcriptional regulator
+HTH_IclR             PF09339.13    52 BGC0000595_ORF3:gid::pid:NP_626683.1:loc:2321:3095:strand:- -            257   3.6e-13   49.2   0.2   1   1     1e-16     1e-12   47.8   0.2     1    48     7    54     7    57 0.97 IclR helix-turn-helix domain
+FCD                  PF07729.15   125 BGC0000595_ORF5:gid::pid:NP_626685.1:loc:3848:4556:strand:- -            235     7e-26   91.2  18.9   1   1   7.1e-30     7e-26   91.2  18.9     1   124    98   219    98   220 0.97 FCD domain
+GntR                 PF00392.24    64 BGC0000595_ORF5:gid::pid:NP_626685.1:loc:3848:4556:strand:- -            235   1.9e-19   69.2   0.8   1   1   1.9e-23   1.9e-19   69.2   0.8     1    63    13    75    13    76 0.98 Bacterial regulatory proteins, gntR family
+MatC_N               PF07158.14   149 BGC0000595_ORF6:gid::pid:NP_626686.1:loc:4765:6163:strand:+ -            465   4.5e-68  228.1  16.8   1   1   4.5e-72   4.5e-68  228.1  16.8     1   149     1   149     1   149 1.00 Dicarboxylate carrier protein MatC N-terminus
+CitMHS               PF03600.19   296 BGC0000595_ORF6:gid::pid:NP_626686.1:loc:4765:6163:strand:+ -            465   4.7e-18   65.5  45.1   1   1   4.8e-22   4.7e-18   65.5  45.1     2   294    14   406     9   411 0.74 Citrate transporter
+AMP-binding          PF00501.31   424 BGC0000595_ORF7:gid::pid:NP_626687.1:loc:6250:7708:strand:+ -            485   3.4e-79  266.6   0.0   1   1   5.5e-83   5.4e-79  265.9   0.0     9   422    16   390    11   392 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000595_ORF7:gid::pid:NP_626687.1:loc:6250:7708:strand:+ -            485   1.3e-18   67.9   1.9   1   1   2.2e-22   2.2e-18   67.1   0.2     1    76   400   476   400   476 0.93 AMP-binding enzyme C-terminal domain
+Carboxyl_trans       PF01039.25   494 BGC0000595_ORF8:gid::pid:NP_626688.1:loc:7700:9077:strand:+ -            458   2.8e-26   92.4   3.9   1   2   3.1e-18     3e-14   52.7   0.5    40   190    50   199    40   202 0.89 Carboxyl transferase domain
+Carboxyl_trans       PF01039.25   494 BGC0000595_ORF8:gid::pid:NP_626688.1:loc:7700:9077:strand:+ -            458   2.8e-26   92.4   3.9   2   2   2.1e-14   2.1e-10   40.0   0.3   283   430   287   431   285   448 0.85 Carboxyl transferase domain
+ACCA                 PF03255.17   144 BGC0000595_ORF8:gid::pid:NP_626688.1:loc:7700:9077:strand:+ -            458   1.7e-09   37.9   0.1   1   1   6.8e-12   6.6e-08   32.7   0.0    54   144   247   326   242   326 0.89 Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit
+Peptidase_S8         PF00082.25   284 BGC0000595_ORF9:gid::pid:NP_626689.1:loc:9345:13008:strand:- -           1220   3.2e-60  203.9   4.7   1   1   2.5e-64   4.9e-60  203.3   4.7     1   275   218   469   218   480 0.90 Subtilase family
+Trypco1              PF19493.2    100 BGC0000595_ORF10:gid::pid:NP_626690.1:loc:13186:13648:strand:+ -            153   3.2e-24   85.6   0.5   1   1   2.8e-28   5.6e-24   84.8   0.5     2   100    24   119    23   119 0.92 Trypsin-co-occurring domain 1
+VMAP-C               PF20028.2    228 BGC0000595_ORF11:gid::pid:NP_626691.1:loc:13644:15309:strand:+ -            554   1.3e-39  136.6  16.0   1   1   1.9e-43   1.3e-39  136.6  16.0     1   228   306   539   306   539 0.81 vWA-MoxR associated protein C-terminal domain
+Trypsin_2            PF13365.9    150 BGC0000595_ORF11:gid::pid:NP_626691.1:loc:13644:15309:strand:+ -            554     1e-11   46.1   0.2   1   1   2.9e-15   1.9e-11   45.3   0.2     1   150    17   166    17   166 0.68 Trypsin-like peptidase domain
+Trypsin              PF00089.29   221 BGC0000595_ORF11:gid::pid:NP_626691.1:loc:13644:15309:strand:+ -            554   4.6e-05   23.5   0.0   1   1   1.5e-08    0.0001   22.3   0.0    14   202     6   173     2   189 0.77 Trypsin
+AAA                  PF00004.32   132 BGC0000595_ORF12:gid::pid:NP_626692.1:loc:15447:16470:strand:+ -            340   3.1e-07   31.0   0.0   1   1     1e-08   6.5e-05   23.5   0.0     1    29    78   107    78   130 0.84 ATPase family associated with various cellular activities (AAA)
+AAA_5                PF07728.17   138 BGC0000595_ORF12:gid::pid:NP_626692.1:loc:15447:16470:strand:+ -            340   5.2e-07   29.9   0.0   1   1   2.4e-10   1.6e-06   28.3   0.0     2   114    78   233    77   254 0.74 AAA domain (dynein-related subfamily)
+BTAD                 PF03704.20   146 BGC0000595_ORF13:gid::pid:NP_626693.1:loc:16469:20519:strand:+ -           1349   3.5e-27   95.7  12.5   1   1   3.6e-31   3.5e-27   95.7  12.5     1   146   918  1057   918  1057 0.95 Bacterial transcriptional activator domain
+PK_Tyr_Ser-Thr       PF07714.20   259 BGC0000595_ORF13:gid::pid:NP_626693.1:loc:16469:20519:strand:+ -           1349   3.3e-09   36.6   0.0   1   1   4.9e-13   4.8e-09   36.0   0.0    27   145   616   733   607   740 0.93 Protein tyrosine and serine/threonine kinase
+MreB_Mbl             PF06723.16   327 BGC0000595_ORF14:gid::pid:NP_626694.1:loc:20688:21771:strand:+ -            360  5.1e-111  370.7   0.8   1   1  6.2e-115    6e-111  370.5   0.8     2   321    17   339    16   344 0.96 MreB/Mbl protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000595.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000595.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000595.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:56:54 2023
+# [ok]

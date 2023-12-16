@@ -1,0 +1,195 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="554.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="544.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>juiO
+NmrA family protein</title>
+			<polygon class="juiO
+NmrA family protein" points="10,40 38,10 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_10 (PF13460)
+"NAD(P)H-binding"</title>
+				<polygon class="PF13460" points="20,34 25,28 36,28 36,52 25,52 20,46" stroke-linejoin="round" width="16" height="24" fill="rgb(188,201,78)" stroke="rgb(150,160,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiN
+FAD-dependent oxidoreductase</title>
+			<polygon class="juiN
+FAD-dependent oxidoreductase" points="87,25 69,25 69,10 39,40 69,70 69,55 87,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="53,30 55,28 87,28 87,52 55,52 53,50" stroke-linejoin="round" width="34" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiM
+hypothetical protein</title>
+			<polygon class="juiM
+hypothetical protein" points="129,25 121,25 121,10 91,40 121,70 121,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>juiL
+F420-dependent oxidoreductase</title>
+			<polygon class="juiL
+F420-dependent oxidoreductase" points="165,25 162,25 162,10 132,40 162,70 162,55 165,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="136,40 148,28 165,28 165,52 148,52" stroke-linejoin="round" width="31" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiI
+Cytochrome P450</title>
+			<polygon class="juiI
+Cytochrome P450" points="205,25 195,25 195,10 165,40 195,70 195,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="169,40 181,28 203,28 203,52 181,52" stroke-linejoin="round" width="35" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiK
+TetR family transcriptional Regulator</title>
+			<polygon class="juiK
+TetR family transcriptional Regulator" points="211,40 234,10 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_1 (PF02909)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF02909" points="215,40 224,28 225,28 225,52 224,52" stroke-linejoin="round" width="14" height="24" fill="rgb(151,203,75)" stroke="rgb(120,162,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="226" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiJ
+MFS transporter</title>
+			<polygon class="juiJ
+MFS transporter" points="242,25 260,25 260,10 290,40 260,70 260,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="245,28 274,28 285,39 285,41 274,52 245,52" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiG
+Response regulator</title>
+			<polygon class="juiG
+Response regulator" points="306,10 327,40 306,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="306,28 315,28 316,29 316,51 315,52 306,52" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="319,33 324,40 319,47" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiH
+Polyketide synthesis cyclase</title>
+			<polygon class="juiH
+Polyketide synthesis cyclase" points="336,10 358,40 336,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="336,28 345,28 346,29 346,51 345,52 336,52" stroke-linejoin="round" width="10" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="347,30 354,40 347,50" stroke-linejoin="round" width="10" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiA
+Beta-ketoacyl synthase</title>
+			<polygon class="juiA
+Beta-ketoacyl synthase" points="359,25 371,25 371,10 401,40 371,70 371,55 359,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="359" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="385,28 385,28 396,39 396,41 385,52 385,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiB
+Beta-ketoacyl synthase</title>
+			<polygon class="juiB
+Beta-ketoacyl synthase" points="401,25 410,25 410,10 440,40 410,70 410,55 401,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<polygon class="PF00109" points="401,28 424,28 425,29 425,51 424,52 401,52" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="426,30 436,40 436,40 426,50" stroke-linejoin="round" width="10" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiC
+Acyl carrier protein</title>
+			<polygon class="juiC
+Acyl carrier protein" points="444,10 452,40 444,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="444,28 445,28 449,40 445,52 444,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiD
+Ketoacyl reductase</title>
+			<polygon class="juiD
+Ketoacyl reductase" points="455,10 481,40 455,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="455,28 467,28 474,37 474,43 467,52 455,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiE
+Cyclase/dehydrase</title>
+			<polygon class="juiE
+Cyclase/dehydrase" points="482,25 483,25 483,10 513,40 483,70 483,55 482,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF10604" x="482" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="497,28 497,28 509,40 497,52 497,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>juiF
+Thioesterase</title>
+			<polygon class="juiF
+Thioesterase" points="513,25 513,25 513,10 543,40 513,70 513,55 513,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="517,28 527,28 539,40 527,52 517,52" stroke-linejoin="round" width="24" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

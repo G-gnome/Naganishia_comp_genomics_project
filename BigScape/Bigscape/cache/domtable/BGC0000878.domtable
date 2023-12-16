@@ -1,0 +1,27 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_M28        PF04389.20   198 BGC0000878_ORF2:gid:napH:pid:CAA63158.1:loc:719:2177:strand:+ -            485   5.9e-37  127.4   0.0   1   1   9.2e-41     9e-37  126.8   0.0     1   194   248   465   248   469 0.92 Peptidase family M28
+PA                   PF02225.25    92 BGC0000878_ORF2:gid:napH:pid:CAA63158.1:loc:719:2177:strand:+ -            485   1.3e-10   41.4   1.3   1   1   4.1e-13     4e-09   36.6   0.5     9    91   146   222   129   223 0.77 PA domain
+NUDIX                PF00293.31   131 BGC0000878_ORF3:gid:pur7:pid:CAA63159.1:loc:2169:2628:strand:+ -            152   2.5e-17   63.2   0.3   1   1   1.6e-21   3.1e-17   63.0   0.3     4   122     9   129     6   137 0.76 NUDIX domain
+GFO_IDH_MocA         PF01408.25   120 BGC0000878_ORF4:gid:pur10:pid:CAA63160.1:loc:2712:3729:strand:+ -            338     1e-13   52.2   0.0   1   1   2.1e-17   2.1e-13   51.2   0.0     2   116    14   125    13   128 0.90 Oxidoreductase family, NAD-binding Rossmann fold
+GFO_IDH_MocA_C       PF02894.20   220 BGC0000878_ORF4:gid:pur10:pid:CAA63160.1:loc:2712:3729:strand:+ -            338     7e-09   35.9   0.0   1   1   5.5e-12   5.4e-08   33.0   0.0     8   129   146   264   141   294 0.83 Oxidoreductase family, C-terminal alpha/beta domain
+DegT_DnrJ_EryC1      PF01041.20   360 BGC0000878_ORF6:gid:pur4:pid:CAA63162.1:loc:6136:7426:strand:+ -            429     6e-66  223.2   0.0   1   1   3.6e-70   7.2e-66  223.0   0.0     3   318    29   357    27   391 0.89 DegT/DnrJ/EryC1/StrS aminotransferase family
+MTS                  PF05175.17   170 BGC0000878_ORF7:gid:pur5:pid:CAA63163.1:loc:7482:8169:strand:+ -            228   2.4e-16   60.0   0.0   1   1   1.8e-18   3.9e-15   56.0   0.0     7   138    37   181    33   214 0.81 Methyltransferase small domain
+Methyltransf_31      PF13847.9    152 BGC0000878_ORF7:gid:pur5:pid:CAA63163.1:loc:7482:8169:strand:+ -            228   9.3e-12   45.1   0.0   1   1   5.7e-15   1.2e-11   44.7   0.0     4   113    61   185    59   219 0.76 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000878_ORF7:gid:pur5:pid:CAA63163.1:loc:7482:8169:strand:+ -            228   4.4e-11   43.4   0.0   1   1   4.6e-14   9.9e-11   42.3   0.0     2    77    65   140    64   153 0.91 Methyltransferase domain
+PrmA                 PF06325.16   295 BGC0000878_ORF7:gid:pur5:pid:CAA63163.1:loc:7482:8169:strand:+ -            228   4.1e-09   36.4   0.0   1   1   2.3e-12   4.9e-09   36.1   0.0   162   233    61   135    45   175 0.82 Ribosomal protein L11 methyltransferase (PrmA)
+Methyltransf_11      PF08241.15    96 BGC0000878_ORF7:gid:pur5:pid:CAA63163.1:loc:7482:8169:strand:+ -            228   4.7e-08   33.7   0.0   1   1   3.7e-11   8.1e-08   32.9   0.0     1    76    65   142    65   181 0.79 Methyltransferase domain
+Methyltransf_15      PF09445.13   165 BGC0000878_ORF7:gid:pur5:pid:CAA63163.1:loc:7482:8169:strand:+ -            228   5.8e-07   29.4   0.0   1   1   5.2e-10   1.1e-06   28.4   0.0     5    81    65   137    62   154 0.90 RNA cap guanine-N2 methyltransferase
+TehB                 PF03848.17   193 BGC0000878_ORF7:gid:pur5:pid:CAA63163.1:loc:7482:8169:strand:+ -            228   3.3e-05   23.5   0.0   1   1   2.1e-08   4.6e-05   23.1   0.0    26    79    56   109    43   143 0.71 Tellurite resistance protein TehB
+Inositol_P           PF00459.28   272 BGC0000878_ORF8:gid:pur3:pid:CAA63164.1:loc:8252:9074:strand:+ -            273   8.2e-47  160.1   0.1   1   1   5.2e-51     1e-46  159.8   0.1     7   266     8   258     3   264 0.80 Inositol monophosphatase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000878.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000878.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000878.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:19:38 2023
+# [ok]

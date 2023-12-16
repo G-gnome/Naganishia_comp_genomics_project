@@ -1,0 +1,36 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Exo70                PF03081.18   373 BGC0002246_ORF1:gid::pid:KJA16696.1:loc:0:2299:strand:- -            604   1.5e-39  136.3   0.3   1   1   1.2e-43   2.4e-39  135.6   0.3     8   371   241   599   235   601 0.90 Exo70 exocyst complex subunit
+AAA_28               PF13521.9    163 BGC0002246_ORF2:gid::pid:KJA16697.1:loc:2584:3230:strand:- -            198   1.3e-21   77.6   0.0   1   1   2.6e-25   1.7e-21   77.2   0.0     2   154    11   177    10   186 0.74 AAA domain
+AAA                  PF00004.32   132 BGC0002246_ORF2:gid::pid:KJA16697.1:loc:2584:3230:strand:- -            198   4.4e-05   24.0   0.2   1   1   2.2e-08   0.00014   22.4   0.2     1    38    11    60    11   174 0.63 ATPase family associated with various cellular activities (AAA)
+RdRP                 PF05183.15   586 BGC0002246_ORF3:gid::pid:KJA16698.1:loc:3526:8156:strand:+ -           1335   6.8e-97  325.6   0.0   1   1  5.6e-101   1.1e-96  324.9   0.0    52   536    86   552    48   590 0.82 RNA dependent RNA polymerase
+Peptidase_M36        PF02128.18   372 BGC0002246_ORF4:gid::pid:KJA16699.1:loc:9638:11967:strand:- -            597  8.9e-134  446.5   3.7   1   1  6.5e-138  1.3e-133  445.9   3.7     1   372   226   583   226   583 0.94 Fungalysin metallopeptidase (M36)
+CBFD_NFYB_HMF        PF00808.26    65 BGC0002246_ORF5:gid::pid:KJA16700.1:loc:12815:13427:strand:- -            158   3.9e-26   91.2   0.4   1   1   2.6e-30   5.1e-26   90.9   0.4     2    65    46   110    45   110 0.98 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+Terpene_syn_C_2      PF19086.3    199 BGC0002246_ORF6:gid::pid:KJA16701.1:loc:13887:15547:strand:- -            387   4.4e-22   79.0   0.0   1   1   3.4e-26   6.7e-22   78.4   0.0    44   199   120   269    88   269 0.88 Terpene synthase family 2, C-terminal metal binding
+FAD_binding_4        PF01565.26   139 BGC0002246_ORF7:gid::pid:KJA16702.1:loc:17604:19382:strand:+ -            498   6.3e-20   71.5   3.0   1   1     6e-24   1.2e-19   70.6   3.0     3   138    71   203    69   204 0.97 FAD binding domain
+Helicase_C           PF00271.34   111 BGC0002246_ORF9:gid::pid:KJA16704.1:loc:21568:23696:strand:+ -            623   8.9e-20   71.2   0.0   1   1     1e-22     1e-18   67.8   0.0    18   110   277   374   261   375 0.90 Helicase conserved C-terminal domain
+DEAD                 PF00270.32   176 BGC0002246_ORF9:gid::pid:KJA16704.1:loc:21568:23696:strand:+ -            623   6.1e-16   58.8   0.0   1   1   1.1e-19   1.1e-15   58.0   0.0     4   174    57   218    55   220 0.82 DEAD/DEAH box helicase
+p450                 PF00067.25   463 BGC0002246_ORF12:gid::pid:KJA16707.1:loc:26396:28721:strand:- -            541   1.1e-61  209.1   0.0   1   1   1.6e-65   3.2e-61  207.6   0.0     6   448    52   515    47   524 0.85 Cytochrome P450
+p450                 PF00067.25   463 BGC0002246_ORF13:gid::pid:KJA16708.1:loc:29293:31224:strand:+ -            532   1.6e-69  234.9   0.0   1   1     1e-73     2e-69  234.6   0.0     1   448    57   489    57   506 0.88 Cytochrome P450
+adh_short_C2         PF13561.9    234 BGC0002246_ORF17:gid::pid:KJA16712.1:loc:39111:40430:strand:- -            261     7e-61  205.9   2.6   1   1     2e-64   9.6e-61  205.5   2.6     3   233    14   258    10   259 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002246_ORF17:gid::pid:KJA16712.1:loc:39111:40430:strand:- -            261     5e-58  195.9   1.0   1   1   1.3e-61   6.6e-58  195.5   1.0     3   189     8   197     6   200 0.97 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002246_ORF17:gid::pid:KJA16712.1:loc:39111:40430:strand:- -            261   2.8e-10   40.5   0.6   1   1   7.9e-14   3.9e-10   40.0   0.6     1   154     6   162     6   177 0.82 KR domain
+ADH_zinc_N           PF00107.29   130 BGC0002246_ORF18:gid::pid:KJA16713.1:loc:42508:44289:strand:- -            354   3.4e-30  104.9   0.3   1   1   1.1e-33     7e-30  103.8   0.3     1   128   183   311   183   313 0.94 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.9    133 BGC0002246_ORF18:gid::pid:KJA16713.1:loc:42508:44289:strand:- -            354     1e-18   68.7   0.2   1   1   2.6e-22   1.7e-18   68.0   0.2     1   133   215   347   215   347 0.79 Zinc-binding dehydrogenase
+ADH_N                PF08240.15   109 BGC0002246_ORF18:gid::pid:KJA16713.1:loc:42508:44289:strand:- -            354   8.1e-09   35.5   0.0   1   1   7.6e-12     5e-08   32.9   0.0     2   108    39   139    38   140 0.87 Alcohol dehydrogenase GroES-like domain
+adh_short            PF00106.28   195 BGC0002246_ORF19:gid::pid:KJA16714.1:loc:44889:45858:strand:+ -            286   1.6e-40  138.8   0.1   1   1   5.6e-44   2.2e-40  138.3   0.1     1   187     4   192     4   197 0.96 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002246_ORF19:gid::pid:KJA16714.1:loc:44889:45858:strand:+ -            286   2.6e-28   99.3   0.2   1   1   9.4e-32   3.7e-28   98.8   0.2     3   178    12   191    10   197 0.92 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002246_ORF19:gid::pid:KJA16714.1:loc:44889:45858:strand:+ -            286   1.3e-08   35.1   0.1   1   1   5.3e-12   2.1e-08   34.4   0.1     3   177     6   181     4   183 0.84 KR domain
+Epimerase            PF01370.24   241 BGC0002246_ORF19:gid::pid:KJA16714.1:loc:44889:45858:strand:+ -            286     8e-05   22.3   0.2   1   1   4.8e-08   0.00019   21.1   0.2     1   156     6   167     6   182 0.74 NAD dependent epimerase/dehydratase family
+p450                 PF00067.25   463 BGC0002246_ORF20:gid::pid:KJA16715.1:loc:46790:49282:strand:- -            545   1.3e-63  215.5   0.0   1   1   2.9e-67   5.6e-63  213.4   0.0     3   440    38   506    36   517 0.84 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002246.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002246.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002246.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:46:14 2023
+# [ok]

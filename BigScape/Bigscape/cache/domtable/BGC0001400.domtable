@@ -1,0 +1,35 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ATP-synt_ab          PF00006.28   214 BGC0001400_ORF1:gid::pid:EAU29807.1:loc:30:1721:strand:+ -            413   3.6e-53  180.5   0.0   1   1   6.8e-57   6.6e-53  179.7   0.0     1   214   167   373   167   373 0.95 ATP synthase alpha/beta family, nucleotide-binding domain
+ATP-synt_ab_N        PF02874.26    69 BGC0001400_ORF1:gid::pid:EAU29807.1:loc:30:1721:strand:+ -            413   8.1e-23   80.9   0.3   1   1   1.7e-26   1.7e-22   79.8   0.3     3    69    45   110    43   110 0.94 ATP synthase alpha/beta family, beta-barrel domain
+Acyl_transf_1        PF00698.24   319 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   2.9e-42  145.4   0.2   1   1     4e-45   5.6e-42  144.5   0.2     3   280   475   777   474   805 0.83 Acyl transferase domain
+KR                   PF08659.13   180 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   6.1e-41  140.4   1.3   1   1     7e-44   9.9e-41  139.7   0.2     2   174  2022  2193  2021  2199 0.94 KR domain
+ketoacyl-synt        PF00109.29   253 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   2.8e-40  138.6   0.7   1   2   1.2e-09   1.6e-06   28.0   0.0     1    57     4    61     4    73 0.87 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   2.8e-40  138.6   0.7   2   2   4.1e-34   5.7e-31  108.1   0.9   146   253    77   183    55   183 0.93 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   1.2e-38  133.2   0.0   1   1   1.5e-41   2.1e-38  132.4   0.0     1   290   866  1153   866  1159 0.85 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   5.9e-32  110.3   0.1   1   1   9.5e-35   1.3e-31  109.2   0.1     2   117   192   311   191   313 0.94 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   1.4e-18   67.6   0.0   1   1   2.1e-21   2.9e-18   66.5   0.0     1    99  1333  1434  1333  1434 0.91 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   7.3e-15   55.3   0.0   1   1   1.2e-17   1.6e-14   54.1   0.0     4   160  1311  1485  1305  1490 0.74 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   6.8e-14   52.4   0.0   1   1   1.3e-16   1.8e-13   51.1   0.0    11   108   324   430   316   433 0.85 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.9     97 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   3.3e-12   47.0   0.0   1   1   7.8e-15   1.1e-11   45.4   0.0     2    97  1333  1432  1332  1432 0.86 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   2.1e-11   44.4   0.0   1   1   3.5e-14   4.9e-11   43.2   0.0     1    95  1333  1435  1333  1436 0.78 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   3.7e-10   39.9   0.0   1   1   7.3e-13     1e-09   38.5   0.0     5   113  1330  1440  1327  1468 0.76 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   2.2e-07   30.7   0.1   1   1   1.5e-09   2.1e-06   27.5   0.0     1    95  2021  2117  2021  2191 0.89 short chain dehydrogenase
+Ubie_methyltran      PF01209.21   233 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438   4.6e-07   29.6   0.0   1   1   5.5e-10   7.7e-07   28.8   0.0    47   159  1328  1444  1310  1459 0.82 ubiE/COQ5 methyltransferase family
+PP-binding           PF00550.28    67 BGC0001400_ORF2:gid::pid:EAU29808.1:loc:2232:9757:strand:- -           2438     2e-06   28.1   0.0   1   1   3.7e-09   5.1e-06   26.8   0.0    18    65  2343  2390  2324  2392 0.88 Phosphopantetheine attachment site
+Methyltransf_23      PF13489.9    165 BGC0001400_ORF3:gid::pid:EAU29809.1:loc:10286:10976:strand:+ -            229   1.3e-08   34.9   0.0   1   1   3.6e-12   1.8e-08   34.5   0.0    20   145    51   190    24   205 0.73 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001400_ORF3:gid::pid:EAU29809.1:loc:10286:10976:strand:+ -            229   3.3e-08   34.2   0.0   1   1   1.1e-11   5.5e-08   33.5   0.0     3    97    59   159    58   159 0.87 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001400_ORF3:gid::pid:EAU29809.1:loc:10286:10976:strand:+ -            229   1.4e-07   32.3   0.0   1   1   4.8e-11   2.4e-07   31.6   0.0     2    99    59   161    58   161 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001400_ORF3:gid::pid:EAU29809.1:loc:10286:10976:strand:+ -            229   7.4e-07   29.9   0.0   1   1   2.4e-10   1.2e-06   29.2   0.0     2    95    59   162    58   163 0.88 Methyltransferase domain
+FAD_binding_3        PF01494.22   349 BGC0001400_ORF5:gid::pid:EAU29811.1:loc:13826:15436:strand:+ -            473   1.7e-24   86.9   0.0   1   1   5.1e-28   3.3e-24   85.9   0.0     3   321     9   340     7   349 0.74 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001400.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001400.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001400.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:31:20 2023
+# [ok]

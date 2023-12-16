@@ -1,0 +1,22 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_synth_C      PF03936.19   267 BGC0002389_ORF1:gid:LOC542688:pid:NP_001105674.1:loc:0:2931:strand:- -            548   2.1e-97  325.8   7.7   1   1  3.2e-101   2.1e-97  325.8   7.7     1   266   227   491   227   492 0.98 Terpene synthase family, metal binding domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002389_ORF1:gid:LOC542688:pid:NP_001105674.1:loc:0:2931:strand:- -            548   4.5e-53  180.2   1.9   1   1   1.5e-56   9.6e-53  179.1   1.6     1   198   293   491   293   491 0.95 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth        PF01397.24   192 BGC0002389_ORF1:gid:LOC542688:pid:NP_001105674.1:loc:0:2931:strand:- -            548   2.1e-45  154.9   0.3   1   1   8.8e-49   5.8e-45  153.5   0.3     2   192    30   196    29   196 0.91 Terpene synthase, N-terminal domain
+Terpene_synth_C      PF03936.19   267 BGC0002389_ORF2:gid:LOC103641097:pid:NP_001307938.1:loc:165654:168470:strand:- -            548   7.9e-98  327.1   7.7   1   1  1.2e-101   7.9e-98  327.1   7.7     1   266   227   491   227   492 0.98 Terpene synthase family, metal binding domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002389_ORF2:gid:LOC103641097:pid:NP_001307938.1:loc:165654:168470:strand:- -            548   1.1e-52  178.9   2.1   1   1   3.6e-56   2.4e-52  177.8   1.8     1   198   293   491   293   491 0.94 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth        PF01397.24   192 BGC0002389_ORF2:gid:LOC103641097:pid:NP_001307938.1:loc:165654:168470:strand:- -            548   4.8e-46  157.0   0.1   1   1   2.1e-49   1.4e-45  155.6   0.1     2   192    30   196    29   196 0.90 Terpene synthase, N-terminal domain
+Terpene_synth_C      PF03936.19   267 BGC0002389_ORF3:gid:LOC103641099:pid:XP_008662701.1:loc:279292:282011:strand:+ -            549   1.4e-96  323.0   7.9   1   1  2.1e-100   1.4e-96  323.0   7.9     1   266   228   492   228   493 0.98 Terpene synthase family, metal binding domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002389_ORF3:gid:LOC103641099:pid:XP_008662701.1:loc:279292:282011:strand:+ -            549   5.2e-52  176.7   2.0   1   1   1.6e-55     1e-51  175.7   1.7     1   198   294   492   294   492 0.94 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth        PF01397.24   192 BGC0002389_ORF3:gid:LOC103641099:pid:XP_008662701.1:loc:279292:282011:strand:+ -            549   7.1e-46  156.5   0.1   1   1   3.1e-49   2.1e-45  155.0   0.1     2   192    31   197    30   197 0.90 Terpene synthase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002389.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002389.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002389.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:01:51 2023
+# [ok]

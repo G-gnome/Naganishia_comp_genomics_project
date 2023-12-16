@@ -1,0 +1,28 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0002476_ORF1:gid:fepC:pid:AAC73689.1:loc:0:816:strand:- -            271   3.4e-34  118.4   0.0   1   1   1.3e-37   4.9e-34  117.9   0.0     2   136    24   171    23   172 0.97 ABC transporter
+FecCD                PF01032.21   312 BGC0002476_ORF2:gid:fepG:pid:AAC73690.1:loc:812:1805:strand:- -            330   3.7e-85  285.8  39.3   1   1   2.3e-89   4.5e-85  285.5  39.3     3   311    20   324    14   325 0.98 FecCD transport family
+FecCD                PF01032.21   312 BGC0002476_ORF3:gid:fepD:pid:AAC73691.1:loc:1801:2806:strand:- -            334   4.1e-90  302.1  32.7   1   1   2.6e-94   5.1e-90  301.8  32.7     1   312    19   328    19   328 0.98 FecCD transport family
+MFS_1                PF07690.19   353 BGC0002476_ORF4:gid:entS:pid:AAC73692.1:loc:2916:4167:strand:+ -            416   3.4e-24   85.6  60.3   1   1   1.4e-19   1.4e-15   57.3  26.7     1   223    22   236    22   245 0.81 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0002476_ORF4:gid:entS:pid:AAC73692.1:loc:2916:4167:strand:+ -            416   7.2e-21   74.3  34.9   1   1   9.4e-25   9.2e-21   74.0  34.9     9   393    16   397    10   412 0.89 Transmembrane secretion effector
+Peripla_BP_2         PF01497.21   237 BGC0002476_ORF5:gid:fepB:pid:AAC73693.1:loc:4170:5127:strand:- -            318     1e-23   84.2   0.2   1   1   6.7e-28   1.3e-23   83.8   0.2    20   235    78   297    49   299 0.82 Periplasmic binding protein
+Chorismate_bind      PF00425.21   256 BGC0002476_ORF6:gid:entC:pid:AAC73694.1:loc:5501:6677:strand:+ -            391   9.1e-71  238.6   0.0   1   1   5.7e-75   1.1e-70  238.2   0.0     2   256   126   380   125   380 0.98 chorismate binding enzyme
+AMP-binding          PF00501.31   424 BGC0002476_ORF7:gid:entE:pid:AAC73695.1:loc:6686:8297:strand:+ -            536   1.7e-76  257.7   0.0   1   1   2.1e-80     2e-76  257.4   0.0     9   423    37   437    31   438 0.84 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002476_ORF7:gid:entE:pid:AAC73695.1:loc:6686:8297:strand:+ -            536     3e-12   47.4   0.2   1   1   1.3e-15   1.3e-11   45.5   0.1     1    76   446   520   446   520 0.93 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.23   175 BGC0002476_ORF8:gid:entB:pid:AAC73696.1:loc:8310:9168:strand:+ -            285   3.6e-38  131.6   0.0   1   1   4.5e-42   4.4e-38  131.3   0.0     2   175    32   205    31   205 0.98 Isochorismatase family
+PP-binding           PF00550.28    67 BGC0002476_ORF8:gid:entB:pid:AAC73696.1:loc:8310:9168:strand:+ -            285   1.6e-07   31.6   0.0   1   1   2.7e-11   2.6e-07   31.0   0.0     2    63   217   276   216   280 0.92 Phosphopantetheine attachment site
+adh_short_C2         PF13561.9    234 BGC0002476_ORF9:gid:entA:pid:AAC73697.1:loc:9167:9914:strand:+ -            248   4.3e-53  180.4   2.0   1   1   8.9e-57   5.9e-53  180.0   2.0     1   234    12   245    12   245 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002476_ORF9:gid:entA:pid:AAC73697.1:loc:9167:9914:strand:+ -            248     2e-46  158.0   3.4   1   1   6.9e-50   4.5e-46  156.9   3.4     1   190     6   185     6   189 0.94 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002476_ORF9:gid:entA:pid:AAC73697.1:loc:9167:9914:strand:+ -            248   2.9e-11   43.7   0.5   1   1   4.5e-15   2.9e-11   43.7   0.5    58   160    49   155    36   194 0.93 KR domain
+4HBT                 PF03061.25    79 BGC0002476_ORF10:gid:entH:pid:AAC73698.1:loc:9916:10330:strand:+ -            137   1.9e-17   63.5   0.1   1   1   1.6e-21   3.1e-17   62.8   0.1     1    79    50   127    50   127 0.98 Thioesterase superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002476.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002476.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002476.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:59:31 2023
+# [ok]

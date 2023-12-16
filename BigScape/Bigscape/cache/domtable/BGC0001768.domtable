@@ -1,0 +1,34 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0001768_ORF1:gid::pid:XP_003044436.1:loc:0:1721:strand:+ -            518   5.5e-29  101.3  27.2   1   1   3.9e-33   7.6e-29  100.9  27.2    14   351    71   427    58   429 0.84 Major Facilitator Superfamily
+Peptidase_M14        PF00246.27   287 BGC0001768_ORF2:gid::pid:XP_003044552.1:loc:1874:3283:strand:- -            413   1.1e-72  245.4   0.0   1   1   8.1e-77   1.6e-72  244.9   0.0     2   286   117   404   116   405 0.97 Zinc carboxypeptidase
+adh_short_C2         PF13561.9    234 BGC0001768_ORF3:gid::pid:XP_003044553.1:loc:4238:5024:strand:- -            261   7.2e-51  173.1   0.0   1   1   1.4e-54   9.1e-51  172.8   0.0     1   232    15   257    15   258 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001768_ORF3:gid::pid:XP_003044553.1:loc:4238:5024:strand:- -            261   1.7e-40  138.7   0.0   1   1   3.9e-44   2.6e-40  138.1   0.0     1   188     9   203     9   208 0.87 short chain dehydrogenase
+AMP-binding          PF00501.31   424 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911         0 1160.7   0.0   1   5   3.4e-74   1.7e-70  237.9   0.0     5   424   352   754   348   754 0.83 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911         0 1160.7   0.0   2   5   3.3e-66   1.6e-62  211.6   0.0     3   419  1467  1865  1465  1872 0.82 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911         0 1160.7   0.0   3   5     9e-72   4.4e-68  229.9   0.0     2   424  2568  2977  2567  2977 0.82 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911         0 1160.7   0.0   4   5   1.6e-72   7.7e-69  232.4   0.0     2   424  3701  4108  3700  4108 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911         0 1160.7   0.0   5   5   1.6e-75   7.9e-72  242.3   0.0     1   424  4819  5231  4819  5231 0.84 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911  1.3e-259  861.5   0.0   1   5   9.6e-48   4.7e-44  150.9   0.0     2   434  1007  1422  1006  1446 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911  1.3e-259  861.5   0.0   2   5   3.3e-44   1.6e-40  139.3   0.0     2   446  2121  2538  2120  2548 0.83 Condensation domain
+Condensation         PF00668.23   457 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911  1.3e-259  861.5   0.0   3   5   7.3e-49   3.6e-45  154.6   0.0     1   436  3227  3652  3227  3662 0.79 Condensation domain
+Condensation         PF00668.23   457 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911  1.3e-259  861.5   0.0   4   5   1.2e-82   6.1e-79  265.9   0.0     8   453  4353  4793  4348  4797 0.90 Condensation domain
+Condensation         PF00668.23   457 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911  1.3e-259  861.5   0.0   5   5   1.3e-37   6.1e-34  117.6   0.0     1   384  5474  5828  5474  5888 0.81 Condensation domain
+PP-binding           PF00550.28    67 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911   1.4e-71  236.9  10.6   1   5   9.1e-18   4.5e-14   52.6   0.2     3    65   900   962   899   964 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911   1.4e-71  236.9  10.6   2   5   4.9e-17   2.4e-13   50.3   0.0     3    66  2010  2072  2008  2073 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911   1.4e-71  236.9  10.6   3   5   9.1e-17   4.4e-13   49.4   0.1     2    65  3118  3180  3117  3181 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911   1.4e-71  236.9  10.6   4   5   1.5e-13   7.5e-10   39.1   0.0     4    58  4258  4312  4255  4320 0.91 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911   1.4e-71  236.9  10.6   5   5   1.1e-15   5.4e-12   46.0   0.1     2    65  5368  5430  5367  5431 0.97 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001768_ORF4:gid:NhNPS5:pid:XP_003044554.1:loc:7100:25239:strand:- -           5911   5.1e-28   98.0   9.8   1   1   8.1e-15     4e-11   43.9   0.3     1    76  5239  5335  5239  5335 0.86 AMP-binding enzyme C-terminal domain
+Aldo_ket_red         PF00248.24   292 BGC0001768_ORF5:gid::pid:XP_003044437.1:loc:26795:28114:strand:+ -            370   1.6e-66  224.5   0.1   1   1     1e-70     2e-66  224.2   0.1     4   291    42   361    41   362 0.93 Aldo/keto reductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001768.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001768.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001768.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:16:01 2023
+# [ok]

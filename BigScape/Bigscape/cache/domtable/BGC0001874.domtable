@@ -1,0 +1,31 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.27   452 BGC0001874_ORF1:gid:maoA:pid:AFA26383.1:loc:440:1808:strand:+ -            455   1.8e-11   44.1   0.2   1   1   1.4e-12   5.5e-09   35.9   0.2     3   262    42   281    40   304 0.80 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001874_ORF1:gid:maoA:pid:AFA26383.1:loc:440:1808:strand:+ -            455     7e-09   35.9   0.0   1   1   5.1e-12     2e-08   34.5   0.0     1    65    35    97    35   100 0.86 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.10   427 BGC0001874_ORF1:gid:maoA:pid:AFA26383.1:loc:440:1808:strand:+ -            455   1.3e-08   34.7   0.0   1   1   1.3e-11   5.1e-08   32.8   0.0     1    69    32   102    32   143 0.80 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0001874_ORF1:gid:maoA:pid:AFA26383.1:loc:440:1808:strand:+ -            455   3.7e-06   26.4   0.1   1   1   1.4e-09   5.4e-06   25.9   0.1     1    37    32    68    32    72 0.97 FAD binding domain
+Trp_DMAT             PF11991.11   363 BGC0001874_ORF2:gid:dmaT:pid:AFA26385.1:loc:2305:3676:strand:- -            437  3.3e-113  378.9   0.0   1   1  2.1e-117  4.2e-113  378.6   0.0     1   361    28   378    28   380 0.94 Tryptophan dimethylallyltransferase
+ketoacyl-synt        PF00109.29   253 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   2.5e-77  260.0   0.0   1   1   2.7e-80   4.1e-77  259.3   0.0     3   253     4   254     2   254 0.93 Beta-ketoacyl synthase, N-terminal domain
+AMP-binding          PF00501.31   424 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   1.5e-75  254.6   0.0   1   1   5.9e-78   8.9e-75  252.0   0.0     1   418  2958  3358  2958  3363 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   8.2e-58  196.3   0.0   1   1   8.3e-61   1.2e-57  195.7   0.0     7   448  2503  2929  2499  2936 0.90 Condensation domain
+Acyl_transf_1        PF00698.24   319 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   5.3e-57  193.8   0.0   1   1   9.1e-60   1.4e-56  192.5   0.0     3   303   555   871   554   880 0.88 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   5.8e-38  130.9   0.0   1   1   5.9e-41   8.9e-38  130.3   0.0     1   294   937  1236   937  1239 0.90 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   1.2e-31  109.3   0.0   1   1   1.8e-34   2.8e-31  108.1   0.0     2   116   263   382   262   385 0.95 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.13   180 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   4.5e-31  108.2   0.0   1   1   9.1e-34   1.4e-30  106.7   0.0     1   178  2063  2237  2063  2239 0.96 KR domain
+NAD_binding_4        PF07993.15   257 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   2.3e-21   76.3   0.0   1   1     2e-23     3e-20   72.6   0.0     1   255  3593  3812  3593  3814 0.83 Male sterility protein
+PP-binding           PF00550.28    67 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   8.2e-19   67.8   1.5   1   2   1.8e-12   2.7e-09   37.3   0.2     2    65  2360  2422  2359  2423 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   8.2e-19   67.8   1.5   2   2     2e-09   3.1e-06   27.5   0.0    14    64  3491  3541  3481  3544 0.91 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   1.5e-15   57.8   0.0   1   1     4e-18   6.1e-15   55.8   0.0     2   101   388   500   388   508 0.88 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.9     76 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   4.1e-06   27.8   0.1   1   1   1.2e-08   1.7e-05   25.8   0.0     9    76  3383  3451  3378  3451 0.78 AMP-binding enzyme C-terminal domain
+Epimerase            PF01370.24   241 BGC0001874_ORF3:gid:cpaA:pid:AFA26384.1:loc:4654:16375:strand:+ -           3906   3.1e-06   27.0   0.0   1   1   3.5e-09   5.4e-06   26.2   0.0     1   180  3591  3776  3591  3791 0.84 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001874.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001874.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001874.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:05:38 2023
+# [ok]

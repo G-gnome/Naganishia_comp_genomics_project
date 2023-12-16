@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EDS1_EP              PF18117.4    214 BGC0002401_ORF2:gid:PAD4:pid:AEE78945.1:loc:2678:5405:strand:+ -            541   3.4e-59  200.1   9.9   1   1   5.2e-63   5.1e-59  199.6   9.9     2   209   316   529   315   533 0.95 Enhanced disease susceptibility 1 protein EP domain
+Lipase_3             PF01764.28   142 BGC0002401_ORF2:gid:PAD4:pid:AEE78945.1:loc:2678:5405:strand:+ -            541   5.9e-18   65.2   0.0   1   1   1.3e-21   1.2e-17   64.2   0.0    65   139   110   185    80   188 0.85 Lipase (class 3)
+zf-Dof               PF02701.18    59 BGC0002401_ORF3:gid::pid:ANM65573.1:loc:6502:7303:strand:+ -            266   2.4e-31  107.8  11.2   1   1   2.1e-35     4e-31  107.1  11.2     5    58    45    98    41    99 0.96 Dof domain, zinc finger
+U-box                PF04564.18    73 BGC0002401_ORF5:gid:PUB22:pid:AEE78947.1:loc:12055:13363:strand:- -            435   1.4e-22   79.7   0.1   1   1   1.5e-26     3e-22   78.7   0.1     1    69     7    76     7    80 0.96 U-box domain
+LEA_2                PF03168.16   101 BGC0002401_ORF7:gid::pid:AEE78949.1:loc:21862:22489:strand:+ -            208   8.1e-11   42.5   0.0   1   1   5.9e-15   1.2e-10   42.0   0.0     1   100    73   177    73   178 0.83 Late embryogenesis abundant protein
+Clp_N                PF02861.23    53 BGC0002401_ORF9:gid::pid:AEE78951.1:loc:26962:29834:strand:- -            815   2.1e-07   31.1   0.0   1   2   2.1e-06     0.042   14.1   0.0     4    31    26    53    23    55 0.91 Clp amino terminal domain, pathogenicity island component
+Clp_N                PF02861.23    53 BGC0002401_ORF9:gid::pid:AEE78951.1:loc:26962:29834:strand:- -            815   2.1e-07   31.1   0.0   2   2   2.2e-06     0.044   14.0   0.0    13    52   131   168   130   169 0.95 Clp amino terminal domain, pathogenicity island component
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002401.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002401.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002401.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:32:48 2023
+# [ok]

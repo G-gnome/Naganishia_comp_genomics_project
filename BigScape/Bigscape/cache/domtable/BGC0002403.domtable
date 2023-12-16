@@ -1,0 +1,23 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HlyIII               PF03006.23   224 BGC0002403_ORF1:gid::pid:AMQ48722.1:loc:0:1014:strand:- -            312   9.7e-67  225.1  20.4   1   1   5.7e-71   1.1e-66  224.9  20.4     1   224    79   297    79   297 0.96 Haemolysin-III related
+Abhydrolase_3        PF07859.16   211 BGC0002403_ORF2:gid:Cer-q:pid:AMQ48723.1:loc:28358:29591:strand:+ -            410   8.6e-47  159.8   0.1   1   1   1.9e-50   1.3e-46  159.3   0.1     1   210    86   302    86   303 0.89 alpha/beta hydrolase fold
+BD-FAE               PF20434.1    215 BGC0002403_ORF2:gid:Cer-q:pid:AMQ48723.1:loc:28358:29591:strand:+ -            410   1.8e-12   47.3   0.0   1   1   4.3e-16   2.8e-12   46.7   0.0     8   111    78   183    70   195 0.83 BD-FAE
+COesterase           PF00135.31   515 BGC0002403_ORF2:gid:Cer-q:pid:AMQ48723.1:loc:28358:29591:strand:+ -            410   6.3e-08   32.1   0.0   1   1     5e-11   3.3e-07   29.7   0.0    91   199    70   176    66   192 0.78 Carboxylesterase family
+p450                 PF00067.25   463 BGC0002403_ORF3:gid:Cer-u:pid:AMQ48724.1:loc:78824:81639:strand:+ -            516   2.1e-83  280.7   0.1   1   1   1.4e-87   2.8e-83  280.3   0.1    24   456    81   500    72   507 0.90 Cytochrome P450
+Chal_sti_synt_N      PF00195.22   225 BGC0002403_ORF4:gid:Cer-c:pid:AMQ48725.1:loc:128154:129425:strand:+ -            394   1.2e-78  263.7   0.0   1   1   4.3e-82   1.7e-78  263.3   0.0     2   225     9   233     8   233 0.98 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.18   151 BGC0002403_ORF4:gid:Cer-c:pid:AMQ48725.1:loc:128154:129425:strand:+ -            394   1.4e-40  138.9   0.0   1   1     5e-44     2e-40  138.4   0.0     1   149   243   387   243   389 0.96 Chalcone and stilbene synthases, C-terminal domain
+FAE1_CUT1_RppA       PF08392.15   290 BGC0002403_ORF4:gid:Cer-c:pid:AMQ48725.1:loc:128154:129425:strand:+ -            394   4.6e-08   32.8   0.0   1   1   1.7e-11   6.7e-08   32.3   0.0    84   218   107   245    84   273 0.82 FAE1/Type III polyketide synthase-like protein
+ACP_syn_III_C        PF08541.13    90 BGC0002403_ORF4:gid:Cer-c:pid:AMQ48725.1:loc:128154:129425:strand:+ -            394   1.4e-07   31.7   0.0   1   1   7.8e-11   3.1e-07   30.6   0.0    16    88   308   385   297   387 0.82 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0002403_ORF4:gid:Cer-c:pid:AMQ48725.1:loc:128154:129425:strand:+ -            394   3.8e-06   26.8   0.3   1   1   2.6e-09     1e-05   25.4   0.3     6    65   167   233   165   249 0.79 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002403.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002403.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002403.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:22:02 2023
+# [ok]

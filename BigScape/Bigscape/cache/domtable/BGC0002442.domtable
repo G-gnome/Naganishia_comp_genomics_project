@@ -1,0 +1,24 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR                 PF01047.25    59 BGC0002442_ORF1:gid::pid:QTH19307.1:loc:0:585:strand:- -            194   1.7e-06   27.9   0.1   1   1   3.8e-10   3.8e-06   26.8   0.1    14    53   106   145   104   150 0.93 MarR family
+RepL                 PF05732.14   164 BGC0002442_ORF1:gid::pid:QTH19307.1:loc:0:585:strand:- -            194   1.5e-05   24.7   0.0   1   1   2.9e-09   2.8e-05   23.8   0.0    60   128    94   171    60   187 0.87 Firmicute plasmid replication protein (RepL)
+Yip1                 PF04893.20   173 BGC0002442_ORF2:gid::pid:QTH19308.1:loc:810:1476:strand:- -            221   2.5e-14   53.7  20.1   1   1   1.6e-18   3.2e-14   53.3  20.1     3   170    22   218    20   220 0.76 Yip1 domain
+MacB_PCD             PF12704.10   196 BGC0002442_ORF3:gid::pid:QTH19309.1:loc:1495:2710:strand:- -            404   5.9e-29  101.9   0.2   1   1     6e-33   5.9e-29  101.9   0.2     1   185    21   235    21   242 0.76 MacB-like periplasmic core domain
+FtsX                 PF02687.24   121 BGC0002442_ORF3:gid::pid:QTH19309.1:loc:1495:2710:strand:- -            404   8.7e-23   80.7   9.0   1   1   8.9e-27   8.7e-23   80.7   9.0     3   121   285   397   283   397 0.97 FtsX-like permease family
+ABC_tran             PF00005.30   137 BGC0002442_ORF4:gid::pid:QTH19310.1:loc:2706:3387:strand:- -            226   3.6e-32  111.9   0.0   1   1   2.5e-36   4.8e-32  111.5   0.0     1   136    21   169    21   170 0.91 ABC transporter
+HlyD_3               PF13437.9    106 BGC0002442_ORF5:gid::pid:QTH19311.1:loc:3383:4595:strand:- -            403   1.3e-08   35.5   1.6   1   1   8.4e-10   8.3e-06   26.6   0.2     1    97   201   315   201   330 0.80 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.9     50 BGC0002442_ORF5:gid::pid:QTH19311.1:loc:3383:4595:strand:- -            403   2.4e-06   27.4   0.1   1   1   2.4e-10   2.4e-06   27.4   0.1    10    45    89   124    83   150 0.93 Biotin-lipoyl like
+GerE                 PF00196.22    57 BGC0002442_ORF6:gid::pid:QTH19312.1:loc:4745:4952:strand:+ -             68   3.4e-12   45.9   0.2   1   1     2e-16   3.9e-12   45.7   0.2     3    56     8    61     6    62 0.95 Bacterial regulatory proteins, luxR family
+ABC_tran             PF00005.30   137 BGC0002442_ORF9:gid::pid:QTH19315.1:loc:5656:6304:strand:+ -            215   5.3e-22   78.9   0.1   1   1   7.8e-26   7.7e-22   78.4   0.1     1   135    21   162    21   164 0.90 ABC transporter
+MerR_1               PF13411.9     69 BGC0002442_ORF11:gid::pid:QTH19317.1:loc:7848:8391:strand:- -            180   4.6e-11   42.8   1.2   1   1   3.8e-15   7.4e-11   42.1   0.1     1    65     2    67     2    71 0.91 MerR HTH family regulatory protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002442.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002442.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002442.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:57:08 2023
+# [ok]

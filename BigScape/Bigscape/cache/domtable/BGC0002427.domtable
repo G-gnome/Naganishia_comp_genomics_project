@@ -1,0 +1,30 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   1.8e-61  208.1   0.6   1   1   1.7e-59   2.9e-56  191.0   0.4    60   253   414   604   411   604 0.92 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   3.5e-37  127.1   0.2   1   1   6.6e-40   1.1e-36  125.6   0.2     1   119   612   731   612   731 0.97 Beta-ketoacyl synthase, C-terminal domain
+HTH_51               PF18558.4     90 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   1.9e-22   79.1   0.0   1   1   3.7e-25     6e-22   77.5   0.0     4    89  1814  1899  1812  1900 0.96 Helix-turn-helix domain
+Acyl_transf_1        PF00698.24   319 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181     2e-19   70.4   0.0   1   1   3.6e-22   5.9e-19   68.9   0.0    16   254   904  1146   891  1155 0.87 Acyl transferase domain
+Methyltransf_12      PF08242.15    99 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   1.6e-17   64.1   0.0   1   1     7e-20   1.1e-16   61.4   0.0     1    97  2003  2107  2003  2110 0.91 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   4.4e-11   43.4   0.0   1   1     1e-13   1.7e-10   41.6   0.0     1    97  2002  2107  2002  2107 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   4.8e-11   42.9   0.0   1   1   1.2e-13   1.9e-10   40.9   0.0    16   160  1987  2158  1977  2162 0.74 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181     1e-10   41.8   0.1   1   1   5.6e-13   9.2e-10   38.6   0.0     4   109  1999  2111  1997  2121 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   2.2e-07   31.6   0.0   1   1   4.3e-10   7.1e-07   29.9   0.0     1    94  2003  2109  2003  2111 0.86 Methyltransferase domain
+SAT                  PF16073.8    240 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   3.9e-07   30.0   2.7   1   1   8.4e-10   1.4e-06   28.3   0.1    58   148    76   180    22   197 0.79 Starter unit:ACP transacylase in aflatoxin biosynthesis
+PP-binding           PF00550.28    67 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   1.2e-06   28.8   0.1   1   1     2e-09   3.3e-06   27.4   0.1    11    63  1694  1745  1684  1749 0.84 Phosphopantetheine attachment site
+Methyltransf_16      PF10294.12   174 BGC0002427_ORF1:gid::pid:EFY96950.1:loc:0:6612:strand:- -           2181   7.9e-06   25.8   0.0   1   1   2.1e-08   3.4e-05   23.8   0.0    40   158  1992  2114  1975  2120 0.76 Lysine methyltransferase
+UbiA                 PF01040.21   251 BGC0002427_ORF3:gid::pid:KHO10692.1:loc:11753:12083:strand:+ -            109   1.3e-20   73.9   1.4   1   1   7.6e-25   1.5e-20   73.7   1.4    11    87    27   103    10   106 0.85 UbiA prenyltransferase family
+polyprenyl_synt      PF00348.20   256 BGC0002427_ORF4:gid::pid:EFY96952.1:loc:13643:14834:strand:- -            337   2.8e-64  216.8   0.0   1   1   1.8e-68   3.6e-64  216.4   0.0     2   250    38   279    37   285 0.93 Polyprenyl synthetase
+FAD_binding_3        PF01494.22   349 BGC0002427_ORF5:gid::pid:EFY96953.2:loc:16076:17155:strand:+ -            322     2e-19   70.2   0.0   1   1   6.4e-23   4.2e-19   69.1   0.0     2   297     6   319     5   321 0.74 FAD binding domain
+FAD_binding_4        PF01565.26   139 BGC0002427_ORF6:gid::pid:EFY96954.1:loc:19897:21541:strand:+ -            509   5.5e-25   87.8   4.2   1   1   5.9e-29   5.8e-25   87.8   3.1     1   139    63   200    63   200 0.93 FAD binding domain
+BBE                  PF08031.15    46 BGC0002427_ORF6:gid::pid:EFY96954.1:loc:19897:21541:strand:+ -            509     2e-15   56.7   0.1   1   1   3.5e-19   3.4e-15   56.0   0.1     2    46   445   490   444   490 0.96 Berberine and berberine like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002427.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002427.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002427.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:44:29 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_syn_C_2      PF19086.3    199 BGC0002260_ORF1:gid:braA:pid:QOE88883.1:loc:942:2362:strand:+ -            375   1.9e-37  129.2   0.0   1   1     3e-41   2.9e-37  128.6   0.0     1   196   107   307   107   309 0.87 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth_C      PF03936.19   267 BGC0002260_ORF1:gid:braA:pid:QOE88883.1:loc:942:2362:strand:+ -            375   1.4e-08   34.6   0.2   1   1   7.8e-12   7.6e-08   32.1   0.2    21   264    61   307    55   309 0.86 Terpene synthase family, metal binding domain
+Caps_synth           PF05704.15   278 BGC0002260_ORF2:gid:braB:pid:QOE88884.1:loc:2624:3890:strand:- -            421   1.8e-18   67.1   0.1   1   1   1.8e-22   3.5e-18   66.1   0.1    38   194    48   217    33   226 0.79 Capsular polysaccharide synthesis protein
+p450                 PF00067.25   463 BGC0002260_ORF3:gid:braC:pid:QOE88885.1:loc:5080:6849:strand:+ -            504   6.1e-43  147.4   0.1   1   1   3.9e-47   7.7e-43  147.0   0.1   138   445   165   481   147   500 0.85 Cytochrome P450
+ABC_tran             PF00005.30   137 BGC0002260_ORF5:gid:braE:pid:QOE88887.1:loc:11899:16838:strand:- -           1481   3.2e-42  144.4   0.0   1   2     1e-21     5e-18   66.1   0.0     1   135   610   746   610   748 0.83 ABC transporter
+ABC_tran             PF00005.30   137 BGC0002260_ORF5:gid:braE:pid:QOE88887.1:loc:11899:16838:strand:- -           1481   3.2e-42  144.4   0.0   2   2     9e-25   4.4e-21   76.0   0.0     1   126  1243  1382  1243  1384 0.89 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002260_ORF5:gid:braE:pid:QOE88887.1:loc:11899:16838:strand:- -           1481   3.1e-21   76.4  27.9   1   1   1.4e-23   6.9e-20   72.0  14.1     3   272   888  1156   886  1158 0.94 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002260.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002260.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002260.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:09:06 2023
+# [ok]

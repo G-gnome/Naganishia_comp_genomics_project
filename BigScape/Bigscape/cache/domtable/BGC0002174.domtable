@@ -1,0 +1,15 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002174_ORF1:gid:epls:pid:BBU42014.1:loc:0:3894:strand:+ -           1297   1.4e-63  215.2   0.1   1   1   6.1e-65     4e-61  207.0   0.1     2   423    29   400    28   401 0.86 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0002174_ORF1:gid:epls:pid:BBU42014.1:loc:0:3894:strand:+ -           1297   8.7e-11   42.1   0.0   1   1   2.7e-14   1.8e-10   41.1   0.0     2    67   507   568   506   568 0.94 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002174.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002174.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002174.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:31:35 2023
+# [ok]

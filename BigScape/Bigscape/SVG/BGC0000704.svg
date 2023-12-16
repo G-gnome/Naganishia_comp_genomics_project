@@ -1,0 +1,485 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1588.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1578.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>kanT
+putative dehydrogenase</title>
+			<polygon class="kanT
+putative dehydrogenase" points="10,25 13,25 13,10 43,40 13,70 13,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="12" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="27,28 27,28 39,40 39,40 27,52 27,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacT
+conserved hypothetical protein</title>
+			<polygon class="kacT
+conserved hypothetical protein" points="47,25 49,25 49,10 79,40 49,70 49,55 47,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kanS
+putative ABC transporter sugar binding protein</title>
+			<polygon class="kanS
+putative ABC transporter sugar binding protein" points="80,25 87,25 87,10 117,40 87,70 87,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_4 (PF13407)
+"Periplasmic binding protein domain"</title>
+				<polygon class="PF13407" points="84,28 100,28 112,40 112,40 100,52 84,52" stroke-linejoin="round" width="28" height="24" fill="rgb(124,182,50)" stroke="rgb(99,145,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanR
+putative sugar ABC-transproter ATP-binding protein</title>
+			<polygon class="kanR
+putative sugar ABC-transproter ATP-binding protein" points="117,25 139,25 139,10 169,40 139,70 139,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="119" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="145,28 152,28 160,36 160,44 152,52 145,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanQ
+putative sugar ABC-transproter transport permease</title>
+			<polygon class="kanQ
+putative sugar ABC-transproter transport permease" points="169,25 180,25 180,10 210,40 180,70 180,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_2 (PF02653)
+"Branched-chain amino acid transport system / permease component"</title>
+				<polygon class="PF02653" points="175,28 194,28 206,40 194,52 175,52" stroke-linejoin="round" width="33" height="24" fill="rgb(69,130,196)" stroke="rgb(55,104,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanP
+putative O-methyltransferase</title>
+			<polygon class="kanP
+putative O-methyltransferase" points="250,25 248,25 248,10 218,40 248,70 248,55 250,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="222,40 234,28 241,28 241,52 234,52" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="243" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(84,199,85)" stroke="rgb(67,159,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacS
+putative NAD synthase</title>
+			<polygon class="kacS
+putative NAD synthase" points="261,10 288,40 261,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_synthase (PF02540)
+"NAD synthase"</title>
+				<polygon class="PF02540" points="263,28 273,28 284,40 273,52 263,52" stroke-linejoin="round" width="24" height="24" fill="rgb(204,109,227)" stroke="rgb(163,87,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacR
+hypothetical protein</title>
+			<polygon class="kacR
+hypothetical protein" points="291,40 305,10 305,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_3 (PF13474)
+"SnoaL-like domain"</title>
+				<polygon class="PF13474" points="294,40 300,28 304,28 304,52 300,52" stroke-linejoin="round" width="12" height="24" fill="rgb(182,82,66)" stroke="rgb(145,65,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacQ
+hypothetical protein</title>
+			<polygon class="kacQ
+hypothetical protein" points="309,40 333,10 333,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="318,34 323,28 327,28 327,52 323,52 318,46" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacP
+conserved hypothetical protein</title>
+			<polygon class="kacP
+conserved hypothetical protein" points="423,25 370,25 370,10 340,40 370,70 370,55 423,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIE (PF07228)
+"Stage II sporulation protein E (SpoIIE)"</title>
+				<polygon class="PF07228" points="353,31 356,28 371,28 371,52 356,52 353,49" stroke-linejoin="round" width="18" height="24" fill="rgb(85,195,217)" stroke="rgb(68,155,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS (PF00989)
+"PAS fold"</title>
+				<rect class="PF00989" x="416" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(205,221,64)" stroke="rgb(164,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanO
+putative efflux protein</title>
+			<polygon class="kanO
+putative efflux protein" points="509,25 458,25 458,10 428,40 458,70 458,55 509,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<polygon class="PF13620" points="432,40 435,37 435,43" stroke-linejoin="round" width="7" height="24" fill="rgb(201,63,96)" stroke="rgb(160,50,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<polygon class="PF13620" points="436,36 444,28 444,28 444,52 444,52 436,44" stroke-linejoin="round" width="8" height="24" fill="rgb(201,63,96)" stroke="rgb(160,50,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<rect class="PF13620" x="445" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(201,63,96)" stroke="rgb(160,50,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="464" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacO
+conserved hypothetical protein</title>
+			<polygon class="kacO
+conserved hypothetical protein" points="516,40 530,10 530,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="519,40 525,28 530,28 530,52 525,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanN
+putative membrane efflux protein</title>
+			<polygon class="kanN
+putative membrane efflux protein" points="577,25 565,25 565,10 535,40 565,70 565,55 577,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsB (PF02040)
+"Arsenical pump membrane protein"</title>
+				<polygon class="PF02040" points="539,40 551,28 575,28 575,52 551,52" stroke-linejoin="round" width="40" height="24" fill="rgb(207,201,91)" stroke="rgb(165,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanM
+kanamycin 6-acetyl transferase</title>
+			<polygon class="kanM
+kanamycin 6-acetyl transferase" points="589,10 603,40 589,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="589,28 594,28 600,39 600,41 594,52 589,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacN
+hypothetical protein</title>
+			<polygon class="kacN
+hypothetical protein" points="647,25 636,25 636,10 606,40 636,70 636,55 647,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6545 (PF20182)
+"Family of unknown function (DUF6545)"</title>
+				<polygon class="PF20182" points="610,40 622,28 624,28 624,52 622,52" stroke-linejoin="round" width="16" height="24" fill="rgb(175,208,99)" stroke="rgb(140,166,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacM
+hypothetical protein</title>
+			<polygon class="kacM
+hypothetical protein" points="666,40 685,10 685,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kanL
+putative transcriptional regulatory protein</title>
+			<polygon class="kanL
+putative transcriptional regulatory protein" points="697,25 704,25 704,10 734,40 704,70 704,55 697,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kanK
+GntP-like protein</title>
+			<polygon class="kanK
+GntP-like protein" points="737,25 741,25 741,10 771,40 741,70 741,55 737,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="739" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="754,28 755,28 766,39 766,41 755,52 754,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanJ
+putative transport protein</title>
+			<polygon class="kanJ
+putative transport protein" points="774,25 785,25 785,10 815,40 785,70 785,55 774,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="775,28 799,28 808,37 808,43 799,52 775,52" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacL
+GntJ-like protein</title>
+			<polygon class="kacL
+GntJ-like protein" points="816,25 825,25 825,10 855,40 825,70 825,55 816,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="818,28 839,28 851,40 839,52 818,52" stroke-linejoin="round" width="36" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanI
+GntX like protein</title>
+			<polygon class="kanI
+GntX like protein" points="855,25 875,25 875,10 905,40 875,70 875,55 855,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="856" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="893,32 901,40 893,48" stroke-linejoin="round" width="12" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanB
+putative glutamine--scyllo-inosose aminotransferase</title>
+			<polygon class="kanB
+putative glutamine--scyllo-inosose aminotransferase" points="910,25 922,25 922,10 952,40 922,70 922,55 910,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="912,28 936,28 948,40 948,40 936,52 912,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanA
+2-deoxy-scyllo-inosose synthase</title>
+			<polygon class="kanA
+2-deoxy-scyllo-inosose synthase" points="954,25 963,25 963,10 993,40 963,70 963,55 954,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="960,28 976,28 985,37 985,43 976,52 960,52" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanC
+putative dehydrogenase kanC</title>
+			<polygon class="kanC
+putative dehydrogenase kanC" points="999,25 1005,25 1005,10 1035,40 1005,70 1005,55 999,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="999" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="1011,28 1018,28 1030,40 1018,52 1011,52" stroke-linejoin="round" width="21" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanE
+putative glycosyl transferase kanE</title>
+			<polygon class="kanE
+putative glycosyl transferase kanE" points="1043,25 1051,25 1051,10 1081,40 1051,70 1051,55 1043,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="1043" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(162,57,186)" stroke="rgb(129,45,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="1062,28 1065,28 1077,40 1065,52 1062,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacA
+hypothetical protein</title>
+			<polygon class="kacA
+hypothetical protein" points="1081,10 1106,40 1081,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIG-L (PF02585)
+"GlcNAc-PI de-N-acetylase"</title>
+				<polygon class="PF02585" points="1081,28 1092,28 1095,32 1095,48 1092,52 1081,52" stroke-linejoin="round" width="14" height="24" fill="rgb(97,215,95)" stroke="rgb(77,172,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanD
+putative glutamine--scyllo-inosose aminotransferase</title>
+			<polygon class="kanD
+putative glutamine--scyllo-inosose aminotransferase" points="1106,25 1118,25 1118,10 1148,40 1118,70 1118,55 1106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="1108,28 1131,28 1143,40 1131,52 1108,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacB
+hypothetical protein</title>
+			<polygon class="kacB
+hypothetical protein" points="1154,10 1182,40 1154,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="1157,28 1166,28 1176,38 1176,42 1166,52 1157,52" stroke-linejoin="round" width="19" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacC
+hypothetical protein</title>
+			<polygon class="kacC
+hypothetical protein" points="1198,10 1217,40 1198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kmr
+16s ribosomal RNA methylase</title>
+			<polygon class="kmr
+16s ribosomal RNA methylase" points="1222,10 1249,40 1222,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FmrO (PF07091)
+"Ribosomal RNA methyltransferase (FmrO)"</title>
+				<polygon class="PF07091" points="1224,28 1234,28 1245,40 1234,52 1224,52" stroke-linejoin="round" width="25" height="24" fill="rgb(91,151,191)" stroke="rgb(72,120,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanF
+putative glycosyltransferase</title>
+			<polygon class="kanF
+putative glycosyltransferase" points="1256,25 1264,25 1264,10 1294,40 1264,70 1264,55 1256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="1256" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="1275,28 1278,28 1290,40 1278,52 1275,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacD
+putative GTPase</title>
+			<polygon class="kacD
+putative GTPase" points="1300,10 1329,40 1300,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RsgA_GTPase (PF03193)
+"RsgA GTPase"</title>
+				<polygon class="PF03193" points="1306,28 1313,28 1322,37 1322,43 1313,52 1306,52" stroke-linejoin="round" width="16" height="24" fill="rgb(89,182,98)" stroke="rgb(71,145,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacE
+hypothetical protein</title>
+			<polygon class="kacE
+hypothetical protein" points="1331,10 1344,40 1331,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribonuc_L-PSP (PF01042)
+"Endoribonuclease L-PSP"</title>
+				<polygon class="PF01042" points="1331,28 1335,28 1341,40 1335,52 1331,52" stroke-linejoin="round" width="12" height="24" fill="rgb(93,120,208)" stroke="rgb(74,96,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacF
+hypothetical protein</title>
+			<polygon class="kacF
+hypothetical protein" points="1345,40 1364,10 1364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kacG
+putative oxidoreductase</title>
+			<polygon class="kacG
+putative oxidoreductase" points="1376,25 1405,25 1405,10 1435,40 1405,70 1405,55 1376,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<rect class="PF02737" x="1376" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(212,65,199)" stroke="rgb(169,52,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<rect class="PF00725" x="1394" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(180,78,60)" stroke="rgb(144,62,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02737" points="1407,28 1419,28 1424,33 1424,47 1419,52 1407,52" stroke-linejoin="round" width="17" height="24" fill="rgb(212,65,199)" stroke="rgb(169,52,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00725" points="1425,34 1431,40 1425,46" stroke-linejoin="round" width="9" height="24" fill="rgb(180,78,60)" stroke="rgb(144,62,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kanG
+putative regulatory protein</title>
+			<polygon class="kanG
+putative regulatory protein" points="1439,10 1466,40 1439,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="1442" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacH
+putative crotonyl-CoA reductase</title>
+			<polygon class="kacH
+putative crotonyl-CoA reductase" points="1470,25 1493,25 1493,10 1523,40 1493,70 1493,55 1470,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="1502,28 1506,28 1516,38 1516,42 1506,52 1502,52" stroke-linejoin="round" width="14" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacI
+hypothetical protein</title>
+			<polygon class="kacI
+hypothetical protein" points="1523,10 1541,40 1523,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6193 (PF19692)
+"Family of unknown function (DUF6193)"</title>
+				<polygon class="PF19692" points="1529,28 1530,28 1538,40 1530,52 1529,52" stroke-linejoin="round" width="10" height="24" fill="rgb(195,76,102)" stroke="rgb(156,60,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kacJ
+hypothetical protein</title>
+			<polygon class="kacJ
+hypothetical protein" points="1543,40 1557,10 1557,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kacK
+hypothetical protein</title>
+			<polygon class="kacK
+hypothetical protein" points="1565,40 1577,10 1577,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

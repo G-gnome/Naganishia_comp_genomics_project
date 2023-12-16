@@ -1,0 +1,16 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.24   355 BGC0002325_ORF2:gid::pid:CBW73571.1:loc:1013:2756:strand:+ -            580   6.6e-15   55.8   0.0   1   1   1.3e-18   2.5e-14   53.8   0.0    23   352   233   574   226   580 0.72 Asparagine synthase
+ABC_membrane         PF00664.26   274 BGC0002325_ORF4:gid::pid:CBW73573.1:loc:2772:3339:strand:+ -            188     3e-08   33.8   5.8   1   1   1.8e-12   3.5e-08   33.6   5.8     2   150    28   176    27   186 0.87 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002325_ORF5:gid::pid:CBW73574.1:loc:3526:4534:strand:+ -            335   2.8e-36  125.2   0.0   1   1   2.1e-40   4.1e-36  124.7   0.0     1   136   109   257   109   258 0.94 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002325.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002325.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002325.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:02:19 2023
+# [ok]

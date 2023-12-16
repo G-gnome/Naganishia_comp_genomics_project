@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short_C2         PF13561.9    234 BGC0001893_ORF1:gid:Bcaba4:pid:ATZ52740.1:loc:155:997:strand:- -            258   1.1e-62  211.8   0.2   1   1     2e-66   1.3e-62  211.6   0.2     1   233    15   256    15   257 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001893_ORF1:gid:Bcaba4:pid:ATZ52740.1:loc:155:997:strand:- -            258   2.8e-46  157.6   1.1   1   1   4.9e-50   3.2e-46  157.4   1.1     1   191     9   202     9   206 0.98 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001893_ORF1:gid:Bcaba4:pid:ATZ52740.1:loc:155:997:strand:- -            258     5e-11   42.9   0.7   1   1   1.1e-14   7.1e-11   42.4   0.7     5   154    13   165    10   186 0.84 KR domain
+p450                 PF00067.25   463 BGC0001893_ORF2:gid:Bcaba2:pid:ATZ52741.1:loc:1500:3310:strand:- -            527   3.8e-71  240.4   0.0   1   1   2.6e-75   5.1e-71  239.9   0.0    17   441    69   489    52   501 0.84 Cytochrome P450
+p450                 PF00067.25   463 BGC0001893_ORF3:gid:Bcaba1:pid:ATZ52742.1:loc:5480:7249:strand:- -            509   1.4e-45  156.0   0.0   1   1   9.5e-50   1.9e-45  155.6   0.0    12   448    48   487    39   500 0.81 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001893.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001893.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001893.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:59:09 2023
+# [ok]

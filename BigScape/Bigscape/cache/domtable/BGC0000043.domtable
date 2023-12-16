@@ -1,0 +1,34 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   1.4e-85  287.1   0.0   1   1   2.9e-88   4.1e-85  285.5   0.0     2   253    37   277    36   277 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   8.8e-74  247.4   0.1   1   1   1.6e-76   2.2e-73  246.1   0.1     1   180  1238  1416  1238  1416 0.99 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211     1e-60  206.1   0.1   1   1   3.1e-63   4.4e-60  204.0   0.0     2   311   566   880   565   888 0.93 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   1.1e-44  151.3   1.5   1   1   1.5e-47   2.1e-44  150.4   0.4     2   118   286   402   285   403 0.98 Beta-ketoacyl synthase, C-terminal domain
+Sulfotransfer_3      PF13469.9    217 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   7.9e-33  114.8   0.1   1   1   2.2e-35   3.1e-32  112.8   0.0     2   216  1629  1838  1626  1839 0.79 Sulfotransferase family
+Abhydrolase_1        PF00561.23   257 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   7.5e-26   91.4   0.0   1   1   2.3e-28   3.3e-25   89.3   0.0     1   256  1952  2200  1952  2201 0.88 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.10   220 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211     7e-20   72.7   0.1   1   1   1.9e-21   2.7e-18   67.5   0.0     1   219  1954  2206  1954  2207 0.61 Alpha/beta hydrolase family
+KAsynt_C_assoc       PF16197.8    112 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   7.6e-20   71.6   0.0   1   1   1.2e-21   1.7e-18   67.2   0.0     1   109   405   524   405   527 0.88 Ketoacyl-synthetase C-terminal extension
+Hydrolase_4          PF12146.11   239 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   1.1e-18   67.5   0.0   1   1   8.7e-20   1.2e-16   60.8   0.0     4   107  1951  2051  1948  2084 0.92 Serine aminopeptidase, S33
+adh_short            PF00106.28   195 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   6.3e-16   58.5   0.0   1   1   1.4e-17     2e-14   53.6   0.0     3   160  1240  1396  1238  1429 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   8.9e-14   51.7   0.0   1   1     4e-16   5.6e-13   49.1   0.0     6   154  1249  1398  1244  1434 0.87 Enoyl-(Acyl carrier protein) reductase
+PP-binding           PF00550.28    67 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   1.3e-13   51.2   0.0   1   1     3e-16   4.2e-13   49.5   0.0     2    67  1519  1584  1518  1584 0.96 Phosphopantetheine attachment site
+Sulfotransfer_1      PF00685.30   267 BGC0000043_ORF1:gid:curM:pid:ACV42478.1:loc:0:6636:strand:+ -           2211   1.7e-11   44.2   0.1   1   1   3.1e-14   4.3e-11   42.9   0.1     4   206  1629  1845  1626  1881 0.81 Sulfotransferase domain
+DUF6208              PF19713.2    316 BGC0000043_ORF2:gid::pid:ACV42479.1:loc:7050:8061:strand:+ -            336  1.8e-132  441.1  13.4   1   1  1.2e-136  2.3e-132  440.8  13.4     3   307     9   327     7   332 0.98 Family of unknown function (DUF6208)
+Rhodanese            PF00581.23   107 BGC0000043_ORF3:gid::pid:ACV42480.1:loc:8509:9577:strand:+ -            355   2.4e-12   47.4   0.0   1   1   4.8e-16   9.4e-12   45.5   0.0    12   105    15   127     4   129 0.81 Rhodanese-like domain
+Response_reg         PF00072.27   112 BGC0000043_ORF4:gid::pid:ACV42481.1:loc:9626:13097:strand:- -           1156   2.4e-31  108.3   0.0   1   1   1.9e-34   6.1e-31  107.0   0.0     1   112   747   860   747   860 0.96 Response regulator receiver domain
+HATPase_c            PF02518.29   112 BGC0000043_ORF4:gid::pid:ACV42481.1:loc:9626:13097:strand:- -           1156   2.9e-28   98.7   0.0   1   1     2e-31   6.5e-28   97.6   0.0     2   110   573   704   572   706 0.91 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Guanylate_cyc        PF00211.23   183 BGC0000043_ORF4:gid::pid:ACV42481.1:loc:9626:13097:strand:- -           1156   1.4e-25   90.1   0.0   1   1   1.1e-28   3.6e-25   88.8   0.0     7   179   900  1074   896  1077 0.87 Adenylate and Guanylate cyclase catalytic domain
+dCache_1             PF02743.21   241 BGC0000043_ORF4:gid::pid:ACV42481.1:loc:9626:13097:strand:- -           1156   1.2e-18   67.6   6.0   1   1   3.7e-21   1.2e-17   64.3   6.0     2   241    49   354    48   354 0.82 Cache domain
+HisKA                PF00512.28    67 BGC0000043_ORF4:gid::pid:ACV42481.1:loc:9626:13097:strand:- -           1156   3.6e-17   62.3   0.7   1   1     3e-20   9.7e-17   60.9   0.1     2    65   459   524   458   526 0.97 His Kinase A (phospho-acceptor) domain
+HAMP                 PF00672.28    53 BGC0000043_ORF4:gid::pid:ACV42481.1:loc:9626:13097:strand:- -           1156   1.7e-12   47.7   0.1   1   1   2.3e-15   7.5e-12   45.6   0.0     2    53   389   440   388   440 0.97 HAMP domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000043.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000043.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000043.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:10:19 2023
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HlyD_3               PF13437.9    106 BGC0002116_ORF3:gid:darC:pid:WP_152962145.1:loc:2951:4205:strand:+ -            417   6.5e-09   36.6   0.0   1   1   4.8e-12   4.7e-08   33.8   0.0     2   106   235   331   234   342 0.92 HlyD family secretion protein
+HlyD_D23             PF16576.8    214 BGC0002116_ORF3:gid:darC:pid:WP_152962145.1:loc:2951:4205:strand:+ -            417   3.8e-09   36.2   0.0   1   1   1.9e-11   1.8e-07   30.7   0.0   107   205   231   324   191   331 0.90 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+ABC_tran             PF00005.30   137 BGC0002116_ORF4:gid:darD:pid:WP_152962146.1:loc:4206:4869:strand:+ -            220   1.7e-34  119.4   0.0   1   1   2.4e-38   2.3e-34  119.0   0.0     1   136    21   169    21   170 0.94 ABC transporter
+Radical_SAM          PF04055.24   167 BGC0002116_ORF5:gid:darE:pid:WP_152962147.1:loc:4898:6188:strand:+ -            429   4.4e-11   43.6   0.0   1   1   4.4e-15   8.7e-11   42.6   0.0     2   165    74   239    73   241 0.84 Radical SAM superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002116.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002116.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002116.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:04:10 2023
+# [ok]

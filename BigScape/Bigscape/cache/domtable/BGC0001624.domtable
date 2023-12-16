@@ -1,0 +1,28 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Tyrosinase           PF00264.23   222 BGC0001624_ORF1:gid:iacA:pid:APC57594.1:loc:23:1174:strand:- -            343   2.5e-23   83.7   5.0   1   1   1.3e-27   2.5e-23   83.7   5.0    52   221   133   276   121   277 0.89 Common central domain of tyrosinase
+adh_short            PF00106.28   195 BGC0001624_ORF3:gid:iacC:pid:APC57595.1:loc:7956:8950:strand:- -            272   2.6e-25   89.2   0.1   1   1     5e-29   3.3e-25   88.8   0.1     2   191     3   211     2   215 0.87 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001624_ORF3:gid:iacC:pid:APC57595.1:loc:7956:8950:strand:- -            272   2.3e-16   60.2   0.0   1   1   4.7e-20   3.1e-16   59.8   0.0     1   182     8   210     8   230 0.86 Enoyl-(Acyl carrier protein) reductase
+EthD                 PF07110.14    97 BGC0001624_ORF4:gid:iacD:pid:APC57596.1:loc:10259:10734:strand:- -            138   4.8e-09   37.4   0.0   1   1   3.1e-13     6e-09   37.1   0.0     1    96    16   113    16   114 0.91 EthD domain
+Trp_DMAT             PF11991.11   363 BGC0001624_ORF5:gid:iacE:pid:APC57597.1:loc:13047:14430:strand:+ -            439   4.2e-86  289.7   0.0   1   1   2.5e-90   4.9e-86  289.5   0.0     1   362    33   392    33   393 0.90 Tryptophan dimethylallyltransferase
+adh_short            PF00106.28   195 BGC0001624_ORF7:gid:iacG:pid:APC57599.1:loc:18215:19068:strand:- -            248   3.3e-10   39.9   0.3   1   1   1.3e-13   8.6e-10   38.5   0.3     2   178     4   180     3   200 0.82 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001624_ORF7:gid:iacG:pid:APC57599.1:loc:18215:19068:strand:- -            248     3e-05   24.1   0.2   1   1   4.6e-09     3e-05   24.1   0.2     2   109     4   108     3   113 0.85 KR domain
+NmrA                 PF05368.16   233 BGC0001624_ORF7:gid:iacG:pid:APC57599.1:loc:18215:19068:strand:- -            248   4.7e-05   23.1   2.2   1   1   1.4e-08   9.3e-05   22.2   2.2     1    66     5    73     5    75 0.87 NmrA-like family
+FAD_binding_4        PF01565.26   139 BGC0001624_ORF8:gid:iacH:pid:APC93982.1:loc:20573:22308:strand:- -            512   9.5e-22   77.4   1.2   1   1   2.1e-25   2.1e-21   76.3   1.2     2   136    83   214    82   217 0.95 FAD binding domain
+Fungal_trans_2       PF11951.11   384 BGC0001624_ORF9:gid:iacI:pid:APC57600.1:loc:24014:25323:strand:- -            384   6.7e-34  117.4   1.0   1   1   4.4e-38   8.6e-34  117.1   1.0     2   374    22   365    21   374 0.84 Fungal specific transcription factor domain
+adh_short            PF00106.28   195 BGC0001624_ORF10:gid:iacJ:pid:APC57601.1:loc:27417:28448:strand:+ -            324   4.7e-18   65.5   0.0   1   1   1.4e-19   1.4e-15   57.4   0.0     1   124    31   158    31   187 0.89 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001624_ORF10:gid:iacJ:pid:APC57601.1:loc:27417:28448:strand:+ -            324   3.6e-11   43.2   0.0   1   1   1.8e-13   1.8e-09   37.6   0.0     1   120    37   160    37   185 0.90 Enoyl-(Acyl carrier protein) reductase
+Zn_clus              PF00172.21    40 BGC0001624_ORF11:gid:iacK:pid:APC57602.1:loc:36498:38733:strand:+ -            670   7.2e-09   35.8   6.4   1   1   9.3e-13   1.8e-08   34.5   6.4     2    36    87   119    86   123 0.89 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Helo_like_N          PF17111.8    209 BGC0001624_ORF12:gid::pid:APC57603.1:loc:42134:43456:strand:+ -            393   2.9e-13   49.8   0.2   1   1   7.8e-17   7.7e-13   48.4   0.2     1   139     2   146     2   150 0.85 Fungal N-terminal domain of STAND proteins
+NACHT                PF05729.15   166 BGC0001624_ORF12:gid::pid:APC57603.1:loc:42134:43456:strand:+ -            393     6e-08   32.9   0.1   1   1   2.2e-11   2.2e-07   31.1   0.1     3   119   185   320   183   358 0.77 NACHT domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001624.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001624.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001624.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:14:48 2023
+# [ok]

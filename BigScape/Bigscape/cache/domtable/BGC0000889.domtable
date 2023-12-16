@@ -1,0 +1,39 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PDH_N                PF02153.20   154 BGC0000889_ORF1:gid::pid:BAM73624.1:loc:0:1086:strand:- -            361     1e-27   96.7   0.0   1   1   1.8e-31   1.7e-27   95.9   0.0     5   151    18   160    15   163 0.93 Prephenate dehydrogenase, nucleotide-binding domain
+PDH_C                PF20463.1    102 BGC0000889_ORF1:gid::pid:BAM73624.1:loc:0:1086:strand:- -            361   6.2e-19   68.3   0.0   1   1   1.1e-22   1.1e-18   67.6   0.0     2    89   166   250   165   260 0.91 Prephenate dehydrogenase, dimerization domain
+UbiD                 PF01977.19   406 BGC0000889_ORF2:gid:fevL:pid:BAM73625.1:loc:1217:2711:strand:- -            497  2.9e-107  359.2   0.0   1   1  1.8e-111  3.6e-107  358.9   0.0     1   395    19   429    19   432 0.92 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+Flavoprotein         PF02441.22   157 BGC0000889_ORF3:gid:fevK:pid:BAM73626.1:loc:2707:3355:strand:- -            215     5e-23   81.7   0.0   1   1   3.2e-27   6.2e-23   81.4   0.0     1   125     1   164     1   186 0.84 Flavoprotein
+MarR                 PF01047.25    59 BGC0000889_ORF4:gid:fevM:pid:BAM73627.1:loc:3415:3871:strand:+ -            151   3.7e-14   52.5   0.0   1   1   1.3e-17   6.4e-14   51.7   0.0     1    57    38    94    38    95 0.99 MarR family
+MarR_2               PF12802.10    61 BGC0000889_ORF4:gid:fevM:pid:BAM73627.1:loc:3415:3871:strand:+ -            151   3.1e-12   46.5   1.5   1   1   1.4e-15     7e-12   45.3   1.5     2    61    37    95    37    96 0.96 MarR family
+HTH_27               PF13463.9     68 BGC0000889_ORF4:gid:fevM:pid:BAM73627.1:loc:3415:3871:strand:+ -            151   2.1e-07   31.5   0.1   1   1   8.4e-11   4.1e-07   30.6   0.1     1    68    38   104    38   104 0.93 Winged helix DNA-binding domain
+PadR                 PF03551.17    75 BGC0000889_ORF4:gid:fevM:pid:BAM73627.1:loc:3415:3871:strand:+ -            151   1.2e-06   28.5   0.0   1   1   3.9e-10   1.9e-06   27.8   0.0    27    75    64   110    52   110 0.87 Transcriptional regulator PadR-like family
+FAD_binding_4        PF01565.26   139 BGC0000889_ORF5:gid:fevA1:pid:BAM73628.1:loc:3945:5310:strand:+ -            454   1.7e-25   89.5   2.7   1   1     3e-29     3e-25   88.7   2.7     1   134    41   170    41   175 0.94 FAD binding domain
+BBE                  PF08031.15    46 BGC0000889_ORF5:gid:fevA1:pid:BAM73628.1:loc:3945:5310:strand:+ -            454   5.7e-07   29.7   0.0   1   1     1e-10     1e-06   28.9   0.0    21    45   423   447   415   448 0.90 Berberine and berberine like
+MFS_1                PF07690.19   353 BGC0000889_ORF6:gid:fevB:pid:BAM73629.1:loc:5319:6750:strand:+ -            476   1.5e-32  113.1  56.9   1   1   4.1e-31     4e-27   95.2  45.1     8   324    55   400    48   409 0.79 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000889_ORF6:gid:fevB:pid:BAM73629.1:loc:5319:6750:strand:+ -            476   6.6e-08   32.0   8.4   1   1   6.7e-12   6.6e-08   32.0   8.4    49   148    81   177    57   217 0.77 Sugar (and other) transporter
+BTAD                 PF03704.20   146 BGC0000889_ORF7:gid:fevR:pid:BAM73630.1:loc:6835:7834:strand:- -            332   4.8e-43  147.2   3.0   1   1   9.1e-47   8.9e-43  146.3   3.0     1   146   103   247   103   247 0.99 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0000889_ORF7:gid:fevR:pid:BAM73630.1:loc:6835:7834:strand:- -            332   6.7e-08   32.7   0.0   1   1   1.5e-11   1.5e-07   31.5   0.0     9    71    28    90    19    93 0.87 Transcriptional regulatory protein, C terminal
+Tyrosinase           PF00264.23   222 BGC0000889_ORF8:gid:fevF:pid:BAM73631.1:loc:7932:8856:strand:- -            307     6e-40  138.0   0.5   1   1   3.7e-44   7.3e-40  137.7   0.5     3   222    31   263    29   263 0.74 Common central domain of tyrosinase
+MelC1                PF06236.14   115 BGC0000889_ORF9:gid:fevE:pid:BAM73632.1:loc:8890:9247:strand:- -            118   2.6e-19   69.6   1.8   1   1   1.2e-22   2.4e-18   66.4   1.8     3   114     7   111     5   112 0.81 Tyrosinase co-factor MelC1
+FAD_binding_4        PF01565.26   139 BGC0000889_ORF10:gid:fevA2:pid:BAM73633.1:loc:9440:10817:strand:- -            458   5.7e-29  100.8   3.5   1   1   6.9e-33   6.8e-29  100.5   2.3     1   137    46   177    46   179 0.94 FAD binding domain
+BBE                  PF08031.15    46 BGC0000889_ORF10:gid:fevA2:pid:BAM73633.1:loc:9440:10817:strand:- -            458   2.3e-07   30.9   0.0   1   1   3.9e-11   3.8e-07   30.2   0.0    17    45   422   451   406   452 0.79 Berberine and berberine like
+DAHP_synth_1         PF00793.23   275 BGC0000889_ORF11:gid:fevY:pid:BAM73634.1:loc:10948:11971:strand:- -            340   1.4e-71  240.8   0.0   1   1   2.7e-75   1.8e-71  240.4   0.0    13   265    86   321    73   327 0.96 DAHP synthetase I family
+DAHP_snth_FXD        PF18152.4     67 BGC0000889_ORF11:gid:fevY:pid:BAM73634.1:loc:10948:11971:strand:- -            340   1.2e-14   54.0   0.1   1   1   4.1e-18   2.7e-14   52.9   0.1     5    66     1    62     1    63 0.98 DAHP synthase ferredoxin-like domain
+NeuB                 PF03102.17   241 BGC0000889_ORF11:gid:fevY:pid:BAM73634.1:loc:10948:11971:strand:- -            340   4.5e-06   26.4   0.0   1   1   9.3e-10   6.1e-06   26.0   0.0    53   146   138   231   126   323 0.90 NeuB family
+AMP-binding          PF00501.31   424 BGC0000889_ORF12:gid:fevW:pid:BAM73635.1:loc:11986:13315:strand:- -            442   2.1e-18   66.3   0.0   1   1   1.5e-22   2.9e-18   65.8   0.0   168   370    95   288    70   290 0.86 AMP-binding enzyme
+Lyase_aromatic       PF00221.22   463 BGC0000889_ORF13:gid:fevV:pid:BAM73636.1:loc:13311:15009:strand:- -            565  1.9e-168  561.0   3.3   1   1  1.1e-172  2.2e-168  560.8   3.3     1   463    44   528    44   528 0.97 Aromatic amino acid lyase
+DeoC                 PF01791.12   231 BGC0000889_ORF14:gid:fevI:pid:BAM73637.1:loc:15070:15844:strand:+ -            257   1.3e-42  146.1   0.0   1   1   7.5e-47   1.5e-42  145.9   0.0     3   230    26   239    24   240 0.98 DeoC/LacD family aldolase
+DHQS                 PF01959.19   347 BGC0000889_ORF15:gid:fevH:pid:BAM73638.1:loc:15862:16969:strand:+ -            368  2.3e-109  365.6   0.0   1   1  1.3e-113  2.6e-109  365.5   0.0     1   346     2   367     2   368 0.91 3-dehydroquinate synthase II
+GerE                 PF00196.22    57 BGC0000889_ORF17:gid:fevT:pid:BAM73640.1:loc:17447:18563:strand:+ -            371   1.8e-14   53.2   0.0   1   1   1.6e-18   3.2e-14   52.4   0.0     3    54   300   351   299   353 0.98 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000889.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000889.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000889.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:08:50 2023
+# [ok]

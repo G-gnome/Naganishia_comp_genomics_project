@@ -1,0 +1,35 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC2_membrane_3      PF12698.10   346 BGC0000502_ORF1:gid:cerE:pid:AHJ59533.1:loc:0:1221:strand:- -            406   1.4e-38  133.1  21.9   1   1   9.4e-43   1.8e-38  132.7  21.9     8   345    22   383    18   384 0.76 ABC-2 family transporter protein
+ABC_tran             PF00005.30   137 BGC0000502_ORF2:gid:cerF:pid:AHJ59534.1:loc:1224:2109:strand:- -            294   1.7e-26   93.5   0.0   1   1   4.2e-30   2.7e-26   92.8   0.0     2   136    19   157    18   158 0.94 ABC transporter
+DUF4162              PF13732.9     81 BGC0000502_ORF2:gid:cerF:pid:AHJ59534.1:loc:1224:2109:strand:- -            294   5.8e-10   39.9   0.3   1   1   1.7e-13   1.1e-09   38.9   0.3     1    80   211   291   211   292 0.87 Domain of unknown function (DUF4162)
+Peptidase_S8         PF00082.25   284 BGC0000502_ORF3:gid:cerP:pid:AHJ59535.1:loc:2204:3677:strand:- -            490   1.1e-47  162.8   0.4   1   1   7.1e-52   1.4e-47  162.4   0.4     3   269   172   456   170   477 0.89 Subtilase family
+Peptidase_C39        PF03412.18   133 BGC0000502_ORF4:gid:cerT:pid:AHJ59536.1:loc:3660:5817:strand:- -            718   1.3e-39  135.2   0.1   1   1   3.4e-43   2.2e-39  134.4   0.1     2   132     4   132     3   133 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000502_ORF4:gid:cerT:pid:AHJ59536.1:loc:3660:5817:strand:- -            718   1.7e-38  132.4   0.1   1   1   4.9e-42   3.2e-38  131.5   0.1     2   137   490   638   489   638 0.88 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000502_ORF4:gid:cerT:pid:AHJ59536.1:loc:3660:5817:strand:- -            718   2.6e-33  116.0  24.8   1   1   5.8e-37   3.8e-33  115.4  24.8     2   273   158   426   157   427 0.99 ABC transporter transmembrane region
+GerE                 PF00196.22    57 BGC0000502_ORF5:gid:cerR:pid:AHJ59537.1:loc:5837:6092:strand:- -             84   1.8e-12   46.7   0.2   1   1   1.1e-16   2.2e-12   46.5   0.2     2    53     4    55     3    59 0.96 Bacterial regulatory proteins, luxR family
+polyprenyl_synt      PF00348.20   256 BGC0000502_ORF6:gid:comQ:pid:AHJ59538.1:loc:6360:7290:strand:+ -            309     5e-15   55.4   1.7   1   1   3.7e-19   7.3e-15   54.9   1.7    24   241    48   248    31   263 0.80 Polyprenyl synthetase
+HisKA_3              PF07730.16    68 BGC0000502_ORF8:gid:comP:pid:AHJ59540.1:loc:7575:9891:strand:+ -            771   1.6e-06   28.7   1.3   1   1   1.9e-10   1.8e-06   28.5   0.1     1    68   573   639   573   639 0.95 Histidine kinase
+HATPase_c            PF02518.29   112 BGC0000502_ORF8:gid:comP:pid:AHJ59540.1:loc:7575:9891:strand:+ -            771   1.9e-06   28.5   0.1   1   1   4.2e-10   4.1e-06   27.4   0.1     5   109   682   770   678   771 0.90 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Response_reg         PF00072.27   112 BGC0000502_ORF9:gid:comA:pid:AHJ59541.1:loc:9896:10550:strand:+ -            217   1.2e-19   70.6   0.9   1   1   1.6e-23   1.6e-19   70.3   0.2     1   111     4   114     4   115 0.98 Response regulator receiver domain
+GerE                 PF00196.22    57 BGC0000502_ORF9:gid:comA:pid:AHJ59541.1:loc:9896:10550:strand:+ -            217   1.4e-15   56.8   0.5   1   1   2.4e-19   2.4e-15   56.0   0.5     3    55   153   205   151   207 0.95 Bacterial regulatory proteins, luxR family
+DUF4135              PF13575.9    377 BGC0000502_ORF10:gid:cerM:pid:AHJ59542.1:loc:10587:13746:strand:- -           1052  4.1e-110  368.7   0.2   1   1  7.4e-114  7.3e-110  367.9   0.2     1   376   215   585   215   586 0.96 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000502_ORF10:gid:cerM:pid:AHJ59542.1:loc:10587:13746:strand:- -           1052   3.1e-73  246.5   2.2   1   1   5.3e-77   5.2e-73  245.8   2.2     2   351   703  1045   702  1046 0.95 Lanthionine synthetase C-like protein
+Mersacidin           PF16934.8     68 BGC0000502_ORF11:gid:cerA7:pid:AHJ59543.1:loc:13901:14135:strand:- -             77   1.2e-15   57.2   0.0   1   1   7.3e-20   1.4e-15   56.9   0.0     8    53    30    76    25    77 0.90 Two-component Enterococcus faecalis cytolysin (EFC)
+Mersacidin           PF16934.8     68 BGC0000502_ORF12:gid:cerA6:pid:AHJ59544.1:loc:14166:14400:strand:- -             77     7e-15   54.7   0.0   1   1   4.3e-19   8.5e-15   54.4   0.0     8    53    30    76    24    77 0.90 Two-component Enterococcus faecalis cytolysin (EFC)
+Mersacidin           PF16934.8     68 BGC0000502_ORF13:gid:cerA5:pid:AHJ59545.1:loc:14431:14665:strand:- -             77     7e-15   54.7   0.0   1   1   4.3e-19   8.5e-15   54.4   0.0     8    53    30    76    24    77 0.90 Two-component Enterococcus faecalis cytolysin (EFC)
+Mersacidin           PF16934.8     68 BGC0000502_ORF14:gid:cerA4:pid:AHJ59546.1:loc:14696:14930:strand:- -             77   7.4e-15   54.6   0.0   1   1   4.7e-19   9.2e-15   54.3   0.0     8    53    30    76    25    77 0.90 Two-component Enterococcus faecalis cytolysin (EFC)
+Mersacidin           PF16934.8     68 BGC0000502_ORF15:gid:cerA3:pid:AHJ59547.1:loc:14961:15195:strand:- -             77     7e-15   54.7   0.0   1   1   4.3e-19   8.5e-15   54.4   0.0     8    53    30    76    24    77 0.90 Two-component Enterococcus faecalis cytolysin (EFC)
+Mersacidin           PF16934.8     68 BGC0000502_ORF16:gid:cerA2:pid:AHJ59548.1:loc:15226:15460:strand:- -             77   7.4e-15   54.6   0.0   1   1   4.7e-19   9.2e-15   54.3   0.0     8    53    30    76    25    77 0.90 Two-component Enterococcus faecalis cytolysin (EFC)
+Mersacidin           PF16934.8     68 BGC0000502_ORF17:gid:cerA1:pid:AHJ59549.1:loc:15491:15725:strand:- -             77   7.4e-15   54.6   0.0   1   1   4.7e-19   9.2e-15   54.3   0.0     8    53    30    76    25    77 0.90 Two-component Enterococcus faecalis cytolysin (EFC)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000502.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000502.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000502.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:50:21 2023
+# [ok]

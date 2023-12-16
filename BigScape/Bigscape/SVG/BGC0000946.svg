@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="277.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="267.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>pvsA
+vibrioferrin biosynthesis protein PvsA</title>
+			<polygon class="pvsA
+vibrioferrin biosynthesis protein PvsA" points="19,25 29,25 29,10 59,40 29,70 29,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pvsB
+vibrioferrin biosynthesis protein PvsB</title>
+			<polygon class="pvsB
+vibrioferrin biosynthesis protein PvsB" points="59,25 90,25 90,10 120,40 90,70 90,55 59,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="74" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="98,28 103,28 115,40 115,40 103,52 98,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pvsC
+multi-drug efflux pump homolog PvsC</title>
+			<polygon class="pvsC
+multi-drug efflux pump homolog PvsC" points="120,25 130,25 130,10 160,40 130,70 130,55 120,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="120,28 143,28 146,31 146,49 143,52 120,52" stroke-linejoin="round" width="26" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pvsD
+vibrioferrin biosynthesis protein PvsD</title>
+			<polygon class="pvsD
+vibrioferrin biosynthesis protein PvsD" points="160,25 191,25 191,10 221,40 191,70 191,55 160,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="176" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="202,28 204,28 216,40 204,52 202,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pvsE
+vibrioferrin biosynthesis protein PvsE</title>
+			<polygon class="pvsE
+vibrioferrin biosynthesis protein PvsE" points="220,25 230,25 230,10 260,40 230,70 230,55 220,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Orn_Arg_deC_N (PF02784)
+"Pyridoxal-dependent decarboxylase, pyridoxal binding domain"</title>
+				<polygon class="PF02784" points="223,28 243,28 247,32 247,48 243,52 223,52" stroke-linejoin="round" width="24" height="24" fill="rgb(106,204,212)" stroke="rgb(84,163,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

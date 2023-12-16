@@ -1,0 +1,41 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0001434_ORF1:gid::pid:ANG60379.1:loc:0:3510:strand:+ -           1169  9.4e-105  351.0   2.8   1   1  3.6e-108  1.4e-104  350.4   2.8     2   437    76   503    75   516 0.95 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001434_ORF1:gid::pid:ANG60379.1:loc:0:3510:strand:+ -           1169  3.9e-102  342.1   0.0   1   1  1.5e-105  5.7e-102  341.6   0.0     1   424   554   948   554   948 0.90 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0001434_ORF1:gid::pid:ANG60379.1:loc:0:3510:strand:+ -           1169   5.2e-15   55.6   0.0   1   1   3.9e-18   1.5e-14   54.1   0.0     2    66  1079  1141  1078  1142 0.94 Phosphopantetheine attachment site
+TubC_N               PF18563.4     52 BGC0001434_ORF1:gid::pid:ANG60379.1:loc:0:3510:strand:+ -           1169   7.7e-10   38.9   1.4   1   1   5.5e-13   2.1e-09   37.4   0.2     3    52     6    55     5    55 0.97 TubC N-terminal docking domain
+AMP-binding_C        PF13193.9     76 BGC0001434_ORF1:gid::pid:ANG60379.1:loc:0:3510:strand:+ -           1169   6.2e-08   33.6   0.0   1   1   5.1e-11     2e-07   32.0   0.0     1    76   956  1050   956  1050 0.79 AMP-binding enzyme C-terminal domain
+Condensation         PF00668.23   457 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567  4.4e-102  342.2   1.7   1   1  3.8e-105  6.8e-102  341.6   1.7     2   436    76   503    75   530 0.95 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567    2e-101  339.8   0.0   1   1  1.7e-104  3.1e-101  339.2   0.0     1   424   551   949   551   949 0.91 AMP-binding enzyme
+Methyltransf_31      PF13847.9    152 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   8.7e-15   55.0   0.0   1   1   2.9e-17   5.2e-14   52.4   0.0     6   124  1076  1193  1073  1221 0.85 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   1.3e-13   51.5   0.1   1   1   4.3e-16   7.7e-13   49.1   0.0     2    97  1078  1174  1077  1174 0.92 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   2.8e-13   50.1   0.0   1   1   5.1e-16   9.1e-13   48.5   0.0     3    66  1478  1539  1477  1540 0.92 Phosphopantetheine attachment site
+Methyltransf_12      PF08242.15    99 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   5.3e-13   49.7   0.1   1   1   8.8e-16   1.6e-12   48.2   0.1     1    99  1078  1176  1078  1176 0.91 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   8.8e-13   48.8   0.1   1   1   1.7e-15   3.1e-12   47.1   0.0     1    95  1078  1177  1078  1178 0.95 Methyltransferase domain
+TubC_N               PF18563.4     52 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   1.3e-09   38.2   1.1   1   1   1.5e-12   2.7e-09   37.1   0.2     1    52     4    55     4    55 0.98 TubC N-terminal docking domain
+NodS                 PF05401.14   201 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   1.1e-08   35.3   0.0   1   1   1.3e-11   2.3e-08   34.3   0.0    47   149  1077  1183  1060  1196 0.91 Nodulation protein S (NodS)
+Methyltransf_23      PF13489.9    165 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567   2.5e-08   34.1   0.0   1   1     3e-11   5.3e-08   33.0   0.0    13   122  1066  1183  1052  1220 0.67 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0001434_ORF2:gid::pid:ANG60380.1:loc:3506:8210:strand:+ -           1567     2e-07   30.7   0.0   1   1   2.3e-10   4.1e-07   29.7   0.0    27   150  1053  1177  1023  1191 0.83 ubiE/COQ5 methyltransferase family
+Condensation         PF00668.23   457 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003  2.2e-167  557.5  17.0   1   2  6.4e-104  1.1e-100  337.6   1.6     2   438    77   507    76   533 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003  2.2e-167  557.5  17.0   2   2   7.4e-70   1.3e-66  225.3   8.0     3   437  1558  1992  1556  1999 0.91 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003  5.3e-100  335.1   0.0   1   1  4.7e-103  8.4e-100  334.5   0.0     1   424   553   947   553   947 0.91 AMP-binding enzyme
+Methyltransf_25      PF13649.9     97 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   5.2e-13   49.6   0.0   1   1   5.2e-15   9.2e-12   45.6   0.0     2    97  1076  1172  1075  1172 0.88 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   5.6e-13   49.1   0.0   1   1   1.4e-15   2.5e-12   47.0   0.0     6   129  1074  1196  1071  1222 0.83 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   2.2e-12   47.6   0.0   1   1   2.3e-14   4.2e-11   43.5   0.0     1    95  1076  1175  1076  1176 0.93 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   1.1e-11   45.4   0.0   1   1   1.9e-14   3.4e-11   43.9   0.0     1    98  1076  1173  1076  1174 0.80 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   2.8e-10   40.5   0.0   1   1     5e-13   8.8e-10   38.9   0.0     1    65  1474  1536  1474  1538 0.94 Phosphopantetheine attachment site
+TubC_N               PF18563.4     52 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   9.3e-09   35.4   0.1   1   1     2e-11   3.5e-08   33.6   0.1     4    52     7    55     5    55 0.96 TubC N-terminal docking domain
+NodS                 PF05401.14   201 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   2.1e-07   31.1   0.0   1   1   2.8e-10   4.9e-07   29.9   0.0    47   149  1075  1181  1056  1188 0.91 Nodulation protein S (NodS)
+Ubie_methyltran      PF01209.21   233 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   5.6e-07   29.3   0.0   1   1     8e-10   1.4e-06   27.9   0.0    27   150  1051  1175  1042  1187 0.86 ubiE/COQ5 methyltransferase family
+Methyltransf_23      PF13489.9    165 BGC0001434_ORF3:gid::pid:ANG60381.1:loc:8206:14218:strand:+ -           2003   1.2e-06   28.6   0.0   1   1   1.6e-09   2.8e-06   27.4   0.0    20   122  1069  1181  1044  1218 0.71 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001434.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001434.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001434.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:10:00 2023
+# [ok]

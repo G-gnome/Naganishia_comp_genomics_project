@@ -1,0 +1,113 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="330.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="320.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tuaA
+unknown</title>
+			<polygon class="tuaA
+unknown" points="17,10 35,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="20,28 24,28 31,40 24,52 20,52" stroke-linejoin="round" width="13" height="24" fill="rgb(57,165,209)" stroke="rgb(45,131,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuaB
+unknown</title>
+			<polygon class="tuaB
+unknown" points="40,25 58,25 58,10 88,40 58,70 58,55 40,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt (PF01943)
+"Polysaccharide biosynthesis protein"</title>
+				<rect class="PF01943" x="40" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(71,213,101)" stroke="rgb(56,170,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polysacc_synt_C (PF14667)
+"Polysaccharide biosynthesis C-terminal domain"</title>
+				<polygon class="PF14667" points="72,28 72,28 84,40 72,52 72,52" stroke-linejoin="round" width="14" height="24" fill="rgb(222,92,150)" stroke="rgb(177,73,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuaC
+unknown</title>
+			<polygon class="tuaC
+unknown" points="88,25 97,25 97,10 127,40 97,70 97,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="89" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(162,57,186)" stroke="rgb(129,45,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="108,28 110,28 122,40 110,52 108,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuaD
+UDP-glucose dehydrogenase</title>
+			<polygon class="tuaD
+UDP-glucose dehydrogenase" points="129,25 145,25 145,10 175,40 145,70 145,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="129" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<rect class="PF00984" x="148" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="160,30 170,40 170,40 160,50" stroke-linejoin="round" width="10" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuaE
+unknown</title>
+			<polygon class="tuaE
+unknown" points="178,25 196,25 196,10 226,40 196,70 196,55 178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzy_C (PF04932)
+"O-Antigen ligase"</title>
+				<polygon class="PF04932" points="203,28 210,28 218,36 218,44 210,52 203,52" stroke-linejoin="round" width="15" height="24" fill="rgb(106,219,107)" stroke="rgb(84,175,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuaF
+unknown</title>
+			<polygon class="tuaF
+unknown" points="228,10 250,40 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzz (PF02706)
+"Chain length determinant protein"</title>
+				<rect class="PF02706" x="228" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(184,132,90)" stroke="rgb(147,105,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuaG
+unknown</title>
+			<polygon class="tuaG
+unknown" points="252,10 277,40 252,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="252,28 263,28 267,33 267,47 263,52 252,52" stroke-linejoin="round" width="15" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tuaH
+unknown</title>
+			<polygon class="tuaH
+unknown" points="278,25 287,25 287,10 317,40 287,70 287,55 278,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_4 (PF13692)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF13692" points="300,28 301,28 313,40 301,52 300,52" stroke-linejoin="round" width="14" height="24" fill="rgb(85,182,142)" stroke="rgb(68,145,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

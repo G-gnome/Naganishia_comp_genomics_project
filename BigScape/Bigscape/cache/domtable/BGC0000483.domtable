@@ -1,0 +1,33 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.4    115 BGC0000483_ORF1:gid::pid:CCH92964.1:loc:1302:5223:strand:- -           1306     7e-31  106.7   0.0   1   1     4e-34   1.6e-30  105.6   0.0     8   115  1190  1297  1183  1297 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0000483_ORF1:gid::pid:CCH92964.1:loc:1302:5223:strand:- -           1306   3.7e-18   65.9   0.0   1   1   3.1e-21   1.2e-17   64.2   0.0    42   269   699   914   646   933 0.82 Subtilase family
+PatG_D               PF18047.4    118 BGC0000483_ORF1:gid::pid:CCH92964.1:loc:1302:5223:strand:- -           1306   1.3e-16   61.2   0.0   1   1   3.5e-19   1.4e-15   57.9   0.0     2   114  1026  1135  1025  1140 0.93 PatG Domain
+Nitroreductase       PF00881.27   168 BGC0000483_ORF1:gid::pid:CCH92964.1:loc:1302:5223:strand:- -           1306   2.7e-12   47.2   0.0   1   1   1.2e-15   4.7e-12   46.4   0.0     1   156   270   465   270   477 0.89 Nitroreductase family
+HTH_57               PF18679.4    112 BGC0000483_ORF1:gid::pid:CCH92964.1:loc:1302:5223:strand:- -           1306   4.5e-09   36.6   0.0   1   1   3.2e-12   1.2e-08   35.2   0.0     3   111     4   110     1   111 0.91 ThcOx helix turn helix domain
+DUF5838              PF19156.3    289 BGC0000483_ORF2:gid:tenF:pid:CCH92965.1:loc:5347:6322:strand:- -            324  4.4e-107  357.9   0.0   1   1  2.6e-111    5e-107  357.7   0.0     1   289    14   303    14   303 0.98 Family of unknown function (DUF5838)
+DUF5838              PF19156.3    289 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571  8.8e-115  383.1   0.5   1   1  6.9e-118  1.3e-114  382.5   0.5     1   289   274   559   274   559 0.98 Family of unknown function (DUF5838)
+Methyltransf_11      PF08241.15    96 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571     7e-20   71.6   0.0   1   1     1e-22     2e-19   70.2   0.0     2    96    64   162    63   162 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   4.2e-17   62.7   0.0   1   1   5.3e-20     1e-16   61.5   0.0     1    97    62   158    62   158 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   5.9e-14   52.3   0.0   1   1   5.4e-17   1.1e-13   51.4   0.0     3   114    58   174    56   225 0.77 Methyltransferase domain
+CMAS                 PF02353.23   273 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   3.9e-10   39.6   0.0   1   1   3.3e-13   6.5e-10   38.9   0.0    56   217    52   215    42   234 0.79 Mycolic acid cyclopropane synthetase
+Methyltransf_12      PF08242.15    99 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   8.2e-10   39.4   0.0   1   1   1.2e-12   2.3e-09   38.0   0.0     2    99    64   160    63   160 0.86 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   9.7e-09   35.0   0.0   1   1   4.1e-11   8.1e-08   32.0   0.0    41   152    52   163    43   226 0.92 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.17   170 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   4.2e-08   33.1   0.0   1   1   3.6e-11   7.1e-08   32.4   0.0    31   138    58   162    34   188 0.86 Methyltransferase small domain
+Methyltransf_23      PF13489.9    165 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   5.6e-08   32.9   0.0   1   1   5.4e-11   1.1e-07   32.0   0.0    19   162    53   210    39   213 0.72 Methyltransferase domain
+Methyltransf_2       PF00891.21   210 BGC0000483_ORF3:gid::pid:CCH92966.1:loc:6398:8114:strand:- -            571   1.7e-06   27.6   0.0   1   1   1.3e-09   2.5e-06   27.1   0.0    60   209    56   208    17   209 0.76 O-methyltransferase domain
+YcaO                 PF02624.19   322 BGC0000483_ORF4:gid::pid:CCH92967.1:loc:8735:11063:strand:- -            775   1.3e-97  327.2   0.0   1   1    1e-101     2e-97  326.5   0.0     1   322   407   738   407   738 0.91 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+PatG_C               PF18065.4    115 BGC0000483_ORF6:gid::pid:CCH92969.1:loc:11750:13724:strand:- -            657   3.9e-38  130.1   0.0   1   1   1.3e-41   8.2e-38  129.1   0.0     3   115   541   653   539   653 0.98 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0000483_ORF6:gid::pid:CCH92969.1:loc:11750:13724:strand:- -            657   9.3e-35  120.3   0.0   1   1   2.3e-38   1.5e-34  119.6   0.0     2   269    13   253    12   282 0.87 Subtilase family
+PatG_D               PF18047.4    118 BGC0000483_ORF6:gid::pid:CCH92969.1:loc:11750:13724:strand:- -            657   2.6e-19   69.9   0.0   1   1   1.6e-22     1e-18   67.9   0.0     1   117   380   494   380   495 0.96 PatG Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000483.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000483.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000483.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:33:56 2023
+# [ok]

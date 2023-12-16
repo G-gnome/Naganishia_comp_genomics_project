@@ -1,0 +1,22 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0000599_ORF1:gid::pid:AED99781.1:loc:0:858:strand:+ -            285   7.7e-26   91.4   0.5   1   1   4.8e-29   4.7e-25   88.8   0.0     1   137    19   160    19   160 0.82 ABC transporter
+AAA_21               PF13304.9    304 BGC0000599_ORF1:gid::pid:AED99781.1:loc:0:858:strand:+ -            285   6.8e-14   52.5   2.8   1   1   1.7e-13   1.7e-09   38.0   0.1   208   298    86   190    66   195 0.75 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_5      PF13346.9    205 BGC0000599_ORF2:gid::pid:AED99780.1:loc:894:1536:strand:+ -            213   7.1e-16   58.5  39.4   1   1   4.1e-20   8.1e-16   58.3  39.4     2   204     7   207     6   208 0.81 ABC-2 family transporter protein
+Radical_SAM          PF04055.24   167 BGC0000599_ORF5:gid::pid:AED99784.1:loc:2031:3552:strand:+ -            506     2e-14   54.4   0.4   1   1   2.1e-18     2e-14   54.4   0.4     3   143   110   262   108   280 0.91 Radical SAM superfamily
+Fer4_12              PF13353.9    137 BGC0000599_ORF5:gid::pid:AED99784.1:loc:2031:3552:strand:+ -            506   4.2e-07   30.7   0.1   1   1   3.4e-10   3.3e-06   27.7   0.0    10   107   109   217   104   243 0.62 4Fe-4S single cluster domain
+Radical_SAM          PF04055.24   167 BGC0000599_ORF6:gid::pid:AED99785.1:loc:3548:4793:strand:+ -            414   1.4e-12   48.4   0.1   1   1     5e-16   2.4e-12   47.6   0.1     4   164   106   270   103   273 0.89 Radical SAM superfamily
+Fer4_12              PF13353.9    137 BGC0000599_ORF6:gid::pid:AED99785.1:loc:3548:4793:strand:+ -            414   4.9e-10   40.2   0.5   1   1   2.2e-13   1.1e-09   39.0   0.5    10   100   104   204    98   232 0.80 4Fe-4S single cluster domain
+SPASM                PF13186.9     68 BGC0000599_ORF6:gid::pid:AED99785.1:loc:3548:4793:strand:+ -            414     1e-05   26.0   0.8   1   1   7.4e-09   3.6e-05   24.3   0.0     6    67   331   386   328   387 0.83 Iron-sulfur cluster-binding domain
+Peptidase_S41        PF03572.21   166 BGC0000599_ORF7:gid::pid:AED99786.1:loc:4823:6014:strand:+ -            397   5.1e-22   78.3   0.4   1   1   5.8e-26   1.1e-21   77.2   0.4     3   166   203   372   201   372 0.83 Peptidase family S41
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000599.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000599.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000599.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:59:33 2023
+# [ok]

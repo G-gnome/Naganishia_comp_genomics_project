@@ -1,0 +1,27 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peripla_BP_2         PF01497.21   237 BGC0002685_ORF1:gid::pid:EET76295.1:loc:0:1074:strand:+ -            357   1.6e-23   83.5   0.0   1   1   1.1e-27   2.2e-23   83.1   0.0     1   234    81   331    81   333 0.88 Periplasmic binding protein
+FecCD                PF01032.21   312 BGC0002685_ORF3:gid::pid:EET76297.1:loc:4663:5668:strand:+ -            334   2.6e-86  289.6  34.1   1   1   1.6e-90   3.2e-86  289.3  34.1     1   312    20   328    19   328 0.99 FecCD transport family
+FecCD                PF01032.21   312 BGC0002685_ORF4:gid:fepG:pid:EET76298.1:loc:5667:6774:strand:+ -            368   1.6e-67  227.9  40.5   1   1     1e-71     2e-67  227.6  40.5     1   310    57   361    54   363 0.97 FecCD transport family
+ABC_tran             PF00005.30   137 BGC0002685_ORF5:gid::pid:EET76299.1:loc:6773:7616:strand:+ -            280   1.5e-28  100.1   0.0   1   1   3.4e-32   2.2e-28   99.6   0.0     1   136    24   172    24   173 0.96 ABC transporter
+AAA_27               PF13514.9    207 BGC0002685_ORF5:gid::pid:EET76299.1:loc:6773:7616:strand:+ -            280     6e-05   22.8   0.0   1   1   1.6e-08    0.0001   22.1   0.0    10    47    17    55    12    58 0.86 AAA domain
+Enterochelin_N       PF11806.11   120 BGC0002685_ORF6:gid::pid:EET76300.1:loc:8120:9524:strand:+ -            467   3.3e-21   76.3   0.0   1   1   9.4e-25   6.2e-21   75.4   0.0     2   118   107   219   106   221 0.92 Enterochelin esterase, N-terminal
+Esterase             PF00756.23   251 BGC0002685_ORF6:gid::pid:EET76300.1:loc:8120:9524:strand:+ -            467   1.4e-15   57.8   0.0   1   1   3.9e-19   2.5e-15   56.9   0.0    23   250   255   449   242   450 0.85 Putative esterase
+AMP-binding          PF00501.31   424 BGC0002685_ORF7:gid::pid:EET76301.1:loc:9791:11492:strand:+ -            566   5.9e-68  229.5   0.0   1   1   6.9e-72   6.8e-68  229.3   0.0     6   423    42   463    37   464 0.83 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002685_ORF7:gid::pid:EET76301.1:loc:9791:11492:strand:+ -            566   2.5e-11   44.5   0.1   1   1   8.9e-15   8.7e-11   42.8   0.1     1    76   472   551   472   551 0.86 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002685_ORF8:gid::pid:EET76302.1:loc:11558:11786:strand:+ -             75   1.5e-07   31.7   0.3   1   1   9.6e-12   1.9e-07   31.4   0.3    19    64    26    71    16    74 0.89 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002685_ORF9:gid::pid:EET76303.1:loc:12056:16397:strand:+ -           1446     2e-85  287.1   0.0   1   1   7.3e-89   3.6e-85  286.3   0.0    16   424   570   996   545   996 0.83 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002685_ORF9:gid::pid:EET76303.1:loc:12056:16397:strand:+ -           1446   7.2e-25   87.7   0.0   1   1   3.5e-22   1.7e-18   66.7   0.0    96   449   157   513   137   521 0.84 Condensation domain
+Thioesterase         PF00975.23   230 BGC0002685_ORF9:gid::pid:EET76303.1:loc:12056:16397:strand:+ -           1446     2e-20   74.1   0.5   1   1     4e-24     2e-20   74.1   0.5     2   225  1204  1443  1203  1446 0.75 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002685_ORF9:gid::pid:EET76303.1:loc:12056:16397:strand:+ -           1446     3e-15   56.4   0.1   1   1   1.4e-18   6.8e-15   55.3   0.1     1    66  1109  1172  1109  1173 0.96 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002685.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002685.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002685.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:01:09 2023
+# [ok]

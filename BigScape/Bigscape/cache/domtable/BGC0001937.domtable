@@ -1,0 +1,23 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fer2_BFD             PF04324.18    51 BGC0001937_ORF1:gid:orf-1:pid:AVW83008.1:loc:0:177:strand:+ -             58   1.7e-11   44.5   0.2   1   1   9.5e-16   1.9e-11   44.3   0.2     1    50    10    58    10    58 0.98 BFD-like [2Fe-2S] binding domain
+PTPS                 PF01242.22   123 BGC0001937_ORF2:gid:tubA:pid:AVW83009.1:loc:443:821:strand:+ -            125   2.4e-29  101.9   0.0   1   1   1.4e-33   2.8e-29  101.7   0.0     2   122     4   120     3   121 0.92 6-pyruvoyl tetrahydropterin synthase
+GTP_cyclohydroI      PF01227.25   179 BGC0001937_ORF4:gid:tubC:pid:AVW83011.1:loc:1640:2240:strand:+ -            199   6.8e-50  169.1   0.0   1   1   3.9e-54   7.7e-50  168.9   0.0     3   177    25   193    23   195 0.92 GTP cyclohydrolase I
+IMPDH                PF00478.28   345 BGC0001937_ORF5:gid:tubD:pid:AVW83012.1:loc:2256:3414:strand:+ -            385  2.6e-119  398.4   4.8   1   1  4.5e-123  2.9e-119  398.2   4.8     1   345    10   366    10   366 0.95 IMP dehydrogenase / GMP reductase domain
+NMO                  PF03060.18   331 BGC0001937_ORF5:gid:tubD:pid:AVW83012.1:loc:2256:3414:strand:+ -            385   3.5e-13   49.8  17.8   1   1   1.6e-16   1.1e-12   48.2  17.8     9   238    42   269    35   278 0.77 Nitronate monooxygenase
+FMN_dh               PF01070.21   348 BGC0001937_ORF5:gid:tubD:pid:AVW83012.1:loc:2256:3414:strand:+ -            385   1.5e-06   27.6  20.3   1   1   1.5e-09     1e-05   24.9  18.9   202   303   147   256   117   264 0.76 FMN-dependent dehydrogenase
+Pribosyltran         PF00156.30   158 BGC0001937_ORF6:gid:tubE:pid:AVW83013.1:loc:3410:3995:strand:+ -            194   3.6e-22   78.6   0.1   1   1   2.2e-26   4.4e-22   78.3   0.1    12   154    34   176    27   180 0.91 Phosphoribosyl transferase domain
+UbiD                 PF01977.19   406 BGC0001937_ORF7:gid:tubF:pid:AVW83014.1:loc:3991:5260:strand:+ -            422   4.8e-53  180.6   0.0   1   1   3.2e-57   6.4e-53  180.2   0.0     9   354    29   362    25   384 0.86 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+PfkB                 PF00294.27   302 BGC0001937_ORF9:gid:tubH:pid:AVW83016.1:loc:5754:6699:strand:- -            314   1.4e-36  126.5   0.1   1   1   9.1e-41   1.8e-36  126.1   0.1     4   294     5   286     3   292 0.90 pfkB family carbohydrate kinase
+MFS_1                PF07690.19   353 BGC0001937_ORF10:gid:tubI:pid:AVW83017.1:loc:6888:8013:strand:+ -            374   3.8e-22   78.8  59.8   1   1   3.6e-25     7e-21   74.7  43.9    19   326     5   297     1   304 0.80 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001937.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001937.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001937.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:24:52 2023
+# [ok]

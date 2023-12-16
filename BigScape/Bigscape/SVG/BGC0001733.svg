@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="289.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="279.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>dapF (PLE7327_RS06800)
+diaminopimelate epimerase</title>
+			<polygon class="dapF (PLE7327_RS06800)
+diaminopimelate epimerase" points="10,10 38,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAP_epimerase (PF01678)
+"Diaminopimelate epimerase"</title>
+				<rect class="PF01678" x="10" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(111,196,62)" stroke="rgb(88,156,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DAP_epimerase (PF01678)
+"Diaminopimelate epimerase"</title>
+				<polygon class="PF01678" points="25,31 34,40 25,49" stroke-linejoin="round" width="11" height="24" fill="rgb(111,196,62)" stroke="rgb(88,156,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PLE7327_RS06805)
+Nif11-like leader peptide family natural product precursor</title>
+			<polygon class=" (PLE7327_RS06805)
+Nif11-like leader peptide family natural product precursor" points="45,10 59,40 45,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nif11 (PF07862)
+"Nif11 domain"</title>
+				<rect class="PF07862" x="45" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(82,202,204)" stroke="rgb(65,161,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PLE7327_RS06810)
+nif11-class peptide radical SAM maturase 3</title>
+			<polygon class=" (PLE7327_RS06810)
+nif11-class peptide radical SAM maturase 3" points="63,25 75,25 75,10 105,40 75,70 75,55 63,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="64" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="88,28 88,28 95,35 95,45 88,52 88,52" stroke-linejoin="round" width="7" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PLE7327_RS24760)
+hypothetical protein</title>
+			<polygon class=" (PLE7327_RS24760)
+hypothetical protein" points="106,10 111,40 106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (PLE7327_RS06815)
+efflux RND transporter permease subunit</title>
+			<polygon class=" (PLE7327_RS06815)
+efflux RND transporter permease subunit" points="214,25 141,25 141,10 111,40 141,70 141,55 214,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="115,40 127,28 213,28 213,52 127,52" stroke-linejoin="round" width="99" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PLE7327_RS06820)
+efflux RND transporter periplasmic adaptor subunit</title>
+			<polygon class=" (PLE7327_RS06820)
+efflux RND transporter periplasmic adaptor subunit" points="278,25 256,25 256,10 226,40 256,70 256,55 278,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_D23 (PF16576)
+"Barrel-sandwich domain of CusB or HlyD membrane-fusion"</title>
+				<polygon class="PF16576" points="234,36 242,28 263,28 263,52 242,52 234,44" stroke-linejoin="round" width="29" height="24" fill="rgb(70,190,92)" stroke="rgb(56,152,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

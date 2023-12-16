@@ -1,0 +1,16 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.28   117 BGC0000852_ORF1:gid:ectA:pid:AAK12083.1:loc:415:958:strand:+ -            180   1.1e-06   29.0   0.0   1   1   9.9e-11   1.9e-06   28.2   0.0    22   115    52   142    33   143 0.87 Acetyltransferase (GNAT) family
+Aminotran_3          PF00202.24   403 BGC0000852_ORF2:gid:ectB:pid:AAK12084.1:loc:1009:2290:strand:+ -            426   6.1e-80  269.0   0.0   1   1   3.6e-84     7e-80  268.8   0.0     7   402    25   419    19   420 0.88 Aminotransferase class-III
+Ectoine_synth        PF06339.15   127 BGC0000852_ORF3:gid:ectC:pid:AAK12085.1:loc:2449:2854:strand:+ -            134     3e-60  202.1   0.2   1   1   1.8e-64   3.5e-60  202.0   0.2     1   125     1   126     1   128 0.98 Ectoine synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000852.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000852.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000852.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:38:17 2023
+# [ok]

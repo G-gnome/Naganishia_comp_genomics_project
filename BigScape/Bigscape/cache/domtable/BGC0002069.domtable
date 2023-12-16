@@ -1,0 +1,27 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6537              PF20169.1    203 BGC0002069_ORF1:gid::pid:TMU80018.1:loc:0:3651:strand:+ -           1216   4.3e-64  216.3   1.4   1   1   6.6e-68   6.5e-64  215.7   1.4     1   202   978  1176   978  1177 0.97 Family of unknown function (DUF6537)
+POR                  PF01558.21   176 BGC0002069_ORF1:gid::pid:TMU80018.1:loc:0:3651:strand:+ -           1216   1.4e-17   64.5   0.6   1   1   3.2e-21   3.1e-17   63.4   0.6     1   170   755   935   755   940 0.84 Pyruvate ferredoxin/flavodoxin oxidoreductase
+AfsA                 PF03756.16   133 BGC0002069_ORF2:gid::pid:TMU80019.1:loc:3714:4779:strand:+ -            354   4.9e-11   42.9   0.5   1   1   5.2e-15     1e-10   41.8   0.5    27   132   124   229   108   230 0.87 A-factor biosynthesis hotdog domain
+Oxidored_FMN         PF00724.23   342 BGC0002069_ORF3:gid::pid:TMU80020.1:loc:4775:5957:strand:+ -            393   5.5e-39  134.5   0.0   1   1   3.4e-43   6.6e-39  134.2   0.0    14   341    24   347    15   348 0.84 NADH:flavin oxidoreductase / NADH oxidase family
+adh_short_C2         PF13561.9    234 BGC0002069_ORF4:gid::pid:TMU80021.1:loc:5953:6727:strand:+ -            257   2.2e-53  181.4   0.0   1   1   4.2e-57   2.7e-53  181.1   0.0     3   234    14   253    11   253 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002069_ORF4:gid::pid:TMU80021.1:loc:5953:6727:strand:+ -            257     5e-48  163.3   0.0   1   1   9.3e-52   6.1e-48  163.0   0.0     1   192     6   201     6   204 0.96 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002069_ORF4:gid::pid:TMU80021.1:loc:5953:6727:strand:+ -            257   1.5e-14   54.4   0.1   1   1   3.4e-18   2.2e-14   53.9   0.1     4   161     9   164     7   170 0.87 KR domain
+adh_short            PF00106.28   195 BGC0002069_ORF5:gid::pid:TMU80022.1:loc:6726:7545:strand:+ -            272   3.7e-16   59.3   0.0   1   1   8.1e-20   5.3e-16   58.8   0.0     3   169    20   181    18   204 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002069_ORF5:gid::pid:TMU80022.1:loc:6726:7545:strand:+ -            272   1.2e-11   44.7   0.0   1   1   2.4e-15   1.5e-11   44.4   0.0     1   158    24   178    24   222 0.93 Enoyl-(Acyl carrier protein) reductase
+Epimerase            PF01370.24   241 BGC0002069_ORF5:gid::pid:TMU80022.1:loc:6726:7545:strand:+ -            272   6.1e-06   26.0   0.0   1   1   1.9e-09   1.3e-05   25.0   0.0     1   172    20   192    20   206 0.79 NAD dependent epimerase/dehydratase family
+AMP-binding          PF00501.31   424 BGC0002069_ORF7:gid::pid:TMU80024.1:loc:7919:9275:strand:+ -            451   1.3e-30  106.5   0.6   1   1   6.5e-30   6.4e-26   91.1   0.0   160   423   128   354   119   355 0.84 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002069_ORF7:gid::pid:TMU80024.1:loc:7919:9275:strand:+ -            451   8.6e-07   30.0   0.3   1   1   3.2e-10   3.1e-06   28.2   0.1     2    67   364   431   363   440 0.85 AMP-binding enzyme C-terminal domain
+ACP_syn_III_C        PF08541.13    90 BGC0002069_ORF9:gid::pid:TMU80026.1:loc:9550:10624:strand:+ -            357   2.2e-22   79.2   0.1   1   1   6.4e-26   6.2e-22   77.7   0.1     1    87   238   323   238   326 0.94 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0002069_ORF9:gid::pid:TMU80026.1:loc:9550:10624:strand:+ -            357   4.3e-17   61.9   2.0   1   1   2.1e-20     2e-16   59.7   2.0     3    74   115   182   113   197 0.89 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002069.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002069.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002069.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:00:35 2023
+# [ok]

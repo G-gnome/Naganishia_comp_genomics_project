@@ -1,0 +1,21 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lantibiotic_a        PF14867.9     29 BGC0000520_ORF1:gid:ORF00035:pid:AAC56053.1:loc:1:181:strand:+ -             59   3.8e-09   36.2   2.9   1   1   2.4e-13   4.7e-09   35.9   2.9     2    29    28    59    27    59 0.90 Lantibiotic alpha
+DUF4135              PF13575.9    377 BGC0000520_ORF3:gid:ORF00037:pid:AAC56011.1:loc:430:3373:strand:+ -            980   7.8e-68  229.5   0.0   1   1   1.1e-71     1e-67  229.1   0.0     1   376   146   512   146   513 0.88 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000520_ORF3:gid:ORF00037:pid:AAC56011.1:loc:430:3373:strand:+ -            980     3e-62  210.4   6.5   1   1   5.2e-66   5.1e-62  209.6   6.5     2   348   636   975   635   979 0.96 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.18   133 BGC0000520_ORF4:gid:ORF00038:pid:AAC56012.1:loc:3399:5526:strand:+ -            708   1.4e-37  128.6   0.0   1   1   4.3e-41   2.8e-37  127.6   0.0     3   132     5   133     3   134 0.97 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000520_ORF4:gid:ORF00038:pid:AAC56012.1:loc:3399:5526:strand:+ -            708   1.4e-33  116.4   0.1   1   1   3.6e-37   2.4e-33  115.7   0.1     1   137   491   639   491   639 0.87 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000520_ORF4:gid:ORF00038:pid:AAC56012.1:loc:3399:5526:strand:+ -            708   4.7e-21   75.8  21.6   1   1   7.2e-25   4.7e-21   75.8  21.6     3   271   163   427   161   430 0.94 ABC transporter transmembrane region
+DUF4135              PF13575.9    377 BGC0000520_ORF5:gid:ORF00039:pid:AAC56013.1:loc:5613:8397:strand:+ -            927   9.5e-67  226.0   0.0   1   1   1.6e-70   1.5e-66  225.3   0.0     1   376   112   485   112   485 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000520_ORF5:gid:ORF00039:pid:AAC56013.1:loc:5613:8397:strand:+ -            927   2.1e-29  102.4   8.3   1   1   4.2e-33   4.1e-29  101.4   8.0   141   344   704   895   600   900 0.81 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000520.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000520.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000520.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:34:24 2023
+# [ok]

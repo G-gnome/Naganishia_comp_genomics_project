@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="276.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="266.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>toxR
+Lys-R type regulatory protein</title>
+			<polygon class="toxR
+Lys-R type regulatory protein" points="19,25 19,25 19,10 49,40 19,70 19,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="19" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="28,28 32,28 44,40 32,52 28,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>toxA
+methyl transferase</title>
+			<polygon class="toxA
+methyl transferase" points="69,10 93,40 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="73,28 80,28 82,31 82,49 80,52 73,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>toxB
+GTP cyclohydrolase II</title>
+			<polygon class="toxB
+GTP cyclohydrolase II" points="98,10 119,40 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_cyclohydro2 (PF00925)
+"GTP cyclohydrolase II"</title>
+				<polygon class="PF00925" points="100,28 107,28 115,40 107,52 100,52" stroke-linejoin="round" width="16" height="24" fill="rgb(50,54,188)" stroke="rgb(40,43,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>toxC
+WD repeat protein</title>
+			<polygon class="toxC
+WD repeat protein" points="119,25 145,25 145,10 175,40 145,70 145,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="119" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="123" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="126" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="130" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<polygon class="PF00400" points="167,36 170,39 170,41 167,44" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>toxD
+hypothetical protein</title>
+			<polygon class="toxD
+hypothetical protein" points="179,25 181,25 181,10 211,40 181,70 181,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGE-sulfatase (PF03781)
+"Sulfatase-modifying factor enzyme 1"</title>
+				<polygon class="PF03781" points="189,28 195,28 207,40 195,52 189,52" stroke-linejoin="round" width="21" height="24" fill="rgb(206,81,170)" stroke="rgb(164,64,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>toxE
+putative deaminase</title>
+			<polygon class="toxE
+putative deaminase" points="212,25 220,25 220,10 250,40 220,70 220,55 212,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dCMP_cyt_deam_1 (PF00383)
+"Cytidine and deoxycytidylate deaminase zinc-binding region"</title>
+				<rect class="PF00383" x="213" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(91,149,216)" stroke="rgb(72,119,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RibD_C (PF01872)
+"RibD C-terminal domain"</title>
+				<polygon class="PF01872" points="228,28 234,28 246,40 234,52 228,52" stroke-linejoin="round" width="20" height="24" fill="rgb(225,80,120)" stroke="rgb(180,64,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,21 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Inhibitor_I10        PF12559.11    64 BGC0002626_ORF2:gid::pid:MBU7585863.1:loc:297:438:strand:+ -             46   7.8e-14   51.8   1.1   1   1   8.1e-13   1.6e-08   34.8   0.2     1    32     1    31     1    34 0.90 Serine endopeptidase inhibitors
+Inhibitor_I10        PF12559.11    64 BGC0002626_ORF3:gid::pid:MBU7585864.1:loc:527:668:strand:+ -             46   7.9e-11   42.2   3.6   1   1   2.5e-12   4.9e-08   33.2   1.0     1    32     1    31     1    36 0.89 Serine endopeptidase inhibitors
+Inhibitor_I10        PF12559.11    64 BGC0002626_ORF4:gid::pid:MBU7585865.1:loc:757:898:strand:+ -             46   2.2e-12   47.1   3.3   1   1   2.2e-13   4.4e-09   36.6   0.5     1    32     1    31     1    36 0.91 Serine endopeptidase inhibitors
+ABC_membrane_2       PF06472.18   269 BGC0002626_ORF7:gid::pid:MBU7585868.1:loc:3403:5434:strand:+ -            676     6e-35  121.0  11.6   1   1   1.1e-38   7.3e-35  120.8   9.8    12   251    48   286    43   302 0.92 ABC transporter transmembrane region 2
+ABC_tran             PF00005.30   137 BGC0002626_ORF7:gid::pid:MBU7585868.1:loc:3403:5434:strand:+ -            676   1.6e-18   67.7   0.0   1   1   5.5e-22   3.6e-18   66.5   0.0     2   137   392   529   391   529 0.91 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002626_ORF7:gid::pid:MBU7585868.1:loc:3403:5434:strand:+ -            676   5.2e-09   36.3  11.8   1   1   1.6e-12     1e-08   35.3  11.8     1   264    53   316    53   326 0.91 ABC transporter transmembrane region
+Acetyltransf_3       PF13302.10   138 BGC0002626_ORF8:gid::pid:MBU7585869.1:loc:5455:5986:strand:+ -            176   6.7e-22   78.8   0.0   1   1   7.9e-26   7.8e-22   78.6   0.0     1   138     8   157     8   157 0.80 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.28   117 BGC0002626_ORF8:gid::pid:MBU7585869.1:loc:5455:5986:strand:+ -            176     3e-11   43.7   0.0   1   1   3.9e-15   3.8e-11   43.4   0.0    23   117    57   156    33   156 0.73 Acetyltransferase (GNAT) family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002626.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002626.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002626.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:07:33 2023
+# [ok]

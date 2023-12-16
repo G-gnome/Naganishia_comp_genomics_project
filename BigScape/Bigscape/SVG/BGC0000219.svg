@@ -1,0 +1,290 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="826.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="816.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+dehydrogenase</title>
+			<polygon class="
+dehydrogenase" points="10,10 23,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+phosphatase</title>
+			<polygon class="
+phosphatase" points="23,10 45,40 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF13419" points="23,28 32,28 40,38 40,42 32,52 23,52" stroke-linejoin="round" width="17" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+membrane protein</title>
+			<polygon class="
+membrane protein" points="48,10 66,40 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6328 (PF19853)
+"Family of unknown function (DUF6328)"</title>
+				<polygon class="PF19853" points="50,28 55,28 62,40 55,52 50,52" stroke-linejoin="round" width="14" height="24" fill="rgb(193,96,201)" stroke="rgb(154,76,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmD
+C12a O-methyltransferase</title>
+			<polygon class="elmD
+C12a O-methyltransferase" points="73,10 102,40 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LCM (PF04072)
+"Leucine carboxyl methyltransferase"</title>
+				<polygon class="PF04072" points="73,28 86,28 90,32 90,48 86,52 73,52" stroke-linejoin="round" width="17" height="24" fill="rgb(94,159,219)" stroke="rgb(75,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmE
+elloramycin permease</title>
+			<polygon class="elmE
+elloramycin permease" points="113,25 135,25 135,10 165,40 135,70 135,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="116,28 148,28 155,35 155,45 148,52 116,52" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmF
+ElmF protein</title>
+			<polygon class="elmF
+ElmF protein" points="165,25 175,25 175,10 205,40 175,70 175,55 165,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MTS (PF05175)
+"Methyltransferase small domain"</title>
+				<polygon class="PF05175" points="182,28 188,28 199,39 199,41 188,52 182,52" stroke-linejoin="round" width="17" height="24" fill="rgb(99,227,110)" stroke="rgb(79,181,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmG
+TcmB2 oxygenase</title>
+			<polygon class="elmG
+TcmB2 oxygenase" points="215,25 239,25 239,10 269,40 239,70 239,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="215" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmH
+TcmF1 monooxygenase</title>
+			<polygon class="elmH
+TcmF1 monooxygenase" points="270,10 281,40 270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="271,28 273,28 277,40 273,52 271,52" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmI
+TcmF2 cyclase</title>
+			<polygon class="elmI
+TcmF2 cyclase" points="282,10 291,40 282,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="282,28 284,28 288,40 284,52 282,52" stroke-linejoin="round" width="9" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmJ
+third ring cyclase</title>
+			<polygon class="elmJ
+third ring cyclase" points="292,10 306,40 292,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="296,28 297,28 303,40 303,40 297,52 296,52" stroke-linejoin="round" width="7" height="24" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmK
+ketoacyl synthase alpha</title>
+			<polygon class="elmK
+ketoacyl synthase alpha" points="306,25 318,25 318,10 348,40 318,70 318,55 306,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="306" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="332,28 332,28 343,39 343,41 332,52 332,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmL
+ketoacyl synthase beta</title>
+			<polygon class="elmL
+ketoacyl synthase beta" points="348,25 359,25 359,10 389,40 359,70 359,55 348,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="349" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="374,30 384,40 374,50" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmM
+acyl carrier protein</title>
+			<polygon class="elmM
+acyl carrier protein" points="390,10 398,40 390,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="390,28 391,28 395,40 391,52 390,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmNI
+aromatase</title>
+			<polygon class="elmNI
+aromatase" points="399,10 414,40 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="399,28 404,28 410,40 404,52 399,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmNII
+C3 O-methyltransferase</title>
+			<polygon class="elmNII
+C3 O-methyltransferase" points="414,25 419,25 419,10 449,40 419,70 419,55 414,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="426,28 432,28 444,40 432,52 426,52" stroke-linejoin="round" width="20" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmP
+carboxyl O-methyltransferase</title>
+			<polygon class="elmP
+carboxyl O-methyltransferase" points="449,10 476,40 449,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LCM (PF04072)
+"Leucine carboxyl methyltransferase"</title>
+				<polygon class="PF04072" points="451,28 461,28 466,33 466,47 461,52 451,52" stroke-linejoin="round" width="15" height="24" fill="rgb(94,159,219)" stroke="rgb(75,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmMI
+rhamnose C2'-methyltransferase</title>
+			<polygon class="elmMI
+rhamnose C2'-methyltransferase" points="477,25 484,25 484,10 514,40 484,70 484,55 477,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MycE_N (PF17843)
+"MycE methyltransferase N-terminal"</title>
+				<rect class="PF17843" x="477" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(83,185,170)" stroke="rgb(66,148,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmGT
+glycosyltransferase</title>
+			<polygon class="elmGT
+glycosyltransferase" points="515,25 523,25 523,10 553,40 523,70 523,55 515,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="532,28 537,28 541,32 541,48 537,52 532,52" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmMII
+rhamnose C3'-methyltransferase</title>
+			<polygon class="elmMII
+rhamnose C3'-methyltransferase" points="553,25 562,25 562,10 592,40 562,70 562,55 553,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MycE_N (PF17843)
+"MycE methyltransferase N-terminal"</title>
+				<rect class="PF17843" x="554" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(83,185,170)" stroke="rgb(66,148,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elmMIII
+rhamnose C4'-methyltransferase</title>
+			<polygon class="elmMIII
+rhamnose C4'-methyltransferase" points="593,10 619,40 593,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TylF (PF05711)
+"Macrocin-O-methyltransferase (TylF)"</title>
+				<polygon class="PF05711" points="593,28 605,28 615,40 605,52 593,52" stroke-linejoin="round" width="24" height="24" fill="rgb(175,228,98)" stroke="rgb(139,182,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+dehydrogenase</title>
+			<polygon class="
+dehydrogenase" points="632,10 658,40 632,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="634,28 644,28 654,40 644,52 634,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+lipase</title>
+			<polygon class="
+lipase" points="658,25 659,25 659,10 689,40 659,70 659,55 658,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="666,28 672,28 684,40 672,52 666,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+solute binding protein</title>
+			<polygon class="
+solute binding protein" points="731,25 720,25 720,10 690,40 720,70 720,55 731,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_8 (PF13416)
+"Bacterial extracellular solute-binding protein"</title>
+				<polygon class="PF13416" points="695,39 706,28 726,28 726,52 706,52 695,41" stroke-linejoin="round" width="31" height="24" fill="rgb(66,211,58)" stroke="rgb(52,168,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+VanW-like protein</title>
+			<polygon class="
+VanW-like protein" points="799,25 771,25 771,10 741,40 771,70 771,55 799,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VanW (PF04294)
+"VanW like protein"</title>
+				<polygon class="PF04294" points="749,36 757,28 761,28 761,52 757,52 749,44" stroke-linejoin="round" width="12" height="24" fill="rgb(52,93,183)" stroke="rgb(41,74,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PG_binding_4 (PF12229)
+"Putative peptidoglycan binding domain"</title>
+				<rect class="PF12229" x="780" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(140,107,215)" stroke="rgb(112,85,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+IclR-family regulator</title>
+			<polygon class="
+IclR-family regulator" points="804,10 816,40 804,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_IclR (PF09339)
+"IclR helix-turn-helix domain"</title>
+				<polygon class="PF09339" points="805,28 807,28 810,33 810,47 807,52 805,52" stroke-linejoin="round" width="5" height="24" fill="rgb(135,102,222)" stroke="rgb(108,81,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

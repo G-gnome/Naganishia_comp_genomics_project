@@ -1,0 +1,16 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Radical_SAM          PF04055.24   167 BGC0001209_ORF2:gid::pid:ABJ66529.1:loc:1088:2408:strand:- -            439     1e-17   65.1   0.1   1   1   2.6e-21   2.6e-17   63.8   0.1     6   166   116   264   111   265 0.89 Radical SAM superfamily
+Fer4_14              PF13394.9    118 BGC0001209_ORF2:gid::pid:ABJ66529.1:loc:1088:2408:strand:- -            439     3e-05   24.2   0.2   1   1   9.1e-09   8.9e-05   22.7   0.0     8    92   117   191   113   219 0.68 4Fe-4S single cluster domain
+HTH_3                PF01381.25    55 BGC0001209_ORF4:gid::pid:ABJ66531.1:loc:2652:3513:strand:- -            286   1.3e-07   31.7   0.0   1   1   1.1e-11   2.2e-07   30.9   0.0     2    55     9    61     8    61 0.94 Helix-turn-helix
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001209.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001209.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001209.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:25:20 2023
+# [ok]

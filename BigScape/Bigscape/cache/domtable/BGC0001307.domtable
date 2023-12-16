@@ -1,0 +1,18 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GtrA                 PF04138.17   117 BGC0001307_ORF1:gid::pid:ALT06551.1:loc:0:399:strand:+ -            132   6.3e-20   71.7  12.0   1   1   3.6e-24   7.1e-20   71.5  12.0     2   117     1   121     1   121 0.98 GtrA-like protein
+Asn_synthase         PF00733.24   355 BGC0001307_ORF3:gid:cptC:pid:ALT06553.1:loc:771:2586:strand:+ -            604   2.7e-36  126.1   0.5   1   1   1.7e-40   3.4e-36  125.8   0.5     2   355   209   593   208   593 0.81 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0001307_ORF4:gid:cptB1:pid:ALT06554.1:loc:2569:2827:strand:+ -             85   1.8e-15   57.1   0.1   1   1   1.1e-19   2.1e-15   56.9   0.1     2    67    16    81    15    81 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0001307_ORF5:gid:cptB2:pid:ALT06555.1:loc:2823:3240:strand:+ -            138   1.5e-27   95.9   5.0   1   1   9.3e-32   1.8e-27   95.7   5.0     2   117    22   133    21   133 0.97 Transglutaminase-like superfamily
+Inhibitor_I36        PF03995.16    69 BGC0001307_ORF6:gid::pid:ALT06556.1:loc:3447:3831:strand:- -            127   4.1e-17   62.0   0.8   1   1   1.3e-20   2.5e-16   59.5   0.1     1    69    26    97    26    97 0.95 Peptidase inhibitor family I36
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001307.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001307.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001307.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:57:23 2023
+# [ok]

@@ -1,0 +1,37 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="380.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="370.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>LOC105629811
+casbene synthase, chloroplastic-like</title>
+			<polygon class="LOC105629811
+casbene synthase, chloroplastic-like" points="12,25 68,25 68,10 98,40 68,70 68,55 12,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_synth (PF01397)
+"Terpene synthase, N-terminal domain"</title>
+				<rect class="PF01397" x="19" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(74,159,219)" stroke="rgb(59,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Terpene_synth_C (PF03936)
+"Terpene synthase family, metal binding domain"</title>
+				<rect class="PF03936" x="39" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(219,91,215)" stroke="rgb(175,72,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LOC105629821
+casbene synthase, chloroplastic</title>
+			<polygon class="LOC105629821
+casbene synthase, chloroplastic" points="253,25 339,25 339,10 369,40 339,70 339,55 253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_synth (PF01397)
+"Terpene synthase, N-terminal domain"</title>
+				<rect class="PF01397" x="260" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(74,159,219)" stroke="rgb(59,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Terpene_synth_C (PF03936)
+"Terpene synthase family, metal binding domain"</title>
+				<rect class="PF03936" x="280" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(219,91,215)" stroke="rgb(175,72,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

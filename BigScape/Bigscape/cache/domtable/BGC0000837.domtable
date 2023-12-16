@@ -1,0 +1,39 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.17   454 BGC0000837_ORF1:gid::pid:AAW85336.1:loc:0:1233:strand:- -            410   3.5e-27   95.5   0.0   1   2   4.1e-12   1.3e-08   34.2   0.0     1    78     8    80     8    99 0.89 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0000837_ORF1:gid::pid:AAW85336.1:loc:0:1233:strand:- -            410   3.5e-27   95.5   0.0   2   2   7.1e-20   2.3e-16   59.8   0.0   143   383    96   358    81   373 0.77 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0000837_ORF1:gid::pid:AAW85336.1:loc:0:1233:strand:- -            410   1.4e-13   51.0   0.0   1   1   5.6e-17   1.8e-13   50.6   0.0     2   165     7   166     6   232 0.81 FAD binding domain
+Methyltransf_2       PF00891.21   210 BGC0000837_ORF2:gid::pid:AAW85337.1:loc:1332:2400:strand:- -            355   1.7e-14   53.8   0.0   1   1   1.3e-18   2.5e-14   53.2   0.0    61   209   178   334   151   335 0.91 O-methyltransferase domain
+Ketoacyl-synt_2      PF13723.9    226 BGC0000837_ORF4:gid::pid:AAW85339.1:loc:3208:3937:strand:+ -            242   3.6e-75  252.6   0.6   1   1   2.3e-79   4.6e-75  252.3   0.6     1   226    27   240    27   240 0.95 Beta-ketoacyl synthase, N-terminal domain
+Acyltransferase      PF01553.24   135 BGC0000837_ORF5:gid::pid:AAW85340.1:loc:3941:4739:strand:+ -            265   2.3e-17   63.0   0.0   1   1   1.9e-21   3.8e-17   62.3   0.0     4   132    77   194    74   197 0.93 Acyltransferase
+PP-binding           PF00550.28    67 BGC0000837_ORF7:gid::pid:AAW85342.1:loc:5015:5273:strand:+ -             85     2e-12   47.4   0.4   1   1   1.2e-16   2.3e-12   47.1   0.4     2    65    12    76    11    78 0.96 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0000837_ORF9:gid::pid:AAW85344.1:loc:5793:7197:strand:+ -            467   1.2e-16   60.5   0.0   1   1   6.1e-16     6e-12   45.0   0.0     7   326    25   295    20   318 0.77 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000837_ORF9:gid::pid:AAW85344.1:loc:5793:7197:strand:+ -            467   4.6e-06   27.6   0.0   1   1   8.2e-10   8.1e-06   26.9   0.0     1    76   369   452   369   452 0.82 AMP-binding enzyme C-terminal domain
+Glycos_transf_2      PF00535.29   170 BGC0000837_ORF11:gid::pid:AAW85346.1:loc:7587:9279:strand:+ -            563   1.5e-23   83.6   0.0   1   1   7.2e-27   7.1e-23   81.4   0.0     2   125     8   130     7   175 0.91 Glycosyl transferase family 2
+Lip_A_acyltrans      PF03279.16   295 BGC0000837_ORF11:gid::pid:AAW85346.1:loc:7587:9279:strand:+ -            563   1.7e-10   40.7   0.0   1   1   2.9e-14   2.9e-10   39.9   0.0    93   293   339   554   326   555 0.80 Bacterial lipid A biosynthesis acyltransferase
+Lyase_aromatic       PF00221.22   463 BGC0000837_ORF12:gid::pid:AAW85347.1:loc:9268:10804:strand:+ -            511  3.4e-164  547.0   0.5   1   1    2e-168  3.8e-164  546.8   0.5     1   454    13   472    13   481 0.95 Aromatic amino acid lyase
+4HBT_2               PF13279.9    123 BGC0000837_ORF13:gid::pid:AAW85348.1:loc:10815:11262:strand:+ -            148     9e-12   45.7   1.1   1   1   1.7e-15   1.1e-11   45.4   1.1     3   107    23   126    21   141 0.88 Thioesterase-like superfamily
+4HBT                 PF03061.25    79 BGC0000837_ORF13:gid::pid:AAW85348.1:loc:10815:11262:strand:+ -            148     1e-10   41.9   0.1   1   1   3.9e-14   2.6e-10   40.6   0.1     1    74    29   108    29   122 0.92 Thioesterase superfamily
+LolA_3               PF19574.2    192 BGC0000837_ORF14:gid::pid:AAW85349.1:loc:11254:11875:strand:+ -            206   2.2e-11   43.5   0.0   1   1   3.5e-15   3.4e-11   42.9   0.0     6   181    25   198    21   203 0.92 Outer membrane lipoprotein carrier protein LolA-like
+LolA                 PF03548.18   165 BGC0000837_ORF14:gid::pid:AAW85349.1:loc:11254:11875:strand:+ -            206   3.3e-09   36.8   1.0   1   1   4.6e-13   4.5e-09   36.4   1.0     5   155    40   193    36   200 0.79 Outer membrane lipoprotein carrier protein LolA
+MMPL                 PF03176.18   333 BGC0000837_ORF15:gid::pid:AAW85350.1:loc:12396:14292:strand:+ -            631   8.3e-15   54.7  17.4   1   2   1.3e-13   2.5e-09   36.7   4.4   115   315    72   262    32   276 0.77 MMPL family
+MMPL                 PF03176.18   333 BGC0000837_ORF15:gid::pid:AAW85350.1:loc:12396:14292:strand:+ -            631   8.3e-15   54.7  17.4   2   2   1.4e-09   2.7e-05   23.4   5.1   190   291   518   608   468   609 0.73 MMPL family
+DUF3261              PF11659.11   139 BGC0000837_ORF16:gid::pid:AAW85351.1:loc:14281:14908:strand:+ -            208   8.1e-34  116.6   0.0   1   1   5.3e-38     1e-33  116.3   0.0     2   138    56   196    55   197 0.94 Protein of unknown function (DUF3261)
+Ketoacyl-synt_C      PF02801.25   119 BGC0000837_ORF17:gid::pid:AAW85352.1:loc:14913:16101:strand:+ -            395   5.3e-29  100.7   0.2   1   1   1.1e-32   1.1e-28   99.7   0.2     5   111   245   345   243   352 0.91 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000837_ORF17:gid::pid:AAW85352.1:loc:14913:16101:strand:+ -            395   8.2e-19   68.3   0.0   1   1   1.4e-21   1.4e-17   64.2   0.0   111   250    95   234    71   237 0.78 Beta-ketoacyl synthase, N-terminal domain
+adh_short_C2         PF13561.9    234 BGC0000837_ORF19:gid::pid:AAW85354.1:loc:16581:17307:strand:+ -            241   1.3e-57  195.2   0.7   1   1   2.3e-61   1.5e-57  195.0   0.7     1   233     9   240     9   241 0.94 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0000837_ORF19:gid::pid:AAW85354.1:loc:16581:17307:strand:+ -            241     1e-51  175.3   0.8   1   1   1.8e-55   1.2e-51  175.1   0.8     2   192     4   196     3   199 0.97 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0000837_ORF19:gid::pid:AAW85354.1:loc:16581:17307:strand:+ -            241   5.8e-21   75.3   0.2   1   1   1.4e-24   8.9e-21   74.7   0.2     3   154     5   158     4   184 0.89 KR domain
+ketoacyl-synt        PF00109.29   253 BGC0000837_ORF20:gid::pid:AAW85355.1:loc:17303:18539:strand:+ -            411   7.3e-37  127.4   1.9   1   1   9.2e-41     9e-37  127.1   0.7     2   253     3   247     2   247 0.87 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000837_ORF20:gid::pid:AAW85355.1:loc:17303:18539:strand:+ -            411     1e-26   93.4   0.0   1   1   1.8e-30   1.8e-26   92.6   0.0     1   118   255   364   255   365 0.95 Beta-ketoacyl synthase, C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000837.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000837.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000837.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:09:23 2023
+# [ok]

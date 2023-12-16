@@ -1,0 +1,18 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CCP_MauG             PF03150.17   150 BGC0002004_ORF1:gid::pid:WP_003614736.1:loc:0:1143:strand:- -            380     9e-45  153.1   0.0   1   1   1.4e-44   1.4e-40  139.5   0.0     2   149    48   203    47   204 0.95 Di-haem cytochrome c peroxidase
+MbnP                 PF20243.1    195 BGC0002004_ORF2:gid::pid:WP_003614734.1:loc:1139:2114:strand:- -            324   1.8e-37  129.2   0.0   1   1   1.1e-41   2.2e-37  129.0   0.0     1   195    30   270    30   270 0.84 MbnP
+Aminotran_1_2        PF00155.24   363 BGC0002004_ORF3:gid::pid:WP_244441328.1:loc:2526:3600:strand:- -            357   9.7e-40  137.0   0.0   1   1   5.6e-44   1.1e-39  136.8   0.0     2   363    19   345    18   345 0.94 Aminotransferase class I and II
+MatE                 PF01554.21   161 BGC0002004_ORF4:gid::pid:WP_003614730.1:loc:3676:4987:strand:- -            436   1.7e-06   28.0   8.0   1   1   8.4e-11   1.7e-06   28.0   8.0     1   141    14   151    14   169 0.95 MatE
+DUF692               PF05114.16   263 BGC0002004_ORF6:gid:mbnB:pid:WP_065083569.1:loc:5542:6373:strand:- -            276     4e-26   91.9   0.0   1   1   2.7e-30   5.2e-26   91.6   0.0    10   251    15   249     6   260 0.81 Protein of unknown function (DUF692)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002004.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002004.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002004.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:28:19 2023
+# [ok]

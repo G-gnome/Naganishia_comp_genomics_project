@@ -1,0 +1,27 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0000129_ORF1:gid::pid:EAL89229.1:loc:0:1802:strand:- -            581     2e-66  224.5   0.0   1   1   2.7e-70   2.7e-66  224.1   0.0    14   424    27   448    19   448 0.84 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000129_ORF1:gid::pid:EAL89229.1:loc:0:1802:strand:- -            581   2.5e-14   54.1   0.0   1   1   7.1e-18     7e-14   52.7   0.0     1    76   477   555   477   555 0.92 AMP-binding enzyme C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000129_ORF2:gid::pid:EAL89230.2:loc:2041:9433:strand:- -           2445     9e-76  254.9   0.0   1   1   6.3e-79   1.8e-75  253.9   0.0     2   253     5   255     4   255 0.98 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0000129_ORF2:gid::pid:EAL89230.2:loc:2041:9433:strand:- -           2445   4.6e-44  151.4   0.1   1   1   3.1e-47   8.7e-44  150.4   0.1     3   283   548   848   547   870 0.86 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0000129_ORF2:gid::pid:EAL89230.2:loc:2041:9433:strand:- -           2445   3.1e-38  131.8   0.0   1   1   3.5e-41   9.9e-38  130.2   0.0     3   288   938  1220   936  1227 0.91 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0000129_ORF2:gid::pid:EAL89230.2:loc:2041:9433:strand:- -           2445   7.6e-30  103.5   0.1   1   1   4.2e-32   1.2e-28   99.7   0.1     2   116   264   386   263   389 0.90 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.13   180 BGC0000129_ORF2:gid::pid:EAL89230.2:loc:2041:9433:strand:- -           2445   1.3e-23   83.9   0.0   1   1   1.1e-26   3.1e-23   82.7   0.0     2   178  2074  2248  2073  2250 0.97 KR domain
+KAsynt_C_assoc       PF16197.8    112 BGC0000129_ORF2:gid::pid:EAL89230.2:loc:2041:9433:strand:- -           2445   1.2e-17   64.6   0.0   1   1   1.2e-20   3.3e-17   63.1   0.0     2   108   392   504   392   508 0.89 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0000129_ORF2:gid::pid:EAL89230.2:loc:2041:9433:strand:- -           2445   3.7e-07   30.5   0.2   1   1   4.3e-10   1.2e-06   28.8   0.2     5    65  2364  2425  2362  2427 0.83 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0000129_ORF3:gid::pid:EBA27371.1:loc:9926:11819:strand:+ -            518   2.1e-37  129.1   0.0   1   1   1.8e-41   3.5e-37  128.4   0.0   111   451   154   496   142   508 0.84 Cytochrome P450
+p450                 PF00067.25   463 BGC0000129_ORF4:gid::pid:EBA27372.1:loc:12647:14424:strand:+ -            502     2e-34  119.3   0.0   1   1   1.3e-38   2.5e-34  119.0   0.0   189   449   219   473   136   487 0.88 Cytochrome P450
+FAD_binding_3        PF01494.22   349 BGC0000129_ORF6:gid::pid:EAL89233.1:loc:16054:17690:strand:+ -            465   2.4e-22   79.8   0.0   1   1   7.9e-26   5.2e-22   78.7   0.0     3   327     2   342     1   345 0.76 FAD binding domain
+UbiA                 PF01040.21   251 BGC0000129_ORF7:gid::pid:EAL89234.2:loc:18044:19128:strand:+ -            320   4.4e-35  121.3  19.9   1   1   2.9e-39   5.6e-35  121.0  19.9     3   245    30   292    28   303 0.83 UbiA prenyltransferase family
+MBOAT_2              PF13813.9     83 BGC0000129_ORF9:gid::pid:EAL89236.1:loc:21706:23079:strand:+ -            429   2.4e-23   82.3   0.7   1   1   4.1e-27   8.1e-23   80.6   0.7     2    83   246   333   245   333 0.91 Membrane bound O-acyl transferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000129.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000129.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000129.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:34:27 2023
+# [ok]

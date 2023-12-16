@@ -1,0 +1,22 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pyridoxal_deC        PF00282.22   375 BGC0002620_ORF1:gid:fulA:pid:QHG11726.1:loc:0:1539:strand:+ -            512   2.5e-67  227.3   0.0   1   1     5e-71   3.3e-67  227.0   0.0    35   374    97   436    69   437 0.92 Pyridoxal-dependent decarboxylase conserved domain
+Aminotran_1_2        PF00155.24   363 BGC0002620_ORF1:gid:fulA:pid:QHG11726.1:loc:0:1539:strand:+ -            512   0.00021   20.7   0.0   1   1   6.3e-08   0.00041   19.8   0.0    95   195   205   303   145   317 0.85 Aminotransferase class I and II
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002620_ORF2:gid:fulB:pid:QHG11727.1:loc:1541:2882:strand:+ -            446  1.4e-121  405.9   0.0   1   1  1.8e-125  1.8e-121  405.6   0.0     2   340     6   342     5   343 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+MFS_1                PF07690.19   353 BGC0002620_ORF3:gid:fulE:pid:QHG11728.1:loc:2878:4054:strand:+ -            391   2.2e-20   73.0  37.1   1   1   2.6e-21   5.1e-17   62.0  26.7     2   303     9   297     8   302 0.81 Major Facilitator Superfamily
+Acetyltransf_8       PF13523.9    145 BGC0002620_ORF4:gid:fulC:pid:QHG11729.1:loc:4070:4670:strand:+ -            199   1.8e-43  147.8   0.0   1   1   1.2e-47   2.3e-43  147.5   0.0     2   144    35   175    34   176 0.98 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 BGC0002620_ORF5:gid:fulD:pid:QHG11730.1:loc:4689:6510:strand:+ -            606   1.2e-76  257.6   0.0   1   1   1.8e-80   1.8e-76  257.0   0.0     2   239   149   397   148   397 0.98 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002620_ORF5:gid:fulD:pid:QHG11730.1:loc:4689:6510:strand:+ -            606   1.3e-43  149.3   0.3   1   1   2.1e-47     2e-43  148.7   0.3     2   161   419   575   418   577 0.97 Ferric iron reductase FhuF-like transporter
+HGSNAT_cat           PF07786.15   223 BGC0002620_ORF6:gid:fulF:pid:QHG11731.1:loc:6555:7797:strand:+ -            413   5.2e-27   95.0  14.8   1   1   5.3e-31   5.2e-27   95.0  14.8     1   191    55   268    55   293 0.80 Heparan-alpha-glucosaminide N-acetyltransferase, catalytic
+Acyl_transf_3        PF01757.25   340 BGC0002620_ORF6:gid:fulF:pid:QHG11731.1:loc:6555:7797:strand:+ -            413   1.1e-11   44.5  40.5   1   1   1.4e-15   1.4e-11   44.2  40.5     3   337    58   392    56   394 0.84 Acyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002620.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002620.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002620.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:32:48 2023
+# [ok]

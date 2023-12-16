@@ -1,0 +1,39 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Radical_SAM          PF04055.24   167 BGC0002043_ORF1:gid::pid:QLH55566.1:loc:0:2055:strand:- -            684   2.2e-15   57.6   0.6   1   1   7.9e-19   1.5e-14   54.8   0.6     3   167   331   490   329   490 0.88 Radical SAM superfamily
+FAD_oxidored         PF12831.10   427 BGC0002043_ORF7:gid::pid:QLH55572.1:loc:5775:7188:strand:+ -            470   5.6e-08   32.6   0.0   1   1   1.4e-11     9e-08   31.9   0.0     3   148    10   179     9   183 0.84 FAD dependent oxidoreductase
+Peripla_BP_2         PF01497.21   237 BGC0002043_ORF9:gid::pid:QLH55574.1:loc:7540:8446:strand:+ -            301   4.8e-25   88.5   0.0   1   1   3.3e-29   6.6e-25   88.1   0.0     8   235    48   273    41   274 0.88 Periplasmic binding protein
+FecCD                PF01032.21   312 BGC0002043_ORF10:gid::pid:QLH55575.1:loc:8458:9421:strand:+ -            320   2.2e-61  207.7  30.2   1   1   1.4e-65   2.7e-61  207.4  30.2     2   312    11   314    10   314 0.96 FecCD transport family
+FecCD                PF01032.21   312 BGC0002043_ORF11:gid::pid:QLH55576.1:loc:9410:10379:strand:+ -            322   2.2e-47  161.7  32.6   1   1   1.4e-51   2.7e-47  161.4  32.6    32   312    34   318    14   318 0.92 FecCD transport family
+ABC_tran             PF00005.30   137 BGC0002043_ORF12:gid::pid:QLH55577.1:loc:10375:11134:strand:+ -            252   1.9e-28   99.8   0.0   1   1   2.6e-32   2.5e-28   99.4   0.0     2   137    18   164    17   164 0.98 ABC transporter
+p450                 PF00067.25   463 BGC0002043_ORF14:gid::pid:QLH55579.1:loc:11482:12835:strand:+ -            450   5.3e-82  276.1   0.0   1   1   3.2e-86   6.3e-82  275.9   0.0     1   446     7   418     7   432 0.91 Cytochrome P450
+Methyltransf_25      PF13649.9     97 BGC0002043_ORF15:gid::pid:QLH55580.1:loc:12818:13433:strand:+ -            204   2.2e-16   60.4   0.0   1   1   1.3e-19   3.5e-16   59.8   0.0     1    97    47   141    47   141 0.98 Methyltransferase domain
+TPMT                 PF05724.14   218 BGC0002043_ORF15:gid::pid:QLH55580.1:loc:12818:13433:strand:+ -            204   8.9e-13   48.5   0.0   1   1   2.7e-15   7.6e-12   45.5   0.0    16   202    24   187    22   198 0.84 Thiopurine S-methyltransferase (TPMT)
+Methyltransf_11      PF08241.15    96 BGC0002043_ORF15:gid::pid:QLH55580.1:loc:12818:13433:strand:+ -            204   3.5e-12   46.9   0.0   1   1   1.8e-15     5e-12   46.4   0.0     1    94    48   143    48   145 0.96 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002043_ORF15:gid::pid:QLH55580.1:loc:12818:13433:strand:+ -            204   7.3e-12   45.5   0.0   1   1   3.1e-15   8.7e-12   45.2   0.0     6   113    46   149    44   194 0.82 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002043_ORF15:gid::pid:QLH55580.1:loc:12818:13433:strand:+ -            204   2.9e-10   40.9   0.0   1   1   1.4e-13   3.9e-10   40.5   0.0     1    98    48   142    48   143 0.84 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002043_ORF15:gid::pid:QLH55580.1:loc:12818:13433:strand:+ -            204     2e-08   34.4   0.0   1   1   8.3e-12   2.3e-08   34.1   0.0    22   117    43   145    11   188 0.80 Methyltransferase domain
+TehB                 PF03848.17   193 BGC0002043_ORF15:gid::pid:QLH55580.1:loc:12818:13433:strand:+ -            204   3.9e-08   33.1   0.0   1   1   1.8e-11   4.9e-08   32.7   0.0    32   129    45   142    35   170 0.90 Tellurite resistance protein TehB
+DUF6596              PF20239.1    102 BGC0002043_ORF16:gid::pid:QLH55581.1:loc:13476:14712:strand:- -            411   3.2e-33  114.2   1.2   1   1   4.9e-37   3.2e-33  114.2   1.2     1   101   179   279   179   280 0.97 Family of unknown function (DUF6596)
+Sigma70_r2           PF04542.17    71 BGC0002043_ORF16:gid::pid:QLH55581.1:loc:13476:14712:strand:- -            411   3.6e-10   39.6   0.3   1   1   1.8e-13   1.2e-09   38.0   0.3     3    70    14    79    13    80 0.92 Sigma-70 region 2
+Sigma70_r4_2         PF08281.15    54 BGC0002043_ORF16:gid::pid:QLH55581.1:loc:13476:14712:strand:- -            411     2e-07   30.7   0.1   1   1   8.4e-11   5.5e-07   29.3   0.1     3    53   110   160   108   161 0.93 Sigma-70, region 4
+YCII                 PF03795.17    95 BGC0002043_ORF17:gid::pid:QLH55582.1:loc:14730:15108:strand:- -            125   1.5e-24   86.4   0.1   1   1   8.6e-29   1.7e-24   86.2   0.1     1    94     6   120     6   121 0.97 YCII-related domain
+Peptidase_M57        PF12388.11   212 BGC0002043_ORF18:gid::pid:QLH55583.1:loc:15306:16194:strand:+ -            295   8.2e-10   38.8   0.7   1   1   2.2e-13   1.4e-09   38.0   0.6    48   151   134   241   111   294 0.79 Dual-action HEIGH metallo-peptidase
+Peptidase_M10        PF00413.27   159 BGC0002043_ORF18:gid::pid:QLH55583.1:loc:15306:16194:strand:+ -            295   1.7e-07   31.4   0.2   1   1   1.5e-10     1e-06   28.8   0.2     2   128   121   242   120   295 0.81 Matrixin
+Aldo_ket_red         PF00248.24   292 BGC0002043_ORF19:gid::pid:QLH55584.1:loc:16435:17407:strand:+ -            323     9e-67  225.3   0.0   1   1   5.5e-71   1.1e-66  225.0   0.0     1   290    15   310    15   311 0.95 Aldo/keto reductase family
+AHSA1                PF08327.14   126 BGC0002043_ORF21:gid::pid:QLH55586.1:loc:18001:18562:strand:- -            186   5.7e-17   62.3   0.1   1   1   9.1e-21   1.8e-16   60.7   0.1     3   125    29   160    27   161 0.85 Activator of Hsp90 ATPase homolog 1-like protein
+AHSA1                PF08327.14   126 BGC0002043_ORF22:gid::pid:QLH55587.1:loc:18588:19077:strand:- -            162   6.2e-11   42.8   0.1   1   1   3.8e-15   7.5e-11   42.5   0.1     3   107    22   119    20   141 0.86 Activator of Hsp90 ATPase homolog 1-like protein
+CSD                  PF00313.25    66 BGC0002043_ORF25:gid::pid:QLH55590.1:loc:20329:20533:strand:+ -             67   3.6e-31  106.9   1.4   1   1     4e-35   3.9e-31  106.8   1.4     2    65     3    66     2    67 0.98 'Cold-shock' DNA-binding domain
+OB_RNB               PF08206.14    58 BGC0002043_ORF25:gid::pid:QLH55590.1:loc:20329:20533:strand:+ -             67   1.4e-05   24.8   0.4   1   1   1.9e-09   1.9e-05   24.4   0.4     7    30    12    35     4    38 0.91 Ribonuclease B OB domain
+DUF99                PF01949.19   183 BGC0002043_ORF26:gid::pid:QLH55591.1:loc:20626:21193:strand:+ -            188   4.6e-49  166.4   0.0   1   1   2.6e-53   5.2e-49  166.3   0.0     4   182     8   179     5   180 0.98 Protein of unknown function DUF99
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002043.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002043.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002043.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:13:32 2023
+# [ok]

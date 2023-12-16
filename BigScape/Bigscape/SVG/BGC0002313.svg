@@ -1,0 +1,125 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="350.46666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="340.46666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sznA
+RNA polymerase sigma-70 factor</title>
+			<polygon class="sznA
+RNA polymerase sigma-70 factor" points="15,10 34,40 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="17,28 23,28 24,30 24,50 23,52 17,52" stroke-linejoin="round" width="7" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="27,34 31,40 27,46" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznB
+O6-methylguanine-DNA--protein-cysteine methyltransferase</title>
+			<polygon class="sznB
+O6-methylguanine-DNA--protein-cysteine methyltransferase" points="35,10 61,40 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_binding_1 (PF01035)
+"6-O-methylguanine DNA methyltransferase, DNA binding domain"</title>
+				<polygon class="PF01035" points="47,28 55,37 55,43 47,52" stroke-linejoin="round" width="8" height="24" fill="rgb(79,155,220)" stroke="rgb(63,123,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ada_Zn_binding (PF02805)
+"Metal binding domain of Ada"</title>
+				<polygon class="PF02805" points="55,37 57,40 55,43" stroke-linejoin="round" width="5" height="24" fill="rgb(176,85,197)" stroke="rgb(140,68,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznC
+methylated-DNA-[protein]-cysteine S methyltransferase</title>
+			<polygon class="sznC
+methylated-DNA-[protein]-cysteine S methyltransferase" points="63,10 81,40 63,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_binding_1 (PF01035)
+"6-O-methylguanine DNA methyltransferase, DNA binding domain"</title>
+				<polygon class="PF01035" points="72,31 77,40 72,49" stroke-linejoin="round" width="8" height="24" fill="rgb(79,155,220)" stroke="rgb(63,123,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznD
+Fe(II)-2-oxoglutarate-dependent oxygenase family protein</title>
+			<polygon class="sznD
+Fe(II)-2-oxoglutarate-dependent oxygenase family protein" points="84,10 109,40 84,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxygenase-NA (PF09859)
+"Oxygenase, catalysing oxidative methylation of damaged DNA"</title>
+				<polygon class="PF09859" points="92,28 95,28 105,40 95,52 92,52" stroke-linejoin="round" width="17" height="24" fill="rgb(78,221,70)" stroke="rgb(62,176,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznE
+methyltransferase domain-containing protein</title>
+			<polygon class="sznE
+methyltransferase domain-containing protein" points="119,25 125,25 125,10 155,40 125,70 125,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PrmA (PF06325)
+"Ribosomal protein L11 methyltransferase (PrmA)"</title>
+				<polygon class="PF06325" points="127,28 138,28 139,29 139,51 138,52 127,52" stroke-linejoin="round" width="12" height="24" fill="rgb(165,213,101)" stroke="rgb(132,170,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznF
+iron-containing redox enzyme</title>
+			<polygon class="sznF
+iron-containing redox enzyme" points="158,25 175,25 175,10 205,40 175,70 175,55 158,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Haem_oxygenas_2 (PF14518)
+"Iron-containing redox enzyme"</title>
+				<polygon class="PF14518" points="175,28 188,28 192,32 192,48 188,52 175,52" stroke-linejoin="round" width="17" height="24" fill="rgb(71,185,105)" stroke="rgb(56,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznG
+rieske domain-containing protein</title>
+			<polygon class="sznG
+rieske domain-containing protein" points="205,10 217,40 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<polygon class="PF00355" points="205,28 209,28 213,37 213,43 209,52 205,52" stroke-linejoin="round" width="8" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznH
+ATP-grasp domain-containing protein</title>
+			<polygon class="sznH
+ATP-grasp domain-containing protein" points="222,25 233,25 233,10 263,40 233,70 233,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_4 (PF13535)
+"ATP-grasp domain"</title>
+				<polygon class="PF13535" points="236,28 247,28 251,32 251,48 247,52 236,52" stroke-linejoin="round" width="15" height="24" fill="rgb(197,156,74)" stroke="rgb(157,124,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznI
+MFS transporter</title>
+			<polygon class="sznI
+MFS transporter" points="263,25 276,25 276,10 306,40 276,70 276,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="265,28 289,28 294,33 294,47 289,52 265,52" stroke-linejoin="round" width="29" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sznJ
+alpha/beta hydrolase</title>
+			<polygon class="sznJ
+alpha/beta hydrolase" points="308,25 309,25 309,10 339,40 309,70 309,55 308,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="315,28 323,28 335,40 335,40 323,52 315,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

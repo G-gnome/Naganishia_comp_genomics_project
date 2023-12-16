@@ -1,0 +1,140 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="480.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="470.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tbmD
+putative glycosyltransferase</title>
+			<polygon class="tbmD
+putative glycosyltransferase" points="49,25 40,25 40,10 10,40 40,70 40,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="14,40 26,28 28,28 28,52 26,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="31" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tbmC
+putative dehydrogenase</title>
+			<polygon class="tbmC
+putative dehydrogenase" points="86,25 82,25 82,10 52,40 82,70 82,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="56,40 68,28 74,28 74,52 68,52" stroke-linejoin="round" width="20" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="75" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tbmA
+2-deoxy-scyllo-inosose synthase</title>
+			<polygon class="tbmA
+2-deoxy-scyllo-inosose synthase" points="131,25 123,25 123,10 93,40 123,70 123,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="99,38 109,28 124,28 124,52 109,52 99,42" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tbmB
+putative 2-deoxy-scyllo-inosose aminotransferase</title>
+			<polygon class="tbmB
+putative 2-deoxy-scyllo-inosose aminotransferase" points="174,25 162,25 162,10 132,40 162,70 162,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="136,40 148,28 171,28 171,52 148,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tacA
+putative carbamoyltransferase</title>
+			<polygon class="tacA
+putative carbamoyltransferase" points="239,25 212,25 212,10 182,40 212,70 212,55 239,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carbam_trans_C (PF16861)
+"Carbamoyltransferase C-terminus"</title>
+				<polygon class="PF16861" points="186,40 198,28 198,28 198,52 198,52" stroke-linejoin="round" width="16" height="24" fill="rgb(183,87,154)" stroke="rgb(146,69,123)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="204" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="231" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="293,25 273,25 273,10 243,40 273,70 273,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="247,40 255,32 255,48" stroke-linejoin="round" width="12" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="264" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="335,25 326,25 326,10 296,40 326,70 326,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="300,40 312,28 332,28 332,52 312,52" stroke-linejoin="round" width="36" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tbmE
+putative transport protein</title>
+			<polygon class="tbmE
+putative transport protein" points="383,25 370,25 370,10 340,40 370,70 370,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="348,36 356,28 378,28 378,52 356,52 348,44" stroke-linejoin="round" width="30" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tacD
+putative dehydrogenase</title>
+			<polygon class="tacD
+putative dehydrogenase" points="423,25 419,25 419,10 389,40 419,70 419,55 423,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="393,40 405,28 405,28 405,52 405,52 393,40" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="410" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="438,25 439,25 439,10 469,40 439,70 439,55 438,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

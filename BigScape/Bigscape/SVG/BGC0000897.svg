@@ -1,0 +1,197 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="691.4333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="681.4333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative transglycosylase</title>
+			<polygon class="
+putative transglycosylase" points="10,10 26,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dhpA
+2-ketoglutarate dependent dioxygenase</title>
+			<polygon class="dhpA
+2-ketoglutarate dependent dioxygenase" points="30,25 30,25 30,10 60,40 30,70 30,55 30,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="32,28 43,28 55,40 43,52 32,52" stroke-linejoin="round" width="26" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpB
+1,2-dihydroxyethylphosphonate kinase</title>
+			<polygon class="dhpB
+1,2-dihydroxyethylphosphonate kinase" points="60,25 68,25 68,10 98,40 68,70 68,55 60,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gly_kinase (PF02595)
+"Glycerate kinase family"</title>
+				<polygon class="PF02595" points="61,28 82,28 94,40 82,52 61,52" stroke-linejoin="round" width="36" height="24" fill="rgb(77,186,228)" stroke="rgb(61,148,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpC
+1-hydroxy-2-phosphorylethylphosphonate dehydrogenase</title>
+			<polygon class="dhpC
+1-hydroxy-2-phosphorylethylphosphonate dehydrogenase" points="101,25 108,25 108,10 138,40 108,70 108,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ldh_2 (PF02615)
+"Malate/L-lactate dehydrogenase"</title>
+				<polygon class="PF02615" points="102,28 121,28 133,40 121,52 102,52" stroke-linejoin="round" width="33" height="24" fill="rgb(125,220,90)" stroke="rgb(100,176,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpD
+predicted aspartate transaminase</title>
+			<polygon class="dhpD
+predicted aspartate transaminase" points="138,25 147,25 147,10 177,40 147,70 147,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="140,28 161,28 173,40 161,52 140,52" stroke-linejoin="round" width="36" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpE
+phosphoenolpyruvate phosphomutase</title>
+			<polygon class="dhpE
+phosphoenolpyruvate phosphomutase" points="178,10 207,40 178,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEP_mutase (PF13714)
+"Phosphoenolpyruvate phosphomutase"</title>
+				<polygon class="PF13714" points="179,28 191,28 203,40 203,40 191,52 179,52" stroke-linejoin="round" width="24" height="24" fill="rgb(215,91,155)" stroke="rgb(172,72,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpF
+phosphonopyruvate decarboxylase</title>
+			<polygon class="dhpF
+phosphonopyruvate decarboxylase" points="208,25 216,25 216,10 246,40 216,70 216,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="208" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="228,28 229,28 241,40 241,40 229,52 228,52" stroke-linejoin="round" width="13" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpG
+alcohol dehydrogenase</title>
+			<polygon class="dhpG
+alcohol dehydrogenase" points="246,25 255,25 255,10 285,40 255,70 255,55 246,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fe-ADH (PF00465)
+"Iron-containing alcohol dehydrogenase"</title>
+				<polygon class="PF00465" points="247,28 269,28 281,40 269,52 247,52" stroke-linejoin="round" width="35" height="24" fill="rgb(73,179,216)" stroke="rgb(58,143,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpH
+aminotransferase/oxidoreductase</title>
+			<polygon class="dhpH
+aminotransferase/oxidoreductase" points="285,25 324,25 324,10 354,40 324,70 324,55 285,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<rect class="PF00266" x="286" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acetyltransf_6 (PF13480)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13480" points="339,29 350,40 339,51" stroke-linejoin="round" width="13" height="24" fill="rgb(110,194,95)" stroke="rgb(88,155,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpI
+SAM-dependent methyltransferase</title>
+			<polygon class="dhpI
+SAM-dependent methyltransferase" points="356,10 377,40 356,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="361,28 365,28 370,35 370,45 365,52 361,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpJ
+predicted peptide aspartate dioxygenase</title>
+			<polygon class="dhpJ
+predicted peptide aspartate dioxygenase" points="380,10 403,40 380,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp_Arg_Hydrox (PF05118)
+"Aspartyl/Asparaginyl beta-hydroxylase"</title>
+				<polygon class="PF05118" points="384,28 390,28 399,40 399,40 390,52 384,52" stroke-linejoin="round" width="15" height="24" fill="rgb(110,77,203)" stroke="rgb(88,61,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpK
+hypothetical protein</title>
+			<polygon class="dhpK
+hypothetical protein" points="405,25 417,25 417,10 447,40 417,70 417,55 405,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FemAB_like (PF04339)
+"Peptidogalycan biosysnthesis/recognition"</title>
+				<polygon class="PF04339" points="420,28 431,28 443,40 431,52 420,52" stroke-linejoin="round" width="26" height="24" fill="rgb(206,229,102)" stroke="rgb(164,183,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpL
+putative integral membrane transporter protein</title>
+			<polygon class="dhpL
+putative integral membrane transporter protein" points="450,25 462,25 462,10 492,40 462,70 462,55 450,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="452,28 476,28 483,35 483,45 476,52 452,52" stroke-linejoin="round" width="31" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpM
+putative sodium/solute symporter</title>
+			<polygon class="dhpM
+putative sodium/solute symporter" points="540,25 520,25 520,10 490,40 520,70 520,55 540,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dhpN
+putative sodium/solute symporter</title>
+			<polygon class="dhpN
+putative sodium/solute symporter" points="557,25 579,25 579,10 609,40 579,70 579,55 557,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SSF (PF00474)
+"Sodium:solute symporter family"</title>
+				<polygon class="PF00474" points="560,28 592,28 599,35 599,45 592,52 560,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,186,178)" stroke="rgb(39,148,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpO
+putative sigma-24</title>
+			<polygon class="dhpO
+putative sigma-24" points="609,10 629,40 609,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="623,36 626,40 623,44" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhpP
+putative lacI family regulator</title>
+			<polygon class="dhpP
+putative lacI family regulator" points="647,25 650,25 650,10 680,40 650,70 650,55 647,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LacI (PF00356)
+"Bacterial regulatory proteins, lacI family"</title>
+				<rect class="PF00356" x="647" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,188,63)" stroke="rgb(52,150,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peripla_BP_3 (PF13377)
+"Periplasmic binding protein-like domain"</title>
+				<polygon class="PF13377" points="664,28 664,28 676,40 664,52 664,52" stroke-linejoin="round" width="15" height="24" fill="rgb(101,208,189)" stroke="rgb(80,166,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

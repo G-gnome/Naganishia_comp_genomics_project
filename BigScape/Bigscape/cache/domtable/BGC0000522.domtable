@@ -1,0 +1,20 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bacteriocin_IIi      PF11758.11    51 BGC0000522_ORF3:gid:lnqZ:pid:BAM73616.1:loc:3086:3248:strand:+ -             53   1.1e-27   95.7   9.4   1   1   6.2e-32   1.2e-27   95.6   9.4     1    51     1    52     1    52 0.98 Aureocin-like type II bacteriocin
+bPH_2                PF03703.17    80 BGC0000522_ORF5:gid:orf4z:pid:BAM73618.1:loc:3550:4069:strand:+ -            172   2.3e-11   43.8   0.0   1   1     2e-15   3.9e-11   43.1   0.0     4    78    81   152    78   154 0.95 Bacterial PH domain
+bPH_2                PF03703.17    80 BGC0000522_ORF6:gid:orf5z:pid:BAM73619.1:loc:4031:5360:strand:+ -            442     4e-16   59.1   0.2   1   2   3.2e-12   6.4e-08   32.8   0.0     3    80    65   143    63   143 0.93 Bacterial PH domain
+bPH_2                PF03703.17    80 BGC0000522_ORF6:gid:orf5z:pid:BAM73619.1:loc:4031:5360:strand:+ -            442     4e-16   59.1   0.2   2   2   5.7e-09   0.00011   22.4   0.1     4    59   233   288   230   312 0.85 Bacterial PH domain
+ABC_tran             PF00005.30   137 BGC0000522_ORF8:gid:orf7z:pid:BAM73621.1:loc:6078:6870:strand:+ -            263   3.1e-17   63.5   0.6   1   1   7.2e-21     7e-17   62.3   0.0     7   137     2   126     1   126 0.76 ABC transporter
+Lac_bphage_repr      PF06543.15    49 BGC0000522_ORF10:gid:orf9z:pid:BAM73623.1:loc:7652:7997:strand:- -            114   3.5e-15   55.8   3.3   1   1   5.4e-19   5.3e-15   55.3   3.3     4    49    69   114    65   114 0.97 Lactococcus bacteriophage repressor
+HTH_19               PF12844.10    65 BGC0000522_ORF10:gid:orf9z:pid:BAM73623.1:loc:7652:7997:strand:- -            114   1.4e-07   31.6   0.5   1   1   3.1e-11     3e-07   30.5   0.5     2    63     4    62     3    64 0.92 Helix-turn-helix domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000522.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000522.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000522.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:56:25 2023
+# [ok]

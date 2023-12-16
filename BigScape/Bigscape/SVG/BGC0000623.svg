@@ -1,0 +1,43 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="113.16666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="103.16666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+plantaricin W beta precursor</title>
+			<polygon class="
+plantaricin W beta precursor" points="13,10 19,40 13,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+plantaricin W alpha precursor</title>
+			<polygon class="
+plantaricin W alpha precursor" points="21,10 27,40 21,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lantibiotic_a (PF14867)
+"Lantibiotic alpha"</title>
+				<polygon class="PF14867" points="23,36 23,40 23,44" stroke-linejoin="round" width="3" height="24" fill="rgb(140,86,183)" stroke="rgb(111,68,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+ABC transporter</title>
+			<polygon class="
+ABC transporter" points="32,25 72,25 72,10 102,40 72,70 72,55 32,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="32" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="47" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="80,28 86,28 94,36 94,44 86,52 80,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ACP_syn_III_C        PF08541.13    90 BGC0002554_ORF1:gid:cqsB1:pid:BBF24923.1:loc:144:1104:strand:+ -            319   5.6e-19   68.2   0.0   1   1   1.7e-21   1.1e-17   64.1   0.0     1    90   228   318   228   318 0.96 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0002554_ORF1:gid:cqsB1:pid:BBF24923.1:loc:144:1104:strand:+ -            319   1.5e-10   40.9   0.0   1   1   5.3e-14   3.5e-10   39.7   0.0     3    75    96   167    94   172 0.86 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Thiolase_N           PF00108.26   260 BGC0002554_ORF1:gid:cqsB1:pid:BBF24923.1:loc:144:1104:strand:+ -            319   1.4e-06   28.0   0.4   1   1   2.1e-10   1.4e-06   28.0   0.4    20   110    36   125    27   149 0.91 Thiolase, N-terminal domain
+TPP_enzyme_N         PF02776.21   172 BGC0002554_ORF3:gid:cqsB3:pid:BBF24925.1:loc:1934:3713:strand:+ -            592   7.9e-40  136.4   0.1   1   1   3.5e-43   2.3e-39  134.9   0.0     1   168     1   176     1   179 0.97 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.24   153 BGC0002554_ORF3:gid:cqsB3:pid:BBF24925.1:loc:1934:3713:strand:+ -            592   7.3e-27   94.2   1.5   1   1   1.6e-30     1e-26   93.7   0.4     1   145   399   543   399   551 0.88 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_M         PF00205.25   137 BGC0002554_ORF3:gid:cqsB3:pid:BBF24925.1:loc:1934:3713:strand:+ -            592   2.6e-25   88.9   0.0   1   1   8.9e-29   5.8e-25   87.7   0.0     2   136   202   334   201   335 0.92 Thiamine pyrophosphate enzyme, central domain
+SQS_PSY              PF00494.22   263 BGC0002554_ORF4:gid:cqsB4:pid:BBF24926.1:loc:3822:4836:strand:+ -            337   1.5e-30  106.7   0.7   1   1     1e-34     2e-30  106.3   0.7     2   255    28   293    27   298 0.89 Squalene/phytoene synthase
+ACP_syn_III_C        PF08541.13    90 BGC0002554_ORF5:gid:cqsB5:pid:BBF24927.1:loc:4832:5843:strand:+ -            336   1.8e-33  114.7   0.0   1   1   3.8e-37   3.8e-33  113.6   0.0     1    90   238   327   238   327 0.99 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0002554_ORF5:gid:cqsB5:pid:BBF24927.1:loc:4832:5843:strand:+ -            336     1e-26   92.7   2.6   1   1   2.3e-30   2.3e-26   91.6   2.6     1    80   106   186   106   186 0.93 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+PP-binding           PF00550.28    67 BGC0002554_ORF6:gid:cqsB6:pid:BBF24928.1:loc:5877:6117:strand:+ -             79   7.5e-07   29.5   0.1   1   1   4.5e-11   8.7e-07   29.3   0.1    20    60    25    66     6    73 0.76 Phosphopantetheine attachment site
+Aminotran_1_2        PF00155.24   363 BGC0002554_ORF7:gid:cqsB7:pid:BBF24929.1:loc:6116:7094:strand:+ -            325   1.4e-37  129.9   0.0   1   1   8.1e-42   1.6e-37  129.7   0.0    13   362    14   323     5   324 0.90 Aminotransferase class I and II
+NUDIX                PF00293.31   131 BGC0002554_ORF8:gid:cqsB8:pid:BBF24930.1:loc:7166:7739:strand:- -            190   5.2e-24   84.9   0.0   1   1   3.5e-28   6.9e-24   84.5   0.0     2   118    41   160    40   172 0.92 NUDIX domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002554.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002554.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002554.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:21:53 2023
+# [ok]

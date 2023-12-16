@@ -1,0 +1,33 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6023              PF19487.2    150 BGC0001077_ORF1:gid::pid:BAL92975.1:loc:0:453:strand:- -            150     3e-63  212.3   1.4   1   1   1.7e-67   3.3e-63  212.2   1.4     1   148     1   148     1   150 0.99 Family of unknown function (DUF6023)
+Chal_sti_synt_C      PF02797.18   151 BGC0001077_ORF2:gid:agqA:pid:BAL92976.1:loc:449:1508:strand:- -            352   4.7e-23   82.0   0.0   1   1   1.9e-26   9.4e-23   81.0   0.0    13   148   220   346   212   349 0.89 Chalcone and stilbene synthases, C-terminal domain
+Chal_sti_synt_N      PF00195.22   225 BGC0001077_ORF2:gid:agqA:pid:BAL92976.1:loc:449:1508:strand:- -            352   3.7e-19   69.2   0.1   1   1   1.2e-22   5.8e-19   68.5   0.1    14   222     4   201     2   204 0.89 Chalcone and stilbene synthases, N-terminal domain
+ACP_syn_III_C        PF08541.13    90 BGC0001077_ORF2:gid:agqA:pid:BAL92976.1:loc:449:1508:strand:- -            352   8.7e-11   42.0   0.0   1   1   5.6e-14   2.7e-10   40.4   0.0     1    88   257   345   257   346 0.89 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+Acyl-CoA_dh_M        PF02770.22    97 BGC0001077_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384     4e-17   62.3   0.0   1   1   1.7e-20   8.5e-17   61.3   0.0     1    95   120   210   120   212 0.91 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_2        PF08028.14   134 BGC0001077_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384   1.2e-14   54.8  15.8   1   1   2.4e-18   1.2e-14   54.8  15.8     2   126   240   352   239   358 0.92 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_1        PF00441.27   150 BGC0001077_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384   3.3e-13   50.2   7.9   1   1   1.3e-16   6.4e-13   49.3   7.9    17   132   240   353   227   366 0.92 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.19   113 BGC0001077_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384   3.3e-11   43.9   0.1   1   1   6.8e-15   3.3e-11   43.9   0.1     9    89     3    82     1    88 0.91 Acyl-CoA dehydrogenase, N-terminal domain
+Methyltransf_11      PF08241.15    96 BGC0001077_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   4.6e-20   72.2   0.1   1   1   2.5e-23   7.1e-20   71.6   0.1     1    96    51   140    51   140 0.96 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001077_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   8.1e-14   52.2   0.0   1   1   4.4e-17   1.2e-13   51.6   0.0     2    97    51   136    50   136 0.96 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001077_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   2.8e-13   50.1   0.0   1   1   1.3e-16   3.7e-13   49.8   0.0     9   123    32   146    21   182 0.81 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001077_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   1.9e-10   41.5   0.0   1   1   1.2e-13   3.4e-10   40.7   0.0     1    99    51   138    51   138 0.83 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001077_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235     2e-09   37.5   0.0   1   1     1e-12   2.9e-09   37.0   0.0     6   113    49   144    44   161 0.89 Methyltransferase domain
+MetW                 PF07021.15   193 BGC0001077_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   8.9e-05   22.3   0.0   1   1   4.5e-08   0.00013   21.8   0.0    13   107    46   140    36   157 0.83 Methionine biosynthesis protein MetW
+Ubie_methyltran      PF01209.21   233 BGC0001077_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235    0.0002   20.9   0.0   1   1     1e-07   0.00028   20.4   0.0    88   151    77   140    43   152 0.84 ubiE/COQ5 methyltransferase family
+UbiA                 PF01040.21   251 BGC0001077_ORF5:gid:agqD:pid:BAL92979.1:loc:3418:4216:strand:+ -            265     2e-22   79.8  28.3   1   1   1.2e-26   2.4e-22   79.6  28.3     5   233    14   239    11   257 0.80 UbiA prenyltransferase family
+AAA_25               PF13481.9    194 BGC0001077_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474   1.1e-15   57.8   1.8   1   1   2.2e-19   1.1e-15   57.8   1.8     8   194    71   229    63   229 0.82 AAA domain
+ATPase               PF06745.16   231 BGC0001077_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474   8.2e-15   54.9   0.0   1   1   2.4e-14   1.2e-10   41.3   0.0     1    77    78   154    78   161 0.95 KaiC
+Rubredoxin_2         PF18073.4     28 BGC0001077_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474   4.5e-12   45.5   4.7   1   1   1.4e-15     7e-12   44.9   4.7     1    28    15    42    15    42 0.96 Rubredoxin metal binding domain
+DnaB_C               PF03796.18   254 BGC0001077_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474     6e-08   32.4   0.0   1   1   2.3e-10   1.1e-06   28.2   0.0     2    66    78   143    77   154 0.91 DnaB-like helicase C terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001077.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001077.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001077.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:15:50 2023
+# [ok]

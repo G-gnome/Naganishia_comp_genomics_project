@@ -1,0 +1,33 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Capsule_synth        PF05159.17   310 BGC0000734_ORF1:gid:phyB:pid:AAC67247.1:loc:1156:2383:strand:- -            408    5e-140  466.4   0.7   1   1  3.2e-144  6.2e-140  466.2   0.7     1   310    87   397    87   397 1.00 Capsule polysaccharide biosynthesis protein
+Capsule_synth        PF05159.17   310 BGC0000734_ORF2:gid:phyA:pid:AAC67248.1:loc:2392:4483:strand:- -            696  1.6e-131  438.5   0.0   1   3   1.4e-92   2.8e-88  296.5   0.0     2   310    52   315    51   315 0.98 Capsule polysaccharide biosynthesis protein
+Capsule_synth        PF05159.17   310 BGC0000734_ORF2:gid:phyA:pid:AAC67248.1:loc:2392:4483:strand:- -            696  1.6e-131  438.5   0.0   2   3   1.6e-12   3.1e-08   33.5   0.0     3   103   392   484   390   501 0.76 Capsule polysaccharide biosynthesis protein
+Capsule_synth        PF05159.17   310 BGC0000734_ORF2:gid:phyA:pid:AAC67248.1:loc:2392:4483:strand:- -            696  1.6e-131  438.5   0.0   3   3   1.6e-33   3.1e-29  102.6   0.0   118   309   472   645   463   646 0.86 Capsule polysaccharide biosynthesis protein
+Glycos_transf_2      PF00535.29   170 BGC0000734_ORF4:gid:hyaD:pid:AAC67250.2:loc:6716:9635:strand:+ -            972     2e-57  193.8   0.4   1   2   1.3e-27   5.1e-24   85.1   0.0     1   123   161   282   161   356 0.84 Glycosyl transferase family 2
+Glycos_transf_2      PF00535.29   170 BGC0000734_ORF4:gid:hyaD:pid:AAC67250.2:loc:6716:9635:strand:+ -            972     2e-57  193.8   0.4   2   2   3.4e-33   1.3e-29  103.3   0.0     1   132   443   571   443   600 0.85 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0000734_ORF4:gid:hyaD:pid:AAC67250.2:loc:6716:9635:strand:+ -            972   1.1e-27   97.5   0.0   1   2   8.6e-15   3.4e-11   43.6   0.0     4   127   160   280   157   398 0.74 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0000734_ORF4:gid:hyaD:pid:AAC67250.2:loc:6716:9635:strand:+ -            972   1.1e-27   97.5   0.0   2   2   4.3e-17   1.7e-13   51.1   0.0     4   161   442   596   440   600 0.90 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0000734_ORF4:gid:hyaD:pid:AAC67250.2:loc:6716:9635:strand:+ -            972   7.1e-16   58.6   6.6   1   1   1.6e-10   6.2e-07   29.3   0.2     6   200   448   621   443   644 0.67 Glycosyltransferase like family 2
+UDPG_MGDP_dh_N       PF03721.17   187 BGC0000734_ORF5:gid:hyaC:pid:AAC67251.2:loc:9698:10871:strand:+ -            390   1.4e-34  119.4   0.6   1   1     2e-37   7.8e-34  117.0   0.6     2   181     3   169     2   176 0.91 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.22    94 BGC0000734_ORF5:gid:hyaC:pid:AAC67251.2:loc:9698:10871:strand:+ -            390   5.8e-26   90.6   0.0   1   1   2.8e-29   1.1e-25   89.7   0.0     2    93   193   282   192   283 0.96 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.18   105 BGC0000734_ORF5:gid:hyaC:pid:AAC67251.2:loc:9698:10871:strand:+ -            390   2.2e-12   47.5   0.1   1   1   1.2e-12   4.6e-09   36.8   0.0     2    82   302   376   301   384 0.89 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+ApbA                 PF02558.19   152 BGC0000734_ORF5:gid:hyaC:pid:AAC67251.2:loc:9698:10871:strand:+ -            390   1.7e-05   24.6   0.1   1   1   2.3e-08   9.2e-05   22.3   0.0     1    78     4    84     4   139 0.86 Ketopantoate reductase PanE/ApbA
+Glycos_transf_2      PF00535.29   170 BGC0000734_ORF6:gid::pid:AAC67252.2:loc:10863:12297:strand:+ -            477     3e-31  108.7   0.0   1   1   7.5e-35   4.9e-31  107.9   0.0     1   113   217   328   217   365 0.93 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0000734_ORF6:gid::pid:AAC67252.2:loc:10863:12297:strand:+ -            477   8.7e-15   55.3   0.0   1   1   1.9e-18   1.2e-14   54.8   0.0     4   129   216   336   213   383 0.91 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0000734_ORF6:gid::pid:AAC67252.2:loc:10863:12297:strand:+ -            477     8e-08   32.2   0.2   1   1   2.7e-11   1.8e-07   31.1   0.2     5   104   221   317   216   334 0.78 Glycosyltransferase like family 2
+Poly_export          PF02563.19    82 BGC0000734_ORF7:gid:hexD:pid:AAC67254.1:loc:12315:13497:strand:+ -            393     3e-16   59.6   0.0   1   1   7.2e-20   7.1e-16   58.4   0.0     3    81    77   169    73   170 0.89 Polysaccharide biosynthesis/export protein
+SLBB                 PF10531.12    58 BGC0000734_ORF7:gid:hexD:pid:AAC67254.1:loc:12315:13497:strand:+ -            393   5.8e-07   29.4   0.1   1   1   1.3e-06     0.012   15.5   0.0    18    47   193   223   185   227 0.88 SLBB domain
+ABC2_membrane        PF01061.27   210 BGC0000734_ORF9:gid:hexB:pid:AAC67256.1:loc:14642:15440:strand:+ -            265   1.2e-20   74.0  25.2   1   1   6.2e-25   1.2e-20   74.0  25.2     2   210    19   227    18   227 0.89 ABC-2 type transporter
+ABC_tran             PF00005.30   137 BGC0000734_ORF10:gid:hexA:pid:AAC67257.1:loc:15436:16096:strand:+ -            219   9.7e-19   68.4   0.0   1   1   4.8e-22   4.7e-18   66.1   0.0     1   135    21   149    21   151 0.75 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000734.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000734.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000734.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:27:16 2023
+# [ok]

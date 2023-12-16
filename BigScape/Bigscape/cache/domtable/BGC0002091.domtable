@@ -1,0 +1,40 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Mntp                 PF02659.18   152 BGC0002091_ORF1:gid::pid:EEP98509.1:loc:1:571:strand:+ -            189   4.1e-56  189.1  18.5   1   1   9.4e-60   1.8e-55  187.0  11.0     2   152    31   181    30   181 0.99 Putative manganese efflux pump
+Flavoprotein         PF02441.22   157 BGC0002091_ORF2:gid::pid:EEP98510.1:loc:657:1203:strand:- -            181   3.5e-29  101.7   0.0   1   1     2e-33   3.9e-29  101.6   0.0     1   151     4   175     4   181 0.82 Flavoprotein
+Bac_globin           PF01152.24   121 BGC0002091_ORF3:gid::pid:EEP98511.1:loc:1264:1696:strand:- -            143   1.5e-08   34.9   0.1   1   1     1e-12     2e-08   34.5   0.1     6    99     1    92     1   104 0.86 Bacterial-like globin
+Acetyltransf_18      PF18014.4    123 BGC0002091_ORF4:gid::pid:EEP98512.1:loc:1776:2649:strand:- -            290   2.4e-19   69.5   0.0   1   1   6.5e-23   4.3e-19   68.7   0.0     1   114   160   275   160   282 0.93 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.28   117 BGC0002091_ORF4:gid::pid:EEP98512.1:loc:1776:2649:strand:- -            290   4.6e-11   43.1   0.0   1   1   5.2e-14   3.4e-10   40.3   0.1    24    93    42   110    18   126 0.78 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.10   128 BGC0002091_ORF4:gid::pid:EEP98512.1:loc:1776:2649:strand:- -            290   2.7e-08   34.0   0.0   1   1   1.5e-11     1e-07   32.1   0.0    33   112    53   131    43   139 0.84 Acetyltransferase (GNAT) domain
+Acyl-CoA_dh_1        PF00441.27   150 BGC0002091_ORF5:gid::pid:EEP98513.1:loc:2673:3804:strand:- -            376   1.2e-34  119.9   0.0   1   1   3.3e-38   1.6e-34  119.4   0.0     6   149   231   374   226   375 0.98 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.19   113 BGC0002091_ORF5:gid::pid:EEP98513.1:loc:2673:3804:strand:- -            376   8.5e-26   90.9   0.0   1   1     4e-29     2e-25   89.8   0.0     2   113     4   115     3   115 0.94 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_M        PF02770.22    97 BGC0002091_ORF5:gid::pid:EEP98513.1:loc:2673:3804:strand:- -            376   1.2e-23   83.2   0.0   1   1   4.3e-27   2.1e-23   82.4   0.0     1    97   119   214   119   214 0.95 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_2        PF08028.14   134 BGC0002091_ORF5:gid::pid:EEP98513.1:loc:2673:3804:strand:- -            376   8.3e-12   45.6   0.0   1   1   2.6e-15   1.3e-11   45.0   0.0     1   129   241   359   241   364 0.92 Acyl-CoA dehydrogenase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0002091_ORF6:gid::pid:EEP98514.1:loc:3820:4552:strand:- -            243     5e-21   76.0   0.0   1   1   6.2e-25   6.1e-21   75.7   0.0     3   218     2   222     1   233 0.89 Thioesterase domain
+GMC_oxred_N          PF00732.22   296 BGC0002091_ORF7:gid::pid:EEP98515.1:loc:4572:6180:strand:- -            535   1.4e-64  218.4   0.0   1   1   1.1e-66   5.4e-63  213.2   0.0     1   295     6   316     6   317 0.89 GMC oxidoreductase
+GMC_oxred_C          PF05199.16   145 BGC0002091_ORF7:gid::pid:EEP98515.1:loc:4572:6180:strand:- -            535   1.3e-27   97.2   0.0   1   1   4.4e-31   2.1e-27   96.5   0.0     1   145   387   526   387   526 0.94 GMC oxidoreductase
+AMP-binding          PF00501.31   424 BGC0002091_ORF8:gid::pid:EEP98516.1:loc:6188:9560:strand:- -           1123     1e-90  304.5   0.0   1   1   2.9e-94   1.4e-90  304.0   0.0     3   423   533   925   531   926 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002091_ORF8:gid::pid:EEP98516.1:loc:6188:9560:strand:- -           1123   5.7e-26   91.3   0.0   1   1   1.7e-29   8.3e-26   90.8   0.0    40   450   102   507    91   513 0.81 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0002091_ORF8:gid::pid:EEP98516.1:loc:6188:9560:strand:- -           1123   4.1e-12   47.0   0.0   1   1   2.3e-15   1.1e-11   45.6   0.0     1    76   934  1014   934  1014 0.90 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002091_ORF8:gid::pid:EEP98516.1:loc:6188:9560:strand:- -           1123   3.5e-06   27.3   0.0   1   1   2.4e-09   1.2e-05   25.7   0.0     2    52  1043  1091  1042  1109 0.86 Phosphopantetheine attachment site
+MFS_1                PF07690.19   353 BGC0002091_ORF9:gid::pid:EEP98517.1:loc:10392:11754:strand:+ -            453   4.7e-43  147.6  56.6   1   1   2.4e-47   4.7e-43  147.6  56.6     4   352    12   406    10   407 0.91 Major Facilitator Superfamily
+Rhodanese            PF00581.23   107 BGC0002091_ORF10:gid::pid:EEP98518.1:loc:11810:12359:strand:- -            182   4.1e-17   62.8   0.0   1   1   3.6e-21   7.2e-17   62.0   0.0     2   107    83   174    82   174 0.90 Rhodanese-like domain
+DUF2938              PF11158.11   150 BGC0002091_ORF11:gid::pid:EEP98519.1:loc:12617:13124:strand:+ -            168   8.1e-62  207.3   7.5   1   1   4.7e-66   9.3e-62  207.1   7.5     1   149    14   162    14   163 0.99 Protein of unknown function (DUF2938)
+Methyltransf_25      PF13649.9     97 BGC0002091_ORF13:gid::pid:EEP98521.1:loc:13928:14783:strand:- -            284   1.8e-11   44.7   0.0   1   1   7.8e-15   3.9e-11   43.6   0.0     2    73    90   160    89   175 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002091_ORF13:gid::pid:EEP98521.1:loc:13928:14783:strand:- -            284   4.8e-11   43.3   0.1   1   1   3.1e-14   1.5e-10   41.7   0.1     1    85    90   168    90   179 0.81 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002091_ORF13:gid::pid:EEP98521.1:loc:13928:14783:strand:- -            284   5.7e-09   36.1   0.0   1   1   1.9e-12   9.3e-09   35.4   0.0     3   114    85   186    83   237 0.77 Methyltransferase domain
+Transpeptidase       PF00905.25   306 BGC0002091_ORF14:gid::pid:EEP98522.1:loc:14880:16590:strand:- -            569   4.2e-79  266.0   0.0   1   1   5.3e-83   5.3e-79  265.7   0.0     1   305   253   547   253   548 0.95 Penicillin binding protein transpeptidase domain
+PBP_dimer            PF03717.18   181 BGC0002091_ORF14:gid::pid:EEP98522.1:loc:14880:16590:strand:- -            569   3.1e-16   60.3   0.0   1   1   9.8e-19   9.6e-15   55.5   0.0     3   179    61   213    59   215 0.91 Penicillin-binding Protein dimerisation domain
+Cu-oxidase_4         PF02578.18   236 BGC0002091_ORF15:gid::pid:EEP98523.1:loc:16801:17542:strand:+ -            246   7.3e-43  146.9   0.1   1   1   4.5e-47   8.9e-43  146.6   0.1    49   214    39   192    25   210 0.86 Multi-copper polyphenol oxidoreductase laccase
+DUF2527              PF10736.12    38 BGC0002091_ORF17:gid::pid:EEP98525.1:loc:17856:17973:strand:- -             38   4.2e-29  100.2   5.6   1   1   2.3e-33   4.5e-29  100.1   5.6     1    38     1    38     1    38 1.00 Protein of unknown function (DUF2627)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002091.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002091.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002091.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:01:54 2023
+# [ok]

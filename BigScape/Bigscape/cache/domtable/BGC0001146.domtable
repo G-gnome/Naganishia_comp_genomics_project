@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nitroreductase       PF00881.27   168 BGC0001146_ORF2:gid:ctmB:pid:AID54692.1:loc:1895:3479:strand:+ -            527   6.9e-18   65.4   0.0   1   2   3.3e-11   6.5e-07   29.7   0.0    28   163   115   249    84   255 0.75 Nitroreductase family
+Nitroreductase       PF00881.27   168 BGC0001146_ORF2:gid:ctmB:pid:AID54692.1:loc:1895:3479:strand:+ -            527   6.9e-18   65.4   0.0   2   2   2.5e-12     5e-08   33.4   0.0    10   168   348   514   338   514 0.76 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0001146_ORF4:gid:ctmD:pid:AID54694.1:loc:3900:5853:strand:+ -            650   1.8e-76  257.6   4.8   1   1   1.3e-80   2.5e-76  257.2   4.8     2   321   260   605   259   606 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_N        PF04738.16   650 BGC0001146_ORF5:gid:ctmE:pid:AID54695.1:loc:5938:8533:strand:+ -            864   2.6e-42  144.8   2.5   1   1   1.3e-46   2.6e-42  144.8   2.5     1   634   140   787   140   795 0.82 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0001146_ORF6:gid:ctmF:pid:AID54696.1:loc:8519:9533:strand:+ -            337   1.2e-57  195.9   5.2   1   1   7.4e-62   1.4e-57  195.7   5.2     1   286    18   327    18   329 0.90 Lantibiotic biosynthesis dehydratase C-term
+GerE                 PF00196.22    57 BGC0001146_ORF7:gid:luxR:pid:AID54697.1:loc:9606:12498:strand:- -            963   1.4e-11   44.0   0.0   1   1   2.9e-15   2.8e-11   42.9   0.0     2    54   839   891   838   894 0.96 Bacterial regulatory proteins, luxR family
+AAA_16               PF13191.9    170 BGC0001146_ORF7:gid:luxR:pid:AID54697.1:loc:9606:12498:strand:- -            963   2.7e-09   37.7   1.1   1   1   2.8e-13   2.7e-09   37.7   1.1     1    55     2    56     2    81 0.84 AAA ATPase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001146.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001146.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001146.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:41:24 2023
+# [ok]

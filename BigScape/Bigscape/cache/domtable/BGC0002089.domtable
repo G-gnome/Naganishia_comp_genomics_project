@@ -1,0 +1,37 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002089_ORF1:gid:txtC:pid:CBG70274.1:loc:100:1288:strand:- -            395   1.4e-30  106.6   0.0   1   1   5.1e-29     1e-24   87.3   0.0   252   432   213   364   194   366 0.90 Cytochrome P450
+BBE                  PF08031.15    46 BGC0002089_ORF2:gid::pid::loc:1350:1500:strand:- -             48   6.3e-10   39.1   0.1   1   1   3.4e-14   6.7e-10   39.0   0.1     2    45     8    48     7    48 0.92 Berberine and berberine like
+MbtH                 PF03621.16    53 BGC0002089_ORF4:gid:txtH:pid:CBG70277.1:loc:2048:2246:strand:- -             65   1.2e-23   82.4   0.0   1   1   7.2e-28   1.4e-23   82.2   0.0     1    52     1    52     1    53 0.97 MbtH-like protein
+AMP-binding          PF00501.31   424 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   3.4e-92  309.4   0.0   1   1   3.3e-95   7.2e-92  308.3   0.0     1   424    33   431    33   431 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   5.7e-86  289.1   0.0   1   1   3.6e-89   7.8e-86  288.7   0.0     4   454  1032  1482  1029  1484 0.90 Condensation domain
+Methyltransf_11      PF08241.15    96 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   3.7e-16   59.7   0.0   1   1   5.4e-19   1.2e-15   58.1   0.0     1    96   549   651   549   651 0.96 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   6.4e-14   52.5   0.0   1   1   8.3e-17   1.8e-13   51.1   0.0     1    97   548   647   548   647 0.93 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   6.8e-14   52.1   0.0   1   1   7.3e-17   1.6e-13   50.9   0.0     3    65   951  1011   949  1013 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   2.4e-13   51.0   1.4   1   1   1.6e-11   3.6e-08   34.4   1.5     1    49   439   492   439   508 0.77 AMP-binding enzyme C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   5.7e-12   46.4   0.0   1   1   6.6e-15   1.4e-11   45.1   0.0     1    99   549   649   549   649 0.94 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488   2.9e-09   37.1   0.0   1   1   2.5e-12   5.6e-09   36.2   0.0    20   120   542   654   527   728 0.74 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002089_ORF5:gid:txtB:pid:CBG70278.1:loc:2335:6802:strand:- -           1488     4e-07   29.7   0.0   1   1   2.9e-10   6.4e-07   29.1   0.0    31   155   528   655   512   668 0.86 ubiE/COQ5 methyltransferase family
+AMP-binding          PF00501.31   424 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458   5.3e-95  318.6   0.0   1   1   3.4e-98   7.5e-95  318.1   0.0     2   424    23   421    22   421 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458   1.1e-57  195.8   0.0   1   1   1.3e-60   2.9e-57  194.5   0.0     4   445  1026  1455  1024  1458 0.89 Condensation domain
+PP-binding           PF00550.28    67 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458   9.5e-15   54.8   0.1   1   1   1.3e-17   2.9e-14   53.2   0.1     2    66   943  1005   942  1006 0.94 Phosphopantetheine attachment site
+Methyltransf_11      PF08241.15    96 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458     6e-14   52.6   0.0   1   1   7.6e-17   1.7e-13   51.2   0.0     1    95   538   639   538   640 0.96 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458   9.5e-14   52.0   0.0   1   1   1.1e-16   2.3e-13   50.8   0.0     1    97   537   636   537   636 0.90 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458   4.8e-13   49.8   0.0   1   1   4.1e-16     9e-13   48.9   0.0     1    98   538   637   538   638 0.91 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458   1.5e-11   44.5   0.0   1   1   1.3e-14   2.9e-11   43.6   0.0     8   142   520   663   512   677 0.77 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002089_ORF6:gid:txtA:pid:CBG70279.1:loc:6849:11226:strand:- -           1458   8.9e-10   38.7   0.0   1   1     7e-13   1.5e-09   37.9   0.0     6   118   536   649   533   690 0.79 Methyltransferase domain
+HTH_18               PF12833.10    81 BGC0002089_ORF7:gid:txtR:pid:CBG70280.1:loc:12897:13746:strand:+ -            282   2.4e-15   56.7   0.1   1   1   3.8e-19   3.7e-15   56.1   0.1     1    81   197   278   197   278 0.94 Helix-turn-helix domain
+OrfB_Zn_ribbon       PF07282.14    69 BGC0002089_ORF8:gid::pid::loc:14323:14569:strand:- -             81   8.8e-07   28.9   0.0   1   1   6.3e-11   1.2e-06   28.4   0.0     1    33    23    56    23    72 0.90 Putative transposase DNA-binding domain
+p450                 PF00067.25   463 BGC0002089_ORF11:gid::pid:CBG70284.1:loc:15908:17129:strand:+ -            406   4.1e-15   55.6   0.0   1   1     3e-18   5.9e-14   51.8   0.0   324   433   279   378   271   394 0.95 Cytochrome P450
+NO_synthase          PF02898.18   362 BGC0002089_ORF12:gid:txtD:pid:CBG70285.1:loc:17192:18365:strand:+ -            390  8.9e-155  515.2   0.0   1   1  5.6e-159  1.1e-154  514.9   0.0     7   355    38   387    36   390 0.99 Nitric oxide synthase, oxygenase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002089.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002089.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002089.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:59:40 2023
+# [ok]

@@ -1,0 +1,74 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="722.2333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="712.2333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+MFS transporter</title>
+			<polygon class="
+MFS transporter" points="182,25 146,25 146,10 116,40 146,70 146,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="137" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EmoH
+putative decarboxylase</title>
+			<polygon class="EmoH
+putative decarboxylase" points="208,40 226,10 226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EthD (PF07110)
+"EthD domain"</title>
+				<polygon class="PF07110" points="214,37 219,28 223,28 223,52 219,52 214,43" stroke-linejoin="round" width="9" height="24" fill="rgb(64,130,182)" stroke="rgb(51,104,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EmoM
+monooxygenase</title>
+			<polygon class="EmoM
+monooxygenase" points="258,10 280,40 258,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Anthrone_oxy (PF08592)
+"Anthrone oxygenase"</title>
+				<polygon class="PF08592" points="264,28 267,28 275,38 275,42 267,52 264,52" stroke-linejoin="round" width="11" height="24" fill="rgb(75,196,107)" stroke="rgb(60,156,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EmoG
+polyketide synthase</title>
+			<polygon class="EmoG
+polyketide synthase" points="355,25 507,25 507,10 537,40 507,70 507,55 355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="355" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(77,115,183)" stroke="rgb(61,91,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="388" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="414" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="426" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="442" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="503" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

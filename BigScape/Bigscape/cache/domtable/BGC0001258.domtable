@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SAT                  PF16073.8    240 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   3.8e-74  249.4   1.4   1   1   1.4e-77   3.8e-74  249.4   1.4     1   239    11   246    11   247 0.98 Starter unit:ACP transacylase in aflatoxin biosynthesis
+ketoacyl-synt        PF00109.29   253 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   5.6e-68  229.4   0.0   1   1   5.3e-71   1.5e-67  228.0   0.0     4   253   380   627   378   627 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   3.7e-41  141.8   0.0   1   1   4.2e-44   1.2e-40  140.1   0.0     2   305   907  1215   906  1228 0.88 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   4.4e-36  123.6   0.6   1   1   4.9e-39   1.4e-35  122.0   0.6     1   118   635   755   635   756 0.97 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   2.4e-20   73.8   0.0   1   1   6.6e-23   1.8e-19   70.9   0.0     2   108  1886  1991  1885  2119 0.81 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   1.2e-19   70.4   4.2   1   2   5.3e-12   1.5e-08   34.9   0.2     2    66  1651  1715  1650  1716 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   1.2e-19   70.4   4.2   2   2   1.8e-12   5.2e-09   36.4   0.5     3    64  1774  1835  1772  1838 0.94 Phosphopantetheine attachment site
+PS-DH                PF14765.9    297 BGC0001258_ORF1:gid:pks1:pid:AAN59953.1:loc:43:7265:strand:+ -           2124   4.1e-15   55.9   0.0   1   1   2.2e-18   6.3e-15   55.3   0.0    23   295  1315  1598  1293  1600 0.83 Polyketide synthase dehydratase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001258.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001258.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001258.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:59:58 2023
+# [ok]

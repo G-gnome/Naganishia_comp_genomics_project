@@ -1,0 +1,23 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5950              PF19375.2    103 BGC0001579_ORF1:gid::pid:WP_071962205.1:loc:0:360:strand:+ -            119   6.9e-40  135.5   0.2   1   1     4e-44   7.9e-40  135.3   0.2     1   101    16   116    16   118 0.98 Family of unknown function (DUF5950)
+DUF5973              PF19398.2     81 BGC0001579_ORF2:gid::pid:WP_071962206.1:loc:403:637:strand:+ -             77   1.3e-26   93.0   0.3   1   1     7e-31   1.4e-26   92.9   0.3     6    81     5    77     1    77 0.95 Family of unknown function (DUF5973)
+DUF4135              PF13575.9    377 BGC0001579_ORF3:gid::pid:WP_071962207.1:loc:779:4031:strand:+ -           1083   3.8e-73  247.0   0.0   1   1   5.1e-77     5e-73  246.6   0.0     1   376   242   620   242   621 0.86 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0001579_ORF3:gid::pid:WP_071962207.1:loc:779:4031:strand:+ -           1083   3.9e-73  246.2   0.0   1   1   5.6e-77   5.5e-73  245.7   0.0     4   352   724  1074   722  1074 0.94 Lanthionine synthetase C-like protein
+ABC_tran             PF00005.30   137 BGC0001579_ORF5:gid::pid:WP_079273648.1:loc:5075:6134:strand:+ -            352   1.8e-31  109.6   0.0   1   1   2.6e-35   2.5e-31  109.1   0.0     2   136    61   203    60   204 0.95 ABC transporter
+ABC2_membrane        PF01061.27   210 BGC0001579_ORF6:gid::pid:WP_071962209.1:loc:6130:7003:strand:+ -            290   2.4e-30  105.7  15.9   1   1   5.3e-34   3.4e-30  105.2  15.9     5   209    28   235    25   236 0.90 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0001579_ORF6:gid::pid:WP_071962209.1:loc:6130:7003:strand:+ -            290     5e-15   55.6  14.9   1   1   9.4e-19   6.1e-15   55.3  14.9   155   345    70   283    44   284 0.86 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.10   288 BGC0001579_ORF6:gid::pid:WP_071962209.1:loc:6130:7003:strand:+ -            290   6.1e-08   32.4  15.6   1   1   1.4e-10   8.9e-07   28.5  15.6     5   287    31   290    27   290 0.78 ABC-2 family transporter protein
+UPF0029              PF01205.22   108 BGC0001579_ORF8:gid::pid:WP_071962211.1:loc:8211:8838:strand:- -            208   1.8e-29  102.3   0.0   1   1   2.6e-33   2.6e-29  101.8   0.0     2   108    20   124    19   124 0.93 Uncharacterized protein family UPF0029
+DUF1949              PF09186.14    56 BGC0001579_ORF8:gid::pid:WP_071962211.1:loc:8211:8838:strand:- -            208   7.7e-13   48.3   0.2   1   1   1.9e-16   1.9e-12   47.0   0.0     1    55   140   194   140   195 0.98 Domain of unknown function (DUF1949)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001579.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001579.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001579.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:18:05 2023
+# [ok]

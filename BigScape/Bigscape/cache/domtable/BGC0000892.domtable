@@ -1,0 +1,30 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OEP                  PF02321.21   188 BGC0000892_ORF1:gid::pid:AEA60652.1:loc:0:1554:strand:- -            517     2e-41  142.0  34.7   1   2   9.3e-26   1.8e-21   76.9  17.4     2   188    89   284    88   284 0.94 Outer membrane efflux protein
+OEP                  PF02321.21   188 BGC0000892_ORF1:gid::pid:AEA60652.1:loc:0:1554:strand:- -            517     2e-41  142.0  34.7   2   2   4.9e-24   9.6e-20   71.3   9.4     7   182   314   487   312   493 0.95 Outer membrane efflux protein
+MFS_1                PF07690.19   353 BGC0000892_ORF2:gid::pid:AEA60653.1:loc:1565:3206:strand:- -            546   4.7e-42  144.3  37.7   1   1   2.4e-46   4.7e-42  144.3  37.7     2   352    44   437    43   438 0.93 Major Facilitator Superfamily
+HlyD_D23             PF16576.8    214 BGC0000892_ORF3:gid::pid:AEA60654.1:loc:3205:4294:strand:- -            362   6.4e-20   71.4   3.2   1   1   2.9e-22   1.9e-18   66.6   3.2    19   187    63   306    58   310 0.78 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+HlyD_3               PF13437.9    106 BGC0000892_ORF3:gid::pid:AEA60654.1:loc:3205:4294:strand:- -            362   1.7e-15   57.7   0.1   1   1   1.8e-14   1.2e-10   42.2   0.0     2    97   230   340   229   356 0.79 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.9     50 BGC0000892_ORF3:gid::pid:AEA60654.1:loc:3205:4294:strand:- -            362   2.4e-12   46.5   3.6   1   1   1.7e-14   1.1e-10   41.2   0.1     5    48    66   109    62   112 0.96 Biotin-lipoyl like
+p450                 PF00067.25   463 BGC0000892_ORF4:gid::pid:AEA60655.1:loc:4530:5727:strand:- -            398   1.7e-26   93.2   0.1   1   1     2e-28   3.9e-24   85.4   0.1    91   427    86   363    59   369 0.77 Cytochrome P450
+Rubredoxin           PF00301.23    47 BGC0000892_ORF5:gid::pid:AEA60656.1:loc:5776:5962:strand:- -             61   2.6e-23   81.9   2.6   1   1   1.5e-27     3e-23   81.7   2.6     2    47    11    56    10    56 0.98 Rubredoxin
+Abhydrolase_1        PF00561.23   257 BGC0000892_ORF7:gid::pid:AEA60658.1:loc:6867:7842:strand:- -            324   1.3e-13   51.3   0.2   1   1   4.3e-13   2.1e-09   37.5   0.3     2   138   103   232   102   237 0.86 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.11   239 BGC0000892_ORF7:gid::pid:AEA60658.1:loc:6867:7842:strand:- -            324   2.1e-13   50.2   0.5   1   1   3.6e-14   1.8e-10   40.6   0.4     4   137   101   225    98   241 0.81 Serine aminopeptidase, S33
+Abhydrolase_6        PF12697.10   220 BGC0000892_ORF7:gid::pid:AEA60658.1:loc:6867:7842:strand:- -            324   2.2e-07   31.8   8.3   1   1   4.5e-11   2.2e-07   31.8   8.3     1   129   104   248   104   305 0.58 Alpha/beta hydrolase family
+Ser_hydrolase        PF06821.16   171 BGC0000892_ORF7:gid::pid:AEA60658.1:loc:6867:7842:strand:- -            324   1.1e-05   25.5   0.0   1   1   4.7e-09   2.3e-05   24.5   0.0    45   157   155   294   104   307 0.87 Serine hydrolase
+FA_desaturase        PF00487.27   254 BGC0000892_ORF8:gid::pid:AEA60659.1:loc:7900:9001:strand:- -            366   7.3e-35  121.1  31.7   1   1   3.7e-39   7.3e-35  121.1  31.7     3   245    69   316    67   321 0.84 Fatty acid desaturase
+PP-binding           PF00550.28    67 BGC0000892_ORF9:gid::pid:AEA60660.1:loc:9022:9346:strand:- -            107   1.5e-16   60.6   0.0   1   1   1.4e-20   2.8e-16   59.7   0.1     1    67    30    96    30    96 0.98 Phosphopantetheine attachment site
+FA_desaturase        PF00487.27   254 BGC0000892_ORF10:gid::pid:AEA60661.1:loc:9408:10383:strand:- -            324   7.3e-21   75.3  29.2   1   1   3.7e-25   7.3e-21   75.3  29.2     3   231    65   285    63   288 0.84 Fatty acid desaturase
+FA_desaturase        PF00487.27   254 BGC0000892_ORF11:gid::pid:AEA60662.1:loc:10408:11338:strand:- -            309   4.9e-17   62.7  30.2   1   1   2.5e-21   4.9e-17   62.7  30.2     3   226    52   271    50   279 0.87 Fatty acid desaturase
+AMP-binding          PF00501.31   424 BGC0000892_ORF12:gid::pid:AEA60663.1:loc:11354:13187:strand:- -            610   2.9e-83  280.0   0.0   1   1   1.7e-87   3.4e-83  279.7   0.0     4   422    42   493    39   495 0.85 AMP-binding enzyme
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000892.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000892.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000892.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:34:28 2023
+# [ok]

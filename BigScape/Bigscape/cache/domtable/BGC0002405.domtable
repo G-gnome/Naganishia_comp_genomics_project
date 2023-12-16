@@ -1,0 +1,19 @@
+#                                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002405_ORF1:gid:LOC101250819:pid:XP_004243626.1:loc:17312:19183:strand:+ -            596   1.3e-92  310.8   0.0   1   1   1.7e-96   1.7e-92  310.4   0.0     1   423    69   489    69   490 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002405_ORF1:gid:LOC101250819:pid:XP_004243626.1:loc:17312:19183:strand:+ -            596   1.2e-21   77.5   0.0   1   1   2.7e-25   2.7e-21   76.5   0.0     1    76   498   573   498   573 0.95 AMP-binding enzyme C-terminal domain
+Transferase          PF02458.18   434 BGC0002405_ORF2:gid:LOC101246842:pid:XP_004243893.1:loc:24022:25318:strand:- -            431   7.8e-67  225.9   0.1   1   1   4.6e-71   8.9e-67  225.7   0.1     4   431     7   422     4   425 0.86 Transferase family
+ECH_2                PF16113.8    335 BGC0002405_ORF3:gid:LOC101250233:pid:XP_004243624.1:loc:34000:36165:strand:+ -            398  9.2e-106  354.3   0.0   1   1  1.1e-109  1.1e-105  354.1   0.0     2   335    33   362    32   362 0.96 Enoyl-CoA hydratase/isomerase
+ECH_1                PF00378.23   251 BGC0002405_ORF3:gid:LOC101250233:pid:XP_004243624.1:loc:34000:36165:strand:+ -            398   2.3e-27   96.0   0.0   1   1   3.8e-31   3.8e-27   95.3   0.0     8   240    34   263    33   272 0.87 Enoyl-CoA hydratase/isomerase
+RVT_2                PF07727.17   243 BGC0002405_ORF4:gid:LOC109120718:pid:XP_019070278.1:loc:42069:42861:strand:- -            263   4.1e-21   75.8   0.0   1   1   3.1e-25   6.1e-21   75.3   0.0   142   242     2   102     1   103 0.98 Reverse transcriptase (RNA-dependent DNA polymerase)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002405.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002405.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002405.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:37:58 2023
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.4    115 BGC0001632_ORF1:gid:kgpG:pid:KXS89937.1:loc:0:2019:strand:- -            672   1.6e-31  108.8   0.0   1   1   4.5e-35   2.9e-31  107.9   0.0     5   110   556   661   553   667 0.96 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0001632_ORF1:gid:kgpG:pid:KXS89937.1:loc:0:2019:strand:- -            672   1.3e-23   83.8   0.0   1   1   2.9e-27   1.9e-23   83.2   0.0     3   269    22   297    20   337 0.81 Subtilase family
+PatG_D               PF18047.4    118 BGC0001632_ORF1:gid:kgpG:pid:KXS89937.1:loc:0:2019:strand:- -            672     3e-19   69.6   0.0   1   1   7.5e-22   4.9e-18   65.8   0.0     1   115   393   509   393   512 0.91 PatG Domain
+DUF5838              PF19156.3    289 BGC0001632_ORF2:gid:kgpF:pid:KXS89935.1:loc:2105:2978:strand:- -            290   7.7e-86  288.1   3.4   1   1   4.5e-90   8.8e-86  288.0   3.4     2   288    13   288    12   289 0.97 Family of unknown function (DUF5838)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001632.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001632.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001632.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:08:43 2023
+# [ok]

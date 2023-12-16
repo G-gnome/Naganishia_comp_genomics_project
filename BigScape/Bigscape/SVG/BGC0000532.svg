@@ -1,0 +1,30 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="136.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="126.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mutA
+mutacin II</title>
+			<polygon class="mutA
+mutacin II" points="26,10 31,40 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>L_biotic_typeA (PF04604)
+"Type-A lantibiotic"</title>
+				<polygon class="PF04604" points="26,27 28,40 26,53" stroke-linejoin="round" width="5" height="24" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutM</title>
+			<polygon class="mutM" points="34,25 93,25 93,10 123,40 93,70 93,55 34,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="43" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="90,28 107,28 119,40 107,52 90,52" stroke-linejoin="round" width="33" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,27 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.29   170 BGC0002586_ORF2:gid:asmA:pid:AOF43520.1:loc:617:1904:strand:+ -            428   3.5e-20   72.6   0.4   1   1   1.2e-23   5.9e-20   71.9   0.4     1   133    41   176    41   217 0.80 Glycosyl transferase family 2
+Glyco_tranf_2_4      PF13704.9     96 BGC0002586_ORF2:gid:asmA:pid:AOF43520.1:loc:617:1904:strand:+ -            428   3.6e-12   46.8   0.6   1   1   3.9e-13   1.9e-09   38.1   0.2     1    95    47   139    47   140 0.78 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0002586_ORF2:gid:asmA:pid:AOF43520.1:loc:617:1904:strand:+ -            428   8.4e-08   32.1   0.7   1   1   4.3e-11   2.1e-07   30.8   0.3     7   117    47   154    41   165 0.79 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0002586_ORF2:gid:asmA:pid:AOF43520.1:loc:617:1904:strand:+ -            428   1.2e-07   31.9   0.0   1   1     4e-11     2e-07   31.2   0.0     5   132    41   163    38   193 0.83 Glycosyltransferase like family 2
+ABC_tran             PF00005.30   137 BGC0002586_ORF3:gid:asmB:pid:AOF43521.1:loc:1872:3981:strand:+ -            702   1.8e-18   67.5   0.0   1   1   6.8e-22   4.5e-18   66.2   0.0    14   137   504   638   495   638 0.85 ABC transporter
+Peptidase_C39        PF03412.18   133 BGC0002586_ORF3:gid:asmB:pid:AOF43521.1:loc:1872:3981:strand:+ -            702     1e-16   61.1   0.0   1   1   3.3e-20   2.1e-16   60.0   0.0     3   132     2   136     1   137 0.90 Peptidase C39 family
+ABC_membrane         PF00664.26   274 BGC0002586_ORF3:gid:asmB:pid:AOF43521.1:loc:1872:3981:strand:+ -            702   1.9e-16   60.7  25.2   1   1   4.4e-20   2.8e-16   60.1  25.2     2   268   169   428   164   434 0.87 ABC transporter transmembrane region
+TraF                 PF13728.9    224 BGC0002586_ORF4:gid:asmC:pid:AOF43522.1:loc:3977:4397:strand:+ -            139     6e-09   36.2   0.0   1   1   7.9e-13   7.7e-09   35.8   0.0   111   203    32   114    25   124 0.84 F plasmid transfer operon protein
+Thioredoxin          PF00085.23   103 BGC0002586_ORF4:gid:asmC:pid:AOF43522.1:loc:3977:4397:strand:+ -            139   1.1e-07   31.9   0.0   1   1   1.4e-11   1.3e-07   31.6   0.0     4    90    35   121    32   134 0.85 Thioredoxin
+DUF6568              PF20207.1    161 BGC0002586_ORF5:gid:asmD:pid:AOF43523.1:loc:4397:4931:strand:+ -            177   7.7e-10   38.9   0.7   1   1   5.6e-14   1.1e-09   38.4   0.7     4   156    13   170     8   174 0.82 Family of unknown function (DUF6568)
+LytTR                PF04397.18    98 BGC0002586_ORF6:gid:asmE:pid:AOF43524.1:loc:4900:5680:strand:+ -            259   1.3e-14   54.3   1.9   1   1   6.5e-19   1.3e-14   54.3   1.9     4    96   164   253   161   254 0.94 LytTr DNA-binding domain
+MobC                 PF05713.14    45 BGC0002586_ORF9:gid:mob:pid:AOF43527.1:loc:7308:7626:strand:+ -            105   2.4e-10   40.8   3.5   1   1   1.2e-14   2.4e-10   40.8   3.5     1    43    60   104    60   105 0.96 Bacterial mobilisation protein (MobC)
+Relaxase             PF03432.17   242 BGC0002586_ORF10:gid:mobA:pid:AOF43528.1:loc:7604:8936:strand:+ -            443   1.5e-50  172.2   4.5   1   1   7.5e-55   1.5e-50  172.2   4.5     2   242    10   278     9   278 0.96 Relaxase/Mobilisation nuclease domain
+Rep_3                PF01051.24   222 BGC0002586_ORF13:gid:repB:pid:AOF43531.1:loc:10417:11197:strand:+ -            259   4.8e-38  131.3   0.0   1   1   2.8e-42   5.5e-38  131.1   0.0     2   220    21   241    20   243 0.90 Initiator Replication protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002586.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002586.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002586.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:23:48 2023
+# [ok]

@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="150.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="140.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (SACE_1241)
+hypothetical protein</title>
+			<polygon class=" (SACE_1241)
+hypothetical protein" points="10,40 28,10 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_1 (PF00190)
+"Cupin"</title>
+				<polygon class="PF00190" points="13,40 20,28 26,28 26,52 20,52 13,40" stroke-linejoin="round" width="13" height="24" fill="rgb(180,66,175)" stroke="rgb(144,52,139)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cyp25 (SACE_1242)
+cytochrome P450</title>
+			<polygon class="cyp25 (SACE_1242)
+cytochrome P450" points="69,25 59,25 59,10 29,40 59,70 59,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="33,40 45,28 66,28 66,52 45,52" stroke-linejoin="round" width="35" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rppA (SACE_1243)
+putative type III polyketide synthase</title>
+			<polygon class="rppA (SACE_1243)
+putative type III polyketide synthase" points="105,25 99,25 99,10 69,40 99,70 99,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="73,40 85,28 85,28 85,52 85,52" stroke-linejoin="round" width="14" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<polygon class="PF00195" points="85,28 85,28 105,28 105,52 85,52 85,52" stroke-linejoin="round" width="20" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SACE_1244)
+transcriptional regulator</title>
+			<polygon class=" (SACE_1244)
+transcriptional regulator" points="117,40 139,10 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HxlR (PF01638)
+"HxlR-like helix-turn-helix"</title>
+				<polygon class="PF01638" points="128,31 130,28 137,28 137,52 130,52 128,49" stroke-linejoin="round" width="9" height="24" fill="rgb(91,150,227)" stroke="rgb(72,119,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

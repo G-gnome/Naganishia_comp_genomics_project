@@ -1,0 +1,136 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="471.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="461.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>nisQ
+nisin Q precursor</title>
+			<polygon class="nisQ
+nisin Q precursor" points="15,10 20,40 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="15,26 17,40 15,54" stroke-linejoin="round" width="4" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqB
+lantibiotic dehydratase</title>
+			<polygon class="niqB
+lantibiotic dehydratase" points="25,25 94,25 94,10 124,40 94,70 94,55 25,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="28" y="28" stroke-linejoin="round" width="62" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="98,28 108,28 120,40 108,52 98,52" stroke-linejoin="round" width="25" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqT
+ATP-binding cassette transporter</title>
+			<polygon class="niqT
+ATP-binding cassette transporter" points="124,25 154,25 154,10 184,40 154,70 154,55 124,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="160,28 167,28 175,36 175,44 167,52 160,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqC
+lantibiotic cyclase</title>
+			<polygon class="niqC
+lantibiotic cyclase" points="184,25 195,25 195,10 225,40 195,70 195,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="186,28 209,28 221,40 209,52 186,52" stroke-linejoin="round" width="37" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqI
+immunity protein</title>
+			<polygon class="niqI
+immunity protein" points="225,10 249,40 225,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spa1_C (PF18218)
+"Lantibiotic immunity protein Spa1 C-terminal domain"</title>
+				<polygon class="PF18218" points="239,32 245,40 239,48" stroke-linejoin="round" width="9" height="24" fill="rgb(176,180,58)" stroke="rgb(140,144,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqP
+leader peptidase</title>
+			<polygon class="niqP
+leader peptidase" points="250,25 289,25 289,10 319,40 289,70 289,55 250,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="275,28 303,28 309,34 309,46 303,52 275,52" stroke-linejoin="round" width="34" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gram_pos_anchor (PF00746)
+"LPXTG cell wall anchor motif"</title>
+				<polygon class="PF00746" points="316,40 315,40 316,40" stroke-linejoin="round" width="3" height="24" fill="rgb(45,94,179)" stroke="rgb(36,75,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqR
+response regulator</title>
+			<polygon class="niqR
+response regulator" points="322,10 344,40 322,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="322" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="337,35 341,40 337,45" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqK
+histidine kinase</title>
+			<polygon class="niqK
+histidine kinase" points="344,25 358,25 358,10 388,40 358,70 358,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="366" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="377,33 384,40 377,47" stroke-linejoin="round" width="10" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqF
+immunity protein</title>
+			<polygon class="niqF
+immunity protein" points="392,10 414,40 392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="393,28 402,28 406,34 406,46 402,52 393,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>niqE
+immunity protein</title>
+			<polygon class="niqE
+immunity protein" points="415,10 439,40 415,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>niqG
+immunity protein</title>
+			<polygon class="niqG
+immunity protein" points="439,10 460,40 439,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

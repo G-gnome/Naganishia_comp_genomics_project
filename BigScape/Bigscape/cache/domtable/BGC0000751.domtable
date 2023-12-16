@@ -1,0 +1,18 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Stealth_CR2          PF11380.11   108 BGC0000751_ORF2:gid:cps12A:pid:AAS77490.1:loc:649:1765:strand:+ -            371   1.7e-40  137.7   3.5   1   1   4.7e-44   4.6e-40  136.3   3.5     1   106   103   208   103   210 0.96 Stealth protein CR2, conserved region 2
+Stealth_CR1          PF17101.8     29 BGC0000751_ORF2:gid:cps12A:pid:AAS77490.1:loc:649:1765:strand:+ -            371   4.6e-13   48.8   0.8   1   1   1.1e-16   1.1e-12   47.6   0.8     2    28    64    90    63    91 0.94 Stealth protein CR1, conserved region 1
+Glyphos_transf       PF04464.17   367 BGC0000751_ORF3:gid:cps12B:pid:AAS77491.1:loc:1776:4401:strand:+ -            874   7.7e-30  104.2   8.4   1   1   7.8e-34   7.7e-30  104.2   8.4    14   366   490   866   479   867 0.81 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+Glycos_transf_2      PF00535.29   170 BGC0000751_ORF3:gid:cps12B:pid:AAS77491.1:loc:1776:4401:strand:+ -            874   3.2e-22   79.3   0.3   1   1     9e-26   8.8e-22   77.8   0.3     2   147    51   195    50   218 0.81 Glycosyl transferase family 2
+Orn_Arg_deC_N        PF02784.19   247 BGC0000751_ORF4:gid::pid:AAS77492.1:loc:5355:5961:strand:+ -            201   1.7e-44  152.2   0.0   1   1     1e-48     2e-44  151.9   0.0     2   139    35   178    34   191 0.95 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000751.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000751.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000751.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:36:22 2023
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002257_ORF1:gid:shwC:pid:QLM00038.1:loc:1039:2931:strand:- -            497   3.1e-37  128.5   0.0   1   1   1.2e-40   2.3e-36  125.7   0.1   279   455   302   476   181   484 0.89 Cytochrome P450
+Methyltransf_2       PF00891.21   210 BGC0002257_ORF2:gid:shwM2:pid:QLM00039.1:loc:4609:5997:strand:- -            423   6.2e-24   84.6   0.0   1   1   6.7e-28   1.3e-23   83.5   0.0    17   205   188   389   176   393 0.81 O-methyltransferase domain
+Methyltransf_2       PF00891.21   210 BGC0002257_ORF3:gid:shwM1:pid:QLM00040.1:loc:8453:9841:strand:+ -            367   1.9e-12   47.1   0.0   1   1   1.6e-16   3.2e-12   46.4   0.0    59   208   203   344   169   346 0.82 O-methyltransferase domain
+Anthrone_oxy         PF08592.14   107 BGC0002257_ORF4:gid:shwD:pid:QLM00041.1:loc:10434:11078:strand:- -            186   3.3e-19   69.2   4.9   1   1   1.7e-23   3.3e-19   69.2   4.9     1   106    70   177    70   178 0.88 Anthrone oxygenase
+EthD                 PF07110.14    97 BGC0002257_ORF5:gid:shwE:pid:QLM00042.1:loc:11155:11621:strand:- -            136   8.6e-15   55.8   0.3   1   1   5.6e-19   1.1e-14   55.5   0.3     3    96    30   132    28   133 0.97 EthD domain
+Lactamase_B          PF00753.30   197 BGC0002257_ORF6:gid:shwB:pid:QLM00043.1:loc:12282:13282:strand:- -            311   4.9e-17   62.7   1.2   1   1   6.2e-20   1.2e-15   58.2   1.2     4   162    57   191    55   214 0.87 Metallo-beta-lactamase superfamily
+ketoacyl-synt        PF00109.29   253 BGC0002257_ORF7:gid:shwP:pid:QLM00044.1:loc:14645:20720:strand:+ -           1794   2.4e-63  214.2   0.0   1   1   1.7e-66   5.4e-63  213.0   0.0     2   238   399   635   398   641 0.93 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0002257_ORF7:gid:shwP:pid:QLM00044.1:loc:14645:20720:strand:+ -           1794   1.2e-49  169.3   2.3   1   1     1e-52   3.3e-49  167.8   0.2    17   237    35   261    15   263 0.94 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.24   319 BGC0002257_ORF7:gid:shwP:pid:QLM00044.1:loc:14645:20720:strand:+ -           1794   1.7e-42  146.2   0.1   1   1     9e-45   2.9e-41  142.1   0.0     2   318   925  1249   924  1250 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002257_ORF7:gid:shwP:pid:QLM00044.1:loc:14645:20720:strand:+ -           1794   8.7e-33  113.0   0.7   1   1   9.2e-36     3e-32  111.2   0.7     1   118   647   766   647   767 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002257_ORF7:gid:shwP:pid:QLM00044.1:loc:14645:20720:strand:+ -           1794   5.1e-12   46.0   0.2   1   1   3.9e-15   1.3e-11   44.8   0.2     5    64  1727  1786  1723  1789 0.95 Phosphopantetheine attachment site
+PS-DH                PF14765.9    297 BGC0002257_ORF7:gid:shwP:pid:QLM00044.1:loc:14645:20720:strand:+ -           1794   2.1e-08   33.9   0.0   1   1   1.3e-11   4.3e-08   32.9   0.0   144   290  1476  1621  1377  1627 0.78 Polyketide synthase dehydratase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002257.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002257.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002257.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:26:32 2023
+# [ok]

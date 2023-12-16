@@ -1,0 +1,26 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5840              PF19158.3     49 BGC0001167_ORF1:gid:pirE2:pid:AFK79987.1:loc:0:138:strand:+ -             45   6.8e-07   29.7   1.0   1   1   5.7e-11   1.1e-06   29.0   1.0    11    49     3    45     1    45 0.88 Family of unknown function (DUF5840)
+DUF5840              PF19158.3     49 BGC0001167_ORF2:gid:pirE3:pid:AFK79988.1:loc:386:542:strand:+ -             51   5.2e-09   36.4   0.7   1   1   3.7e-13   7.2e-09   36.0   0.7     1    49     1    51     1    51 0.86 Family of unknown function (DUF5840)
+DUF5838              PF19156.3    289 BGC0001167_ORF3:gid:pirF:pid:AFK79989.1:loc:791:1682:strand:+ -            296  6.8e-135  449.1   5.3   1   1    4e-139  7.8e-135  448.9   5.3     1   289    13   291    13   291 0.99 Family of unknown function (DUF5838)
+DUF29                PF01724.19   138 BGC0001167_ORF4:gid::pid:AFK79990.1:loc:1693:2152:strand:+ -            152   6.6e-40  136.7   7.8   1   1   3.8e-44   7.5e-40  136.5   7.8     1   138    10   147    10   147 0.97 Domain of unknown function DUF29
+Uma2                 PF05685.15   172 BGC0001167_ORF5:gid::pid:AFK79991.1:loc:2207:2786:strand:+ -            192   3.5e-42  144.0   0.2   1   1   2.2e-46   4.3e-42  143.7   0.2     2   170    19   188    18   190 0.98 Putative restriction endonuclease
+Uma2                 PF05685.15   172 BGC0001167_ORF6:gid::pid:AFK79992.1:loc:2804:3488:strand:+ -            227   1.2e-24   86.9   0.0   1   1   7.7e-29   1.5e-24   86.6   0.0     7   169    29   192    24   199 0.92 Putative restriction endonuclease
+PatG_C               PF18065.4    115 BGC0001167_ORF7:gid:pirA:pid:AFK79993.1:loc:3493:5431:strand:+ -            645   2.5e-40  137.2   0.0   1   1   6.1e-44     4e-40  136.5   0.0     2   115   528   641   527   641 0.99 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0001167_ORF7:gid:pirA:pid:AFK79993.1:loc:3493:5431:strand:+ -            645     4e-38  131.4   0.0   1   1   1.2e-41   7.6e-38  130.5   0.0     3   270    17   259    15   304 0.89 Subtilase family
+PatG_D               PF18047.4    118 BGC0001167_ORF7:gid:pirA:pid:AFK79993.1:loc:3493:5431:strand:+ -            645   5.8e-21   75.2   0.0   1   1   1.2e-23   7.9e-20   71.5   0.0     2   117   370   482   369   483 0.97 PatG Domain
+Uma2                 PF05685.15   172 BGC0001167_ORF11:gid::pid:AFK79997.1:loc:6395:7187:strand:- -            263   4.9e-20   71.9   0.3   1   1   4.3e-24   8.4e-20   71.1   0.3    37   168    51   204    37   211 0.92 Putative restriction endonuclease
+PatG_C               PF18065.4    115 BGC0001167_ORF12:gid:pirG:pid:AFK79998.1:loc:7254:9324:strand:+ -            690   1.6e-33  115.3   0.0   1   1   1.2e-36   8.2e-33  112.9   0.0     3   111   582   690   580   690 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0001167_ORF12:gid:pirG:pid:AFK79998.1:loc:7254:9324:strand:+ -            690   2.7e-28   99.1   0.0   1   1   6.1e-32     4e-28   98.6   0.0     4   269    23   298    20   341 0.86 Subtilase family
+PatG_D               PF18047.4    118 BGC0001167_ORF12:gid:pirG:pid:AFK79998.1:loc:7254:9324:strand:+ -            690   5.4e-17   62.4   0.0   1   1   1.9e-20   1.2e-16   61.2   0.0     1   116   422   534   422   536 0.93 PatG Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001167.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001167.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001167.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:51:54 2023
+# [ok]

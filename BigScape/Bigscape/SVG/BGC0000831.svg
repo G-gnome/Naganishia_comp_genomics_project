@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="263.83333333333337" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="253.83333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>vioA
+tryptophan 2-monooxygenase</title>
+			<polygon class="vioA
+tryptophan 2-monooxygenase" points="10,25 23,25 23,10 53,40 23,70 23,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="11,28 37,28 49,40 37,52 11,52" stroke-linejoin="round" width="39" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioB
+polyketide synthase</title>
+			<polygon class="vioB
+polyketide synthase" points="53,25 123,25 123,10 153,40 123,70 123,55 53,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ferritin-like (PF12902)
+"Ferritin-like"</title>
+				<rect class="PF12902" x="114" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(159,71,195)" stroke="rgb(127,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioC
+VioC</title>
+			<polygon class="vioC
+VioC" points="154,25 167,25 167,10 197,40 167,70 167,55 154,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="154,28 180,28 187,35 187,45 180,52 154,52" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>vioD
+VioD</title>
+			<polygon class="vioD
+VioD" points="197,25 204,25 204,10 234,40 204,70 204,55 197,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>vioE
+VioE</title>
+			<polygon class="vioE
+VioE" points="234,10 253,40 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VioE (PF18234)
+"Violacein biosynthetic enzyme VioE"</title>
+				<polygon class="PF18234" points="234,28 242,28 249,40 242,52 234,52" stroke-linejoin="round" width="18" height="24" fill="rgb(61,82,187)" stroke="rgb(48,65,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

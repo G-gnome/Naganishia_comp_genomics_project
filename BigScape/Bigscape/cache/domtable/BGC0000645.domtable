@@ -1,0 +1,29 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.27   452 BGC0000645_ORF1:gid:crtNa:pid:ACM07424.1:loc:0:1485:strand:+ -            494   9.1e-25   88.0   0.0   1   1   4.6e-28   1.1e-24   87.7   0.0     2   444    12   480    11   484 0.74 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000645_ORF1:gid:crtNa:pid:ACM07424.1:loc:0:1485:strand:+ -            494   2.3e-11   43.9   0.0   1   1   2.6e-14   6.5e-11   42.4   0.0     1    63     6    68     6    71 0.92 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.27   353 BGC0000645_ORF1:gid:crtNa:pid:ACM07424.1:loc:0:1485:strand:+ -            494   4.2e-11   43.1   0.2   1   1   3.1e-13   7.5e-10   39.0   0.2     1   200     3   274     3   293 0.64 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0000645_ORF1:gid:crtNa:pid:ACM07424.1:loc:0:1485:strand:+ -            494   1.9e-06   27.4   0.1   1   1   4.3e-09   1.1e-05   24.9   0.0     2    43     4    46     3    51 0.94 FAD binding domain
+Amino_oxidase        PF01593.27   452 BGC0000645_ORF2:gid:crtNc:pid:ACM07425.1:loc:1481:2963:strand:+ -            493   1.7e-26   93.7   0.0   1   1   7.7e-30   2.2e-26   93.3   0.0     1   439    13   467    13   479 0.82 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000645_ORF2:gid:crtNc:pid:ACM07425.1:loc:1481:2963:strand:+ -            493   1.9e-13   50.5   0.1   1   1   2.8e-16   7.9e-13   48.6   0.0     1    53     8    61     8    68 0.94 NAD(P)-binding Rossmann-like domain
+SQS_PSY              PF00494.22   263 BGC0000645_ORF3:gid:crtM:pid:ACM07426.1:loc:2965:3802:strand:+ -            278   5.1e-66  223.0   0.1   1   1   3.2e-70   6.2e-66  222.7   0.1     2   259    16   265    15   268 0.94 Squalene/phytoene synthase
+Amino_oxidase        PF01593.27   452 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525   8.2e-30  104.6   0.0   1   1   7.7e-33   1.5e-29  103.7   0.0     1   452    48   518    48   518 0.71 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525     2e-14   53.7   0.0   1   1   2.8e-17   5.5e-14   52.3   0.0     1    64    43   103    43   106 0.91 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.27   353 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525   1.7e-10   41.2   2.7   1   1   4.5e-12   8.7e-09   35.5   2.9     1   199    40   308    40   313 0.69 FAD dependent oxidoreductase
+Pyr_redox_2          PF07992.17   295 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525   1.6e-10   40.8   0.0   1   1   2.8e-10   5.6e-07   29.2   0.0     1    45    39    82    39   149 0.79 Pyridine nucleotide-disulphide oxidoreductase
+FAD_oxidored         PF12831.10   427 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525   1.4e-09   37.9   0.0   1   1   7.2e-11   1.4e-07   31.3   0.0     2    38    41    77    40   145 0.89 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525   6.1e-09   35.6   1.8   1   1   7.3e-10   1.4e-06   27.8   0.7     2    37    41    76    40    80 0.95 FAD binding domain
+HI0933_like          PF03486.17   409 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525   2.1e-08   33.4   2.4   1   1   1.7e-08   3.4e-05   22.9   1.4     2    39    40    77    39    80 0.96 HI0933-like protein
+GIDA                 PF01134.25   392 BGC0000645_ORF4:gid:crtNb:pid:ACM07427.1:loc:4230:5808:strand:- -            525   4.4e-05   22.9   3.2   1   1   2.8e-08   5.4e-05   22.6   1.0     1    36    40    74    40    84 0.86 Glucose inhibited division protein A
+Acyltransferase      PF01553.24   135 BGC0000645_ORF6:gid::pid:ACM07429.1:loc:6818:7475:strand:- -            218   1.1e-14   54.3   0.0   1   1     1e-18     2e-14   53.5   0.0     3   134    30   155    26   156 0.87 Acyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000645.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000645.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000645.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:49:04 2023
+# [ok]

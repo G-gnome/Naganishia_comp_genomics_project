@@ -1,0 +1,23 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LANC_like            PF05147.16   352 BGC0000552_ORF1:gid:smbM1:pid:BAD72771.1:loc:1388:4265:strand:+ -            958   2.3e-67  227.2   6.5   1   1   4.1e-71     4e-67  226.4   6.5     3   350   607   952   605   954 0.94 Lanthionine synthetase C-like protein
+DUF4135              PF13575.9    377 BGC0000552_ORF1:gid:smbM1:pid:BAD72771.1:loc:1388:4265:strand:+ -            958   7.2e-61  206.6   0.5   1   1     5e-63   4.9e-59  200.6   0.5     9   375   148   484   140   486 0.85 Domain of unknown function (DUF4135)
+ABC_tran             PF00005.30   137 BGC0000552_ORF2:gid:smbF:pid:BAD72772.1:loc:4275:5100:strand:+ -            274   2.6e-25   89.7   0.1   1   1   7.2e-29   7.1e-25   88.3   0.0     1   137    19   148    19   148 0.90 ABC transporter
+AAA_21               PF13304.9    304 BGC0000552_ORF2:gid:smbF:pid:BAD72772.1:loc:4275:5100:strand:+ -            274   2.9e-14   53.7   2.2   1   1   3.4e-12   3.3e-08   33.8   0.1   236   298   118   178   116   181 0.95 AAA domain, putative AbiEii toxin, Type IV TA system
+DUF4135              PF13575.9    377 BGC0000552_ORF4:gid:smbM2:pid:BAD72774.1:loc:5790:8421:strand:+ -            876   1.2e-44  153.2   0.7   1   1   1.6e-48   1.6e-44  152.9   0.7     1   375   110   463   110   465 0.89 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000552_ORF4:gid:smbM2:pid:BAD72774.1:loc:5790:8421:strand:+ -            876   2.1e-12   46.5   6.8   1   1   2.1e-16   2.1e-12   46.5   6.8    51   337   590   861   560   871 0.75 Lanthionine synthetase C-like protein
+ABC_tran             PF00005.30   137 BGC0000552_ORF5:gid:smbG:pid:BAD72775.1:loc:8457:10554:strand:+ -            698   2.3e-35  122.2   0.0   1   1     1e-38     5e-35  121.1   0.0     1   137   482   630   482   630 0.97 ABC transporter
+Peptidase_C39        PF03412.18   133 BGC0000552_ORF5:gid:smbG:pid:BAD72775.1:loc:8457:10554:strand:+ -            698   8.2e-28   97.0   0.0   1   1   3.2e-31   1.6e-27   96.1   0.0     9   132     2   125     1   126 0.94 Peptidase C39 family
+ABC_membrane         PF00664.26   274 BGC0000552_ORF5:gid:smbG:pid:BAD72775.1:loc:8457:10554:strand:+ -            698   3.1e-13   50.1  19.8   1   1     1e-16   5.1e-13   49.4  19.8     4   268   154   417   151   423 0.83 ABC transporter transmembrane region
+Lantibiotic_a        PF14867.9     29 BGC0000552_ORF7:gid:smbB:pid:BAD72777.1:loc:10865:11054:strand:+ -             62   8.2e-13   48.0   3.0   1   1   5.4e-17   1.1e-12   47.6   3.0     7    28    39    60    30    61 0.89 Lantibiotic alpha
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000552.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000552.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000552.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:37:33 2023
+# [ok]

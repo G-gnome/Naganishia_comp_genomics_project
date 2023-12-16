@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0001276_ORF1:gid:atX:pid:BAA20102.2:loc:1101:6575:strand:+ -           1803   4.9e-88  295.1   0.1   1   1   8.3e-91     2e-87  293.1   0.0     2   253    45   294    44   294 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001276_ORF1:gid:atX:pid:BAA20102.2:loc:1101:6575:strand:+ -           1803   1.4e-64  218.8   0.7   1   1   8.4e-68   2.1e-64  218.2   0.7     1   317   581   894   581   896 0.98 Acyl transferase domain
+KR                   PF08659.13   180 BGC0001276_ORF1:gid:atX:pid:BAA20102.2:loc:1101:6575:strand:+ -           1803   5.6e-61  205.7   0.0   1   1   8.8e-64   2.1e-60  203.8   0.0     1   179  1434  1628  1434  1629 0.95 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001276_ORF1:gid:atX:pid:BAA20102.2:loc:1101:6575:strand:+ -           1803   1.9e-40  137.7   0.2   1   1   2.6e-43   6.5e-40  136.0   0.2     2   118   303   419   302   420 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001276_ORF1:gid:atX:pid:BAA20102.2:loc:1101:6575:strand:+ -           1803     5e-15   56.1   0.0   1   1   5.9e-18   1.4e-14   54.6   0.0     2   112   423   543   423   543 0.90 Ketoacyl-synthetase C-terminal extension
+PS-DH                PF14765.9    297 BGC0001276_ORF1:gid:atX:pid:BAA20102.2:loc:1101:6575:strand:+ -           1803   1.2e-14   54.4   0.4   1   1   5.2e-17   1.3e-13   51.0   0.4     1   292   940  1214   940  1219 0.81 Polyketide synthase dehydratase
+PP-binding           PF00550.28    67 BGC0001276_ORF1:gid:atX:pid:BAA20102.2:loc:1101:6575:strand:+ -           1803   4.4e-13   49.4   0.0   1   1   6.4e-16   1.6e-12   47.7   0.0     1    66  1730  1796  1730  1797 0.94 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001276.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001276.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001276.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:29:23 2023
+# [ok]

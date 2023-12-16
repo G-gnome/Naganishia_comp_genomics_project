@@ -1,0 +1,99 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="251.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="241.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>gatP
+putative pheromone peptide</title>
+			<polygon class="gatP
+putative pheromone peptide" points="15,10 20,40 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gatK
+putative histidine kinase</title>
+			<polygon class="gatK
+putative histidine kinase" points="20,25 33,25 33,10 63,40 33,70 33,55 20,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="51,32 59,40 51,48" stroke-linejoin="round" width="10" height="24" fill="rgb(137,71,210)" stroke="rgb(109,56,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gatR
+putative response regulator</title>
+			<polygon class="gatR
+putative response regulator" points="63,10 89,40 63,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="63,28 74,28 76,30 76,50 74,52 63,52" stroke-linejoin="round" width="13" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="79,33 85,40 79,47" stroke-linejoin="round" width="9" height="24" fill="rgb(207,76,174)" stroke="rgb(165,60,139)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gatT
+putative ABC-transporter</title>
+			<polygon class="gatT
+putative ABC-transporter" points="90,25 132,25 132,10 162,40 132,70 132,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="90" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="106" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="140,28 145,28 155,38 155,42 145,52 140,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gatC
+putative accessory protein</title>
+			<polygon class="gatC
+putative accessory protein" points="163,10 182,40 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gatZ
+hypothetical protein</title>
+			<polygon class="gatZ
+hypothetical protein" points="185,10 188,40 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gatA
+bacteriocin</title>
+			<polygon class="gatA
+bacteriocin" points="192,10 199,40 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_IIc (PF10439)
+"Bacteriocin class II with double-glycine leader peptide"</title>
+				<polygon class="PF10439" points="192,28 193,28 196,40 193,52 192,52" stroke-linejoin="round" width="7" height="24" fill="rgb(158,186,86)" stroke="rgb(126,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gatX
+bacteriocin</title>
+			<polygon class="gatX
+bacteriocin" points="200,10 206,40 200,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_IIc (PF10439)
+"Bacteriocin class II with double-glycine leader peptide"</title>
+				<polygon class="PF10439" points="200,28 200,28 203,40 200,52 200,52" stroke-linejoin="round" width="5" height="24" fill="rgb(158,186,86)" stroke="rgb(126,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gatI
+immunity protein</title>
+			<polygon class="gatI
+immunity protein" points="207,10 218,40 207,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

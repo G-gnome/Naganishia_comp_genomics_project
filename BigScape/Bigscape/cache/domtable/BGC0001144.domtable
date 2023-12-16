@@ -1,0 +1,24 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0001144_ORF1:gid::pid:EGD99348.1:loc:0:5598:strand:- -           1802   3.5e-72  243.1   0.0   1   1   2.1e-75     6e-72  242.4   0.0     3   253   398   647   396   647 0.93 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0001144_ORF1:gid::pid:EGD99348.1:loc:0:5598:strand:- -           1802   6.2e-51  173.4   0.6   1   1     1e-50   2.9e-47  161.4   0.0    10   236    28   256    22   259 0.93 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.24   319 BGC0001144_ORF1:gid::pid:EGD99348.1:loc:0:5598:strand:- -           1802   6.8e-37  127.8   0.0   1   1   2.4e-40   6.8e-37  127.8   0.0     4   296   935  1235   933  1256 0.86 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001144_ORF1:gid::pid:EGD99348.1:loc:0:5598:strand:- -           1802   6.9e-33  113.3   0.4   1   1   2.4e-36   6.9e-33  113.3   0.4     1   118   655   775   655   776 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0001144_ORF1:gid::pid:EGD99348.1:loc:0:5598:strand:- -           1802   1.3e-14   54.4   0.1   1   1   1.4e-17   3.8e-14   52.8   0.1     5    67  1736  1798  1734  1798 0.97 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0001144_ORF1:gid::pid:EGD99348.1:loc:0:5598:strand:- -           1802   5.2e-11   43.1   0.1   1   1   7.3e-14     2e-10   41.2   0.0     8   107   787   892   780   895 0.86 Ketoacyl-synthetase C-terminal extension
+PS-DH                PF14765.9    297 BGC0001144_ORF1:gid::pid:EGD99348.1:loc:0:5598:strand:- -           1802   1.2e-09   38.0   0.0   1   1   7.4e-13   2.1e-09   37.2   0.0    63   292  1394  1632  1374  1636 0.83 Polyketide synthase dehydratase
+Trp_DMAT             PF11991.11   363 BGC0001144_ORF2:gid::pid:EGD99349.1:loc:5923:7234:strand:+ -            436   1.2e-80  271.8   0.0   1   1   7.7e-85   1.5e-80  271.5   0.0     1   361    20   375    20   377 0.89 Tryptophan dimethylallyltransferase
+FAD_binding_3        PF01494.22   349 BGC0001144_ORF3:gid::pid:EGD99350.1:loc:9582:10903:strand:+ -            412   1.1e-13   51.3   0.4   1   1   3.7e-16   7.2e-12   45.3   0.4     3   323     7   358     5   387 0.64 FAD binding domain
+Lactamase_B          PF00753.30   197 BGC0001144_ORF4:gid::pid:EGD99351.1:loc:11051:12113:strand:- -            331   6.5e-16   59.0   1.1   1   1   1.8e-17   3.6e-13   50.1   1.1     5   197    60   216    58   216 0.86 Metallo-beta-lactamase superfamily
+Zn_clus              PF00172.21    40 BGC0001144_ORF5:gid::pid:EGD99352.1:loc:12960:15201:strand:- -            711   1.6e-07   31.4   7.1   1   1   1.5e-11     3e-07   30.6   7.1     2    33    16    46    15    51 0.90 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001144.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001144.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001144.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:50:12 2023
+# [ok]

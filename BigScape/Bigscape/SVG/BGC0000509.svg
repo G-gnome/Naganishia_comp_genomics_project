@@ -1,0 +1,126 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="536.2333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="526.2333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+recombinase</title>
+			<polygon class="
+recombinase" points="149,10 166,40 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<rect class="PF00239" x="149" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(99,177,201)" stroke="rgb(79,141,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_7 (PF02796)
+"Helix-turn-helix domain of resolvase"</title>
+				<polygon class="PF02796" points="161,37 163,40 161,43" stroke-linejoin="round" width="5" height="24" fill="rgb(223,208,93)" stroke="rgb(178,166,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elxO
+ElxO</title>
+			<polygon class="elxO
+ElxO" points="174,40 198,10 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="178,40 188,28 197,28 197,52 188,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elxT
+ElxT</title>
+			<polygon class="elxT
+ElxT" points="257,25 230,25 230,10 200,40 230,70 230,55 257,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="207,37 216,28 222,28 222,52 216,52 207,43" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="228" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elxA
+ElxA</title>
+			<polygon class="elxA
+ElxA" points="262,10 267,40 262,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>elxP
+ElxP</title>
+			<polygon class="elxP
+ElxP" points="269,25 270,25 270,10 300,40 270,70 270,55 269,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="272,28 283,28 295,40 283,52 272,52" stroke-linejoin="round" width="26" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elxB
+ElxB</title>
+			<polygon class="elxB
+ElxB" points="300,25 368,25 368,10 398,40 368,70 368,55 300,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="304" y="28" stroke-linejoin="round" width="62" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="373,28 382,28 394,40 382,52 373,52" stroke-linejoin="round" width="24" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elxC
+ElxC</title>
+			<polygon class="elxC
+ElxC" points="399,25 409,25 409,10 439,40 409,70 409,55 399,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="402,28 423,28 435,40 423,52 402,52" stroke-linejoin="round" width="36" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elx1
+Elx1</title>
+			<polygon class="elx1
+Elx1" points="441,10 448,40 441,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>elx2
+Elx2</title>
+			<polygon class="elx2
+Elx2" points="449,10 473,40 449,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="462,31 469,40 462,49" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>elx3
+Elx3</title>
+			<polygon class="elx3
+Elx3" points="474,10 481,40 474,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orfA
+OrdA</title>
+			<polygon class="orfA
+OrdA" points="492,40 518,10 518,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_4 (PF12730)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12730" points="499,37 506,28 517,28 517,52 506,52 499,43" stroke-linejoin="round" width="18" height="24" fill="rgb(203,161,59)" stroke="rgb(162,128,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

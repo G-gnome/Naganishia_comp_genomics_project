@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Gallidermin          PF02052.18    52 BGC0002635_ORF1:gid::pid:QYZ85378.1:loc:0:174:strand:+ -             57   1.2e-05   25.7   9.0   1   1   1.1e-09   2.3e-05   24.8   9.0     9    52    15    57    10    57 0.84 Gallidermin
+Lant_dehydr_N        PF04738.16   650 BGC0002635_ORF2:gid::pid:QYZ85379.1:loc:247:3304:strand:+ -           1018  1.3e-174  581.9  16.1   1   1  1.7e-178  1.6e-174  581.6  16.1     1   650    41   675    41   675 0.96 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0002635_ORF2:gid::pid:QYZ85379.1:loc:247:3304:strand:+ -           1018   4.1e-39  135.2   0.1   1   1   9.1e-43   8.9e-39  134.1   0.1     1   279   737  1000   737  1008 0.79 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.16   352 BGC0002635_ORF3:gid::pid:QYZ85380.1:loc:3300:4614:strand:+ -            437     1e-46  159.3   0.0   1   1   8.3e-51   1.6e-46  158.6   0.0     2   337    46   424    45   429 0.81 Lanthionine synthetase C-like protein
+Flavoprotein         PF02441.22   157 BGC0002635_ORF4:gid::pid:QYZ85381.1:loc:4624:5260:strand:+ -            211   9.2e-27   93.9   0.0   1   1   5.7e-31   1.1e-26   93.6   0.0     2   136    41   186    40   209 0.86 Flavoprotein
+ABC_tran             PF00005.30   137 BGC0002635_ORF5:gid::pid:QYZ85382.1:loc:5256:6171:strand:+ -            304   4.3e-34  118.1   0.0   1   1   6.2e-38   6.1e-34  117.6   0.0     2   136    21   163    20   164 0.97 ABC transporter
+ABC2_membrane        PF01061.27   210 BGC0002635_ORF6:gid::pid:QYZ85383.1:loc:6167:6932:strand:+ -            254   9.6e-27   93.9   9.5   1   1   1.2e-30   1.1e-26   93.7   9.5     3   209    13   221    11   222 0.90 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0002635_ORF6:gid::pid:QYZ85383.1:loc:6167:6932:strand:+ -            254   1.6e-14   53.9   9.3   1   1   1.6e-18   1.6e-14   53.9   9.3   160   341    62   245    57   249 0.88 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002635.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002635.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002635.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:14:04 2023
+# [ok]

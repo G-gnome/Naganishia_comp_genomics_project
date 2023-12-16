@@ -1,0 +1,31 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_6        PF12697.10   220 BGC0000140_ORF1:gid::pid:ACZ65471.1:loc:112:1258:strand:- -            381   1.4e-08   35.7   8.4   1   1   1.5e-12   1.4e-08   35.7   8.4     3   117   153   274   151   375 0.63 Alpha/beta hydrolase family
+FrsA-like            PF06500.14   414 BGC0000140_ORF1:gid::pid:ACZ65471.1:loc:112:1258:strand:- -            381   4.5e-06   25.8   0.0   1   1   6.6e-10   6.4e-06   25.3   0.0    95   296    44   253    37   263 0.80 Esterase FrsA-like
+TetR_C_11            PF16859.8    113 BGC0000140_ORF2:gid:rkI:pid:ACZ65472.1:loc:1381:2071:strand:- -            229   9.4e-22   77.6   8.1   1   1   9.5e-26   9.4e-22   77.6   8.1     5   112   109   217   105   218 0.96 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.26    47 BGC0000140_ORF2:gid:rkI:pid:ACZ65472.1:loc:1381:2071:strand:- -            229   1.9e-11   43.7   0.0   1   1   3.3e-15   3.2e-11   43.0   0.0    13    47    61    95    48    95 0.86 Bacterial regulatory proteins, tetR family
+MFS_1                PF07690.19   353 BGC0000140_ORF3:gid:rkH:pid:ACZ65473.1:loc:2073:3669:strand:- -            531   6.8e-52  176.7  47.2   1   1     6e-55   1.2e-50  172.6  44.7     2   352    27   422    26   423 0.89 Major Facilitator Superfamily
+AMP-binding          PF00501.31   424 BGC0000140_ORF4:gid:rkA:pid:ACZ65474.1:loc:4024:5821:strand:+ -            598   2.2e-80  270.5   0.0   1   1   1.4e-84   2.8e-80  270.2   0.0     4   422    12   455     9   457 0.83 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0000140_ORF5:gid:rkB:pid:ACZ65475.1:loc:5863:6178:strand:+ -            104   1.1e-13   51.3   0.0   1   1   7.2e-18   1.4e-13   51.0   0.0     3    67    27    91    25    91 0.92 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.29   253 BGC0000140_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   1.7e-86  290.1   1.3   1   1   1.6e-88   6.3e-85  284.9   0.1     2   253     5   259     4   259 0.93 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0000140_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   7.2e-59  200.0   0.2   1   1   2.7e-62     1e-58  199.5   0.2     2   275   530   805   529   820 0.96 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000140_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006     8e-40  135.7   0.7   1   1   3.1e-41   1.2e-37  128.7   0.1     1   115   267   379   267   382 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0000140_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   2.6e-12   47.3   0.0   1   1   1.2e-15   4.8e-12   46.5   0.0     2   108   386   492   386   495 0.83 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0000140_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   1.1e-08   35.4   0.0   1   1   6.1e-12   2.4e-08   34.3   0.0     6    67   923   988   920   988 0.91 Phosphopantetheine attachment site
+ACP_syn_III          PF08545.13    80 BGC0000140_ORF7:gid:rkD:pid:ACZ65477.1:loc:9191:10223:strand:+ -            343   1.5e-14   53.7   0.2   1   1   4.9e-18   3.2e-14   52.7   0.2     3    64   120   190   118   203 0.81 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Chal_sti_synt_N      PF00195.22   225 BGC0000140_ORF7:gid:rkD:pid:ACZ65477.1:loc:9191:10223:strand:+ -            343   8.6e-09   35.3   1.1   1   1   1.3e-12   8.6e-09   35.3   1.1    96   224    60   190    45   191 0.84 Chalcone and stilbene synthases, N-terminal domain
+PP-binding           PF00550.28    67 BGC0000140_ORF9:gid:rkF:pid:ACZ65479.1:loc:12147:12387:strand:+ -             79     3e-06   27.6   0.1   1   1   4.3e-10   8.4e-06   26.1   0.1     2    66    11    76    10    77 0.89 Phosphopantetheine attachment site
+Thioesterase         PF00975.23   230 BGC0000140_ORF10:gid:rkG:pid:ACZ65480.1:loc:12383:13187:strand:+ -            267   2.2e-32  113.2   0.0   1   1   1.4e-36   2.7e-32  112.9   0.0     2   228    24   253    23   255 0.88 Thioesterase domain
+Lactamase_B          PF00753.30   197 BGC0000140_ORF11:gid::pid:ACZ65481.1:loc:13196:14048:strand:- -            283   1.4e-14   54.6  10.3   1   1   2.1e-18   2.1e-14   54.1  10.3    16   197    38   207    20   207 0.91 Metallo-beta-lactamase superfamily
+Lactamase_B_2        PF12706.10   201 BGC0000140_ORF11:gid::pid:ACZ65481.1:loc:13196:14048:strand:- -            283   5.5e-07   29.4   3.9   1   1   7.9e-11   7.8e-07   29.0   3.9     1   146    38   170    38   207 0.66 Beta-lactamase superfamily domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000140.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000140.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000140.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:55:04 2023
+# [ok]

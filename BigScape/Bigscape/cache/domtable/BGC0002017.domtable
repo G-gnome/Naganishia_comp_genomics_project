@@ -1,0 +1,28 @@
+#                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002017_ORF1:gid::pid::loc:0:1476:strand:+ -            491   3.1e-75  253.5   0.0   1   1   3.7e-79   3.6e-75  253.3   0.0    41   423     4   385     1   386 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002017_ORF1:gid::pid::loc:0:1476:strand:+ -            491   6.6e-16   59.2   0.0   1   1   1.8e-19   1.8e-15   57.8   0.0     1    76   394   472   394   472 0.90 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.23   175 BGC0002017_ORF2:gid::pid::loc:1512:2178:strand:+ -            221   4.8e-36  124.7   0.0   1   1     3e-40   5.9e-36  124.4   0.0     2   174    32   204    31   205 0.97 Isochorismatase family
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002017_ORF3:gid::pid::loc:2223:3564:strand:+ -            446  6.5e-109  364.3   0.0   1   1  1.2e-112  7.5e-109  364.1   0.0     2   340    12   364    11   365 0.95 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+PP-binding           PF00550.28    67 BGC0002017_ORF4:gid::pid::loc:3638:3872:strand:+ -             77   1.9e-07   31.4   0.1   1   1   1.1e-11   2.1e-07   31.2   0.1     1    66     9    73     9    74 0.93 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849  1.4e-227  755.4   0.0   1   3   2.6e-99   1.3e-95  320.7   0.0     3   424   480   876   478   876 0.91 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849  1.4e-227  755.4   0.0   2   3  1.2e-101   5.8e-98  328.4   0.0     2   424  1544  1938  1543  1938 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849  1.4e-227  755.4   0.0   3   3   4.3e-33   2.1e-29  102.5   0.0    11   179  2693  2847  2684  2849 0.82 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849  1.1e-224  746.5   0.0   1   3   7.5e-62   3.7e-58  197.4   0.0     7   439    11   430     8   436 0.92 Condensation domain
+Condensation         PF00668.23   457 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849  1.1e-224  746.5   0.0   2   3   5.9e-89   2.9e-85  286.8   0.0     3   457  1075  1524  1074  1524 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849  1.1e-224  746.5   0.0   3   3   2.4e-80   1.2e-76  258.4   0.0     5   456  2207  2663  2205  2663 0.90 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849   2.4e-27   95.9   1.1   1   2   5.5e-15   2.7e-11   44.4   0.1     1    76   884   959   884   959 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849   2.4e-27   95.9   1.1   2   2   3.1e-16   1.5e-12   48.4   0.1     1    76  1946  2022  1946  2022 0.90 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849     3e-26   91.6   0.0   1   2   2.1e-14     1e-10   41.9   0.0     1    67   991  1055   991  1055 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002017_ORF5:gid::pid::loc:3967:12514:strand:+ -           2849     3e-26   91.6   0.0   2   2   5.1e-16   2.5e-12   47.0   0.0     2    65  2115  2176  2114  2178 0.94 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002017.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002017.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002017.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:49:58 2023
+# [ok]

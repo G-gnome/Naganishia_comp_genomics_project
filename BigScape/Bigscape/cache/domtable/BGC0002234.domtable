@@ -1,0 +1,37 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   1.3e-62  211.8   0.0   1   1   1.7e-65     3e-62  210.6   0.0     5   253     7   254     4   254 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   2.4e-57  193.8   3.2   1   1   1.2e-59   2.2e-56  190.8   0.8     2   179  2006  2185  2005  2186 0.98 KR domain
+PS-DH                PF14765.9    297 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   5.7e-53  180.2   0.1   1   1   5.4e-56   9.6e-53  179.5   0.1     1   291   929  1236   929  1241 0.85 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   2.6e-51  175.2   0.2   1   1     6e-54   1.1e-50  173.1   0.1     2   278   537   837   536   875 0.84 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   7.9e-35  119.6   0.0   1   1   1.2e-37   2.1e-34  118.2   0.0     2   117   263   377   262   379 0.97 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   5.8e-18   65.5   0.0   1   1   1.5e-20   2.7e-17   63.4   0.0     5   111   386   507   382   508 0.87 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N_2         PF13602.9    133 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403     8e-16   59.4   0.1   1   1   7.6e-18   1.4e-14   55.4   0.0     5   133  1842  1981  1840  1981 0.78 Zinc-binding dehydrogenase
+adh_short            PF00106.28   195 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403     3e-13   49.8   0.5   1   1   3.6e-14   6.5e-11   42.2   0.0     1   169  2005  2175  2005  2185 0.91 short chain dehydrogenase
+ADH_zinc_N           PF00107.29   130 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   4.3e-13   49.5   0.3   1   1   2.1e-15   3.8e-12   46.5   0.0     1   101  1803  1907  1803  1930 0.83 Zinc-binding dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002234_ORF1:gid::pid:EYE95336.1:loc:0:7665:strand:- -           2403   7.2e-08   32.4   0.3   1   1   1.6e-10   2.8e-07   30.5   0.1     2   153  2012  2167  2011  2169 0.89 Enoyl-(Acyl carrier protein) reductase
+adh_short_C2         PF13561.9    234 BGC0002234_ORF2:gid::pid:EYE95337.1:loc:8317:10160:strand:+ -            477   8.6e-59  199.1   3.6   1   1   4.7e-62   2.3e-58  197.7   3.6     4   234    14   268    10   268 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002234_ORF2:gid::pid:EYE95337.1:loc:8317:10160:strand:+ -            477   1.8e-46  158.2   1.6   1   1   6.7e-50   3.3e-46  157.3   1.6     3   192     7   217     5   220 0.96 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002234_ORF2:gid::pid:EYE95337.1:loc:8317:10160:strand:+ -            477   1.3e-06   28.5   2.1   1   1   3.4e-10   1.7e-06   28.2   0.6     3    94     7    99     5   135 0.86 KR domain
+adh_short            PF00106.28   195 BGC0002234_ORF3:gid::pid:EYE95338.1:loc:10557:11871:strand:- -            286   1.5e-38  132.4   0.3   1   1   2.7e-42   1.7e-38  132.1   0.3     1   191     4   189     4   193 0.92 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002234_ORF3:gid::pid:EYE95338.1:loc:10557:11871:strand:- -            286   3.8e-29  102.1   0.1   1   1   7.1e-33   4.6e-29  101.8   0.1     4   182    14   188    10   209 0.92 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002234_ORF3:gid::pid:EYE95338.1:loc:10557:11871:strand:- -            286   8.1e-06   26.0   0.4   1   1   2.8e-09   1.8e-05   24.8   0.4     4   161     7   159     5   170 0.89 KR domain
+p450                 PF00067.25   463 BGC0002234_ORF4:gid::pid:EYE95339.1:loc:12159:14051:strand:+ -            538   1.8e-70  238.1   0.0   1   1   1.2e-74   2.3e-70  237.8   0.0     1   446    31   469    31   476 0.88 Cytochrome P450
+FAD_binding_4        PF01565.26   139 BGC0002234_ORF5:gid::pid:EYE95340.1:loc:14275:15997:strand:- -            497   4.5e-26   91.4   0.8   1   1   7.1e-30     7e-26   90.7   0.8     3   139    65   198    63   198 0.96 FAD binding domain
+BBE                  PF08031.15    46 BGC0002234_ORF5:gid::pid:EYE95340.1:loc:14275:15997:strand:- -            497   5.3e-09   36.2   0.1   1   1   8.9e-13   8.7e-09   35.5   0.1     2    45   448   489   447   490 0.88 Berberine and berberine like
+adh_short            PF00106.28   195 BGC0002234_ORF6:gid::pid:EYE95341.1:loc:16474:17576:strand:+ -            348   2.5e-24   85.9   0.0   1   1   4.9e-25   3.2e-21   75.8   0.0     1   139    40   184    40   191 0.89 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002234_ORF6:gid::pid:EYE95341.1:loc:16474:17576:strand:+ -            348     2e-09   37.5   0.0   1   1   4.5e-13     3e-09   36.9   0.0     1   131    46   184    46   191 0.87 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002234_ORF6:gid::pid:EYE95341.1:loc:16474:17576:strand:+ -            348   1.6e-07   31.5   0.2   1   1   6.8e-11   4.4e-07   30.1   0.2     2    92    41   130    40   146 0.84 KR domain
+Trp_DMAT             PF11991.11   363 BGC0002234_ORF7:gid::pid:EYE95342.1:loc:18177:19568:strand:+ -            434   1.6e-90  304.3   0.0   1   1   1.1e-94   2.2e-90  303.8   0.0     1   362    22   381    22   382 0.92 Tryptophan dimethylallyltransferase
+Zn_clus              PF00172.21    40 BGC0002234_ORF8:gid::pid:EYE95343.1:loc:19690:20938:strand:- -            415   3.7e-07   30.3  11.9   1   1   3.4e-11   6.6e-07   29.5  11.9     2    38    11    46    10    48 0.93 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002234.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002234.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002234.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:33:37 2023
+# [ok]

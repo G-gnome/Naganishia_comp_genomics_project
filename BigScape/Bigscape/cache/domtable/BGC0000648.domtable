@@ -1,0 +1,31 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.20   256 BGC0000648_ORF1:gid:ORF1:pid:CAA79955.1:loc:1057:2143:strand:+ -            361   1.5e-48  165.3   0.0   1   1     9e-53   1.8e-48  165.0   0.0     3   240    52   294    50   312 0.91 Polyprenyl synthetase
+Amino_oxidase        PF01593.27   452 BGC0000648_ORF2:gid:ORF2:pid:CAA79956.1:loc:2150:3704:strand:+ -            517   5.2e-37  128.3   0.1   1   1   2.6e-40   6.4e-37  128.0   0.1     2   451    18   491    17   492 0.76 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000648_ORF2:gid:ORF2:pid:CAA79956.1:loc:2150:3704:strand:+ -            517   3.2e-15   56.2   0.1   1   1   3.1e-18   7.7e-15   55.0   0.1     1    63    12    74    12    78 0.93 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.27   417 BGC0000648_ORF2:gid:ORF2:pid:CAA79956.1:loc:2150:3704:strand:+ -            517   1.3e-08   34.5   1.1   1   1   1.2e-09   2.9e-06   26.7   1.1     2    36    10    44     9    48 0.93 FAD binding domain
+SQS_PSY              PF00494.22   263 BGC0000648_ORF3:gid:ORF3:pid:CAA79957.1:loc:3700:4711:strand:+ -            336   7.8e-74  248.6  10.8   1   1   4.7e-78   9.1e-74  248.4  10.8     1   263    21   302    21   302 0.92 Squalene/phytoene synthase
+Amino_oxidase        PF01593.27   452 BGC0000648_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   6.5e-20   72.0   1.8   1   1   6.3e-22   2.1e-18   67.0   1.8     1   449    13   475    13   477 0.74 Flavin containing amine oxidoreductase
+DAO                  PF01266.27   353 BGC0000648_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   5.3e-14   52.7   3.8   1   1   6.6e-17   2.2e-13   50.7   3.8     1   353     5   476     5   476 0.64 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0000648_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   1.1e-13   51.3   2.5   1   1   4.6e-17   1.5e-13   50.9   0.8     1    55     8    62     8    72 0.90 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.10   427 BGC0000648_ORF4:gid:ORF4:pid:CAA79958.1:loc:4771:6229:strand:+ -            485   7.3e-07   29.0   0.9   1   1   6.4e-10   2.1e-06   27.4   1.3     2    63     6    72     5    85 0.91 FAD dependent oxidoreductase
+Glyco_transf_21      PF13506.9    173 BGC0000648_ORF6:gid:ORF6:pid:CAA79960.1:loc:7148:8261:strand:+ -            370   1.1e-05   25.1   0.0   1   1   1.1e-09   2.2e-05   24.1   0.0     8   172    89   249    83   250 0.77 Glycosyl transferase family 21
+Lycopene_cyc         PF18916.3     92 BGC0000648_ORF7:gid:ORF7:pid:CAA79961.1:loc:8257:8644:strand:+ -            128   1.7e-06   28.6   2.8   1   1   1.1e-10   2.1e-06   28.3   2.8     7    86     6    89     1    93 0.59 Lycopene cyclase
+Acyltransferase      PF01553.24   135 BGC0000648_ORF9:gid:ORF9:pid:CAA79963.1:loc:8987:9665:strand:+ -            225   1.2e-06   28.3   0.0   1   1     1e-10   2.1e-06   27.6   0.0    17   133    43   154    32   156 0.82 Acyltransferase
+MerR_1               PF13411.9     69 BGC0000648_ORF10:gid:carA:pid:CAA79964.1:loc:9661:10528:strand:+ -            288   6.2e-13   48.7   0.5   1   1   1.4e-16   1.4e-12   47.6   0.5     2    62     4    67     3    72 0.91 MerR HTH family regulatory protein
+B12-binding          PF02310.22   121 BGC0000648_ORF10:gid:carA:pid:CAA79964.1:loc:9661:10528:strand:+ -            288   2.2e-11   44.0   0.1   1   1   4.4e-15   4.3e-11   43.0   0.0     2   107   164   267   163   277 0.85 B12 binding domain
+MerR_1               PF13411.9     69 BGC0000648_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299   3.5e-16   59.2   0.1   1   1   1.1e-19   5.5e-16   58.5   0.1     1    68     6    74     6    75 0.97 MerR HTH family regulatory protein
+B12-binding          PF02310.22   121 BGC0000648_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299   4.7e-14   52.6   0.0   1   1   1.9e-17   9.2e-14   51.7   0.0     2   112   182   290   181   294 0.90 B12 binding domain
+B12-binding_2        PF02607.20    75 BGC0000648_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299   7.1e-11   42.5   0.1   1   1   3.6e-14   1.7e-10   41.3   0.1     2    70   100   167    99   171 0.91 B12 binding domain
+MerR                 PF00376.26    38 BGC0000648_ORF11:gid:carH:pid:CAA79965.2:loc:10543:11443:strand:+ -            299   2.2e-07   30.7   1.5   1   1   4.4e-11   2.2e-07   30.7   1.5     2    38     8    44     7    44 0.95 MerR family regulatory protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000648.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000648.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000648.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:24:11 2023
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_A4         PF01828.20   209 BGC0001839_ORF1:gid::pid::loc:5117:6268:strand:- -            175   7.7e-59  198.8   4.7   1   1   4.3e-63   8.4e-59  198.7   4.7    40   208     3   170     1   171 0.98 Peptidase A4 family
+SQS_PSY              PF00494.22   263 BGC0001839_ORF2:gid::pid::loc:10000:11215:strand:- -            382   2.8e-39  135.3   0.0   1   1   2.1e-43     4e-39  134.8   0.0     4   262    51   328    48   329 0.88 Squalene/phytoene synthase
+DnaJ-X               PF14308.9    209 BGC0001839_ORF3:gid::pid::loc:11974:13637:strand:+ -            480   1.2e-71  240.6   5.7   1   1   1.3e-75   1.2e-71  240.6   5.7     1   209   238   442   238   442 0.99 X-domain of DnaJ-containing
+DnaJ                 PF00226.34    63 BGC0001839_ORF3:gid::pid::loc:11974:13637:strand:+ -            480   1.1e-24   86.5   0.2   1   1   2.8e-28   2.7e-24   85.2   0.2     1    63     6    68     6    68 0.99 DnaJ domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001839.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001839.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001839.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:14:02 2023
+# [ok]

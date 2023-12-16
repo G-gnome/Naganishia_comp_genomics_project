@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.25   284 BGC0000540_ORF2:gid:paenP:pid:AFS60101.1:loc:312:1287:strand:+ -            324   7.5e-23   81.3   0.0   1   1   5.4e-27   1.1e-22   80.8   0.0     6   249    41   274    36   294 0.82 Subtilase family
+Lant_dehydr_N        PF04738.16   650 BGC0000540_ORF3:gid:paenB:pid:AFS60102.1:loc:1291:4375:strand:+ -           1027  6.7e-111  371.4   0.0   1   1  8.1e-115  7.9e-111  371.2   0.0     6   650    51   685    46   685 0.91 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000540_ORF3:gid:paenB:pid:AFS60102.1:loc:1291:4375:strand:+ -           1027   6.8e-27   95.1   0.2   1   1   5.3e-30   5.2e-26   92.2   0.1     1   281   762  1008   762  1018 0.79 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.16   352 BGC0000540_ORF4:gid:paenC:pid:AFS60103.1:loc:4385:5657:strand:+ -            423   4.1e-49  167.2   0.0   1   1   2.5e-53   4.9e-49  166.9   0.0     5   352    45   421    41   421 0.84 Lanthionine synthetase C-like protein
+DUF5823              PF19140.3    178 BGC0000540_ORF5:gid:paenI:pid:AFS60104.1:loc:5672:6230:strand:+ -            185   1.5e-77  259.7  20.2   1   1   8.5e-82   1.7e-77  259.6  20.2     1   178     1   175     1   175 1.00 Family of unknown function (DUF5823)
+ABC_membrane         PF00664.26   274 BGC0000540_ORF6:gid:paenT:pid:AFS60105.1:loc:6244:8038:strand:+ -            597   7.5e-44  150.6  18.1   1   1     1e-47     1e-43  150.1  18.1     4   274    40   305    37   305 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000540_ORF6:gid:paenT:pid:AFS60105.1:loc:6244:8038:strand:+ -            597   6.8e-33  114.2   0.0   1   1   1.3e-36   1.3e-32  113.3   0.0     1   137   371   521   371   521 0.98 ABC transporter
+AgrB                 PF04647.18   183 BGC0000540_ORF7:gid:agrB:pid:AFS60106.1:loc:8230:8644:strand:+ -            137   2.6e-19   69.4   6.2   1   1   1.6e-23   3.2e-19   69.1   6.2    55   180     1   117     1   123 0.93 Accessory gene regulator B
+HATPase_c_5          PF14501.9    101 BGC0000540_ORF9:gid:agrA:pid:AFS60108.1:loc:8782:10111:strand:+ -            442   7.5e-15   54.8   0.6   1   1   7.2e-19   1.4e-14   53.9   0.6     1   100   331   437   331   438 0.87 GHKL domain
+LytTR                PF04397.18    98 BGC0000540_ORF10:gid:agrC:pid:AFS60109.1:loc:10152:10887:strand:+ -            244     1e-17   64.3   0.2   1   1   1.9e-21   1.8e-17   63.5   0.2     4    96   135   231   133   233 0.89 LytTr DNA-binding domain
+Response_reg         PF00072.27   112 BGC0000540_ORF10:gid:agrC:pid:AFS60109.1:loc:10152:10887:strand:+ -            244   7.3e-10   39.1   0.0   1   1   1.3e-13   1.3e-09   38.3   0.0    44   111    37   106     4   107 0.91 Response regulator receiver domain
+TraX                 PF05857.14   218 BGC0000540_ORF11:gid:paenN:pid:AFS60110.1:loc:10921:11692:strand:+ -            256   4.8e-33  115.1  17.8   1   1   6.1e-37   1.2e-32  113.9  17.8     4   217    22   248    19   249 0.82 TraX protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000540.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000540.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000540.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:17:21 2023
+# [ok]

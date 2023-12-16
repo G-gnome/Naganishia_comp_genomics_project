@@ -1,0 +1,24 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Orn_Arg_deC_N        PF02784.19   247 BGC0002527_ORF1:gid::pid:AGK17156.1:loc:0:1191:strand:- -            396   5.8e-31  107.9   0.0   1   1   1.1e-34   6.9e-31  107.6   0.0     4   247    34   280    31   280 0.94 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.25    95 BGC0002527_ORF1:gid::pid:AGK17156.1:loc:0:1191:strand:- -            396   1.5e-17   63.6   0.0   1   1   2.6e-21   1.7e-17   63.5   0.0     2    95    27   372    26   372 0.87 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+Ala_racemase_N       PF01168.23   219 BGC0002527_ORF1:gid::pid:AGK17156.1:loc:0:1191:strand:- -            396   1.2e-08   35.0   0.1   1   1   4.9e-12   3.2e-08   33.6   0.0     2   201    30   241    29   252 0.78 Alanine racemase, N-terminal domain
+IucA_IucC            PF04183.15   239 BGC0002527_ORF2:gid::pid:AGK17155.1:loc:1181:2942:strand:- -            586   6.6e-44  150.4   0.0   1   1   1.3e-47   1.3e-43  149.5   0.0     2   238   153   376   152   377 0.90 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002527_ORF2:gid::pid:AGK17155.1:loc:1181:2942:strand:- -            586   4.9e-35  121.5   2.1   1   1   1.4e-38   1.4e-34  120.0   2.1     2   162   407   567   406   568 0.93 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.19   353 BGC0002527_ORF3:gid::pid:AGK17154.1:loc:2938:4078:strand:- -            379     6e-18   65.0  47.5   1   1     2e-20   3.9e-16   59.1  23.2     2   263    10   257     9   262 0.80 Major Facilitator Superfamily
+IucA_IucC            PF04183.15   239 BGC0002527_ORF4:gid::pid:AGK17153.1:loc:4062:5841:strand:- -            592   8.3e-32  110.8   0.3   1   1   2.5e-35   2.5e-31  109.2   0.2    10   238   168   374   159   375 0.86 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0002527_ORF4:gid::pid:AGK17153.1:loc:4062:5841:strand:- -            592   4.3e-21   76.1   2.9   1   1   4.4e-25   4.3e-21   76.1   2.9     2   151   398   555   397   565 0.86 Ferric iron reductase FhuF-like transporter
+TonB_dep_Rec         PF00593.27   470 BGC0002527_ORF6:gid::pid:AGK17151.1:loc:7116:9231:strand:- -            704   5.3e-40  138.8  41.0   1   1   1.9e-43   1.2e-39  137.6  41.0    15   470   253   703   183   703 0.74 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0002527_ORF6:gid::pid:AGK17151.1:loc:7116:9231:strand:- -            704   1.5e-22   80.3   0.8   1   1   7.7e-26     5e-22   78.6   0.9     3   108    62   172    60   172 0.94 TonB-dependent Receptor Plug Domain
+HpcH_HpaI            PF03328.17   221 BGC0002527_ORF7:gid::pid:AGK17150.1:loc:9237:10014:strand:- -            258     5e-28   98.0   0.0   1   1   3.2e-32   6.3e-28   97.7   0.0    10   204    26   224    18   236 0.95 HpcH/HpaI aldolase/citrate lyase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002527.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002527.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002527.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:17:12 2023
+# [ok]

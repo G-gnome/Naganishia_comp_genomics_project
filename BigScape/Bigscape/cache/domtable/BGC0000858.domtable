@@ -1,0 +1,18 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.28   117 BGC0000858_ORF1:gid:ectA:pid:ACB30326.1:loc:213:693:strand:+ -            159   5.5e-12   46.1   0.0   1   1   7.3e-16   7.2e-12   45.7   0.0    14   113    18   113     6   116 0.86 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.10    80 BGC0000858_ORF1:gid:ectA:pid:ACB30326.1:loc:213:693:strand:+ -            159   9.9e-07   29.1   0.0   1   1   1.4e-10   1.4e-06   28.7   0.0     4    57    35    91    23   115 0.74 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.24   403 BGC0000858_ORF2:gid:ectB:pid:ACB30327.1:loc:689:1967:strand:+ -            425   7.5e-80  268.7   0.0   1   1   4.8e-84   9.4e-80  268.4   0.0     9   402    18   408    13   409 0.88 Aminotransferase class-III
+Ectoine_synth        PF06339.15   127 BGC0000858_ORF3:gid:ectC:pid:ACB30328.1:loc:1963:2371:strand:+ -            135   3.8e-58  195.3   0.0   1   1   6.7e-62   4.4e-58  195.2   0.0     1   124     1   126     1   129 0.98 Ectoine synthase
+SSF                  PF00474.20   406 BGC0000858_ORF4:gid:ssf:pid:ACB30329.1:loc:2453:3827:strand:+ -            457   6.2e-50  170.4  26.4   1   1   4.8e-54   9.4e-50  169.8  26.4     1   406    14   406    14   406 0.90 Sodium:solute symporter family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000858.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000858.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000858.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:10:20 2023
+# [ok]

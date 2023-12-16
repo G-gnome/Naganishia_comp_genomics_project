@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Gp_dh_C              PF02800.23   158 BGC0002436_ORF4:gid::pid:AUV64159.1:loc:2955:4401:strand:+ -            481   1.4e-37  128.9   0.0   1   1   2.7e-41   2.7e-37  127.9   0.0     2   157   295   450   294   451 0.92 Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain
+Gp_dh_N              PF00044.27   101 BGC0002436_ORF4:gid::pid:AUV64159.1:loc:2955:4401:strand:+ -            481   2.5e-20   72.8   0.1   1   1   5.5e-24   5.4e-20   71.7   0.1     2   100   130   240   129   241 0.87 Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+Beta-lactamase2      PF13354.9    215 BGC0002436_ORF5:gid::pid:AUV64160.1:loc:4640:5678:strand:+ -            345   3.8e-17   62.6   0.4   1   1   6.8e-17   1.3e-12   47.7   0.2    79   215   152   288   149   288 0.87 Beta-lactamase enzyme family
+Peptidase_M24        PF00557.27   209 BGC0002436_ORF6:gid::pid:AUV64161.1:loc:6193:7657:strand:+ -            487   3.3e-49  167.6   0.0   1   1   4.7e-53   4.6e-49  167.1   0.0     2   209   225   461   224   461 0.86 Metallopeptidase family M24
+AMP_N                PF05195.19   123 BGC0002436_ORF6:gid::pid:AUV64161.1:loc:6193:7657:strand:+ -            487   8.3e-19   67.7   0.0   1   1   1.7e-22   1.6e-18   66.7   0.0     2   113    58   176    57   182 0.88 Aminopeptidase P, N-terminal domain
+MFS_1                PF07690.19   353 BGC0002436_ORF7:gid:comf:pid:AUV64162.1:loc:7761:8973:strand:- -            403   2.1e-19   69.8  55.1   1   1   9.7e-20   1.9e-15   56.8  26.8     2   261    16   258    15   273 0.85 Major Facilitator Superfamily
+SAICAR_synt          PF01259.21   252 BGC0002436_ORF9:gid:adaA:pid:AUV64164.1:loc:10677:11373:strand:+ -            231   5.9e-08   32.7   0.0   1   1   3.8e-12   7.5e-08   32.4   0.0    72   240    73   214     8   225 0.76 SAICAR synthetase
+adh_short            PF00106.28   195 BGC0002436_ORF10:gid:comB:pid:AUV64165.1:loc:11365:12055:strand:+ -            229   3.8e-35  121.2   0.0   1   1   1.8e-38   1.2e-34  119.7   0.0     3   183     6   173     4   177 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002436_ORF10:gid:comB:pid:AUV64165.1:loc:11365:12055:strand:+ -            229   7.3e-23   81.5   0.1   1   1     2e-26   1.3e-22   80.6   0.1     5   175    14   173    10   200 0.85 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002436_ORF10:gid:comB:pid:AUV64165.1:loc:11365:12055:strand:+ -            229   2.3e-05   24.5   0.2   1   1   1.1e-08   7.4e-05   22.8   0.1    54   162    41   152    15   174 0.87 KR domain
+Hydrolase_3          PF08282.15   255 BGC0002436_ORF12:gid:comD:pid:AUV64167.1:loc:12515:13316:strand:+ -            266   3.5e-30  105.7   0.0   1   2   1.4e-12   9.4e-09   35.5   0.0     1    66     8    74     8   111 0.90 haloacid dehalogenase-like hydrolase
+Hydrolase_3          PF08282.15   255 BGC0002436_ORF12:gid:comD:pid:AUV64167.1:loc:12515:13316:strand:+ -            266   3.5e-30  105.7   0.0   2   2   1.1e-22   6.9e-19   68.7   0.0   157   253   161   257   129   259 0.91 haloacid dehalogenase-like hydrolase
+S6PP                 PF05116.16   247 BGC0002436_ORF12:gid:comD:pid:AUV64167.1:loc:12515:13316:strand:+ -            266   3.3e-07   30.3   0.0   1   1   7.1e-09   4.7e-05   23.2   0.0   147   212   173   238   165   257 0.88 Sucrose-6F-phosphate phosphohydrolase
+Glyoxalase           PF00903.28   128 BGC0002436_ORF13:gid::pid:AUV64168.1:loc:13380:14367:strand:- -            328   1.3e-10   41.7   0.0   1   1   1.9e-14   3.8e-10   40.2   0.0     1   128   200   317   200   317 0.73 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+FtsX                 PF02687.24   121 BGC0002436_ORF15:gid::pid:AUV64170.1:loc:14635:17101:strand:+ -            821   4.2e-27   94.7  20.9   1   2     8e-17   1.6e-12   47.6   2.8     2   119   253   372   252   374 0.89 FtsX-like permease family
+FtsX                 PF02687.24   121 BGC0002436_ORF15:gid::pid:AUV64170.1:loc:14635:17101:strand:+ -            821   4.2e-27   94.7  20.9   2   2   3.7e-21   7.3e-17   61.6  10.3     2   120   697   813   696   814 0.90 FtsX-like permease family
+LysR_substrate       PF03466.23   209 BGC0002436_ORF17:gid::pid:AUV64172.1:loc:18218:19211:strand:+ -            330   3.5e-18   65.9   9.1   1   1   5.4e-22   5.3e-18   65.3   9.1     2   207    89   292    88   294 0.92 LysR substrate binding domain
+HTH_1                PF00126.30    60 BGC0002436_ORF17:gid::pid:AUV64172.1:loc:18218:19211:strand:+ -            330     1e-16   60.7   1.6   1   1     1e-20     1e-16   60.7   1.6     2    60     6    64     5    64 0.97 Bacterial regulatory helix-turn-helix protein, lysR family
+HSP90                PF00183.21   518 BGC0002436_ORF18:gid::pid:AUV64173.1:loc:19300:19980:strand:- -            225   8.2e-59  200.1   0.0   1   1   4.6e-63     9e-59  200.0   0.0   261   488     2   223     1   225 0.93 Hsp90 protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002436.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002436.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002436.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:46:50 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_6        PF12697.10   220 BGC0001262_ORF2:gid:AKT2-1:pid:BAO10614.1:loc:16611:17460:strand:+ -            262   3.5e-09   37.7   0.0   1   1   2.3e-13   4.5e-09   37.3   0.0    66   219     4   214     1   215 0.54 Alpha/beta hydrolase family
+Zn_clus              PF00172.21    40 BGC0001262_ORF3:gid:AKTR-3:pid:BAO10615.1:loc:19364:20699:strand:+ -            444     5e-07   29.9  10.2   1   1   2.6e-11     5e-07   29.9  10.2     2    38    15    50    14    52 0.94 Fungal Zn(2)-Cys(6) binuclear cluster domain
+ECH_1                PF00378.23   251 BGC0001262_ORF4:gid:AKT3-3:pid:BAO10616.1:loc:22625:23686:strand:+ -            296     2e-45  155.2   0.0   1   1   2.7e-49   2.7e-45  154.8   0.0     4   250    23   270    21   271 0.95 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.8    335 BGC0001262_ORF4:gid:AKT3-3:pid:BAO10616.1:loc:22625:23686:strand:+ -            296   5.3e-28   98.7   0.3   1   1   2.1e-30   2.1e-26   93.4   0.1     2   173    26   194    25   216 0.91 Enoyl-CoA hydratase/isomerase
+ECH_1                PF00378.23   251 BGC0001262_ORF5:gid:AKT6-1:pid:BAO10617.1:loc:28113:29010:strand:+ -            298   1.1e-42  146.3   0.0   1   1   1.3e-46   1.3e-42  146.0   0.0     3   219    46   260    45   292 0.83 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.8    335 BGC0001262_ORF5:gid:AKT6-1:pid:BAO10617.1:loc:28113:29010:strand:+ -            298   2.3e-26   93.3   0.0   1   1     3e-30   2.9e-26   92.9   0.0     3   227    51   267    49   295 0.84 Enoyl-CoA hydratase/isomerase
+p450                 PF00067.25   463 BGC0001262_ORF6:gid::pid:BAO10618.1:loc:29692:31560:strand:- -            522   2.1e-62  211.5   0.0   1   1   1.4e-66   2.8e-62  211.1   0.0    17   438    56   478    40   484 0.83 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001262.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001262.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001262.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:30:22 2023
+# [ok]

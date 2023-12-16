@@ -1,0 +1,44 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PLDc_N               PF13396.9     42 BGC0001393_ORF2:gid::pid:CCB53258.1:loc:603:843:strand:+ -             79   2.5e-10   40.3   7.9   1   1   1.3e-14   2.5e-10   40.3   7.9     1    42    29    71    29    71 0.95 Phospholipase_D-nuclease N-terminal
+ABC_tran             PF00005.30   137 BGC0001393_ORF3:gid::pid:CCB53259.1:loc:829:1720:strand:+ -            296     8e-35  120.5   0.1   1   1   1.4e-38   1.4e-34  119.7   0.1     1   136    17   156    17   157 0.97 ABC transporter
+ABC_tran             PF00005.30   137 BGC0001393_ORF5:gid::pid:CCB53261.1:loc:2493:3207:strand:+ -            237   6.5e-24   85.1   0.0   1   1   1.1e-27   1.1e-23   84.4   0.0     1   136    18   161    18   162 0.94 ABC transporter
+TetR_N               PF00440.26    47 BGC0001393_ORF7:gid::pid:CCB53263.1:loc:4967:5558:strand:+ -            196   6.7e-09   35.5   0.0   1   1   5.9e-13   1.2e-08   34.8   0.0     9    46    29    66    21    67 0.91 Bacterial regulatory proteins, tetR family
+AMP-binding          PF00501.31   424 BGC0001393_ORF8:gid::pid:CCB53264.1:loc:5583:12708:strand:+ -           2374  4.2e-120  401.4   0.0   1   2   4.6e-74   2.3e-70  237.5   0.0     6   424   447   832   442   832 0.84 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001393_ORF8:gid::pid:CCB53264.1:loc:5583:12708:strand:+ -           2374  4.2e-120  401.4   0.0   2   2   1.8e-41   8.6e-38  130.2   0.0   156   424  1946  2200  1933  2200 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001393_ORF8:gid::pid:CCB53264.1:loc:5583:12708:strand:+ -           2374  7.6e-109  364.5  38.3   1   3   5.5e-37   2.7e-33  115.5  11.2    16   436    22   409    12   416 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0001393_ORF8:gid::pid:CCB53264.1:loc:5583:12708:strand:+ -           2374  7.6e-109  364.5  38.3   2   3   1.5e-39   7.4e-36  123.9   9.0     6   428  1012  1392  1009  1400 0.78 Condensation domain
+Condensation         PF00668.23   457 BGC0001393_ORF8:gid::pid:CCB53264.1:loc:5583:12708:strand:+ -           2374  7.6e-109  364.5  38.3   3   3   3.8e-43   1.9e-39  135.8   2.4     3   438  1405  1823  1403  1831 0.83 Condensation domain
+PP-binding           PF00550.28    67 BGC0001393_ORF8:gid::pid:CCB53264.1:loc:5583:12708:strand:+ -           2374     3e-21   75.6   0.0   1   2     7e-12   3.4e-08   33.8   0.0     4    66   933   992   930   993 0.87 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001393_ORF8:gid::pid:CCB53264.1:loc:5583:12708:strand:+ -           2374     3e-21   75.6   0.0   2   2   1.5e-13   7.6e-10   39.1   0.0     4    64  2306  2364  2304  2367 0.90 Phosphopantetheine attachment site
+Condensation         PF00668.23   457 BGC0001393_ORF9:gid::pid:CCB53265.1:loc:12697:13072:strand:+ -            124   2.1e-15   56.5   0.8   1   1   1.1e-19   2.2e-15   56.4   0.8     3   129     4   122     2   124 0.90 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001393_ORF10:gid::pid:CCB53266.1:loc:13224:16917:strand:+ -           1230   1.8e-50  171.9   0.0   1   1   4.9e-54   3.2e-50  171.1   0.0    11   424   272   643   264   643 0.83 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001393_ORF10:gid::pid:CCB53266.1:loc:13224:16917:strand:+ -           1230   8.7e-38  130.3  20.0   1   1   6.8e-36   4.4e-32  111.5   3.8     4   305   822  1100   819  1112 0.86 Condensation domain
+PP-binding           PF00550.28    67 BGC0001393_ORF10:gid::pid:CCB53266.1:loc:13224:16917:strand:+ -           1230   1.3e-05   25.5   0.0   1   1   5.3e-09   3.5e-05   24.2   0.0    17    63   758   803   747   805 0.86 Phosphopantetheine attachment site
+Condensation         PF00668.23   457 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937  2.2e-135  452.0  51.1   1   4   4.9e-47   1.9e-43  148.9  10.1     4   445     6   413     3   416 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937  2.2e-135  452.0  51.1   2   4   2.9e-43   1.1e-39  136.5  14.0     8   431  1016  1403  1013  1425 0.87 Condensation domain
+Condensation         PF00668.23   457 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937  2.2e-135  452.0  51.1   3   4   1.3e-16     5e-13   48.7   1.7     4   157  1641  1787  1638  1802 0.84 Condensation domain
+Condensation         PF00668.23   457 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937  2.2e-135  452.0  51.1   4   4   2.8e-42   1.1e-38  133.3   3.1     2   435  2037  2445  2036  2452 0.89 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937   8.8e-66  222.4   0.0   1   1   3.6e-69   1.4e-65  221.7   0.0     2   423   440   830   439   831 0.87 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937   3.5e-38  131.4   0.2   1   1   3.7e-41   1.4e-37  129.4   0.0     1   255  2591  2818  2591  2820 0.90 Male sterility protein
+PP-binding           PF00550.28    67 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937     2e-31  108.2   0.8   1   3     1e-11   3.9e-08   33.6   0.0    14    63   943   992   933   995 0.90 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937     2e-31  108.2   0.8   2   3   5.3e-11   2.1e-07   31.3   0.0     2    67  1561  1623  1560  1623 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937     2e-31  108.2   0.8   3   3   1.5e-13   5.8e-10   39.5   0.1     2    64  2490  2550  2489  2552 0.93 Phosphopantetheine attachment site
+Epimerase            PF01370.24   241 BGC0001393_ORF11:gid::pid:CCB53267.1:loc:16934:25748:strand:+ -           2937   4.4e-08   33.0   0.0   1   1   2.8e-11   1.1e-07   31.7   0.0     1   160  2589  2760  2589  2831 0.78 NAD dependent epimerase/dehydratase family
+Thioesterase         PF00975.23   230 BGC0001393_ORF12:gid::pid:CCB53268.1:loc:25744:26431:strand:+ -            228   4.8e-20   72.8   0.0   1   1     3e-24   5.8e-20   72.5   0.0     2   216     5   214     4   223 0.80 Thioesterase domain
+AMP-binding          PF00501.31   424 BGC0001393_ORF13:gid::pid:CCB53269.1:loc:26468:28208:strand:+ -            579   3.3e-64  217.2   0.0   1   1   1.6e-66   1.5e-62  211.7   0.0     3   423    32   404    30   405 0.87 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0001393_ORF13:gid::pid:CCB53269.1:loc:26468:28208:strand:+ -            579   2.7e-09   37.3   0.5   1   1   1.1e-12   1.1e-08   35.4   0.4     3    66   514   575   509   576 0.86 Phosphopantetheine attachment site
+ACPS                 PF01648.23   114 BGC0001393_ORF14:gid::pid:CCB53270.1:loc:28215:28869:strand:+ -            217     8e-13   48.7   0.2   1   1     8e-17   1.6e-12   47.7   0.2     2    79   105   173   104   206 0.86 4'-phosphopantetheinyl transferase superfamily
+ABM                  PF03992.19    78 BGC0001393_ORF15:gid::pid:CCB53271.1:loc:30121:30781:strand:+ -            219   1.1e-17   64.1   0.2   1   2   1.4e-12   2.8e-08   33.9   0.1    18    77    21    80     4    81 0.84 Antibiotic biosynthesis monooxygenase
+ABM                  PF03992.19    78 BGC0001393_ORF15:gid::pid:CCB53271.1:loc:30121:30781:strand:+ -            219   1.1e-17   64.1   0.2   2   2     7e-11   1.4e-06   28.5   0.0     8    77   121   190   117   191 0.85 Antibiotic biosynthesis monooxygenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001393.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001393.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001393.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:06:59 2023
+# [ok]

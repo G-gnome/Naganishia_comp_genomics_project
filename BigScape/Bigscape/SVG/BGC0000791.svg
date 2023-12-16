@@ -1,0 +1,138 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="449.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="439.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>galF
+UDP-glucose pyrophosphorylase</title>
+			<polygon class="galF
+UDP-glucose pyrophosphorylase" points="10,10 39,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="10,28 23,28 35,40 23,52 10,52" stroke-linejoin="round" width="27" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rmlB
+dTDP-D-glucose-4,6-dehydratase</title>
+			<polygon class="rmlB
+dTDP-D-glucose-4,6-dehydratase" points="52,25 58,25 58,10 88,40 58,70 58,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="52,28 71,28 83,40 71,52 52,52" stroke-linejoin="round" width="32" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rmlA
+glucose-1-phosphate thymidylyltransferase</title>
+			<polygon class="rmlA
+glucose-1-phosphate thymidylyltransferase" points="88,10 117,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="88,28 100,28 111,39 111,41 100,52 88,52" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fdtA
+dTDP-6-deoxy-3,4-keto-hexulose isomerase</title>
+			<polygon class="fdtA
+dTDP-6-deoxy-3,4-keto-hexulose isomerase" points="117,10 130,40 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FdtA (PF05523)
+"WxcM-like, C-terminal"</title>
+				<polygon class="PF05523" points="117,28 121,28 127,40 121,52 117,52" stroke-linejoin="round" width="13" height="24" fill="rgb(91,72,180)" stroke="rgb(72,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fdtC
+acetyltransferase</title>
+			<polygon class="fdtC
+acetyltransferase" points="130,10 145,40 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="131,28 135,28 141,40 135,52 131,52" stroke-linejoin="round" width="12" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wehA
+hypothetical protein</title>
+			<polygon class="wehA
+hypothetical protein" points="145,25 146,25 146,10 176,40 146,70 146,55 145,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>fdtB
+aminotransferase</title>
+			<polygon class="fdtB
+aminotransferase" points="177,25 183,25 183,10 213,40 183,70 183,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="178,28 197,28 209,40 197,52 178,52" stroke-linejoin="round" width="35" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzx
+O-antigen flippase</title>
+			<polygon class="wzx
+O-antigen flippase" points="213,25 225,25 225,10 255,40 225,70 225,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>wehB
+glycosyl transferase</title>
+			<polygon class="wehB
+glycosyl transferase" points="255,25 256,25 256,10 286,40 256,70 256,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="255,28 270,28 272,30 272,50 270,52 255,52" stroke-linejoin="round" width="17" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzy
+O-antigen polymerase</title>
+			<polygon class="wzy
+O-antigen polymerase" points="288,25 300,25 300,10 330,40 300,70 300,55 288,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6337 (PF19863)
+"Family of unknown function (DUF6337)"</title>
+				<polygon class="PF19863" points="292,28 314,28 326,40 314,52 292,52" stroke-linejoin="round" width="36" height="24" fill="rgb(62,217,71)" stroke="rgb(49,173,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wehC
+glycosyl transferase</title>
+			<polygon class="wehC
+glycosyl transferase" points="330,10 359,40 330,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>wehD
+glycosyl transferase</title>
+			<polygon class="wehD
+glycosyl transferase" points="359,10 384,40 359,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="359,28 370,28 376,35 376,45 370,52 359,52" stroke-linejoin="round" width="17" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gnd
+6-phosphogluconate dehydrogenase</title>
+			<polygon class="gnd
+6-phosphogluconate dehydrogenase" points="392,25 408,25 408,10 438,40 408,70 408,55 392,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_2 (PF03446)
+"NAD binding domain of 6-phosphogluconate dehydrogenase"</title>
+				<rect class="PF03446" x="392" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(205,164,98)" stroke="rgb(164,131,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>6PGD (PF00393)
+"6-phosphogluconate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00393" points="409,28 422,28 434,40 422,52 409,52" stroke-linejoin="round" width="28" height="24" fill="rgb(57,119,210)" stroke="rgb(45,95,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

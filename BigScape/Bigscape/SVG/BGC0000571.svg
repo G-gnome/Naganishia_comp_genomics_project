@@ -1,0 +1,48 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="172.46666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="162.46666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (RBRH_03778)
+Multidrug resistance ABC transporter ATP-binding and permease protein</title>
+			<polygon class=" (RBRH_03778)
+Multidrug resistance ABC transporter ATP-binding and permease protein" points="70,25 40,25 40,10 10,40 40,70 40,55 70,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="19,35 26,28 33,28 33,52 26,52 19,45" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="40" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RBRH_03777)</title>
+			<polygon class=" (RBRH_03777)" points="128,25 100,25 100,10 70,40 100,70 100,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="74,40 86,28 106,28 106,52 86,52" stroke-linejoin="round" width="36" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RBRH_03776)</title>
+			<polygon class=" (RBRH_03776)" points="128,40 155,10 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="132,40 141,30 141,50" stroke-linejoin="round" width="12" height="24" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (RBRH_03775)</title>
+			<polygon class=" (RBRH_03775)" points="157,40 162,10 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5967 (PF19392)
+"Family of unknown function (DUF5967)"</title>
+				<polygon class="PF19392" points="160,40 161,34 161,46" stroke-linejoin="round" width="4" height="24" fill="rgb(67,193,109)" stroke="rgb(53,154,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

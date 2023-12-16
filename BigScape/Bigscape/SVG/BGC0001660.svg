@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="282.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="272.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+SARP</title>
+			<polygon class="
+SARP" points="10,10 35,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="12" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<polygon class="PF03704" points="20,28 21,28 31,40 21,52 20,52" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="43,10 55,40 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5950 (PF19375)
+"Family of unknown function (DUF5950)"</title>
+				<polygon class="PF19375" points="44,28 46,28 51,40 46,52 44,52" stroke-linejoin="round" width="10" height="24" fill="rgb(152,215,100)" stroke="rgb(121,172,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+structural protein</title>
+			<polygon class="
+structural protein" points="57,10 65,40 57,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5973 (PF19398)
+"Family of unknown function (DUF5973)"</title>
+				<polygon class="PF19398" points="57,28 58,28 61,40 58,52 57,52" stroke-linejoin="round" width="7" height="24" fill="rgb(106,90,228)" stroke="rgb(84,71,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+class-II lanthipeptide synthetase</title>
+			<polygon class="
+class-II lanthipeptide synthetase" points="69,25 146,25 146,10 176,40 146,70 146,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="92" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="139,28 159,28 171,40 159,52 139,52" stroke-linejoin="round" width="34" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+non-heme FeII-dependent hydroxylase</title>
+			<polygon class="
+non-heme FeII-dependent hydroxylase" points="176,25 176,25 176,10 206,40 176,70 176,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nif11 (PF07862)
+"Nif11 domain"</title>
+				<rect class="PF07862" x="176" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(82,202,204)" stroke="rgb(65,161,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative ABC transporter</title>
+			<polygon class="
+putative ABC transporter" points="208,25 212,25 212,10 242,40 212,70 212,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="212" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative ABC-2 type transporter</title>
+			<polygon class="
+putative ABC-2 type transporter" points="243,10 272,40 243,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="245,28 256,28 266,38 266,42 256,52 245,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

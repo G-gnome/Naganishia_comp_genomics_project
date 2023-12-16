@@ -1,0 +1,34 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.25   284 BGC0000471_ORF1:gid::pid:AFZ08002.1:loc:0:2001:strand:+ -            666   3.2e-39  135.0   0.0   1   1   7.6e-43     5e-39  134.4   0.0     2   269    13   253    12   293 0.87 Subtilase family
+PatG_C               PF18065.4    115 BGC0000471_ORF1:gid::pid:AFZ08002.1:loc:0:2001:strand:+ -            666   4.4e-37  126.7   0.0   1   1   1.1e-40   7.4e-37  126.0   0.0     4   115   551   662   548   662 0.97 PatG C-terminal
+PatG_D               PF18047.4    118 BGC0000471_ORF1:gid::pid:AFZ08002.1:loc:0:2001:strand:+ -            666   1.2e-19   71.0   0.0   1   1   4.1e-23   2.7e-19   69.8   0.0     2   117   390   503   389   504 0.96 PatG Domain
+YcaO                 PF02624.19   322 BGC0000471_ORF4:gid::pid:AFZ08005.1:loc:3181:5512:strand:+ -            776   4.1e-98  328.8   0.0   1   1  3.2e-102   6.2e-98  328.2   0.0     1   322   408   739   408   739 0.91 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+DUF5837              PF19155.3     61 BGC0000471_ORF5:gid::pid:AFZ08006.1:loc:5646:5874:strand:+ -             75   7.1e-20   71.0   0.1   1   1   6.1e-24   1.2e-19   70.3   0.1     1    60     1    74     1    75 0.80 Family of unknown function (DUF5837)
+DUF5838              PF19156.3    289 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613    8e-102  340.6   1.2   1   1  4.1e-105    8e-102  340.6   1.2     2   289   321   605   320   605 0.99 Family of unknown function (DUF5838)
+Methyltransf_11      PF08241.15    96 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   1.1e-18   67.8   0.0   1   1   1.4e-21   2.8e-18   66.5   0.0     2    96   110   208   109   208 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   3.6e-17   63.0   0.0   1   1   5.2e-20     1e-16   61.5   0.0     1    97   108   204   108   204 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   2.9e-13   50.0   0.0   1   1   3.3e-16   6.6e-13   48.9   0.0     3   110   104   209   102   239 0.91 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   7.3e-11   42.8   0.0   1   1   9.3e-14   1.8e-10   41.5   0.0     2    99   110   206   109   206 0.88 Methyltransferase domain
+CMAS                 PF02353.23   273 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   9.1e-11   41.7   0.0   1   1   8.7e-14   1.7e-10   40.8   0.0    56   218    98   262    87   281 0.86 Mycolic acid cyclopropane synthetase
+Methyltransf_23      PF13489.9    165 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   9.3e-10   38.7   0.0   1   1     1e-12     2e-09   37.6   0.0    20   164   102   258    84   259 0.77 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613     2e-08   34.0   0.0   1   1   1.8e-10   3.6e-07   29.9   0.0    41   151    98   208    86   222 0.93 ubiE/COQ5 methyltransferase family
+Methyltransf_2       PF00891.21   210 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   2.4e-06   27.2   0.0   1   1   1.9e-09   3.7e-06   26.5   0.0    61   183   103   227    67   255 0.81 O-methyltransferase domain
+MTS                  PF05175.17   170 BGC0000471_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   5.7e-06   26.2   0.0   1   1   5.3e-09     1e-05   25.3   0.0    31   138   104   208    77   228 0.87 Methyltransferase small domain
+DUF5838              PF19156.3    289 BGC0000471_ORF7:gid::pid:AFZ08008.1:loc:7936:8899:strand:+ -            320     4e-95  318.6   0.6   1   1   2.3e-99   4.5e-95  318.4   0.6     1   289    14   303    14   303 0.98 Family of unknown function (DUF5838)
+PatG_C               PF18065.4    115 BGC0000471_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   1.4e-30  105.8   0.1   1   1   1.1e-33   4.2e-30  104.2   0.1     7   115  1177  1285  1171  1285 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0000471_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   8.1e-19   68.0   0.0   1   1   3.6e-22   1.4e-18   67.3   0.0    28   269   678   906   531   926 0.80 Subtilase family
+PatG_D               PF18047.4    118 BGC0000471_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   3.6e-14   53.3   0.0   1   1     3e-17   1.2e-13   51.6   0.0     2   105  1017  1210  1016  1228 0.89 PatG Domain
+Nitroreductase       PF00881.27   168 BGC0000471_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   4.2e-12   46.6   0.0   1   1   3.2e-15   1.3e-11   45.1   0.0     1   164   270   466   270   470 0.86 Nitroreductase family
+HTH_57               PF18679.4    112 BGC0000471_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   6.3e-11   42.6   0.0   1   1   5.2e-14   2.1e-10   40.9   0.0     4   111     5   110     1   111 0.92 ThcOx helix turn helix domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000471.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000471.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000471.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:21:17 2023
+# [ok]

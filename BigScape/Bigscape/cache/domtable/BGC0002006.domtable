@@ -1,0 +1,17 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.24   355 BGC0002006_ORF2:gid::pid:WP_040248810.1:loc:209:2030:strand:+ -            606   1.7e-30  107.0   0.6   1   1   1.3e-34   2.5e-30  106.5   0.6     2   353   193   584   192   586 0.77 Asparagine synthase
+Transglut_core3      PF13471.9    117 BGC0002006_ORF3:gid::pid:WP_040248813.1:loc:2022:2754:strand:+ -            243   4.6e-20   71.8   6.4   1   1   2.3e-24   4.6e-20   71.8   6.4    12   116   133   233   121   234 0.85 Transglutaminase-like superfamily
+Acetyltransf_3       PF13302.10   138 BGC0002006_ORF4:gid::pid:WP_237283052.1:loc:2809:3346:strand:+ -            178   5.4e-14   53.2   0.0   1   1   8.7e-18   8.5e-14   52.5   0.0    13   138     3   128     2   128 0.86 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.28   117 BGC0002006_ORF4:gid::pid:WP_237283052.1:loc:2809:3346:strand:+ -            178   2.7e-11   43.9   0.0   1   1   4.2e-15   4.2e-11   43.2   0.0    38   117    50   127     3   127 0.81 Acetyltransferase (GNAT) family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002006.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002006.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002006.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:30:32 2023
+# [ok]

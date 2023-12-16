@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Staph_opine_DH       PF10100.12   424 BGC0002488_ORF2:gid::pid:AEI40457.1:loc:1675:2998:strand:+ -            440  1.6e-216  719.0   0.0   1   1  9.3e-221  1.8e-216  718.8   0.0     1   424     6   429     6   429 1.00 Staphylopine dehydrogenase
+SBP_bac_5            PF00496.25   377 BGC0002488_ORF3:gid::pid:AEI40458.1:loc:2994:4593:strand:+ -            532     4e-82  276.4   4.7   1   1   2.6e-86     5e-82  276.0   4.7     2   373    74   448    73   451 0.89 Bacterial extracellular solute-binding proteins, family 5 Middle
+BPD_transp_1         PF00528.25   185 BGC0002488_ORF4:gid::pid:AEI40459.1:loc:4618:5551:strand:+ -            310   1.1e-38  133.0  11.3   1   1   1.1e-41   1.1e-37  129.7   7.7     2   185   118   308   117   308 0.98 Binding-protein-dependent transport system inner membrane component
+BPD_transp_1_N       PF19300.2    114 BGC0002488_ORF4:gid::pid:AEI40459.1:loc:4618:5551:strand:+ -            310   1.5e-12   47.8   1.5   1   1   8.4e-15   8.2e-11   42.2   0.0     4    96     4   102     1   112 0.76 Binding-prot-dependent transport system membrane comp, N-term
+BPD_transp_1         PF00528.25   185 BGC0002488_ORF5:gid::pid:AEI40460.1:loc:5552:6446:strand:+ -            297   2.9e-27   95.7  11.9   1   1     3e-31   2.9e-27   95.7  11.9     1   183    91   273    91   275 0.97 Binding-protein-dependent transport system inner membrane component
+OppC_N               PF12911.10    51 BGC0002488_ORF5:gid::pid:AEI40460.1:loc:5552:6446:strand:+ -            297   1.7e-07   31.2   0.1   1   1   1.7e-11   1.7e-07   31.2   0.1     6    50     3    49     2    51 0.85 N-terminal TM domain of oligopeptide transport permease C
+ABC_tran             PF00005.30   137 BGC0002488_ORF6:gid::pid:AEI40461.1:loc:6475:7273:strand:+ -            265   1.9e-24   86.8   0.0   1   1   1.4e-28   2.8e-24   86.3   0.0     4   136    16   170    13   171 0.88 ABC transporter
+ABC_tran             PF00005.30   137 BGC0002488_ORF7:gid::pid:AEI40462.1:loc:7259:8003:strand:+ -            247   1.6e-32  113.0   0.0   1   1   1.1e-36   2.1e-32  112.6   0.0     1   136    25   170    25   171 0.94 ABC transporter
+MFS_1                PF07690.19   353 BGC0002488_ORF8:gid::pid:AEI40463.1:loc:8031:9249:strand:+ -            405   3.5e-35  121.7  49.6   1   1   2.9e-31   5.6e-27   94.7  20.3     2   242    13   248    12   271 0.83 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002488.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002488.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002488.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:45:02 2023
+# [ok]

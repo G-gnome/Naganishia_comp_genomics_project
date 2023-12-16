@@ -1,0 +1,287 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1062.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1052.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>strU (SGR_5914)
+putative NAD(P)-dependent oxidoreductase</title>
+			<polygon class="strU (SGR_5914)
+putative NAD(P)-dependent oxidoreductase" points="52,25 40,25 40,10 10,40 40,70 40,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_3 (PF03447)
+"Homoserine dehydrogenase, NAD binding domain"</title>
+				<rect class="PF03447" x="37" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(89,165,190)" stroke="rgb(71,131,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strV (SGR_5915)
+putative ABC-type multidrug transport system ATPase and permease component</title>
+			<polygon class="strV (SGR_5915)
+putative ABC-type multidrug transport system ATPase and permease component" points="68,25 96,25 96,10 126,40 96,70 96,55 68,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="71" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="103,28 110,28 117,35 117,45 110,52 103,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strW (SGR_5916)
+putative ABC-type multidrug transport system ATPase and permease component</title>
+			<polygon class="strW (SGR_5916)
+putative ABC-type multidrug transport system ATPase and permease component" points="127,25 155,25 155,10 185,40 155,70 155,55 127,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="130" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="162,28 168,28 176,36 176,44 168,52 162,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsG (SGR_5917)
+putative L-glutaminyl-2-N-methyltransferase</title>
+			<polygon class="stsG (SGR_5917)
+putative L-glutaminyl-2-N-methyltransferase" points="187,10 212,40 187,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="192,28 198,28 201,32 201,48 198,52 192,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsF (SGR_5918)
+StsF protein</title>
+			<polygon class="stsF (SGR_5918)
+StsF protein" points="215,10 238,40 215,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>stsE (SGR_5919)
+putative ATP:scyllo-inosamine phosphotransferase</title>
+			<polygon class="stsE (SGR_5919)
+putative ATP:scyllo-inosamine phosphotransferase" points="237,25 240,25 240,10 270,40 240,70 240,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="240,28 253,28 264,39 264,41 253,52 240,52" stroke-linejoin="round" width="24" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsD (SGR_5920)
+putative aminosugar-converting enzyme</title>
+			<polygon class="stsD (SGR_5920)
+putative aminosugar-converting enzyme" points="270,10 292,40 270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF13419" points="276,28 280,28 289,40 289,40 280,52 276,52" stroke-linejoin="round" width="13" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsC (SGR_5921)
+putative L-glutamine:scyllo-inosose aminotransferase</title>
+			<polygon class="stsC (SGR_5921)
+putative L-glutamine:scyllo-inosose aminotransferase" points="335,25 323,25 323,10 293,40 323,70 323,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="297,40 309,28 332,28 332,52 309,52" stroke-linejoin="round" width="37" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsB (SGR_5922)
+putative NADH:N-amidino-scyllo-inosamine oxidoreductase</title>
+			<polygon class="stsB (SGR_5922)
+putative NADH:N-amidino-scyllo-inosamine oxidoreductase" points="344,25 364,25 364,10 394,40 364,70 364,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>stsA (SGR_5923)
+putative L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase</title>
+			<polygon class="stsA (SGR_5923)
+putative L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase" points="397,25 408,25 408,10 438,40 408,70 408,55 397,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="399,28 421,28 428,35 428,45 421,52 399,52" stroke-linejoin="round" width="29" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strO (SGR_5924)
+putative glucose-1-phosphate thymidylyltransferase</title>
+			<polygon class="strO (SGR_5924)
+putative glucose-1-phosphate thymidylyltransferase" points="439,40 465,10 465,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inositol_P (PF00459)
+"Inositol monophosphatase family"</title>
+				<polygon class="PF00459" points="443,40 453,28 464,28 464,52 453,52" stroke-linejoin="round" width="25" height="24" fill="rgb(67,210,137)" stroke="rgb(53,168,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strN (SGR_5925)
+putative N-amidionostreptamine 6-phosphotransferase</title>
+			<polygon class="strN (SGR_5925)
+putative N-amidionostreptamine 6-phosphotransferase" points="469,25 469,25 469,10 499,40 469,70 469,55 469,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="473,28 483,28 495,40 495,40 483,52 473,52" stroke-linejoin="round" width="22" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strB2 (SGR_5926)
+putative scyllo-inosamine-4-phosphate amidinotransferase</title>
+			<polygon class="strB2 (SGR_5926)
+putative scyllo-inosamine-4-phosphate amidinotransferase" points="500,25 505,25 505,10 535,40 505,70 505,55 500,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strM (SGR_5927)
+putative dTDP-4-dehydrorhamnose 3,5-epimerase</title>
+			<polygon class="strM (SGR_5927)
+putative dTDP-4-dehydrorhamnose 3,5-epimerase" points="537,10 557,40 537,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="537,28 545,28 553,40 545,52 537,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strL (SGR_5928)
+putative dTDP-4-dehydrorhamnose reductase</title>
+			<polygon class="strL (SGR_5928)
+putative dTDP-4-dehydrorhamnose reductase" points="588,25 588,25 588,10 558,40 588,70 588,55 588,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RmlD_sub_bind (PF04321)
+"RmlD substrate binding domain"</title>
+				<polygon class="PF04321" points="562,40 574,28 587,28 587,52 574,52" stroke-linejoin="round" width="28" height="24" fill="rgb(196,203,60)" stroke="rgb(156,162,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strE (SGR_5929)
+putative dTDP-glucose 4,6-dehydratase</title>
+			<polygon class="strE (SGR_5929)
+putative dTDP-glucose 4,6-dehydratase" points="623,25 620,25 620,10 590,40 620,70 620,55 623,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="594,40 606,28 622,28 622,52 606,52" stroke-linejoin="round" width="30" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strD (SGR_5930)
+putative glucose-1-phosphate thymidylyltransferase</title>
+			<polygon class="strD (SGR_5930)
+putative glucose-1-phosphate thymidylyltransferase" points="661,25 656,25 656,10 626,40 656,70 656,55 661,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="637,33 642,28 660,28 660,52 642,52 637,47" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strR (SGR_5931)
+streptomycin biosynthesis operon regulator</title>
+			<polygon class="strR (SGR_5931)
+streptomycin biosynthesis operon regulator" points="675,25 680,25 680,10 710,40 680,70 680,55 675,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ParBc (PF02195)
+"ParB/Sulfiredoxin domain"</title>
+				<rect class="PF02195" x="678" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(55,214,209)" stroke="rgb(44,171,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>aphD (SGR_5932)
+streptomycin 6-phosphotransferase</title>
+			<polygon class="aphD (SGR_5932)
+streptomycin 6-phosphotransferase" points="718,25 718,25 718,10 748,40 718,70 718,55 718,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH_6_hur (PF04655)
+"Aminoglycoside/hydroxyurea antibiotic resistance kinase"</title>
+				<polygon class="PF04655" points="722,28 732,28 744,40 732,52 722,52" stroke-linejoin="round" width="24" height="24" fill="rgb(92,202,190)" stroke="rgb(73,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strB1 (SGR_5933)
+scyllo-inosamine-4-phosphate amidinotransferase</title>
+			<polygon class="strB1 (SGR_5933)
+scyllo-inosamine-4-phosphate amidinotransferase" points="765,25 769,25 769,10 799,40 769,70 769,55 765,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strF (SGR_5934)
+StrF protein</title>
+			<polygon class="strF (SGR_5934)
+StrF protein" points="801,10 829,40 801,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_tranf_2_5 (PF13712)
+"Glycosyltransferase like family"</title>
+				<polygon class="PF13712" points="801,28 813,28 821,36 821,44 813,52 801,52" stroke-linejoin="round" width="20" height="24" fill="rgb(220,96,135)" stroke="rgb(176,76,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strG (SGR_5935)
+StrG protein</title>
+			<polygon class="strG (SGR_5935)
+StrG protein" points="830,10 850,40 830,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strH (SGR_5936)
+putative dTDP-dihydrostreptose--streptidine-6-phosphate dihydrostreptosyltransferase</title>
+			<polygon class="strH (SGR_5936)
+putative dTDP-dihydrostreptose--streptidine-6-phosphate dihydrostreptosyltransferase" points="855,25 863,25 863,10 893,40 863,70 863,55 855,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strI (SGR_5937)
+putative NAD:myo-inositol oxidoreductase</title>
+			<polygon class="strI (SGR_5937)
+putative NAD:myo-inositol oxidoreductase" points="895,25 899,25 899,10 929,40 899,70 899,55 895,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="895" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="908,28 913,28 925,40 913,52 908,52" stroke-linejoin="round" width="19" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strK (SGR_5938)
+putative streptomycin-6-phosphate phosphatase</title>
+			<polygon class="strK (SGR_5938)
+putative streptomycin-6-phosphate phosphatase" points="930,25 945,25 945,10 975,40 945,70 945,55 930,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alk_phosphatase (PF00245)
+"Alkaline phosphatase"</title>
+				<polygon class="PF00245" points="934,28 958,28 970,40 970,40 958,52 934,52" stroke-linejoin="round" width="36" height="24" fill="rgb(172,203,66)" stroke="rgb(137,162,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strS (SGR_5939)
+putative N-methyl-L-glucosamine biosynthetic aminotransferase</title>
+			<polygon class="strS (SGR_5939)
+putative N-methyl-L-glucosamine biosynthetic aminotransferase" points="979,25 986,25 986,10 1016,40 986,70 986,55 979,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="980,28 1000,28 1012,40 1000,52 980,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strT (SGR_5940)
+putative oxidoreductase</title>
+			<polygon class="strT (SGR_5940)
+putative oxidoreductase" points="1020,25 1021,25 1021,10 1051,40 1021,70 1021,55 1020,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="1021,28 1035,28 1047,40 1035,52 1021,52" stroke-linejoin="round" width="29" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

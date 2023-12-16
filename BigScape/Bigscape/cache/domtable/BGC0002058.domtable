@@ -1,0 +1,28 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0002058_ORF1:gid::pid:WP_002277502.1:loc:11:1808:strand:- -            598   1.1e-47  162.9  45.3   1   1   7.7e-52   1.5e-47  162.4  44.6     1   352    13   404    13   405 0.91 Major Facilitator Superfamily
+TetR_C_8             PF14278.9    103 BGC0002058_ORF2:gid::pid:WP_002277501.1:loc:1986:2529:strand:+ -            180   8.1e-09   35.6   2.3   1   1   8.3e-13   8.2e-09   35.6   1.1     7   100    82   174    77   175 0.85 Transcriptional regulator C-terminal region
+TetR_N               PF00440.26    47 BGC0002058_ORF2:gid::pid:WP_002277501.1:loc:1986:2529:strand:+ -            180   1.3e-08   34.7   0.0   1   1   2.9e-12   2.9e-08   33.5   0.0     6    44    18    56    14    57 0.93 Bacterial regulatory proteins, tetR family
+TetR_N               PF00440.26    47 BGC0002058_ORF3:gid::pid:WP_002283497.1:loc:2670:3213:strand:- -            180   9.8e-08   31.8   0.0   1   1   1.1e-11   2.2e-07   30.7   0.0    12    44    23    55    18    56 0.91 Bacterial regulatory proteins, tetR family
+HXXEE                PF13787.9    111 BGC0002058_ORF4:gid::pid:WP_002277499.1:loc:3342:3846:strand:+ -            167   3.1e-15   57.1   2.6   1   1   1.6e-19   3.1e-15   57.1   2.6     1   110     8   120     8   121 0.87 Protein of unknown function with HXXEE motif
+ketoacyl-synt        PF00109.29   253 BGC0002058_ORF5:gid::pid:WP_002283498.1:loc:4034:6776:strand:- -            913   4.8e-54  183.7   0.0   1   1     2e-57   7.7e-54  183.0   0.0     5   252     5   244     1   245 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002058_ORF5:gid::pid:WP_002283498.1:loc:4034:6776:strand:- -            913   6.3e-37  126.3   0.1   1   1   3.4e-40   1.3e-36  125.3   0.1     1   118   253   367   253   368 0.98 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0002058_ORF5:gid::pid:WP_002283498.1:loc:4034:6776:strand:- -            913     6e-26   92.1   0.0   1   1     3e-29   1.2e-25   91.2   0.0     2   228   650   905   649   907 0.75 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002058_ORF5:gid::pid:WP_002283498.1:loc:4034:6776:strand:- -            913   5.1e-15   55.6   0.1   1   1   2.8e-18   1.1e-14   54.6   0.1     2    67   559   621   558   621 0.96 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0002058_ORF5:gid::pid:WP_002283498.1:loc:4034:6776:strand:- -            913     1e-14   55.1   0.2   1   1   6.1e-18   2.4e-14   53.9   0.2    16   104   385   474   371   481 0.84 Ketoacyl-synthetase C-terminal extension
+AMP-binding          PF00501.31   424 BGC0002058_ORF6:gid::pid:WP_002308266.1:loc:6779:9854:strand:- -           1024   2.2e-66  224.3   0.0   1   1   6.9e-70   3.4e-66  223.8   0.0     3   423   445   834   443   835 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002058_ORF6:gid::pid:WP_002308266.1:loc:6779:9854:strand:- -           1024     6e-23   81.4   7.0   1   1   1.9e-26   9.3e-23   80.7   7.0     6   409     4   377     2   408 0.77 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0002058_ORF6:gid::pid:WP_002308266.1:loc:6779:9854:strand:- -           1024   3.1e-08   34.6   0.0   1   1   1.3e-11   6.3e-08   33.6   0.0     1    76   843   918   843   918 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002058_ORF6:gid::pid:WP_002308266.1:loc:6779:9854:strand:- -           1024   5.6e-08   33.1   0.0   1   1   3.6e-11   1.8e-07   31.5   0.0     2    67   952  1017   951  1017 0.94 Phosphopantetheine attachment site
+DUF35_N              PF12172.11    37 BGC0002058_ORF7:gid::pid:WP_002277496.1:loc:9860:10307:strand:- -            148   1.5e-05   24.9   6.6   1   1     1e-09     2e-05   24.4   6.6     8    32    27    51    20    55 0.92 Rubredoxin-like zinc ribbon domain (DUF35_N)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002058.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002058.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002058.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:17:23 2023
+# [ok]

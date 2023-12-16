@@ -1,0 +1,25 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_N               PF00440.26    47 BGC0001559_ORF1:gid:tetR:pid:AKT38403.1:loc:32:608:strand:+ -            191   2.6e-08   33.6   0.0   1   1   3.8e-12   7.5e-08   32.2   0.0     3    47    11    56    10    56 0.96 Bacterial regulatory proteins, tetR family
+Methyltransf_25      PF13649.9     97 BGC0001559_ORF2:gid::pid:AKT38404.1:loc:773:1523:strand:+ -            249   1.8e-15   57.5   0.1   1   1   3.7e-18   1.2e-14   54.8   0.0     2    97    42   132    41   132 0.90 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001559_ORF2:gid::pid:AKT38404.1:loc:773:1523:strand:+ -            249   1.7e-15   57.3   0.0   1   1   9.1e-19     3e-15   56.6   0.0    14   164    26   221    12   222 0.74 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001559_ORF2:gid::pid:AKT38404.1:loc:773:1523:strand:+ -            249   9.4e-14   52.0   0.1   1   1     7e-17   2.3e-13   50.7   0.0     1    95    42   135    42   136 0.88 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001559_ORF2:gid::pid:AKT38404.1:loc:773:1523:strand:+ -            249   4.4e-13   49.9   0.0   1   1   4.5e-16   1.5e-12   48.2   0.0     1    98    42   133    42   133 0.87 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001559_ORF2:gid::pid:AKT38404.1:loc:773:1523:strand:+ -            249   2.9e-11   43.5   0.0   1   1   1.3e-14   4.2e-11   43.0   0.0     4   115    38   141    35   168 0.83 Methyltransferase domain
+ABC_tran             PF00005.30   137 BGC0001559_ORF3:gid::pid:AKT38405.1:loc:1607:3362:strand:- -            584   2.2e-23   83.4   0.0   1   1     2e-27     4e-23   82.6   0.0     4   136   384   516   381   517 0.91 ABC transporter
+ABC_tran             PF00005.30   137 BGC0001559_ORF4:gid::pid:AKT38406.1:loc:3358:5059:strand:- -            566   4.1e-22   79.3   0.0   1   1   6.6e-26   6.4e-22   78.7   0.0     4   136   379   512   376   513 0.93 ABC transporter
+PhyH                 PF05721.16   211 BGC0001559_ORF8:gid::pid:AKT38410.1:loc:7237:8116:strand:- -            292   1.3e-19   71.4   0.0   1   1   8.7e-24   1.7e-19   71.0   0.0     9   209    35   249    27   251 0.68 Phytanoyl-CoA dioxygenase (PhyH)
+Carbam_trans_N       PF02543.18   346 BGC0001559_ORF11:gid::pid:AKT38413.1:loc:9666:11403:strand:+ -            578   3.2e-90  303.2   0.0   1   1   4.1e-94     4e-90  302.9   0.0     1   346     2   338     2   338 0.96 Carbamoyltransferase N-terminus
+Carbam_trans_C       PF16861.8    169 BGC0001559_ORF11:gid::pid:AKT38413.1:loc:9666:11403:strand:+ -            578   1.4e-70  236.4   0.0   1   1   2.7e-74   2.6e-70  235.5   0.0     1   169   391   559   391   559 0.98 Carbamoyltransferase C-terminus
+Aldo_ket_red         PF00248.24   292 BGC0001559_ORF13:gid::pid:AKT38415.1:loc:12116:13103:strand:+ -            328   3.8e-70  236.4   0.0   1   1   2.2e-74   4.3e-70  236.2   0.0     2   290    17   307    16   309 0.94 Aldo/keto reductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001559.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001559.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001559.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:46:23 2023
+# [ok]

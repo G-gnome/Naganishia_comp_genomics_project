@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.22   349 BGC0001777_ORF1:gid:JanM:pid:DAB41644.1:loc:2790:4596:strand:- -            390   9.8e-27   94.2   0.0   1   1   2.4e-30   2.3e-26   93.0   0.0     3   348     6   369     4   370 0.77 FAD binding domain
+polyprenyl_synt      PF00348.20   256 BGC0001777_ORF2:gid:JanC:pid:DAB41645.1:loc:7239:8230:strand:+ -            305     2e-24   86.2   0.0   1   1   1.4e-28   2.7e-24   85.7   0.0     6   252    29   265    25   269 0.86 Polyprenyl synthetase
+p450                 PF00067.25   463 BGC0001777_ORF3:gid:JanQ:pid:DAB41646.1:loc:10819:12798:strand:- -            534   1.5e-33  116.4   0.0   1   1     1e-37     2e-33  116.0   0.0   173   444   230   506   159   523 0.84 Cytochrome P450
+p450                 PF00067.25   463 BGC0001777_ORF4:gid:JanP:pid:DAB41647.1:loc:14640:16377:strand:+ -            495   5.8e-36  124.3   0.0   1   1   3.6e-40   7.1e-36  124.1   0.0   201   446   225   471   137   485 0.89 Cytochrome P450
+Trp_DMAT             PF11991.11   363 BGC0001777_ORF5:gid:JanD:pid:DAB41648.1:loc:16962:18357:strand:+ -            413   2.7e-83  280.5   0.0   1   1   1.7e-87   3.3e-83  280.2   0.0     1   359    12   365    12   369 0.88 Tryptophan dimethylallyltransferase
+Glyco_hydro_12       PF01670.19   214 BGC0001777_ORF6:gid::pid:DAB41649.1:loc:18853:19724:strand:- -            236   6.9e-58  196.3   5.2   1   1   4.1e-62   8.1e-58  196.0   5.2     2   213    31   235    30   236 0.96 Glycosyl hydrolase family 12
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001777.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001777.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001777.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:10:31 2023
+# [ok]

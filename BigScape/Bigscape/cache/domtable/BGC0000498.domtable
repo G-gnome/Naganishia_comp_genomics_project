@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SNF2-rel_dom         PF00176.26   318 BGC0000498_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908   3.1e-14   52.7   0.0   1   2   2.8e-09   1.8e-05   23.9   0.0    49   167   103   274    84   278 0.81 SNF2-related domain
+SNF2-rel_dom         PF00176.26   318 BGC0000498_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908   3.1e-14   52.7   0.0   2   2   5.3e-10   3.5e-06   26.3   0.0   181   311   311   458   287   465 0.76 SNF2-related domain
+ResIII               PF04851.18   171 BGC0000498_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908     2e-11   44.4   1.9   1   1     3e-15     2e-11   44.4   1.9     2   147    84   274    83   321 0.70 Type III restriction enzyme, res subunit
+Helicase_C           PF00271.34   111 BGC0000498_ORF1:gid::pid:ACA51933.1:loc:0:2728:strand:+ -            908   3.4e-07   30.7   0.0   1   1   2.5e-10   1.6e-06   28.5   0.0    41   111   532   604   474   604 0.84 Helicase conserved C-terminal domain
+DUF5962              PF19387.2     94 BGC0000498_ORF2:gid::pid:AGR45950.1:loc:2797:3097:strand:+ -             99   4.6e-42  142.4   4.3   1   1   2.5e-46   4.9e-42  142.3   4.3     3    93     8    98     1    99 0.96 Family of unknown function (DUF5962)
+L_biotic_typeA       PF04604.16    51 BGC0000498_ORF4:gid:bovA:pid:ACA51934.1:loc:3540:3717:strand:+ -             58   1.1e-17   63.8   0.6   1   1   6.4e-22   1.3e-17   63.5   0.6     1    51     1    51     1    51 0.98 Type-A lantibiotic
+DUF4135              PF13575.9    377 BGC0000498_ORF5:gid:bovM:pid:ACA51935.2:loc:3797:6311:strand:+ -            837   3.6e-59  201.0   0.1   1   1   5.6e-63   5.5e-59  200.4   0.1     3   376   103   460   101   461 0.91 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000498_ORF5:gid:bovM:pid:ACA51935.2:loc:3797:6311:strand:+ -            837   1.1e-27   96.7   5.9   1   1   1.1e-31   1.1e-27   96.7   5.9    99   345   618   831   535   836 0.84 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.18   133 BGC0000498_ORF6:gid:bovT:pid:ACA51936.2:loc:6324:8367:strand:+ -            680   1.2e-31  109.4   0.1   1   1   4.9e-35   3.2e-31  108.0   0.1     5   131     7   130     3   132 0.95 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000498_ORF6:gid:bovT:pid:ACA51936.2:loc:6324:8367:strand:+ -            680   1.1e-24   87.7   0.0   1   1   4.4e-28   2.9e-24   86.3   0.0     2   137   482   629   481   629 0.88 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000498_ORF6:gid:bovT:pid:ACA51936.2:loc:6324:8367:strand:+ -            680   3.7e-12   46.6  18.8   1   1   8.6e-16   5.6e-12   46.0  18.8     5   273   162   422   160   423 0.90 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000498_ORF7:gid:bovF:pid:ACA51937.2:loc:8341:9250:strand:+ -            302     6e-31  107.9   0.2   1   1   1.4e-32   1.4e-28  100.2   0.0     1   137    18   157    18   157 0.98 ABC transporter
+AAA_21               PF13304.9    304 BGC0000498_ORF7:gid:bovF:pid:ACA51937.2:loc:8341:9250:strand:+ -            302   6.4e-15   55.8   4.1   1   1   1.9e-14   1.8e-10   41.2   0.1   235   302   126   191    74   193 0.87 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0000498_ORF8:gid:bovE:pid:ACA51938.2:loc:9233:9956:strand:+ -            240   1.8e-08   34.7  24.3   1   1   8.9e-13   1.8e-08   34.7  24.3     1   173     4   182     4   188 0.75 ABC-2 family transporter protein
+GerE                 PF00196.22    57 BGC0000498_ORF11:gid:bovR:pid:ACA51941.1:loc:12157:12754:strand:+ -            198   5.8e-15   54.7   0.1   1   1   1.1e-18   1.1e-14   53.8   0.1     2    56   136   190   135   191 0.95 Bacterial regulatory proteins, luxR family
+Response_reg         PF00072.27   112 BGC0000498_ORF11:gid:bovR:pid:ACA51941.1:loc:12157:12754:strand:+ -            198   2.4e-14   53.6   0.2   1   1   4.1e-18   4.1e-14   52.8   0.2     1   111     3   117     3   118 0.93 Response regulator receiver domain
+Thioredoxin          PF00085.23   103 BGC0000498_ORF13:gid:sdb1:pid:ACA51942.1:loc:12991:13477:strand:+ -            161   2.3e-06   27.7   0.0   1   1   3.5e-10   3.4e-06   27.1   0.0    17   101    69   159    54   161 0.87 Thioredoxin
+TraF                 PF13728.9    224 BGC0000498_ORF13:gid:sdb1:pid:ACA51942.1:loc:12991:13477:strand:+ -            161   4.3e-05   23.6   0.0   1   1   4.5e-09   4.5e-05   23.5   0.0   123   215    64   152    31   160 0.84 F plasmid transfer operon protein
+DUF3991              PF13154.9     76 BGC0000498_ORF15:gid::pid:AGR45948.1:loc:14380:14995:strand:+ -            205   4.5e-06   27.2   0.1   1   1   5.1e-10     1e-05   26.0   0.1     1    62   110   180   110   194 0.77 Protein of unknown function (DUF3991)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000498.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000498.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000498.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:01:38 2023
+# [ok]

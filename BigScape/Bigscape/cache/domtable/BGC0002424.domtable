@@ -1,0 +1,38 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.26   274 BGC0002424_ORF1:gid:sacA:pid:QYI86758.1:loc:0:1749:strand:- -            582   6.2e-29  101.6   0.4   1   1   7.8e-33   7.6e-29  101.3   0.4     3   274    38   305    36   305 0.97 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002424_ORF1:gid:sacA:pid:QYI86758.1:loc:0:1749:strand:- -            582   3.8e-23   82.7   0.0   1   1   5.9e-27   5.8e-23   82.1   0.0     1   137   363   507   363   507 0.93 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002424_ORF2:gid:sacB:pid:QYI86759.1:loc:1777:3415:strand:- -            545   5.8e-27   95.2   0.1   1   1   7.4e-31   7.2e-27   94.8   0.1     7   274    14   278     8   278 0.94 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002424_ORF2:gid:sacB:pid:QYI86759.1:loc:1777:3415:strand:- -            545   7.3e-18   65.5   0.0   1   1   1.3e-21   1.3e-17   64.8   0.0     1   136   333   476   333   477 0.96 ABC transporter
+Lys_Orn_oxgnase      PF13434.9    341 BGC0002424_ORF3:gid:sacC:pid:QYI86760.1:loc:3591:4920:strand:+ -            442  8.1e-115  383.7   0.0   1   1  1.4e-118  9.4e-115  383.5   0.0     2   340     6   348     5   349 0.98 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Peripla_BP_2         PF01497.21   237 BGC0002424_ORF4:gid:sacD:pid:QYI86761.1:loc:4999:6010:strand:+ -            336   6.9e-23   81.5   0.1   1   1   4.6e-27   9.1e-23   81.1   0.1    25   227    96   295    63   301 0.79 Periplasmic binding protein
+AMP-binding          PF00501.31   424 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443         0 1175.5  13.9   1   4   6.9e-89   3.4e-85  286.3   3.1     1   424   424   797   424   797 0.90 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443         0 1175.5  13.9   2   4   1.9e-95   9.5e-92  307.9   0.4     3   424  1424  1798  1422  1798 0.90 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443         0 1175.5  13.9   3   4   1.3e-85   6.5e-82  275.5   0.0     2   424  2435  2836  2434  2836 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443         0 1175.5  13.9   4   4   5.8e-93   2.9e-89  299.8   0.0     2   424  3480  3871  3479  3871 0.90 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443  2.2e-284  943.2   0.0   1   6   4.8e-39   2.4e-35  122.3   0.0     5   457     3   406     1   406 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443  2.2e-284  943.2   0.0   2   6   3.2e-21   1.6e-17   63.5   0.0     2   155   980  1113   979  1116 0.87 Condensation domain
+Condensation         PF00668.23   457 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443  2.2e-284  943.2   0.0   3   6   1.6e-32   7.8e-29  100.8   0.0   224   456  1196  1403  1185  1404 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443  2.2e-284  943.2   0.0   4   6   7.7e-69   3.8e-65  220.5   0.0     2   456  1987  2414  1986  2415 0.90 Condensation domain
+Condensation         PF00668.23   457 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443  2.2e-284  943.2   0.0   5   6   2.1e-93     1e-89  301.4   0.0     4   454  3022  3457  3020  3460 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443  2.2e-284  943.2   0.0   6   6   1.8e-38   8.8e-35  120.4   0.0    22   442  4064  4441  4059  4443 0.89 Condensation domain
+PP-binding           PF00550.28    67 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   4.6e-60  200.0   4.6   1   4     3e-16   1.5e-12   47.8   0.0     2    65   904   963   903   965 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   4.6e-60  200.0   4.6   2   4   1.3e-14   6.6e-11   42.5   0.2     3    65  1900  1959  1898  1960 0.91 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   4.6e-60  200.0   4.6   3   4   5.8e-20   2.8e-16   59.7   0.1     2    65  2942  3003  2941  3005 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   4.6e-60  200.0   4.6   4   4   2.4e-16   1.2e-12   48.1   0.0     2    66  3976  4037  3975  4038 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   2.6e-57  191.8  20.1   1   4   2.8e-17   1.4e-13   51.7   1.3     1    76   805   877   805   877 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   2.6e-57  191.8  20.1   2   4   3.4e-15   1.7e-11   45.1   0.2     1    76  1806  1873  1806  1873 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   2.6e-57  191.8  20.1   3   4   1.9e-15   9.5e-12   45.8   0.3     1    76  2844  2915  2844  2915 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002424_ORF5:gid:sacE:pid:QYI86762.1:loc:6098:19430:strand:+ -           4443   2.6e-57  191.8  20.1   4   4   3.2e-19   1.6e-15   58.0   0.1     1    76  3879  3949  3879  3949 0.93 AMP-binding enzyme C-terminal domain
+MbtH                 PF03621.16    53 BGC0002424_ORF6:gid:sacF:pid:QYI86763.1:loc:19426:19621:strand:+ -             64   9.5e-29   98.7   0.1   1   1   5.5e-33   1.1e-28   98.5   0.1     1    53     1    53     1    53 0.99 MbtH-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002424.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002424.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002424.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:08:39 2023
+# [ok]

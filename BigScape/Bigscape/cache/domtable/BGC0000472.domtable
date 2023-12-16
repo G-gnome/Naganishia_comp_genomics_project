@@ -1,0 +1,29 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRP54                PF00448.25   196 BGC0000472_ORF1:gid::pid:ADA00385.1:loc:112:1561:strand:+ -            482   1.8e-75  253.0   1.1   1   1   4.5e-79     3e-75  252.3   1.1     2   196   101   295   100   295 0.99 SRP54-type protein, GTPase domain
+SRP_SPB              PF02978.22   101 BGC0000472_ORF1:gid::pid:ADA00385.1:loc:112:1561:strand:+ -            482   6.1e-30  104.0   3.6   1   1   7.2e-33   4.7e-29  101.1   1.9     1   101   326   426   326   426 0.91 Signal peptide binding domain
+SRP54_N              PF02881.22    75 BGC0000472_ORF1:gid::pid:ADA00385.1:loc:112:1561:strand:+ -            482   2.2e-21   75.9   2.6   1   1     6e-25   3.9e-21   75.1   0.8     1    75     5    82     5    82 0.96 SRP54-type protein, helical bundle domain
+Peptidase_S8         PF00082.25   284 BGC0000472_ORF4:gid:acyA:pid:ACK37888.2:loc:2247:4224:strand:- -            658   2.5e-42  145.2   0.0   1   1   6.9e-46   4.5e-42  144.3   0.0     2   270    21   266    20   282 0.87 Subtilase family
+PatG_C               PF18065.4    115 BGC0000472_ORF4:gid:acyA:pid:ACK37888.2:loc:2247:4224:strand:- -            658     4e-38  130.1   0.0   1   1   1.5e-41   9.9e-38  128.8   0.0     2   115   541   654   540   654 0.98 PatG C-terminal
+PatG_D               PF18047.4    118 BGC0000472_ORF4:gid:acyA:pid:ACK37888.2:loc:2247:4224:strand:- -            658   3.9e-19   69.3   0.0   1   1   2.5e-22   1.6e-18   67.3   0.0     1   116   382   494   382   496 0.96 PatG Domain
+DUF5840              PF19158.3     49 BGC0000472_ORF5:gid:acyE:pid:ADA00388.1:loc:4930:5080:strand:+ -             49   2.4e-34  117.6   1.7   1   1   1.3e-38   2.6e-34  117.4   1.7     1    49     1    49     1    49 1.00 Family of unknown function (DUF5840)
+Y1_Tnp               PF01797.19   122 BGC0000472_ORF6:gid::pid:ADA00389.1:loc:5113:5878:strand:- -            254   4.3e-21   75.4   0.3   1   1     4e-25   7.8e-21   74.5   0.3     3   122    10   126     8   126 0.89 Transposase IS200 like
+DUF5838              PF19156.3    289 BGC0000472_ORF7:gid:acyF:pid:ADA00390.1:loc:5911:6802:strand:+ -            296  5.3e-141  469.2   5.2   1   1    3e-145    6e-141  469.0   5.2     1   289    13   293    13   293 0.99 Family of unknown function (DUF5838)
+Uma2                 PF05685.15   172 BGC0000472_ORF9:gid::pid:ADA00392.1:loc:7496:8180:strand:+ -            227   4.4e-32  111.1   0.2   1   1   3.1e-36   6.2e-32  110.6   0.2     4   170    31   193    25   195 0.94 Putative restriction endonuclease
+XisI                 PF08869.14   110 BGC0000472_ORF11:gid::pid:ADA00394.1:loc:9473:9809:strand:- -            111   9.6e-49  164.5   0.6   1   1   5.4e-53   1.1e-48  164.4   0.6     1   110     1   110     1   110 1.00 XisI protein
+PatG_C               PF18065.4    115 BGC0000472_ORF12:gid:acyG:pid:ADA00395.1:loc:10264:12397:strand:+ -            710   2.1e-34  118.1   0.0   1   1   4.9e-38   3.2e-34  117.5   0.0     4   115   595   706   592   706 0.97 PatG C-terminal
+PatG_D               PF18047.4    118 BGC0000472_ORF12:gid:acyG:pid:ADA00395.1:loc:10264:12397:strand:+ -            710   5.5e-21   75.3   0.1   1   1   2.2e-24   1.4e-20   74.0   0.0     1   114   433   543   433   547 0.93 PatG Domain
+Peptidase_S8         PF00082.25   284 BGC0000472_ORF12:gid:acyG:pid:ADA00395.1:loc:10264:12397:strand:+ -            710   1.3e-20   73.9   0.0   1   1   2.9e-24   1.9e-20   73.4   0.0     4   269    23   311    20   336 0.79 Subtilase family
+Ribosomal_S16        PF00886.22    62 BGC0000472_ORF13:gid::pid:ADA00396.1:loc:12914:13175:strand:+ -             86   1.7e-17   63.3   0.1   1   1   1.1e-21   2.1e-17   63.0   0.1     1    62     8    64     8    64 0.95 Ribosomal protein S16
+KH_4                 PF13083.9     73 BGC0000472_ORF14:gid::pid:ADA00397.1:loc:13182:13569:strand:+ -            128   2.4e-16   59.5   0.0   1   1   2.3e-20   4.5e-16   58.6   0.0     3    73    13    85    12    85 0.95 KH domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000472.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000472.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000472.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:38:55 2023
+# [ok]

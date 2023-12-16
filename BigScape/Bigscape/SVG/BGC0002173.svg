@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="276.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="266.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (AFUB_071550)
+squalene-hopene-cyclase, putative</title>
+			<polygon class=" (AFUB_071550)
+squalene-hopene-cyclase, putative" points="98,25 43,25 43,10 13,40 43,70 43,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="25,32 29,28 40,28 40,52 29,52 25,48" stroke-linejoin="round" width="15" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<rect class="PF13243" x="42" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="60" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AFUB_071560)
+cytochrome P450 oxidoreductase/alkane hydroxylase, putative</title>
+			<polygon class=" (AFUB_071560)
+cytochrome P450 oxidoreductase/alkane hydroxylase, putative" points="106,25 131,25 131,10 161,40 131,70 131,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="110,28 145,28 156,39 156,41 145,52 110,52" stroke-linejoin="round" width="46" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AFUB_071569)
+capsule polysaccharide biosynthesis protein, putative</title>
+			<polygon class=" (AFUB_071569)
+capsule polysaccharide biosynthesis protein, putative" points="179,25 188,25 188,10 218,40 188,70 188,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caps_synth (PF05704)
+"Capsular polysaccharide synthesis protein"</title>
+				<rect class="PF05704" x="180" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(199,186,82)" stroke="rgb(159,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AFUB_071570)
+hypothetical protein</title>
+			<polygon class=" (AFUB_071570)
+hypothetical protein" points="260,25 251,25 251,10 221,40 251,70 251,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fungal_trans_2 (PF11951)
+"Fungal specific transcription factor domain"</title>
+				<polygon class="PF11951" points="234,31 237,28 249,28 249,52 237,52 234,49" stroke-linejoin="round" width="15" height="24" fill="rgb(102,165,217)" stroke="rgb(81,132,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="251" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(121,178,76)" stroke="rgb(96,142,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

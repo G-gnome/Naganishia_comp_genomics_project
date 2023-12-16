@@ -1,0 +1,39 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCV_T                PF01571.24   255 BGC0002258_ORF2:gid:shmF:pid:BBI47414.1:loc:2401:5014:strand:- -            870   5.2e-71  239.0   0.0   1   1     2e-74     8e-71  238.4   0.0     1   255   450   742   450   742 0.95 Aminomethyltransferase folate-binding domain
+DAO                  PF01266.27   353 BGC0002258_ORF2:gid:shmF:pid:BBI47414.1:loc:2401:5014:strand:- -            870     1e-42  147.2   0.5   1   1   4.3e-46   1.7e-42  146.4   0.5     2   352    17   389    16   390 0.81 FAD dependent oxidoreductase
+FAO_M                PF16350.8     56 BGC0002258_ORF2:gid:shmF:pid:BBI47414.1:loc:2401:5014:strand:- -            870   8.6e-20   70.9   0.0   1   1   4.2e-23   1.7e-19   70.0   0.0     2    56   394   448   393   448 0.98 FAD dependent oxidoreductase central domain
+GCV_T_C              PF08669.14    80 BGC0002258_ORF2:gid:shmF:pid:BBI47414.1:loc:2401:5014:strand:- -            870   2.1e-18   66.1   0.1   1   1   1.5e-21   5.8e-18   64.7   0.1     1    80   767   845   767   845 0.99 Glycine cleavage T-protein C-terminal barrel domain
+Fungal_trans         PF04082.21   267 BGC0002258_ORF3:gid:shmE:pid:BBI47415.1:loc:6270:8294:strand:- -            642   6.8e-06   25.4   0.6   1   1   1.1e-09   2.2e-05   23.7   0.4    34   161   109   217    84   232 0.84 Fungal specific transcription factor domain
+Ring_hydroxyl_A      PF00848.22   214 BGC0002258_ORF4:gid:shmD:pid:BBI47416.1:loc:9022:10297:strand:- -            424   1.4e-22   80.8   3.6   1   2   7.7e-15   7.6e-11   42.5   1.8     2    39   190   227   189   255 0.87 Ring hydroxylating alpha subunit (catalytic domain)
+Ring_hydroxyl_A      PF00848.22   214 BGC0002258_ORF4:gid:shmD:pid:BBI47416.1:loc:9022:10297:strand:- -            424   1.4e-22   80.8   3.6   2   2   2.3e-13   2.3e-09   37.7   0.0   109   213   266   364   260   365 0.96 Ring hydroxylating alpha subunit (catalytic domain)
+Rieske               PF00355.29    89 BGC0002258_ORF4:gid:shmD:pid:BBI47416.1:loc:9022:10297:strand:- -            424     5e-15   55.3   0.0   1   1   1.1e-18   1.1e-14   54.3   0.0     2    87    50   136    49   138 0.87 Rieske [2Fe-2S] domain
+AA_permease          PF00324.24   479 BGC0002258_ORF5:gid:shmC:pid:BBI47417.1:loc:11481:13333:strand:+ -            570    3e-104  349.4  36.6   1   1  3.5e-108  3.5e-104  349.2  36.6     2   474    54   516    53   521 0.97 Amino acid permease
+AA_permease_2        PF13520.9    427 BGC0002258_ORF5:gid:shmC:pid:BBI47417.1:loc:11481:13333:strand:+ -            570   5.5e-23   81.7  40.1   1   1     7e-27   6.9e-23   81.3  40.1     8   403    56   477    49   506 0.76 Amino acid permease
+ketoacyl-synt        PF00109.29   253 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543     9e-69  232.0   0.1   1   1   3.7e-71   5.3e-68  229.5   0.0     2   253     4   254     3   254 0.96 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   8.5e-48  163.2   0.0   1   1   1.2e-50   1.7e-47  162.2   0.0     3   293   976  1278   974  1282 0.90 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   3.5e-43  148.5   0.5   1   1   3.9e-46   5.4e-43  147.8   0.5     3   305   582   908   580   915 0.84 Acyl transferase domain
+KR                   PF08659.13   180 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   9.3e-41  139.8   0.0   1   1   2.6e-43   3.7e-40  137.9   0.0     2   179  2153  2328  2152  2329 0.96 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   1.8e-24   86.1   0.1   1   1   3.7e-27   5.2e-24   84.7   0.1     2   116   263   390   262   393 0.91 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   2.5e-20   73.2   0.0   1   1   7.4e-23     1e-19   71.2   0.0     1    99  1453  1554  1453  1554 0.93 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   1.4e-15   57.6   0.0   1   1   2.9e-18   4.1e-15   56.1   0.0    21   160  1447  1605  1427  1609 0.77 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   2.4e-13   50.7   0.0   1   1   6.3e-16   8.9e-13   48.9   0.0     1    97  1452  1552  1452  1552 0.90 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   1.5e-12   48.1   0.1   1   1   5.3e-15   7.5e-12   45.9   0.0     9    95   402   522   396   538 0.80 Ketoacyl-synthetase C-terminal extension
+Methyltransf_31      PF13847.9    152 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   1.6e-12   47.6   0.0   1   1     3e-15   4.2e-12   46.2   0.0     5   147  1450  1590  1448  1604 0.80 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   2.2e-12   47.6   0.0   1   1     4e-15   5.7e-12   46.3   0.0     1    96  1453  1556  1453  1556 0.91 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543   1.5e-09   37.7   0.0   1   1   3.1e-12   4.3e-09   36.2   0.0     2   115  2153  2267  2152  2316 0.80 short chain dehydrogenase
+PP-binding           PF00550.28    67 BGC0002258_ORF6:gid:shmA:pid:BBI47418.1:loc:14990:22675:strand:- -           2543     6e-07   29.8   0.0   1   1     1e-09   1.4e-06   28.6   0.0    18    65  2467  2514  2449  2516 0.81 Phosphopantetheine attachment site
+FAD_binding_3        PF01494.22   349 BGC0002258_ORF7:gid:shmB:pid:BBI47419.1:loc:23257:24781:strand:+ -            468   9.4e-19   68.0   0.0   1   1   2.7e-22   1.8e-18   67.1   0.0     4   319    12   342    10   353 0.73 FAD binding domain
+DAO                  PF01266.27   353 BGC0002258_ORF7:gid:shmB:pid:BBI47419.1:loc:23257:24781:strand:+ -            468   2.6e-07   30.7   0.6   1   1   1.7e-10   1.1e-06   28.6   0.6     2    55    12    64    11    96 0.79 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0002258_ORF7:gid:shmB:pid:BBI47419.1:loc:23257:24781:strand:+ -            468     1e-06   29.0   0.2   1   1   4.2e-10   2.7e-06   27.6   0.2     1    31    14    44    14    76 0.91 NAD(P)-binding Rossmann-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002258.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002258.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002258.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:19:41 2023
+# [ok]

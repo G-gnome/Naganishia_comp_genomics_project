@@ -1,0 +1,34 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001049_ORF1:gid:tens1:pid:CAL69594.1:loc:0:1653:strand:+ -            508   8.3e-46  156.8   0.0   1   1   5.2e-50     1e-45  156.5   0.0    20   442    70   484    46   497 0.79 Cytochrome P450
+p450                 PF00067.25   463 BGC0001049_ORF2:gid:tens2:pid:CAL69595.1:loc:2060:3737:strand:- -            539   1.7e-26   93.2   0.0   1   1   9.5e-31   1.9e-26   93.0   0.0   116   459   161   530    53   534 0.78 Cytochrome P450
+ADH_zinc_N           PF00107.29   130 BGC0001049_ORF3:gid:tens3:pid:CAL69596.1:loc:4376:5543:strand:- -            388   3.9e-09   36.7   0.1   1   1   8.5e-13   1.7e-08   34.7   0.1     3    84   200   280   198   284 0.89 Zinc-binding dehydrogenase
+AMP-binding          PF00501.31   424 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   2.2e-80  270.5   0.0   1   1   4.2e-83   4.3e-80  269.5   0.0     5   417  3203  3614  3199  3623 0.87 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   4.9e-68  229.6   0.0   1   1   1.2e-70   1.2e-67  228.2   0.0     2   251    16   265    15   267 0.93 Beta-ketoacyl synthase, N-terminal domain
+Condensation         PF00668.23   457 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   4.7e-56  190.5   0.0   1   1   7.1e-59   7.3e-56  189.9   0.0     3   447  2723  3169  2721  3177 0.85 Condensation domain
+KR                   PF08659.13   180 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   7.8e-56  188.9   0.2   1   1   1.7e-57   1.8e-54  184.5   0.0     2   178  2209  2382  2208  2384 0.97 KR domain
+PS-DH                PF14765.9    297 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   4.8e-51  173.9   0.0   1   1   7.8e-54   8.1e-51  173.2   0.0     1   293   993  1310   993  1314 0.89 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   1.9e-45  155.9   0.1   1   1   5.2e-48   5.3e-45  154.4   0.1     3   308   589   923   588   929 0.81 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   2.6e-28   98.5   0.0   1   1   7.7e-31   7.9e-28   97.0   0.0     2   117   276   401   275   403 0.94 Beta-ketoacyl synthase, C-terminal domain
+NAD_binding_4        PF07993.15   257 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   6.1e-22   78.2   0.0   1   1   1.4e-24   1.5e-21   76.9   0.0     1   255  3899  4146  3899  4148 0.68 Male sterility protein
+Methyltransf_12      PF08242.15    99 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   3.4e-17   63.1   0.0   1   1   1.3e-19   1.3e-16   61.3   0.0     1    99  1491  1592  1491  1592 0.88 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   9.9e-17   61.1   0.1   1   2   4.3e-08   4.5e-05   23.8   0.0    19    66  2530  2577  2512  2578 0.85 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   9.9e-17   61.1   0.1   2   2     2e-11   2.1e-08   34.5   0.0     3    67  3760  3831  3758  3831 0.89 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   1.1e-14   55.0   0.0   1   1   7.4e-17   7.6e-14   52.3   0.0     2   108   406   536   406   539 0.82 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.28   195 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   1.5e-11   44.2   1.4   1   1   2.5e-13   2.6e-10   40.2   0.0     3   122  2210  2330  2208  2393 0.83 short chain dehydrogenase
+Methyltransf_23      PF13489.9    165 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   8.4e-11   42.1   0.0   1   1   2.2e-13   2.3e-10   40.7   0.0    20   163  1484  1646  1461  1648 0.65 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239     8e-10   39.4   0.0   1   1   4.2e-12   4.3e-09   37.0   0.0     1    97  1490  1590  1490  1590 0.90 Methyltransferase domain
+adh_short_C2         PF13561.9    234 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   6.6e-09   35.8   0.0   1   1   1.4e-11   1.4e-08   34.7   0.0     1   106  2214  2320  2214  2377 0.86 Enoyl-(Acyl carrier protein) reductase
+Methyltransf_31      PF13847.9    152 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   1.5e-08   34.7   0.0   1   1     6e-11   6.2e-08   32.7   0.0     5   112  1488  1597  1485  1630 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001049_ORF4:gid:tens:pid:CAL69597.1:loc:6224:19176:strand:+ -           4239   3.1e-08   34.3   0.0   1   1   1.4e-10   1.5e-07   32.1   0.0     1    95  1491  1593  1491  1594 0.87 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001049.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001049.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001049.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:30:02 2023
+# [ok]

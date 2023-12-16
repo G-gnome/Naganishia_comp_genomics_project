@@ -1,0 +1,29 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HATPase_c            PF02518.29   112 BGC0001788_ORF1:gid:sssK:pid:AOT85896.1:loc:460:1816:strand:- -            451   2.2e-12   47.6   0.8   1   1   2.3e-16   2.2e-12   47.6   0.8     7   108   346   447   341   449 0.82 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.28    67 BGC0001788_ORF1:gid:sssK:pid:AOT85896.1:loc:460:1816:strand:- -            451   2.5e-09   37.1   0.0   1   1   5.7e-13   5.6e-09   36.0   0.0     2    67   228   292   227   292 0.91 His Kinase A (phospho-acceptor) domain
+Response_reg         PF00072.27   112 BGC0001788_ORF2:gid:sssR:pid:AOT85897.1:loc:1831:2530:strand:- -            232   2.9e-23   82.3   0.0   1   1   5.1e-27     5e-23   81.5   0.0     1   110    12   120    12   122 0.97 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0001788_ORF2:gid:sssR:pid:AOT85897.1:loc:1831:2530:strand:- -            232   1.1e-19   70.4   0.0   1   1   2.2e-23   2.1e-19   69.5   0.0     2    77   155   230   154   230 0.97 Transcriptional regulatory protein, C terminal
+L_biotic_typeA       PF04604.16    51 BGC0001788_ORF3:gid:sssA:pid:AOT85888.1:loc:2884:3040:strand:+ -             51   3.4e-28   97.4   1.3   1   1   1.9e-32   3.7e-28   97.3   1.3     1    51     1    50     1    50 0.95 Type-A lantibiotic
+L_biotic_typeA       PF04604.16    51 BGC0001788_ORF4:gid:sssA_:pid:AOT85889.1:loc:3068:3224:strand:+ -             51   2.9e-27   94.4   1.7   1   1   1.6e-31   3.2e-27   94.3   1.7     1    51     1    50     1    50 0.96 Type-A lantibiotic
+L_biotic_typeA       PF04604.16    51 BGC0001788_ORF5:gid:sssA1:pid:AOT85890.1:loc:3762:3930:strand:+ -             55   4.9e-21   74.5   0.4   1   1   2.6e-25   5.2e-21   74.4   0.4     3    51     3    55     1    55 0.91 Type-A lantibiotic
+DUF4135              PF13575.9    377 BGC0001788_ORF6:gid:sssM:pid:AOT85891.1:loc:3948:6729:strand:+ -            926   1.2e-59  202.6   0.0   1   1   1.6e-63   1.6e-59  202.2   0.0     1   376    92   463    92   464 0.88 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0001788_ORF6:gid:sssM:pid:AOT85891.1:loc:3948:6729:strand:+ -            926   1.9e-53  181.4   1.6   1   1   3.9e-57   3.9e-53  180.4   1.6     2   346   580   919   579   926 0.91 Lanthionine synthetase C-like protein
+Peptidase_C39        PF03412.18   133 BGC0001788_ORF7:gid:sssT:pid:AOT85892.1:loc:6751:8824:strand:+ -            690   4.8e-37  126.8   0.0   1   1   1.7e-40   1.1e-36  125.7   0.0     3   132     2   133     1   134 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0001788_ORF7:gid:sssT:pid:AOT85892.1:loc:6751:8824:strand:+ -            690   2.8e-23   83.1   0.3   1   1   7.6e-26     5e-22   79.0   0.2     1   136   478   615   478   616 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001788_ORF7:gid:sssT:pid:AOT85892.1:loc:6751:8824:strand:+ -            690   1.5e-15   57.7  25.5   1   1   3.4e-19   2.2e-15   57.2  25.5    16   273   168   420   157   421 0.91 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0001788_ORF8:gid:sssF:pid:AOT85893.1:loc:8933:9842:strand:+ -            302   2.2e-28   99.6   0.0   1   1   3.9e-32   3.8e-28   98.8   0.0     6   137    25   161    21   161 0.92 ABC transporter
+AAA_21               PF13304.9    304 BGC0001788_ORF8:gid:sssF:pid:AOT85893.1:loc:8933:9842:strand:+ -            302     3e-15   56.9   0.7   1   1   1.6e-14   1.6e-10   41.4   0.1   235   300   130   193   115   197 0.87 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0001788_ORF9:gid:sssE:pid:AOT85894.1:loc:9843:10608:strand:+ -            254   5.6e-11   42.8  17.2   1   1   2.9e-15   5.6e-11   42.8  17.2     2   171     4   171     3   180 0.76 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.10   179 BGC0001788_ORF10:gid:sssG:pid:AOT85895.1:loc:10591:11326:strand:+ -            244   1.8e-10   41.2  13.9   1   1   9.3e-15   1.8e-10   41.2  13.9     2   178     5   181     4   182 0.77 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001788.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001788.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001788.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:46:12 2023
+# [ok]

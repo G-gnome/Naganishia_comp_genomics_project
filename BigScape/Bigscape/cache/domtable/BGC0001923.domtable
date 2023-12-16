@@ -1,0 +1,36 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Zn_clus              PF00172.21    40 BGC0001923_ORF1:gid:ascR:pid:BBF25312.1:loc:495:2085:strand:+ -            512   7.4e-07   29.3   8.6   1   1   7.5e-11   1.5e-06   28.4   8.6     1    33    12    51    12    56 0.83 Fungal Zn(2)-Cys(6) binuclear cluster domain
+UbiA                 PF01040.21   251 BGC0001923_ORF2:gid:ascA:pid:BBF25313.1:loc:2460:3471:strand:- -            336   3.5e-31  108.5  16.3   1   1   2.2e-35   4.3e-31  108.2  16.3     3   232    60   297    58   321 0.85 UbiA prenyltransferase family
+AMP-binding          PF00501.31   424 BGC0001923_ORF3:gid:ascB:pid:BBF25314.1:loc:4041:7429:strand:+ -           1093   1.8e-38  132.4   0.0   1   1   5.8e-42   2.9e-38  131.7   0.0    13   333    75   394    66   417 0.82 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0001923_ORF3:gid:ascB:pid:BBF25314.1:loc:4041:7429:strand:+ -           1093   2.8e-21   76.0   0.0   1   1   8.9e-25   4.4e-21   75.4   0.0     1   255   721   969   721   971 0.82 Male sterility protein
+Epimerase            PF01370.24   241 BGC0001923_ORF3:gid:ascB:pid:BBF25314.1:loc:4041:7429:strand:+ -           1093   7.4e-08   32.3   0.0   1   1   4.2e-11   2.1e-07   30.8   0.0     1   192   719   945   719   974 0.74 NAD dependent epimerase/dehydratase family
+PP-binding           PF00550.28    67 BGC0001923_ORF3:gid:ascB:pid:BBF25314.1:loc:4041:7429:strand:+ -           1093   2.7e-05   24.5   0.1   1   1   4.6e-08   0.00023   21.5   0.1     3    66   597   673   595   674 0.84 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.29   253 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115   7.3e-73  245.4   0.0   1   1   6.9e-76   1.4e-72  244.5   0.0     3   253   383   631   382   631 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115   3.1e-33  114.4   0.1   1   1   3.4e-36   6.7e-33  113.3   0.1     2   118   640   756   639   757 0.97 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115   1.2e-19   70.8   0.0   1   1   1.7e-22   3.4e-19   69.3   0.0    31   294  1313  1579  1292  1582 0.85 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115   4.8e-17   62.6   0.1   1   1   6.2e-20   1.2e-16   61.2   0.0    21   254   927  1174   909  1217 0.85 Acyl transferase domain
+BD-FAE               PF20434.1    215 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115   6.7e-14   52.0   0.0   1   1   2.4e-16   4.6e-13   49.3   0.0     2   215  1797  2060  1796  2060 0.83 BD-FAE
+Abhydrolase_3        PF07859.16   211 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115   4.4e-13   49.7   0.0   1   1   7.2e-15   1.4e-11   44.8   0.0     2   121  1813  1938  1812  1969 0.83 alpha/beta hydrolase fold
+PP-binding           PF00550.28    67 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115     5e-11   42.9   1.0   1   1     1e-13     2e-10   41.0   0.5     2    66  1645  1708  1644  1709 0.94 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115     1e-09   39.0   0.0   1   1   1.4e-12   2.8e-09   37.6   0.0     2   108   760   873   760   875 0.88 Ketoacyl-synthetase C-terminal extension
+SAT                  PF16073.8    240 BGC0001923_ORF4:gid:ascC:pid:BBF25315.1:loc:8442:14991:strand:+ -           2115   1.4e-09   38.0   5.7   1   1   1.2e-11   2.4e-08   34.0   0.2    47   229    69   241    55   251 0.70 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Trp_halogenase       PF04820.17   454 BGC0001923_ORF5:gid:ascD:pid:BBF25316.1:loc:21832:23695:strand:- -            554   1.4e-24   86.9   0.0   1   2   1.9e-13   1.8e-09   37.1   0.0     2    91    10    93     9   104 0.87 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0001923_ORF5:gid:ascD:pid:BBF25316.1:loc:21832:23695:strand:- -            554   1.4e-24   86.9   0.0   2   2   2.1e-16   2.1e-12   46.8   0.0   193   391   166   392    97   424 0.77 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0001923_ORF5:gid:ascD:pid:BBF25316.1:loc:21832:23695:strand:- -            554   8.6e-13   48.4   0.0   1   1     3e-16   2.9e-12   46.6   0.0     1   331     7   360     7   369 0.72 FAD binding domain
+p450                 PF00067.25   463 BGC0001923_ORF6:gid:ascE:pid:BBF25317.1:loc:24090:27475:strand:+ -           1064   4.8e-72  243.3   0.0   1   1   1.3e-75   6.5e-72  242.9   0.0     2   458     6   455     5   460 0.88 Cytochrome P450
+FAD_binding_1        PF00667.23   222 BGC0001923_ORF6:gid:ascE:pid:BBF25317.1:loc:24090:27475:strand:+ -           1064   3.9e-26   92.1   0.0   1   1   1.3e-29   6.6e-26   91.4   0.0    11   222   681   881   677   881 0.92 FAD binding domain
+Flavodoxin_1         PF00258.28   143 BGC0001923_ORF6:gid:ascE:pid:BBF25317.1:loc:24090:27475:strand:+ -           1064   1.3e-21   77.4   0.0   1   1   5.6e-25   2.7e-21   76.4   0.0     1   143   506   639   506   639 0.88 Flavodoxin
+NAD_binding_1        PF00175.24   109 BGC0001923_ORF6:gid:ascE:pid:BBF25317.1:loc:24090:27475:strand:+ -           1064   1.5e-10   41.8   0.0   1   1   8.5e-14   4.2e-10   40.4   0.0     1   101   915  1020   915  1028 0.87 Oxidoreductase NAD-binding domain
+p450                 PF00067.25   463 BGC0001923_ORF8:gid:ascG:pid:BBF25319.1:loc:30761:32413:strand:+ -            534   8.1e-35  120.6   0.2   1   1   1.4e-38   2.7e-34  118.9   0.1   234   444   264   501   246   525 0.85 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001923.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001923.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001923.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:51:49 2023
+# [ok]

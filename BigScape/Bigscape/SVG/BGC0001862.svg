@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="193.36666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="183.36666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>palA (A3Q35_RS17335)
+pallidocin</title>
+			<polygon class="palA (A3Q35_RS17335)
+pallidocin" points="22,10 28,40 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>palS (A3Q35_RS17340)
+pallidocin S-glycosyltransferase</title>
+			<polygon class="palS (A3Q35_RS17340)
+pallidocin S-glycosyltransferase" points="31,25 44,25 44,10 74,40 44,70 44,55 31,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="37" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>palT (A3Q35_RS17345)
+pallidocin leader peptidase/ABC transporter</title>
+			<polygon class="palT (A3Q35_RS17345)
+pallidocin leader peptidase/ABC transporter" points="76,25 117,25 117,10 147,40 117,70 117,55 76,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="77" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="93" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="127,28 131,28 141,38 141,42 131,52 127,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (A3Q35_RS17350)
+thioredoxin family protein</title>
+			<polygon class=" (A3Q35_RS17350)
+thioredoxin family protein" points="147,10 160,40 147,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="150,28 151,28 157,40 151,52 150,52" stroke-linejoin="round" width="10" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (A3Q35_RS17355)
+disulfide bond formation protein B</title>
+			<polygon class=" (A3Q35_RS17355)
+disulfide bond formation protein B" points="167,10 181,40 167,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DsbB (PF02600)
+"Disulfide bond formation protein DsbB"</title>
+				<polygon class="PF02600" points="167,28 172,28 178,40 172,52 167,52" stroke-linejoin="round" width="12" height="24" fill="rgb(80,174,206)" stroke="rgb(64,139,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

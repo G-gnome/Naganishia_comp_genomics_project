@@ -1,0 +1,39 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="137.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="127.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (STER_1355)
+Predicted transporter</title>
+			<polygon class=" (STER_1355)
+Predicted transporter" points="46,25 40,25 40,10 10,40 40,70 40,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (STER_1356)
+Radical SAM superfamily enzyme</title>
+			<polygon class=" (STER_1356)
+Radical SAM superfamily enzyme" points="90,25 76,25 76,10 46,40 76,70 76,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="63" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STER_1357)
+Predicted protein</title>
+			<polygon class=" (STER_1357)
+Predicted protein" points="92,40 95,10 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (STER_1358)
+Transcriptional regulator, xre family</title>
+			<polygon class=" (STER_1358)
+Transcriptional regulator, xre family" points="98,40 126,10 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<rect class="PF01381" x="120" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(105,79,202)" stroke="rgb(83,63,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

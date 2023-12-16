@@ -1,0 +1,23 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001605_ORF1:gid::pid:WP_010875295.1:loc:0:1203:strand:+ -            400     1e-33  116.9   0.0   1   1   1.5e-34     3e-30  105.5   0.0    44   433    41   370    23   388 0.85 Cytochrome P450
+p450                 PF00067.25   463 BGC0001605_ORF2:gid::pid:WP_010875296.1:loc:1295:2699:strand:+ -            467   1.2e-29  103.5   0.1   1   1     1e-25     2e-21   76.4   0.0   325   437   288   401   286   419 0.89 Cytochrome P450
+Fer4_15              PF13459.9     66 BGC0001605_ORF3:gid::pid:WP_010875297.1:loc:2728:3037:strand:+ -            102   1.3e-10   41.9   1.3   1   1   1.3e-14   1.3e-10   41.9   1.3     1    66     3    62     3    62 0.95 4Fe-4S single cluster domain
+Fer4_13              PF13370.9     58 BGC0001605_ORF3:gid::pid:WP_010875297.1:loc:2728:3037:strand:+ -            102   2.7e-09   37.5   0.2   1   1   2.8e-13   2.7e-09   37.5   0.2     1    58     5    62     5    62 0.98 4Fe-4S single cluster domain of Ferredoxin I
+adh_short_C2         PF13561.9    234 BGC0001605_ORF4:gid::pid:WP_010875298.1:loc:3023:3860:strand:+ -            278   1.4e-62  211.5   6.4   1   1   2.5e-66   1.7e-62  211.2   6.4     1   233    13   250    13   251 0.95 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001605_ORF4:gid::pid:WP_010875298.1:loc:3023:3860:strand:+ -            278   1.5e-50  171.5   4.9   1   1   2.9e-54   1.9e-50  171.2   4.9     1   185     7   195     7   203 0.98 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001605_ORF4:gid::pid:WP_010875298.1:loc:3023:3860:strand:+ -            278   1.6e-09   38.0   6.1   1   1   3.9e-13   2.5e-09   37.4   6.1     4   166    10   176     8   187 0.85 KR domain
+p450                 PF00067.25   463 BGC0001605_ORF5:gid::pid:WP_010875299.1:loc:3859:5203:strand:+ -            447   7.6e-42  143.7   0.0   1   1   3.8e-45   7.5e-41  140.5   0.0     3   424    21   404    19   412 0.87 Cytochrome P450
+polyprenyl_synt      PF00348.20   256 BGC0001605_ORF6:gid::pid:WP_010875300.1:loc:5356:6355:strand:+ -            332   2.6e-46  157.9   2.1   1   1   1.8e-50   3.5e-46  157.5   2.1     3   228    61   290    59   304 0.88 Polyprenyl synthetase
+Terpene_syn_C_2      PF19086.3    199 BGC0001605_ORF8:gid::pid:WP_010875302.1:loc:8212:9118:strand:+ -            301   2.9e-08   33.9   0.0   1   1   3.2e-12   6.2e-08   32.8   0.0    99   175   155   230    68   236 0.84 Terpene synthase family 2, C-terminal metal binding
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001605.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001605.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001605.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:26:33 2023
+# [ok]

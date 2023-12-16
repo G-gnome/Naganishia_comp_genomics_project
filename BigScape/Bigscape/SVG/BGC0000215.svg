@@ -1,0 +1,84 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="202.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="192.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CurD</title>
+			<polygon class="CurD" points="16,25 22,25 22,10 52,40 22,70 22,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SchA_CurD (PF04486)
+"SchA/CurD like domain"</title>
+				<polygon class="PF04486" points="28,28 36,28 39,31 39,49 36,52 28,52" stroke-linejoin="round" width="11" height="24" fill="rgb(75,209,181)" stroke="rgb(60,167,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CurC</title>
+			<polygon class="CurC" points="54,10 69,40 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="58,28 59,28 65,38 65,42 59,52 58,52" stroke-linejoin="round" width="7" height="24" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CurA
+beta-ketoacyl synthase</title>
+			<polygon class="CurA
+beta-ketoacyl synthase" points="70,25 82,25 82,10 112,40 82,70 82,55 70,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="70" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="96,28 96,28 107,39 107,41 96,52 96,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CurB</title>
+			<polygon class="CurB" points="112,25 124,25 124,10 154,40 124,70 124,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="113" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="138,29 149,40 149,40 138,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CurE
+Acyl Carrier Protein</title>
+			<polygon class="CurE
+Acyl Carrier Protein" points="157,10 165,40 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="158,28 158,28 162,40 158,52 158,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CurF
+cyclase</title>
+			<polygon class="CurF
+cyclase" points="165,10 180,40 165,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc (PF03364)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF03364" points="166,28 170,28 176,40 170,52 166,52" stroke-linejoin="round" width="12" height="24" fill="rgb(221,94,106)" stroke="rgb(176,75,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CurG</title>
+			<polygon class="CurG" points="180,10 190,40 180,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="180,28 182,28 187,40 182,52 180,52" stroke-linejoin="round" width="10" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

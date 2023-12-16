@@ -1,0 +1,23 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002392_ORF1:gid:Os07g0217600:pid:BAT00632.1:loc:2:7253:strand:+ -            517  2.5e-102  343.1   0.0   1   1  1.6e-106  3.1e-102  342.8   0.0     1   449    34   491    34   502 0.90 Cytochrome P450
+Terpene_synth_C      PF03936.19   267 BGC0002392_ORF4:gid:Os07g0218200:pid:BAT00635.1:loc:21535:27565:strand:- -            540   6.3e-92  307.8   1.7   1   1   1.3e-95   8.6e-92  307.4   1.7     1   266   214   477   214   478 0.98 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0002392_ORF4:gid:Os07g0218200:pid:BAT00635.1:loc:21535:27565:strand:- -            540   1.4e-54  184.8   0.2   1   1   4.8e-58   3.1e-54  183.7   0.2     4   192    12   182     9   182 0.90 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002392_ORF4:gid:Os07g0218200:pid:BAT00635.1:loc:21535:27565:strand:- -            540     1e-40  139.8   0.2   1   1   2.8e-44   1.8e-40  139.0   0.2     3   198   282   477   280   478 0.94 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0002392_ORF6:gid:Os07g0218700:pid:BAT00637.1:loc:79802:82531:strand:+ -            519    4e-104  349.1   0.0   1   1  2.5e-108  4.9e-104  348.8   0.0     1   448    37   492    37   508 0.90 Cytochrome P450
+p450                 PF00067.25   463 BGC0002392_ORF9:gid:Os07g0218900:pid:BAT00640.1:loc:107679:108252:strand:+ -            169   4.7e-37  127.9   0.0   1   1   4.9e-35   9.7e-31  107.1   0.0   288   387     3   102     1   102 0.98 Cytochrome P450
+Gliadin              PF13016.9     77 BGC0002392_ORF11:gid:Os07g0219250:pid:BAT00642.1:loc:114754:115210:strand:- -            151   1.1e-12   48.4  11.6   1   1   9.2e-17   1.8e-12   47.6  11.6     5    76    32    98    29    99 0.87 Cys-rich Gliadin N-terminal
+Gliadin              PF13016.9     77 BGC0002392_ORF12:gid:Os07g0219300:pid:BAT00643.1:loc:116760:117216:strand:- -            151     1e-12   48.4  11.6   1   1   9.2e-17   1.8e-12   47.6  11.6     5    76    32    98    29    99 0.87 Cys-rich Gliadin N-terminal
+Gliadin              PF13016.9     77 BGC0002392_ORF13:gid:Os07g0219400:pid:BAT00644.1:loc:118766:119222:strand:- -            151     1e-12   48.4  13.0   1   1     9e-17   1.8e-12   47.6  13.0     5    77    32    99    29    99 0.87 Cys-rich Gliadin N-terminal
+Gliadin              PF13016.9     77 BGC0002392_ORF16:gid:Os07g0220000:pid:BAT00647.1:loc:125935:126391:strand:- -            151   2.3e-12   47.3  13.2   1   1     2e-16   3.9e-12   46.5  13.2     5    77    32    99    29    99 0.87 Cys-rich Gliadin N-terminal
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002392.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002392.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002392.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:16:11 2023
+# [ok]

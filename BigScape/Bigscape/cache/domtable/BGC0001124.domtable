@@ -1,0 +1,29 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347     3e-76  256.5   0.0   1   1   2.7e-79   5.4e-76  255.6   0.0     5   253    33   279    29   279 0.95 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   1.7e-58  197.6   1.6   1   1   1.3e-61   2.6e-58  197.0   0.1     2   178  1983  2155  1982  2157 0.98 KR domain
+PS-DH                PF14765.9    297 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   2.3e-57  194.7   0.0   1   1   4.6e-60   8.9e-57  192.7   0.0     1   294   957  1268   957  1271 0.88 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   1.7e-51  175.7   0.0   1   1   1.5e-54     3e-51  175.0   0.0     2   279   566   863   565   897 0.85 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   1.6e-39  134.7   0.0   1   1   4.5e-42   8.8e-39  132.3   0.0     2   118   288   402   287   403 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347     2e-20   73.5   0.0   1   1   2.7e-23   5.3e-20   72.1   0.0     1   112   405   533   405   533 0.88 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N_2         PF13602.9    133 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   4.6e-20   73.1   0.0   1   1   1.6e-22   3.2e-19   70.4   0.0     3   133  1818  1957  1817  1957 0.82 Zinc-binding dehydrogenase
+ADH_zinc_N           PF00107.29   130 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   1.8e-18   66.9   0.0   1   1   1.3e-20   2.5e-17   63.3   0.0     1   102  1782  1887  1782  1908 0.90 Zinc-binding dehydrogenase
+adh_short            PF00106.28   195 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   9.7e-11   41.6   0.6   1   1   2.1e-13     4e-10   39.6   0.0     1   162  1982  2139  1982  2161 0.87 short chain dehydrogenase
+PP-binding           PF00550.28    67 BGC0001124_ORF1:gid::pid:EHA19289.1:loc:3228:10318:strand:- -           2347   1.9e-08   34.6   0.0   1   1   2.9e-11   5.7e-08   33.1   0.0     4    64  2273  2333  2270  2335 0.95 Phosphopantetheine attachment site
+MFS_1                PF07690.19   353 BGC0001124_ORF2:gid::pid:EHA19290.1:loc:11668:13123:strand:- -            392   1.1e-33  116.8  53.4   1   1   1.5e-31   9.5e-28   97.2  29.9     6   297    23   300    14   304 0.85 Major Facilitator Superfamily
+p450                 PF00067.25   463 BGC0001124_ORF3:gid::pid:EHA19291.1:loc:13884:14984:strand:+ -            280   1.5e-24   86.7   0.0   1   1     1e-28     2e-24   86.3   0.0   114   390    18   273     5   277 0.84 Cytochrome P450
+Methyltransf_2       PF00891.21   210 BGC0001124_ORF4:gid::pid:EHA19292.1:loc:16573:17085:strand:+ -            171   3.3e-26   92.1   0.0   1   1   1.9e-30   3.7e-26   91.9   0.0    65   209     2   150     1   151 0.87 O-methyltransferase domain
+FAD_binding_3        PF01494.22   349 BGC0001124_ORF5:gid::pid:EHA19293.1:loc:20431:22179:strand:- -            385   1.2e-26   94.0   0.8   1   1     8e-29   1.6e-24   87.0   0.8     2   348     3   326     2   327 0.76 FAD binding domain
+Asp                  PF00026.26   315 BGC0001124_ORF6:gid::pid:EHA19294.1:loc:23351:24649:strand:- -            414   2.4e-14   53.6   0.2   1   1   2.5e-18     5e-14   52.6   0.2     2   314    43   411    42   412 0.74 Eukaryotic aspartyl protease
+FAD_binding_4        PF01565.26   139 BGC0001124_ORF8:gid::pid:EHA19296.1:loc:28505:30082:strand:- -            484   6.1e-28   97.4   1.0   1   1   6.3e-32   1.2e-27   96.4   1.0     1   138    75   209    75   210 0.97 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001124.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001124.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001124.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:28:00 2023
+# [ok]

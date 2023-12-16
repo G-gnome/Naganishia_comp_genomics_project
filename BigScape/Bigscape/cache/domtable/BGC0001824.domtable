@@ -1,0 +1,38 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.28   117 BGC0001824_ORF1:gid::pid:OTA20322.1:loc:0:420:strand:+ -            139   8.4e-14   51.9   0.0   1   1     2e-17   9.9e-14   51.7   0.0    28   117    30   114     4   114 0.78 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.10    80 BGC0001824_ORF1:gid::pid:OTA20322.1:loc:0:420:strand:+ -            139   3.4e-11   43.4   0.1   1   1     9e-15   4.4e-11   43.1   0.1    12    79    45   115    13   116 0.69 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.10   128 BGC0001824_ORF1:gid::pid:OTA20322.1:loc:0:420:strand:+ -            139   1.5e-09   38.0   0.0   1   1   3.9e-13   1.9e-09   37.7   0.0    32   112    37   119    11   124 0.83 Acetyltransferase (GNAT) domain
+FR47                 PF08445.13    86 BGC0001824_ORF1:gid::pid:OTA20322.1:loc:0:420:strand:+ -            139   7.5e-08   32.4   0.0   1   1   2.1e-11     1e-07   31.9   0.0     9    80    44   117    38   121 0.82 FR47-like protein
+GerE                 PF00196.22    57 BGC0001824_ORF2:gid::pid:OTA20323.1:loc:435:1125:strand:+ -            229   1.6e-08   34.1   0.1   1   1   1.6e-12   3.2e-08   33.2   0.1     3    52   154   203   152   205 0.92 Bacterial regulatory proteins, luxR family
+Transp_cyt_pur       PF02133.18   440 BGC0001824_ORF3:gid::pid:OTA20324.1:loc:1151:2432:strand:+ -            426   8.6e-22   77.6  33.0   1   1   8.5e-26   1.7e-21   76.7  33.0     2   416    12   399    11   418 0.81 Permease for cytosine/purines, uracil, thiamine, allantoin
+AMP-binding          PF00501.31   424 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841  3.3e-248  823.4   0.0   1   3   5.8e-92   2.3e-88  296.8   0.0     1   424   463   867   463   867 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841  3.3e-248  823.4   0.0   2   3   4.7e-83   1.9e-79  267.4   0.0     2   424  1979  2379  1978  2379 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841  3.3e-248  823.4   0.0   3   3   1.7e-79   6.6e-76  255.7   0.0     3   423  3033  3429  3031  3430 0.87 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841    3e-239  794.4  34.2   1   4   1.5e-34   5.9e-31  107.8   0.2    20   457    19   443    10   443 0.83 Condensation domain
+Condensation         PF00668.23   457 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841    3e-239  794.4  34.2   2   4   1.6e-50   6.2e-47  160.4   2.2     2   442  1059  1474  1058  1480 0.83 Condensation domain
+Condensation         PF00668.23   457 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841    3e-239  794.4  34.2   3   4   8.8e-73   3.4e-69  233.8   9.1     4   457  1517  1956  1516  1956 0.88 Condensation domain
+Condensation         PF00668.23   457 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841    3e-239  794.4  34.2   4   4   6.5e-95   2.6e-91  306.7   2.1     6   457  2568  3011  2564  3011 0.92 Condensation domain
+PP-binding           PF00550.28    67 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841   1.6e-39  134.1   0.0   1   3   4.5e-15   1.8e-11   44.3   0.0     2    66   974  1035   973  1036 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841   1.6e-39  134.1   0.0   2   3   1.4e-17   5.6e-14   52.3   0.0     4    67  2488  2549  2485  2549 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841   1.6e-39  134.1   0.0   3   3   1.6e-11   6.2e-08   33.0   0.0     1    64  3537  3598  3537  3601 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841   1.3e-25   90.3   0.0   1   2   4.1e-10   1.6e-06   29.1   0.0     1    76  2387  2458  2387  2458 0.89 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841   1.3e-25   90.3   0.0   2   2   4.6e-12   1.8e-08   35.3   0.0     1    76  3438  3509  3438  3509 0.90 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001824_ORF4:gid::pid:OTA20325.1:loc:2922:14448:strand:+ -           3841   1.9e-18   67.6   1.0   1   1     3e-21   1.2e-17   65.0   1.0     2   161  3617  3773  3616  3837 0.67 Thioesterase domain
+Trp_halogenase       PF04820.17   454 BGC0001824_ORF5:gid::pid:OTA20326.1:loc:15106:16657:strand:+ -            516    3e-137  458.3   0.0   1   1  5.8e-141  3.8e-137  458.0   0.0     2   439     5   465     4   479 0.97 Tryptophan halogenase
+DAO                  PF01266.27   353 BGC0001824_ORF5:gid::pid:OTA20326.1:loc:15106:16657:strand:+ -            516   3.5e-09   36.9   0.0   1   1   6.1e-12     4e-08   33.4   0.0     2   233     5   263     4   338 0.59 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001824_ORF5:gid::pid:OTA20326.1:loc:15106:16657:strand:+ -            516   6.5e-05   23.2   0.1   1   1   2.3e-08   0.00015   22.1   0.1     1    28     7    37     7    53 0.90 NAD(P)-binding Rossmann-like domain
+adh_short            PF00106.28   195 BGC0001824_ORF6:gid::pid:OTA20327.1:loc:16760:17537:strand:- -            258   2.3e-31  108.9   0.0   1   1   4.5e-35   2.9e-31  108.6   0.0     1   183    14   200    14   211 0.94 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001824_ORF6:gid::pid:OTA20327.1:loc:16760:17537:strand:- -            258   8.2e-18   64.9   0.0   1   1   1.5e-21     1e-17   64.6   0.0     6   169    25   194    19   228 0.85 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0001824_ORF6:gid::pid:OTA20327.1:loc:16760:17537:strand:- -            258   8.7e-08   32.4   0.3   1   1   1.8e-11   1.2e-07   32.0   0.3     3   136    16   151    15   194 0.77 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001824.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001824.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001824.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:22:02 2023
+# [ok]

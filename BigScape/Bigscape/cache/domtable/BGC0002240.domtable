@@ -1,0 +1,21 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Carn_acyltransf      PF00755.23   568 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   6.7e-91  305.7   0.0   1   1   3.8e-94   9.3e-91  305.3   0.0     1   504  2473  2967  2473  2971 0.91 Choline/Carnitine o-acyltransferase
+ketoacyl-synt        PF00109.29   253 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   1.6e-69  234.5   0.2   1   1   1.9e-72   4.7e-69  232.9   0.0     2   253   101   352   100   352 0.94 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   9.4e-55  186.1   0.1   1   1   8.5e-58   2.1e-54  184.9   0.1     1   293  1027  1331  1027  1334 0.88 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   3.3e-47  161.7   0.0   1   1   2.4e-50     6e-47  160.8   0.0     1   315   626   973   626   977 0.79 Acyl transferase domain
+KR                   PF08659.13   180 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   9.6e-44  149.5   0.0   1   1     1e-46   2.6e-43  148.1   0.0     1   164  2062  2228  2062  2240 0.92 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   2.5e-32  111.5   0.1   1   1   2.2e-35   5.5e-32  110.4   0.1     2   118   361   477   360   478 0.97 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   4.4e-17   62.7   0.0   1   1   7.3e-20   1.8e-16   60.7   0.0    10   108   486   592   480   596 0.82 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0002240_ORF1:gid::pid:KFG78606.1:loc:96:9430:strand:- -           3068   4.8e-07   30.1   0.3   1   1   4.9e-10   1.2e-06   28.8   0.3     7    65  2358  2417  2352  2419 0.87 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002240.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002240.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002240.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:14:17 2023
+# [ok]

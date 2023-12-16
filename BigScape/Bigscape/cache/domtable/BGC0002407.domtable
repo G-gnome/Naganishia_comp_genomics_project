@@ -1,0 +1,29 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AdoHcyase_NAD        PF00670.24   162 BGC0002407_ORF1:gid:ahcY_1:pid:GES28397.1:loc:0:1272:strand:- -            423   8.5e-51  172.4   0.3   1   1   2.7e-54   1.3e-50  171.8   0.3     1   161   189   349   189   350 0.99 S-adenosyl-L-homocysteine hydrolase, NAD binding domain
+AdoHcyase            PF05221.20   299 BGC0002407_ORF1:gid:ahcY_1:pid:GES28397.1:loc:0:1272:strand:- -            423   6.3e-50  170.1   0.0   1   2   3.2e-30   1.6e-26   93.3   0.2     3   141     9   142     7   153 0.94 S-adenosyl-L-homocysteine hydrolase
+AdoHcyase            PF05221.20   299 BGC0002407_ORF1:gid:ahcY_1:pid:GES28397.1:loc:0:1272:strand:- -            423   6.3e-50  170.1   0.0   2   2   7.7e-25   3.8e-21   75.6   0.0   184   286   152   416   141   422 0.97 S-adenosyl-L-homocysteine hydrolase
+2-Hacid_dh_C         PF02826.22   178 BGC0002407_ORF1:gid:ahcY_1:pid:GES28397.1:loc:0:1272:strand:- -            423   1.9e-09   37.2   0.1   1   1   8.2e-13     4e-09   36.2   0.1    12   141   185   313   175   327 0.80 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+IlvN                 PF07991.15   165 BGC0002407_ORF1:gid:ahcY_1:pid:GES28397.1:loc:0:1272:strand:- -            423   0.00012   21.9   0.5   1   1   4.1e-08    0.0002   21.1   0.1     3    99   210   302   208   312 0.82 Acetohydroxy acid isomeroreductase, NADPH-binding domain
+Pribosyltran         PF00156.30   158 BGC0002407_ORF2:gid::pid:GES28398.1:loc:1345:1882:strand:- -            178   2.5e-13   49.8   0.2   1   1   1.7e-17   3.3e-13   49.4   0.2    14   124    41   157    35   170 0.85 Phosphoribosyl transferase domain
+Ribul_P_3_epim       PF00834.22   198 BGC0002407_ORF3:gid:rpe_1:pid:GES28399.1:loc:1933:2653:strand:- -            239   5.3e-29  101.2   0.0   1   1   3.1e-33   6.1e-29  101.0   0.0     2   198    20   216    19   216 0.94 Ribulose-phosphate 3 epimerase family
+Pribosyltran_N       PF13793.9    116 BGC0002407_ORF4:gid:prsA:pid:GES28400.1:loc:2636:3716:strand:- -            359   1.2e-15   57.6   0.0   1   1   3.5e-19   3.5e-15   56.1   0.0    22   116    54   153    46   153 0.92 N-terminal domain of ribose phosphate pyrophosphokinase
+Pribosyltran         PF00156.30   158 BGC0002407_ORF4:gid:prsA:pid:GES28400.1:loc:2636:3716:strand:- -            359   1.9e-10   40.5   2.0   1   1   6.8e-14   6.7e-10   38.7   0.2    30   132   198   294   196   301 0.87 Phosphoribosyl transferase domain
+HAD                  PF12710.10   188 BGC0002407_ORF5:gid::pid:GES28401.1:loc:3712:4387:strand:- -            224   1.4e-16   61.7   0.7   1   1   3.9e-20   2.5e-16   60.8   0.7     1   188    27   182    27   182 0.76 haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 BGC0002407_ORF5:gid::pid:GES28401.1:loc:3712:4387:strand:- -            224   1.3e-08   35.5   0.0   1   1   8.9e-11   5.8e-07   30.1   0.0     3   206    26   181    24   184 0.75 haloacid dehalogenase-like hydrolase
+Hydrolase_3          PF08282.15   255 BGC0002407_ORF5:gid::pid:GES28401.1:loc:3712:4387:strand:- -            224   4.5e-08   33.3   0.0   1   1   2.1e-09   1.4e-05   25.2   0.0   192   241   154   202   143   207 0.87 haloacid dehalogenase-like hydrolase
+Lysine_decarbox      PF03641.17   132 BGC0002407_ORF6:gid::pid:GES28402.1:loc:4383:4965:strand:- -            193   6.5e-39  133.2   0.0   1   1   7.9e-43   7.8e-39  133.0   0.0     1   129    47   174    47   177 0.97 Possible lysine decarboxylase
+LDcluster4           PF18306.4    151 BGC0002407_ORF6:gid::pid:GES28402.1:loc:4383:4965:strand:- -            193   1.5e-11   44.1   0.1   1   1   1.9e-15   1.9e-11   43.9   0.1    12   111    15   116     2   130 0.83 SLOG cluster4 family
+Peripla_BP_3         PF13377.9    166 BGC0002407_ORF7:gid::pid:GES28403.1:loc:5202:6138:strand:+ -            311   2.4e-26   93.1   4.1   1   1   2.5e-30   2.5e-26   93.0   1.5     1   166   151   306   151   306 0.83 Periplasmic binding protein-like domain
+Peripla_BP_1         PF00532.24   279 BGC0002407_ORF7:gid::pid:GES28403.1:loc:5202:6138:strand:+ -            311   1.8e-14   54.0   0.0   1   1   2.8e-18   2.7e-14   53.4   0.0     2   276    50   301    49   304 0.84 Periplasmic binding proteins and sugar binding domain of LacI family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002407.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002407.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002407.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:01:45 2023
+# [ok]

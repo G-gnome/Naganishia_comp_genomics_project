@@ -1,0 +1,19 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6119              PF19614.2    523 BGC0002317_ORF3:gid::pid:KPA06469.1:loc:1208:3050:strand:+ -            613    3e-123  412.4   0.2   1   1  1.8e-127  3.4e-123  412.2   0.2     1   521     6   529     6   531 0.91 Family of unknown function (DUF6119)
+DUF4755              PF15947.8    128 BGC0002317_ORF7:gid::pid:KPA06473.1:loc:6599:7181:strand:+ -            193   3.3e-26   91.9   0.8   1   1   3.1e-30   6.1e-26   91.0   0.8     7   127    75   189    71   190 0.90 Domain of unknown function (DUF4755)
+EamA                 PF00892.23   137 BGC0002317_ORF9:gid::pid:KPA06475.1:loc:8431:9322:strand:- -            296   1.6e-50  170.9  42.5   1   2   2.4e-23   4.7e-19   69.1  17.1     4   136     6   138     3   139 0.95 EamA-like transporter family
+EamA                 PF00892.23   137 BGC0002317_ORF9:gid::pid:KPA06475.1:loc:8431:9322:strand:- -            296   1.6e-50  170.9  42.5   2   2   1.9e-35   3.7e-31  108.2  17.4     2   136   145   286   144   287 0.93 EamA-like transporter family
+2OG-FeII_Oxy_4       PF13661.9     98 BGC0002317_ORF10:gid::pid:KPA06476.1:loc:9326:10004:strand:- -            225     1e-09   38.9   0.0   1   1     1e-13     2e-09   38.0   0.0     3    93   132   218   130   222 0.90 2OG-Fe(II) oxygenase superfamily
+ThiF                 PF00899.24   219 BGC0002317_ORF11:gid::pid:KPA06477.1:loc:10000:11122:strand:- -            373   2.5e-35  121.8   0.0   1   1   1.8e-39   3.6e-35  121.3   0.0     1   204   106   365   106   371 0.91 ThiF family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002317.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002317.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002317.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:06:28 2023
+# [ok]

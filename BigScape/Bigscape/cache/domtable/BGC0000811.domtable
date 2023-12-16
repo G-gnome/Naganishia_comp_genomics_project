@@ -1,0 +1,27 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Oxidored_FMN         PF00724.23   342 BGC0000811_ORF1:gid::pid:EAL94095.1:loc:0:1131:strand:- -            376   1.5e-88  297.5   0.0   1   1   8.6e-93   1.7e-88  297.3   0.0     1   341     9   342     9   343 0.87 NADH:flavin oxidoreductase / NADH oxidase family
+p450                 PF00067.25   463 BGC0000811_ORF3:gid::pid:EAL94097.1:loc:3607:4947:strand:- -            338   2.1e-35  122.5   0.0   1   1   1.5e-38   2.9e-34  118.8   0.0   123   393    72   327    57   335 0.78 Cytochrome P450
+Trp_DMAT             PF11991.11   363 BGC0000811_ORF4:gid::pid:EAL94098.1:loc:5476:6841:strand:- -            436   2.1e-90  303.9   0.1   1   1   1.3e-94   2.6e-90  303.6   0.1     1   359    46   387    46   390 0.94 Tryptophan dimethylallyltransferase
+adh_short_C2         PF13561.9    234 BGC0000811_ORF5:gid::pid:EAL94099.1:loc:7570:8423:strand:+ -            261     4e-44  151.1   0.1   1   1   7.7e-48     5e-44  150.7   0.1     1   229    13   256    13   258 0.88 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0000811_ORF5:gid::pid:EAL94099.1:loc:7570:8423:strand:+ -            261   1.1e-43  149.1   0.1   1   1   2.1e-47   1.4e-43  148.8   0.1     2   189     8   206     7   212 0.95 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0000811_ORF5:gid::pid:EAL94099.1:loc:7570:8423:strand:+ -            261   3.5e-11   43.4   0.1   1   1   9.3e-15   6.1e-11   42.7   0.1     5   115    11   126     8   170 0.80 KR domain
+p450                 PF00067.25   463 BGC0000811_ORF6:gid::pid:EAL94100.1:loc:9075:10967:strand:+ -            519     1e-31  110.3   0.0   1   1   7.2e-36   1.4e-31  109.9   0.0   196   446   236   491   188   502 0.85 Cytochrome P450
+Transferase          PF02458.18   434 BGC0000811_ORF7:gid::pid:EAL94101.1:loc:11814:13299:strand:+ -            494     7e-15   54.7   0.0   1   1   3.3e-17   6.5e-13   48.3   0.0   129   383   128   427   118   479 0.65 Transferase family
+Catalase             PF00199.22   383 BGC0000811_ORF8:gid::pid:EAL94102.1:loc:13975:15595:strand:- -            520    3e-153  510.6   0.0   1   1  3.9e-157  3.9e-153  510.2   0.0     1   381    26   411    26   413 0.98 Catalase
+Catalase-rel         PF06628.15    65 BGC0000811_ORF8:gid::pid:EAL94102.1:loc:13975:15595:strand:- -            520     6e-08   32.9   0.1   1   1   1.7e-11   1.7e-07   31.5   0.1     4    65   441   505   439   505 0.89 Catalase-related immune-responsive
+Trp_DMAT             PF11991.11   363 BGC0000811_ORF9:gid::pid:EAL94103.2:loc:16667:18182:strand:- -            451  7.2e-115  384.4   0.0   1   1  4.3e-119  8.5e-115  384.1   0.0     1   362    25   378    25   379 0.93 Tryptophan dimethylallyltransferase
+FAD_binding_4        PF01565.26   139 BGC0000811_ORF10:gid::pid:EAL94104.1:loc:18682:20804:strand:+ -            628   9.3e-21   74.1   1.5   1   1   3.5e-24   3.4e-20   72.3   1.5     3   137   151   294   149   296 0.90 FAD binding domain
+BBE                  PF08031.15    46 BGC0000811_ORF10:gid::pid:EAL94104.1:loc:18682:20804:strand:+ -            628   1.2e-09   38.3   0.0   1   1   2.1e-13   2.1e-09   37.5   0.0     1    45   551   594   551   595 0.93 Berberine and berberine like
+Methyltransf_33      PF10017.12   309 BGC0000811_ORF11:gid::pid:EAL94105.1:loc:21060:22152:strand:+ -            339     6e-81  272.1   0.0   1   1   3.6e-85     7e-81  271.9   0.0     2   308    21   335    20   336 0.94 Histidine-specific methyltransferase, SAM-dependent
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000811.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000811.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000811.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:51:20 2023
+# [ok]

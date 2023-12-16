@@ -1,0 +1,32 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0000529_ORF3:gid:mibZ:pid:ADK32548.1:loc:1408:2311:strand:+ -            300   1.6e-25   90.3   0.0   1   1   2.2e-29   2.2e-25   89.9   0.0     1   137    23   169    23   169 0.93 ABC transporter
+p450                 PF00067.25   463 BGC0000529_ORF4:gid:mibO:pid:ADK32549.1:loc:2307:3552:strand:+ -            414   3.5e-25   88.8   0.0   1   1   5.4e-26   1.1e-21   77.3   0.0   326   433   285   386   282   411 0.92 Cytochrome P450
+DUF2511              PF10709.12    87 BGC0000529_ORF5:gid:mibQ:pid:ADK32550.1:loc:3584:3974:strand:+ -            129   3.5e-05   24.3   0.0   1   1   2.8e-09   5.4e-05   23.6   0.0     2    48    50    95    49   107 0.87 Protein of unknown function (DUF2511)
+Sigma70_r2           PF04542.17    71 BGC0000529_ORF8:gid:mibX:pid:ADK32553.1:loc:6167:6830:strand:- -            220   2.6e-14   52.9   1.2   1   1   9.1e-18     6e-14   51.7   1.2     1    68    54   119    54   121 0.97 Sigma-70 region 2
+Sigma70_r4_2         PF08281.15    54 BGC0000529_ORF8:gid:mibX:pid:ADK32553.1:loc:6167:6830:strand:- -            220   2.3e-13   49.7   0.1   1   1   3.6e-17   2.3e-13   49.7   0.1     2    54   150   202   149   202 0.95 Sigma-70, region 4
+Sigma70_r4           PF04545.19    50 BGC0000529_ORF8:gid:mibX:pid:ADK32553.1:loc:6167:6830:strand:- -            220   1.9e-08   33.8   1.1   1   1   6.5e-12   4.3e-08   32.7   0.0     2    47   156   201   155   204 0.94 Sigma-70, region 4
+Gallidermin          PF02052.18    52 BGC0000529_ORF9:gid:mibA:pid:ADK32554.1:loc:6960:7134:strand:+ -             57   1.3e-06   28.8   7.3   1   1   1.1e-10   2.3e-06   28.0   7.3     5    52    11    57     7    57 0.82 Gallidermin
+Lant_dehydr_N        PF04738.16   650 BGC0000529_ORF10:gid:mibB:pid:ADK32555.1:loc:7251:10599:strand:+ -           1115  1.3e-184  615.0  13.9   1   1  1.6e-188  1.6e-184  614.7  13.9     5   650    91   749    87   749 0.94 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000529_ORF10:gid:mibB:pid:ADK32555.1:loc:7251:10599:strand:+ -           1115     3e-31  109.3   2.7   1   1   3.1e-35     3e-31  109.3   2.7     1   284   819  1101   819  1105 0.74 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.16   352 BGC0000529_ORF11:gid:mibC:pid:ADK32556.1:loc:10595:12053:strand:+ -            485   7.7e-47  159.7   0.0   1   1   5.5e-51   1.1e-46  159.2   0.0     2   342    65   460    64   464 0.88 Lanthionine synthetase C-like protein
+Flavoprotein         PF02441.22   157 BGC0000529_ORF12:gid:mibD:pid:ADK32557.1:loc:12081:12765:strand:+ -            227   2.9e-28   98.8   0.0   1   1   2.3e-32   4.5e-28   98.1   0.0     2   150    16   181    15   184 0.83 Flavoprotein
+ABC_tran             PF00005.30   137 BGC0000529_ORF13:gid:mibT:pid:ADK32558.1:loc:12761:13712:strand:+ -            316   2.1e-27   96.4   0.0   1   1     3e-31     3e-27   95.9   0.0     2   137    22   165    21   165 0.95 ABC transporter
+ABC2_membrane        PF01061.27   210 BGC0000529_ORF14:gid:mibU:pid:ADK32559.1:loc:13689:14562:strand:+ -            290   4.1e-26   91.8  11.9   1   1   5.1e-30     5e-26   91.6  11.9     4   209    47   254    44   255 0.94 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0000529_ORF14:gid:mibU:pid:ADK32559.1:loc:13689:14562:strand:+ -            290   1.2e-09   37.9  13.8   1   1   1.6e-13   1.6e-09   37.5  13.8   158   339    92   279    68   284 0.83 ABC-2 family transporter protein
+ABC_tran             PF00005.30   137 BGC0000529_ORF17:gid:mibF:pid:ADK32562.1:loc:17123:17834:strand:+ -            236   1.7e-24   87.0   0.0   1   1   2.3e-28   2.3e-24   86.6   0.0     1   137    19   156    19   156 0.96 ABC transporter
+Trp_halogenase       PF04820.17   454 BGC0000529_ORF18:gid:mibH:pid:ADK32563.1:loc:17866:19573:strand:+ -            568  3.8e-112  375.6   0.0   1   1  4.9e-116  4.8e-112  375.2   0.0     2   416    59   466    58   508 0.92 Tryptophan halogenase
+DAO                  PF01266.27   353 BGC0000529_ORF18:gid:mibH:pid:ADK32563.1:loc:17866:19573:strand:+ -            568   1.6e-08   34.7   1.3   1   1   1.6e-12   1.6e-08   34.7   1.3     2   228    59   281    58   388 0.62 FAD dependent oxidoreductase
+Flavin_Reduct        PF01613.21   155 BGC0000529_ORF19:gid:mibS:pid:ADK32564.1:loc:19569:20106:strand:+ -            178   1.9e-29  102.9   0.1   1   1   1.1e-33   2.2e-29  102.7   0.1     1   154    20   167    20   168 0.93 Flavin reductase like domain
+Na_H_Exchanger       PF00999.24   381 BGC0000529_ORF20:gid:mibN:pid:ADK32565.1:loc:20102:21407:strand:+ -            434   4.5e-56  190.4  35.7   1   1   3.1e-60   6.2e-56  190.0  35.7     3   379    17   404    15   406 0.90 Sodium/hydrogen exchanger family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000529.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000529.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000529.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:28:55 2023
+# [ok]

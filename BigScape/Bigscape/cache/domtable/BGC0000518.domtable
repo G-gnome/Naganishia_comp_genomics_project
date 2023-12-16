@@ -1,0 +1,26 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pro_Al_protease      PF02983.17    59 BGC0000518_ORF2:gid::pid:EFL36746.1:loc:960:2373:strand:+ -            470   5.1e-14   52.2   0.9   1   1   7.8e-18   5.1e-14   52.2   0.9     1    58   109   164   109   165 0.95 Alpha-lytic protease prodomain
+Trypsin              PF00089.29   221 BGC0000518_ORF2:gid::pid:EFL36746.1:loc:960:2373:strand:+ -            470   1.1e-13   51.7   1.1   1   1     3e-17     2e-13   50.8   1.1    37   219   210   364   191   366 0.86 Trypsin
+Trypsin_2            PF13365.9    150 BGC0000518_ORF2:gid::pid:EFL36746.1:loc:960:2373:strand:+ -            470     6e-08   33.9   2.4   1   1   2.8e-11   1.8e-07   32.4   2.4    10   150   206   340   129   340 0.85 Trypsin-like peptidase domain
+SpoIIE               PF07228.15   193 BGC0000518_ORF3:gid::pid:EFL36747.1:loc:2473:4618:strand:- -            714   1.8e-49  168.4   1.6   1   1   7.6e-53     3e-49  167.7   1.6     3   191   526   711   524   713 0.93 Stage II sporulation protein E (SpoIIE)
+GAF_2                PF13185.9    138 BGC0000518_ORF3:gid::pid:EFL36747.1:loc:2473:4618:strand:- -            714   1.7e-19   70.6   4.8   1   1   3.3e-18   1.3e-14   54.8   0.2     4   138   331   469   328   469 0.88 GAF domain
+PAS_4                PF08448.13   110 BGC0000518_ORF3:gid::pid:EFL36747.1:loc:2473:4618:strand:- -            714   2.2e-07   31.2   0.9   1   1   7.6e-09     3e-05   24.4   0.0     2    87   198   280   197   290 0.86 PAS fold
+GAF                  PF01590.29   133 BGC0000518_ORF3:gid::pid:EFL36747.1:loc:2473:4618:strand:- -            714   3.6e-07   31.0   2.2   1   1   8.5e-09   3.3e-05   24.6   0.1     3   133   332   468   330   468 0.75 GAF domain
+ABC_tran             PF00005.30   137 BGC0000518_ORF5:gid::pid:EFL36749.1:loc:5710:7808:strand:- -            699     1e-20   74.8   0.0   1   1   8.9e-25   1.8e-20   74.0   0.0     1   136   528   671   528   672 0.93 ABC transporter
+Pkinase              PF00069.28   264 BGC0000518_ORF6:gid::pid:EFL36750.1:loc:9624:12318:strand:- -            897   5.2e-10   39.3   0.0   1   1   7.5e-14   7.3e-10   38.8   0.0    12   192   270   462   259   507 0.82 Protein kinase domain
+SpoIIE               PF07228.15   193 BGC0000518_ORF7:gid::pid:EFL36751.1:loc:12357:14886:strand:+ -            842   4.3e-47  160.7   2.6   1   1   3.7e-50   1.5e-46  158.9   0.7     1   192   529   711   529   712 0.92 Stage II sporulation protein E (SpoIIE)
+GAF_2                PF13185.9    138 BGC0000518_ORF7:gid::pid:EFL36751.1:loc:12357:14886:strand:+ -            842   1.8e-11   44.6   6.2   1   1   2.3e-10   8.8e-07   29.4   0.5     8   135    62   190    57   190 0.79 GAF domain
+PAS_3                PF08447.15    89 BGC0000518_ORF7:gid::pid:EFL36751.1:loc:12357:14886:strand:+ -            842   1.5e-09   38.1   0.0   1   1   7.7e-13     3e-09   37.2   0.0     7    89   221   303   215   303 0.92 PAS fold
+HATPase_c_2          PF13581.9    125 BGC0000518_ORF7:gid::pid:EFL36751.1:loc:12357:14886:strand:+ -            842   2.6e-08   33.9   0.7   1   1     3e-11   1.2e-07   31.8   0.0     5   110   729   821   725   836 0.87 Histidine kinase-like ATPase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000518.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000518.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000518.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:50:17 2023
+# [ok]

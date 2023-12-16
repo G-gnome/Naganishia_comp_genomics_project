@@ -1,0 +1,106 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="300.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="290.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mchX
+protein MchX</title>
+			<polygon class="mchX
+protein MchX" points="10,10 14,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mchI
+microcin H47 immunity protein MchI</title>
+			<polygon class="mchI
+microcin H47 immunity protein MchI" points="16,10 23,40 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mchB
+microcin H47 precursor</title>
+			<polygon class="mchB
+microcin H47 precursor" points="23,10 30,40 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mchC
+MchC protein</title>
+			<polygon class="mchC
+MchC protein" points="40,25 61,25 61,10 91,40 61,70 61,55 40,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mchD
+MchD protein</title>
+			<polygon class="mchD
+MchD protein" points="92,10 107,40 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyC (PF02794)
+"RTX toxin acyltransferase family"</title>
+				<polygon class="PF02794" points="94,28 97,28 103,40 97,52 94,52" stroke-linejoin="round" width="12" height="24" fill="rgb(53,200,189)" stroke="rgb(42,160,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mchE
+microcin H47 secretion protein mchE</title>
+			<polygon class="mchE
+microcin H47 secretion protein mchE" points="114,25 125,25 125,10 155,40 125,70 125,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="138,28 139,28 148,37 148,43 139,52 138,52" stroke-linejoin="round" width="10" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mchF
+probable microcin H47 secretion ATP-binding protein mchF</title>
+			<polygon class="mchF
+probable microcin H47 secretion ATP-binding protein mchF" points="155,25 194,25 194,10 224,40 194,70 194,55 155,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="157" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="172" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="205,28 208,28 219,39 219,41 208,52 205,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mcmI
+hypothetical protein McmI</title>
+			<polygon class="mcmI
+hypothetical protein McmI" points="226,10 233,40 226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mcmA
+McmA protein</title>
+			<polygon class="mcmA
+McmA protein" points="233,10 242,40 233,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MccV (PF17508)
+"Microcin V bacteriocin"</title>
+				<polygon class="PF17508" points="233,28 235,28 239,40 235,52 233,52" stroke-linejoin="round" width="7" height="24" fill="rgb(197,161,86)" stroke="rgb(157,128,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mcmM
+McmM protein</title>
+			<polygon class="mcmM
+McmM protein" points="248,40 270,10 270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="252,40 261,28 268,28 268,52 261,52" stroke-linejoin="round" width="19" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="275,40 290,10 290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

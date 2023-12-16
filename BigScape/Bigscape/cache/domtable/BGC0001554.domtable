@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CbiX                 PF01903.20   106 BGC0001554_ORF1:gid:cfbA:pid:WP_011305381.1:loc:0:393:strand:+ -            130   4.7e-28   97.7   0.0   1   1   5.5e-32   5.4e-28   97.5   0.0     1   105    12   123    12   124 0.98 CbiX
+CbiK                 PF06180.14   262 BGC0001554_ORF1:gid:cfbA:pid:WP_011305381.1:loc:0:393:strand:+ -            130   5.6e-07   29.3   0.0   1   1   6.8e-11   6.7e-07   29.0   0.0   144   260     7   129     2   130 0.80 Cobalt chelatase (CbiK)
+Mur_ligase_M         PF08245.15   200 BGC0001554_ORF2:gid:cfbE:pid:WP_011305382.1:loc:419:2006:strand:+ -            528     2e-06   28.0   0.2   1   1   4.7e-10   9.3e-06   25.8   0.2     1   146   117   261   117   287 0.79 Mur ligase middle domain
+Oxidored_nitro       PF00148.22   399 BGC0001554_ORF3:gid:cfbD:pid:WP_011305383.1:loc:2441:3554:strand:+ -            370   4.2e-19   68.7   0.0   1   1   2.6e-23   5.2e-19   68.4   0.0    17   138    30   145    15   287 0.82 Nitrogenase component 1 type Oxidoreductase
+Fer4_NifH            PF00142.21   271 BGC0001554_ORF4:gid:cfbC:pid:WP_011305384.1:loc:3591:4389:strand:+ -            265   4.1e-89  298.8   2.1   1   1   1.5e-92   4.8e-89  298.5   2.1     2   265     6   264     5   265 0.97 4Fe-4S iron sulfur cluster binding proteins, NifH/frxC family
+CbiA                 PF01656.26   127 BGC0001554_ORF4:gid:cfbC:pid:WP_011305384.1:loc:3591:4389:strand:+ -            265   9.1e-11   42.0   0.0   1   1   4.8e-14   1.6e-10   41.3   0.0     1   124     6   220     6   223 0.92 CobQ/CobB/MinD/ParA nucleotide binding domain
+ParA                 PF10609.12   246 BGC0001554_ORF4:gid:cfbC:pid:WP_011305384.1:loc:3591:4389:strand:+ -            265     1e-09   38.3   1.0   1   1   2.3e-12   7.6e-09   35.5   1.0     4   245     4   243     2   244 0.81 NUBPL iron-transfer P-loop NTPase
+AAA_31               PF13614.9    177 BGC0001554_ORF4:gid:cfbC:pid:WP_011305384.1:loc:3591:4389:strand:+ -            265   1.3e-09   38.3   0.3   1   1   1.4e-12   4.7e-09   36.5   0.1     2    63     5    63     4    83 0.79 AAA domain
+ArsA_ATPase          PF02374.18   305 BGC0001554_ORF4:gid:cfbC:pid:WP_011305384.1:loc:3591:4389:strand:+ -            265     1e-08   34.9   1.1   1   1   7.4e-11   2.4e-07   30.4   0.6     2    40     5    43     4    48 0.94 Anion-transporting ATPase
+GATase_3             PF07685.17   197 BGC0001554_ORF5:gid:cfbB:pid:WP_011305385.1:loc:4490:5975:strand:+ -            494     3e-45  154.4   0.1   1   1   7.7e-49     5e-45  153.6   0.1     1   191   270   469   270   474 0.89 CobB/CobQ-like glutamine amidotransferase domain
+AAA_26               PF13500.9    198 BGC0001554_ORF5:gid:cfbB:pid:WP_011305385.1:loc:4490:5975:strand:+ -            494   4.1e-19   69.3   0.1   1   1   7.1e-21   4.7e-17   62.6   0.1     2   193    13   195    12   198 0.84 AAA domain
+CbiA                 PF01656.26   127 BGC0001554_ORF5:gid:cfbB:pid:WP_011305385.1:loc:4490:5975:strand:+ -            494     4e-17   62.6   0.0   1   1   1.2e-20   7.8e-17   61.6   0.0     1   121    14   199    14   205 0.90 CobQ/CobB/MinD/ParA nucleotide binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001554.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001554.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001554.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:23:42 2023
+# [ok]

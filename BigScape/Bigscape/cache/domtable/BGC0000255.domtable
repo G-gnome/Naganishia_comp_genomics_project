@@ -1,0 +1,36 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fapy_DNA_glyco       PF01149.27   119 BGC0000255_ORF1:gid::pid:AAW33970.1:loc:796:1609:strand:- -            270   2.8e-31  108.8   0.0   1   1     8e-35   5.3e-31  107.9   0.0     1   118     1   114     1   115 0.92 Formamidopyrimidine-DNA glycosylase N-terminal domain
+H2TH                 PF06831.17    93 BGC0000255_ORF1:gid::pid:AAW33970.1:loc:796:1609:strand:- -            270   1.5e-25   89.1   0.0   1   1   3.7e-29   2.4e-25   88.4   0.0     1    89   130   218   130   221 0.98 Formamidopyrimidine-DNA glycosylase H2TH domain
+zf-FPG_IleRS         PF06827.17    30 BGC0000255_ORF1:gid::pid:AAW33970.1:loc:796:1609:strand:- -            270   4.7e-08   32.9   3.8   1   1   1.5e-11   9.8e-08   31.8   3.8     1    28   242   269   242   270 0.97 Zinc finger found in FPG and IleRS
+ECH_1                PF00378.23   251 BGC0000255_ORF2:gid::pid:AAW33971.1:loc:2400:3156:strand:- -            251   9.6e-51  172.6   0.0   1   1   1.1e-54   1.1e-50  172.5   0.0     4   249    12   250     9   251 0.96 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.8    335 BGC0000255_ORF2:gid::pid:AAW33971.1:loc:2400:3156:strand:- -            251     2e-18   67.2   0.0   1   1   2.4e-22   2.3e-18   66.9   0.0     3   218    16   225    14   244 0.83 Enoyl-CoA hydratase/isomerase
+Ketoacyl-synt_C      PF02801.25   119 BGC0000255_ORF3:gid::pid:AAW33972.1:loc:3257:4589:strand:- -            443   2.2e-29  102.0   0.3   1   1   1.6e-32   1.6e-28   99.2   0.0    16   118   290   390   278   391 0.95 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000255_ORF3:gid::pid:AAW33972.1:loc:3257:4589:strand:- -            443   3.7e-27   95.6   0.1   1   1   5.9e-31   5.7e-27   95.0   0.1     3   252    13   269    12   270 0.90 Beta-ketoacyl synthase, N-terminal domain
+PP-binding           PF00550.28    67 BGC0000255_ORF4:gid::pid:AAW33973.1:loc:4578:4821:strand:- -             80   1.6e-06   28.4   0.3   1   1   9.7e-11   1.9e-06   28.2   0.3    12    66    20    74     9    75 0.89 Phosphopantetheine attachment site
+Methyltransf_11      PF08241.15    96 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335   2.2e-20   73.2   0.0   1   1   2.8e-23   6.9e-20   71.6   0.0     1    95   141   233   141   234 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335   4.3e-19   69.1   0.0   1   1   4.7e-22   1.1e-18   67.7   0.0     1    97   140   230   140   230 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335   2.4e-12   47.0   0.0   1   1   1.4e-15   3.4e-12   46.6   0.0     4   113   137   238   134   314 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335   1.8e-11   44.3   0.0   1   1     1e-14   2.6e-11   43.8   0.0     8   162   124   275   110   278 0.85 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335     6e-09   36.7   0.0   1   1     1e-11   2.4e-08   34.7   0.0     1    99   141   232   141   232 0.88 Methyltransferase domain
+CMAS                 PF02353.23   273 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335   3.4e-08   33.3   0.0   1   1   1.8e-11   4.5e-08   32.9   0.0    25   176   100   246    76   314 0.79 Mycolic acid cyclopropane synthetase
+MTS                  PF05175.17   170 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335   6.6e-07   29.2   0.0   1   1   4.9e-10   1.2e-06   28.4   0.0    21   137   127   233   117   247 0.84 Methyltransferase small domain
+Ubie_methyltran      PF01209.21   233 BGC0000255_ORF5:gid::pid:AAW33974.1:loc:5044:6052:strand:+ -            335   1.1e-06   28.4   0.0   1   1   1.1e-09   2.8e-06   27.0   0.0    49   154   127   237    79   250 0.76 ubiE/COQ5 methyltransferase family
+HMG_CoA_synt_C       PF08540.13   280 BGC0000255_ORF6:gid::pid:AAW33975.1:loc:6282:7575:strand:+ -            430   1.8e-18   67.3   0.5   1   1   2.9e-15   2.8e-11   43.7   0.0   136   243   276   376   261   395 0.81 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+HMG_CoA_synt_N       PF01154.20   174 BGC0000255_ORF6:gid::pid:AAW33975.1:loc:6282:7575:strand:+ -            430   3.4e-11   43.5   0.0   1   1   8.3e-15   8.1e-11   42.2   0.0     5   170     3   178     1   182 0.84 Hydroxymethylglutaryl-coenzyme A synthase N terminal
+Abhydrolase_6        PF12697.10   220 BGC0000255_ORF7:gid::pid:AAW33976.1:loc:7575:8520:strand:+ -            314   2.6e-18   67.6   0.0   1   1   6.5e-22   4.2e-18   66.9   0.0     1   214    72   299    72   305 0.56 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.23   257 BGC0000255_ORF7:gid::pid:AAW33976.1:loc:7575:8520:strand:+ -            314   2.4e-16   60.3   0.0   1   1   7.2e-20   4.7e-16   59.3   0.0     2   140    71   213    70   243 0.88 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.11   239 BGC0000255_ORF7:gid::pid:AAW33976.1:loc:7575:8520:strand:+ -            314   1.1e-10   41.3   0.3   1   1   2.7e-13   1.8e-09   37.4   0.3     6   237    71   297    68   299 0.70 Serine aminopeptidase, S33
+LysR_substrate       PF03466.23   209 BGC0000255_ORF8:gid::pid:AAW33977.1:loc:8546:9440:strand:- -            297   1.5e-18   67.1   0.0   1   1   2.3e-22   2.2e-18   66.6   0.0     5   207    92   290    88   292 0.86 LysR substrate binding domain
+HTH_1                PF00126.30    60 BGC0000255_ORF8:gid::pid:AAW33977.1:loc:8546:9440:strand:- -            297   1.1e-18   67.0   1.5   1   1   1.7e-22   1.6e-18   66.5   0.7     2    59     8    65     7    66 0.97 Bacterial regulatory helix-turn-helix protein, lysR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000255.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000255.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000255.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:23:11 2023
+# [ok]

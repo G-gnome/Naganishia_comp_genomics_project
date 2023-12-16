@@ -1,0 +1,308 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1242.5666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1232.5666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bls_orf9
+putative ATP-binding protein</title>
+			<polygon class="bls_orf9
+putative ATP-binding protein" points="10,40 37,10 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="21,32 25,28 34,28 34,52 25,52 21,48" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf8
+putative 2-component system sensor kinase</title>
+			<polygon class="bls_orf8
+putative 2-component system sensor kinase" points="48,25 57,25 57,10 87,40 57,70 57,55 48,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="66,28 71,28 72,29 72,51 71,52 66,52" stroke-linejoin="round" width="6" height="24" fill="rgb(190,53,146)" stroke="rgb(152,42,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf7
+putative 2-component system response regulator</title>
+			<polygon class="bls_orf7
+putative 2-component system response regulator" points="87,10 109,40 87,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="87,28 96,28 98,30 98,50 96,52 87,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="102,36 105,40 102,44" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf6
+putative secreted peptidase</title>
+			<polygon class="bls_orf6
+putative secreted peptidase" points="217,25 195,25 195,10 165,40 195,70 195,55 217,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_1 (PF00561)
+"alpha/beta hydrolase fold"</title>
+				<rect class="PF00561" x="186" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(86,180,151)" stroke="rgb(68,144,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf5
+possible hydrolase</title>
+			<polygon class="bls_orf5
+possible hydrolase" points="230,25 232,25 232,10 262,40 232,70 232,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="237,28 246,28 258,40 246,52 237,52" stroke-linejoin="round" width="24" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf4
+putative oxidoreductase</title>
+			<polygon class="bls_orf4
+putative oxidoreductase" points="305,10 320,40 305,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Putative_PNPOx (PF01243)
+"Pyridoxamine 5'-phosphate oxidase"</title>
+				<polygon class="PF01243" points="305,28 310,28 313,32 313,48 310,52 305,52" stroke-linejoin="round" width="8" height="24" fill="rgb(177,193,67)" stroke="rgb(141,154,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf3
+putative transcriptional regulator</title>
+			<polygon class="bls_orf3
+putative transcriptional regulator" points="322,40 346,10 346,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IclR (PF01614)
+"Bacterial transcriptional regulator"</title>
+				<polygon class="PF01614" points="326,40 328,38 328,42" stroke-linejoin="round" width="6" height="24" fill="rgb(58,93,180)" stroke="rgb(46,74,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_IclR (PF09339)
+"IclR helix-turn-helix domain"</title>
+				<rect class="PF09339" x="339" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(135,102,222)" stroke="rgb(108,81,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf2
+hypothetical protein, pqqE family</title>
+			<polygon class="bls_orf2
+hypothetical protein, pqqE family" points="354,25 358,25 358,10 388,40 358,70 358,55 354,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="355" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bls_orf1
+putative serine/threonine protein kinase</title>
+			<polygon class="bls_orf1
+putative serine/threonine protein kinase" points="391,25 452,25 452,10 482,40 452,70 452,55 391,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="414" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="445,28 465,28 477,40 465,52 445,52" stroke-linejoin="round" width="35" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsS
+putative GMC oxidoreductase</title>
+			<polygon class="blsS
+putative GMC oxidoreductase" points="551,25 520,25 520,10 490,40 520,70 520,55 551,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="494,40 503,31 503,49" stroke-linejoin="round" width="13" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="511" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsR
+hypothetical protein BlsR</title>
+			<polygon class="blsR
+hypothetical protein BlsR" points="599,25 581,25 581,10 551,40 581,70 581,55 599,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>blsQ
+putative transcriptional regulator</title>
+			<polygon class="blsQ
+putative transcriptional regulator" points="599,40 623,10 623,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FCD (PF07729)
+"FCD domain"</title>
+				<polygon class="PF07729" points="603,40 612,29 612,51" stroke-linejoin="round" width="12" height="24" fill="rgb(74,75,215)" stroke="rgb(59,60,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GntR (PF00392)
+"Bacterial regulatory proteins, gntR family"</title>
+				<rect class="PF00392" x="614" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(160,85,194)" stroke="rgb(127,68,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative membrane protein</title>
+			<polygon class="
+putative membrane protein" points="628,40 644,10 644,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5706 (PF18967)
+"Family of unknown function (DUF5706)"</title>
+				<polygon class="PF18967" points="631,40 637,28 637,28 637,52 637,52" stroke-linejoin="round" width="8" height="24" fill="rgb(104,184,225)" stroke="rgb(83,147,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsO
+putative membrane protein</title>
+			<polygon class="blsO
+putative membrane protein" points="648,40 663,10 663,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>blsA
+possible methyltransferase</title>
+			<polygon class="blsA
+possible methyltransferase" points="672,10 696,40 672,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="676,28 683,28 685,31 685,49 683,52 676,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsB
+putative carboxyesterase</title>
+			<polygon class="blsB
+putative carboxyesterase" points="703,25 724,25 724,10 754,40 724,70 724,55 703,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COesterase (PF00135)
+"Carboxylesterase family"</title>
+				<polygon class="PF00135" points="704,28 738,28 750,40 738,52 704,52" stroke-linejoin="round" width="48" height="24" fill="rgb(204,82,64)" stroke="rgb(163,65,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsC
+putative regulatory protein</title>
+			<polygon class="blsC
+putative regulatory protein" points="756,10 770,40 756,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribonuc_L-PSP (PF01042)
+"Endoribonuclease L-PSP"</title>
+				<polygon class="PF01042" points="757,28 761,28 766,40 761,52 757,52" stroke-linejoin="round" width="11" height="24" fill="rgb(93,120,208)" stroke="rgb(74,96,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsD
+cytosylglucuronic acid synthase</title>
+			<polygon class="blsD
+cytosylglucuronic acid synthase" points="809,25 811,25 811,10 841,40 811,70 811,55 809,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>blsE
+hypothetical protein</title>
+			<polygon class="blsE
+hypothetical protein" points="844,25 848,25 848,10 878,40 848,70 848,55 844,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="846" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsF
+hypothetical protein</title>
+			<polygon class="blsF
+hypothetical protein" points="880,25 881,25 881,10 911,40 881,70 881,55 880,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>blsG
+arginine aminomutase</title>
+			<polygon class="blsG
+arginine aminomutase" points="916,25 927,25 927,10 957,40 927,70 927,55 916,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="928,28 940,28 944,32 944,48 940,52 928,52" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsH
+putative cytosinine synthase</title>
+			<polygon class="blsH
+putative cytosinine synthase" points="957,25 966,25 966,10 996,40 966,70 966,55 957,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="959,28 980,28 992,40 980,52 959,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsI
+putative ligase</title>
+			<polygon class="blsI
+putative ligase" points="996,25 1005,25 1005,10 1035,40 1005,70 1005,55 996,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LAL_C2 (PF18603)
+"L-amino acid ligase C-terminal domain 2"</title>
+				<polygon class="PF18603" points="1027,36 1031,40 1027,44" stroke-linejoin="round" width="7" height="24" fill="rgb(90,215,56)" stroke="rgb(72,172,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsJ
+putative efflux protein</title>
+			<polygon class="blsJ
+putative efflux protein" points="1038,25 1049,25 1049,10 1079,40 1049,70 1049,55 1038,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="1039,28 1063,28 1068,33 1068,47 1063,52 1039,52" stroke-linejoin="round" width="29" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsK
+hypothetical protein BlsK</title>
+			<polygon class="blsK
+hypothetical protein BlsK" points="1087,25 1115,25 1115,10 1145,40 1115,70 1115,55 1087,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>blsL
+putative leucyldemethylblasticidin S guanidino methyltransferase</title>
+			<polygon class="blsL
+putative leucyldemethylblasticidin S guanidino methyltransferase" points="1146,10 1167,40 1146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="1151,28 1155,28 1161,37 1161,43 1155,52 1151,52" stroke-linejoin="round" width="10" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blsM
+putative (deoxy)cytidine deoxyribosyltransferase</title>
+			<polygon class="blsM
+putative (deoxy)cytidine deoxyribosyltransferase" points="1170,10 1185,40 1170,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>blsN
+conserved hypothetical protein</title>
+			<polygon class="blsN
+conserved hypothetical protein" points="1191,10 1216,40 1191,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2071 (PF09844)
+"Uncharacterized conserved protein (COG2071)"</title>
+				<polygon class="PF09844" points="1193,28 1202,28 1212,40 1202,52 1193,52" stroke-linejoin="round" width="21" height="24" fill="rgb(209,75,163)" stroke="rgb(167,60,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

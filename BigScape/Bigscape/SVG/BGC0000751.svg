@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="247.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="237.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cps12D
+Cpx12D</title>
+			<polygon class="cps12D
+Cpx12D" points="10,40 23,10 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cps12A
+Cps12A</title>
+			<polygon class="cps12A
+Cps12A" points="31,25 38,25 38,10 68,40 38,70 38,55 31,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Stealth_CR1 (PF17101)
+"Stealth protein CR1, conserved region 1"</title>
+				<rect class="PF17101" x="37" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(125,69,194)" stroke="rgb(100,55,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Stealth_CR2 (PF11380)
+"Stealth protein CR2, conserved region 2"</title>
+				<rect class="PF11380" x="41" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(187,196,49)" stroke="rgb(149,156,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cps12B
+Cps12B</title>
+			<polygon class="cps12B
+Cps12B" points="69,25 126,25 126,10 156,40 126,70 126,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="74" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyphos_transf (PF04464)
+"CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase"</title>
+				<polygon class="PF04464" points="116,28 140,28 152,40 140,52 116,52" stroke-linejoin="round" width="38" height="24" fill="rgb(55,181,67)" stroke="rgb(44,144,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="188,10 208,40 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Orn_Arg_deC_N (PF02784)
+"Pyridoxal-dependent decarboxylase, pyridoxal binding domain"</title>
+				<polygon class="PF02784" points="191,28 196,28 204,40 196,52 191,52" stroke-linejoin="round" width="15" height="24" fill="rgb(106,204,212)" stroke="rgb(84,163,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

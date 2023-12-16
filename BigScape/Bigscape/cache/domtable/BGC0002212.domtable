@@ -1,0 +1,38 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0002212_ORF1:gid::pid:ESK96608.1:loc:0:1829:strand:+ -            482     3e-21   75.9  73.7   1   1   3.2e-21   6.2e-17   61.7  38.3     3   296    92   377    89   383 0.85 Major Facilitator Superfamily
+Epimerase            PF01370.24   241 BGC0002212_ORF2:gid::pid:ESK96609.1:loc:2868:3953:strand:- -            306   1.3e-11   44.6   0.0   1   1   2.2e-14   1.1e-10   41.6   0.0     1   228     3   211     3   223 0.88 NAD dependent epimerase/dehydratase family
+NAD_binding_10       PF13460.9    184 BGC0002212_ORF2:gid::pid:ESK96609.1:loc:2868:3953:strand:- -            306   2.6e-10   40.6   0.0   1   1   7.5e-14   3.7e-10   40.1   0.0     1   146     7   163     7   210 0.74 NAD(P)H-binding
+AMP-binding          PF00501.31   424 BGC0002212_ORF3:gid::pid:ESK96610.1:loc:4555:8076:strand:- -           1086   1.8e-38  132.4   0.0   1   1   9.9e-42   6.5e-38  130.6   0.0     8   333    45   372    39   395 0.79 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0002212_ORF3:gid::pid:ESK96610.1:loc:4555:8076:strand:- -           1086     1e-19   70.9   0.0   1   1   2.4e-23   1.6e-19   70.3   0.0     1   257   709   962   709   962 0.76 Male sterility protein
+PP-binding           PF00550.28    67 BGC0002212_ORF3:gid::pid:ESK96610.1:loc:4555:8076:strand:- -           1086     3e-05   24.4   0.0   1   1   1.4e-08   8.9e-05   22.8   0.0    23    67   599   650   576   650 0.82 Phosphopantetheine attachment site
+adh_short            PF00106.28   195 BGC0002212_ORF4:gid::pid:ESK96611.1:loc:9066:10354:strand:+ -            291   1.5e-33  116.0   0.1   1   1   1.8e-29   1.2e-25   90.3   0.1     2   142     6   160     5   165 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002212_ORF4:gid::pid:ESK96611.1:loc:9066:10354:strand:+ -            291   6.1e-28   98.1   0.0   1   1   6.4e-25   4.2e-21   75.7   0.0    10   132    33   158    11   169 0.95 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002212_ORF4:gid::pid:ESK96611.1:loc:9066:10354:strand:+ -            291   8.1e-08   32.5   0.1   1   1   2.4e-11   1.6e-07   31.5   0.1     3   143     7   161     6   195 0.80 KR domain
+FAD_binding_3        PF01494.22   349 BGC0002212_ORF5:gid::pid:ESK96612.1:loc:11230:13677:strand:+ -            691   3.7e-67  227.2   0.0   1   1   1.2e-70   4.7e-67  226.8   0.0     2   347    15   376    14   378 0.86 FAD binding domain
+Phe_hydrox_dim       PF07976.15   167 BGC0002212_ORF5:gid::pid:ESK96612.1:loc:11230:13677:strand:+ -            691   1.9e-07   31.4   0.0   1   1   9.3e-11   3.7e-07   30.5   0.0     1    98   418   517   418   612 0.84 Phenol hydroxylase, C-terminal dimerisation domain
+HI0933_like          PF03486.17   409 BGC0002212_ORF5:gid::pid:ESK96612.1:loc:11230:13677:strand:+ -            691   1.1e-05   24.4   0.2   1   1   5.6e-09   2.2e-05   23.5   0.2     1    36    15    50    15    54 0.94 HI0933-like protein
+NAD_binding_8        PF13450.9     68 BGC0002212_ORF5:gid::pid:ESK96612.1:loc:11230:13677:strand:+ -            691   5.1e-05   23.6   0.0   1   1   3.7e-08   0.00015   22.1   0.0     1    33    19    54    19    73 0.90 NAD(P)-binding Rossmann-like domain
+ketoacyl-synt        PF00109.29   253 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   6.3e-78  262.0   0.0   1   1   4.7e-81   1.1e-77  261.1   0.0     3   253   399   647   397   647 0.93 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   3.3e-44  151.8   0.1   1   1   4.9e-44   1.2e-40  140.1   0.0     2   310   923  1245   922  1254 0.85 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   5.3e-36  123.3   0.1   1   1   5.8e-39   1.4e-35  122.0   0.1     1   118   655   772   655   773 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   7.1e-36  122.5  10.2   1   3   1.5e-13   3.7e-10   40.1   0.2     1    66  1655  1721  1655  1722 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   7.1e-36  122.5  10.2   2   3   1.8e-12   4.4e-09   36.6   0.4     1    66  1756  1822  1756  1823 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   7.1e-36  122.5  10.2   3   3   6.4e-17   1.6e-13   50.9   0.4     2    63  1859  1920  1858  1924 0.95 Phosphopantetheine attachment site
+SAT                  PF16073.8    240 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   1.1e-27   97.3   1.0   1   1   4.5e-31   1.1e-27   97.3   1.0    28   240    41   268    24   268 0.84 Starter unit:ACP transacylase in aflatoxin biosynthesis
+PS-DH                PF14765.9    297 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   1.7e-21   76.9   0.1   1   1   1.5e-24   3.6e-21   75.8   0.1    30   291  1341  1603  1329  1609 0.82 Polyketide synthase dehydratase
+Thioesterase         PF00975.23   230 BGC0002212_ORF6:gid::pid:ESK96613.1:loc:15289:22320:strand:- -           2201   4.5e-21   76.2   0.6   1   1     6e-23   1.5e-19   71.2   0.0     2   223  1973  2188  1972  2195 0.71 Thioesterase domain
+adh_short_C2         PF13561.9    234 BGC0002212_ORF7:gid::pid:ESK96614.1:loc:23263:24132:strand:+ -            251   8.7e-59  199.0   0.0   1   1   2.3e-62   1.1e-58  198.7   0.0     1   231    14   247    14   249 0.95 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002212_ORF7:gid::pid:ESK96614.1:loc:23263:24132:strand:+ -            251   1.2e-45  155.5   0.3   1   1   3.2e-49   1.6e-45  155.1   0.3     1   189     8   198     8   203 0.95 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002212_ORF7:gid::pid:ESK96614.1:loc:23263:24132:strand:+ -            251   2.3e-08   34.2   0.4   1   1   6.6e-12   3.2e-08   33.8   0.4     4   126    11   133     9   186 0.80 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002212.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002212.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002212.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:07:55 2023
+# [ok]

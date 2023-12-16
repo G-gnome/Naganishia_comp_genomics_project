@@ -1,0 +1,29 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001316_ORF1:gid:chr3.CM0241.310.r2.m:pid::loc:0:2100:strand:- -            536   2.1e-73  247.8   0.0   1   1   1.3e-77   2.5e-73  247.5   0.0     1   451    46   510    46   520 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0001316_ORF5:gid:chr3.CM0241.540.r2.d:pid::loc:146510:147591:strand:- -            225   2.6e-13   49.7   0.0   1   1   1.7e-17   3.3e-13   49.3   0.0     1    73    40   110    40   128 0.92 Cytochrome P450
+ARD                  PF03079.17   157 BGC0001316_ORF6:gid:chr3.CM0241.600.r2.m:pid::loc:185460:187306:strand:+ -            220   4.4e-40  137.6   0.1   1   1     1e-43   6.7e-40  137.0   0.1    63   157    58   152    46   152 0.93 ARD/ARD' family
+Cupin_2              PF07883.14    71 BGC0001316_ORF6:gid:chr3.CM0241.600.r2.m:pid::loc:185460:187306:strand:+ -            220   1.9e-09   37.2   0.0   1   1   4.9e-13   3.2e-09   36.5   0.0    13    66    82   139    78   146 0.86 Cupin domain
+AraC_binding         PF02311.22   136 BGC0001316_ORF6:gid:chr3.CM0241.600.r2.m:pid::loc:185460:187306:strand:+ -            220   2.1e-05   24.5   0.1   1   1   5.6e-09   3.7e-05   23.8   0.1    15    65    79   134    72   153 0.89 AraC-like ligand binding domain
+UDPGT                PF00201.21   499 BGC0001316_ORF7:gid:chr3.CM0241.610.r2.m:pid::loc:192226:194404:strand:+ -            480   1.6e-21   76.9   0.0   1   1   3.2e-25   6.3e-21   74.9   0.0   280   412   296   438   282   450 0.86 UDP-glucoronosyl and UDP-glucosyl transferase
+RVT_3                PF13456.9    124 BGC0001316_ORF8:gid:chr3.CM0241.630.r2.m:pid::loc:199711:200233:strand:+ -            173   6.3e-22   77.9   0.0   1   1   3.9e-26   7.6e-22   77.6   0.0     1   123    16   136    16   137 0.97 Reverse transcriptase-like
+DUF223               PF02721.17    95 BGC0001316_ORF9:gid:chr3.CM0241.640.r2.m:pid::loc:202527:203798:strand:- -            273   7.7e-07   29.5   0.0   1   1   7.9e-11   1.6e-06   28.5   0.0     1    85    45   130    45   132 0.89 Domain of unknown function DUF223
+Transposase_28       PF04195.15    69 BGC0001316_ORF11:gid:chr3.CM0241.660.r2.m:pid::loc:212654:214771:strand:+ -            678   3.6e-12   46.4   1.7   1   1   4.3e-16   8.5e-12   45.2   0.5    11    67   118   173   112   175 0.95 Putative gypsy type transposon
+p450                 PF00067.25   463 BGC0001316_ORF12:gid:chr3.CM0241.700.r2.m:pid::loc:241840:245434:strand:- -            535   2.7e-74  250.7   0.0   1   1   1.7e-78   3.4e-74  250.4   0.0     1   450    46   508    46   521 0.89 Cytochrome P450
+Bromodomain          PF00439.28    84 BGC0001316_ORF16:gid:chr3.CM0241.760.r2.a:pid::loc:282093:283032:strand:- -             76   1.6e-11   44.2   0.6   1   1   7.9e-15   1.5e-10   41.1   0.6    22    71    16    75     7    76 0.80 Bromodomain
+p450                 PF00067.25   463 BGC0001316_ORF18:gid:chr3.CM0241.850.r2.m:pid::loc:355565:358155:strand:+ -            509  1.1e-103  347.6   0.0   1   1  6.8e-108  1.3e-103  347.4   0.0     1   460    39   494    39   497 0.93 Cytochrome P450
+RVT_3                PF13456.9    124 BGC0001316_ORF19:gid:chr3.CM0241.860.r2.m:pid::loc:367118:368484:strand:+ -            332   1.9e-20   73.1   0.0   1   1   3.1e-24     3e-20   72.4   0.0     1   123   194   314   194   315 0.96 Reverse transcriptase-like
+zf-RVT               PF13966.9     85 BGC0001316_ORF19:gid:chr3.CM0241.860.r2.m:pid::loc:367118:368484:strand:+ -            332   7.6e-09   36.3   2.2   1   1   7.8e-13   7.6e-09   36.3   2.2    39    85    22    70    13    70 0.90 zinc-binding in reverse transcriptase
+p450                 PF00067.25   463 BGC0001316_ORF21:gid:chr3.CM0241.880.r2.m:pid::loc:378822:379203:strand:+ -            127   2.3e-16   59.7   0.0   1   1   1.4e-20   2.7e-16   59.5   0.0     1    92    38   125    38   127 0.93 Cytochrome P450
+p450                 PF00067.25   463 BGC0001316_ORF24:gid:chr3.CM0241.940.r2.a:pid::loc:407535:409731:strand:+ -            378   2.6e-74  250.8   0.7   1   1   1.7e-78   3.3e-74  250.4   0.7    95   460     4   364     2   367 0.91 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001316.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001316.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001316.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:55:42 2023
+# [ok]

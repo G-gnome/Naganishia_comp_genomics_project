@@ -1,0 +1,37 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.23   172 BGC0000694_ORF1:gid:btrM:pid:CAG77417.1:loc:0:777:strand:+ -            258   1.4e-35  122.5   0.1   1   1     4e-39   2.6e-35  121.6   0.0    14   163    73   221    66   228 0.95 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 BGC0000694_ORF1:gid:btrM:pid:CAG77417.1:loc:0:777:strand:+ -            258   3.8e-26   92.2   0.0   1   1   8.1e-30   5.3e-26   91.7   0.0     2   135    75   216    74   216 0.92 Glycosyl transferases group 1
+Aminotran_3          PF00202.24   403 BGC0000694_ORF4:gid:btrB:pid:CAG77420.1:loc:6345:7644:strand:+ -            432   1.6e-26   93.1   0.0   1   2   1.9e-17   3.7e-13   49.1   0.0    11   129    32   142    25   144 0.86 Aminotransferase class-III
+Aminotran_3          PF00202.24   403 BGC0000694_ORF4:gid:btrB:pid:CAG77420.1:loc:6345:7644:strand:+ -            432   1.6e-26   93.1   0.0   2   2   2.8e-15   5.5e-11   41.9   0.0   187   380   178   362   160   380 0.83 Aminotransferase class-III
+DHQ_synthase         PF01761.23   262 BGC0000694_ORF5:gid:btrC:pid:CAG77421.1:loc:7646:8753:strand:+ -            368   6.4e-66  222.3   0.0   1   1   7.9e-70   7.7e-66  222.1   0.0     4   261    68   323    65   324 0.96 3-dehydroquinate synthase
+Fe-ADH_2             PF13685.9    251 BGC0000694_ORF5:gid:btrC:pid:CAG77421.1:loc:7646:8753:strand:+ -            368   1.3e-12   48.2   0.3   1   1   1.6e-15   1.6e-11   44.7   0.0     2   173    17   197    16   242 0.79 Iron-containing alcohol dehydrogenase
+PIG-L                PF02585.20   130 BGC0000694_ORF6:gid:btrD:pid:CAG77422.1:loc:8755:9583:strand:+ -            275   1.9e-13   51.3   0.0   1   1   1.4e-17   2.7e-13   50.8   0.0     1   128     9   175     9   177 0.84 GlcNAc-PI de-N-acetylase
+ADH_zinc_N           PF00107.29   130 BGC0000694_ORF7:gid:btrE:pid:CAG77423.1:loc:9606:10656:strand:+ -            349     1e-23   83.9   0.0   1   1   8.9e-28   1.7e-23   83.1   0.0     2   116   171   287   170   301 0.90 Zinc-binding dehydrogenase
+adh_short            PF00106.28   195 BGC0000694_ORF8:gid:btrF:pid:CAG77424.1:loc:10667:11366:strand:+ -            232   5.8e-38  130.4   0.0   1   1   1.8e-41   7.1e-38  130.1   0.0     2   189     2   193     1   198 0.92 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000694_ORF8:gid:btrF:pid:CAG77424.1:loc:10667:11366:strand:+ -            232   3.3e-31  108.8   0.0   1   1   9.8e-35   3.8e-31  108.6   0.0     1   180     7   192     7   212 0.93 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0000694_ORF8:gid:btrF:pid:CAG77424.1:loc:10667:11366:strand:+ -            232   2.9e-08   34.0   0.0   1   1   9.5e-12   3.7e-08   33.6   0.0     3   145     3   147     2   184 0.81 KR domain
+NAD_binding_10       PF13460.9    184 BGC0000694_ORF8:gid:btrF:pid:CAG77424.1:loc:10667:11366:strand:+ -            232   5.8e-07   29.7   0.0   1   1   2.8e-10   1.1e-06   28.8   0.0     1   151     7   191     7   205 0.71 NAD(P)H-binding
+Epimerase            PF01370.24   241 BGC0000694_ORF8:gid:btrF:pid:CAG77424.1:loc:10667:11366:strand:+ -            232   6.4e-05   22.7   0.0   1   1   2.3e-08     9e-05   22.2   0.0     1   116     3   139     3   183 0.75 NAD dependent epimerase/dehydratase family
+GGACT                PF06094.15   122 BGC0000694_ORF9:gid:btrG:pid:CAG77425.1:loc:11380:11851:strand:+ -            156   1.3e-23   84.0   0.4   1   1   8.7e-28   1.7e-23   83.7   0.4     1   120    21   135    21   138 0.83 Gamma-glutamyl cyclotransferase, AIG2-like
+BtrH_N               PF14399.9    134 BGC0000694_ORF10:gid:btrH:pid:CAG77426.1:loc:11831:12740:strand:+ -            302   1.1e-10   42.0   0.0   1   1     9e-15   1.8e-10   41.3   0.0    64   133    71   140    36   141 0.90 Butirosin biosynthesis protein H, N-terminal
+PP-binding           PF00550.28    67 BGC0000694_ORF11:gid:btrI:pid:CAG77427.1:loc:12808:13072:strand:+ -             87   5.9e-15   55.4   0.3   1   1   3.7e-19   7.2e-15   55.2   0.3     2    67    13    79    12    79 0.92 Phosphopantetheine attachment site
+ATP-grasp_3          PF02655.17   161 BGC0000694_ORF12:gid:btrJ:pid:CAG77428.2:loc:13068:14328:strand:+ -            419     2e-10   41.1   0.0   1   1   3.6e-14   3.5e-10   40.3   0.0     2   159   138   318   137   320 0.69 ATP-grasp domain
+Orn_Arg_deC_N        PF02784.19   247 BGC0000694_ORF13:gid:btrK:pid:CAG77429.1:loc:14331:15642:strand:+ -            436   1.5e-42  145.9   0.0   1   1     3e-46     2e-42  145.4   0.0     4   247    35   284    33   284 0.94 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.25    95 BGC0000694_ORF13:gid:btrK:pid:CAG77429.1:loc:14331:15642:strand:+ -            436   2.3e-19   69.5   0.0   1   1   5.2e-23   3.4e-19   68.9   0.0     1    95    27   381    27   381 0.76 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+Ala_racemase_N       PF01168.23   219 BGC0000694_ORF13:gid:btrK:pid:CAG77429.1:loc:14331:15642:strand:+ -            436     3e-06   27.2   0.0   1   1     7e-10   4.6e-06   26.6   0.0     4   155    33   195    30   249 0.78 Alanine racemase, N-terminal domain
+Bac_luciferase       PF00296.23   314 BGC0000694_ORF14:gid:btrO:pid:CAG77430.1:loc:15669:16695:strand:+ -            341   2.7e-32  112.5   0.0   1   1   1.7e-36   3.4e-32  112.2   0.0    22   313    26   314    12   315 0.89 Luciferase-like monooxygenase
+His_Phos_1           PF00300.25   194 BGC0000694_ORF15:gid:btrP:pid:CAG77431.1:loc:16738:17380:strand:+ -            213   1.3e-23   83.8   0.0   1   1   8.1e-28   1.6e-23   83.6   0.0     1   188     3   198     3   206 0.87 Histidine phosphatase superfamily (branch 1)
+GMC_oxred_C          PF05199.16   145 BGC0000694_ORF16:gid:btrQ:pid:CAG77432.1:loc:17706:19197:strand:+ -            496   1.1e-22   81.3   0.0   1   1   4.6e-26   4.5e-22   79.2   0.0     4   145   372   490   369   490 0.88 GMC oxidoreductase
+GMC_oxred_N          PF00732.22   296 BGC0000694_ORF16:gid:btrQ:pid:CAG77432.1:loc:17706:19197:strand:+ -            496   2.3e-11   43.7   0.0   1   1   3.8e-15   3.8e-11   43.1   0.0     6   266     2   271     1   296 0.79 GMC oxidoreductase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000694.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000694.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000694.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:02:46 2023
+# [ok]

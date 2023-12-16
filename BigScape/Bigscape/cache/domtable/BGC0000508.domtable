@@ -1,0 +1,22 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.26   274 BGC0000508_ORF1:gid:epiY_:pid:CAA44250.1:loc:0:827:strand:- -            276   3.2e-17   63.2  13.4   1   1   5.2e-21   5.1e-17   62.6  13.4   125   273     1   149     1   150 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000508_ORF1:gid:epiY_:pid:CAA44250.1:loc:0:827:strand:- -            276   3.9e-13   50.2   0.0   1   1     7e-17   6.9e-13   49.4   0.0     2    67   210   275   209   276 0.95 ABC transporter
+Gallidermin          PF02052.18    52 BGC0000508_ORF3:gid:epiA:pid:CAA44252.1:loc:1380:1539:strand:+ -             52   1.1e-36  125.1   2.0   1   1   5.9e-41   1.2e-36  125.0   2.0     1    52     1    52     1    52 1.00 Gallidermin
+Lant_dehydr_N        PF04738.16   650 BGC0000508_ORF4:gid:epiB:pid:CAA44253.1:loc:1604:4565:strand:+ -            986  5.8e-125  417.9   0.0   1   1  6.8e-129  6.7e-125  417.7   0.0     2   650    40   665    39   665 0.94 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000508_ORF4:gid:epiB:pid:CAA44253.1:loc:1604:4565:strand:+ -            986   2.2e-20   73.7   0.0   1   1   5.9e-23   5.8e-19   69.0   0.0     1   279   724   968   724   975 0.77 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.16   352 BGC0000508_ORF5:gid:epiC:pid:CAA44254.1:loc:4440:5808:strand:+ -            455   3.3e-88  295.8   8.3   1   1   2.2e-92   4.3e-88  295.4   8.3     2   352    74   453    73   453 0.97 Lanthionine synthetase C-like protein
+Flavoprotein         PF02441.22   157 BGC0000508_ORF6:gid:epiD:pid:CAA44255.1:loc:5823:6369:strand:+ -            181   1.7e-29  102.7   0.1   1   1   1.1e-33   2.1e-29  102.4   0.1     2   154     4   173     3   175 0.86 Flavoprotein
+Trans_reg_C          PF00486.31    77 BGC0000508_ORF7:gid:epiQ:pid:CAA44256.1:loc:6365:6983:strand:- -            205   8.9e-18   64.3   0.2   1   1   7.9e-22   1.6e-17   63.5   0.2     4    77   127   198   123   198 0.95 Transcriptional regulatory protein, C terminal
+Peptidase_S8         PF00082.25   284 BGC0000508_ORF8:gid:epiP:pid:CAA44257.1:loc:6993:8379:strand:- -            461   1.6e-54  185.2   5.8   1   1     1e-58     2e-54  184.9   5.8     2   253   141   419   140   451 0.92 Subtilase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000508.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000508.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000508.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:15:57 2023
+# [ok]

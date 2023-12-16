@@ -1,0 +1,22 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="59.833333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="49.833333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tgmA (SPR02S_RS10540)
+putative ATP-grasp-modified RiPP</title>
+			<polygon class="tgmA (SPR02S_RS10540)
+putative ATP-grasp-modified RiPP" points="10,10 16,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Strep_pep (PF14404)
+"Ribosomally synthesized peptide in Streptomyces species"</title>
+				<polygon class="PF14404" points="10,28 10,28 13,40 10,52 10,52" stroke-linejoin="round" width="6" height="24" fill="rgb(80,147,225)" stroke="rgb(64,117,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tgmB (SPR02S_RS10545)
+ATP-grasp ribosomal peptide maturase</title>
+			<polygon class="tgmB (SPR02S_RS10545)
+ATP-grasp ribosomal peptide maturase" points="16,25 18,25 18,10 48,40 18,70 18,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

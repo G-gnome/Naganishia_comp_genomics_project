@@ -1,0 +1,18 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DDE_Tnp_1_5          PF13737.9    112 BGC0001638_ORF1:gid::pid::loc:626:962:strand:+ -            111   4.8e-25   88.1   0.1   1   1   6.5e-29   6.4e-25   87.7   0.1    37   112     2    77     1    77 0.98 Transposase DDE domain
+DDE_Tnp_1            PF01609.24   214 BGC0001638_ORF1:gid::pid::loc:626:962:strand:+ -            111   1.1e-05   25.4   0.0   1   1   1.4e-09   1.4e-05   25.0   0.0     3    49    61   107    59   110 0.93 Transposase DDE domain
+YcaO                 PF02624.19   322 BGC0001638_ORF4:gid::pid::loc:3133:4258:strand:+ -            374   8.2e-16   58.4   0.0   1   1     6e-20   1.2e-15   57.8   0.0    14   233    46   255    44   310 0.78 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+ABC_tran             PF00005.30   137 BGC0001638_ORF5:gid::pid::loc:4254:5883:strand:+ -            542   8.2e-21   75.1   0.0   1   1   1.7e-24   1.6e-20   74.1   0.0     5   137   358   489   354   489 0.94 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001638_ORF5:gid::pid::loc:4254:5883:strand:+ -            542   3.3e-13   50.0  20.4   1   1     5e-17   4.9e-13   49.5  20.4     3   268    25   284    23   291 0.87 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001638.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001638.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001638.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:08:17 2023
+# [ok]

@@ -1,0 +1,38 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="126.03333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="116.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (FHG55_04555)
+A-factor biosynthesis protein</title>
+			<polygon class=" (FHG55_04555)
+A-factor biosynthesis protein" points="10,25 21,25 21,10 51,40 21,70 21,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AfsA (PF03756)
+"A-factor biosynthesis hotdog domain"</title>
+				<rect class="PF03756" x="22" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (FHG55_04560)
+NADH:flavin oxidoreductase</title>
+			<polygon class=" (FHG55_04560)
+NADH:flavin oxidoreductase" points="51,25 59,25 59,10 89,40 59,70 59,55 51,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_FMN (PF00724)
+"NADH:flavin oxidoreductase / NADH oxidase family"</title>
+				<polygon class="PF00724" points="51,28 73,28 84,39 84,41 73,52 51,52" stroke-linejoin="round" width="33" height="24" fill="rgb(157,188,65)" stroke="rgb(125,150,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (FHG55_04565)
+SDR family oxidoreductase</title>
+			<polygon class=" (FHG55_04565)
+SDR family oxidoreductase" points="90,10 115,40 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="91,28 101,28 111,40 101,52 91,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

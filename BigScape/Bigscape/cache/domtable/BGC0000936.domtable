@@ -1,0 +1,24 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PHZA_PHZB            PF03284.16   162 BGC0000936_ORF1:gid:phzA:pid:AAC64489.1:loc:429:918:strand:+ -            162   4.6e-91  302.6   0.6   1   1   5.4e-95   5.3e-91  302.4   0.6    14   162    14   162     2   162 0.97 Phenazine biosynthesis protein A/B
+SnoaL_2              PF12680.10   102 BGC0000936_ORF1:gid:phzA:pid:AAC64489.1:loc:429:918:strand:+ -            162   1.4e-07   32.2   0.1   1   1   1.9e-11   1.8e-07   31.8   0.1    10   101    33   134    17   135 0.71 SnoaL-like domain
+PHZA_PHZB            PF03284.16   162 BGC0000936_ORF2:gid:phzB:pid:AAC64490.1:loc:947:1436:strand:+ -            162   1.6e-96  320.4   0.2   1   1  8.7e-101   1.7e-96  320.2   0.2     3   162     3   162     1   162 0.98 Phenazine biosynthesis protein A/B
+DAHP_synth_2         PF01474.19   437 BGC0000936_ORF3:gid:phzC:pid:AAC64491.1:loc:1459:2677:strand:+ -            405  3.6e-127  424.6   0.0   1   2   3.1e-52     6e-48  163.6   0.0     5   165     7   167     4   177 0.95 Class-II DAHP synthetase family
+DAHP_synth_2         PF01474.19   437 BGC0000936_ORF3:gid:phzC:pid:AAC64491.1:loc:1459:2677:strand:+ -            405  3.6e-127  424.6   0.0   2   2   2.5e-82     5e-78  262.7   0.0   206   431   160   383   157   389 0.97 Class-II DAHP synthetase family
+Isochorismatase      PF00857.23   175 BGC0000936_ORF4:gid:phzD:pid:AAC64487.1:loc:2673:3297:strand:+ -            207   3.5e-35  121.9   0.0   1   1   2.1e-39   4.1e-35  121.7   0.0     2   175    33   204    32   204 0.97 Isochorismatase family
+Chorismate_bind      PF00425.21   256 BGC0000936_ORF5:gid:phzE:pid:AAC64488.1:loc:3293:5177:strand:+ -            627   3.7e-49  167.7   0.0   1   1   5.1e-53     5e-49  167.3   0.0     2   256   122   381   121   381 0.92 chorismate binding enzyme
+GATase               PF00117.31   191 BGC0000936_ORF5:gid:phzE:pid:AAC64488.1:loc:3293:5177:strand:+ -            627   2.2e-25   89.7   0.0   1   1   3.2e-29   3.1e-25   89.2   0.0     2   188   439   618   438   621 0.91 Glutamine amidotransferase class-I
+PhzC-PhzF            PF02567.19   283 BGC0000936_ORF6:gid:phzF:pid:AAC64492.1:loc:5190:6027:strand:+ -            278   3.1e-85  286.2   0.0   1   1   1.8e-89   3.5e-85  286.0   0.0     1   283     7   274     7   274 0.97 Phenazine biosynthesis-like protein
+Putative_PNPOx       PF01243.23    88 BGC0000936_ORF7:gid:phzG:pid:AAC64493.2:loc:6052:6697:strand:+ -            214   1.1e-17   64.1   0.0   1   1   1.8e-21   1.7e-17   63.5   0.0     9    87    45   122    33   123 0.95 Pyridoxamine 5'-phosphate oxidase
+PNP_phzG_C           PF10590.12    43 BGC0000936_ORF7:gid:phzG:pid:AAC64493.2:loc:6052:6697:strand:+ -            214   3.8e-10   39.7   0.4   1   1   9.8e-14   9.6e-10   38.4   0.4     6    43   179   214   174   214 0.91 Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000936.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000936.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000936.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:09:22 2023
+# [ok]

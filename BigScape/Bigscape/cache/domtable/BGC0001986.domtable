@@ -1,0 +1,23 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6092              PF19585.2     86 BGC0001986_ORF1:gid:pcmC:pid:QEI22733.1:loc:0:345:strand:+ -            114   2.6e-24   85.5   0.1   1   1   1.5e-28     3e-24   85.2   0.1     1    85    16    99    16   100 0.97 Family of unknown function (DUF6092)
+Nitroreductase       PF00881.27   168 BGC0001986_ORF2:gid:pcmB:pid:QEI22734.1:loc:345:945:strand:+ -            199   7.3e-22   78.4   0.0   1   2   2.2e-11   4.4e-07   30.3   0.0     2    50    26    74    25    89 0.89 Nitroreductase family
+Nitroreductase       PF00881.27   168 BGC0001986_ORF2:gid:pcmB:pid:QEI22734.1:loc:345:945:strand:+ -            199   7.3e-22   78.4   0.0   2   2   2.2e-16   4.3e-12   46.6   0.0    98   168    95   165    77   165 0.85 Nitroreductase family
+p450                 PF00067.25   463 BGC0001986_ORF3:gid:pcmD:pid:QEI22735.1:loc:945:2181:strand:+ -            411     4e-14   52.4   0.1   1   1   4.6e-16   9.1e-12   44.6   0.0   328   432   286   380   284   384 0.93 Cytochrome P450
+CDPS                 PF16715.8    220 BGC0001986_ORF4:gid:pcmA:pid:QEI22736.1:loc:2181:2952:strand:+ -            256   4.8e-69  232.5   0.0   1   1     3e-73   5.8e-69  232.3   0.0     1   220    10   244    10   244 0.98 Cyclodipeptide synthase
+Methyltransf_25      PF13649.9     97 BGC0001986_ORF5:gid:pcmE:pid:QEI22737.1:loc:2952:3657:strand:+ -            234   1.8e-14   54.3   0.1   1   1     8e-18   3.1e-14   53.5   0.1     2    93    63   150    62   154 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001986_ORF5:gid:pcmE:pid:QEI22737.1:loc:2952:3657:strand:+ -            234   2.8e-13   50.2   0.0   1   1     1e-16     4e-13   49.7   0.0    11   163    47   198    32   200 0.85 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001986_ORF5:gid:pcmE:pid:QEI22737.1:loc:2952:3657:strand:+ -            234   1.3e-11   45.2   0.1   1   1   6.1e-15   2.4e-11   44.3   0.1     1    87    63   149    63   158 0.78 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001986_ORF5:gid:pcmE:pid:QEI22737.1:loc:2952:3657:strand:+ -            234   4.4e-09   37.1   0.0   1   1   1.7e-12   6.6e-09   36.5   0.0     1    98    63   155    63   156 0.77 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001986_ORF5:gid:pcmE:pid:QEI22737.1:loc:2952:3657:strand:+ -            234   1.3e-06   28.4   0.0   1   1   4.7e-10   1.8e-06   27.9   0.0     5    91    60   138    57   177 0.77 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001986.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001986.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001986.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:07:14 2023
+# [ok]

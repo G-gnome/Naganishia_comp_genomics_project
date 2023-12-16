@@ -1,0 +1,108 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="528.0666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="518.0666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>pldA
+gamma-poly-L-2,4-diaminobutyric acid synthetase</title>
+			<polygon class="pldA
+gamma-poly-L-2,4-diaminobutyric acid synthetase" points="66,25 171,25 171,10 201,40 171,70 171,55 66,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="69" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="109" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="120" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pldB
+diaminobutyrate-2-oxoglutarate transaminase</title>
+			<polygon class="pldB
+diaminobutyrate-2-oxoglutarate transaminase" points="204,25 220,25 220,10 250,40 220,70 220,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="207,28 234,28 246,40 234,52 207,52" stroke-linejoin="round" width="41" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pldC
+aspartate kinase</title>
+			<polygon class="pldC
+aspartate kinase" points="256,25 268,25 268,10 298,40 268,70 268,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<rect class="PF00696" x="256" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACT_7 (PF13840)
+"ACT domain"</title>
+				<polygon class="PF13840" points="289,36 293,40 289,44" stroke-linejoin="round" width="6" height="24" fill="rgb(227,81,80)" stroke="rgb(181,64,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="309,25 315,25 315,10 345,40 315,70 315,55 309,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF418 (PF04235)
+"Protein of unknown function (DUF418)"</title>
+				<polygon class="PF04235" points="331,30 341,40 331,50" stroke-linejoin="round" width="13" height="24" fill="rgb(90,202,54)" stroke="rgb(72,161,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+serine protease</title>
+			<polygon class="
+serine protease" points="356,25 357,25 357,10 387,40 357,70 357,55 356,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin_2 (PF13365)
+"Trypsin-like peptidase domain"</title>
+				<polygon class="PF13365" points="365,28 371,28 383,40 383,40 371,52 365,52" stroke-linejoin="round" width="18" height="24" fill="rgb(126,86,188)" stroke="rgb(100,68,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+short-chain dehydrogenase</title>
+			<polygon class="
+short-chain dehydrogenase" points="438,25 420,25 420,10 390,40 420,70 420,55 438,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<rect class="PF00106" x="413" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="452,10 480,40 452,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+TetR family transcriptional regulator</title>
+			<polygon class="
+TetR family transcriptional regulator" points="492,40 515,10 515,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_1 (PF02909)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF02909" points="496,40 505,28 506,28 506,52 505,52" stroke-linejoin="round" width="14" height="24" fill="rgb(151,203,75)" stroke="rgb(120,162,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="507" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

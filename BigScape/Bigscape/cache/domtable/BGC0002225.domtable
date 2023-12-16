@@ -1,0 +1,27 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PhyH                 PF05721.16   211 BGC0002225_ORF1:gid::pid:OJJ99912.1:loc:224:1121:strand:+ -            298   1.7e-33  116.8   0.0   1   1   1.1e-37   2.2e-33  116.4   0.0     2   210    27   226    26   227 0.85 Phytanoyl-CoA dioxygenase (PhyH)
+AMP-binding          PF00501.31   424 BGC0002225_ORF2:gid::pid:OJJ99913.1:loc:1963:5200:strand:+ -           1078   8.1e-75  252.2   0.0   1   1   1.6e-78   1.1e-74  251.8   0.0     1   423    20   417    20   418 0.87 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0002225_ORF2:gid::pid:OJJ99913.1:loc:1963:5200:strand:+ -           1078   6.4e-13   48.9   0.0   1   1   4.1e-16   2.7e-12   46.9   0.0     2    67   567   631   566   631 0.97 Phosphopantetheine attachment site
+Terpene_syn_C_2      PF19086.3    199 BGC0002225_ORF3:gid::pid:OJJ99914.1:loc:6275:7782:strand:- -            442   4.1e-10   40.0   1.0   1   1   2.7e-14   5.2e-10   39.6   0.3     1   198   187   377   187   378 0.79 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0002225_ORF4:gid::pid:OJJ99915.1:loc:8467:10012:strand:+ -            514   3.6e-69  233.8   0.0   1   1   2.5e-73   4.9e-69  233.4   0.0     1   458    32   475    32   480 0.82 Cytochrome P450
+Hydrolase_4          PF12146.11   239 BGC0002225_ORF5:gid::pid:OJJ99916.1:loc:10886:11918:strand:+ -            318   4.3e-10   39.4   0.0   1   1     1e-12   2.9e-09   36.7   0.0     6   233    36   284    32   287 0.77 Serine aminopeptidase, S33
+Abhydrolase_6        PF12697.10   220 BGC0002225_ORF5:gid::pid:OJJ99916.1:loc:10886:11918:strand:+ -            318   3.8e-09   37.6   0.0   1   1   1.7e-12   4.7e-09   37.3   0.0     1   211    37   287    37   298 0.54 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.23   257 BGC0002225_ORF5:gid::pid:OJJ99916.1:loc:10886:11918:strand:+ -            318   3.6e-07   30.2   0.0   1   1   6.1e-10   1.7e-06   28.0   0.0     1   119    35   148    35   290 0.71 alpha/beta hydrolase fold
+Peptidase_S15        PF02129.21   269 BGC0002225_ORF5:gid::pid:OJJ99916.1:loc:10886:11918:strand:+ -            318     5e-06   26.4   0.0   1   1   2.5e-09   7.1e-06   25.9   0.0    18   136    32   143    19   175 0.81 X-Pro dipeptidyl-peptidase (S15 family)
+BAAT_C               PF08840.14   211 BGC0002225_ORF5:gid::pid:OJJ99916.1:loc:10886:11918:strand:+ -            318   0.00018   21.8   0.0   1   1   1.1e-07   0.00031   21.0   0.0     5    66    93   153    90   187 0.78 BAAT / Acyl-CoA thioester hydrolase C terminal
+p450                 PF00067.25   463 BGC0002225_ORF6:gid::pid:OJJ99917.1:loc:12417:14411:strand:- -            495   2.8e-62  211.1   0.0   1   1   1.8e-66   3.6e-62  210.8   0.0    20   447    48   472    31   486 0.82 Cytochrome P450
+p450                 PF00067.25   463 BGC0002225_ORF7:gid::pid:OJJ99918.1:loc:15026:16777:strand:+ -            530   7.2e-60  203.2   0.0   1   1   4.3e-64   8.4e-60  203.0   0.0    12   459    81   521    71   525 0.85 Cytochrome P450
+Abhydrolase_1        PF00561.23   257 BGC0002225_ORF8:gid::pid:OJJ99919.1:loc:17113:18923:strand:- -            448   1.9e-11   44.2   0.0   1   1   2.8e-14   2.7e-10   40.4   0.0     1   110    64   191    64   223 0.83 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.11   239 BGC0002225_ORF8:gid::pid:OJJ99919.1:loc:17113:18923:strand:- -            448   1.3e-07   31.3   0.0   1   1   2.6e-10   2.5e-06   27.0   0.0    29   139    91   220    86   267 0.77 Serine aminopeptidase, S33
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002225.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002225.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002225.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:40:39 2023
+# [ok]

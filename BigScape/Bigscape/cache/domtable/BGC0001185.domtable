@@ -1,0 +1,30 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375  6.4e-210  697.2   0.0   1   2  8.1e-110  2.6e-106  355.9   0.0     1   424   457   855   457   855 0.90 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375  6.4e-210  697.2   0.0   2   2  7.7e-105  2.5e-101  339.5   0.0     1   424  1514  1929  1514  1929 0.87 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375  2.2e-165  550.9   0.0   1   2   1.7e-70   5.7e-67  226.5   0.0     3   453     5   434     3   438 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375  2.2e-165  550.9   0.0   2   2   1.4e-99   4.4e-96  322.4   0.0     3   457  1043  1495  1042  1495 0.91 Condensation domain
+Thioesterase         PF00975.23   230 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375   1.7e-31  110.3   0.0   1   1   2.5e-34   8.3e-31  108.0   0.0     2   120  2125  2240  2124  2361 0.72 Thioesterase domain
+AMP-binding_C        PF13193.9     76 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375   8.8e-28   97.2   0.0   1   2   1.4e-14   4.6e-11   43.7   0.0     1    76   863   936   863   936 0.93 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375   8.8e-28   97.2   0.0   2   2   8.9e-17   2.9e-13   50.7   0.0     1    76  1937  2012  1937  2012 0.95 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375   6.1e-28   97.0   1.0   1   2   4.9e-14   1.6e-10   41.3   0.1     3    66   964  1025   962  1026 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001185_ORF1:gid:dhbF:pid:ABS75232.1:loc:0:7128:strand:- -           2375   6.1e-28   97.0   1.0   2   2   5.2e-18   1.7e-14   54.0   0.1     3    67  2040  2102  2038  2102 0.95 Phosphopantetheine attachment site
+Isochorismatase      PF00857.23   175 BGC0001185_ORF2:gid:dhbB:pid:ABS75233.1:loc:7142:8069:strand:- -            308   3.4e-41  141.4   0.0   1   1   5.8e-45   5.7e-41  140.7   0.0     2   172    32   202    31   205 0.98 Isochorismatase family
+PP-binding           PF00550.28    67 BGC0001185_ORF2:gid:dhbB:pid:ABS75233.1:loc:7142:8069:strand:- -            308   2.7e-07   30.9   0.2   1   1   5.1e-11     5e-07   30.1   0.2     1    63   229   290   229   294 0.95 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001185_ORF3:gid:dhbE:pid:ABS75234.1:loc:8086:9712:strand:- -            541   5.8e-85  285.6   0.0   1   1   7.6e-89   7.4e-85  285.2   0.0     2   423    32   435    31   436 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001185_ORF3:gid:dhbE:pid:ABS75234.1:loc:8086:9712:strand:- -            541   1.2e-15   58.3   0.1   1   1     1e-18     1e-14   55.4   0.0     1    76   444   519   444   519 0.94 AMP-binding enzyme C-terminal domain
+Chorismate_bind      PF00425.21   256 BGC0001185_ORF4:gid:dhbC:pid:ABS75235.1:loc:9730:10927:strand:- -            398   8.2e-79  264.9   0.0   1   1   5.1e-83     1e-78  264.6   0.0     3   256   125   383   123   383 0.97 chorismate binding enzyme
+adh_short            PF00106.28   195 BGC0001185_ORF5:gid:dhbA:pid:ABS75236.1:loc:10950:11721:strand:- -            256   5.2e-60  202.4   2.3   1   1   9.5e-64   6.2e-60  202.1   2.3     1   194     4   197     4   198 0.99 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001185_ORF5:gid:dhbA:pid:ABS75236.1:loc:10950:11721:strand:- -            256   5.9e-59  199.6   4.8   1   1   1.1e-62   6.9e-59  199.4   4.8     1   234    10   253    10   253 0.93 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0001185_ORF5:gid:dhbA:pid:ABS75236.1:loc:10950:11721:strand:- -            256     1e-15   58.2   1.4   1   1   2.2e-19   1.5e-15   57.7   1.4     2   154     5   157     4   204 0.92 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001185.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001185.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001185.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:15:28 2023
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YcaO                 PF02624.19   322 BGC0002120_ORF1:gid::pid:NQE92404.1:loc:0:1845:strand:- -            614   1.5e-68  231.6   0.2   1   1   9.9e-73   1.9e-68  231.3   0.2     2   321   237   581   236   582 0.85 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Acetyltransf_9       PF13527.10   127 BGC0002120_ORF3:gid::pid:NQE92406.1:loc:3891:5166:strand:- -            424   4.7e-23   81.8   0.1   1   1   3.1e-25   2.1e-21   76.5   0.1     5   126    11   148     7   149 0.90 Acetyltransferase (GNAT) domain
+SCP2_2               PF13530.9    104 BGC0002120_ORF3:gid::pid:NQE92406.1:loc:3891:5166:strand:- -            424   2.9e-20   72.7   0.0   1   1   1.9e-23   1.2e-19   70.7   0.0     3   102   322   419   320   421 0.84 Sterol carrier protein domain
+Acetyltransf_17      PF17668.4    116 BGC0002120_ORF3:gid::pid:NQE92406.1:loc:3891:5166:strand:- -            424   1.1e-12   48.8   0.1   1   1   3.8e-16   2.5e-12   47.7   0.1    23   110   220   307   200   317 0.76 Acetyltransferase (GNAT) domain
+Lant_dehydr_C        PF14028.9    288 BGC0002120_ORF4:gid::pid:NQE92407.1:loc:5165:6026:strand:- -            286   1.9e-31  110.0   6.2   1   1   1.6e-35   3.2e-31  109.3   6.2     1   283     7   275     7   278 0.78 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_N        PF04738.16   650 BGC0002120_ORF5:gid::pid:NQE92408.1:loc:6033:8526:strand:- -            830   1.9e-16   59.4   3.9   1   1   9.9e-12   1.9e-07   29.6   0.5   576   632   698   756   687   761 0.89 Lantibiotic dehydratase, N terminus
+Nitroreductase       PF00881.27   168 BGC0002120_ORF6:gid::pid:NQE92409.1:loc:8519:10058:strand:- -            512   1.4e-07   31.9   0.0   1   1   1.3e-11   2.5e-07   31.1   0.0     2   142   283   445   282   458 0.88 Nitroreductase family
+DLH                  PF01738.21   217 BGC0002120_ORF7:gid::pid:NQE92410.1:loc:10054:10636:strand:- -            193     3e-12   46.7   0.0   1   1   7.3e-16   7.2e-12   45.5   0.0    15   213     3   183     1   185 0.85 Dienelactone hydrolase family
+Abhydrolase_6        PF12697.10   220 BGC0002120_ORF7:gid::pid:NQE92410.1:loc:10054:10636:strand:- -            193     2e-07   32.0   6.7   1   1   2.8e-11   2.7e-07   31.5   6.7    18   141    23   169     4   188 0.49 Alpha/beta hydrolase family
+PCMT                 PF01135.22   210 BGC0002120_ORF8:gid::pid:NQE92411.1:loc:10639:11773:strand:- -            377   4.4e-38  131.3   0.0   1   1   2.4e-40   1.6e-36  126.2   0.0    42   208    73   246     7   248 0.90 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+Methyltransf_25      PF13649.9     97 BGC0002120_ORF8:gid::pid:NQE92411.1:loc:10639:11773:strand:- -            377   1.9e-06   28.6   0.0   1   1   7.6e-10     5e-06   27.2   0.0     1    78   115   194   115   205 0.87 Methyltransferase domain
+RrnaAD               PF00398.23   265 BGC0002120_ORF8:gid::pid:NQE92411.1:loc:10639:11773:strand:- -            377   7.4e-06   25.4   0.0   1   1   1.6e-09   1.1e-05   24.8   0.0    23    86   104   172    96   188 0.90 Ribosomal RNA adenine dimethylase
+LANC_like            PF05147.16   352 BGC0002120_ORF9:gid::pid:NQE92412.1:loc:11789:13055:strand:- -            421   2.2e-51  174.7   0.0   1   1   1.4e-55   2.7e-51  174.4   0.0     6   351    40   418    37   419 0.89 Lanthionine synthetase C-like protein
+TfuA                 PF07812.15   120 BGC0002120_ORF11:gid::pid:NQE92414.1:loc:13640:14921:strand:+ -            426     1e-41  141.5   0.0   1   1   9.6e-46   1.9e-41  140.7   0.0     1   120    15   133    15   133 0.99 TfuA-like protein
+YcaO                 PF02624.19   322 BGC0002120_ORF12:gid::pid:NQE92415.1:loc:14913:16089:strand:+ -            391   3.5e-57  194.3   0.3   1   1   2.8e-61   5.4e-57  193.7   0.3     1   321    71   378    71   379 0.82 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+p450                 PF00067.25   463 BGC0002120_ORF13:gid::pid:NQE92416.1:loc:16103:17288:strand:+ -            394   7.6e-37  127.3   0.0   1   1     1e-37     2e-33  116.0   0.0    49   434    44   367    32   384 0.86 Cytochrome P450
+Acetyltransf_1       PF00583.28   117 BGC0002120_ORF14:gid::pid:NQE92417.1:loc:17450:17918:strand:+ -            155   2.2e-10   40.9   0.1   1   1   4.3e-14   2.8e-10   40.6   0.1    22   117    16   119     4   119 0.83 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.10    80 BGC0002120_ORF14:gid::pid:NQE92417.1:loc:17450:17918:strand:+ -            155   2.2e-07   31.2   0.0   1   1   5.1e-11   3.3e-07   30.7   0.0     5    78    32   119    27   121 0.75 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.10   128 BGC0002120_ORF14:gid::pid:NQE92417.1:loc:17450:17918:strand:+ -            155   2.3e-05   24.5   0.0   1   1     5e-09   3.3e-05   24.0   0.0    28   109    27   121     9   128 0.83 Acetyltransferase (GNAT) domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002120.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002120.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002120.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:20:33 2023
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002535_ORF1:gid:pldA:pid:BCD58482.1:loc:1708:5758:strand:+ -           1349  2.1e-101  339.7   0.0   1   1  6.2e-105  3.1e-101  339.2   0.0     1   424    38   430    38   430 0.88 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0002535_ORF1:gid:pldA:pid:BCD58482.1:loc:1708:5758:strand:+ -           1349   3.9e-09   36.8   0.0   1   1   2.2e-12   1.1e-08   35.4   0.0     2    67   549   614   548   614 0.92 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002535_ORF1:gid:pldA:pid:BCD58482.1:loc:1708:5758:strand:+ -           1349   2.9e-08   34.7   0.1   1   1   5.9e-12   2.9e-08   34.7   0.1     1    73   438   515   438   518 0.85 AMP-binding enzyme C-terminal domain
+Aminotran_3          PF00202.24   403 BGC0002535_ORF2:gid:pldB:pid:BCD58483.1:loc:5845:7246:strand:+ -            466   1.5e-85  287.5   0.0   1   1   9.3e-90   1.8e-85  287.2   0.0     9   402    45   448    38   449 0.89 Aminotransferase class-III
+AA_kinase            PF00696.31   241 BGC0002535_ORF3:gid:pldC:pid:BCD58484.1:loc:7398:8661:strand:+ -            420   2.9e-49  168.0   2.4   1   1   5.6e-53   5.5e-49  167.1   2.4     2   241     3   231     2   231 0.93 Amino acid kinase family
+ACT_7                PF13840.9     65 BGC0002535_ORF3:gid:pldC:pid:BCD58484.1:loc:7398:8661:strand:+ -            420   1.1e-08   34.9   0.0   1   1   2.7e-12   2.6e-08   33.6   0.0     3    65   340   402   338   402 0.96 ACT domain
+DUF418               PF04235.15   163 BGC0002535_ORF4:gid::pid:BCD58485.1:loc:8993:10082:strand:+ -            362   1.1e-08   35.3   3.2   1   1   5.8e-13   1.1e-08   35.3   3.2    41   160   243   355   225   358 0.78 Protein of unknown function (DUF418)
+Trypsin_2            PF13365.9    150 BGC0002535_ORF5:gid::pid:BCD58486.1:loc:10381:11329:strand:+ -            315   2.5e-08   35.2   0.4   1   1   4.6e-12   4.5e-08   34.3   0.1     5   141   106   260    91   272 0.75 Trypsin-like peptidase domain
+Trypsin              PF00089.29   221 BGC0002535_ORF5:gid::pid:BCD58486.1:loc:10381:11329:strand:+ -            315   4.8e-07   29.9   0.0   1   1   7.3e-11   7.1e-07   29.4   0.0    18   198    96   275    82   292 0.74 Trypsin
+adh_short            PF00106.28   195 BGC0002535_ORF6:gid::pid:BCD58487.1:loc:11412:12867:strand:- -            484   3.1e-16   59.5   0.0   1   1     1e-12   9.9e-09   35.1   0.0     3    88   151   238   149   250 0.89 short chain dehydrogenase
+TetR_C_1             PF02909.20   145 BGC0002535_ORF8:gid::pid:BCD58489.1:loc:14465:15164:strand:- -            232   4.9e-16   59.0   0.3   1   1   8.9e-20   8.8e-16   58.1   0.0     2   142    86   228    85   230 0.88 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.26    47 BGC0002535_ORF8:gid::pid:BCD58489.1:loc:14465:15164:strand:- -            232   1.7e-09   37.4   0.6   1   1   3.6e-13   3.5e-09   36.4   0.6     1    45    29    73    29    75 0.96 Bacterial regulatory proteins, tetR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002535.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002535.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002535.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:19:50 2023
+# [ok]

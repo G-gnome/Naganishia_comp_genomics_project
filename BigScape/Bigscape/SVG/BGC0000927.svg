@@ -1,0 +1,43 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="101.66666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="91.66666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ribA3 (BN159_4727)
+GTP cyclohydrolase II</title>
+			<polygon class="ribA3 (BN159_4727)
+GTP cyclohydrolase II" points="10,40 31,10 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_cyclohydro2 (PF00925)
+"GTP cyclohydrolase II"</title>
+				<polygon class="PF00925" points="14,40 22,28 29,28 29,52 22,52" stroke-linejoin="round" width="16" height="24" fill="rgb(50,54,188)" stroke="rgb(40,43,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BN159_4728)
+MarR-family transcriptional regulator</title>
+			<polygon class=" (BN159_4728)
+MarR-family transcriptional regulator" points="34,40 50,10 50,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR_2 (PF12802)
+"MarR family"</title>
+				<polygon class="PF12802" points="41,33 44,28 47,28 47,52 44,52 41,47" stroke-linejoin="round" width="6" height="24" fill="rgb(46,89,185)" stroke="rgb(36,71,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ribG7 (BN159_4729)
+Riboflavin biosynthesis protein RibD</title>
+			<polygon class="ribG7 (BN159_4729)
+Riboflavin biosynthesis protein RibD" points="54,25 61,25 61,10 91,40 61,70 61,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RibD_C (PF01872)
+"RibD C-terminal domain"</title>
+				<rect class="PF01872" x="54" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(225,80,120)" stroke="rgb(180,64,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>dCMP_cyt_deam_1 (PF00383)
+"Cytidine and deoxycytidylate deaminase zinc-binding region"</title>
+				<polygon class="PF00383" points="76,29 86,39 86,41 76,51" stroke-linejoin="round" width="10" height="24" fill="rgb(91,149,216)" stroke="rgb(72,119,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

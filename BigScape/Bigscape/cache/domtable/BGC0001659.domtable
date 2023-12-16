@@ -1,0 +1,25 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EHN                  PF06441.15   108 BGC0001659_ORF1:gid::pid:APY21858.1:loc:0:1357:strand:- -            417   7.1e-37  126.2   0.9   1   1     3e-39   2.9e-35  121.1   0.1     1   108     5   116     5   116 0.93 Epoxide hydrolase N terminus
+Abhydrolase_1        PF00561.23   257 BGC0001659_ORF1:gid::pid:APY21858.1:loc:0:1357:strand:- -            417   7.8e-11   42.2   0.0   1   1   1.3e-14   1.3e-10   41.5   0.0     2   118   102   219   101   231 0.90 alpha/beta hydrolase fold
+polyprenyl_synt      PF00348.20   256 BGC0001659_ORF2:gid::pid:APY21859.1:loc:2859:5543:strand:+ -            734   9.9e-55  185.5   0.0   1   1   8.1e-58     8e-54  182.5   0.0     3   232   436   656   434   669 0.94 Polyprenyl synthetase
+Terpene_syn_C_2      PF19086.3    199 BGC0001659_ORF2:gid::pid:APY21859.1:loc:2859:5543:strand:+ -            734   1.4e-24   87.1   0.3   1   1   1.3e-22   1.3e-18   67.7   0.2    62   187   104   234    56   242 0.84 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0001659_ORF3:gid::pid:APY21860.1:loc:7312:9354:strand:+ -            534   1.1e-52  179.5   0.0   1   1   7.6e-57   1.5e-52  179.0   0.0    19   429    79   493    66   505 0.85 Cytochrome P450
+p450                 PF00067.25   463 BGC0001659_ORF4:gid::pid:APY21861.1:loc:9981:11619:strand:- -            512     2e-67  228.1   0.0   1   1   1.3e-71   2.5e-67  227.8   0.0    27   460    74   502    61   505 0.88 Cytochrome P450
+FMO-like             PF00743.22   532 BGC0001659_ORF5:gid::pid:APY21862.1:loc:12968:14961:strand:- -            612   4.3e-30  104.8   0.0   1   2   3.5e-26   1.7e-22   79.7   0.0     3   216     2   209     1   212 0.82 Flavin-binding monooxygenase-like
+FMO-like             PF00743.22   532 BGC0001659_ORF5:gid::pid:APY21862.1:loc:12968:14961:strand:- -            612   4.3e-30  104.8   0.0   2   2   6.6e-09   3.2e-05   22.7   0.0   322   485   384   552   377   582 0.73 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.9    305 BGC0001659_ORF5:gid::pid:APY21862.1:loc:12968:14961:strand:- -            612   2.1e-15   56.9   0.0   1   1   1.4e-16     7e-13   48.6   0.0     2   204     5   216     4   236 0.72 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.17   295 BGC0001659_ORF5:gid::pid:APY21862.1:loc:12968:14961:strand:- -            612     1e-09   38.2   0.0   1   1   9.1e-13   4.5e-09   36.1   0.0     2   174     2   207     1   218 0.66 Pyridine nucleotide-disulphide oxidoreductase
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001659_ORF5:gid::pid:APY21862.1:loc:12968:14961:strand:- -            612   2.2e-07   30.5   0.0   1   1   7.7e-10   3.8e-06   26.4   0.0    94   221    80   205    73   213 0.78 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Aldo_ket_red         PF00248.24   292 BGC0001659_ORF6:gid::pid:APY21863.1:loc:15520:16557:strand:+ -            329   5.8e-46  157.0   0.0   1   1   3.6e-50   7.1e-46  156.7   0.0     2   289     8   309     7   311 0.94 Aldo/keto reductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001659.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001659.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001659.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:31:45 2023
+# [ok]

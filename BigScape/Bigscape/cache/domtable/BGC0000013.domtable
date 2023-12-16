@@ -1,0 +1,19 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0000013_ORF1:gid::pid:CBF79143.1:loc:0:5963:strand:- -           1870   1.3e-60  205.2   0.1   1   1   5.9e-64   2.3e-60  204.4   0.1     3   253   418   655   416   655 0.91 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0000013_ORF1:gid::pid:CBF79143.1:loc:0:5963:strand:- -           1870   7.5e-46  156.8   5.0   1   1     6e-48   2.4e-44  151.9   0.0     9   237    39   279    34   281 0.89 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.24   319 BGC0000013_ORF1:gid::pid:CBF79143.1:loc:0:5963:strand:- -           1870   9.9e-34  117.4   0.4   1   1   1.4e-36   5.5e-33  115.0   0.0     1   280   945  1268   945  1300 0.86 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000013_ORF1:gid::pid:CBF79143.1:loc:0:5963:strand:- -           1870   5.7e-32  110.3   0.1   1   1   3.4e-35   1.3e-31  109.1   0.1     1   118   663   783   663   784 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000013_ORF1:gid::pid:CBF79143.1:loc:0:5963:strand:- -           1870   1.4e-14   54.3   1.7   1   1   8.8e-18   3.5e-14   53.0   1.7     5    67  1806  1868  1805  1868 0.97 Phosphopantetheine attachment site
+Lactamase_B          PF00753.30   197 BGC0000013_ORF2:gid::pid:CBF79145.1:loc:6558:7849:strand:- -            340   1.9e-15   57.6   8.2   1   1   7.8e-18   7.6e-14   52.3   8.2     5   197    51   205    48   205 0.89 Metallo-beta-lactamase superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000013.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000013.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000013.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:53:44 2023
+# [ok]

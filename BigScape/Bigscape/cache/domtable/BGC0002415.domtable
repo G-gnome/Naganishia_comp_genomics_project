@@ -1,0 +1,32 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.27   470 BGC0002415_ORF1:gid::pid:AXB34353.1:loc:0:2094:strand:- -            697     2e-32  113.8  32.7   1   1   2.8e-36   2.8e-32  113.4  32.7    36   469   290   695   183   696 0.63 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0002415_ORF1:gid::pid:AXB34353.1:loc:0:2094:strand:- -            697   2.7e-08   34.5   0.4   1   1   2.7e-12   2.7e-08   34.5   0.4     4   108    71   180    68   180 0.77 TonB-dependent Receptor Plug Domain
+Esterase             PF00756.23   251 BGC0002415_ORF2:gid::pid:AXB34354.1:loc:2280:3600:strand:+ -            439   3.1e-37  128.7   0.0   1   1   4.8e-41   4.7e-37  128.1   0.0     1   248   201   431   201   434 0.92 Putative esterase
+Enterochelin_N       PF11806.11   120 BGC0002415_ORF2:gid::pid:AXB34354.1:loc:2280:3600:strand:+ -            439   1.2e-25   90.6   0.4   1   1   2.3e-29   2.3e-25   89.7   0.4     4   120    57   179    54   179 0.96 Enterochelin esterase, N-terminal
+MbtH                 PF03621.16    53 BGC0002415_ORF3:gid::pid:AXB34355.1:loc:3623:3818:strand:+ -             64   9.6e-24   82.7   0.1   1   1   5.5e-28   1.1e-23   82.5   0.1     3    52     7    56     5    57 0.97 MbtH-like protein
+AMP-binding          PF00501.31   424 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820  6.4e-185  614.9   0.0   1   2     3e-93   1.2e-89  301.0   0.0     1   424   466   870   466   870 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820  6.4e-185  614.9   0.0   2   2   1.5e-96   5.9e-93  311.9   0.0     2   424  1976  2380  1975  2380 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820    8e-165  549.1   3.1   1   3   1.8e-59   6.9e-56  189.9   0.0     5   456    11   444     7   444 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820    8e-165  549.1   3.1   2   3   6.5e-43   2.6e-39  135.3   0.8    17   436  1067  1485  1056  1495 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820    8e-165  549.1   3.1   3   3     3e-69   1.2e-65  222.2   0.0     3   448  1525  1948  1523  1956 0.91 Condensation domain
+Thioesterase         PF00975.23   230 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820   3.6e-30  106.0   0.0   1   1   3.6e-33   1.4e-29  104.0   0.0     3   225  2588  2808  2586  2813 0.80 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820   2.7e-25   88.6   0.6   1   2   4.6e-12   1.8e-08   34.7   0.0     2    65   981  1041   980  1043 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820   2.7e-25   88.6   0.6   2   2   3.9e-17   1.5e-13   50.9   0.2     2    67  2497  2560  2496  2560 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820   1.3e-15   58.3   0.0   1   2   8.4e-09   3.3e-05   24.9   0.0     1    76   878   954   878   954 0.88 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002415_ORF4:gid::pid:AXB34356.1:loc:3871:12334:strand:+ -           2820   1.3e-15   58.3   0.0   2   2   1.7e-10   6.8e-07   30.3   0.0     1    76  2388  2470  2388  2470 0.91 AMP-binding enzyme C-terminal domain
+ABC_tran             PF00005.30   137 BGC0002415_ORF5:gid:fecE:pid::loc:12413:12821:strand:- -            135   7.1e-08   33.2   0.0   1   1   6.9e-12   1.4e-07   32.3   0.0   103   136     7    40     2    41 0.91 ABC transporter
+FecCD                PF01032.21   312 BGC0002415_ORF6:gid::pid::loc:12820:13186:strand:- -            122   8.5e-26   90.8   3.0   1   1   5.2e-30     1e-25   90.5   3.0     1    80    43   122    43   122 0.98 FecCD transport family
+MFS_3                PF05977.16   524 BGC0002415_ORF7:gid::pid:AXB34671.1:loc:13314:14598:strand:+ -            427     3e-32  111.9  26.7   1   1   3.9e-36   3.8e-32  111.5  26.7    10   388    15   396     8   414 0.90 Transmembrane secretion effector
+MFS_1                PF07690.19   353 BGC0002415_ORF7:gid::pid:AXB34671.1:loc:13314:14598:strand:+ -            427   1.9e-28   99.6  73.6   1   1   1.7e-30   1.7e-26   93.1  42.1     1   341    20   351    20   354 0.87 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002415.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002415.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002415.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:16:48 2023
+# [ok]

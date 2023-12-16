@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="279.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="269.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>fulA
+putative pyridoxal-dependent decarboxylase</title>
+			<polygon class="fulA
+putative pyridoxal-dependent decarboxylase" points="10,25 31,25 31,10 61,40 31,70 31,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="16,28 45,28 52,35 52,45 45,52 16,52" stroke-linejoin="round" width="36" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fulB
+putative monooxygenase</title>
+			<polygon class="fulB
+putative monooxygenase" points="61,25 75,25 75,10 105,40 75,70 75,55 61,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="61,28 89,28 94,33 94,47 89,52 61,52" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fulE
+putative major facilitator superfamily permease</title>
+			<polygon class="fulE
+putative major facilitator superfamily permease" points="105,25 114,25 114,10 144,40 114,70 114,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="105,28 127,28 134,35 134,45 127,52 105,52" stroke-linejoin="round" width="29" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fulC
+putative acyl CoA acyltransferase</title>
+			<polygon class="fulC
+putative acyl CoA acyltransferase" points="145,10 165,40 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13523" points="148,28 153,28 161,40 153,52 148,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fulD
+putative ATP-dependent siderophore synthetase</title>
+			<polygon class="fulD
+putative ATP-dependent siderophore synthetase" points="166,25 196,25 196,10 226,40 196,70 196,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="180" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="207,28 210,28 222,40 222,40 210,52 207,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fulF
+acyl transferase</title>
+			<polygon class="fulF
+acyl transferase" points="228,25 239,25 239,10 269,40 239,70 239,55 228,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HGSNAT_cat (PF07786)
+"Heparan-alpha-glucosaminide N-acetyltransferase, catalytic"</title>
+				<polygon class="PF07786" points="233,28 253,28 256,31 256,49 253,52 233,52" stroke-linejoin="round" width="23" height="24" fill="rgb(166,59,205)" stroke="rgb(132,47,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

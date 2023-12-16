@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0000231_ORF1:gid::pid:CAA54858.1:loc:189:1458:strand:+ -            422   1.1e-54  185.9   2.9   1   1   1.1e-58   1.1e-54  185.9   2.9     3   253     4   252     2   252 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000231_ORF1:gid::pid:CAA54858.1:loc:189:1458:strand:+ -            422     5e-34  117.0   3.2   1   1   5.1e-38     5e-34  117.0   3.2     1   118   260   374   260   375 0.98 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000231_ORF2:gid::pid:CAA54859.1:loc:1454:2693:strand:+ -            412   6.1e-38  131.0   0.7   1   1   6.2e-42   6.1e-38  131.0   0.7     6   250    14   248    11   251 0.88 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000231_ORF2:gid::pid:CAA54859.1:loc:1454:2693:strand:+ -            412   8.5e-21   74.3   0.1   1   1   3.4e-24   3.3e-20   72.4   0.0    24   117   279   368   260   370 0.88 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000231_ORF3:gid::pid:CAA54860.1:loc:2808:3078:strand:+ -             89   1.5e-11   44.6   0.5   1   1   9.4e-16   1.8e-11   44.3   0.5    12    67    24    79     9    79 0.88 Phosphopantetheine attachment site
+adh_short            PF00106.28   195 BGC0000231_ORF4:gid::pid:CAA54861.1:loc:3200:3986:strand:+ -            261   6.1e-62  208.7   1.9   1   1   1.5e-65   7.5e-62  208.4   1.9     2   193     8   201     7   203 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000231_ORF4:gid::pid:CAA54861.1:loc:3200:3986:strand:+ -            261   6.6e-59  199.4   4.3   1   1   1.7e-62   8.2e-59  199.1   4.3     1   233    13   258    13   259 0.94 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0000231_ORF4:gid::pid:CAA54861.1:loc:3200:3986:strand:+ -            261   1.6e-11   44.5   0.8   1   1   5.1e-15   2.5e-11   43.9   0.8     4   117    10   119     8   183 0.84 KR domain
+Polyketide_cyc2      PF10604.12   142 BGC0000231_ORF5:gid::pid:CAA54862.1:loc:4050:5010:strand:+ -            319   6.9e-18   65.5   8.0   1   2     8e-14   7.8e-10   39.3   0.8     3   142     8   149     7   149 0.79 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.12   142 BGC0000231_ORF5:gid::pid:CAA54862.1:loc:4050:5010:strand:+ -            319   6.9e-18   65.5   8.0   2   2   4.8e-11   4.7e-07   30.3   1.3     2   126   159   291   158   311 0.73 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.23   130 BGC0000231_ORF5:gid::pid:CAA54862.1:loc:4050:5010:strand:+ -            319   4.8e-14   52.8   0.1   1   1   2.4e-12   2.4e-08   34.4   0.0     1   102    15   117    15   145 0.80 Polyketide cyclase / dehydrase and lipid transport
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000231.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000231.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000231.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:52:10 2023
+# [ok]

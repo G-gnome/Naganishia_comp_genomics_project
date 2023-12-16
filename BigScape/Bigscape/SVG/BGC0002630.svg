@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="163.03333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="153.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (LA76x_0762)
+hypothetical protein</title>
+			<polygon class=" (LA76x_0762)
+hypothetical protein" points="47,25 40,25 40,10 10,40 40,70 40,55 47,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (LA76x_0763)
+hypothetical protein</title>
+			<polygon class=" (LA76x_0763)
+hypothetical protein" points="52,40 58,10 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (LA76x_0764)
+ABC transporter family protein</title>
+			<polygon class=" (LA76x_0764)
+ABC transporter family protein" points="132,25 91,25 91,10 61,40 91,70 91,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="68,37 77,28 82,28 82,52 77,52 68,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="89" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="119" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (LA76x_0765)
+aBC antibiotic efflux pump, membrane fusion protein, HlyD subfamily</title>
+			<polygon class=" (LA76x_0765)
+aBC antibiotic efflux pump, membrane fusion protein, HlyD subfamily" points="133,40 152,10 152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CusB_dom_1 (PF00529)
+"Cation efflux system protein CusB domain 1"</title>
+				<polygon class="PF00529" points="137,40 145,28 149,28 149,52 145,52" stroke-linejoin="round" width="14" height="24" fill="rgb(100,228,198)" stroke="rgb(80,182,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

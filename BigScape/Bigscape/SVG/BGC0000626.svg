@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="274.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="264.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>thuA
+thuricin precursor</title>
+			<polygon class="thuA
+thuricin precursor" points="10,10 15,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>L_biotic_typeA (PF04604)
+"Type-A lantibiotic"</title>
+				<polygon class="PF04604" points="10,27 12,40 10,53" stroke-linejoin="round" width="4" height="24" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thuM
+thuricin modification protein</title>
+			<polygon class="thuM
+thuricin modification protein" points="18,25 82,25 82,10 112,40 82,70 82,55 18,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4135 (PF13575)
+"Domain of unknown function (DUF4135)"</title>
+				<rect class="PF13575" x="32" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="78,28 96,28 108,40 96,52 78,52" stroke-linejoin="round" width="33" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thuT
+ABC transporter protein</title>
+			<polygon class="thuT
+ABC transporter protein" points="113,25 153,25 153,10 183,40 153,70 153,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="113" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="129" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="162,28 166,28 176,38 176,42 166,52 162,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thuF
+ABC transporter protein</title>
+			<polygon class="thuF
+ABC transporter protein" points="185,25 185,25 185,10 215,40 185,70 185,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="187,28 198,28 201,31 201,49 198,52 187,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thuE
+ABC transporter permease protein</title>
+			<polygon class="thuE
+ABC transporter permease protein" points="216,10 240,40 216,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_4 (PF12730)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12730" points="216,28 227,28 233,36 233,44 227,52 216,52" stroke-linejoin="round" width="17" height="24" fill="rgb(203,161,59)" stroke="rgb(162,128,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>thuG
+ABC transporter permease protein</title>
+			<polygon class="thuG
+ABC transporter permease protein" points="240,10 263,40 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

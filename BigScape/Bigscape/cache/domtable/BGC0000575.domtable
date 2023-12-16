@@ -1,0 +1,18 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.24   355 BGC0000575_ORF2:gid:larB:pid:BAL72547.1:loc:627:2442:strand:+ -            604   3.1e-33  116.0   0.1   1   1     2e-37     4e-33  115.7   0.1     5   355   213   600   209   600 0.74 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0000575_ORF3:gid:larC:pid:BAL72548.1:loc:2450:2705:strand:+ -             84   2.4e-15   56.7   0.2   1   1   1.5e-19   2.9e-15   56.5   0.2     2    67    18    83    17    83 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0000575_ORF4:gid:larD:pid:BAL72549.1:loc:2719:3163:strand:+ -            147   1.9e-20   73.0   0.2   1   1   1.2e-24   2.4e-20   72.7   0.2     4   116    26   136    23   137 0.93 Transglutaminase-like superfamily
+ABC_membrane         PF00664.26   274 BGC0000575_ORF5:gid:larE:pid:BAL72550.1:loc:3159:4938:strand:+ -            592   6.5e-34  118.0   3.6   1   1   8.6e-38   8.5e-34  117.6   3.6     5   274    29   292    25   292 0.95 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000575_ORF5:gid:larE:pid:BAL72550.1:loc:3159:4938:strand:+ -            592   7.3e-31  107.6   0.0   1   1   1.3e-34   1.3e-30  106.9   0.0     2   137   359   507   358   507 0.96 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000575.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000575.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000575.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:17:03 2023
+# [ok]

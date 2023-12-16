@@ -1,0 +1,349 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1079.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1069.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sxnR1
+putative MarR transcriptional regulator</title>
+			<polygon class="sxnR1
+putative MarR transcriptional regulator" points="28,10 42,40 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sxnX1
+putative carboxylase</title>
+			<polygon class="sxnX1
+putative carboxylase" points="46,25 73,25 73,10 103,40 73,70 73,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_carb_N (PF00289)
+"Biotin carboxylase, N-terminal domain"</title>
+				<rect class="PF00289" x="46" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(59,114,187)" stroke="rgb(47,91,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<rect class="PF02786" x="57" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_C (PF02785)
+"Biotin carboxylase C-terminal domain"</title>
+				<polygon class="PF02785" points="79,28 87,28 89,30 89,50 87,52 79,52" stroke-linejoin="round" width="10" height="24" fill="rgb(82,186,211)" stroke="rgb(65,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="96,37 99,40 96,43" stroke-linejoin="round" width="6" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO1
+putative FAD-dependent monooxygenase</title>
+			<polygon class="sxnO1
+putative FAD-dependent monooxygenase" points="104,25 122,25 122,10 152,40 122,70 122,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="104" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnA1
+cyclase</title>
+			<polygon class="sxnA1
+cyclase" points="153,10 163,40 153,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="153,28 156,28 160,40 156,52 153,52" stroke-linejoin="round" width="10" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnA2
+ketoacyl synthase</title>
+			<polygon class="sxnA2
+ketoacyl synthase" points="164,25 176,25 176,10 206,40 176,70 176,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="164" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="190,28 190,28 201,39 201,41 190,52 190,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnA3
+chain length factor</title>
+			<polygon class="sxnA3
+chain length factor" points="206,25 216,25 216,10 246,40 216,70 216,55 206,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="206" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="230,28 230,28 241,39 241,41 230,52 230,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnA4
+acyl carrier protein</title>
+			<polygon class="sxnA4
+acyl carrier protein" points="248,10 256,40 248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="248,28 249,28 253,40 249,52 248,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnA5
+reductase</title>
+			<polygon class="sxnA5
+reductase" points="257,10 283,40 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="257,28 269,28 276,37 276,43 269,52 257,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnA6
+cyclase</title>
+			<polygon class="sxnA6
+cyclase" points="284,25 285,25 285,10 315,40 285,70 285,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF10604" x="284" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="299,28 299,28 311,40 299,52 299,52" stroke-linejoin="round" width="15" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO2
+putative SDR family oxidoreductase</title>
+			<polygon class="sxnO2
+putative SDR family oxidoreductase" points="316,25 350,25 350,10 380,40 350,70 350,55 316,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="316" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="355,28 363,28 375,40 363,52 355,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnX2
+putative decarboxylase beta subunit</title>
+			<polygon class="sxnX2
+putative decarboxylase beta subunit" points="380,25 402,25 402,10 432,40 402,70 402,55 380,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="383,28 416,28 428,40 416,52 383,52" stroke-linejoin="round" width="48" height="24" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnX3
+hypothetical protein</title>
+			<polygon class="sxnX3
+hypothetical protein" points="433,10 437,40 433,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sxnX4
+putative decarboxylase epsilon subunit</title>
+			<polygon class="sxnX4
+putative decarboxylase epsilon subunit" points="436,10 442,40 436,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACC_epsilon (PF13822)
+"Acyl-CoA carboxylase epsilon subunit"</title>
+				<polygon class="PF13822" points="437,28 439,40 437,52" stroke-linejoin="round" width="5" height="24" fill="rgb(226,73,128)" stroke="rgb(180,58,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO3
+putative LLM class flavin-dependent oxidoreductase</title>
+			<polygon class="sxnO3
+putative LLM class flavin-dependent oxidoreductase" points="444,25 446,25 446,10 476,40 446,70 446,55 444,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="444,28 460,28 472,40 472,40 460,52 444,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnT1
+putative MFS transporter</title>
+			<polygon class="sxnT1
+putative MFS transporter" points="476,25 485,25 485,10 515,40 485,70 485,55 476,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="477,28 499,28 510,39 510,41 499,52 477,52" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO4
+putative NADH-dependent oxidoreductase</title>
+			<polygon class="sxnO4
+putative NADH-dependent oxidoreductase" points="516,10 535,40 516,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMN_red (PF03358)
+"NADPH-dependent FMN reductase"</title>
+				<polygon class="PF03358" points="516,28 524,28 530,38 530,42 524,52 516,52" stroke-linejoin="round" width="14" height="24" fill="rgb(90,228,61)" stroke="rgb(72,182,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnR2
+putative LuxR transcriptional regulator</title>
+			<polygon class="sxnR2
+putative LuxR transcriptional regulator" points="581,25 565,25 565,10 535,40 565,70 565,55 581,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="539,40 540,39 540,41" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnR3
+putative LuxR transcriptional regulator</title>
+			<polygon class="sxnR3
+putative LuxR transcriptional regulator" points="625,25 615,25 615,10 585,40 615,70 615,55 625,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="589,40 590,39 590,41" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO5
+putative SDR family oxidoreductase</title>
+			<polygon class="sxnO5
+putative SDR family oxidoreductase" points="630,40 656,10 656,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="634,40 644,28 654,28 654,52 644,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnT2
+putative nuclear transport factor 2 family protein</title>
+			<polygon class="sxnT2
+putative nuclear transport factor 2 family protein" points="662,10 678,40 662,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_4 (PF13577)
+"SnoaL-like domain"</title>
+				<polygon class="PF13577" points="663,28 668,28 675,40 668,52 663,52" stroke-linejoin="round" width="13" height="24" fill="rgb(68,223,209)" stroke="rgb(54,178,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnR4
+putative LuxR transcriptional regulator</title>
+			<polygon class="sxnR4
+putative LuxR transcriptional regulator" points="722,25 709,25 709,10 679,40 709,70 709,55 722,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="683,40 684,39 684,41" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnR5
+putative Rrf2 family transcriptional regulator</title>
+			<polygon class="sxnR5
+putative Rrf2 family transcriptional regulator" points="736,10 750,40 736,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rrf2 (PF02082)
+"Iron-dependent Transcriptional regulator"</title>
+				<polygon class="PF02082" points="736,28 741,28 747,40 741,52 736,52" stroke-linejoin="round" width="13" height="24" fill="rgb(73,178,133)" stroke="rgb(58,142,106)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnT3
+putative MFS transporter</title>
+			<polygon class="sxnT3
+putative MFS transporter" points="754,25 772,25 772,10 802,40 772,70 772,55 754,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="756,28 786,28 795,37 795,43 786,52 756,52" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnM1
+putative methyltransferase</title>
+			<polygon class="sxnM1
+putative methyltransferase" points="804,10 829,40 804,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="811,28 815,28 820,34 820,46 815,52 811,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnR6
+putative LuxR transcriptional regulator</title>
+			<polygon class="sxnR6
+putative LuxR transcriptional regulator" points="836,25 852,25 852,10 882,40 852,70 852,55 836,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="876,38 878,40 876,42" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO6
+putative SDR family oxidoreductase</title>
+			<polygon class="sxnO6
+putative SDR family oxidoreductase" points="887,10 915,40 887,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="887,28 899,28 901,30 901,50 899,52 887,52" stroke-linejoin="round" width="14" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO7
+putative cytochrome P450</title>
+			<polygon class="sxnO7
+putative cytochrome P450" points="916,25 925,25 925,10 955,40 925,70 925,55 916,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="943,32 951,40 943,48" stroke-linejoin="round" width="12" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sxnO8
+putative SDR family oxidoreductase</title>
+			<polygon class="sxnO8
+putative SDR family oxidoreductase" points="958,10 984,40 958,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="959,28 970,28 980,40 970,52 959,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative vanadium-dependent haloperoxidase</title>
+			<polygon class="
+putative vanadium-dependent haloperoxidase" points="992,25 1002,25 1002,10 1032,40 1002,70 1002,55 992,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAP2 (PF01569)
+"PAP2 superfamily"</title>
+				<polygon class="PF01569" points="1018,30 1028,40 1028,40 1018,50" stroke-linejoin="round" width="10" height="24" fill="rgb(133,203,94)" stroke="rgb(106,162,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

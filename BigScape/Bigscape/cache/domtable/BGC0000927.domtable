@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GTP_cyclohydro2      PF00925.23   164 BGC0000927_ORF1:gid:ribA3:pid:CCK29106.1:loc:1:637:strand:- -            211   4.8e-61  205.3   0.0   1   1   2.9e-65   5.7e-61  205.0   0.0    14   164    27   176     9   176 0.92 GTP cyclohydrolase II
+MarR_2               PF12802.10    61 BGC0000927_ORF2:gid::pid:CCK29107.1:loc:743:1247:strand:- -            167   9.3e-14   51.3   0.1   1   1   3.5e-17   2.3e-13   50.1   0.0     2    60    37    96    36    97 0.96 MarR family
+MarR                 PF01047.25    59 BGC0000927_ORF2:gid::pid:CCK29107.1:loc:743:1247:strand:- -            167   1.6e-10   40.8   0.0   1   1   4.5e-14   2.9e-10   40.0   0.0     6    57    43    96    39    98 0.95 MarR family
+HTH_24               PF13412.9     48 BGC0000927_ORF2:gid::pid:CCK29107.1:loc:743:1247:strand:- -            167   1.8e-06   27.5   0.0   1   1   5.4e-10   3.5e-06   26.6   0.0    17    47    56    86    43    87 0.88 Winged helix-turn-helix DNA-binding
+RibD_C               PF01872.20   200 BGC0000927_ORF3:gid:ribG7:pid:CCK29108.1:loc:1322:2450:strand:+ -            375   2.6e-44  151.6   0.0   1   1   5.5e-48   3.6e-44  151.1   0.0     1   198     4   211     4   213 0.92 RibD C-terminal domain
+dCMP_cyt_deam_1      PF00383.26   101 BGC0000927_ORF3:gid:ribG7:pid:CCK29108.1:loc:1322:2450:strand:+ -            375   1.2e-14   54.2   0.0   1   1     3e-18     2e-14   53.4   0.0     4    99   230   331   228   333 0.93 Cytidine and deoxycytidylate deaminase zinc-binding region
+Inv-AAD              PF18785.4    129 BGC0000927_ORF3:gid:ribG7:pid:CCK29108.1:loc:1322:2450:strand:+ -            375   1.2e-10   41.5   0.0   1   1   9.6e-14   6.3e-10   39.1   0.0     1   120   254   362   254   367 0.83 Invertebrate-AID/APOBEC-deaminase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000927.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000927.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000927.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:30:07 2023
+# [ok]

@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="186.46666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="176.46666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+asnC-family transcriptional regulatory protein</title>
+			<polygon class="
+asnC-family transcriptional regulatory protein" points="10,40 27,10 27,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AsnC_trans_reg (PF01037)
+"Lrp/AsnC ligand binding domain"</title>
+				<polygon class="PF01037" points="13,40 19,29 19,51" stroke-linejoin="round" width="7" height="24" fill="rgb(134,72,182)" stroke="rgb(107,57,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_24 (PF13412)
+"Winged helix-turn-helix DNA-binding"</title>
+				<rect class="PF13412" x="21" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(222,79,68)" stroke="rgb(177,63,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hpd
+4-hydroxyphenylpyruvate dioxygenase</title>
+			<polygon class="hpd
+4-hydroxyphenylpyruvate dioxygenase" points="30,25 38,25 38,10 68,40 38,70 38,55 30,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<rect class="PF00903" x="32" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="48,28 51,28 63,40 63,40 51,52 48,52" stroke-linejoin="round" width="15" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="126,25 103,25 103,10 73,40 103,70 103,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_16 (PF13432)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13432" x="96" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(154,205,86)" stroke="rgb(123,164,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative oxidoreductase</title>
+			<polygon class="
+putative oxidoreductase" points="129,25 146,25 146,10 176,40 146,70 146,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="134" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD-oxidase_C (PF02913)
+"FAD linked oxidases, C-terminal domain"</title>
+				<polygon class="PF02913" points="151,28 159,28 171,40 159,52 151,52" stroke-linejoin="round" width="23" height="24" fill="rgb(111,69,188)" stroke="rgb(88,55,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

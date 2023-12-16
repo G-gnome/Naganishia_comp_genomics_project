@@ -1,0 +1,19 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001679_ORF1:gid::pid:CBF77085.1:loc:12:1689:strand:- -            512   2.4e-56  191.5   0.0   1   1   1.6e-60   3.1e-56  191.2   0.0    18   451    58   491    41   499 0.82 Cytochrome P450
+AMP-binding          PF00501.31   424 BGC0001679_ORF2:gid:ivoA:pid:CBF77087.1:loc:2071:7247:strand:- -           1704   3.9e-75  253.2   0.0   1   1   8.8e-79   5.7e-75  252.6   0.0     2   423   234   620   233   621 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001679_ORF2:gid:ivoA:pid:CBF77087.1:loc:2071:7247:strand:- -           1704   3.6e-48  164.5   3.0   1   2   1.2e-31     8e-28   97.4   0.1     5   437   840  1266   837  1277 0.78 Condensation domain
+Condensation         PF00668.23   457 BGC0001679_ORF2:gid:ivoA:pid:CBF77087.1:loc:2071:7247:strand:- -           1704   3.6e-48  164.5   3.0   2   2   3.3e-15   2.1e-11   43.3   0.1    23   188  1325  1477  1299  1485 0.77 Condensation domain
+PP-binding           PF00550.28    67 BGC0001679_ORF2:gid:ivoA:pid:CBF77087.1:loc:2071:7247:strand:- -           1704   8.4e-08   32.5   0.6   1   1   1.1e-10   7.5e-07   29.5   0.1     4    64   758   817   755   820 0.93 Phosphopantetheine attachment site
+MFS_1                PF07690.19   353 BGC0001679_ORF3:gid::pid:CBF77088.1:loc:10866:12481:strand:- -            413   2.2e-11   43.4  20.9   1   1   1.1e-14   2.2e-10   40.2  21.0     2   346    49   376    42   380 0.72 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001679.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001679.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001679.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:53:27 2023
+# [ok]

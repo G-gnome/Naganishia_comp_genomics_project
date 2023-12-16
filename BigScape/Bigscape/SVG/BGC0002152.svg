@@ -1,0 +1,151 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="470.96666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="460.96666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (PFL_1027)
+PhoH family protein</title>
+			<polygon class=" (PFL_1027)
+PhoH family protein" points="21,25 37,25 37,10 67,40 37,70 37,55 21,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN_4 (PF13638)
+"PIN domain"</title>
+				<rect class="PF13638" x="22" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(127,208,93)" stroke="rgb(101,166,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PhoH (PF02562)
+"PhoH-like protein"</title>
+				<polygon class="PF02562" points="46,28 51,28 63,40 51,52 46,52" stroke-linejoin="round" width="20" height="24" fill="rgb(58,123,187)" stroke="rgb(46,98,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1028)
+RND transporter, HAE1 family</title>
+			<polygon class=" (PFL_1028)
+RND transporter, HAE1 family" points="172,25 100,25 100,10 70,40 100,70 100,55 172,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="74,40 86,28 171,28 171,52 86,52" stroke-linejoin="round" width="100" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1029)
+efflux transporter, RND family, MFP subunit</title>
+			<polygon class=" (PFL_1029)
+efflux transporter, RND family, MFP subunit" points="210,25 202,25 202,10 172,40 202,70 202,55 210,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_D23 (PF16576)
+"Barrel-sandwich domain of CusB or HlyD membrane-fusion"</title>
+				<polygon class="PF16576" points="183,33 188,28 203,28 203,52 188,52 183,47" stroke-linejoin="round" width="20" height="24" fill="rgb(70,190,92)" stroke="rgb(56,152,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1030)
+glyoxalase family protein</title>
+			<polygon class=" (PFL_1030)
+glyoxalase family protein" points="211,40 224,10 224,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="214,40 220,28 224,28 224,52 220,52" stroke-linejoin="round" width="12" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1031)
+transcriptional regulator, LysR family</title>
+			<polygon class=" (PFL_1031)
+transcriptional regulator, LysR family" points="226,25 226,25 226,10 256,40 226,70 226,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="227" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="235,28 240,28 252,40 240,52 235,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ribD_1 (PFL_1032)
+riboflavin biosynthesis protein RibD</title>
+			<polygon class="ribD_1 (PFL_1032)
+riboflavin biosynthesis protein RibD" points="292,25 286,25 286,10 256,40 286,70 286,55 292,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RibD_C (PF01872)
+"RibD C-terminal domain"</title>
+				<polygon class="PF01872" points="260,40 272,28 277,28 277,52 272,52" stroke-linejoin="round" width="20" height="24" fill="rgb(225,80,120)" stroke="rgb(180,64,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>dCMP_cyt_deam_1 (PF00383)
+"Cytidine and deoxycytidylate deaminase zinc-binding region"</title>
+				<rect class="PF00383" x="282" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(91,149,216)" stroke="rgb(72,119,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1033)
+WD-repeat family protein</title>
+			<polygon class=" (PFL_1033)
+WD-repeat family protein" points="349,25 323,25 323,10 293,40 323,70 323,55 349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<polygon class="PF00400" points="298,39 301,36 301,44 298,41" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="334" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="342" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1034)
+putative GTP cyclohydrolase II</title>
+			<polygon class=" (PFL_1034)
+putative GTP cyclohydrolase II" points="353,40 373,10 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_cyclohydro2 (PF00925)
+"GTP cyclohydrolase II"</title>
+				<polygon class="PF00925" points="357,40 365,28 371,28 371,52 365,52" stroke-linejoin="round" width="16" height="24" fill="rgb(50,54,188)" stroke="rgb(40,43,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1035)
+conserved hypothetical protein</title>
+			<polygon class=" (PFL_1035)
+conserved hypothetical protein" points="410,25 405,25 405,10 375,40 405,70 405,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGE-sulfatase (PF03781)
+"Sulfatase-modifying factor enzyme 1"</title>
+				<polygon class="PF03781" points="379,40 391,28 399,28 399,52 391,52" stroke-linejoin="round" width="24" height="24" fill="rgb(206,81,170)" stroke="rgb(164,64,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1036)
+methyltransferase, UbiE/COQ5 family</title>
+			<polygon class=" (PFL_1036)
+methyltransferase, UbiE/COQ5 family" points="410,40 434,10 434,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="420,33 424,28 429,28 429,52 424,52 420,47" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (PFL_1037)
+conserved hypothetical protein</title>
+			<polygon class=" (PFL_1037)
+conserved hypothetical protein" points="438,40 452,10 452,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DMT_YdcZ (PF04657)
+"Putative inner membrane exporter, YdcZ"</title>
+				<polygon class="PF04657" points="441,40 447,28 451,28 451,52 447,52" stroke-linejoin="round" width="13" height="24" fill="rgb(63,139,178)" stroke="rgb(50,111,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

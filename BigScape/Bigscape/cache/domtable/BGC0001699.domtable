@@ -1,0 +1,34 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0001699_ORF1:gid::pid:CBF87867.1:loc:0:1933:strand:+ -            551   5.8e-35  121.0  39.1   1   1   2.9e-39   5.8e-35  121.0  39.1     3   347   117   493   115   498 0.78 Major Facilitator Superfamily
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   1   8   9.7e-34   6.3e-30  104.4   0.0     7   438   842  1267   836  1281 0.78 Condensation domain
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   2   8     1e-49   6.7e-46  157.0   0.0     2   456  1309  1737  1308  1738 0.84 Condensation domain
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   3   8   1.7e-18   1.1e-14   54.1   0.0   193   436  2498  2712  2492  2726 0.86 Condensation domain
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   4   8   2.2e-12   1.4e-08   34.0   0.0     2    87  3414  3497  3413  3515 0.86 Condensation domain
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   5   8   4.2e-24   2.8e-20   72.6   0.0   166   443  3524  3779  3510  3795 0.83 Condensation domain
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   6   8   6.5e-39   4.2e-35  121.4   0.0     6   432  4451  4869  4448  4873 0.83 Condensation domain
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   7   8   4.7e-55   3.1e-51  174.6   0.0     1   371  4916  5260  4916  5276 0.87 Condensation domain
+Condensation         PF00668.23   457 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.8e-260  863.7   0.0   8   8     1e-35   6.6e-32  110.9   0.0     3   442  5476  5885  5474  5894 0.81 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.7e-255  846.7   0.0   1   5     5e-32   3.3e-28   98.6   0.0     3   191   252   419   250   421 0.83 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.7e-255  846.7   0.0   2   5   1.2e-37   7.8e-34  117.1   0.0   220   423   417   618   414   619 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.7e-255  846.7   0.0   3   5   3.3e-47   2.2e-43  148.6   0.0     2   416  1757  2149  1756  2154 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.7e-255  846.7   0.0   4   5   1.5e-69     1e-65  222.2   0.0     3   423  2755  3157  2753  3158 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077  2.7e-255  846.7   0.0   5   5   1.4e-79   8.9e-76  255.3   0.0     3   423  3816  4213  3814  4214 0.89 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077     6e-53  177.2   0.0   1   4   2.6e-14   1.7e-10   41.2   0.0     1    66   758   822   758   823 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077     6e-53  177.2   0.0   2   4   5.7e-15   3.7e-11   43.3   0.0     2    65  3305  3367  3304  3369 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077     6e-53  177.2   0.0   3   4   2.2e-11   1.4e-07   31.8   0.0     3    64  4370  4430  4368  4430 0.98 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001699_ORF2:gid::pid:CBF87869.1:loc:2191:21357:strand:- -           6077     6e-53  177.2   0.0   4   4     3e-12     2e-08   34.6   0.0     5    67  5345  5406  5341  5406 0.92 Phosphopantetheine attachment site
+ABC_tran             PF00005.30   137 BGC0001699_ORF4:gid::pid:CBF87872.1:loc:26393:30427:strand:+ -           1115   1.8e-40  138.8   0.2   1   2   6.4e-26   6.3e-22   78.7   0.0     1   135   302   436   302   438 0.86 ABC transporter
+ABC_tran             PF00005.30   137 BGC0001699_ORF4:gid::pid:CBF87872.1:loc:26393:30427:strand:+ -           1115   1.8e-40  138.8   0.2   2   2   3.4e-17   3.3e-13   50.4   0.8     1   137   895  1030   895  1030 0.66 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001699_ORF4:gid::pid:CBF87872.1:loc:26393:30427:strand:+ -           1115     1e-16   61.6  23.4   1   1   1.4e-18   1.3e-14   54.6   9.0   101   271   659   827   657   830 0.94 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001699.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001699.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001699.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:59:02 2023
+# [ok]

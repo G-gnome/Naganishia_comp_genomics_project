@@ -1,0 +1,32 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nitroreductase       PF00881.27   168 BGC0001295_ORF1:gid:creA:pid:ALA99198.1:loc:0:1098:strand:+ -            365   1.2e-17   64.6   0.0   1   1   8.6e-22   1.7e-17   64.2   0.0     3   167   160   343   158   344 0.92 Nitroreductase family
+JmjC_2               PF08007.15   127 BGC0001295_ORF2:gid:creB:pid:ALA99199.1:loc:1190:2390:strand:+ -            399   9.1e-24   83.5   0.0   1   1   6.9e-28   1.3e-23   83.0   0.0    13   126   115   238   105   239 0.83 JmjC domain
+MFS_1                PF07690.19   353 BGC0001295_ORF3:gid:creC:pid:ALA99200.1:loc:2410:3814:strand:+ -            467   8.5e-21   74.4  53.2   1   1   3.9e-21   3.8e-17   62.4  21.7     5   267    77   332    73   335 0.80 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0001295_ORF3:gid:creC:pid:ALA99200.1:loc:2410:3814:strand:+ -            467   1.6e-20   73.2  33.3   1   1   2.1e-24   2.1e-20   72.8  33.3    10   393    68   447    63   458 0.84 Transmembrane secretion effector
+Lyase_1              PF00206.23   312 BGC0001295_ORF4:gid:creD:pid:ALA99201.1:loc:4419:5850:strand:- -            476   2.4e-34  119.3   0.0   1   1   3.9e-38   3.9e-34  118.6   0.0    21   310    43   324    32   326 0.81 Lyase
+ADSL_C               PF10397.12    77 BGC0001295_ORF4:gid:creD:pid:ALA99201.1:loc:4419:5850:strand:- -            476   2.7e-12   47.3   5.0   1   1   3.3e-16   3.3e-12   47.1   0.0     1    75   390   465   390   467 0.94 Adenylosuccinate lyase C-terminus
+NAD_binding_9        PF13454.9    155 BGC0001295_ORF5:gid:creE:pid:ALA99202.1:loc:5846:7847:strand:- -            666   8.8e-41  139.7   0.1   1   1   7.8e-45   1.5e-40  138.9   0.1     2   154    10   196     9   197 0.91 FAD-NAD(P)-binding
+DHQS                 PF01959.19   347 BGC0001295_ORF6:gid:creH:pid:ALA99203.1:loc:7990:9094:strand:- -            367  1.6e-108  362.8   0.0   1   1  9.3e-113  1.8e-108  362.7   0.0     1   347     2   367     2   367 0.92 3-dehydroquinate synthase II
+DeoC                 PF01791.12   231 BGC0001295_ORF7:gid:creI:pid:ALA99204.1:loc:9090:9906:strand:- -            271   3.8e-41  141.3   0.0   1   1   2.3e-45   4.5e-41  141.1   0.0     2   230    13   225    12   226 0.98 DeoC/LacD family aldolase
+BTAD                 PF03704.20   146 BGC0001295_ORF8:gid:creF:pid:ALA99205.1:loc:10340:11204:strand:+ -            287     1e-40  139.6   7.0   1   1   1.5e-44   1.4e-40  139.1   7.0     1   146   135   280   135   280 0.99 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0001295_ORF8:gid:creF:pid:ALA99205.1:loc:10340:11204:strand:+ -            287   3.1e-07   30.5   0.0   1   1   6.1e-11   5.9e-07   29.6   0.0     6    75    51   126    46   128 0.86 Transcriptional regulatory protein, C terminal
+HTH_23               PF13384.9     50 BGC0001295_ORF9:gid:creG:pid:ALA99206.1:loc:11178:11928:strand:- -            249   2.5e-12   46.4   1.6   1   1   2.9e-09   1.4e-05   24.9   0.0     7    46   188   228   184   232 0.86 Homeodomain-like domain
+Rrf2                 PF02082.23   132 BGC0001295_ORF10:gid:creJ:pid:ALA99207.1:loc:12023:12530:strand:- -            168     6e-32  110.7   0.0   1   1   1.1e-35     7e-32  110.5   0.0     1   130    12   145    12   147 0.97 Iron-dependent Transcriptional regulator
+MFS_1                PF07690.19   353 BGC0001295_ORF11:gid:creK:pid:ALA99208.1:loc:12597:13893:strand:+ -            431   6.5e-19   68.2  55.1   1   1   2.1e-20   4.1e-16   59.0  50.0    12   346    58   376    39   380 0.77 Major Facilitator Superfamily
+FAD_binding_3        PF01494.22   349 BGC0001295_ORF12:gid:creL:pid:ALA99209.1:loc:14138:15323:strand:+ -            394   1.4e-29  103.6   0.1   1   1   2.8e-33   1.8e-29  103.2   0.1     3   348     7   342     5   343 0.83 FAD binding domain
+NAD_binding_8        PF13450.9     68 BGC0001295_ORF12:gid:creL:pid:ALA99209.1:loc:14138:15323:strand:+ -            394   6.5e-08   32.8   0.9   1   1   2.3e-11   1.5e-07   31.7   0.9     1    48    10    59    10    65 0.85 NAD(P)-binding Rossmann-like domain
+AMP-binding          PF00501.31   424 BGC0001295_ORF13:gid:creM:pid:ALA99210.1:loc:15398:17060:strand:+ -            553   6.2e-39  133.9   0.0   1   1   3.9e-43   7.7e-39  133.6   0.0    17   420    42   452    21   454 0.85 AMP-binding enzyme
+Methyltransf_2       PF00891.21   210 BGC0001295_ORF14:gid:creN:pid:ALA99211.1:loc:17056:18154:strand:+ -            365   4.2e-43  147.2   0.0   1   1   5.4e-47   5.3e-43  146.9   0.0     1   210   138   345   138   345 0.92 O-methyltransferase domain
+Dimerisation2        PF16864.8     90 BGC0001295_ORF14:gid:creN:pid:ALA99211.1:loc:17056:18154:strand:+ -            365   8.8e-07   28.9   0.0   1   1   1.5e-10   1.5e-06   28.2   0.0     2    81    38   113    37   120 0.92 Dimerisation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001295.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001295.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001295.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:05:19 2023
+# [ok]

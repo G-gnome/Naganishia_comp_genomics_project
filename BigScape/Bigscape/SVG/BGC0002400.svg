@@ -1,0 +1,48 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1772.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1762.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>LOC106293690
+geranylgeranyl pyrophosphate synthase 9, chloroplastic-like</title>
+			<polygon class="LOC106293690
+geranylgeranyl pyrophosphate synthase 9, chloroplastic-like" points="10,25 23,25 23,10 53,40 23,70 23,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="18,28 36,28 42,34 42,46 36,52 18,52" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LOC106293605
+uncharacterized protein LOC106293605</title>
+			<polygon class="LOC106293605
+uncharacterized protein LOC106293605" points="279,25 151,25 151,10 121,40 151,70 151,55 279,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIF1 (PF05970)
+"PIF1-like helicase"</title>
+				<rect class="PF05970" x="150" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(94,205,197)" stroke="rgb(75,164,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helitron_like_N (PF14214)
+"Helitron helicase-like domain at N-terminus"</title>
+				<rect class="PF14214" x="233" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(183,115,89)" stroke="rgb(146,92,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LOC106343250
+terpenoid synthase 25-like</title>
+			<polygon class="LOC106343250
+terpenoid synthase 25-like" points="1668,25 1729,25 1729,10 1759,40 1729,70 1729,55 1668,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_synth (PF01397)
+"Terpene synthase, N-terminal domain"</title>
+				<rect class="PF01397" x="1675" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(74,159,219)" stroke="rgb(59,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Terpene_synth_C (PF03936)
+"Terpene synthase family, metal binding domain"</title>
+				<rect class="PF03936" x="1695" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(219,91,215)" stroke="rgb(175,72,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

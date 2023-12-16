@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="197.96666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="187.96666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>venL
+bifunctional lantibiotic synthetase</title>
+			<polygon class="venL
+bifunctional lantibiotic synthetase" points="16,25 81,25 81,10 111,40 81,70 81,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="39" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="74,28 94,28 106,40 94,52 74,52" stroke-linejoin="round" width="34" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>venA
+lantibiotic precursor</title>
+			<polygon class="venA
+lantibiotic precursor" points="111,10 116,40 111,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>venT
+ABC transporter ATP-binding subunit</title>
+			<polygon class="venT
+ABC transporter ATP-binding subunit" points="119,25 126,25 126,10 156,40 126,70 126,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="124" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>venH
+ABC transporter membrane permease subunit</title>
+			<polygon class="venH
+ABC transporter membrane permease subunit" points="157,25 157,25 157,10 187,40 157,70 157,55 157,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="161,28 171,28 182,39 182,41 171,52 161,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

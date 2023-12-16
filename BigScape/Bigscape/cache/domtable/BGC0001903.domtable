@@ -1,0 +1,28 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_3      PF00591.24   253 BGC0001903_ORF1:gid:nzsA:pid:ALL53315.1:loc:0:1068:strand:+ -            355   3.1e-80  269.6   1.2   1   1   4.2e-84   4.1e-80  269.2   1.2     3   252    89   342    87   343 0.97 Glycosyl transferase family, a/b domain
+Glycos_trans_3N      PF02885.20    63 BGC0001903_ORF1:gid:nzsA:pid:ALL53315.1:loc:0:1068:strand:+ -            355   3.4e-19   68.5   0.7   1   1   1.3e-22   1.3e-18   66.7   0.6     2    63    20    81    19    81 0.97 Glycosyl transferase family, helical bundle domain
+NUDIX                PF00293.31   131 BGC0001903_ORF2:gid:nzsB:pid:ALL53316.1:loc:1252:1810:strand:+ -            185   1.6e-24   86.6   0.1   1   1   1.1e-28   2.1e-24   86.2   0.1     1   125    35   159    35   166 0.89 NUDIX domain
+Aminotran_1_2        PF00155.24   363 BGC0001903_ORF3:gid:nzsC:pid:ALL53317.1:loc:1886:2864:strand:- -            325   1.3e-43  149.7   0.0   1   1   7.9e-48   1.6e-43  149.5   0.0     7   362     6   322     2   323 0.91 Aminotransferase class I and II
+PP-binding           PF00550.28    67 BGC0001903_ORF4:gid:nzsD:pid:ALL53318.1:loc:2959:3202:strand:- -             80   1.8e-06   28.3   0.1   1   1   1.1e-10   2.2e-06   28.0   0.1     2    48     7    54     6    72 0.79 Phosphopantetheine attachment site
+ACP_syn_III_C        PF08541.13    90 BGC0001903_ORF5:gid:nzsE:pid:ALL53319.1:loc:3209:4223:strand:- -            337   3.3e-34  117.0   0.0   1   1   6.8e-38   6.7e-34  116.1   0.0     1    90   238   327   238   327 0.99 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0001903_ORF5:gid:nzsE:pid:ALL53319.1:loc:3209:4223:strand:- -            337     1e-27   95.9   2.6   1   1   2.3e-31   2.3e-27   94.8   2.6     1    80   106   186   106   186 0.96 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+SQS_PSY              PF00494.22   263 BGC0001903_ORF6:gid:nzsF:pid:ALL53320.1:loc:4219:5335:strand:- -            371   2.4e-32  112.6   0.2   1   1   1.8e-36   3.5e-32  112.1   0.2     5   257    68   329    64   334 0.89 Squalene/phytoene synthase
+TPP_enzyme_N         PF02776.21   172 BGC0001903_ORF7:gid:nzsG:pid:ALL53321.1:loc:5283:7065:strand:- -            593     1e-39  136.0   0.1   1   1   1.6e-43     1e-39  136.0   0.1     1   168     1   176     1   179 0.97 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.24   153 BGC0001903_ORF7:gid:nzsG:pid:ALL53321.1:loc:5283:7065:strand:- -            593   2.2e-27   95.9   1.0   1   1   1.2e-30   8.1e-27   94.0   0.2     1   142   398   539   398   548 0.87 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_M         PF00205.25   137 BGC0001903_ORF7:gid:nzsG:pid:ALL53321.1:loc:5283:7065:strand:- -            593   1.7e-25   89.5   0.0   1   1   4.8e-29   3.2e-25   88.6   0.0     2   136   202   335   201   337 0.91 Thiamine pyrophosphate enzyme, central domain
+ACP_syn_III_C        PF08541.13    90 BGC0001903_ORF9:gid:nzsI:pid:ALL53323.1:loc:7841:8837:strand:- -            331   1.6e-20   73.1   0.0   1   1   4.1e-23   2.7e-19   69.2   0.0     1    90   239   329   239   329 0.96 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0001903_ORF9:gid:nzsI:pid:ALL53323.1:loc:7841:8837:strand:- -            331   1.5e-10   40.9   0.0   1   1   5.7e-14   3.7e-10   39.6   0.0     3    72   108   175   106   183 0.85 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Aminotran_5          PF00266.22   371 BGC0001903_ORF10:gid:nzsJ:pid:ALL53324.1:loc:9541:10870:strand:+ -            442     1e-73  248.6   0.0   1   1   1.2e-77   1.2e-73  248.4   0.0     3   371    45   428    43   428 0.92 Aminotransferase class-V
+Aminotran_1_2        PF00155.24   363 BGC0001903_ORF10:gid:nzsJ:pid:ALL53324.1:loc:9541:10870:strand:+ -            442   7.5e-08   32.1   0.0   1   1   8.2e-11   8.1e-07   28.7   0.0    40   189    80   212    45   212 0.87 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001903.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001903.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001903.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:52:38 2023
+# [ok]

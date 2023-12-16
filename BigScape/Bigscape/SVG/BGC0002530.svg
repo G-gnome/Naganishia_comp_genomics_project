@@ -1,0 +1,33 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="177.26666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="167.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (BAB2_1151)
+conserved hypothetical protein</title>
+			<polygon class=" (BAB2_1151)
+conserved hypothetical protein" points="75,40 79,10 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (BAB2_1152)
+Helix-turn-helix, AraC type</title>
+			<polygon class=" (BAB2_1152)
+Helix-turn-helix, AraC type" points="91,10 117,40 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="107,34 113,40 107,46" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BAB2_1153)
+Leu/Ile/Val-binding protein family:Extracellular ligand-binding receptor</title>
+			<polygon class=" (BAB2_1153)
+Leu/Ile/Val-binding protein family:Extracellular ligand-binding receptor" points="122,25 132,25 132,10 162,40 132,70 132,55 122,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_6 (PF13458)
+"Periplasmic binding protein"</title>
+				<polygon class="PF13458" points="125,28 146,28 158,40 146,52 125,52" stroke-linejoin="round" width="35" height="24" fill="rgb(94,183,81)" stroke="rgb(75,146,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

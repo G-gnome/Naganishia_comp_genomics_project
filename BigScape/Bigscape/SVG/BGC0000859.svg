@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="130.16666666666669" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="120.16666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ectA
+L-2,4-diaminobutyric acid acetyltransferase</title>
+			<polygon class="ectA
+L-2,4-diaminobutyric acid acetyltransferase" points="18,10 35,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="20,28 24,28 31,39 31,41 24,52 20,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectB
+L-2,4-diaminobutyric acid aminotransferase</title>
+			<polygon class="ectB
+L-2,4-diaminobutyric acid aminotransferase" points="37,25 51,25 51,10 81,40 51,70 51,55 37,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="38,28 65,28 77,40 65,52 38,52" stroke-linejoin="round" width="40" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectC
+ectoine synthase</title>
+			<polygon class="ectC
+ectoine synthase" points="83,10 96,40 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="83,28 87,28 93,40 87,52 83,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ask
+aspartokinase</title>
+			<polygon class="ask
+aspartokinase" points="98,10 119,40 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="98,28 107,28 115,40 107,52 98,52" stroke-linejoin="round" width="20" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

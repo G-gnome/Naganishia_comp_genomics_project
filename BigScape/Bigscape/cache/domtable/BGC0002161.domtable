@@ -1,0 +1,29 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cu-oxidase_3         PF07732.18   119 BGC0002161_ORF1:gid::pid:ETS82098.1:loc:1109:2924:strand:+ -            584   1.4e-40  138.1   3.7   1   1   4.8e-42   3.2e-38  130.6   1.0     2   118    29   144    28   145 0.97 Multicopper oxidase
+Cu-oxidase_2         PF07731.17   137 BGC0002161_ORF1:gid::pid:ETS82098.1:loc:1109:2924:strand:+ -            584   9.7e-40  135.6   2.5   1   1   5.4e-38   3.5e-34  117.6   0.0     4   135   364   491   361   493 0.87 Multicopper oxidase
+Cu-oxidase           PF00394.25   159 BGC0002161_ORF1:gid::pid:ETS82098.1:loc:1109:2924:strand:+ -            584   4.4e-29  101.8   0.3   1   1   4.1e-25   2.7e-21   76.5   0.2     2   135   154   277   153   295 0.84 Multicopper oxidase
+SAT                  PF16073.8    240 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   3.1e-81  272.7   1.1   1   1   3.5e-84   9.8e-81  271.0   0.2     1   240     8   245     8   245 0.99 Starter unit:ACP transacylase in aflatoxin biosynthesis
+ketoacyl-synt        PF00109.29   253 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   2.3e-68  230.6   0.0   1   1   1.8e-71   5.2e-68  229.5   0.0     4   253   384   631   382   631 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   5.8e-46  157.6   0.0   1   1   5.2e-49   1.5e-45  156.3   0.0     2   316   911  1229   910  1231 0.89 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   2.2e-33  114.9   0.4   1   1   2.7e-36   7.6e-33  113.2   0.4     1   118   639   759   639   760 0.97 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.23   230 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   6.8e-23   82.1   0.1   1   1     3e-25   8.5e-22   78.5   0.0     2   216  1911  2138  1910  2149 0.70 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   8.1e-22   77.4   2.7   1   2   2.8e-15   7.9e-12   45.4   0.2     2    66  1661  1725  1660  1726 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   8.1e-22   77.4   2.7   2   2   6.1e-11   1.7e-07   31.6   0.2     3    66  1788  1851  1786  1852 0.91 Phosphopantetheine attachment site
+PS-DH                PF14765.9    297 BGC0002161_ORF2:gid::pid:ETS82099.1:loc:8063:14662:strand:+ -           2155   2.5e-14   53.4   0.0   1   1   1.9e-17   5.3e-14   52.3   0.0    32   293  1328  1601  1325  1604 0.85 Polyketide synthase dehydratase
+Zn_clus              PF00172.21    40 BGC0002161_ORF3:gid::pid:ETS82100.1:loc:24492:25919:strand:+ -            456   7.5e-08   32.5   5.6   1   1   3.8e-12   7.5e-08   32.5   5.6     2    38    40    75    39    77 0.94 Fungal Zn(2)-Cys(6) binuclear cluster domain
+adh_short_C2         PF13561.9    234 BGC0002161_ORF4:gid::pid:ETS82101.1:loc:29164:30071:strand:- -            277   8.6e-54  182.7   0.1   1   1   2.4e-57   1.6e-53  181.8   0.1     3   232    33   275    30   276 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002161_ORF4:gid::pid:ETS82101.1:loc:29164:30071:strand:- -            277   3.1e-46  157.5   0.1   1   1   5.9e-50   3.8e-46  157.1   0.1     1   190    25   214    25   218 0.97 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002161_ORF4:gid::pid:ETS82101.1:loc:29164:30071:strand:- -            277   7.3e-13   48.9   0.3   1   1   1.5e-16     1e-12   48.5   0.3     3   162    27   186    25   192 0.93 KR domain
+Zn_clus              PF00172.21    40 BGC0002161_ORF5:gid::pid:ETS82102.1:loc:34006:36992:strand:- -            958   4.6e-05   23.6   9.1   1   1   2.4e-09   4.6e-05   23.6   9.1     2    33    43    72    42    79 0.90 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002161.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002161.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002161.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:58:10 2023
+# [ok]

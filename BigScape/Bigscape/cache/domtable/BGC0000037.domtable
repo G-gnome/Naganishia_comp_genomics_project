@@ -1,0 +1,28 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.9e-76  257.1   0.0   1   1     5e-79   6.6e-76  255.3   0.0     2   253   381   625   380   625 0.93 Beta-ketoacyl synthase, N-terminal domain
+HTH_51               PF18558.4     90 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.5e-30  105.0   0.0   1   1   4.5e-33   5.9e-30  103.1   0.0     1    90  1787  1876  1787  1876 0.99 Helix-turn-helix domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.2e-28   98.2   1.1   1   1   5.8e-31   7.6e-28   97.0   1.1     2    98   634   729   633   736 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.6e-22   78.6   5.8   1   2   4.8e-13   6.2e-10   39.4   0.2     1    66  1581  1646  1581  1647 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.6e-22   78.6   5.8   2   2   1.5e-13     2e-10   40.9   1.2     2    67  1693  1757  1692  1757 0.94 Phosphopantetheine attachment site
+Acyl_transf_1        PF00698.24   319 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   4.6e-21   75.8   0.1   1   1   7.4e-23   9.7e-20   71.4   0.1     4   264   850  1117   847  1133 0.86 Acyl transferase domain
+BD-FAE               PF20434.1    215 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   4.2e-19   69.0   0.0   1   1   8.3e-16   1.1e-12   48.1   0.0     2   111  2184  2299  2183  2321 0.84 BD-FAE
+PS-DH                PF14765.9    297 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.7e-16   60.4   0.1   1   1   3.2e-19   4.2e-16   59.2   0.1    29   291  1251  1525  1226  1530 0.85 Polyketide synthase dehydratase
+Abhydrolase_3        PF07859.16   211 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.6e-15   56.5   0.0   1   1   2.1e-16   2.8e-13   50.4   0.0     2   113  2200  2321  2199  2348 0.86 alpha/beta hydrolase fold
+Methyltransf_12      PF08242.15    99 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   2.6e-14   53.9   0.0   1   1   6.5e-17   8.5e-14   52.2   0.0     1    98  1976  2075  1976  2076 0.97 Methyltransferase domain
+Peptidase_S9         PF00326.24   212 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517     6e-11   42.4   0.0   1   1   1.3e-10   1.7e-07   31.1   0.0   119   209  2422  2514  2412  2517 0.82 Prolyl oligopeptidase family
+Methyltransf_25      PF13649.9     97 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.5e-10   40.6   0.0   1   1   3.4e-12   4.4e-09   37.0   0.0     1    97  1975  2074  1975  2074 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   2.4e-09   37.3   0.0   1   1   2.6e-11   3.3e-08   33.6   0.0     7   164  1954  2128  1947  2129 0.72 Methyltransferase domain
+SAT                  PF16073.8    240 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.4e-09   36.8   0.9   1   1   2.1e-11   2.7e-08   33.8   0.1    49   240    61   250    51   252 0.80 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Methyltransf_11      PF08241.15    96 BGC0000037_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.3e-07   32.3   0.0   1   1   3.9e-10   5.1e-07   30.4   0.0     2    95  1977  2077  1976  2078 0.84 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000037.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000037.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000037.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:34:36 2023
+# [ok]

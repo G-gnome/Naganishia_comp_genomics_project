@@ -1,0 +1,29 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.4    115 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   3.4e-34  117.4   0.3   1   1   4.1e-37     8e-34  116.2   0.1     5   115   473   583   469   583 0.97 PatG C-terminal
+PatG_D               PF18047.4    118 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587     1e-19   71.2   0.0   1   1   9.2e-22   1.8e-18   67.2   0.0     1   114   311   421   311   426 0.95 PatG Domain
+Methyltransf_11      PF08241.15    96 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   1.9e-18   67.0   0.0   1   1   1.8e-21   3.6e-18   66.1   0.0     1    96   103   202   103   202 0.98 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   3.3e-18   66.3   0.0   1   1   4.2e-21   8.2e-18   65.0   0.0     1    97   102   198   102   198 0.96 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   4.6e-14   52.6   0.0   1   1     5e-17   9.9e-14   51.5   0.0     2   119    97   212    96   262 0.85 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   1.3e-11   44.4   0.0   1   1   1.3e-14   2.5e-11   43.5   0.0    41   152    92   203    80   235 0.91 ubiE/COQ5 methyltransferase family
+CMAS                 PF02353.23   273 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   6.2e-11   42.2   0.0   1   1   5.1e-14     1e-10   41.5   0.0    56   217    92   253    80   262 0.80 Mycolic acid cyclopropane synthetase
+Methyltransf_12      PF08242.15    99 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   4.2e-10   40.4   0.0   1   1   4.5e-13   8.9e-10   39.3   0.0     1    99   103   200   103   200 0.90 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   5.6e-08   32.9   0.0   1   1   5.2e-11     1e-07   32.0   0.0    21   162    97   248    83   251 0.75 Methyltransferase domain
+MTS                  PF05175.17   170 BGC0001880_ORF3:gid:scdMT:pid:QGX02579.1:loc:769:2533:strand:- -            587   1.9e-05   24.5   0.0   1   1   2.1e-08     4e-05   23.4   0.0    32   138    99   202    85   211 0.85 Methyltransferase small domain
+PatG_C               PF18065.4    115 BGC0001880_ORF4:gid:scdA:pid:QGX02580.1:loc:2542:4636:strand:- -            697   2.8e-37  127.3   0.0   1   1   7.1e-41   4.6e-37  126.6   0.0     3   115   581   693   579   693 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0001880_ORF4:gid:scdA:pid:QGX02580.1:loc:2542:4636:strand:- -            697   7.4e-37  127.2   0.0   1   1   2.4e-40   1.6e-36  126.2   0.0     3   269    22   260    20   308 0.85 Subtilase family
+PatG_D               PF18047.4    118 BGC0001880_ORF4:gid:scdA:pid:QGX02580.1:loc:2542:4636:strand:- -            697   4.4e-19   69.1   0.0   1   1   1.4e-22   9.2e-19   68.1   0.0     1   117   421   534   421   535 0.96 PatG Domain
+Asn_synthase         PF00733.24   355 BGC0001880_ORF6:gid:scdTA:pid:QGX02582.1:loc:6379:8263:strand:+ -            627   9.6e-61  206.5   0.0   1   1   2.3e-64   1.5e-60  205.9   0.0     1   298   242   534   242   575 0.87 Asparagine synthase
+GATase_7             PF13537.9    123 BGC0001880_ORF6:gid:scdTA:pid:QGX02582.1:loc:6379:8263:strand:+ -            627   6.9e-45  152.1   0.0   1   1   1.9e-48   1.3e-44  151.3   0.0     2   122    52   168    51   169 0.97 Glutamine amidotransferase domain
+GATase_6             PF13522.9    133 BGC0001880_ORF6:gid:scdTA:pid:QGX02582.1:loc:6379:8263:strand:+ -            627     4e-36  124.2   0.0   1   1   1.2e-39   7.9e-36  123.2   0.0     1   132    36   162    36   163 0.96 Glutamine amidotransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001880.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001880.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001880.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:33:05 2023
+# [ok]

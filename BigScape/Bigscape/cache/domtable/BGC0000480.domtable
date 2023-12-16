@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.25   284 BGC0000480_ORF1:gid:tenA:pid:ACA04480.1:loc:0:1992:strand:+ -            663   3.3e-38  131.7   0.0   1   1   8.2e-42   5.4e-38  131.0   0.0     3   269    14   253    12   279 0.87 Subtilase family
+PatG_C               PF18065.4    115 BGC0000480_ORF1:gid:tenA:pid:ACA04480.1:loc:0:1992:strand:+ -            663   8.8e-38  129.0   0.0   1   1   2.1e-41   1.4e-37  128.3   0.0     3   115   547   659   545   659 0.98 PatG C-terminal
+PatG_D               PF18047.4    118 BGC0000480_ORF1:gid:tenA:pid:ACA04480.1:loc:0:1992:strand:+ -            663     4e-20   72.5   0.0   1   1   1.7e-23   1.1e-19   71.0   0.0     1   117   386   500   386   501 0.96 PatG Domain
+YcaO                 PF02624.19   322 BGC0000480_ORF4:gid:tenD:pid:ACA04483.1:loc:3498:5832:strand:+ -            777   5.1e-93  312.1   0.0   1   1   4.2e-97   8.3e-93  311.4   0.0     1   321   408   739   408   740 0.89 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+DUF5837              PF19155.3     61 BGC0000480_ORF5:gid:tenE:pid:ACA04484.1:loc:5967:6249:strand:+ -             93   2.5e-21   75.7   6.4   1   1   2.5e-24     5e-20   71.5   6.4     1    59     1    66     1    93 0.77 Family of unknown function (DUF5837)
+DUF5838              PF19156.3    289 BGC0000480_ORF6:gid:tenF:pid:ACA04485.1:loc:6626:7589:strand:+ -            320   7.6e-84  281.6   5.6   1   1   4.5e-88   8.8e-84  281.4   5.6     2   289    15   305    14   305 0.95 Family of unknown function (DUF5838)
+PatG_C               PF18065.4    115 BGC0000480_ORF7:gid:tenG:pid:ACA04486.1:loc:7918:11821:strand:+ -           1301   1.4e-30  105.7   1.2   1   1   8.4e-34   3.3e-30  104.5   0.0     8   115  1186  1293  1179  1293 0.96 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0000480_ORF7:gid:tenG:pid:ACA04486.1:loc:7918:11821:strand:+ -           1301   3.1e-20   72.7   0.0   1   1   1.4e-23   5.4e-20   71.9   0.0    49   269   700   918   587   944 0.86 Subtilase family
+PatG_D               PF18047.4    118 BGC0000480_ORF7:gid:tenG:pid:ACA04486.1:loc:7918:11821:strand:+ -           1301   1.5e-14   54.5   0.0   1   1   4.1e-17   1.6e-13   51.2   0.0     2   113  1022  1130  1021  1142 0.91 PatG Domain
+HTH_57               PF18679.4    112 BGC0000480_ORF7:gid:tenG:pid:ACA04486.1:loc:7918:11821:strand:+ -           1301   6.4e-12   45.8   0.0   1   1   3.3e-15   1.3e-11   44.8   0.0     3   111     4   110     1   111 0.91 ThcOx helix turn helix domain
+Nitroreductase       PF00881.27   168 BGC0000480_ORF7:gid:tenG:pid:ACA04486.1:loc:7918:11821:strand:+ -           1301   1.2e-10   41.9   0.0   1   1     6e-14   2.3e-10   40.9   0.0     1   161   270   470   270   477 0.91 Nitroreductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000480.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000480.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000480.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:31:21 2023
+# [ok]

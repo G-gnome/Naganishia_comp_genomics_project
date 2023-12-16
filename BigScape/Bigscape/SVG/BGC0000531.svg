@@ -1,0 +1,93 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="344.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="334.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mutR
+MutR</title>
+			<polygon class="mutR
+MutR" points="43,10 72,40 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mutA
+MutA precursor</title>
+			<polygon class="mutA
+MutA precursor" points="91,10 97,40 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="92,29 94,40 92,51" stroke-linejoin="round" width="5" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutA_
+MutA'</title>
+			<polygon class="mutA_
+MutA'" points="100,10 106,40 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="101,29 103,40 101,51" stroke-linejoin="round" width="5" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutB
+MutB</title>
+			<polygon class="mutB
+MutB" points="112,25 181,25 181,10 211,40 181,70 181,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="115" y="28" stroke-linejoin="round" width="62" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="184,28 194,28 206,40 194,52 184,52" stroke-linejoin="round" width="24" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutC
+MutC</title>
+			<polygon class="mutC
+MutC" points="211,25 223,25 223,10 253,40 223,70 223,55 211,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="214,28 237,28 249,40 237,52 214,52" stroke-linejoin="round" width="38" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutD
+MutD</title>
+			<polygon class="mutD
+MutD" points="254,10 272,40 254,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="254,28 261,28 269,40 261,52 254,52" stroke-linejoin="round" width="17" height="24" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutP
+MutP</title>
+			<polygon class="mutP
+MutP" points="273,25 287,25 287,10 317,40 287,70 287,55 273,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="285,28 301,28 313,40 301,52 285,52" stroke-linejoin="round" width="31" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutT
+MutT</title>
+			<polygon class="mutT
+MutT" points="318,10 334,40 318,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<polygon class="PF00664" points="319,28 324,28 331,40 324,52 319,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,22 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Oxidored_FMN         PF00724.23   342 BGC0001304_ORF1:gid::pid:EED53478.1:loc:0:1242:strand:- -            413   1.1e-60  205.9   0.0   1   1   6.7e-65   1.3e-60  205.6   0.0     1   336    34   384    34   389 0.83 NADH:flavin oxidoreductase / NADH oxidase family
+ketoacyl-synt        PF00109.29   253 BGC0001304_ORF2:gid::pid:EED53479.1:loc:2601:8047:strand:- -           1751   1.6e-71  241.0   0.0   1   1   7.6e-75     3e-71  240.1   0.0     2   253   382   632   381   632 0.95 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001304_ORF2:gid::pid:EED53479.1:loc:2601:8047:strand:- -           1751     1e-39  137.1   0.0   1   1   1.4e-42   5.3e-39  134.7   0.0     2   317   910  1228   909  1230 0.92 Acyl transferase domain
+SAT                  PF16073.8    240 BGC0001304_ORF2:gid::pid:EED53479.1:loc:2601:8047:strand:- -           1751   1.7e-38  132.7   0.0   1   1   3.3e-41   1.3e-37  129.8   0.0    16   237    24   245    13   249 0.92 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Ketoacyl-synt_C      PF02801.25   119 BGC0001304_ORF2:gid::pid:EED53479.1:loc:2601:8047:strand:- -           1751   2.7e-34  117.8   0.2   1   1   1.3e-37   5.3e-34  116.9   0.2     2   116   641   756   640   759 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0001304_ORF2:gid::pid:EED53479.1:loc:2601:8047:strand:- -           1751   1.4e-07   31.8   0.6   1   1   1.2e-10   4.7e-07   30.1   0.6     5    67  1681  1743  1678  1743 0.96 Phosphopantetheine attachment site
+Methyltransf_2       PF00891.21   210 BGC0001304_ORF3:gid::pid:EED53480.1:loc:9597:11065:strand:+ -            410   1.1e-19   70.8   0.0   1   1   1.1e-23   2.1e-19   69.8   0.0    18   210   193   390   177   390 0.76 O-methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001304_ORF4:gid::pid:EED53481.1:loc:11648:12723:strand:- -            259   7.7e-09   36.2   0.0   1   1   1.7e-12   1.7e-08   35.2   0.0     1    76    54   135    54   146 0.87 Methyltransferase domain
+p450                 PF00067.25   463 BGC0001304_ORF5:gid::pid:EED53482.1:loc:13334:15094:strand:- -            471   3.4e-23   82.3   0.0   1   1   2.5e-27   4.9e-23   81.7   0.0   139   443   127   441    86   457 0.76 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001304.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001304.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001304.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:30:56 2023
+# [ok]

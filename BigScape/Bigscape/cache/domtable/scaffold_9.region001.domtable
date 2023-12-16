@@ -1,0 +1,22 @@
+#                                                                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GATase_7             PF13537.9    123 scaffold_9.region001_ORF1:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_78_:loc:1156:3994:strand:+ -            645   4.7e-07   29.9   0.0   1   1   9.8e-11   9.6e-07   28.9   0.0    13   105    75   177    66   190 0.82 Glutamine amidotransferase domain
+SAC3_GANP            PF03399.19   289 scaffold_9.region001_ORF2:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_79_:loc:4292:6666:strand:- -            562     3e-28   99.1   5.8   1   1   8.4e-31   1.6e-26   93.4   5.8    36   285   266   484   253   487 0.88 SAC3/GANP family
+Spb1_C               PF07780.15   219 scaffold_9.region001_ORF4:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_81_:loc:11566:14675:strand:+ -            930   1.8e-77  259.9  20.6   1   1   2.8e-81   1.8e-77  259.9  20.6     3   219   707   923   679   923 0.95 Spb1 C-terminal domain
+FtsJ                 PF01728.22   177 scaffold_9.region001_ORF4:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_81_:loc:11566:14675:strand:+ -            930     3e-54  184.0   0.1   1   1   8.6e-58   5.7e-54  183.1   0.1     1   177    25   201    25   201 0.99 FtsJ-like methyltransferase
+DUF3381              PF11861.11   167 scaffold_9.region001_ORF4:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_81_:loc:11566:14675:strand:+ -            930   2.6e-39  134.8   9.3   1   1   3.9e-43   2.6e-39  134.8   9.3     1   167   261   422   261   422 0.90 Domain of unknown function (DUF3381)
+SQS_PSY              PF00494.22   263 scaffold_9.region001_ORF5:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_82_:loc:15000:17483:strand:+ -            686   1.2e-42  146.3   0.4   1   1   8.3e-47   1.6e-42  145.9   0.4     1   263   339   649   339   649 0.88 Squalene/phytoene synthase
+Xpo1                 PF08389.15   149 scaffold_9.region001_ORF6:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_83_:loc:17891:21306:strand:- -            981   4.6e-20   72.3   0.0   1   1   3.7e-23   3.6e-19   69.4   0.0     2   149   113   257   112   257 0.95 Exportin 1-like protein
+IBN_N                PF03810.22    74 scaffold_9.region001_ORF6:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_83_:loc:17891:21306:strand:- -            981   1.1e-06   28.6   0.3   1   1   5.1e-10     5e-06   26.5   0.3     1    73    35   101    35   102 0.97 Importin-beta N-terminal domain
+ThrE                 PF06738.15   241 scaffold_9.region001_ORF7:gid::pid:ncbi_NaganishiafriedmanniiGCA030039255.1_0028_84_:loc:24520:28637:strand:- -           1085   9.7e-44  149.7   6.6   1   1   4.9e-48   9.7e-44  149.7   6.6     2   239   608   846   607   848 0.93 Putative threonine/serine exporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/scaffold_9.region001.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/scaffold_9.region001.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/scaffold_9.region001.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:45:21 2023
+# [ok]

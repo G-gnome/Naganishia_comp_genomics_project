@@ -1,0 +1,18 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_4        PF01565.26   139 BGC0001375_ORF1:gid:ptmO:pid:BAU61564.1:loc:649:2174:strand:- -            450   2.9e-28   98.5   0.0   1   1   2.1e-32   4.2e-28   97.9   0.0     2   139    37   171    36   171 0.98 FAD binding domain
+p450                 PF00067.25   463 BGC0001375_ORF2:gid:ptmJ:pid:BAU61565.1:loc:2769:4607:strand:+ -            515   2.3e-27   96.0   0.0   1   1   1.5e-31     3e-27   95.6   0.0    46   436    94   473    45   483 0.83 Cytochrome P450
+p450                 PF00067.25   463 BGC0001375_ORF3:gid:ptmK:pid:BAU61566.1:loc:5475:7115:strand:- -            510   1.5e-63  215.3   0.0   1   1   9.5e-68   1.9e-63  215.0   0.0    43   438    80   482    43   502 0.92 Cytochrome P450
+Trp_DMAT             PF11991.11   363 BGC0001375_ORF4:gid:ptmE:pid:BAU61567.1:loc:7514:8841:strand:+ -            425   3.5e-85  286.7   0.1   1   1   2.1e-89   4.2e-85  286.5   0.1     1   362    26   378    26   379 0.91 Tryptophan dimethylallyltransferase
+p450                 PF00067.25   463 BGC0001375_ORF5:gid:ptmL:pid:BAU61568.1:loc:8941:10840:strand:- -            540   5.5e-39  134.3   0.0   1   1   4.5e-43   8.8e-39  133.7   0.0    38   437   100   499    89   507 0.76 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001375.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001375.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001375.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:09:40 2023
+# [ok]

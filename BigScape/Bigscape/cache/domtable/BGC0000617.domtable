@@ -1,0 +1,20 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bacteriocin_II       PF01721.21    35 BGC0000617_ORF1:gid:coaA:pid:AAG28763.1:loc:1088:1277:strand:+ -             62   3.2e-13   49.6   8.9   1   1   2.3e-17   4.5e-13   49.1   8.9     1    35    19    53    19    53 0.97 Class II bacteriocin
+EntA_Immun           PF08951.13    73 BGC0000617_ORF2:gid:coaB:pid:AAG28764.1:loc:1314:1653:strand:+ -            112   2.4e-06   27.9   0.7   1   1   2.6e-10   5.1e-06   26.8   0.4     3    72    15    86    13    87 0.88 Enterocin A Immunity
+ABC_membrane         PF00664.26   274 BGC0000617_ORF4:gid:coaD:pid:AAG28766.1:loc:2299:4474:strand:+ -            724   3.9e-58  197.4  23.6   1   1   1.4e-61   5.6e-58  196.9  23.6     2   274   171   440   170   440 0.99 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 BGC0000617_ORF4:gid:coaD:pid:AAG28766.1:loc:2299:4474:strand:+ -            724   4.1e-45  153.0   0.2   1   1   2.3e-48   9.2e-45  151.8   0.2     2   131     8   143     7   145 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0000617_ORF4:gid:coaD:pid:AAG28766.1:loc:2299:4474:strand:+ -            724   3.3e-30  105.5   0.1   1   1   2.6e-33     1e-29  103.9   0.0     1   137   502   654   502   654 0.92 ABC transporter
+Peptidase_C70        PF12385.11   143 BGC0000617_ORF4:gid:coaD:pid:AAG28766.1:loc:2299:4474:strand:+ -            724   0.00017   21.6   0.0   1   1     1e-07   0.00041   20.4   0.0     9   139    10   130     4   134 0.74 Papain-like cysteine protease AvrRpt2
+Mob_Pre              PF01076.22   196 BGC0000617_ORF5:gid:mob_pre:pid:AAG28767.1:loc:4593:6018:strand:- -            474   2.4e-69  233.2   8.3   1   1   1.2e-73   2.4e-69  233.2   8.3     1   196     1   192     1   192 0.99 Plasmid recombination enzyme
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000617.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000617.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000617.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:49:56 2023
+# [ok]

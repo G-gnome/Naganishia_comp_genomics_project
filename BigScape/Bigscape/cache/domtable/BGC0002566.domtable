@@ -1,0 +1,18 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OCD_Mu_crystall      PF02423.18   320 BGC0002566_ORF1:gid:ocd:pid:AIG74588.1:loc:0:984:strand:+ -            327   6.5e-27   94.4   0.0   1   1   4.1e-31   8.1e-27   94.1   0.0     5   315     9   313     7   318 0.87 Ornithine cyclodeaminase/mu-crystallin family
+Orn_Arg_deC_N        PF02784.19   247 BGC0002566_ORF2:gid::pid:AIG74589.1:loc:974:2321:strand:+ -            448   1.2e-15   57.7   0.0   1   1   7.8e-19   1.5e-14   54.1   0.0    16   211    60   247    46   256 0.85 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+PALP                 PF00291.28   294 BGC0002566_ORF3:gid::pid:AIG74590.1:loc:2317:3376:strand:+ -            352   1.5e-56  192.2   5.3   1   1   8.9e-61   1.7e-56  191.9   5.3     2   293     8   292     7   294 0.89 Pyridoxal-phosphate dependent enzyme
+MatE                 PF01554.21   161 BGC0002566_ORF4:gid::pid:AIG74591.1:loc:3372:4755:strand:+ -            460   7.5e-27   94.1  38.1   1   2     1e-11     2e-07   30.9  15.6     1   159    19   188    19   190 0.90 MatE
+MatE                 PF01554.21   161 BGC0002566_ORF4:gid::pid:AIG74591.1:loc:3372:4755:strand:+ -            460   7.5e-27   94.1  38.1   2   2   1.4e-23   2.7e-19   69.5   8.2     1   158   256   417   256   420 0.98 MatE
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002566.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002566.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002566.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:17:05 2023
+# [ok]

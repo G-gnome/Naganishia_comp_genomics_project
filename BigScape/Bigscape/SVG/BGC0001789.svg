@@ -1,0 +1,131 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="474.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="464.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sslP
+protease</title>
+			<polygon class="sslP
+protease" points="21,25 36,25 36,10 66,40 36,70 36,55 21,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="35,28 50,28 62,40 50,52 35,52" stroke-linejoin="round" width="29" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslR
+response regulator</title>
+			<polygon class="sslR
+response regulator" points="68,10 91,40 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="68" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="83,35 87,40 83,45" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslK
+sensor histidine kinase</title>
+			<polygon class="sslK
+sensor histidine kinase" points="90,25 105,25 105,10 135,40 105,70 105,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="112" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="123,32 131,40 123,48" stroke-linejoin="round" width="10" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslF
+immunity protein</title>
+			<polygon class="sslF
+immunity protein" points="141,10 164,40 141,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="143,28 151,28 156,34 156,46 151,52 143,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslE
+immunity protein</title>
+			<polygon class="sslE
+immunity protein" points="164,10 189,40 164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sslG
+immunity protein</title>
+			<polygon class="sslG
+immunity protein" points="189,10 211,40 189,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sslA
+suicin 90-1330 precursor</title>
+			<polygon class="sslA
+suicin 90-1330 precursor" points="223,10 228,40 223,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="223,27 225,40 223,53" stroke-linejoin="round" width="4" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslB
+dehydratase</title>
+			<polygon class="sslB
+dehydratase" points="237,25 306,25 306,10 336,40 306,70 306,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="240" y="28" stroke-linejoin="round" width="62" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="310,28 319,28 327,36 327,44 319,52 310,52" stroke-linejoin="round" width="17" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslT
+ABC transporter</title>
+			<polygon class="sslT
+ABC transporter" points="335,25 365,25 365,10 395,40 365,70 365,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="372,28 379,28 387,36 387,44 379,52 372,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslC
+cyclase</title>
+			<polygon class="sslC
+cyclase" points="395,25 407,25 407,10 437,40 407,70 407,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="398,28 421,28 433,40 421,52 398,52" stroke-linejoin="round" width="38" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sslI
+immunity protein</title>
+			<polygon class="sslI
+immunity protein" points="438,10 461,40 438,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spa1_C (PF18218)
+"Lantibiotic immunity protein Spa1 C-terminal domain"</title>
+				<polygon class="PF18218" points="452,33 458,40 452,47" stroke-linejoin="round" width="9" height="24" fill="rgb(176,180,58)" stroke="rgb(140,144,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

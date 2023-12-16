@@ -1,0 +1,126 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="604.1666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="594.1666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>rauR
+TetR type transcriptional regulator</title>
+			<polygon class="rauR
+TetR type transcriptional regulator" points="98,40 117,10 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_11 (PF16859)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF16859" points="102,40 108,31 108,49" stroke-linejoin="round" width="10" height="24" fill="rgb(219,77,198)" stroke="rgb(175,61,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<polygon class="PF00440" points="110,28 110,28 114,28 114,52 110,52 110,52" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauA
+cytochrome P450</title>
+			<polygon class="rauA
+cytochrome P450" points="128,25 139,25 139,10 169,40 139,70 139,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="146,28 152,28 164,40 152,52 146,52" stroke-linejoin="round" width="21" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauB
+farnesyl transferase</title>
+			<polygon class="rauB
+farnesyl transferase" points="169,25 174,25 174,10 204,40 174,70 174,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="171,28 188,28 196,36 196,44 188,52 171,52" stroke-linejoin="round" width="25" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauC
+acyl carrier protein</title>
+			<polygon class="rauC
+acyl carrier protein" points="205,10 213,40 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="205,28 206,28 210,40 206,52 205,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauD
+beta-ketoacyl-ACP synthase II</title>
+			<polygon class="rauD
+beta-ketoacyl-ACP synthase II" points="213,25 221,25 221,10 251,40 221,70 221,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="221" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="235,28 235,28 246,39 246,41 235,52 235,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauE
+beta-ketoacyl-ACP synthase II</title>
+			<polygon class="rauE
+beta-ketoacyl-ACP synthase II" points="252,10 269,40 252,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>rauF
+anthranilate-CoA ligase</title>
+			<polygon class="rauF
+anthranilate-CoA ligase" points="271,25 311,25 311,10 341,40 311,70 311,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="280" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauG
+MFS transporter</title>
+			<polygon class="rauG
+MFS transporter" points="342,25 361,25 361,10 391,40 361,70 361,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="344" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauH
+isopentenyl pyrophosphate isomerase</title>
+			<polygon class="rauH
+isopentenyl pyrophosphate isomerase" points="391,10 410,40 391,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="394,28 399,28 407,40 407,40 399,52 394,52" stroke-linejoin="round" width="13" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauI
+farnesyl diphosphate synthase</title>
+			<polygon class="rauI
+farnesyl diphosphate synthase" points="411,25 412,25 412,10 442,40 412,70 412,55 411,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="414,28 426,28 438,40 426,52 414,52" stroke-linejoin="round" width="25" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rauJ
+hypothetical protein</title>
+			<polygon class="rauJ
+hypothetical protein" points="450,25 462,25 462,10 492,40 462,70 462,55 450,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

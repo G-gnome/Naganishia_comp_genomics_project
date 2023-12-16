@@ -1,0 +1,28 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.26   274 BGC0002701_ORF1:gid::pid:WP_087443883.1:loc:0:1761:strand:- -            586   1.9e-36  126.3  18.5   1   1   2.8e-40   2.8e-36  125.7  18.5     1   274    23   291    23   291 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002701_ORF1:gid::pid:WP_087443883.1:loc:0:1761:strand:- -            586     2e-33  116.0   0.0   1   1     4e-37     4e-33  115.0   0.0     1   137   354   504   354   504 0.92 ABC transporter
+Methyltransf_25      PF13649.9     97 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280   2.4e-19   69.9   0.0   1   1   2.2e-22   5.3e-19   68.8   0.0     1    97    72   166    72   166 0.97 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280   4.3e-16   59.5   0.0   1   1   3.7e-19     9e-16   58.4   0.0     2    95    74   169    73   170 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280   9.9e-15   54.8   0.0   1   1   5.7e-18   1.4e-14   54.3   0.0     4   113    69   174    67   251 0.85 Methyltransferase domain
+TehB                 PF03848.17   193 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280   7.7e-14   51.7   0.1   1   1   6.5e-17   1.6e-13   50.6   0.1    29   132    67   170    53   185 0.87 Tellurite resistance protein TehB
+Methyltransf_23      PF13489.9    165 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280   6.1e-13   49.0   0.0   1   1   4.6e-16   1.1e-12   48.2   0.0    10   162    57   254    48   257 0.75 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280   6.1e-11   43.1   0.0   1   1   5.6e-14   1.4e-10   41.9   0.0     2    98    74   167    73   168 0.85 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280     5e-08   32.7   0.0   1   1   2.7e-11   6.6e-08   32.3   0.0    37   160    58   179    54   240 0.77 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.17   170 BGC0002701_ORF2:gid::pid:WP_087443884.1:loc:1938:2781:strand:- -            280   3.6e-06   26.8   0.0   1   1   2.7e-09   6.6e-06   26.0   0.0    28   101    65   135    51   139 0.86 Methyltransferase small domain
+Pkinase              PF00069.28   264 BGC0002701_ORF9:gid:lanKC:pid:WP_164776400.1:loc:4187:6794:strand:- -            868   2.1e-19   70.0   0.0   1   1   6.3e-23   4.1e-19   69.1   0.0    12   167   235   402   226   450 0.87 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.20   259 BGC0002701_ORF9:gid:lanKC:pid:WP_164776400.1:loc:4187:6794:strand:- -            868   2.4e-09   37.0   0.0   1   1   7.2e-13   4.7e-09   36.0   0.0     7   162   230   394   225   402 0.82 Protein tyrosine and serine/threonine kinase
+Peptidase_M16        PF00675.23   149 BGC0002701_ORF10:gid::pid:WP_087443886.1:loc:7413:8697:strand:- -            427     8e-18   65.0   0.1   1   1   2.1e-21   2.1e-17   63.6   0.1    31   148    63   175    55   176 0.92 Insulinase (Peptidase family M16)
+Peptidase_M16_C      PF05193.24   183 BGC0002701_ORF10:gid::pid:WP_087443886.1:loc:7413:8697:strand:- -            427   4.1e-17   62.9   0.3   1   1     1e-20     1e-16   61.7   0.3     2   181   182   361   181   363 0.90 Peptidase M16 inactive domain
+Peptidase_M16_C      PF05193.24   183 BGC0002701_ORF11:gid::pid:WP_087443887.1:loc:8702:9977:strand:- -            424   7.1e-25   88.2   1.3   1   1     3e-27   5.9e-23   82.0   0.4     6   183   189   360   184   360 0.94 Peptidase M16 inactive domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002701.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002701.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002701.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:57:06 2023
+# [ok]

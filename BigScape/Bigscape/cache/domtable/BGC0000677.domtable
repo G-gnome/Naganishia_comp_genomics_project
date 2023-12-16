@@ -1,0 +1,17 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.20   256 BGC0000677_ORF1:gid::pid:BAI44337.1:loc:120:1200:strand:+ -            359   6.6e-57  192.6   0.0   1   1   4.3e-61   8.5e-57  192.3   0.0     3   253    42   307    40   312 0.90 Polyprenyl synthetase
+Terpene_syn_C_2      PF19086.3    199 BGC0000677_ORF2:gid::pid:BAI44338.1:loc:1196:2120:strand:+ -            307   3.1e-06   27.3   0.2   1   1   3.3e-10   6.5e-06   26.2   0.2    51   172   119   239    19   263 0.83 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0000677_ORF3:gid::pid:BAI44339.1:loc:2116:3496:strand:+ -            459   7.1e-81  272.4   0.0   1   1   4.4e-85   8.6e-81  272.1   0.0     7   448    29   444    24   456 0.85 Cytochrome P450
+p450                 PF00067.25   463 BGC0000677_ORF4:gid::pid:BAI44340.1:loc:3560:4940:strand:+ -            459   8.4e-79  265.6   0.0   1   1   5.3e-83     1e-78  265.3   0.0     5   449    25   445    22   456 0.90 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000677.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000677.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000677.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:22:32 2023
+# [ok]

@@ -1,0 +1,39 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldo_ket_red         PF00248.24   292 BGC0001345_ORF1:gid:mxcA:pid:AAG31124.1:loc:193:1174:strand:+ -            326   1.4e-21   77.0   0.0   1   1   1.3e-25   2.6e-21   76.1   0.0    19   281    47   300    15   304 0.87 Aldo/keto reductase family
+SIP                  PF04954.16   119 BGC0001345_ORF2:gid:mxcB:pid:AAG31125.1:loc:1284:2097:strand:+ -            270   2.1e-39  134.8   0.2   1   1   2.9e-43   2.8e-39  134.4   0.2     2   118   143   260   142   261 0.98 Siderophore-interacting protein
+FAD_binding_9        PF08021.14   121 BGC0001345_ORF2:gid:mxcB:pid:AAG31125.1:loc:1284:2097:strand:+ -            270   1.4e-38  131.9   0.0   1   1   2.1e-42   2.1e-38  131.4   0.0     1   120    21   135    21   136 0.97 Siderophore-interacting FAD-binding domain
+adh_short            PF00106.28   195 BGC0001345_ORF3:gid:mxcC:pid:AAG31126.1:loc:2327:3101:strand:+ -            257     3e-56  190.1   2.4   1   1   7.2e-60   3.5e-56  189.9   2.4     1   193     6   197     6   199 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001345_ORF3:gid:mxcC:pid:AAG31126.1:loc:2327:3101:strand:+ -            257   1.8e-54  184.9   5.0   1   1   4.5e-58   2.2e-54  184.6   5.0     1   234    12   254    12   254 0.91 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0001345_ORF3:gid:mxcC:pid:AAG31126.1:loc:2327:3101:strand:+ -            257   7.8e-15   55.4   1.8   1   1   2.4e-18   1.2e-14   54.8   1.8     3   154     8   158     7   180 0.90 KR domain
+Chorismate_bind      PF00425.21   256 BGC0001345_ORF4:gid:mxcD:pid:AAG31127.1:loc:3233:4460:strand:+ -            408   1.1e-77  261.2   0.0   1   1   2.1e-81   4.2e-77  259.3   0.0     3   256   127   390   125   390 0.96 chorismate binding enzyme
+AMP-binding          PF00501.31   424 BGC0001345_ORF5:gid:mxcE:pid:AAG31128.1:loc:4456:6088:strand:+ -            543   1.5e-85  287.5   0.0   1   1   1.9e-89   1.8e-85  287.2   0.0     2   423    43   446    42   447 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001345_ORF5:gid:mxcE:pid:AAG31128.1:loc:4456:6088:strand:+ -            543   7.5e-18   65.4   0.1   1   1   6.7e-20   6.6e-16   59.2   0.0     1    76   455   530   455   530 0.94 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.23   175 BGC0001345_ORF6:gid:mxcF:pid:AAG31129.1:loc:6165:7101:strand:+ -            311   1.4e-37  129.7   0.0   1   1   6.1e-41     6e-37  127.6   0.0     2   175    32   205    31   205 0.98 Isochorismatase family
+PP-binding           PF00550.28    67 BGC0001345_ORF6:gid:mxcF:pid:AAG31129.1:loc:6165:7101:strand:+ -            311     1e-07   32.3   0.1   1   1     2e-11   1.9e-07   31.4   0.1     2    66   225   287   224   288 0.89 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456   3.4e-86  289.6   0.0   1   1   2.1e-89   5.1e-86  289.0   0.0     3   423   467   869   465   870 0.87 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456     7e-64  215.6   0.0   1   1   4.4e-67   1.1e-63  215.0   0.0     1   256  1097  1330  1097  1331 0.96 Male sterility protein
+Condensation         PF00668.23   457 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456   1.1e-60  205.8   0.0   1   1   6.7e-64   1.7e-60  205.2   0.0     2   443     6   429     5   441 0.95 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456   1.5e-14   54.9   0.1   1   1   2.2e-17   5.4e-14   53.0   0.1     1    76   878   952   878   952 0.92 AMP-binding enzyme C-terminal domain
+Epimerase            PF01370.24   241 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456     2e-14   53.8   0.0   1   1   2.3e-17   5.6e-14   52.3   0.0     1   176  1095  1288  1095  1304 0.78 NAD dependent epimerase/dehydratase family
+PP-binding           PF00550.28    67 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456   1.9e-12   47.4   0.0   1   1   1.8e-15   4.3e-12   46.3   0.0     3    67   980  1042   978  1042 0.96 Phosphopantetheine attachment site
+3Beta_HSD            PF01073.22   280 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456   9.1e-09   34.8   0.0   1   1   1.1e-11   2.7e-08   33.3   0.0     2   163  1097  1272  1096  1280 0.81 3-beta hydroxysteroid dehydrogenase/isomerase family
+Polysacc_synt_2      PF02719.18   294 BGC0001345_ORF7:gid:mxcG:pid:AAG31130.1:loc:7162:11533:strand:+ -           1456   0.00012   21.5   0.0   1   1   9.2e-08   0.00023   20.6   0.0     1   128  1095  1227  1095  1236 0.72 Polysaccharide biosynthesis protein
+DAHP_synth_2         PF01474.19   437 BGC0001345_ORF8:gid:aroAA5:pid:AAG31131.1:loc:11579:13013:strand:+ -            477  7.8e-193  641.0   0.0   1   1  4.5e-197  8.8e-193  640.8   0.0     1   437     6   444     6   444 0.99 Class-II DAHP synthetase family
+Plug                 PF07715.18   108 BGC0001345_ORF9:gid:mxcH:pid:AAG31132.1:loc:13009:15619:strand:+ -            869   9.7e-15   55.2   0.7   1   1   2.2e-18   2.2e-14   54.1   0.7     3   108   203   306   201   306 0.94 TonB-dependent Receptor Plug Domain
+TonB_C               PF03544.17    79 BGC0001345_ORF9:gid:mxcH:pid:AAG31132.1:loc:13009:15619:strand:+ -            869   1.4e-14   54.5   0.1   1   1   2.9e-18   2.8e-14   53.5   0.1     4    79    86   160    83   160 0.96 Gram-negative bacterial TonB protein C-terminal
+MFS_1                PF07690.19   353 BGC0001345_ORF11:gid:mxcK:pid:AAG31134.1:loc:17123:18347:strand:+ -            407   1.7e-41  142.4  57.9   1   2     1e-35   9.8e-32  110.4  26.2     2   217    18   219    17   225 0.85 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001345_ORF11:gid:mxcK:pid:AAG31134.1:loc:17123:18347:strand:+ -            407   1.7e-41  142.4  57.9   2   2   1.5e-13   1.5e-09   37.4  26.2     2   174   218   397   217   406 0.87 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001345_ORF11:gid:mxcK:pid:AAG31134.1:loc:17123:18347:strand:+ -            407   5.9e-09   35.4  13.2   1   1     6e-13   5.9e-09   35.4  13.2    44   190    45   185     5   189 0.90 Sugar (and other) transporter
+Aminotran_3          PF00202.24   403 BGC0001345_ORF12:gid:mxcL:pid:AAG31135.1:loc:18390:19653:strand:+ -            420   1.2e-44  152.8   0.2   1   1   2.9e-47   5.7e-43  147.3   0.2     9   333    54   348    48   392 0.87 Aminotransferase class-III
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001345.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001345.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001345.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:14:59 2023
+# [ok]

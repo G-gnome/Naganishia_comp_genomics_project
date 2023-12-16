@@ -1,0 +1,109 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="396.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="386.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (STROP_RS20900)
+phosphoenolpyruvate synthase</title>
+			<polygon class=" (STROP_RS20900)
+phosphoenolpyruvate synthase" points="13,25 71,25 71,10 101,40 71,70 71,55 13,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, AMP/ATP-binding domain"</title>
+				<rect class="PF01326" x="14" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers (PF00391)
+"PEP-utilising enzyme, mobile domain"</title>
+				<polygon class="PF00391" points="93,36 97,40 93,44" stroke-linejoin="round" width="7" height="24" fill="rgb(206,59,219)" stroke="rgb(164,47,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STROP_RS20905)
+AMP-binding protein</title>
+			<polygon class=" (STROP_RS20905)
+AMP-binding protein" points="101,25 127,25 127,10 157,40 127,70 127,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="102,28 140,28 145,33 145,47 140,52 102,52" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STROP_RS20910)
+hypothetical protein</title>
+			<polygon class=" (STROP_RS20910)
+hypothetical protein" points="157,25 182,25 182,10 212,40 182,70 182,55 157,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (STROP_RS20915)
+phosphopantetheine-binding protein</title>
+			<polygon class=" (STROP_RS20915)
+phosphopantetheine-binding protein" points="213,10 221,40 213,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="214,28 214,28 218,40 214,52 214,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STROP_RS20920)
+SDR family oxidoreductase</title>
+			<polygon class=" (STROP_RS20920)
+SDR family oxidoreductase" points="222,25 228,25 228,10 258,40 228,70 228,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="222,28 242,28 244,30 244,50 242,52 222,52" stroke-linejoin="round" width="22" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STROP_RS20925)
+nucleoside-diphosphate kinase</title>
+			<polygon class=" (STROP_RS20925)
+nucleoside-diphosphate kinase" points="258,25 260,25 260,10 290,40 260,70 260,55 258,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NDK (PF00334)
+"Nucleoside diphosphate kinase"</title>
+				<polygon class="PF00334" points="263,28 274,28 277,31 277,49 274,52 263,52" stroke-linejoin="round" width="14" height="24" fill="rgb(197,210,70)" stroke="rgb(157,168,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STROP_RS20930)
+UbiA family prenyltransferase</title>
+			<polygon class=" (STROP_RS20930)
+UbiA family prenyltransferase" points="290,25 291,25 291,10 321,40 291,70 291,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="293,28 305,28 317,40 305,52 293,52" stroke-linejoin="round" width="26" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STROP_RS20935)
+LLM class F420-dependent oxidoreductase</title>
+			<polygon class=" (STROP_RS20935)
+LLM class F420-dependent oxidoreductase" points="321,10 350,40 321,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="321,28 334,28 346,40 334,52 321,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (STROP_RS20940)
+gamma-butyrolactone synthase</title>
+			<polygon class=" (STROP_RS20940)
+gamma-butyrolactone synthase" points="351,25 353,25 353,10 383,40 353,70 353,55 351,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AfsA (PF03756)
+"A-factor biosynthesis hotdog domain"</title>
+				<rect class="PF03756" x="352" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AfsA (PF03756)
+"A-factor biosynthesis hotdog domain"</title>
+				<polygon class="PF03756" points="370,32 378,40 370,48" stroke-linejoin="round" width="11" height="24" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

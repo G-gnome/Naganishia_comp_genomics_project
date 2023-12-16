@@ -1,0 +1,30 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fungal_trans         PF04082.21   267 BGC0002615_ORF1:gid::pid:QBC75452.1:loc:973:3810:strand:+ -            853   1.7e-11   43.8   2.0   1   1   3.5e-15   3.4e-11   42.8   0.5     1   174   241   422   241   430 0.76 Fungal specific transcription factor domain
+Zn_clus              PF00172.21    40 BGC0002615_ORF1:gid::pid:QBC75452.1:loc:973:3810:strand:+ -            853   9.8e-09   35.3   8.9   1   1   2.5e-12   2.4e-08   34.1   8.9     2    34    17    48    16    53 0.94 Fungal Zn(2)-Cys(6) binuclear cluster domain
+p450                 PF00067.25   463 BGC0002615_ORF2:gid::pid:QBC75451.1:loc:4308:6033:strand:- -            536   1.3e-79  268.3   0.0   1   1   8.8e-84   1.7e-79  267.9   0.0     1   443    32   479    32   503 0.90 Cytochrome P450
+Amidohydro_2         PF04909.17   288 BGC0002615_ORF3:gid::pid:QBC75450.1:loc:6432:7504:strand:- -            338   2.8e-32  112.7   0.1   1   1   2.5e-36   4.9e-32  112.0   0.1     1   287     4   322     4   323 0.92 Amidohydrolase
+UbiA                 PF01040.21   251 BGC0002615_ORF4:gid::pid:QBC75449.1:loc:7785:8798:strand:- -            319   8.2e-42  143.3  15.7   1   1   5.1e-46     1e-41  143.1  15.7     2   245    32   283    31   292 0.88 UbiA prenyltransferase family
+ketoacyl-synt        PF00109.29   253 BGC0002615_ORF5:gid::pid:QBC75448.1:loc:9263:14615:strand:+ -           1783   8.2e-87  291.1   1.9   1   1   9.1e-90     3e-86  289.2   0.4     2   253    46   295    45   295 0.97 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002615_ORF5:gid::pid:QBC75448.1:loc:9263:14615:strand:+ -           1783   1.8e-61  208.5   1.7   1   1   5.8e-65   1.9e-61  208.5   0.3     1   317   586   900   586   902 0.96 Acyl transferase domain
+KR                   PF08659.13   180 BGC0002615_ORF5:gid::pid:QBC75448.1:loc:9263:14615:strand:+ -           1783   1.1e-59  201.5   0.0   1   1     3e-62   9.7e-59  198.4   0.0     1   179  1418  1611  1418  1612 0.94 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002615_ORF5:gid::pid:QBC75448.1:loc:9263:14615:strand:+ -           1783   2.9e-39  133.9   0.9   1   1   3.7e-42   1.2e-38  131.8   0.3     1   118   303   422   303   423 0.97 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0002615_ORF5:gid::pid:QBC75448.1:loc:9263:14615:strand:+ -           1783   1.9e-12   47.2   1.5   1   1   1.1e-15   3.7e-12   46.2   1.5     2   295   949  1215   948  1217 0.82 Polyketide synthase dehydratase
+PP-binding           PF00550.28    67 BGC0002615_ORF5:gid::pid:QBC75448.1:loc:9263:14615:strand:+ -           1783   1.9e-09   37.8   0.0   1   1   1.6e-12   5.1e-09   36.4   0.0     3    66  1713  1776  1711  1777 0.96 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0002615_ORF6:gid::pid:QBC75447.1:loc:14818:16668:strand:- -            510   3.2e-60  204.4   0.0   1   1   2.1e-64   4.2e-60  203.9   0.0     8   446    55   488    48   500 0.83 Cytochrome P450
+MBOAT_2              PF13813.9     83 BGC0002615_ORF7:gid::pid:QBC75446.1:loc:16875:18171:strand:+ -            431   4.2e-20   71.9   1.5   1   1   2.6e-24   5.1e-20   71.7   0.1     1    72   241   322   241   339 0.88 Membrane bound O-acyl transferase family
+adh_short            PF00106.28   195 BGC0002615_ORF8:gid::pid:QBC75445.1:loc:18352:19411:strand:- -            330   4.3e-25   88.5   0.0   1   1     4e-21   2.6e-17   63.0   0.0     1   136    21   168    21   178 0.84 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002615_ORF8:gid::pid:QBC75445.1:loc:18352:19411:strand:- -            330   2.3e-13   50.4   0.0   1   1   1.8e-11   1.2e-07   31.7   0.0     1   131    27   168    27   183 0.76 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002615_ORF8:gid::pid:QBC75445.1:loc:18352:19411:strand:- -            330   2.2e-07   31.1   0.2   1   1   4.9e-11   3.2e-07   30.5   0.2     2    91    22   116    21   132 0.87 KR domain
+FAD_binding_4        PF01565.26   139 BGC0002615_ORF11:gid::pid:QBC75442.1:loc:22063:23784:strand:+ -            519   2.1e-25   89.2   0.2   1   1   2.5e-29   4.8e-25   88.0   0.2     2   138    93   230    92   231 0.93 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002615.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002615.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002615.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:39:42 2023
+# [ok]

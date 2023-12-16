@@ -1,0 +1,159 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="444.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="434.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>rhiA
+putative transcriptional regulator</title>
+			<polygon class="rhiA
+putative transcriptional regulator" points="10,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="14,40 26,28 30,28 30,52 26,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="33" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiB
+putative threonine synthase</title>
+			<polygon class="rhiB
+putative threonine synthase" points="44,25 57,25 57,10 87,40 57,70 57,55 44,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="51,28 71,28 81,38 81,42 71,52 51,52" stroke-linejoin="round" width="30" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiC
+putative amino acid ligase of ATP-grasp superfamily</title>
+			<polygon class="rhiC
+putative amino acid ligase of ATP-grasp superfamily" points="89,25 99,25 99,10 129,40 99,70 99,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_3 (PF02655)
+"ATP-grasp domain"</title>
+				<polygon class="PF02655" points="99,28 113,28 116,31 116,49 113,52 99,52" stroke-linejoin="round" width="17" height="24" fill="rgb(84,156,185)" stroke="rgb(67,124,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiD
+putative permease of major facilitator superfamily</title>
+			<polygon class="rhiD
+putative permease of major facilitator superfamily" points="129,25 139,25 139,10 169,40 139,70 139,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="130,28 153,28 163,38 163,42 153,52 130,52" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiE
+putative phosphonopyruvate decarboxylase alpha subunit</title>
+			<polygon class="rhiE
+putative phosphonopyruvate decarboxylase alpha subunit" points="171,10 187,40 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<polygon class="PF02776" points="171,28 177,28 184,40 177,52 171,52" stroke-linejoin="round" width="16" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiF
+putative phosphonopyruvate decarboxylase beta subunit</title>
+			<polygon class="rhiF
+putative phosphonopyruvate decarboxylase beta subunit" points="188,10 206,40 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="190,28 195,28 201,37 201,43 195,52 190,52" stroke-linejoin="round" width="11" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiG
+putative aldolase class II</title>
+			<polygon class="rhiG
+putative aldolase class II" points="207,25 210,25 210,10 240,40 210,70 210,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMGL-like (PF00682)
+"HMGL-like"</title>
+				<polygon class="PF00682" points="207,28 224,28 232,36 232,44 224,52 207,52" stroke-linejoin="round" width="25" height="24" fill="rgb(84,228,141)" stroke="rgb(67,182,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiH
+phosphoenolpyruvate phosphomutase</title>
+			<polygon class="rhiH
+phosphoenolpyruvate phosphomutase" points="241,10 270,40 241,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEP_mutase (PF13714)
+"Phosphoenolpyruvate phosphomutase"</title>
+				<polygon class="PF13714" points="241,28 254,28 265,39 265,41 254,52 241,52" stroke-linejoin="round" width="24" height="24" fill="rgb(215,91,155)" stroke="rgb(172,72,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiI
+hypothetical protein</title>
+			<polygon class="rhiI
+hypothetical protein" points="271,25 277,25 277,10 307,40 277,70 277,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>rhiN
+hypothetical YjbQ-like protein</title>
+			<polygon class="rhiN
+hypothetical YjbQ-like protein" points="309,10 322,40 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0047 (PF01894)
+"Uncharacterised protein family UPF0047"</title>
+				<polygon class="PF01894" points="310,28 313,28 319,40 313,52 310,52" stroke-linejoin="round" width="11" height="24" fill="rgb(101,99,228)" stroke="rgb(80,79,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiJ
+hypothetical aminotransferase</title>
+			<polygon class="rhiJ
+hypothetical aminotransferase" points="322,25 331,25 331,10 361,40 331,70 331,55 322,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="323,28 345,28 355,38 355,42 345,52 323,52" stroke-linejoin="round" width="32" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiK
+putative glutaredoxin</title>
+			<polygon class="rhiK
+putative glutaredoxin" points="361,10 369,40 361,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glutaredoxin (PF00462)
+"Glutaredoxin"</title>
+				<polygon class="PF00462" points="361,28 362,28 366,40 362,52 361,52" stroke-linejoin="round" width="6" height="24" fill="rgb(77,192,167)" stroke="rgb(61,153,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiL
+hypothetical protein</title>
+			<polygon class="rhiL
+hypothetical protein" points="370,10 391,40 370,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos_2 (PF12850)
+"Calcineurin-like phosphoesterase superfamily domain"</title>
+				<polygon class="PF12850" points="370,28 379,28 387,40 379,52 370,52" stroke-linejoin="round" width="20" height="24" fill="rgb(143,76,212)" stroke="rgb(114,60,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rhiM
+putative amino acid ligase of ATP-grasp superfamily</title>
+			<polygon class="rhiM
+putative amino acid ligase of ATP-grasp superfamily" points="392,25 403,25 403,10 433,40 403,70 403,55 392,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_4 (PF13535)
+"ATP-grasp domain"</title>
+				<polygon class="PF13535" points="406,28 417,28 420,31 420,49 417,52 406,52" stroke-linejoin="round" width="14" height="24" fill="rgb(197,156,74)" stroke="rgb(157,124,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

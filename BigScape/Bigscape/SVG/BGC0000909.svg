@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="240.83333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="230.83333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative secreted protein</title>
+			<polygon class="
+putative secreted protein" points="10,10 18,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>melC1_
+putative tyrosinase co-factor protein</title>
+			<polygon class="melC1_
+putative tyrosinase co-factor protein" points="45,10 57,40 45,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MelC1 (PF06236)
+"Tyrosinase co-factor MelC1"</title>
+				<polygon class="PF06236" points="45,28 49,28 54,39 54,41 49,52 45,52" stroke-linejoin="round" width="9" height="24" fill="rgb(182,64,58)" stroke="rgb(145,51,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>melC2_
+putative tyrosinase</title>
+			<polygon class="melC2_
+putative tyrosinase" points="57,10 85,40 57,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tyrosinase (PF00264)
+"Common central domain of tyrosinase"</title>
+				<polygon class="PF00264" points="59,28 69,28 80,39 80,41 69,52 59,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,199,223)" stroke="rgb(69,159,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+possible ATP-binding protein</title>
+			<polygon class="
+possible ATP-binding protein" points="104,25 127,25 127,10 157,40 127,70 127,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dynamin_N (PF00350)
+"Dynamin family"</title>
+				<rect class="PF00350" x="110" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(114,185,61)" stroke="rgb(91,148,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative ATP-binding membrane protein</title>
+			<polygon class="
+putative ATP-binding membrane protein" points="168,25 200,25 200,10 230,40 200,70 200,55 168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMR_HSR1 (PF01926)
+"50S ribosome-binding GTPase"</title>
+				<rect class="PF01926" x="180" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(105,180,226)" stroke="rgb(83,143,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

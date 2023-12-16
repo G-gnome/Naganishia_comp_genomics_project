@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   2.8e-73  246.7   0.0   1   1   4.2e-76   5.8e-73  245.7   0.0     2   253     6   257     5   257 0.92 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   6.4e-54  182.7   0.5   1   1   4.6e-57   6.4e-54  182.7   0.5     2   179  2090  2264  2089  2265 0.97 KR domain
+PS-DH                PF14765.9    297 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   4.4e-50  170.7   0.0   1   1     5e-53     7e-50  170.1   0.0     1   294   938  1244   938  1247 0.85 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   1.9e-48  165.8   0.1   1   1   2.8e-51   3.9e-48  164.7   0.1     3   272   549   841   548   869 0.85 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   1.4e-31  109.1   0.1   1   1   2.6e-34   3.7e-31  107.7   0.1     2   116   266   382   265   385 0.95 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   9.7e-18   64.9   0.0   1   1   1.8e-20   2.5e-17   63.6   0.0     1    99  1422  1523  1422  1523 0.88 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   1.3e-14   54.8   0.0   1   1   2.5e-17   3.5e-14   53.4   0.0    12   105   397   496   388   503 0.88 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.9    165 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   6.8e-13   48.9   0.0   1   1   1.4e-15   1.9e-12   47.4   0.0    10   161  1406  1574  1393  1578 0.70 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   9.6e-11   41.8   0.0   1   1   1.5e-13   2.1e-10   40.7   0.0     4   112  1418  1528  1415  1539 0.89 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   2.3e-10   41.1   0.0   1   1     8e-13   1.1e-09   38.9   0.0     2    97  1422  1521  1422  1521 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457     3e-09   37.5   0.0   1   1   6.6e-12   9.2e-09   36.0   0.0     1    96  1422  1525  1422  1525 0.86 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457     1e-08   35.5   0.3   1   1   3.3e-11   4.6e-08   33.4   0.2     7    64  2387  2444  2382  2445 0.95 Phosphopantetheine attachment site
+adh_short            PF00106.28   195 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   7.2e-08   32.2   0.2   1   1   1.2e-10   1.7e-07   31.0   0.2     2   112  2090  2201  2089  2265 0.80 short chain dehydrogenase
+Ubie_methyltran      PF01209.21   233 BGC0001254_ORF1:gid:ACTTS3:pid:BAJ14522.1:loc:82:7456:strand:+ -           2457   2.8e-05   23.7   0.3   1   1   6.4e-08     9e-05   22.0   0.0    38   155  1408  1529  1381  1538 0.87 ubiE/COQ5 methyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001254.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001254.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001254.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:19:23 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Xpo1                 PF08389.15   149 scaffold_100.region001_ORF1:gid::pid:ncbi_NaganishiaantarcticaGCA025758675.1_00545_9-_:loc:854:4236:strand:+ -            982   1.8e-22   80.1   0.6   1   1     3e-25   2.9e-21   76.2   0.0     2   149   113   257   112   257 0.96 Exportin 1-like protein
+IBN_N                PF03810.22    74 scaffold_100.region001_ORF1:gid::pid:ncbi_NaganishiaantarcticaGCA025758675.1_00545_9-_:loc:854:4236:strand:+ -            982   1.1e-06   28.6   0.4   1   1   3.2e-10   3.1e-06   27.1   0.4     1    73    35   101    35   102 0.97 Importin-beta N-terminal domain
+SAC3_GANP            PF03399.19   289 scaffold_100.region001_ORF2:gid::pid:ncbi_NaganishiaantarcticaGCA025758675.1_00546_0-_:loc:4787:7064:strand:- -            555   5.2e-26   91.8   9.3   1   1   1.6e-28   3.1e-24   85.9   9.3    36   284   263   480   250   484 0.88 SAC3/GANP family
+Spb1_C               PF07780.15   219 scaffold_100.region001_ORF4:gid::pid:ncbi_NaganishiaantarcticaGCA025758675.1_00546_2-_:loc:11610:14687:strand:+ -            924     1e-78  264.0  19.6   1   1   1.5e-82     1e-78  264.0  19.6     2   219   700   917   699   917 0.94 Spb1 C-terminal domain
+FtsJ                 PF01728.22   177 scaffold_100.region001_ORF4:gid::pid:ncbi_NaganishiaantarcticaGCA025758675.1_00546_2-_:loc:11610:14687:strand:+ -            924   3.1e-54  183.9   0.1   1   1   1.2e-57   7.8e-54  182.6   0.1     1   177    25   201    25   201 0.99 FtsJ-like methyltransferase
+DUF3381              PF11861.11   167 scaffold_100.region001_ORF4:gid::pid:ncbi_NaganishiaantarcticaGCA025758675.1_00546_2-_:loc:11610:14687:strand:+ -            924   1.1e-38  132.8  10.8   1   1   1.6e-42   1.1e-38  132.8  10.8     1   167   262   423   262   423 0.90 Domain of unknown function (DUF3381)
+SQS_PSY              PF00494.22   263 scaffold_100.region001_ORF5:gid::pid:ncbi_NaganishiaantarcticaGCA025758675.1_00546_3-_:loc:15000:17388:strand:+ -            643   1.2e-42  146.4   2.0   1   1   8.6e-47   1.7e-42  145.9   2.0     1   251   337   622   337   631 0.89 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/scaffold_100.region001.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/scaffold_100.region001.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/scaffold_100.region001.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:54:29 2023
+# [ok]

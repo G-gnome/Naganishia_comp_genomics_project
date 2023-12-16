@@ -1,0 +1,27 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002238_ORF1:gid::pid:BAE61264.1:loc:216:2009:strand:- -            561   3.4e-66  223.7   0.0   1   1   4.2e-70   4.1e-66  223.5   0.0     1   424    14   454    14   454 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002238_ORF1:gid::pid:BAE61264.1:loc:216:2009:strand:- -            561   7.2e-11   43.0   0.0   1   1   1.5e-14   1.5e-10   42.0   0.0     1    76   462   540   462   540 0.87 AMP-binding enzyme C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   1.5e-80  270.5   0.0   1   1   1.8e-83   3.3e-80  269.4   0.0     2   253     5   255     4   255 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   1.3e-45  156.5   0.0   1   1   2.1e-48   3.8e-45  154.9   0.0     3   300   558   875   557   886 0.90 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   7.5e-38  130.6   0.0   1   1   1.6e-39   2.9e-36  125.4   0.0     1   291   945  1228   945  1234 0.87 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   8.1e-29  100.2   0.1   1   1     1e-31   1.8e-28   99.0   0.1     2   118   264   390   263   391 0.90 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   1.5e-18   67.5   0.0   1   1   2.2e-21     4e-18   66.1   0.0     1    99  1409  1510  1409  1510 0.95 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   3.4e-16   59.8   0.0   1   1     6e-19   1.1e-15   58.2   0.0    10   108   401   513   396   517 0.86 Ketoacyl-synthetase C-terminal extension
+Methyltransf_11      PF08241.15    96 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   1.3e-11   45.1   0.0   1   1   2.2e-14   3.9e-11   43.6   0.0     1    96  1409  1512  1409  1512 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   1.2e-11   44.9   0.0   1   1   1.9e-14   3.3e-11   43.4   0.0    20   160  1402  1561  1379  1563 0.74 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   1.9e-11   44.6   0.0   1   1   3.1e-14   5.6e-11   43.1   0.0     1    97  1408  1508  1408  1508 0.87 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   7.7e-08   32.4   0.0   1   1   9.5e-11   1.7e-07   31.3   0.0     4   111  1405  1514  1402  1525 0.86 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0002238_ORF2:gid::pid:BAE61265.1:loc:2461:9751:strand:- -           2429   8.1e-07   29.4   0.1   1   1   2.1e-09   3.8e-06   27.2   0.0     4    66  2357  2420  2352  2421 0.82 Phosphopantetheine attachment site
+Lipocalin_5          PF13924.9    143 BGC0002238_ORF3:gid::pid:BAE61266.1:loc:10542:10949:strand:+ -            111   5.2e-29  101.0   0.1   1   1   2.9e-33   5.7e-29  100.9   0.1    39   142     1   106     1   107 0.98 Lipocalin-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002238.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002238.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002238.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:31:11 2023
+# [ok]

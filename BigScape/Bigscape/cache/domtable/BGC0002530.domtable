@@ -1,0 +1,17 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HTH_18               PF12833.10    81 BGC0002530_ORF2:gid::pid:CAJ13318.1:loc:2432:3212:strand:+ -            259   2.6e-19   69.4   0.5   1   1   4.9e-23   4.8e-19   68.5   0.5     1    79   169   246   169   247 0.97 Helix-turn-helix domain
+Peripla_BP_6         PF13458.9    343 BGC0002530_ORF3:gid::pid:CAJ13319.1:loc:3361:4582:strand:+ -            406   2.9e-62  211.6   5.1   1   1   5.1e-66   3.3e-62  211.3   5.1     2   343    33   382    32   382 0.94 Periplasmic binding protein
+ANF_receptor         PF01094.31   354 BGC0002530_ORF3:gid::pid:CAJ13319.1:loc:3361:4582:strand:+ -            406   5.4e-20   72.0   0.1   1   1   1.4e-23   9.1e-20   71.2   0.1     4   346    54   374    52   380 0.82 Receptor family ligand binding region
+Peripla_BP_5         PF13433.9    363 BGC0002530_ORF3:gid::pid:CAJ13319.1:loc:3361:4582:strand:+ -            406   2.4e-19   69.7   0.0   1   1   2.3e-22   1.5e-18   67.1   0.0     8   358    40   399    33   402 0.81 Periplasmic binding protein domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002530.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002530.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002530.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:22:45 2023
+# [ok]

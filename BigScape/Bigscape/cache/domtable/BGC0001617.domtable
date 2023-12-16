@@ -1,0 +1,38 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Dus                  PF01207.20   310 BGC0001617_ORF1:gid::pid:XP_007301843.1:loc:0:1251:strand:+ -            263   1.5e-54  185.3   0.0   1   1   8.5e-59   1.7e-54  185.1   0.0     5   226     1   224     1   261 0.88 Dihydrouridine synthase (Dus)
+Aldo_ket_red         PF00248.24   292 BGC0001617_ORF2:gid::pid:XP_007301844.1:loc:1932:3309:strand:+ -            359   2.3e-65  220.7   0.0   1   1   1.3e-69   2.6e-65  220.5   0.0     2   289    21   328    20   331 0.96 Aldo/keto reductase family
+Aldo_ket_red         PF00248.24   292 BGC0001617_ORF3:gid::pid:XP_007301845.1:loc:3875:5252:strand:+ -            357   1.1e-64  218.4   0.0   1   1   6.4e-69   1.3e-64  218.3   0.0     2   290    18   326    17   328 0.96 Aldo/keto reductase family
+zf-C2H2              PF00096.29    23 BGC0001617_ORF4:gid::pid:XP_007301846.1:loc:8925:10259:strand:- -            386   7.2e-09   35.7  18.5   1   1   2.3e-08   0.00044   20.7   0.4     2    21   357   376   356   380 0.91 Zinc finger, C2H2 type
+SPC25                PF06703.14   161 BGC0001617_ORF5:gid::pid:XP_007301847.1:loc:15317:16519:strand:- -            273   3.3e-52  176.7   0.0   1   1   2.1e-56   4.2e-52  176.4   0.0     1   159    59   268    59   270 0.96 Microsomal signal peptidase 25 kDa subunit (SPC25)
+Amino_oxidase        PF01593.27   452 BGC0001617_ORF6:gid::pid:XP_007301848.1:loc:16838:18173:strand:+ -            425   5.3e-20   72.3   0.0   1   1   1.5e-23   7.1e-20   71.8   0.0     1   241    13   363    13   397 0.85 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001617_ORF6:gid::pid:XP_007301848.1:loc:16838:18173:strand:+ -            425   2.5e-12   47.0   0.0   1   1   1.1e-15   5.2e-12   45.9   0.0     1    59     8    75     8    83 0.87 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.27   353 BGC0001617_ORF6:gid::pid:XP_007301848.1:loc:16838:18173:strand:+ -            425   3.5e-07   30.2   0.0   1   1   1.8e-10   8.8e-07   28.9   0.0     1    37     5    42     5   108 0.92 FAD dependent oxidoreductase
+HMG_CoA_synt_N       PF01154.20   174 BGC0001617_ORF7:gid::pid:XP_007301558.1:loc:19633:21358:strand:- -            477   8.4e-82  273.3   0.0   1   1   1.4e-85   1.4e-81  272.6   0.0     1   174    17   190    17   190 1.00 Hydroxymethylglutaryl-coenzyme A synthase N terminal
+HMG_CoA_synt_C       PF08540.13   280 BGC0001617_ORF7:gid::pid:XP_007301558.1:loc:19633:21358:strand:- -            477   3.1e-80  269.9   0.8   1   1     6e-84   5.9e-80  269.0   0.8     3   279   193   475   191   476 0.93 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+Terpene_syn_C_2      PF19086.3    199 BGC0001617_ORF8:gid::pid:XP_007301506.1:loc:21555:22968:strand:- -            277   8.9e-20   71.5   2.6   1   1   2.6e-23   5.1e-19   69.0   2.6     5   198    49   222    45   223 0.75 Terpene synthase family 2, C-terminal metal binding
+EthD                 PF07110.14    97 BGC0001617_ORF9:gid::pid:XP_007301849.1:loc:23894:24452:strand:- -            123   4.6e-14   53.5   0.1   1   1     3e-18   5.9e-14   53.1   0.1     2    92    13   101    12   106 0.93 EthD domain
+p450                 PF00067.25   463 BGC0001617_ORF10:gid::pid:XP_007301850.1:loc:24707:27136:strand:+ -            530   1.1e-78  265.2   0.0   1   1   6.1e-83   1.2e-78  265.1   0.0     1   435    47   476    47   510 0.88 Cytochrome P450
+NmrA                 PF05368.16   233 BGC0001617_ORF11:gid::pid:XP_007301601.1:loc:27752:29039:strand:+ -            309   1.1e-28  100.4   0.0   1   1   1.6e-32   1.6e-28   99.9   0.0     2   223     8   225     7   235 0.89 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0001617_ORF11:gid::pid:XP_007301601.1:loc:27752:29039:strand:+ -            309   5.4e-12   46.1   0.0   1   1   1.3e-15   1.3e-11   44.9   0.0     1   145    11   147    11   200 0.82 NAD(P)H-binding
+p450                 PF00067.25   463 BGC0001617_ORF12:gid::pid:XP_007301602.1:loc:29515:31916:strand:- -            541   2.1e-75  254.4   0.0   1   1   1.3e-79   2.6e-75  254.1   0.0     1   439    55   491    55   520 0.90 Cytochrome P450
+p450                 PF00067.25   463 BGC0001617_ORF13:gid::pid:XP_007301851.1:loc:34038:36471:strand:+ -            549   3.1e-72  243.9   0.0   1   1     2e-76   3.9e-72  243.6   0.0     1   436    69   495    69   512 0.89 Cytochrome P450
+p450                 PF00067.25   463 BGC0001617_ORF14:gid::pid:XP_007301852.1:loc:37027:39205:strand:- -            517   5.1e-68  230.0   0.0   1   1   3.2e-72   6.2e-68  229.7   0.0     1   441    34   470    33   489 0.88 Cytochrome P450
+FAD_binding_4        PF01565.26   139 BGC0001617_ORF15:gid::pid:XP_007301603.1:loc:39853:42223:strand:+ -            585   6.7e-18   64.9   1.1   1   1   3.1e-21   3.1e-17   62.7   0.5     1   134   129   270   129   275 0.87 FAD binding domain
+BBE                  PF08031.15    46 BGC0001617_ORF15:gid::pid:XP_007301603.1:loc:39853:42223:strand:+ -            585   4.4e-07   30.0   0.3   1   1   9.6e-11   9.4e-07   29.0   0.3     2    38   529   564   528   568 0.95 Berberine and berberine like
+MFS_1                PF07690.19   353 BGC0001617_ORF16:gid::pid:XP_007301853.1:loc:42874:44880:strand:- -            557   1.6e-32  113.0  55.1   1   1   1.4e-36   2.7e-32  112.2  52.9     1   351    59   469    57   471 0.87 Major Facilitator Superfamily
+adh_short            PF00106.28   195 BGC0001617_ORF17:gid::pid:XP_007301854.1:loc:45365:46496:strand:+ -            289   4.9e-41  140.5   0.1   1   1   1.2e-44   5.8e-41  140.2   0.1     1   192    34   226    34   229 0.97 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0001617_ORF17:gid::pid:XP_007301854.1:loc:45365:46496:strand:+ -            289   1.2e-33  116.8   0.0   1   1   3.1e-37   1.5e-33  116.4   0.0     1   184    40   226    40   239 0.91 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0001617_ORF17:gid::pid:XP_007301854.1:loc:45365:46496:strand:+ -            289   2.8e-15   56.8   0.0   1   1   8.9e-19   4.3e-15   56.2   0.0     3   174    36   212    34   218 0.89 KR domain
+Polysacc_synt_2      PF02719.18   294 BGC0001617_ORF17:gid::pid:XP_007301854.1:loc:45365:46496:strand:+ -            289   9.5e-05   21.8   0.0   1   1   2.8e-08   0.00014   21.3   0.0     1   115    36   156    36   162 0.76 Polysaccharide biosynthesis protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001617.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001617.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001617.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:05:18 2023
+# [ok]

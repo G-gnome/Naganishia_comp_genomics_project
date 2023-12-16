@@ -1,0 +1,35 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Vps39_1              PF10366.12   108 BGC0002710_ORF1:gid::pid:EFY99282.1:loc:0:3376:strand:- -           1059   5.5e-33  113.6   0.0   1   1   6.1e-36     4e-32  110.8   0.0     1   108   620   726   620   726 0.99 Vacuolar sorting protein 39 domain 1
+Vps39_2              PF10367.12   109 BGC0002710_ORF1:gid::pid:EFY99282.1:loc:0:3376:strand:- -           1059   3.2e-28   98.5   0.0   1   1     2e-31   1.3e-27   96.5   0.0     1   108   927  1049   927  1050 0.93 Vacuolar sorting protein 39 domain 2
+CNH                  PF00780.25   254 BGC0002710_ORF1:gid::pid:EFY99282.1:loc:0:3376:strand:- -           1059   2.9e-20   73.3   0.0   1   1   8.5e-24   5.6e-20   72.4   0.0    27   244    93   336    79   345 0.86 CNH domain
+SPX                  PF03105.22   378 BGC0002710_ORF2:gid::pid:EFY99281.1:loc:3897:7333:strand:- -            999   1.3e-40  140.7   0.0   1   2   1.1e-16     7e-13   49.4   0.1     1    53   164   217   164   221 0.79 SPX domain
+SPX                  PF03105.22   378 BGC0002710_ORF2:gid::pid:EFY99281.1:loc:3897:7333:strand:- -            999   1.3e-40  140.7   0.0   2   2   9.6e-30   6.3e-26   92.3   0.0   163   376   205   413   198   414 0.62 SPX domain
+Na_sulph_symp        PF00939.22   472 BGC0002710_ORF2:gid::pid:EFY99281.1:loc:3897:7333:strand:- -            999   3.9e-31  108.8  34.2   1   1   8.4e-35   5.5e-31  108.3  34.2    17   466   546   991   532   996 0.83 Sodium:sulfate symporter transmembrane region
+CitMHS               PF03600.19   296 BGC0002710_ORF2:gid::pid:EFY99281.1:loc:3897:7333:strand:- -            999   7.6e-28   97.7  34.8   1   1   2.3e-31   1.5e-27   96.7  34.8     2   293   571   931   570   994 0.85 Citrate transporter
+ABC_membrane         PF00664.26   274 BGC0002710_ORF3:gid::pid:EFY99280.1:loc:8482:12723:strand:- -           1351   1.8e-87  293.6  28.7   1   2     6e-55     2e-51  175.4  12.1     1   266    59   337    59   341 0.93 ABC transporter transmembrane region
+ABC_membrane         PF00664.26   274 BGC0002710_ORF3:gid::pid:EFY99280.1:loc:8482:12723:strand:- -           1351   1.8e-87  293.6  28.7   2   2   3.1e-39     1e-35  123.9   8.6     3   267   763  1031   761  1036 0.95 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002710_ORF3:gid::pid:EFY99280.1:loc:8482:12723:strand:- -           1351   8.8e-63  211.0   0.0   1   2   4.9e-31   1.6e-27   96.8   0.0     1   137   413   605   413   605 0.90 ABC transporter
+ABC_tran             PF00005.30   137 BGC0002710_ORF3:gid::pid:EFY99280.1:loc:8482:12723:strand:- -           1351   8.8e-63  211.0   0.0   2   2   1.1e-35   3.7e-32  111.8   0.0     2   137  1126  1277  1125  1277 0.87 ABC transporter
+Pyr_redox_2          PF07992.17   295 BGC0002710_ORF4:gid::pid:EFY99279.1:loc:14883:16365:strand:+ -            421   7.2e-23   81.4   0.1   1   1   1.3e-25   8.3e-22   77.9   0.1     2   263    14   302    13   312 0.76 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.30    81 BGC0002710_ORF4:gid::pid:EFY99279.1:loc:14883:16365:strand:+ -            421   9.3e-14   51.8   2.3   1   1   3.4e-15   2.2e-11   44.2   0.2     2    68   178   248   177   255 0.91 Pyridine nucleotide-disulphide oxidoreductase
+Acetyltransf_8       PF13523.9    145 BGC0002710_ORF5:gid::pid:EFY99278.1:loc:18902:20389:strand:+ -            463     3e-48  163.3   3.3   1   1   2.3e-52   4.5e-48  162.7   3.3     3   144   281   423   279   424 0.96 Acetyltransferase (GNAT) domain
+AMP-binding          PF00501.31   424 BGC0002710_ORF6:gid::pid:EFY99277.1:loc:20694:22569:strand:- -            576   4.4e-97  325.5   0.0   1   1  5.5e-101   5.4e-97  325.2   0.0    13   423    55   462    42   463 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002710_ORF6:gid::pid:EFY99277.1:loc:20694:22569:strand:- -            576   2.1e-14   54.3   0.0   1   1   4.7e-18   4.7e-14   53.3   0.0     1    76   471   553   471   553 0.90 AMP-binding enzyme C-terminal domain
+AMP-binding          PF00501.31   424 BGC0002710_ORF7:gid::pid:EFY99276.1:loc:24908:30311:strand:+ -           1800   1.3e-74  251.4   0.0   1   1   1.5e-76     1e-72  245.2   0.0     2   424    93   492    92   492 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002710_ORF7:gid::pid:EFY99276.1:loc:24908:30311:strand:+ -           1800   5.9e-61  206.7   0.0   1   2   3.4e-36   2.2e-32  112.5   0.0     3   451   741  1157   739  1162 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0002710_ORF7:gid::pid:EFY99276.1:loc:24908:30311:strand:+ -           1800   5.9e-61  206.7   0.0   2   2   6.1e-30     4e-26   91.9   0.0    33   360  1422  1724  1395  1785 0.82 Condensation domain
+PP-binding           PF00550.28    67 BGC0002710_ORF7:gid::pid:EFY99276.1:loc:24908:30311:strand:+ -           1800   1.8e-27   95.5   0.0   1   2   2.4e-13   1.6e-09   38.1   0.0     2    64   633   693   632   695 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002710_ORF7:gid::pid:EFY99276.1:loc:24908:30311:strand:+ -           1800   1.8e-27   95.5   0.0   2   2   2.1e-18   1.4e-14   54.2   0.0     1    64  1283  1345  1283  1348 0.97 Phosphopantetheine attachment site
+DUF4050              PF13259.9    183 BGC0002710_ORF8:gid::pid:EFY99275.1:loc:30865:33332:strand:- -            658   4.7e-59  199.9   0.4   1   1   6.6e-63   1.3e-58  198.5   0.0     1   183   384   586   384   586 0.81 Protein of unknown function (DUF4050)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002710.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002710.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002710.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:35:15 2023
+# [ok]

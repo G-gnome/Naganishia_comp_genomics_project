@@ -1,0 +1,21 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Capsule_synth        PF05159.17   310 BGC0000738_ORF1:gid:lipB:pid:AAK17908.1:loc:0:453:strand:- -            151   5.6e-24   85.3   0.0   1   1   3.5e-28   6.9e-24   85.0   0.0     2    67    86   151    85   151 0.97 Capsule polysaccharide biosynthesis protein
+Epimerase_2          PF02350.22   346 BGC0000738_ORF2:gid:ecbA:pid:AAK17909.1:loc:820:1945:strand:+ -            374  2.9e-120  401.4   0.0   1   1  1.7e-124  3.4e-120  401.2   0.0     6   345    30   372    26   373 0.95 UDP-N-acetylglucosamine 2-epimerase
+UDPG_MGDP_dh_N       PF03721.17   187 BGC0000738_ORF3:gid:ecbB:pid:AAK17910.1:loc:1964:3239:strand:+ -            424   5.6e-60  202.2   0.4   1   1   4.6e-63   1.8e-59  200.6   0.0     2   182     6   189     5   193 0.95 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.22    94 BGC0000738_ORF3:gid:ecbB:pid:AAK17910.1:loc:1964:3239:strand:+ -            424   1.5e-27   95.7   0.0   1   1   7.5e-31     3e-27   94.8   0.0     1    92   208   294   208   296 0.96 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.18   105 BGC0000738_ORF3:gid:ecbB:pid:AAK17910.1:loc:1964:3239:strand:+ -            424   1.9e-19   70.1   0.0   1   1   1.3e-22   4.9e-19   68.8   0.0     1   104   327   423   327   424 0.89 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+Glycos_transf_2      PF00535.29   170 BGC0000738_ORF4:gid:ecbJ:pid:AAK17912.1:loc:3245:5363:strand:+ -            705   5.5e-10   39.4   0.5   1   1   1.5e-13     3e-09   37.0   0.3     3   112   477   588   476   620 0.93 Glycosyl transferase family 2
+APH                  PF01636.26   239 BGC0000738_ORF9:gid:ecbG:pid:AAK17916.1:loc:8977:10561:strand:+ -            527   7.8e-07   29.3   0.0   1   1   3.9e-10   7.7e-06   26.0   0.0    33   211   228   426   191   434 0.66 Phosphotransferase enzyme family
+Glyco_trans_1_2      PF13524.9     92 BGC0000738_ORF10:gid:ecbI:pid:AAK17917.1:loc:10619:11600:strand:+ -            326   4.6e-09   36.7   0.0   1   1     6e-13   1.2e-08   35.4   0.0     3    90   228   318   225   320 0.84 Glycosyl transferases group 1
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000738.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000738.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000738.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:05:56 2023
+# [ok]

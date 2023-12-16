@@ -1,0 +1,22 @@
+var bigscape_results = [
+    {
+        "label":"2023-12-04_10-47-32_hybrids_glocal_c0.30",
+        "networks":[
+            {
+                "css":"NRPS",
+                "label":"NRPS",
+                "name":"NRPS"
+            },
+            {
+                "css":"PKSother",
+                "label":"PKSother",
+                "name":"PKSother"
+            },
+            {
+                "css":"Terpene",
+                "label":"Terpene",
+                "name":"Terpene"
+            }
+        ]
+    }
+];

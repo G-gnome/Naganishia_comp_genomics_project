@@ -1,0 +1,16 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DIT1_PvcA            PF05141.15   277 BGC0001757_ORF1:gid::pid:CBJ89292.1:loc:0:1008:strand:+ -            335   5.2e-84  282.1   0.0   1   1   3.3e-88   6.4e-84  281.8   0.0     1   273    46   300    46   304 0.97 Pyoverdine/dityrosine biosynthesis protein
+TauD                 PF02668.19   268 BGC0001757_ORF2:gid::pid:CBJ89293.1:loc:1041:1932:strand:+ -            296   1.2e-40  140.2   0.6   1   1   7.3e-45   1.4e-40  139.9   0.6    24   267    30   267    13   268 0.90 Taurine catabolism dioxygenase TauD, TfdA family
+UDPGT                PF00201.21   499 BGC0001757_ORF3:gid::pid:CBJ89294.1:loc:1935:3222:strand:+ -            428   9.4e-06   24.8   0.0   1   1   1.3e-09   1.3e-05   24.4   0.0   299   414   282   399   212   406 0.89 UDP-glucoronosyl and UDP-glucosyl transferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001757.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001757.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001757.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:35:07 2023
+# [ok]

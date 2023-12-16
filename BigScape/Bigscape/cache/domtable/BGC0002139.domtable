@@ -1,0 +1,37 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   1.5e-74  250.9   0.0   1   1   1.7e-77   2.6e-74  250.1   0.0     2   253     7   257     6   257 0.95 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   9.4e-46  156.5   0.0   1   1   9.5e-49   1.4e-45  155.9   0.0     1   293   942  1243   942  1247 0.92 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   3.5e-45  155.0   0.1   1   1   4.6e-48     7e-45  154.0   0.1     3   279   553   852   552   880 0.83 Acyl transferase domain
+KR                   PF08659.13   180 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   3.5e-45  154.2   0.0   1   1   7.8e-48   1.2e-44  152.5   0.0     2   176  2119  2292  2118  2295 0.97 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   7.8e-33  113.1   0.0   1   1   1.2e-35   1.8e-32  111.9   0.0     2   117   266   385   265   387 0.94 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   2.2e-19   70.2   0.0   1   1   3.1e-22   4.7e-19   69.1   0.0     1    99  1425  1526  1425  1526 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   4.4e-13   49.5   0.0   1   1   5.9e-16     9e-13   48.5   0.0    20   164  1418  1581  1400  1582 0.80 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   2.5e-12   47.4   0.0   1   1   3.9e-15   5.8e-12   46.2   0.0    10   104   397   503   390   512 0.78 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.9     97 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585     4e-12   46.8   0.0   1   1   1.2e-14   1.7e-11   44.7   0.0     2    97  1425  1524  1424  1524 0.91 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   1.1e-11   44.6   0.0   1   1   2.3e-14   3.5e-11   43.1   0.0    12   166  2129  2282  2121  2306 0.93 short chain dehydrogenase
+Methyltransf_11      PF08241.15    96 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   5.4e-10   39.9   0.0   1   1   9.3e-13   1.4e-09   38.6   0.0     1    96  1425  1528  1425  1528 0.86 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   4.8e-10   39.6   0.0   1   1   7.1e-13   1.1e-09   38.4   0.0     3   112  1420  1531  1418  1559 0.92 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0002139_ORF1:gid::pid:KAF5858310.1:loc:487:8476:strand:- -           2585   3.7e-06   27.3   0.2   1   1   8.9e-09   1.3e-05   25.5   0.2    14    66  2430  2482  2422  2483 0.89 Phosphopantetheine attachment site
+ADH_zinc_N           PF00107.29   130 BGC0002139_ORF2:gid::pid:KAF5858311.1:loc:9016:10150:strand:+ -            356   5.1e-13   49.3   0.0   1   1   5.8e-17   1.1e-12   48.2   0.0     2    83   172   251   171   255 0.91 Zinc-binding dehydrogenase
+p450                 PF00067.25   463 BGC0002139_ORF3:gid::pid:KAF5858312.1:loc:10675:12412:strand:+ -            479   6.6e-62  209.9   0.0   1   1   4.3e-66   8.5e-62  209.5   0.0    48   439    62   448    50   464 0.82 Cytochrome P450
+Aldose_epim          PF01263.23   301 BGC0002139_ORF4:gid::pid:KAF5858313.1:loc:12601:13888:strand:+ -            373   6.1e-29  101.4   0.1   1   1   4.2e-33   8.2e-29  101.0   0.1     7   284    43   348    38   353 0.90 Aldose 1-epimerase
+FSH1                 PF03959.16   212 BGC0002139_ORF5:gid::pid:KAF5858314.1:loc:13986:14739:strand:- -            250   5.7e-28   98.2   0.0   1   1   6.7e-32   6.6e-28   98.0   0.0     3   210     5   214     1   216 0.90 Serine hydrolase (FSH1)
+Abhydrolase_2        PF02230.19   217 BGC0002139_ORF5:gid::pid:KAF5858314.1:loc:13986:14739:strand:- -            250   9.3e-08   32.3   0.0   1   1   1.3e-10   1.3e-06   28.5   0.0    12   171     4   180     1   220 0.61 Phospholipase/Carboxylesterase
+Zn_clus              PF00172.21    40 BGC0002139_ORF6:gid::pid:KAF5858315.1:loc:15207:16616:strand:- -            448   2.3e-06   27.7   6.9   1   1     2e-10   3.9e-06   27.0   6.9     2    37    11    48    10    51 0.88 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Methyltransf_25      PF13649.9     97 BGC0002139_ORF7:gid::pid:KAF5858316.1:loc:18886:19781:strand:+ -            264   1.5e-10   41.7   0.0   1   1   5.3e-14   3.5e-10   40.6   0.0     1    97    29   137    29   137 0.83 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002139_ORF7:gid::pid:KAF5858316.1:loc:18886:19781:strand:+ -            264   6.6e-10   39.6   0.0   1   1   3.4e-13   2.2e-09   38.0   0.0     1    95    30   140    30   141 0.86 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002139_ORF7:gid::pid:KAF5858316.1:loc:18886:19781:strand:+ -            264   4.2e-05   23.1   0.0   1   1   1.1e-08   6.9e-05   22.4   0.0    49   150    27   140    13   152 0.82 ubiE/COQ5 methyltransferase family
+MFS_1                PF07690.19   353 BGC0002139_ORF8:gid::pid:KAF5858317.1:loc:20196:22086:strand:- -            563   6.2e-40  137.3  44.4   1   1   1.3e-43   1.3e-39  136.3  43.0     1   351    57   459    57   460 0.85 Major Facilitator Superfamily
+TRI12                PF06609.16   599 BGC0002139_ORF8:gid::pid:KAF5858317.1:loc:20196:22086:strand:- -            563   9.6e-19   67.4  16.6   1   1   1.2e-22   1.2e-18   67.0  16.6    40   444    48   447     2   542 0.74 Fungal trichothecene efflux pump (TRI12)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002139.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002139.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002139.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:58:52 2023
+# [ok]

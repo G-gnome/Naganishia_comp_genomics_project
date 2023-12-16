@@ -1,0 +1,20 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002221_ORF1:gid::pid:EGO28827.1:loc:391:2262:strand:+ -            514     3e-31  108.8   0.0   1   1   1.4e-28   2.8e-24   85.9   0.0   240   437   256   468   231   487 0.84 Cytochrome P450
+p450                 PF00067.25   463 BGC0002221_ORF2:gid::pid:EGO28828.1:loc:3129:5194:strand:- -            512   3.4e-39  135.0   0.0   1   1   2.4e-43   4.7e-39  134.5   0.0    93   443   143   482    53   491 0.82 Cytochrome P450
+polyprenyl_synt      PF00348.20   256 BGC0002221_ORF3:gid::pid:EGO28829.1:loc:6062:7362:strand:+ -            358   9.1e-53  179.1   0.0   1   1   5.6e-57   1.1e-52  178.8   0.0     3   255    64   311    62   312 0.91 Polyprenyl synthetase
+p450                 PF00067.25   463 BGC0002221_ORF4:gid::pid:EGO28830.1:loc:7997:10609:strand:- -            585   8.6e-73  245.8   0.0   1   1   6.2e-77   1.2e-72  245.3   0.0    15   441    99   537    89   550 0.88 Cytochrome P450
+p450                 PF00067.25   463 BGC0002221_ORF5:gid::pid:EGO28831.1:loc:11133:13693:strand:- -            545   2.3e-54  185.0   0.0   1   1   4.3e-58   8.4e-54  183.2   0.0     1   449    33   520    33   531 0.84 Cytochrome P450
+Retrotran_gag_2      PF14223.9    138 BGC0002221_ORF7:gid::pid:EGO28833.1:loc:19262:19625:strand:+ -            120   6.4e-07   29.3   0.1   1   1   4.2e-11   8.2e-07   29.0   0.1     1    59    61   119    61   120 0.95 gag-polypeptide of LTR copia-type
+Myb_DNA-bind_3       PF12776.10    96 BGC0002221_ORF8:gid::pid:EGO28834.1:loc:28453:32026:strand:- -            569   2.7e-06   28.3   0.3   1   1   6.6e-10   1.3e-05   26.2   0.1     1    74    46   119    46   141 0.88 Myb/SANT-like DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002221.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002221.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002221.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:21:36 2023
+# [ok]

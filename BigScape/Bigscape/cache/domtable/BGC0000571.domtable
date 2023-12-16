@@ -1,0 +1,18 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0000571_ORF1:gid::pid:CBW74823.1:loc:0:1800:strand:- -            599   9.5e-36  123.5   0.0   1   1   1.5e-39   1.5e-35  122.8   0.0     1   137   360   509   360   509 0.97 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000571_ORF1:gid::pid:CBW74823.1:loc:0:1800:strand:- -            599   1.4e-25   90.6   5.6   1   1     2e-29     2e-25   90.1   5.6     2   270    28   296    27   300 0.93 ABC transporter transmembrane region
+Asn_synthase         PF00733.24   355 BGC0000571_ORF2:gid::pid:CBW74824.1:loc:1817:3560:strand:- -            580   2.3e-15   57.3   0.2   1   1   1.8e-18   3.5e-14   53.4   0.2    22   352   231   574   219   580 0.73 Asparagine synthase
+Transglut_core3      PF13471.9    117 BGC0000571_ORF3:gid::pid:CBW74825.1:loc:3556:4387:strand:- -            276   4.6e-19   68.6   1.8   1   1     5e-23   9.9e-19   67.5   1.4     7   116   156   265   146   266 0.80 Transglutaminase-like superfamily
+DUF5967              PF19392.2     43 BGC0000571_ORF4:gid::pid:CBW74826.1:loc:4421:4574:strand:- -             50   2.5e-24   85.0   2.9   1   1   1.5e-28   2.9e-24   84.8   2.9     1    43     1    42     1    42 0.99 Family of unknown function (DUF5967)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000571.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000571.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000571.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:30:39 2023
+# [ok]

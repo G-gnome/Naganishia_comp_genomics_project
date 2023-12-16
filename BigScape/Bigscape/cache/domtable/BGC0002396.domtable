@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_synth_C      PF03936.19   267 BGC0002396_ORF1:gid::pid:KAG6389572.1:loc:104:2656:strand:- -            588   5.2e-53  180.2   4.1   1   1   1.3e-56   8.4e-53  179.5   4.1     1   266   255   519   255   520 0.93 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0002396_ORF1:gid::pid:KAG6389572.1:loc:104:2656:strand:- -            588   4.2e-32  111.5   0.4   1   1   1.4e-35   9.3e-32  110.4   0.4    20   189    46   210    30   213 0.81 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002396_ORF1:gid::pid:KAG6389572.1:loc:104:2656:strand:- -            588   2.6e-27   96.1   1.7   1   1   6.8e-31   4.5e-27   95.3   1.7     2   197   321   518   320   520 0.87 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth_C      PF03936.19   267 BGC0002396_ORF2:gid::pid:KAG6389573.1:loc:15160:18499:strand:- -            386   3.8e-17   62.6   7.8   1   1   9.8e-21   1.9e-16   60.3   6.6     1   150   110   263   110   355 0.85 Terpene synthase family, metal binding domain
+Rieske               PF00355.29    89 BGC0002396_ORF3:gid::pid:KAG6389574.1:loc:25668:27725:strand:+ -            541   3.3e-21   75.1   0.0   1   1   9.1e-25   5.9e-21   74.3   0.0     1    85    85   168    85   181 0.93 Rieske [2Fe-2S] domain
+PaO                  PF08417.15    88 BGC0002396_ORF3:gid::pid:KAG6389574.1:loc:25668:27725:strand:+ -            541   4.7e-18   65.2   0.0   1   1   1.3e-21   8.6e-18   64.4   0.0     1    85   294   380   294   383 0.92 Pheophorbide a oxygenase
+VanA_C               PF19112.3    195 BGC0002396_ORF3:gid::pid:KAG6389574.1:loc:25668:27725:strand:+ -            541   2.6e-06   27.8   0.0   1   1   1.4e-09   9.3e-06   26.0   0.0     5   191   228   406   224   409 0.76 Vanillate O-demethylase oxygenase C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002396.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002396.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002396.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:05:02 2023
+# [ok]

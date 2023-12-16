@@ -1,0 +1,19 @@
+#                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_synth_C      PF03936.19   267 BGC0002723_ORF1:gid:LOC105629811:pid:NP_001292945.1:loc:64:2668:strand:+ -            601  2.6e-102  341.9   2.1   1   1  6.5e-106  4.3e-102  341.1   2.1     1   267   278   543   278   543 0.98 Terpene synthase family, metal binding domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002723_ORF1:gid:LOC105629811:pid:NP_001292945.1:loc:64:2668:strand:+ -            601   1.7e-53  181.6   0.1   1   1   4.2e-57   2.8e-53  180.9   0.1     1   199   344   543   344   543 0.93 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth        PF01397.24   192 BGC0002723_ORF1:gid:LOC105629811:pid:NP_001292945.1:loc:64:2668:strand:+ -            601   8.4e-51  172.5   1.1   1   1   1.3e-54   8.4e-51  172.5   1.1    22   192    84   247    71   247 0.87 Terpene synthase, N-terminal domain
+Terpene_synth_C      PF03936.19   267 BGC0002723_ORF2:gid:LOC105629821:pid:XP_012066853.1:loc:7293:10776:strand:+ -            601  3.4e-101  338.2   4.6   1   1  7.8e-105  5.1e-101  337.6   4.6     1   267   278   543   278   543 0.98 Terpene synthase family, metal binding domain
+Terpene_syn_C_2      PF19086.3    199 BGC0002723_ORF2:gid:LOC105629821:pid:XP_012066853.1:loc:7293:10776:strand:+ -            601   2.4e-53  181.1   0.2   1   1   6.1e-57     4e-53  180.3   0.2     1   199   344   543   344   543 0.94 Terpene synthase family 2, C-terminal metal binding
+Terpene_synth        PF01397.24   192 BGC0002723_ORF2:gid:LOC105629821:pid:XP_012066853.1:loc:7293:10776:strand:+ -            601   3.2e-49  167.4   1.2   1   1   4.9e-53   3.2e-49  167.4   1.2    24   192    87   247    71   247 0.84 Terpene synthase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002723.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002723.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002723.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:24:14 2023
+# [ok]

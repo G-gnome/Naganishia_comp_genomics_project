@@ -1,0 +1,24 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0001286_ORF1:gid:CYP3:pid:ALS30800.1:loc:99:2025:strand:- -            540   1.2e-70  238.7   0.0   1   1   6.9e-75   1.4e-70  238.5   0.0     2   461    61   523    60   525 0.91 Cytochrome P450
+Glyoxalase           PF00903.28   128 BGC0001286_ORF2:gid:RDO1:pid:ALS30794.1:loc:2965:3822:strand:+ -            176   2.8e-10   40.6   0.0   1   1     2e-13   1.9e-09   37.9   0.0     2   128    54   169    53   169 0.78 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Lyase_1              PF00206.23   312 BGC0001286_ORF3:gid:TAD1:pid:ALS30796.1:loc:4311:5793:strand:- -            493   1.3e-39  136.6   0.0   1   1   2.1e-43   2.1e-39  135.9   0.0     7   310    60   343    58   345 0.89 Lyase
+ADSL_C               PF10397.12    77 BGC0001286_ORF3:gid:TAD1:pid:ALS30796.1:loc:4311:5793:strand:- -            493   2.3e-20   73.2   0.1   1   1   1.8e-23   1.8e-19   70.3   0.0     1    77   409   486   409   486 0.97 Adenylosuccinate lyase C-terminus
+MFS_1                PF07690.19   353 BGC0001286_ORF4:gid:ITP1:pid:ALS30797.1:loc:6812:8639:strand:- -            491   1.4e-48  165.8  28.5   1   1   1.4e-52   1.4e-48  165.8  28.5     2   352    53   443    52   444 0.81 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001286_ORF4:gid:ITP1:pid:ALS30797.1:loc:6812:8639:strand:- -            491   4.7e-11   42.4   5.9   1   1   4.8e-15   4.7e-11   42.4   5.9    43   203    79   234    22   254 0.87 Sugar (and other) transporter
+PrpF                 PF04303.16   384 BGC0001286_ORF5:gid:ADI1:pid:ALS30798.1:loc:9922:11337:strand:+ -            443   2.1e-87  293.6   0.1   1   1   1.5e-91   2.9e-87  293.1   0.1     4   382     5   359     2   361 0.92 PrpF protein
+Mito_carr            PF00153.30    97 BGC0001286_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   9.7e-57  189.0   3.3   1   3   4.3e-22   8.3e-18   64.2   0.0     3    96     8   102     6   103 0.92 Mitochondrial carrier protein
+Mito_carr            PF00153.30    97 BGC0001286_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   9.7e-57  189.0   3.3   2   3   1.8e-20   3.5e-16   59.0   0.0     3    96   107   201   105   202 0.94 Mitochondrial carrier protein
+Mito_carr            PF00153.30    97 BGC0001286_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   9.7e-57  189.0   3.3   3   3   1.6e-22   3.2e-18   65.6   0.3     3    92   209   294   207   298 0.91 Mitochondrial carrier protein
+HLH                  PF00010.29    54 BGC0001286_ORF7:gid:RIA1:pid:ALS30795.1:loc:13712:14958:strand:- -            381   4.6e-08   33.0   0.3   1   1   2.4e-12   4.6e-08   33.0   0.3     2    53    92   142    91   143 0.96 Helix-loop-helix DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001286.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001286.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001286.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:24:24 2023
+# [ok]

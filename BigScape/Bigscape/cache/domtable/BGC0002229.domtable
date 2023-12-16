@@ -1,0 +1,26 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002229_ORF1:gid::pid:OJJ97578.1:loc:510:5760:strand:- -           1749   9.4e-80  267.9   0.1   1   1   7.5e-83   1.9e-79  267.0   0.1     9   253     1   243     1   243 0.97 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002229_ORF1:gid::pid:OJJ97578.1:loc:510:5760:strand:- -           1749   5.3e-65  220.1   0.5   1   1   3.9e-68   9.6e-65  219.3   0.5     1   318   528   843   528   844 0.96 Acyl transferase domain
+KR                   PF08659.13   180 BGC0002229_ORF1:gid::pid:OJJ97578.1:loc:510:5760:strand:- -           1749   2.7e-56  190.4   0.0   1   1   3.1e-59   7.7e-56  189.0   0.0     1   179  1380  1573  1380  1574 0.95 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002229_ORF1:gid::pid:OJJ97578.1:loc:510:5760:strand:- -           1749     4e-40  136.6   1.6   1   1   4.6e-43   1.1e-39  135.2   1.6     1   118   251   368   251   369 0.98 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0002229_ORF1:gid::pid:OJJ97578.1:loc:510:5760:strand:- -           1749   2.8e-16   59.8   1.8   1   1   4.5e-19   1.1e-15   57.8   0.3     1   291   888  1160   888  1163 0.79 Polyketide synthase dehydratase
+KAsynt_C_assoc       PF16197.8    112 BGC0002229_ORF1:gid::pid:OJJ97578.1:loc:510:5760:strand:- -           1749     2e-13   50.9   0.0   1   1     2e-16   4.8e-13   49.7   0.0     3   112   373   490   372   490 0.87 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.28    67 BGC0002229_ORF1:gid::pid:OJJ97578.1:loc:510:5760:strand:- -           1749   2.9e-11   43.6   0.0   1   1   2.6e-14   6.4e-11   42.5   0.0     2    66  1676  1741  1675  1742 0.92 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0002229_ORF3:gid::pid:OJJ97580.1:loc:8743:10567:strand:+ -            529   3.8e-74  250.2   0.0   1   1   2.3e-78   4.6e-74  250.0   0.0     1   451    39   491    39   502 0.89 Cytochrome P450
+Amidohydro_2         PF04909.17   288 BGC0002229_ORF4:gid::pid:OJJ97581.1:loc:10940:11990:strand:+ -            330   3.6e-34  119.0   3.0   1   1   2.1e-38   4.2e-34  118.7   3.0     1   287     3   317     3   318 0.88 Amidohydrolase
+p450                 PF00067.25   463 BGC0002229_ORF5:gid::pid:OJJ97582.1:loc:12647:14493:strand:+ -            531   4.2e-71  240.2   0.0   1   1   2.7e-75   5.3e-71  239.9   0.0     1   449    33   484    33   500 0.87 Cytochrome P450
+Peptidase_S10        PF00450.25   421 BGC0002229_ORF6:gid::pid:OJJ97583.1:loc:17963:19812:strand:+ -            553   3.2e-78  264.1   0.0   1   1   2.8e-82   5.5e-78  263.3   0.0     9   419    82   547    75   549 0.91 Serine carboxypeptidase
+GMC_oxred_N          PF00732.22   296 BGC0002229_ORF7:gid::pid:OJJ97584.1:loc:20542:22108:strand:- -            521   1.3e-48  166.0   0.0   1   1   1.9e-52   1.9e-48  165.5   0.0     1   294     5   273     5   275 0.96 GMC oxidoreductase
+GMC_oxred_C          PF05199.16   145 BGC0002229_ORF7:gid::pid:OJJ97584.1:loc:20542:22108:strand:- -            521   1.9e-31  109.6   0.1   1   1   3.3e-35   3.3e-31  108.9   0.1     1   144   377   513   377   514 0.92 GMC oxidoreductase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002229.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002229.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002229.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:04:44 2023
+# [ok]

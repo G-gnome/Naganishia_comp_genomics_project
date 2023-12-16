@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="156.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="146.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ectD (NAI38-5748)
+ectoine dioxygenase</title>
+			<polygon class="ectD (NAI38-5748)
+ectoine dioxygenase" points="46,25 46,25 46,10 16,40 46,70 46,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="20,40 32,28 40,28 40,52 32,52" stroke-linejoin="round" width="21" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectC (NAI38-5749)
+EctC</title>
+			<polygon class="ectC (NAI38-5749)
+EctC" points="49,40 62,10 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="52,40 58,28 62,28 62,52 58,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectB (NAI38-5750)
+diaminobutyrate--2-oxoglutarate transaminase</title>
+			<polygon class="ectB (NAI38-5750)
+diaminobutyrate--2-oxoglutarate transaminase" points="106,25 94,25 94,10 64,40 94,70 94,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="68,40 80,28 103,28 103,52 80,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ectA (NAI38-5751)
+L-2,4-diaminobutyric acid acetyltransferase</title>
+			<polygon class="ectA (NAI38-5751)
+L-2,4-diaminobutyric acid acetyltransferase" points="111,40 130,10 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="115,40 123,28 126,28 126,52 123,52 115,40" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

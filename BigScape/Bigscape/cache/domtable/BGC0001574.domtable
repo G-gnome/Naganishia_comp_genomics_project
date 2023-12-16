@@ -1,0 +1,42 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0001574_ORF1:gid::pid:ATY72541.1:loc:2574:4029:strand:+ -            484   3.3e-48  164.5  48.4   1   1   1.7e-52   3.3e-48  164.5  48.4     2   352    40   433    39   434 0.94 Major Facilitator Superfamily
+ACP_syn_III_C        PF08541.13    90 BGC0001574_ORF2:gid::pid:ATY72540.1:loc:4131:5229:strand:+ -            365   1.6e-33  114.9   0.0   1   1   3.8e-37   3.8e-33  113.6   0.0     3    90   260   347   258   347 0.97 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.13    80 BGC0001574_ORF2:gid::pid:ATY72540.1:loc:4131:5229:strand:+ -            365   2.7e-28   97.8   1.9   1   1   6.7e-32   6.5e-28   96.5   0.6     1    80   126   206   126   206 0.97 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+PP-binding           PF00550.28    67 BGC0001574_ORF3:gid::pid:ATY72539.1:loc:5225:5462:strand:+ -             78   5.8e-10   39.5   1.1   1   1   3.3e-14   6.6e-10   39.3   1.1     2    67     7    72     6    72 0.91 Phosphopantetheine attachment site
+TauD                 PF02668.19   268 BGC0001574_ORF4:gid::pid:ATY72528.1:loc:5491:6379:strand:+ -            295   1.4e-36  126.8   0.0   1   1   8.5e-41   1.7e-36  126.6   0.0     8   256    10   270     2   282 0.91 Taurine catabolism dioxygenase TauD, TfdA family
+FcoT                 PF10862.11   156 BGC0001574_ORF5:gid::pid:ATY72538.1:loc:6375:6909:strand:+ -            177   2.1e-61  206.2   0.0   1   1   1.2e-65   2.5e-61  206.0   0.0     1   156    21   173    21   173 0.97 FcoT-like thioesterase domain
+AMP-binding          PF00501.31   424 BGC0001574_ORF6:gid::pid:ATY72527.1:loc:7018:8611:strand:+ -            530   1.5e-92  310.6   0.0   1   1   1.9e-96   1.8e-92  310.3   0.0     4   423    29   427    26   428 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001574_ORF6:gid::pid:ATY72527.1:loc:7018:8611:strand:+ -            530     1e-20   74.6   0.1   1   1   2.6e-24   2.5e-20   73.3   0.1     1    76   436   511   436   511 0.98 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001574_ORF7:gid::pid:ATY72526.1:loc:8653:8911:strand:+ -             85   4.8e-05   23.7   0.1   1   1   2.6e-09   5.2e-05   23.6   0.1     4    63    11    69     8    73 0.90 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001574_ORF8:gid::pid:ATY72525.1:loc:8897:13178:strand:+ -           1426   2.4e-73  247.3   0.0   1   1   1.5e-76   3.7e-73  246.7   0.0     3   423   459   841   457   842 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001574_ORF8:gid::pid:ATY72525.1:loc:8897:13178:strand:+ -           1426   2.8e-60  204.4   0.0   1   1   1.6e-63   3.8e-60  204.0   0.0     5   445    11   435     7   440 0.94 Condensation domain
+NAD_binding_4        PF07993.15   257 BGC0001574_ORF8:gid::pid:ATY72525.1:loc:8897:13178:strand:+ -           1426   9.9e-58  195.4   0.0   1   1   5.6e-61   1.4e-57  195.0   0.0     1   256  1064  1296  1064  1297 0.95 Male sterility protein
+AMP-binding_C        PF13193.9     76 BGC0001574_ORF8:gid::pid:ATY72525.1:loc:8897:13178:strand:+ -           1426   1.6e-17   64.4   0.8   1   1   2.1e-20   5.2e-17   62.7   0.8     1    76   850   924   850   924 0.92 AMP-binding enzyme C-terminal domain
+Epimerase            PF01370.24   241 BGC0001574_ORF8:gid::pid:ATY72525.1:loc:8897:13178:strand:+ -           1426     1e-13   51.5   0.0   1   1   1.8e-16   4.4e-13   49.4   0.0     1   182  1062  1259  1062  1270 0.79 NAD dependent epimerase/dehydratase family
+PP-binding           PF00550.28    67 BGC0001574_ORF8:gid::pid:ATY72525.1:loc:8897:13178:strand:+ -           1426   2.1e-12   47.3   0.0   1   1     2e-15   4.8e-12   46.1   0.0     2    67   950  1013   949  1013 0.95 Phosphopantetheine attachment site
+Peripla_BP_2         PF01497.21   237 BGC0001574_ORF9:gid::pid:ATY72537.1:loc:13303:14296:strand:+ -            330   1.9e-26   93.1   0.1   1   1   1.3e-30   2.5e-26   92.7   0.1     9   234    60   302    55   305 0.89 Periplasmic binding protein
+FecCD                PF01032.21   312 BGC0001574_ORF10:gid::pid:ATY72536.1:loc:14346:15309:strand:+ -            320   3.9e-98  328.4  32.3   1   1  4.4e-102   4.3e-98  328.3  32.3     8   312     2   313     1   313 0.99 FecCD transport family
+ABC-3                PF00950.20   258 BGC0001574_ORF10:gid::pid:ATY72536.1:loc:14346:15309:strand:+ -            320   0.00038   20.2  16.5   1   1   3.9e-08   0.00038   20.2  16.5    52   240    99   292    80   310 0.79 ABC 3 transport family
+ABC_tran             PF00005.30   137 BGC0001574_ORF11:gid::pid:ATY72535.1:loc:15305:16109:strand:+ -            267   9.4e-27   94.3   0.0   1   1   1.8e-30   1.2e-26   94.0   0.0     1   137    18   168    18   168 0.90 ABC transporter
+Zeta_toxin           PF06414.15   201 BGC0001574_ORF11:gid::pid:ATY72535.1:loc:15305:16109:strand:+ -            267   3.4e-06   26.7   0.0   1   1   8.1e-10   5.3e-06   26.1   0.0    21    65    33    77    20    86 0.88 Zeta toxin
+Asp_Arg_Hydrox       PF05118.18   156 BGC0001574_ORF12:gid::pid:ATY72542.1:loc:16157:16919:strand:+ -            253   1.4e-43  148.6   0.1   1   1   1.1e-47   2.1e-43  148.0   0.1     4   156    77   229    74   229 0.95 Aspartyl/Asparaginyl beta-hydroxylase
+DJ-1_PfpI            PF01965.27   165 BGC0001574_ORF13:gid::pid:ATY72534.1:loc:16980:17754:strand:- -            257     2e-28   99.4   0.1   1   1   1.3e-32   2.6e-28   99.0   0.1     2   164    54   224    53   225 0.84 DJ-1/PfpI family
+Peripla_BP_4         PF13407.9    259 BGC0001574_ORF14:gid::pid:ATY72533.1:loc:18088:19090:strand:+ -            333   4.2e-40  138.1   0.0   1   1   2.4e-44   4.8e-40  137.9   0.0    26   258    50   288    25   289 0.90 Periplasmic binding protein domain
+ABC_tran             PF00005.30   137 BGC0001574_ORF15:gid::pid:ATY72532.1:loc:19086:20622:strand:+ -            511     1e-39  136.3   0.0   1   2   3.9e-29   3.8e-25   89.1   0.0     2   137    29   178    28   178 0.97 ABC transporter
+ABC_tran             PF00005.30   137 BGC0001574_ORF15:gid::pid:ATY72532.1:loc:19086:20622:strand:+ -            511     1e-39  136.3   0.0   2   2   1.6e-15   1.6e-11   45.0   0.0     2   131   281   429   280   433 0.86 ABC transporter
+BPD_transp_2         PF02653.19   270 BGC0001574_ORF16:gid::pid:ATY72531.1:loc:20621:21665:strand:+ -            347   2.5e-30  105.7  32.2   1   1   2.2e-34   4.2e-30  105.0  32.2     2   270    61   335    60   335 0.93 Branched-chain amino acid transport system / permease component
+Sigma70_r2           PF04542.17    71 BGC0001574_ORF18:gid::pid:ATY72529.1:loc:23307:24000:strand:+ -            230   2.5e-16   59.3   2.5   1   1   3.8e-20   2.5e-16   59.3   2.5     1    71    36   105    36   105 0.96 Sigma-70 region 2
+Sigma70_r4_2         PF08281.15    54 BGC0001574_ORF18:gid::pid:ATY72529.1:loc:23307:24000:strand:+ -            230   1.1e-15   57.1   0.1   1   1   3.3e-19   2.1e-15   56.2   0.1     2    54   136   188   135   188 0.96 Sigma-70, region 4
+Sigma70_r4           PF04545.19    50 BGC0001574_ORF18:gid::pid:ATY72529.1:loc:23307:24000:strand:+ -            230   2.1e-10   40.1   0.4   1   1   3.2e-14   2.1e-10   40.1   0.4     1    50   141   190   141   190 0.98 Sigma-70, region 4
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001574.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001574.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001574.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:13:33 2023
+# [ok]

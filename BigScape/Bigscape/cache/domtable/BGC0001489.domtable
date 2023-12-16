@@ -1,0 +1,30 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.22   349 BGC0001489_ORF1:gid::pid:AUW31182.1:loc:3:1889:strand:- -            574     2e-79  267.5   0.0   1   1   3.2e-83   3.2e-79  266.9   0.0     1   348     4   358     4   359 0.91 FAD binding domain
+Phe_hydrox_dim       PF07976.15   167 BGC0001489_ORF1:gid::pid:AUW31182.1:loc:3:1889:strand:- -            574   3.1e-48  164.1   0.0   1   1   5.6e-52   5.5e-48  163.3   0.0     1   167   395   562   395   562 0.97 Phenol hydroxylase, C-terminal dimerisation domain
+KR                   PF08659.13   180 BGC0001489_ORF2:gid::pid:AUW31183.1:loc:2599:5536:strand:- -            946   7.3e-58  195.5   0.3   1   1   2.2e-61   1.4e-57  194.6   0.0     1   178   662   836   662   837 0.98 KR domain
+PS-DH                PF14765.9    297 BGC0001489_ORF2:gid::pid:AUW31183.1:loc:2599:5536:strand:- -            946   9.1e-34  117.2   0.0   1   1   1.9e-37   1.3e-33  116.7   0.0    49   291     1   235     1   241 0.88 Polyketide synthase dehydratase
+adh_short            PF00106.28   195 BGC0001489_ORF2:gid::pid:AUW31183.1:loc:2599:5536:strand:- -            946   1.7e-06   27.8   0.0   1   1   4.8e-10   3.2e-06   26.9   0.0     4   159   665   817   662   833 0.81 short chain dehydrogenase
+ketoacyl-synt        PF00109.29   253 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152   1.3e-75  254.4   0.0   1   1   1.2e-78   2.9e-75  253.3   0.0     3   253   373   621   371   621 0.93 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.8    240 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152   9.6e-68  228.5   2.5   1   1     2e-69   4.8e-66  222.9   0.1     1   240     8   244     8   244 0.98 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Ketoacyl-synt_C      PF02801.25   119 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152     2e-33  115.0   0.3   1   1   1.9e-36   4.8e-33  113.8   0.3     2   118   630   749   629   750 0.97 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152   6.8e-33  114.6   0.0   1   1   8.8e-36   2.2e-32  113.0   0.0     2   297   902  1201   901  1220 0.87 Acyl transferase domain
+Thioesterase         PF00975.23   230 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152   9.7e-23   81.6   0.0   1   1   3.5e-25   8.5e-22   78.5   0.0     2   215  1919  2142  1918  2148 0.70 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152   2.6e-22   79.0   5.9   1   2   1.7e-13   4.1e-10   40.0   0.3     4    62  1665  1723  1662  1728 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152   2.6e-22   79.0   5.9   2   2   7.4e-14   1.8e-10   41.1   0.2     1    62  1781  1842  1781  1844 0.95 Phosphopantetheine attachment site
+PS-DH                PF14765.9    297 BGC0001489_ORF3:gid::pid:AUW31184.1:loc:6677:13483:strand:+ -           2152   4.2e-12   46.0   0.0   1   1     3e-15   7.4e-12   45.2   0.0    30   292  1312  1589  1294  1594 0.83 Polyketide synthase dehydratase
+Trp_halogenase       PF04820.17   454 BGC0001489_ORF5:gid::pid:AUW31186.1:loc:18577:20658:strand:+ -            540   1.3e-20   73.8   0.0   1   2   5.3e-16   5.2e-12   45.5   0.0     2    94     9    95     8   104 0.90 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0001489_ORF5:gid::pid:AUW31186.1:loc:18577:20658:strand:+ -            540   1.3e-20   73.8   0.0   2   2   4.3e-10   4.3e-06   26.0   0.0   198   342   171   323    97   361 0.65 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0001489_ORF5:gid::pid:AUW31186.1:loc:18577:20658:strand:+ -            540   1.8e-09   37.4   0.0   1   1   2.6e-13   2.5e-09   37.0   0.0     1   135     6   138     6   194 0.79 FAD binding domain
+Methyltransf_2       PF00891.21   210 BGC0001489_ORF6:gid::pid:AUW31187.1:loc:21334:22742:strand:- -            382   5.7e-15   55.3   0.0   1   1   5.3e-15     1e-10   41.4   0.0   126   208   278   360   272   362 0.90 O-methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001489.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001489.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001489.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:18:23 2023
+# [ok]

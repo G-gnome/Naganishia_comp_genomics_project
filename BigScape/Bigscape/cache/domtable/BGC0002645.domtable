@@ -1,0 +1,30 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_31      PF13847.9    152 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   3.2e-19   69.4   0.0   1   1   2.3e-22   4.5e-19   68.9   0.0     4   130   177   296   174   338 0.80 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   9.3e-16   58.4   0.1   1   1   1.2e-18   2.3e-15   57.1   0.1     1    97   180   274   180   274 0.90 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   3.7e-14   53.4   0.0   1   1   5.4e-17   1.1e-13   51.9   0.0     1    98   181   275   181   276 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   5.8e-14   52.4   0.0   1   1   9.4e-17   1.8e-13   50.7   0.0    13   161   167   337   155   339 0.73 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   8.6e-13   48.9   0.1   1   1   8.9e-16   1.7e-12   47.9   0.1     1    94   181   276   181   278 0.94 Methyltransferase domain
+MTS                  PF05175.17   170 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   1.1e-11   44.7   0.0   1   1     9e-15   1.8e-11   44.1   0.0    31   139   176   279   167   302 0.82 Methyltransferase small domain
+PrmA                 PF06325.16   295 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357     2e-08   34.1   0.0   1   1   1.5e-11   2.9e-08   33.6   0.0   152   234   167   252   163   281 0.73 Ribosomal protein L11 methyltransferase (PrmA)
+Ubie_methyltran      PF01209.21   233 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   3.5e-06   26.6   0.0   1   1   2.9e-09   5.6e-06   26.0   0.0    46   171   175   296   146   341 0.72 ubiE/COQ5 methyltransferase family
+UPF0020              PF01170.21   197 BGC0002645_ORF1:gid::pid:AAG06903.1:loc:0:1074:strand:- -            357   3.2e-05   23.8   0.0   1   1   3.4e-08   6.7e-05   22.8   0.0    70   125   194   247   166   266 0.86 Putative RNA methylase family UPF0020
+Lyase_1              PF00206.23   312 BGC0002645_ORF2:gid::pid:AAG06904.1:loc:1123:2575:strand:- -            483   2.6e-42  145.4   0.0   1   1   4.6e-46   4.5e-42  144.7   0.0    11   305    53   327    47   336 0.88 Lyase
+ADSL_C               PF10397.12    77 BGC0002645_ORF2:gid::pid:AAG06904.1:loc:1123:2575:strand:- -            483   3.6e-12   46.9   0.1   1   1   2.2e-15   2.2e-11   44.4   0.0     3    77   400   475   398   475 0.94 Adenylosuccinate lyase C-terminus
+Lyase_1              PF00206.23   312 BGC0002645_ORF3:gid::pid:AAG06905.1:loc:2574:4008:strand:- -            477   3.6e-42  145.0   0.0   1   1   8.5e-46   8.4e-42  143.8   0.0     7   308    17   298    13   302 0.86 Lyase
+ADSL_C               PF10397.12    77 BGC0002645_ORF3:gid::pid:AAG06905.1:loc:2574:4008:strand:- -            477   4.9e-16   59.3   0.0   1   1   1.3e-19   1.2e-15   58.0   0.0     1    75   367   442   367   444 0.94 Adenylosuccinate lyase C-terminus
+HOASN                PF14515.9     93 BGC0002645_ORF4:gid::pid:AAG06906.1:loc:4038:5025:strand:- -            328   4.1e-51  171.5   3.0   1   1   4.2e-55   4.1e-51  171.5   3.0     1    93     1    93     1    93 1.00 Haem-oxygenase-associated N-terminal helices
+Haem_oxygenas_2      PF14518.9    178 BGC0002645_ORF4:gid::pid:AAG06906.1:loc:4038:5025:strand:- -            328   7.3e-14   52.1   1.2   1   1   1.7e-17   1.7e-13   50.9   1.2    15   138   155   276   141   278 0.84 Iron-containing redox enzyme
+HOASN                PF14515.9     93 BGC0002645_ORF5:gid::pid:AAG06907.1:loc:5057:6095:strand:- -            345   9.4e-45  151.1   0.3   1   1   1.6e-48   1.6e-44  150.4   0.3     1    93    19   106    19   106 0.99 Haem-oxygenase-associated N-terminal helices
+Haem_oxygenas_2      PF14518.9    178 BGC0002645_ORF5:gid::pid:AAG06907.1:loc:5057:6095:strand:- -            345   3.5e-14   53.1   1.2   1   1   6.1e-18     6e-14   52.4   1.2     1   172   154   321   154   326 0.81 Iron-containing redox enzyme
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002645.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002645.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002645.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:01:36 2023
+# [ok]

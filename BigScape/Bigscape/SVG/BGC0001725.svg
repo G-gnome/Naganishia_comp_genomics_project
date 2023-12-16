@@ -1,0 +1,36 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="246.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="236.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>oxsA</title>
+			<polygon class="oxsA" points="67,10 86,40 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YfbR-like (PF12917)
+"5'-deoxynucleotidase YfbR-like"</title>
+				<polygon class="PF12917" points="67,28 75,28 82,40 75,52 67,52" stroke-linejoin="round" width="18" height="24" fill="rgb(196,97,191)" stroke="rgb(156,77,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>oxsB</title>
+			<polygon class="oxsB" points="87,25 131,25 131,10 161,40 131,70 131,55 87,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>oxrB</title>
+			<polygon class="oxrB" points="194,25 192,25 192,10 162,40 192,70 192,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HD (PF01966)
+"HD domain"</title>
+				<rect class="PF01966" x="179" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(92,193,119)" stroke="rgb(73,154,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>oxrA</title>
+			<polygon class="oxrA" points="204,40 222,10 222,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pentapeptide (PF00805)
+"Pentapeptide repeats (8 copies)"</title>
+				<polygon class="PF00805" points="208,40 210,37 210,43" stroke-linejoin="round" width="3" height="24" fill="rgb(186,52,164)" stroke="rgb(148,41,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

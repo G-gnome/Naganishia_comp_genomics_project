@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ADH_N                PF08240.15   109 BGC0002639_ORF1:gid::pid:EFQ48785.1:loc:0:930:strand:- -            309   3.4e-16   59.2   0.5   1   1   1.2e-19   1.2e-15   57.5   0.5     5   106    22   108    19   111 0.91 Alcohol dehydrogenase GroES-like domain
+AMP-binding          PF00501.31   424 BGC0002639_ORF2:gid::pid:EFQ48770.1:loc:917:3977:strand:- -           1019   2.6e-69  234.0   0.0   1   1   6.1e-73     4e-69  233.4   0.0    11   423    15   393     5   394 0.85 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0002639_ORF2:gid::pid:EFQ48770.1:loc:917:3977:strand:- -           1019   8.8e-12   45.3   0.0   1   1   3.8e-15   2.5e-11   43.8   0.0     1    66   493   556   493   557 0.92 Phosphopantetheine attachment site
+Condensation         PF00668.23   457 BGC0002639_ORF2:gid::pid:EFQ48770.1:loc:917:3977:strand:- -           1019   3.6e-09   35.9   0.5   1   1   5.6e-13   3.6e-09   35.9   0.5    48   181   678   808   662   814 0.90 Condensation domain
+Glycos_transf_3      PF00591.24   253 BGC0002639_ORF3:gid::pid:EFQ48811.1:loc:3973:5032:strand:- -            352   8.3e-16   58.5   0.2   1   1   7.1e-20   1.4e-15   57.7   0.2     9   251    96   339    89   341 0.82 Glycosyl transferase family, a/b domain
+tRNA-synt_1b         PF00579.28   293 BGC0002639_ORF4:gid::pid:EFQ48866.1:loc:5024:6056:strand:- -            343   1.6e-11   44.2   4.2   1   1   9.4e-15   1.8e-10   40.7   4.2     7   286    59   336    53   342 0.73 tRNA synthetases class I (W and Y)
+MFS_1                PF07690.19   353 BGC0002639_ORF5:gid::pid:EFQ48788.1:loc:6056:7262:strand:- -            401   9.1e-22   77.6  12.5   1   1   9.3e-26   9.1e-22   77.6  12.5    42   345    52   354    11   362 0.84 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0002639_ORF5:gid::pid:EFQ48788.1:loc:6056:7262:strand:- -            401   1.1e-19   70.4   9.5   1   1   1.4e-23   1.4e-19   70.1   9.5    11   393     8   395     4   400 0.75 Transmembrane secretion effector
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002639.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002639.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002639.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:01:09 2023
+# [ok]

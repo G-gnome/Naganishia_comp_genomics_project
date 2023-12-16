@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Zn_clus              PF00172.21    40 BGC0002158_ORF1:gid::pid:EHA53210.1:loc:177:2585:strand:+ -            771   5.9e-11   42.4   7.5   1   1   1.8e-14   1.8e-10   40.9   7.5     1    37    52    87    52    90 0.89 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Fungal_trans         PF04082.21   267 BGC0002158_ORF1:gid::pid:EHA53210.1:loc:177:2585:strand:+ -            771   1.7e-05   24.1   0.0   1   1   2.4e-09   2.4e-05   23.7   0.0     4   229   214   445   211   474 0.75 Fungal specific transcription factor domain
+MFS_1                PF07690.19   353 BGC0002158_ORF3:gid::pid:EHA53212.1:loc:4043:5480:strand:- -            427   4.4e-41  141.1  62.4   1   2   7.7e-37   1.5e-32  113.0  36.3     4   352    21   381    13   382 0.83 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0002158_ORF3:gid::pid:EHA53212.1:loc:4043:5480:strand:- -            427   4.4e-41  141.1  62.4   2   2   3.1e-15   6.1e-11   42.0  18.1    36   167   280   412   272   422 0.80 Major Facilitator Superfamily
+AMP-binding          PF00501.31   424 BGC0002158_ORF4:gid::pid:EHA53213.1:loc:7152:13328:strand:+ -           1728   8.8e-85  285.0   0.0   1   1     4e-88   1.3e-84  284.4   0.0     2   419   608  1002   607  1007 0.87 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0002158_ORF4:gid::pid:EHA53213.1:loc:7152:13328:strand:+ -           1728   2.6e-51  174.8   0.2   1   1   1.4e-54   4.5e-51  174.0   0.2     5   253  1266  1519  1265  1519 0.82 Beta-ketoacyl synthase, N-terminal domain
+Condensation         PF00668.23   457 BGC0002158_ORF4:gid::pid:EHA53213.1:loc:7152:13328:strand:+ -           1728   6.2e-24   84.6   0.5   1   1   2.9e-27   9.5e-24   84.0   0.5     5   356   153   499   151   515 0.75 Condensation domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002158_ORF4:gid::pid:EHA53213.1:loc:7152:13328:strand:+ -           1728   3.1e-23   82.2   0.0   1   1   2.5e-26   8.3e-23   80.8   0.0     1   118  1527  1661  1527  1662 0.95 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002158_ORF4:gid::pid:EHA53213.1:loc:7152:13328:strand:+ -           1728   6.6e-08   32.9   0.0   1   1   6.5e-11   2.1e-07   31.3   0.0     2    66  1149  1214  1148  1215 0.88 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002158.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002158.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002158.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:06:31 2023
+# [ok]

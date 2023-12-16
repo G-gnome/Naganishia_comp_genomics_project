@@ -1,0 +1,19 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_N      PF04413.19   178 BGC0000779_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:- -            421   1.3e-62  210.6   0.4   1   1     1e-65     1e-61  207.8   0.1     2   178    35   211    34   211 0.97 3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)
+Glycos_transf_1      PF00534.23   172 BGC0000779_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:- -            421   1.1e-07   31.7   0.0   1   1   2.5e-11   2.5e-07   30.5   0.0    32   171   247   398   239   399 0.82 Glycosyl transferases group 1
+Glyco_transf_9       PF01075.20   249 BGC0000779_ORF2:gid:wahF:pid:ACA14481.1:loc:1586:2741:strand:- -            384   5.5e-70  235.6   0.0   1   1   3.4e-74   6.6e-70  235.4   0.0     1   248    82   335    82   336 0.98 Glycosyltransferase family 9 (heptosyltransferase)
+Glycos_transf_2      PF00535.29   170 BGC0000779_ORF3:gid:waaE:pid:ACA14482.1:loc:2943:3732:strand:+ -            262   6.5e-17   62.0   0.1   1   1     1e-20     1e-16   61.3   0.0     3   132     9   128     7   175 0.88 Glycosyl transferase family 2
+Glyco_transf_9       PF01075.20   249 BGC0000779_ORF4:gid:waaF:pid:ACA14483.1:loc:3793:4837:strand:- -            347   1.6e-16   60.5   0.0   1   1   1.1e-20   2.2e-16   60.1   0.0     2   227    68   307    67   323 0.80 Glycosyltransferase family 9 (heptosyltransferase)
+CTP_transf_like      PF01467.29   143 BGC0000779_ORF5:gid:coaD:pid:ACA14484.1:loc:4905:5553:strand:+ -            215   3.2e-21   76.2   0.0   1   1     2e-25   3.9e-21   75.9   0.0     1   142    61   189    61   190 0.97 Cytidylyltransferase-like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000779.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000779.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000779.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:27:43 2023
+# [ok]

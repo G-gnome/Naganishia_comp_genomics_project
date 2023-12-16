@@ -1,0 +1,17 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5970              PF19395.2     77 BGC0000616_ORF1:gid::pid:ABS75250.1:loc:0:222:strand:- -             73   1.9e-27   95.6  14.2   1   1     1e-31     2e-27   95.5  14.2     8    77     4    73     1    73 0.97 Family of unknown function (DUF5970)
+SpoIIM               PF01944.20   156 BGC0000616_ORF2:gid::pid:ABS75251.1:loc:238:688:strand:- -            149   3.7e-22   79.2  17.4   1   1   2.1e-26     4e-22   79.1  17.4    29   156    14   146     1   146 0.84 Stage II sporulation protein M
+ABC_tran             PF00005.30   137 BGC0000616_ORF3:gid::pid:ABS75252.1:loc:762:1467:strand:- -            234   1.9e-32  112.8   0.0   1   1     3e-36     3e-32  112.1   0.0     1   136    17   161    17   162 0.95 ABC transporter
+Bacteriocin_IId      PF09221.13    67 BGC0000616_ORF5:gid::pid:ABS75254.1:loc:3197:3536:strand:- -            112   5.8e-21   74.6  17.1   1   1     3e-25   5.8e-21   74.6  17.1     1    67    50   112    50   112 0.99 Bacteriocin class IId cyclical uberolysin-like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000616.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000616.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000616.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:03:08 2023
+# [ok]

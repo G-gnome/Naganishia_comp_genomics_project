@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA-synt_1b         PF00579.28   293 BGC0001206_ORF1:gid:ind0:pid:AJT38681.1:loc:861:1827:strand:- -            321   8.5e-53  179.7   0.0   1   1   5.3e-57     1e-52  179.4   0.0     9   291     4   274     1   278 0.91 tRNA synthetases class I (W and Y)
+Methyltransf_25      PF13649.9     97 BGC0001206_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   2.7e-13   50.5   0.0   1   1   2.5e-16   9.7e-13   48.7   0.1     1    87   153   242   153   248 0.85 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001206_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   7.3e-10   39.0   0.0   1   1   3.3e-13   1.3e-09   38.2   0.0     7   108   134   247   129   306 0.73 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001206_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   1.9e-08   35.0   0.1   1   1   8.8e-12   3.4e-08   34.1   0.1     2    86   155   242   154   247 0.89 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001206_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   9.7e-08   32.1   0.0   1   1   3.3e-11   1.3e-07   31.6   0.0     4    81   150   225   147   288 0.82 Methyltransferase domain
+Methyltransf_2       PF00891.21   210 BGC0001206_ORF2:gid:ind1:pid:AJT38682.1:loc:2493:3483:strand:+ -            329   3.9e-05   23.2   0.0   1   1   1.3e-08   5.3e-05   22.8   0.0    56   209   142   301   127   302 0.78 O-methyltransferase domain
+Aminotran_1_2        PF00155.24   363 BGC0001206_ORF5:gid:ind4:pid:AJT38685.1:loc:6603:7755:strand:+ -            383   1.2e-14   54.5   0.0   1   1   6.5e-19   1.3e-14   54.3   0.0     4   348    19   353    16   367 0.84 Aminotransferase class I and II
+2-Hacid_dh_C         PF02826.22   178 BGC0001206_ORF6:gid:ind5:pid:AJT38686.1:loc:7751:8711:strand:+ -            319   1.2e-31  109.6   0.0   1   1   1.8e-35   1.8e-31  109.0   0.0     6   177   124   287   119   288 0.94 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+2-Hacid_dh           PF00389.33   134 BGC0001206_ORF6:gid:ind5:pid:AJT38686.1:loc:7751:8711:strand:+ -            319     2e-15   56.8   0.0   1   1   2.6e-19   2.5e-15   56.4   0.0    22   131    32   316    18   319 0.95 D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+Methyltransf_25      PF13649.9     97 BGC0001206_ORF8:gid:ind7:pid:AJT38688.1:loc:9352:10066:strand:+ -            237   1.2e-12   48.4   0.0   1   1   2.1e-16   2.1e-12   47.7   0.0     1    96    48   142    48   142 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001206_ORF8:gid:ind7:pid:AJT38688.1:loc:9352:10066:strand:+ -            237   1.9e-12   47.8   0.0   1   1   3.1e-16     3e-12   47.1   0.0     1    95    49   146    49   147 0.93 Methyltransferase domain
+Aminotran_1_2        PF00155.24   363 BGC0001206_ORF9:gid:ind8:pid:AJT38689.1:loc:10121:11207:strand:+ -            361     9e-41  140.4   0.0   1   1   5.7e-45   1.1e-40  140.1   0.0     5   361    37   353    34   355 0.90 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001206.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001206.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001206.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:59:30 2023
+# [ok]

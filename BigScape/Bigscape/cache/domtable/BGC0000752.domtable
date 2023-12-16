@@ -1,0 +1,23 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Poly_export          PF02563.19    82 BGC0000752_ORF1:gid:cpx6D:pid:AAT06392.1:loc:0:1088:strand:- -            363   1.1e-15   57.8   0.1   1   1   2.1e-19   4.2e-15   55.9   0.0     8    81    87   174    80   175 0.90 Polysaccharide biosynthesis/export protein
+Glyphos_transf       PF04464.17   367 BGC0000752_ORF2:gid:cps6A:pid:AAT06393.1:loc:1272:2409:strand:+ -            378   1.2e-10   41.1   0.3   1   1   1.2e-14   2.3e-10   40.1   0.3   162   293   130   257   114   268 0.76 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+CTP_transf_like      PF01467.29   143 BGC0000752_ORF3:gid:cps6B:pid:AAT06394.1:loc:2461:2890:strand:+ -            142   4.3e-22   79.0   0.4   1   1   1.3e-25   2.6e-21   76.5   0.4     1   105     5   101     5   125 0.83 Cytidylyltransferase-like
+Glyphos_transf       PF04464.17   367 BGC0000752_ORF5:gid:cps6D:pid:AAT06396.1:loc:4051:7009:strand:+ -            985   6.3e-68  229.5  18.1   1   2   1.2e-30     4e-27   95.3   5.4    35   301   145   402   123   416 0.82 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+Glyphos_transf       PF04464.17   367 BGC0000752_ORF5:gid:cps6D:pid:AAT06396.1:loc:4051:7009:strand:+ -            985   6.3e-68  229.5  18.1   2   2   3.8e-44   1.3e-40  139.7   4.8   179   365   450   622   443   623 0.89 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+Glycos_transf_1      PF00534.23   172 BGC0000752_ORF5:gid:cps6D:pid:AAT06396.1:loc:4051:7009:strand:+ -            985   3.7e-22   78.8   0.8   1   1   1.1e-25   3.7e-22   78.8   0.8    15   153   812   948   797   958 0.91 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 BGC0000752_ORF5:gid:cps6D:pid:AAT06396.1:loc:4051:7009:strand:+ -            985   2.7e-13   50.6   0.0   1   1     3e-16   9.8e-13   48.7   0.0    15   130   825   948   814   950 0.82 Glycosyl transferases group 1
+Glycos_transf_2      PF00535.29   170 BGC0000752_ORF6:gid:cps6E:pid:AAT06397.1:loc:7021:7893:strand:+ -            291   3.6e-28   98.6   0.2   1   1   8.4e-32   5.5e-28   98.0   0.2     1   166    19   178    19   181 0.84 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0000752_ORF6:gid:cps6E:pid:AAT06397.1:loc:7021:7893:strand:+ -            291   1.4e-11   44.6   0.2   1   1   2.8e-15   1.9e-11   44.1   0.2     1   107    19   119    19   236 0.84 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0000752_ORF6:gid:cps6E:pid:AAT06397.1:loc:7021:7893:strand:+ -            291   4.9e-09   36.5   0.0   1   1     1e-12   6.5e-09   36.1   0.0     4   138    18   149    15   186 0.80 Glycosyltransferase like family 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000752.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000752.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000752.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:06:48 2023
+# [ok]

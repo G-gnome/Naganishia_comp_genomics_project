@@ -1,0 +1,82 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="265.26666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="255.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tnp1
+transposase</title>
+			<polygon class="tnp1
+transposase" points="10,40 11,10 11,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>eciO
+oxidoreductase</title>
+			<polygon class="eciO
+oxidoreductase" points="39,10 63,40 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="39,28 50,28 59,40 50,52 39,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eciI
+EciI protein</title>
+			<polygon class="eciI
+EciI protein" points="66,10 72,40 66,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>eciA
+epicidin 280</title>
+			<polygon class="eciA
+epicidin 280" points="74,10 79,40 74,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Antimicrobial18 (PF08130)
+"Type A lantibiotic family"</title>
+				<polygon class="PF08130" points="74,27 76,40 74,53" stroke-linejoin="round" width="5" height="24" fill="rgb(76,69,195)" stroke="rgb(60,55,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eciP
+protease</title>
+			<polygon class="eciP
+protease" points="83,25 83,25 83,10 113,40 83,70 83,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="84,28 96,28 108,40 96,52 84,52" stroke-linejoin="round" width="26" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eciB
+EciB protein</title>
+			<polygon class="eciB
+EciB protein" points="112,25 179,25 179,10 209,40 179,70 179,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="116" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="164" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="184,28 193,28 205,40 193,52 184,52" stroke-linejoin="round" width="24" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>eciC
+EciC protein</title>
+			<polygon class="eciC
+EciC protein" points="209,25 218,25 218,10 248,40 218,70 218,55 209,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="212,28 232,28 244,40 232,52 212,52" stroke-linejoin="round" width="36" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

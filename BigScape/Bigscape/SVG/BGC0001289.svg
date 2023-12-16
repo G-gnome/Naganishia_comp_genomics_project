@@ -1,0 +1,109 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="374.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="364.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>penA1
+putative lantibiotic peptide</title>
+			<polygon class="penA1
+putative lantibiotic peptide" points="10,10 16,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>penA2
+putative lantibiotic peptide</title>
+			<polygon class="penA2
+putative lantibiotic peptide" points="19,10 25,40 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>penB
+lanthionine biosynthesis protein</title>
+			<polygon class="penB
+lanthionine biosynthesis protein" points="32,25 106,25 106,10 136,40 106,70 106,55 32,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="35" y="28" stroke-linejoin="round" width="65" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="108,28 119,28 131,40 119,52 108,52" stroke-linejoin="round" width="26" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>penT
+lantibiotic ABC transporter</title>
+			<polygon class="penT
+lantibiotic ABC transporter" points="136,25 168,25 168,10 198,40 168,70 168,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="139" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="174,28 182,28 189,35 189,45 182,52 174,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>penC
+lanthionine biosynthesis cyclase</title>
+			<polygon class="penC
+lanthionine biosynthesis cyclase" points="200,25 215,25 215,10 245,40 215,70 215,55 200,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="206,28 229,28 241,40 229,52 206,52" stroke-linejoin="round" width="39" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>penD
+dihydroxy-acid dehydratase</title>
+			<polygon class="penD
+dihydroxy-acid dehydratase" points="304,25 278,25 278,10 248,40 278,70 278,55 304,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ILVD_EDD (PF00920)
+"Dehydratase family"</title>
+				<polygon class="PF00920" points="252,40 264,28 300,28 300,52 264,52" stroke-linejoin="round" width="52" height="24" fill="rgb(58,79,190)" stroke="rgb(46,63,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="311,10 320,40 311,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3055 (PF11256)
+"Protein of unknown function (DUF3055)"</title>
+				<polygon class="PF11256" points="311,28 313,28 317,40 313,52 311,52" stroke-linejoin="round" width="8" height="24" fill="rgb(149,194,62)" stroke="rgb(119,155,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+pectin degrading protein</title>
+			<polygon class="
+pectin degrading protein" points="323,40 333,10 333,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="326,40 330,28 330,28 330,52 330,52" stroke-linejoin="round" width="6" height="24" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transcriptional regulator</title>
+			<polygon class="
+transcriptional regulator" points="337,40 364,10 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="341,40 344,37 344,43" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AraC_binding (PF02311)
+"AraC-like ligand binding domain"</title>
+				<polygon class="PF02311" points="351,29 352,28 362,28 362,52 352,52 351,51" stroke-linejoin="round" width="11" height="24" fill="rgb(81,203,213)" stroke="rgb(64,162,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

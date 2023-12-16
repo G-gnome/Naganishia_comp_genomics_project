@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.28   264 BGC0000551_ORF1:gid:SCO6681:pid:CAA19960.1:loc:0:2793:strand:+ -            930   5.7e-10   39.1   0.0   1   1   8.5e-14   8.4e-10   38.6   0.0    12   191   267   457   256   491 0.85 Protein kinase domain
+RamS                 PF19402.2     44 BGC0000551_ORF2:gid:SCO6682:pid:CAA19961.1:loc:2830:2959:strand:+ -             42   5.3e-17   62.1   2.2   1   1   2.9e-21   5.7e-17   62.0   2.2     1    44     1    42     1    42 0.95 Lanthionine-containing peptide SapB precursor RamS
+ABC_tran             PF00005.30   137 BGC0000551_ORF3:gid:SCO6683:pid:CAA19962.1:loc:2994:4905:strand:+ -            636   6.6e-21   75.4   0.0   1   1   9.8e-25   9.6e-21   74.9   0.0     7   137   375   516   369   516 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000551_ORF3:gid:SCO6683:pid:CAA19962.1:loc:2994:4905:strand:+ -            636   1.4e-17   64.3   0.0   1   1     2e-21   1.9e-17   63.9   0.0     3   263    46   300    45   309 0.95 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000551_ORF4:gid:SCO6684:pid:CAA19963.1:loc:4901:6728:strand:+ -            608   1.3e-22   80.9   0.0   1   1   9.8e-27   1.9e-22   80.4   0.0     1   136   393   538   393   539 0.90 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000551.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000551.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000551.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:47:59 2023
+# [ok]

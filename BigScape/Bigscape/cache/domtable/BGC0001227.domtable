@@ -1,0 +1,37 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5914              PF19299.2    187 BGC0001227_ORF1:gid::pid:AGS67376.1:loc:0:1020:strand:- -            339   1.1e-93  312.2   1.8   1   1   1.5e-97   1.5e-93  311.8   1.8     1   187   147   336   147   336 0.97 Domain of unknown function (DUF5914)
+Rieske               PF00355.29    89 BGC0001227_ORF1:gid::pid:AGS67376.1:loc:0:1020:strand:- -            339   4.5e-13   49.1   0.0   1   1     1e-16   9.8e-13   48.0   0.0     1    71    52   121    52   132 0.94 Rieske [2Fe-2S] domain
+SQS_PSY              PF00494.22   263 BGC0001227_ORF2:gid::pid:AGS67377.1:loc:1016:2033:strand:- -            338   1.5e-57  195.3   7.2   1   1   9.5e-62   1.9e-57  194.9   7.2     3   263    29   297    27   297 0.94 Squalene/phytoene synthase
+Amino_oxidase        PF01593.27   452 BGC0001227_ORF3:gid::pid:AGS67378.1:loc:2029:3532:strand:- -            500   7.4e-47  160.8   0.2   1   1   2.7e-50   8.8e-47  160.5   0.2     1   451     7   478     7   479 0.87 Flavin containing amine oxidoreductase
+DAO                  PF01266.27   353 BGC0001227_ORF3:gid::pid:AGS67378.1:loc:2029:3532:strand:- -            500   2.1e-15   57.3   8.7   1   1   2.8e-18   9.2e-15   55.2   8.4     4   223     2   293     1   428 0.61 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001227_ORF3:gid::pid:AGS67378.1:loc:2029:3532:strand:- -            500   1.1e-11   45.0   0.4   1   1   8.2e-15   2.7e-11   43.7   0.4     1    62     2    63     2    67 0.93 NAD(P)-binding Rossmann-like domain
+polyprenyl_synt      PF00348.20   256 BGC0001227_ORF4:gid::pid:AGS67379.1:loc:3564:4836:strand:- -            423   7.9e-42  143.2   0.0   1   1   5.4e-46   1.1e-41  142.8   0.0    12   232    81   323    71   346 0.90 Polyprenyl synthetase
+Lycopene_cycl        PF05834.15   380 BGC0001227_ORF5:gid::pid:AGS67380.1:loc:5082:6279:strand:+ -            398  2.3e-100  336.4   0.2   1   1  1.3e-104  2.6e-100  336.3   0.2     1   377     6   382     6   385 0.94 Lycopene cyclase protein
+Ubie_methyltran      PF01209.21   233 BGC0001227_ORF6:gid::pid:AGS67381.1:loc:6490:7225:strand:+ -            244   1.4e-17   64.0   0.0   1   1   4.9e-21   1.6e-17   63.8   0.0     4   218     4   216     1   230 0.87 ubiE/COQ5 methyltransferase family
+Methyltransf_25      PF13649.9     97 BGC0001227_ORF6:gid::pid:AGS67381.1:loc:6490:7225:strand:+ -            244   4.8e-17   62.5   0.0   1   1     5e-20   1.6e-16   60.9   0.0     1    97    52   146    52   146 0.90 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001227_ORF6:gid::pid:AGS67381.1:loc:6490:7225:strand:+ -            244     8e-17   61.8   0.0   1   1   6.5e-20   2.1e-16   60.5   0.0     1    95    53   149    53   150 0.90 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001227_ORF6:gid::pid:AGS67381.1:loc:6490:7225:strand:+ -            244   6.6e-15   55.8   0.0   1   1   4.9e-18   1.6e-14   54.6   0.0     1    99    53   148    53   148 0.80 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001227_ORF6:gid::pid:AGS67381.1:loc:6490:7225:strand:+ -            244   1.2e-14   54.5   0.0   1   1   5.3e-18   1.7e-14   54.0   0.0     6   113    51   154    47   179 0.92 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001227_ORF6:gid::pid:AGS67381.1:loc:6490:7225:strand:+ -            244   4.3e-14   52.8   0.0   1   1   1.8e-17   5.8e-14   52.4   0.0    18   163    44   214    15   216 0.72 Methyltransferase domain
+Amino_oxidase        PF01593.27   452 BGC0001227_ORF7:gid::pid:AGS67382.1:loc:7221:8856:strand:+ -            544   1.7e-36  126.6   1.6   1   1   9.1e-40     2e-36  126.4   1.6     1   451    50   492    50   493 0.87 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0001227_ORF7:gid::pid:AGS67382.1:loc:7221:8856:strand:+ -            544   2.1e-13   50.4   0.7   1   1   9.5e-17   2.1e-13   50.4   0.7     1    67    45   114    45   115 0.93 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.27   353 BGC0001227_ORF7:gid::pid:AGS67382.1:loc:7221:8856:strand:+ -            544   1.5e-10   41.4  10.3   1   1   3.9e-13   8.4e-10   38.9  10.3     2   339    43   472    42   478 0.57 FAD dependent oxidoreductase
+FAD_oxidored         PF12831.10   427 BGC0001227_ORF7:gid::pid:AGS67382.1:loc:7221:8856:strand:+ -            544   1.2e-06   28.2   0.5   1   1     8e-10   1.8e-06   27.7   0.5     3    40    44    81    43   118 0.80 FAD dependent oxidoreductase
+Pyr_redox            PF00070.30    81 BGC0001227_ORF7:gid::pid:AGS67382.1:loc:7221:8856:strand:+ -            544   4.3e-06   27.3   2.2   1   1   5.6e-08   0.00012   22.6   0.4     1    35    42    76    42    82 0.92 Pyridine nucleotide-disulphide oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0001227_ORF7:gid::pid:AGS67382.1:loc:7221:8856:strand:+ -            544   3.2e-06   26.6   2.5   1   1   1.8e-09   3.9e-06   26.4   1.5     3    38    44    79    42    96 0.88 FAD binding domain
+Lactamase_B_2        PF12706.10   201 BGC0001227_ORF8:gid::pid:AGS67383.1:loc:8896:9736:strand:+ -            279   1.1e-15   57.9   0.1   1   1   1.3e-19   1.3e-15   57.6   0.1    17   201    49   232    26   232 0.84 Beta-lactamase superfamily domain
+Lactamase_B_3        PF13483.9    163 BGC0001227_ORF8:gid::pid:AGS67383.1:loc:8896:9736:strand:+ -            279   1.1e-07   32.1   0.0   1   1   5.3e-11   5.2e-07   29.9   0.0     2   163    10   231     9   231 0.71 Beta-lactamase superfamily domain
+WD40                 PF00400.35    38 BGC0001227_ORF11:gid::pid:AGS67386.1:loc:11073:12144:strand:- -            356   5.7e-24   84.1  15.9   1   2   5.4e-07    0.0035   18.3   0.2    10    38   182   209   173   209 0.93 WD domain, G-beta repeat
+WD40                 PF00400.35    38 BGC0001227_ORF11:gid::pid:AGS67386.1:loc:11073:12144:strand:- -            356   5.7e-24   84.1  15.9   2   2     5e-09   3.3e-05   24.7   0.3     5    38   223   253   218   253 0.86 WD domain, G-beta repeat
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001227.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001227.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001227.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:29:51 2023
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_N               PF00440.26    47 BGC0000849_ORF1:gid:SCO6265:pid:CAB60184.1:loc:0:648:strand:- -            215   4.8e-17   61.6   0.7   1   1   2.5e-21   4.8e-17   61.6   0.7     1    45    14    58    14    60 0.97 Bacterial regulatory proteins, tetR family
+AfsA                 PF03756.16   133 BGC0000849_ORF2:gid:SCO6266:pid:CAB60185.1:loc:765:1710:strand:+ -            314   8.8e-57  190.9   1.8   1   2   6.6e-44   1.3e-39  135.4   0.3     1   132    28   163    28   164 0.98 A-factor biosynthesis hotdog domain
+AfsA                 PF03756.16   133 BGC0000849_ORF2:gid:SCO6266:pid:CAB60185.1:loc:765:1710:strand:+ -            314   8.8e-57  190.9   1.8   2   2   6.9e-19   1.4e-14   54.4   0.1     3   126   196   304   194   310 0.80 A-factor biosynthesis hotdog domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000849.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000849.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000849.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:45:38 2023
+# [ok]

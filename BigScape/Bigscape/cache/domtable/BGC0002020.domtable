@@ -1,0 +1,16 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002020_ORF2:gid::pid:CAE14766.1:loc:201:1587:strand:- -            461   8.8e-44  149.9   0.0   1   1   3.6e-46   7.1e-42  143.6   0.0    19   423    25   369    11   370 0.78 AMP-binding enzyme
+Glycos_transf_2      PF00535.29   170 BGC0002020_ORF5:gid::pid:CAE14773.1:loc:3710:4490:strand:- -            259     1e-21   77.6   0.0   1   1   3.5e-25   3.4e-21   75.9   0.0     1   108     4   104     4   129 0.94 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0002020_ORF5:gid::pid:CAE14773.1:loc:3710:4490:strand:- -            259   1.6e-08   34.8   0.0   1   1     4e-12   3.9e-08   33.5   0.0     4   200     3   191     1   222 0.79 Glycosyltransferase like family 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002020.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002020.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002020.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:12:58 2023
+# [ok]

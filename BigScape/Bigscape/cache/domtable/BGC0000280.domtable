@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_C_11            PF16859.8    113 BGC0000280_ORF1:gid::pid:AAM27406.1:loc:384:1011:strand:- -            208   7.8e-21   74.7   0.0   1   1   1.3e-24   1.3e-20   74.0   0.0     2   104    80   182    79   186 0.98 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.26    47 BGC0000280_ORF1:gid::pid:AAM27406.1:loc:384:1011:strand:- -            208   5.5e-12   45.4   0.0   1   1     9e-16   8.8e-12   44.8   0.0     2    47    23    68    22    68 0.94 Bacterial regulatory proteins, tetR family
+ACP_syn_III          PF08545.13    80 BGC0000280_ORF2:gid::pid:AAM27405.1:loc:1428:2511:strand:+ -            360   3.1e-06   27.1   2.5   1   1   1.6e-10   3.1e-06   27.1   2.5     2    65   108   170   107   184 0.86 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Thiolase_N           PF00108.26   260 BGC0000280_ORF3:gid::pid:AAM27404.1:loc:2542:3739:strand:+ -            398   4.1e-09   36.3   0.1   1   1   9.9e-13   9.7e-09   35.1   0.0     2   153     7   155     6   176 0.73 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000280_ORF3:gid::pid:AAM27404.1:loc:2542:3739:strand:+ -            398   1.8e-07   31.1   0.9   1   1     2e-10   1.9e-06   27.8   0.3   158   213    70   126    34   130 0.87 Beta-ketoacyl synthase, N-terminal domain
+DUF35_N              PF12172.11    37 BGC0000280_ORF4:gid::pid:AAM27407.1:loc:3749:4190:strand:+ -            146   2.6e-08   33.7   3.2   1   1   1.3e-11   1.3e-07   31.5   0.9     1    36    21    56    21    57 0.88 Rubredoxin-like zinc ribbon domain (DUF35_N)
+OB_aCoA_assoc        PF01796.20    65 BGC0000280_ORF4:gid::pid:AAM27407.1:loc:3749:4190:strand:+ -            146   9.4e-07   28.9   0.9   1   1   1.3e-10   1.3e-06   28.4   0.9    21    64    81   125    61   126 0.87 DUF35 OB-fold domain, acyl-CoA-associated
+Chal_sti_synt_N      PF00195.22   225 BGC0000280_ORF5:gid::pid:AAM27403.1:loc:4345:5395:strand:+ -            349   1.4e-20   73.8   0.0   1   1   4.6e-24   2.3e-20   73.1   0.0    52   224    37   200     6   201 0.85 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.18   151 BGC0000280_ORF5:gid::pid:AAM27403.1:loc:4345:5395:strand:+ -            349   2.1e-15   57.1   0.0   1   1   6.5e-19   3.2e-15   56.6   0.0     7   146   213   344   207   349 0.83 Chalcone and stilbene synthases, C-terminal domain
+FAE1_CUT1_RppA       PF08392.15   290 BGC0000280_ORF5:gid::pid:AAM27403.1:loc:4345:5395:strand:+ -            349   5.1e-12   45.8   0.0   1   1   1.6e-15   7.8e-12   45.2   0.0    22   203    13   197     9   207 0.80 FAE1/Type III polyketide synthase-like protein
+MFS_1                PF07690.19   353 BGC0000280_ORF6:gid::pid:AAM27402.1:loc:5520:6033:strand:+ -            171   2.1e-20   73.1  16.0   1   1   1.2e-24   2.3e-20   73.0  16.0     2   149    23   170    22   171 0.91 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000280.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000280.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000280.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:26:52 2023
+# [ok]

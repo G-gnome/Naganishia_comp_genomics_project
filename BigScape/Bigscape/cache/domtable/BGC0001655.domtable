@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.24   355 BGC0001655_ORF2:gid::pid:WP_017534152.1:loc:656:2501:strand:+ -            614   1.2e-32  114.1   0.2   1   1   7.7e-37   1.5e-32  113.8   0.2     2   327   208   571   207   597 0.81 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0001655_ORF3:gid::pid:WP_014908438.1:loc:2503:2761:strand:+ -             85   6.1e-14   52.2   0.2   1   1   3.7e-18   7.3e-14   52.0   0.2     2    67    18    83    17    83 0.96 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0001655_ORF4:gid::pid:WP_234305725.1:loc:2856:3192:strand:+ -            111   1.1e-22   80.3   0.9   1   1   6.3e-27   1.2e-22   80.1   0.9    23   117    10   100     2   100 0.90 Transglutaminase-like superfamily
+MauE                 PF07291.14   185 BGC0001655_ORF5:gid::pid:WP_020379946.1:loc:3181:3775:strand:+ -            197   3.1e-05   24.1  15.7   1   1   1.9e-09   3.7e-05   23.9  15.7     8   160     5   160     1   174 0.71 Methylamine utilisation protein MauE
+ABC_tran             PF00005.30   137 BGC0001655_ORF6:gid::pid:WP_202421642.1:loc:3764:4697:strand:+ -            310   1.1e-31  110.3   0.0   1   1   1.7e-35   1.7e-31  109.7   0.0     1   137    21   165    21   165 0.98 ABC transporter
+AAA_21               PF13304.9    304 BGC0001655_ORF6:gid::pid:WP_202421642.1:loc:3764:4697:strand:+ -            310   3.3e-11   43.6   2.5   1   1   4.9e-11   4.8e-07   30.0   0.0   221   298   120   194    81   196 0.78 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.27   210 BGC0001655_ORF7:gid::pid:WP_036567929.1:loc:4729:5572:strand:+ -            280   1.9e-29  102.8  15.9   1   1   2.4e-33   2.4e-29  102.4  15.9     2   207    27   240    26   243 0.92 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0001655_ORF7:gid::pid:WP_036567929.1:loc:4729:5572:strand:+ -            280   3.4e-14   52.8  14.7   1   1   4.9e-18   4.8e-14   52.3  14.7   157   345    76   270    46   271 0.88 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001655.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001655.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001655.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:15:07 2023
+# [ok]

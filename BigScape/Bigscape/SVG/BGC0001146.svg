@@ -1,0 +1,82 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="436.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="426.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ctmI
+thiazole synthase</title>
+			<polygon class="ctmI
+thiazole synthase" points="10,25 43,25 43,10 73,40 43,70 43,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ctmB
+dehydrogenase</title>
+			<polygon class="ctmB
+dehydrogenase" points="73,25 95,25 95,10 125,40 95,70 95,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<rect class="PF00881" x="81" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="106,28 109,28 121,40 109,52 106,52" stroke-linejoin="round" width="17" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ctmA
+precursor peptide</title>
+			<polygon class="ctmA
+precursor peptide" points="130,10 136,40 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ctmD
+cyclodehydratase</title>
+			<polygon class="ctmD
+cyclodehydratase" points="140,25 175,25 175,10 205,40 175,70 175,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="165,28 188,28 199,39 199,41 188,52 165,52" stroke-linejoin="round" width="34" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ctmE
+dehydratase</title>
+			<polygon class="ctmE
+dehydratase" points="207,25 263,25 263,10 293,40 263,70 263,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<polygon class="PF04738" points="221,28 277,28 286,37 286,43 277,52 221,52" stroke-linejoin="round" width="65" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ctmF
+dehydratase</title>
+			<polygon class="ctmF
+dehydratase" points="293,25 296,25 296,10 326,40 296,70 296,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="294,28 310,28 322,40 310,52 294,52" stroke-linejoin="round" width="31" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>luxR
+LuxR regulatory protein</title>
+			<polygon class="luxR
+LuxR regulatory protein" points="426,25 360,25 360,10 330,40 360,70 360,55 426,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="337,37 342,32 342,48 337,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="418" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

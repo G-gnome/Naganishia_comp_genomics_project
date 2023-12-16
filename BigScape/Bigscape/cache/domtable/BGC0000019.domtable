@@ -1,0 +1,43 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF1205              PF06722.15    95 BGC0000019_ORF2:gid::pid:ABW91150.1:loc:1698:2973:strand:+ -            424   8.6e-26   90.0   0.0   1   1     3e-29   1.9e-25   88.9   0.0     1    95   211   306   211   306 0.94 Protein of unknown function (DUF1205)
+UDPGT                PF00201.21   499 BGC0000019_ORF2:gid::pid:ABW91150.1:loc:1698:2973:strand:+ -            424   4.6e-08   32.4   0.0   1   1     1e-11   6.8e-08   31.9   0.0   298   409   276   388   270   399 0.88 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.19   167 BGC0000019_ORF2:gid::pid:ABW91150.1:loc:1698:2973:strand:+ -            424   4.3e-06   26.9   0.0   1   1   1.1e-09     7e-06   26.3   0.0    56   147   304   390   290   408 0.88 Glycosyltransferase family 28 C-terminal domain
+Methyltransf_25      PF13649.9     97 BGC0000019_ORF3:gid::pid:ABW91151.1:loc:2991:3714:strand:+ -            240     2e-14   54.2   0.1   1   1   9.1e-18   3.6e-14   53.3   0.1     2    97    46   136    45   136 0.94 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0000019_ORF3:gid::pid:ABW91151.1:loc:2991:3714:strand:+ -            240   4.2e-11   43.5   0.1   1   1   1.8e-14   6.9e-11   42.8   0.1     1    95    46   139    46   140 0.91 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0000019_ORF3:gid::pid:ABW91151.1:loc:2991:3714:strand:+ -            240   4.1e-09   36.6   0.0   1   1   1.7e-12   6.9e-09   35.9   0.0    11   118    29   141    17   224 0.72 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0000019_ORF3:gid::pid:ABW91151.1:loc:2991:3714:strand:+ -            240   4.2e-07   30.8   0.0   1   1   1.8e-10     7e-07   30.0   0.0     1    98    46   137    46   138 0.87 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000019_ORF3:gid::pid:ABW91151.1:loc:2991:3714:strand:+ -            240   4.7e-07   29.9   0.0   1   1   1.6e-10   6.2e-07   29.5   0.0     6   113    44   144    41   181 0.83 Methyltransferase domain
+ADH_zinc_N           PF00107.29   130 BGC0000019_ORF4:gid::pid:ABW91152.1:loc:3788:5153:strand:+ -            454   1.1e-31  109.7   0.0   1   1   3.9e-35   2.6e-31  108.5   0.0     1   129   243   387   243   388 0.90 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.9    133 BGC0000019_ORF4:gid::pid:ABW91152.1:loc:3788:5153:strand:+ -            454   1.5e-09   39.0   0.0   1   1   4.8e-13   3.1e-09   38.0   0.0    15   131   303   420   275   422 0.74 Zinc-binding dehydrogenase
+HTH_30               PF13556.9     59 BGC0000019_ORF5:gid::pid:ABW91153.1:loc:5376:7302:strand:+ -            641   9.8e-21   73.5   0.6   1   1   6.1e-24   2.4e-20   72.2   0.6     1    59   563   621   563   621 0.98 PucR C-terminal helix-turn-helix domain
+GGDEF_2              PF17853.4    117 BGC0000019_ORF5:gid::pid:ABW91153.1:loc:5376:7302:strand:+ -            641   5.7e-15   55.7   2.5   1   1   1.5e-18   5.7e-15   55.7   2.5     7   116   404   511   399   512 0.85 GGDEF-like domain
+GAF_2                PF13185.9    138 BGC0000019_ORF5:gid::pid:ABW91153.1:loc:5376:7302:strand:+ -            641   1.3e-14   54.8   4.3   1   1     8e-18   3.1e-14   53.5   1.2     7   137    91   228    87   229 0.85 GAF domain
+GAF                  PF01590.29   133 BGC0000019_ORF5:gid::pid:ABW91153.1:loc:5376:7302:strand:+ -            641     1e-11   45.7   0.6   1   1   7.3e-15   2.9e-11   44.3   0.6     4   133    90   228    87   228 0.81 GAF domain
+GAF_3                PF13492.9    129 BGC0000019_ORF5:gid::pid:ABW91153.1:loc:5376:7302:strand:+ -            641   8.2e-08   32.9   0.3   1   1   9.8e-11   3.9e-07   30.7   0.3     6   127    92   228    88   230 0.69 GAF domain
+DDE_5                PF13546.9    273 BGC0000019_ORF6:gid::pid:ABW91154.1:loc:7305:8550:strand:- -            414   6.1e-32  111.2   7.4   1   1   5.1e-36     1e-31  110.5   7.4     3   252    31   264    29   284 0.89 DDE superfamily endonuclease
+Epimerase            PF01370.24   241 BGC0000019_ORF7:gid::pid:ABW91155.1:loc:8991:9975:strand:+ -            327   1.4e-39  136.1   0.0   1   1     6e-43     2e-39  135.7   0.0     1   241    13   240    13   240 0.93 NAD dependent epimerase/dehydratase family
+GDP_Man_Dehyd        PF16363.8    332 BGC0000019_ORF7:gid::pid:ABW91155.1:loc:8991:9975:strand:+ -            327   1.5e-09   37.9   0.0   1   1   1.3e-12   4.2e-09   36.4   0.0     2   331    15   311    14   312 0.82 GDP-mannose 4,6 dehydratase
+RmlD_sub_bind        PF04321.20   287 BGC0000019_ORF7:gid::pid:ABW91155.1:loc:8991:9975:strand:+ -            327   1.1e-07   31.4   0.0   1   1   1.2e-10     4e-07   29.5   0.0     3   180    13   207    12   233 0.87 RmlD substrate binding domain
+NAD_binding_10       PF13460.9    184 BGC0000019_ORF7:gid::pid:ABW91155.1:loc:8991:9975:strand:+ -            327   8.8e-07   29.1   4.8   1   1   4.6e-10   1.5e-06   28.3   4.8     1   134    17   156    17   166 0.77 NAD(P)H-binding
+3Beta_HSD            PF01073.22   280 BGC0000019_ORF7:gid::pid:ABW91155.1:loc:8991:9975:strand:+ -            327   5.4e-07   29.0   0.0   1   1   6.8e-09   2.2e-05   23.7   0.0     1   184    14   175    14   233 0.72 3-beta hydroxysteroid dehydrogenase/isomerase family
+Aldo_ket_red         PF00248.24   292 BGC0000019_ORF8:gid::pid:ABW91156.1:loc:10029:11034:strand:+ -            334   5.1e-64  216.3   0.0   1   1   3.1e-68   6.1e-64  216.0   0.0     2   290    23   319    22   320 0.95 Aldo/keto reductase family
+Methyltransf_14      PF08484.14   160 BGC0000019_ORF9:gid::pid:ABW91157.1:loc:11078:12311:strand:- -            410   8.3e-48  162.3   0.0   1   1   1.7e-51   1.1e-47  161.9   0.0     2   160   247   405   246   405 0.98 C-methyltransferase C-terminal domain
+Methyltransf_13      PF08421.14    62 BGC0000019_ORF9:gid::pid:ABW91157.1:loc:11078:12311:strand:- -            410     7e-18   64.8   0.3   1   1   1.9e-21   1.3e-17   64.0   0.3     1    62     6    67     6    67 0.97 Putative zinc binding domain
+Methyltransf_23      PF13489.9    165 BGC0000019_ORF9:gid::pid:ABW91157.1:loc:11078:12311:strand:- -            410   6.2e-11   42.5   0.0   1   1   1.7e-14   1.1e-10   41.7   0.0    14   163    94   240    80   242 0.80 Methyltransferase domain
+UDPGT                PF00201.21   499 BGC0000019_ORF10:gid::pid:ABW91158.1:loc:12529:13744:strand:+ -            404   9.1e-13   48.0   0.0   1   1   1.4e-16   2.8e-12   46.4   0.0   277   413   237   374   227   381 0.91 UDP-glucoronosyl and UDP-glucosyl transferase
+dTDP_sugar_isom      PF00908.20   168 BGC0000019_ORF11:gid::pid:ABW91159.1:loc:13796:14405:strand:+ -            202   6.2e-44  149.8   0.0   1   1   3.6e-48   7.1e-44  149.6   0.0     1   168     5   177     5   177 0.97 dTDP-4-dehydrorhamnose 3,5-epimerase
+TAL_FSA              PF00923.22   287 BGC0000019_ORF12:gid::pid:ABW91160.1:loc:14401:15505:strand:+ -            367   3.6e-09   36.5   0.0   1   1   2.8e-13   5.5e-09   35.9   0.0    27   286    56   359    41   360 0.88 Transaldolase/Fructose-6-phosphate aldolase
+ABC_tran             PF00005.30   137 BGC0000019_ORF13:gid::pid:ABW91161.1:loc:15511:17245:strand:- -            577   2.8e-51  173.8   0.0   1   2   4.8e-32   1.3e-28  100.3   0.0     1   137    21   198    21   198 0.96 ABC transporter
+ABC_tran             PF00005.30   137 BGC0000019_ORF13:gid::pid:ABW91161.1:loc:15511:17245:strand:- -            577   2.8e-51  173.8   0.0   2   2   6.1e-23   1.7e-19   70.8   0.0     5   137   388   512   384   512 0.83 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000019.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000019.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000019.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:55:44 2023
+# [ok]

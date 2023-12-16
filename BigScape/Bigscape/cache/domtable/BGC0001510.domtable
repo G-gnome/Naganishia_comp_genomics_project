@@ -1,0 +1,37 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+APH                  PF01636.26   239 BGC0001510_ORF1:gid::pid:ARE72409.1:loc:425:1571:strand:+ -            381   2.3e-14   54.0   8.7   1   1   1.7e-18   3.3e-14   53.4   8.7    14   228    63   305    55   317 0.71 Phosphotransferase enzyme family
+Aminotran_3          PF00202.24   403 BGC0001510_ORF2:gid:aniQ:pid:ARE72410.1:loc:1722:3048:strand:+ -            441   4.3e-78  262.9   0.0   1   1   2.7e-82   5.2e-78  262.6   0.0    11   403    29   433    21   433 0.92 Aminotransferase class-III
+DXP_synthase_N       PF13292.9    273 BGC0001510_ORF3:gid:aniP:pid:ARE72411.1:loc:3044:4856:strand:+ -            603   2.3e-06   27.2   0.0   1   1   1.8e-10   3.6e-06   26.5   0.0   117   191   163   243   137   285 0.76 1-deoxy-D-xylulose-5-phosphate synthase
+Glyco_trans_1_4      PF13692.9    135 BGC0001510_ORF4:gid:aniO:pid:ARE72412.1:loc:4836:6225:strand:+ -            462   9.7e-15   55.2   0.1   1   1   2.4e-18   2.4e-14   54.0   0.1     3   113   160   285   158   298 0.80 Glycosyl transferases group 1
+Glycos_transf_1      PF00534.23   172 BGC0001510_ORF4:gid:aniO:pid:ARE72412.1:loc:4836:6225:strand:+ -            462   7.7e-14   51.7   0.0   1   1   1.3e-17   1.2e-13   51.1   0.0    13   130   156   280   150   287 0.94 Glycosyl transferases group 1
+adh_short_C2         PF13561.9    234 BGC0001510_ORF5:gid:aniN:pid:ARE72413.1:loc:6230:7058:strand:+ -            275   6.6e-51  173.3   1.3   1   1   3.2e-53   1.6e-49  168.8   1.3     4   234    19   273    14   273 0.87 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001510_ORF5:gid:aniN:pid:ARE72413.1:loc:6230:7058:strand:+ -            275   1.8e-49  168.0   2.4   1   1   3.5e-51   1.7e-47  161.6   2.4     1   189    10   214    10   218 0.91 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001510_ORF5:gid:aniN:pid:ARE72413.1:loc:6230:7058:strand:+ -            275   1.6e-17   64.1   0.9   1   1   4.8e-21   2.3e-17   63.6   0.9     3   174    12   203    11   209 0.88 KR domain
+DUF1349              PF07081.14   179 BGC0001510_ORF6:gid::pid:ARE72414.1:loc:7054:7681:strand:+ -            208   4.6e-21   75.5   0.0   1   1   5.2e-25   5.1e-21   75.3   0.0     1   176    28   199    28   202 0.92 Protein of unknown function (DUF1349)
+GH43_C2              PF17851.4    202 BGC0001510_ORF6:gid::pid:ARE72414.1:loc:7054:7681:strand:+ -            208   5.1e-07   29.7   0.0   1   1   7.3e-11   7.1e-07   29.3   0.0    10   104    23   118    18   139 0.79 Beta xylosidase C-terminal Concanavalin A-like domain
+Methyltransf_2       PF00891.21   210 BGC0001510_ORF8:gid:aniK:pid:ARE72416.1:loc:8855:9851:strand:+ -            331   9.1e-30  103.7   0.0   1   1   2.5e-33   1.2e-29  103.2   0.0     4   210   107   313   105   313 0.93 O-methyltransferase domain
+Dimerisation2        PF16864.8     90 BGC0001510_ORF8:gid:aniK:pid:ARE72416.1:loc:8855:9851:strand:+ -            331   2.8e-10   40.1   0.0   1   1   9.4e-14   4.6e-10   39.4   0.0     2    88     7    87     6    89 0.93 Dimerisation domain
+Methyltransf_25      PF13649.9     97 BGC0001510_ORF8:gid:aniK:pid:ARE72416.1:loc:8855:9851:strand:+ -            331   1.4e-06   29.0   0.0   1   1   7.6e-10   3.7e-06   27.6   0.0     3    97   169   262   167   262 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001510_ORF8:gid:aniK:pid:ARE72416.1:loc:8855:9851:strand:+ -            331   1.8e-06   28.6   0.0   1   1   7.6e-10   3.8e-06   27.6   0.0     2    95   169   265   168   266 0.86 Methyltransferase domain
+Mac                  PF12464.11    53 BGC0001510_ORF10:gid:aniI:pid:ARE72418.1:loc:10764:11433:strand:+ -            222   1.1e-09   38.5   0.8   1   1   3.8e-13   2.5e-09   37.3   0.2     3    52    47    95    45    96 0.94 Maltose acetyltransferase
+Hexapep              PF00132.27    36 BGC0001510_ORF10:gid:aniI:pid:ARE72418.1:loc:10764:11433:strand:+ -            222   5.3e-09   35.6   1.8   1   1   1.2e-11   8.2e-08   31.8   2.2     4    36   171   203   168   203 0.96 Bacterial transferase hexapeptide (six repeats)
+Hexapep_2            PF14602.9     34 BGC0001510_ORF10:gid:aniI:pid:ARE72418.1:loc:10764:11433:strand:+ -            222   4.5e-07   29.6   4.5   1   1   9.1e-11   5.9e-07   29.2   2.5     1    34   168   203   168   203 0.96 Hexapeptide repeat of succinyl-transferase
+HAD_2                PF13419.9    178 BGC0001510_ORF11:gid:h:pid:ARE72419.1:loc:11438:12206:strand:+ -            255     4e-27   95.6   0.0   1   1   2.1e-30     1e-26   94.2   0.0     1   178    23   222    23   222 0.90 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 BGC0001510_ORF11:gid:h:pid:ARE72419.1:loc:11438:12206:strand:+ -            255   1.2e-16   61.8   0.0   1   1     3e-19   1.5e-15   58.2   0.0   115   210   120   216    88   216 0.93 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.9     75 BGC0001510_ORF11:gid:h:pid:ARE72419.1:loc:11438:12206:strand:+ -            255   3.6e-11   43.1   0.1   1   1   1.4e-14   7.1e-11   42.2   0.1     2    71   177   241   176   245 0.90 HAD-hyrolase-like
+HAD                  PF12710.10   188 BGC0001510_ORF11:gid:h:pid:ARE72419.1:loc:11438:12206:strand:+ -            255   1.1e-07   32.6   0.6   1   1   4.6e-11   2.3e-07   31.6   0.6    62   181   102   206    23   213 0.75 haloacid dehalogenase-like hydrolase
+Alpha-amylase        PF00128.27   336 BGC0001510_ORF12:gid:aniG:pid:ARE72420.1:loc:12202:13936:strand:+ -            577   8.3e-69  232.8   0.0   1   1   2.1e-72   2.1e-68  231.5   0.0     1   334    51   408    51   412 0.87 Alpha amylase, catalytic domain
+DUF3459              PF11941.11    91 BGC0001510_ORF12:gid:aniG:pid:ARE72420.1:loc:12202:13936:strand:+ -            577     2e-07   31.4   6.3   1   1   2.9e-11   2.8e-07   30.9   2.5     1    91   481   556   481   556 0.85 Domain of unknown function (DUF3459)
+GerE                 PF00196.22    57 BGC0001510_ORF13:gid:aniF:pid:ARE72421.1:loc:13908:14535:strand:- -            208   1.3e-15   56.8   0.1   1   1   2.7e-19   2.6e-15   55.9   0.1     3    57   148   202   146   202 0.98 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001510.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001510.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001510.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:32:56 2023
+# [ok]

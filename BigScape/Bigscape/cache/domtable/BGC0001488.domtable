@@ -1,0 +1,30 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_31      PF13847.9    152 BGC0001488_ORF1:gid:tam:pid:EFQ61004.1:loc:0:762:strand:- -            253   5.2e-17   62.2   0.0   1   1   1.9e-20   7.4e-17   61.7   0.0     7   123    34   141    29   173 0.84 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001488_ORF1:gid:tam:pid:EFQ61004.1:loc:0:762:strand:- -            253     6e-16   59.0   0.0   1   1   2.7e-19   1.1e-15   58.3   0.0     2    97    35   123    34   123 0.94 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001488_ORF1:gid:tam:pid:EFQ61004.1:loc:0:762:strand:- -            253     7e-15   55.6   0.0   1   1   3.3e-18   1.3e-14   54.7   0.0     1    96    35   127    35   127 0.94 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001488_ORF1:gid:tam:pid:EFQ61004.1:loc:0:762:strand:- -            253   1.1e-13   51.4   0.0   1   1   3.9e-17   1.5e-13   51.0   0.0     2   134    12   145    11   206 0.79 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001488_ORF1:gid:tam:pid:EFQ61004.1:loc:0:762:strand:- -            253   4.5e-13   49.9   0.0   1   1   2.5e-16   9.8e-13   48.8   0.0     1    99    35   125    35   125 0.92 Methyltransferase domain
+Aminotran_1_2        PF00155.24   363 BGC0001488_ORF2:gid:ydcR:pid:EFQ61005.1:loc:805:2260:strand:- -            484   6.1e-39  134.4   0.0   1   1   7.3e-43   7.1e-39  134.1   0.0     3   363   106   461   104   461 0.89 Aminotransferase class I and II
+GntR                 PF00392.24    64 BGC0001488_ORF2:gid:ydcR:pid:EFQ61005.1:loc:805:2260:strand:- -            484   3.1e-13   49.3   0.7   1   1   1.4e-16   1.3e-12   47.3   0.0     1    64     3    66     3    66 0.97 Bacterial regulatory proteins, gntR family
+Lipase_GDSL_2        PF13472.9    179 BGC0001488_ORF3:gid::pid:EFQ61006.1:loc:2567:3575:strand:+ -            335   8.3e-11   42.7   0.1   1   1   2.1e-13   4.1e-09   37.2   0.1     3   178    77   324    75   325 0.67 GDSL-like Lipase/Acylhydrolase family
+Haem_oxygenas_2      PF14518.9    178 BGC0001488_ORF5:gid::pid:EFQ61008.1:loc:3755:5900:strand:+ -            714   1.9e-19   70.3   0.1   1   1   1.2e-22   2.3e-18   66.7   0.0     6   178   481   659   477   659 0.79 Iron-containing redox enzyme
+LysE                 PF01810.21   193 BGC0001488_ORF7:gid:yfiK:pid:EFQ61010.1:loc:6974:7598:strand:+ -            207   4.2e-15   55.8  10.1   1   1   2.8e-19   5.5e-15   55.5  10.1     2   183    15   190    14   196 0.84 LysE type translocator
+Carbam_trans_N       PF02543.18   346 BGC0001488_ORF8:gid::pid:EFQ61011.1:loc:7688:9530:strand:+ -            613   6.3e-89  298.9   0.0   1   1   8.1e-93   7.9e-89  298.6   0.0     2   346     5   346     4   346 0.93 Carbamoyltransferase N-terminus
+Carbam_trans_C       PF16861.8    169 BGC0001488_ORF8:gid::pid:EFQ61011.1:loc:7688:9530:strand:+ -            613     3e-73  245.1   0.0   1   1   4.3e-77   4.2e-73  244.6   0.0     1   169   404   594   404   594 0.98 Carbamoyltransferase C-terminus
+Aminotran_3          PF00202.24   403 BGC0001488_ORF10:gid::pid:EFQ61013.1:loc:9733:11053:strand:+ -            439   1.6e-88  297.2   0.0   1   1     1e-92     2e-88  297.0   0.0    11   402    14   433     5   434 0.91 Aminotransferase class-III
+Formyl_trans_N       PF00551.22   181 BGC0001488_ORF11:gid::pid:EFQ61014.1:loc:11120:11723:strand:+ -            200     4e-10   39.8   0.0   1   1   2.9e-14   5.6e-10   39.4   0.0    91   166    66   140    50   148 0.93 Formyl transferase
+LysE                 PF01810.21   193 BGC0001488_ORF12:gid:yahN:pid:EFQ61015.1:loc:11803:12433:strand:+ -            209   1.8e-21   76.6  14.4   1   1     1e-25     2e-21   76.4  14.4     2   191    16   206    15   208 0.82 LysE type translocator
+LysE                 PF01810.21   193 BGC0001488_ORF13:gid:yfiK:pid:EFQ61016.1:loc:12520:13132:strand:+ -            203   1.1e-18   67.5  12.0   1   1   7.9e-23   1.6e-18   67.0  12.0     2   183    17   192    16   195 0.83 LysE type translocator
+SSB                  PF00436.28   104 BGC0001488_ORF14:gid:ssb:pid:EFQ61017.1:loc:13236:13752:strand:- -            171   6.6e-38  129.1   0.6   1   1   4.1e-42   8.1e-38  128.8   0.6     1   100     5   107     5   111 0.96 Single-strand binding protein family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001488.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001488.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001488.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:51:49 2023
+# [ok]

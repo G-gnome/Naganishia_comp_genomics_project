@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="142.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="132.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="10,40 36,10 36,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMO-like (PF00743)
+"Flavin-binding monooxygenase-like"</title>
+				<polygon class="PF00743" points="14,40 25,28 36,28 36,52 25,52" stroke-linejoin="round" width="24" height="24" fill="rgb(203,74,151)" stroke="rgb(162,59,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="41,40 70,10 70,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="45,40 57,28 65,28 65,52 57,52 45,40" stroke-linejoin="round" width="20" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cvi
+colicin V immunity protein</title>
+			<polygon class="cvi
+colicin V immunity protein" points="76,10 83,40 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cvaC
+colicin V</title>
+			<polygon class="cvaC
+colicin V" points="84,10 94,40 84,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MccV (PF17508)
+"Microcin V bacteriocin"</title>
+				<polygon class="PF17508" points="84,28 86,28 91,40 86,52 84,52" stroke-linejoin="round" width="10" height="24" fill="rgb(197,161,86)" stroke="rgb(157,128,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cvaB
+colicin V exporter protein</title>
+			<polygon class="cvaB
+colicin V exporter protein" points="132,25 130,25 130,10 100,40 130,70 130,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="104,40 116,28 118,28 118,52 116,52 104,40" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="125" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

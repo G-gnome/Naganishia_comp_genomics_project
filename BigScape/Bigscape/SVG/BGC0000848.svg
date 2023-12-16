@@ -1,0 +1,21 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="51.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="41.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>afsA (SGR_6889)
+A-factor biosynthesis enzyme</title>
+			<polygon class="afsA (SGR_6889)
+A-factor biosynthesis enzyme" points="10,25 11,25 11,10 41,40 11,70 11,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AfsA (PF03756)
+"A-factor biosynthesis hotdog domain"</title>
+				<rect class="PF03756" x="12" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AfsA (PF03756)
+"A-factor biosynthesis hotdog domain"</title>
+				<polygon class="PF03756" points="29,32 37,40 29,48" stroke-linejoin="round" width="11" height="24" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

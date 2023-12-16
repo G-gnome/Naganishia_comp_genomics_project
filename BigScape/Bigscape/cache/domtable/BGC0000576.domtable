@@ -1,0 +1,18 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.27   470 BGC0000576_ORF1:gid::pid:BAL94040.1:loc:0:2790:strand:+ -            929   2.5e-31  110.2  16.2   1   1   3.8e-35   3.7e-31  109.6  16.2    28   469   414   927   379   928 0.69 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0000576_ORF1:gid::pid:BAL94040.1:loc:0:2790:strand:+ -            929   6.4e-18   65.4   1.0   1   1   6.5e-22   6.4e-18   65.4   1.0     4   108   110   221   108   221 0.95 TonB-dependent Receptor Plug Domain
+Asn_synthase         PF00733.24   355 BGC0000576_ORF3:gid::pid:BAL94042.1:loc:5186:7040:strand:- -            617     8e-23   81.8   0.1   1   1   2.5e-26     5e-22   79.2   0.1    19   354   245   590   227   591 0.72 Asparagine synthase
+Transglut_core3      PF13471.9    117 BGC0000576_ORF4:gid::pid:BAL94043.1:loc:7052:7778:strand:- -            241   2.3e-18   66.3   5.0   1   1     2e-22   3.9e-18   65.6   5.0     7   116   129   239   123   240 0.89 Transglutaminase-like superfamily
+DUF5974              PF19399.2     38 BGC0000576_ORF5:gid::pid:BAL94044.1:loc:7839:7956:strand:- -             38   1.5e-24   85.7   0.4   1   1   8.3e-29   1.6e-24   85.6   0.4     1    38     1    38     1    38 0.99 Family of unknown function (DUF5974)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000576.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000576.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000576.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:07:09 2023
+# [ok]

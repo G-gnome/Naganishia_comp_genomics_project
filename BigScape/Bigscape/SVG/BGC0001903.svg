@@ -1,0 +1,135 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="382.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="372.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>nzsA
+anthranilate phosphoribosyltransferase</title>
+			<polygon class="nzsA
+anthranilate phosphoribosyltransferase" points="10,25 15,25 15,10 45,40 15,70 15,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_trans_3N (PF02885)
+"Glycosyl transferase family, helical bundle domain"</title>
+				<rect class="PF02885" x="11" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(156,69,183)" stroke="rgb(124,55,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_3 (PF00591)
+"Glycosyl transferase family, a/b domain"</title>
+				<polygon class="PF00591" points="18,28 29,28 41,40 29,52 18,52" stroke-linejoin="round" width="25" height="24" fill="rgb(73,116,182)" stroke="rgb(58,92,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsB
+IPP isomerase</title>
+			<polygon class="nzsB
+IPP isomerase" points="51,10 69,40 51,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="54,28 58,28 66,40 58,52 54,52" stroke-linejoin="round" width="13" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsC
+aminotransferase</title>
+			<polygon class="nzsC
+aminotransferase" points="104,25 102,25 102,10 72,40 102,70 102,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="76,40 88,28 104,28 104,52 88,52" stroke-linejoin="round" width="32" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsD
+ACP</title>
+			<polygon class="nzsD
+ACP" points="108,40 116,10 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="111,40 114,28 114,28 114,52 114,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsE
+putative 3-oxoacyl-ACP synthase III</title>
+			<polygon class="nzsE
+putative 3-oxoacyl-ACP synthase III" points="149,25 146,25 146,10 116,40 146,70 146,55 149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="120,40 125,35 125,45" stroke-linejoin="round" width="8" height="24" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<polygon class="PF08545" points="131,29 132,28 139,28 139,52 132,52 131,51" stroke-linejoin="round" width="8" height="24" fill="rgb(189,102,84)" stroke="rgb(151,81,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsF
+phytoene synthase</title>
+			<polygon class="nzsF
+phytoene synthase" points="187,25 180,25 180,10 150,40 180,70 180,55 187,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="154,40 166,28 180,28 180,52 166,52" stroke-linejoin="round" width="27" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsG
+putative 2-hydroxy-4-methyl-2-(2-phenylacetyl)pentanoic acid synthase</title>
+			<polygon class="nzsG
+putative 2-hydroxy-4-methyl-2-(2-phenylacetyl)pentanoic acid synthase" points="245,25 216,25 216,10 186,40 216,70 216,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="190,40 202,28 205,28 205,52 202,52 190,40" stroke-linejoin="round" width="15" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="211" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="227" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsH
+putative cyclase/dehydrolase</title>
+			<polygon class="nzsH
+putative cyclase/dehydrolase" points="246,40 268,10 268,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>nzsI
+putative 3-oxoacyl-ACP synthase III</title>
+			<polygon class="nzsI
+putative 3-oxoacyl-ACP synthase III" points="304,25 301,25 301,10 271,40 301,70 301,55 304,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="275,40 280,35 280,45" stroke-linejoin="round" width="9" height="24" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III (PF08545)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III"</title>
+				<polygon class="PF08545" points="285,30 287,28 292,28 292,52 287,52 285,50" stroke-linejoin="round" width="7" height="24" fill="rgb(189,102,84)" stroke="rgb(151,81,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nzsJ
+cysteine desulfurase</title>
+			<polygon class="nzsJ
+cysteine desulfurase" points="328,25 342,25 342,10 372,40 342,70 342,55 328,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="332,28 356,28 368,40 356,52 332,52" stroke-linejoin="round" width="38" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

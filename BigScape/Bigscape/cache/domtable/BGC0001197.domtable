@@ -1,0 +1,35 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NIT                  PF08376.13   225 BGC0001197_ORF1:gid::pid:ABW11816.1:loc:0:3399:strand:+ -           1132   5.2e-41  141.7  12.8   1   1   5.3e-45   5.2e-41  141.7  12.8     1   224    55   295    55   296 0.91 Nitrate and nitrite sensing
+HATPase_c            PF02518.29   112 BGC0001197_ORF1:gid::pid:ABW11816.1:loc:0:3399:strand:+ -           1132   2.7e-08   34.4   0.0   1   1   6.9e-12   6.7e-08   33.1   0.0     6   110   520   623   516   625 0.85 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Robl_LC7             PF03259.20    91 BGC0001197_ORF2:gid::pid:ABW11817.1:loc:3398:3818:strand:+ -            139   9.2e-26   89.6   0.1   1   1   7.4e-30   1.4e-25   88.9   0.1     1    90    10   100    10   101 0.98 Roadblock/LC7 domain
+DUF742               PF05331.14   114 BGC0001197_ORF3:gid::pid:ABW11818.1:loc:3935:4307:strand:+ -            123   3.2e-35  120.5   2.2   1   1   1.8e-39   3.6e-35  120.3   2.2     1   114    10   123    10   123 0.96 Protein of unknown function (DUF742)
+ATP_bind_1           PF03029.20   241 BGC0001197_ORF4:gid::pid:ABW11819.1:loc:4287:4911:strand:+ -            207   1.6e-28  100.3   0.6   1   1   3.4e-31   6.7e-27   94.9   0.6     1   240    23   191    23   192 0.96 Conserved hypothetical ATP binding protein
+GerE                 PF00196.22    57 BGC0001197_ORF5:gid::pid:ABW11820.1:loc:4973:5972:strand:+ -            332     9e-06   25.3   0.0   1   1   1.1e-09   2.1e-05   24.2   0.0     6    55   275   324   273   326 0.94 Bacterial regulatory proteins, luxR family
+Cyclase_polyket      PF04673.15   104 BGC0001197_ORF6:gid::pid:ABW11821.1:loc:6304:6682:strand:+ -            125   1.1e-42  144.7   0.0   1   1   6.3e-47   1.2e-42  144.4   0.0     1   103    16   118    16   119 0.99 Polyketide synthesis cyclase
+PP-binding           PF00550.28    67 BGC0001197_ORF7:gid::pid:ABW11822.1:loc:7082:7340:strand:+ -             85   3.8e-09   36.9   0.1   1   1   2.3e-13   4.5e-09   36.6   0.1     2    52     9    61     8    75 0.86 Phosphopantetheine attachment site
+Polyketide_cyc       PF03364.23   130 BGC0001197_ORF8:gid::pid:ABW11823.1:loc:7390:7885:strand:+ -            164   2.8e-16   60.0   1.2   1   1   3.3e-20   3.3e-16   59.8   1.2     1   118    11   129    11   141 0.90 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.12   142 BGC0001197_ORF8:gid::pid:ABW11823.1:loc:7390:7885:strand:+ -            164   4.4e-12   46.6   1.4   1   1   5.4e-16   5.3e-12   46.4   1.4     4   125     5   125     2   155 0.80 Polyketide cyclase / dehydrase and lipid transport
+Cupin_2              PF07883.14    71 BGC0001197_ORF9:gid::pid:ABW11824.1:loc:7895:8318:strand:+ -            140   4.4e-15   55.3   0.5   1   1   6.1e-19     6e-15   54.9   0.5     3    67    49   113    47   117 0.93 Cupin domain
+AraC_binding         PF02311.22   136 BGC0001197_ORF9:gid::pid:ABW11824.1:loc:7895:8318:strand:+ -            140   7.3e-07   29.3   0.2   1   1   9.7e-11   9.5e-07   28.9   0.2    12    78    53   119    44   123 0.90 AraC-like ligand binding domain
+ketoacyl-synt        PF00109.29   253 BGC0001197_ORF10:gid::pid:ABW11825.1:loc:8314:9667:strand:+ -            450     2e-49  168.5   1.1   1   1   4.4e-53   4.3e-49  167.5   1.1     3   253    25   282    24   282 0.86 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001197_ORF10:gid::pid:ABW11825.1:loc:8314:9667:strand:+ -            450   2.5e-34  117.9   0.3   1   1   4.4e-38   4.4e-34  117.2   0.3     1   117   290   403   290   405 0.97 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0001197_ORF11:gid::pid:ABW11826.1:loc:9663:10950:strand:+ -            428   4.7e-32  111.7   2.3   1   1   3.2e-35   3.1e-31  109.0   0.4     5   248    25   258    23   263 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001197_ORF11:gid::pid:ABW11826.1:loc:9663:10950:strand:+ -            428   3.5e-23   82.0   0.4   1   1   7.5e-27   7.4e-23   80.9   0.3     1   118   271   383   271   384 0.96 Beta-ketoacyl synthase, C-terminal domain
+adh_short_C2         PF13561.9    234 BGC0001197_ORF12:gid::pid:ABW11827.1:loc:11052:11790:strand:+ -            245   6.3e-66  222.4   0.7   1   1   1.5e-69   7.6e-66  222.2   0.7     3   233    16   245    13   245 0.96 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001197_ORF12:gid::pid:ABW11827.1:loc:11052:11790:strand:+ -            245   7.8e-51  172.4   0.2   1   1     2e-54   9.9e-51  172.1   0.2     1   188     8   194     8   200 0.98 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001197_ORF12:gid::pid:ABW11827.1:loc:11052:11790:strand:+ -            245   2.2e-17   63.7   0.5   1   1   6.6e-21   3.2e-17   63.1   0.5     4   164    11   170     9   196 0.91 KR domain
+Epimerase            PF01370.24   241 BGC0001197_ORF12:gid::pid:ABW11827.1:loc:11052:11790:strand:+ -            245   1.2e-05   25.0   0.9   1   1   4.3e-09   2.1e-05   24.2   0.9     1    90    10   111    10   225 0.77 NAD dependent epimerase/dehydratase family
+ABM                  PF03992.19    78 BGC0001197_ORF13:gid::pid:ABW11828.1:loc:11789:12113:strand:+ -            107   2.9e-09   37.0   0.0   1   1   1.9e-13   3.7e-09   36.7   0.0     2    75     7    79     6    81 0.94 Antibiotic biosynthesis monooxygenase
+ABM                  PF03992.19    78 BGC0001197_ORF14:gid::pid:ABW11829.1:loc:12229:12679:strand:+ -            149   1.3e-07   31.8   0.1   1   1   6.5e-12   1.3e-07   31.8   0.1    12    73    52   112    41   116 0.89 Antibiotic biosynthesis monooxygenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001197.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001197.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001197.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:03:47 2023
+# [ok]

@@ -1,0 +1,275 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1010.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1000.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>lpmA
+HMG-CoA syntahse</title>
+			<polygon class="lpmA
+HMG-CoA syntahse" points="49,25 40,25 40,10 10,40 40,70 40,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="15,39 23,31 23,49 15,41" stroke-linejoin="round" width="8" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="32" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmB
+sulfotransferase</title>
+			<polygon class="lpmB
+sulfotransferase" points="91,25 80,25 80,10 50,40 80,70 80,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Arylsulfotran_2 (PF14269)
+"Arylsulfotransferase (ASST)"</title>
+				<polygon class="PF14269" points="54,40 66,28 79,28 79,52 66,52" stroke-linejoin="round" width="28" height="24" fill="rgb(81,204,122)" stroke="rgb(64,163,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmC
+hypothetical protein</title>
+			<polygon class="lpmC
+hypothetical protein" points="94,40 118,10 118,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4111 (PF13427)
+"Domain of unknown function (DUF4111)"</title>
+				<polygon class="PF13427" points="98,40 102,35 102,45" stroke-linejoin="round" width="8" height="24" fill="rgb(49,193,165)" stroke="rgb(39,154,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmD
+type III PKS</title>
+			<polygon class="lpmD
+type III PKS" points="133,25 138,25 138,10 168,40 138,70 138,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<polygon class="PF00195" points="138,28 151,28 152,29 152,51 151,52 138,52" stroke-linejoin="round" width="14" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="153,30 163,40 153,50" stroke-linejoin="round" width="13" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmE
+PAPS 3'-phosphatase</title>
+			<polygon class="lpmE
+PAPS 3'-phosphatase" points="168,10 194,40 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inositol_P (PF00459)
+"Inositol monophosphatase family"</title>
+				<polygon class="PF00459" points="169,28 180,28 190,40 180,52 169,52" stroke-linejoin="round" width="24" height="24" fill="rgb(67,210,137)" stroke="rgb(53,168,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmF
+sulfotransferase</title>
+			<polygon class="lpmF
+sulfotransferase" points="194,10 215,40 194,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_4 (PF17784)
+"Sulfotransferase domain"</title>
+				<polygon class="PF17784" points="194,28 203,28 211,40 203,52 194,52" stroke-linejoin="round" width="19" height="24" fill="rgb(86,191,90)" stroke="rgb(68,152,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmG
+AraC-like regulator</title>
+			<polygon class="lpmG
+AraC-like regulator" points="224,25 227,25 227,10 257,40 227,70 227,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="248,35 253,40 248,45" stroke-linejoin="round" width="8" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmH
+beta-hydroxylase</title>
+			<polygon class="lpmH
+beta-hydroxylase" points="262,10 279,40 262,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp_Arg_Hydrox (PF05118)
+"Aspartyl/Asparaginyl beta-hydroxylase"</title>
+				<polygon class="PF05118" points="265,28 268,28 275,40 268,52 265,52" stroke-linejoin="round" width="13" height="24" fill="rgb(110,77,203)" stroke="rgb(88,61,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmI
+SAM-dependent methyltransferase</title>
+			<polygon class="lpmI
+SAM-dependent methyltransferase" points="280,10 301,40 280,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="284,28 289,28 293,34 293,46 289,52 284,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmJ
+kinase</title>
+			<polygon class="lpmJ
+kinase" points="301,10 319,40 301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lpmK
+amino-carboxypropyl transferase</title>
+			<polygon class="lpmK
+amino-carboxypropyl transferase" points="320,25 334,25 334,10 364,40 334,70 334,55 320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lpmL
+transaldolase</title>
+			<polygon class="lpmL
+transaldolase" points="364,25 376,25 376,10 406,40 376,70 376,55 364,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SHMT (PF00464)
+"Serine hydroxymethyltransferase"</title>
+				<polygon class="PF00464" points="365,28 390,28 402,40 402,40 390,52 365,52" stroke-linejoin="round" width="37" height="24" fill="rgb(215,97,215)" stroke="rgb(172,77,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmM
+Fe(II)-dependent UMP dioxygenase</title>
+			<polygon class="lpmM
+Fe(II)-dependent UMP dioxygenase" points="410,10 437,40 410,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="411,28 422,28 433,40 422,52 411,52" stroke-linejoin="round" width="25" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmN
+nucleotidyltransferase</title>
+			<polygon class="lpmN
+nucleotidyltransferase" points="437,10 460,40 437,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lpmO
+glycosyltransferase</title>
+			<polygon class="lpmO
+glycosyltransferase" points="461,25 468,25 468,10 498,40 468,70 468,55 461,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lpmP
+aminotransferase</title>
+			<polygon class="lpmP
+aminotransferase" points="498,25 510,25 510,10 540,40 510,70 510,55 498,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="499,28 524,28 536,40 524,52 499,52" stroke-linejoin="round" width="40" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmQ
+pyrimidine phosphorylase</title>
+			<polygon class="lpmQ
+pyrimidine phosphorylase" points="541,25 556,25 556,10 586,40 556,70 556,55 541,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_trans_3N (PF02885)
+"Glycosyl transferase family, helical bundle domain"</title>
+				<rect class="PF02885" x="542" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(156,69,183)" stroke="rgb(124,55,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_3 (PF00591)
+"Glycosyl transferase family, a/b domain"</title>
+				<polygon class="PF00591" points="549,28 570,28 572,30 572,50 570,52 549,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,116,182)" stroke="rgb(58,92,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PYNP_C (PF07831)
+"Pyrimidine nucleoside phosphorylase C-terminal domain"</title>
+				<polygon class="PF07831" points="576,34 582,40 576,46" stroke-linejoin="round" width="7" height="24" fill="rgb(204,173,76)" stroke="rgb(163,138,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmR
+acyl-CoA synthase</title>
+			<polygon class="lpmR
+acyl-CoA synthase" points="587,25 592,25 592,10 622,40 592,70 592,55 587,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lpmS
+acyltransferase</title>
+			<polygon class="lpmS
+acyltransferase" points="622,25 641,25 641,10 671,40 641,70 641,55 622,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COesterase (PF00135)
+"Carboxylesterase family"</title>
+				<polygon class="PF00135" points="622,28 655,28 656,29 656,51 655,52 622,52" stroke-linejoin="round" width="34" height="24" fill="rgb(204,82,64)" stroke="rgb(163,65,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmT
+ABC transporter</title>
+			<polygon class="lpmT
+ABC transporter" points="672,25 765,25 765,10 795,40 765,70 765,55 672,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="675" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="708" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="738" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="772,28 779,28 786,35 786,45 779,52 772,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmU
+acyltransferase</title>
+			<polygon class="lpmU
+acyltransferase" points="795,25 799,25 799,10 829,40 799,70 799,55 795,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lpmV
+hypothetical protein</title>
+			<polygon class="lpmV
+hypothetical protein" points="839,25 869,25 869,10 899,40 869,70 869,55 839,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lpmW
+acyl-CoA dehydrogenase</title>
+			<polygon class="lpmW
+acyl-CoA dehydrogenase" points="902,25 906,25 906,10 936,40 906,70 906,55 902,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="918,28 920,28 929,37 929,43 920,52 918,52" stroke-linejoin="round" width="11" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmX
+SAM-dependent methyltransferase</title>
+			<polygon class="lpmX
+SAM-dependent methyltransferase" points="938,25 949,25 949,10 979,40 949,70 949,55 938,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="957,28 963,28 965,30 965,50 963,52 957,52" stroke-linejoin="round" width="8" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpmY
+kinase</title>
+			<polygon class="lpmY
+kinase" points="981,10 999,40 981,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

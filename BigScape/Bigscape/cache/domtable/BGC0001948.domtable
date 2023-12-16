@@ -1,0 +1,16 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CDPS                 PF16715.8    220 BGC0001948_ORF1:gid::pid:AWF71595.1:loc:62:788:strand:+ -            241   3.1e-61  207.0   0.0   1   1   1.8e-65   3.5e-61  206.8   0.0     3   219    14   235    12   236 0.95 Cyclodipeptide synthase
+p450                 PF00067.25   463 BGC0001948_ORF2:gid::pid:AWF71596.1:loc:879:2085:strand:+ -            401   1.2e-21   77.1   0.0   1   1   8.3e-24   1.6e-19   70.1   0.0   238   423   208   362   175   368 0.84 Cytochrome P450
+MFS_1                PF07690.19   353 BGC0001948_ORF3:gid::pid:AWF71597.1:loc:2103:3579:strand:+ -            491   1.9e-51  175.2  53.9   1   1     3e-55     6e-51  173.6  42.7     2   352    33   427    32   428 0.90 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001948.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001948.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001948.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:05:37 2023
+# [ok]

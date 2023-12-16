@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.20   256 BGC0000676_ORF1:gid:PbGGS:pid:BAD29970.1:loc:621:1653:strand:- -            343   3.5e-61  206.6   0.0   1   1   2.6e-65   5.2e-61  206.1   0.0     2   255    54   294    53   295 0.95 Polyprenyl synthetase
+p450                 PF00067.25   463 BGC0000676_ORF3:gid:PbP450-1:pid:BAD29972.1:loc:6698:8429:strand:+ -            486   1.9e-61  208.4   0.0   1   1   1.3e-65   2.6e-61  207.9   0.0    18   443    52   461    36   476 0.85 Cytochrome P450
+MFS_1                PF07690.19   353 BGC0000676_ORF4:gid:PbTP:pid:BAD29973.1:loc:8956:10846:strand:- -            564   1.7e-34  119.4  65.3   1   1   1.1e-37   1.1e-33  116.7  63.0     1   352    67   470    67   471 0.82 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000676_ORF4:gid:PbTP:pid:BAD29973.1:loc:8956:10846:strand:- -            564   3.7e-07   29.5  10.5   1   1   3.8e-11   3.7e-07   29.5  10.5    43   195    56   239     7   240 0.76 Sugar (and other) transporter
+p450                 PF00067.25   463 BGC0000676_ORF5:gid:PbP450-2:pid:BAD29974.1:loc:11481:13230:strand:+ -            541   3.2e-40  138.4   0.0   1   1   2.1e-44   4.2e-40  138.0   0.0    14   445    74   506    63   522 0.86 Cytochrome P450
+AflR                 PF08493.13   101 BGC0000676_ORF6:gid:PbTF:pid:BAD29975.1:loc:13450:14838:strand:- -            425   2.7e-06   27.5   1.8   1   1   5.8e-10   1.1e-05   25.6   1.8     3    95   258   341   256   347 0.78 Aflatoxin regulatory protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000676.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000676.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000676.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:18:25 2023
+# [ok]

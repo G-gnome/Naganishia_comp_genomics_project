@@ -1,0 +1,27 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 BGC0000812_ORF1:gid:CBR4:pid:AHG26146.1:loc:502:1357:strand:+ -            284   4.3e-42  143.9   0.0   1   2   1.3e-11   8.2e-08   32.1   0.0     2    46     7    51     6    70 0.93 short chain dehydrogenase
+adh_short            PF00106.28   195 BGC0000812_ORF1:gid:CBR4:pid:AHG26146.1:loc:502:1357:strand:+ -            284   4.3e-42  143.9   0.0   2   2   1.8e-35   1.2e-31  109.9   0.0    76   192   116   239   110   241 0.93 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000812_ORF1:gid:CBR4:pid:AHG26146.1:loc:502:1357:strand:+ -            284   1.1e-38  133.2   0.0   1   1   2.4e-39   1.6e-35  122.9   0.0    67   233   115   281   110   282 0.93 Enoyl-(Acyl carrier protein) reductase
+ThiF                 PF00899.24   219 BGC0000812_ORF2:gid:uba2:pid:AHG26147.1:loc:1622:3717:strand:- -            624   1.1e-66  224.4   0.0   1   1   2.2e-70   1.5e-66  223.9   0.0     9   189    10   409     4   439 0.94 ThiF family
+UAE_UbL              PF14732.9     87 BGC0000812_ORF2:gid:uba2:pid:AHG26147.1:loc:1622:3717:strand:- -            624   3.1e-15   56.7   1.7   1   1   4.7e-19   3.1e-15   56.7   1.7     1    83   444   523   444   526 0.95 Ubiquitin/SUMO-activating enzyme ubiquitin-like domain
+UBA_E1_SCCH          PF10585.12   256 BGC0000812_ORF2:gid:uba2:pid:AHG26147.1:loc:1622:3717:strand:- -            624   5.5e-09   36.4   0.2   1   1   9.7e-09   6.4e-05   23.1   0.1   193   256   313   373   284   373 0.77 Ubiquitin-activating enzyme, SCCH domain
+Q_salvage            PF10343.12   288 BGC0000812_ORF3:gid::pid:AHG26148.1:loc:4122:5320:strand:+ -            364  2.8e-127  424.3   0.0   1   1  1.8e-131  3.5e-127  424.0   0.0     1   288    79   364    79   364 0.99 Potential Queuosine, Q, salvage protein family
+FAD_binding_4        PF01565.26   139 BGC0000812_ORF4:gid:yvdP:pid:AHG26149.1:loc:6266:7802:strand:+ -            493     3e-26   91.9   1.4   1   1   4.7e-30   4.6e-26   91.3   1.4     3   138    44   180    42   181 0.93 FAD binding domain
+BBE                  PF08031.15    46 BGC0000812_ORF4:gid:yvdP:pid:AHG26149.1:loc:6266:7802:strand:+ -            493   4.4e-13   49.2   0.0   1   1   1.1e-16   1.1e-12   48.0   0.0     1    46   423   468   423   468 0.97 Berberine and berberine like
+p450                 PF00067.25   463 BGC0000812_ORF7:gid:cyp450:pid:AHG26152.1:loc:10255:12013:strand:+ -            552   2.9e-63  214.3   0.0   1   1   1.8e-67   3.6e-63  214.1   0.0     1   447    49   503    49   524 0.91 Cytochrome P450
+Acetyltransf_7       PF13508.10    80 BGC0000812_ORF10:gid::pid:AHG26155.1:loc:15914:16997:strand:- -            259     2e-06   28.1   0.0   1   1     5e-10   3.3e-06   27.5   0.0    29    80   177   229   158   229 0.70 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.10   128 BGC0000812_ORF10:gid::pid:AHG26155.1:loc:15914:16997:strand:- -            259   1.2e-05   25.4   0.0   1   1   3.1e-09     2e-05   24.6   0.0    54   112   177   232   167   237 0.88 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.28   117 BGC0000812_ORF10:gid::pid:AHG26155.1:loc:15914:16997:strand:- -            259   2.3e-05   24.7   0.0   1   1   5.7e-09   3.7e-05   24.0   0.0    58   117   172   227   156   227 0.87 Acetyltransferase (GNAT) family
+Fungal_trans         PF04082.21   267 BGC0000812_ORF13:gid::pid:AHG26158.1:loc:23762:25834:strand:- -            612   1.4e-05   24.4   0.0   1   1   1.2e-09   2.3e-05   23.7   0.0    46   181   276   397   223   423 0.66 Fungal specific transcription factor domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000812.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000812.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000812.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:27:31 2023
+# [ok]

@@ -1,0 +1,231 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1725.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1715.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>Spd1
+S-adenosyl-L-methionine-dependent methyltransferase</title>
+			<polygon class="Spd1
+S-adenosyl-L-methionine-dependent methyltransferase" points="179,25 181,25 181,10 211,40 181,70 181,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>Spd2
+membrane dipeptidase</title>
+			<polygon class="Spd2
+membrane dipeptidase" points="287,25 263,25 263,10 233,40 263,70 263,55 287,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M19 (PF01244)
+"Membrane dipeptidase (Peptidase family M19)"</title>
+				<polygon class="PF01244" points="242,35 249,28 279,28 279,52 249,52 242,45" stroke-linejoin="round" width="37" height="24" fill="rgb(178,227,92)" stroke="rgb(142,181,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd3
+cytochrome P450</title>
+			<polygon class="Spd3
+cytochrome P450" points="299,25 331,25 331,10 361,40 331,70 331,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="305,28 344,28 348,32 348,48 344,52 305,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd4
+flavin-dependent halogenase</title>
+			<polygon class="Spd4
+flavin-dependent halogenase" points="372,25 405,25 405,10 435,40 405,70 405,55 372,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="381" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd5
+glutathione S-transferase</title>
+			<polygon class="Spd5
+glutathione S-transferase" points="451,40 480,10 480,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GST_N_3 (PF13417)
+"Glutathione S-transferase, N-terminal domain"</title>
+				<rect class="PF13417" x="468" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(220,154,91)" stroke="rgb(176,123,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd6
+ABC transporter</title>
+			<polygon class="Spd6
+ABC transporter" points="595,25 533,25 533,10 503,40 533,70 533,55 595,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="524" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="545" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd7
+O-methyltransferase</title>
+			<polygon class="Spd7
+O-methyltransferase" points="662,25 644,25 644,10 614,40 644,70 644,55 662,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="622,36 630,28 643,28 643,52 630,52 622,44" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd8
+cytochrome P450</title>
+			<polygon class="Spd8
+cytochrome P450" points="672,25 703,25 703,10 733,40 703,70 703,55 672,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="678,28 717,28 721,32 721,48 717,52 678,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd9
+gamma-glutamyl cyclotransferase</title>
+			<polygon class="Spd9
+gamma-glutamyl cyclotransferase" points="765,40 793,10 793,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>Spd10
+cytochrome P450</title>
+			<polygon class="Spd10
+cytochrome P450" points="869,25 837,25 837,10 807,40 837,70 837,55 869,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="817,34 823,28 853,28 853,52 823,52 817,46" stroke-linejoin="round" width="36" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd11
+O-methyltransferase</title>
+			<polygon class="Spd11
+O-methyltransferase" points="879,25 897,25 897,10 927,40 897,70 897,55 879,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="896,28 911,28 917,34 917,46 911,52 896,52" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd12
+hypothetical protein</title>
+			<polygon class="Spd12
+hypothetical protein" points="944,25 949,25 949,10 979,40 949,70 949,55 944,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>Spd13
+oxidoreductase</title>
+			<polygon class="Spd13
+oxidoreductase" points="1020,25 1017,25 1017,10 987,40 1017,70 1017,55 1020,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<rect class="PF07992" x="1006" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd14
+MFS transporter</title>
+			<polygon class="Spd14
+MFS transporter" points="1031,25 1045,25 1045,10 1075,40 1045,70 1045,55 1031,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>Spd15
+acyltransferase</title>
+			<polygon class="Spd15
+acyltransferase" points="1101,10 1125,40 1101,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>Spd16
+amino transferase</title>
+			<polygon class="Spd16
+amino transferase" points="1177,25 1158,25 1158,10 1128,40 1158,70 1158,55 1177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="1136,36 1144,28 1172,28 1172,52 1144,52 1136,44" stroke-linejoin="round" width="36" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd17
+non-ribosomal peptide synthetase</title>
+			<polygon class="Spd17
+non-ribosomal peptide synthetase" points="1190,25 1377,25 1377,10 1407,40 1377,70 1377,55 1190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1191" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1250" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1294" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1344" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="1353,28 1391,28 1394,31 1394,49 1391,52 1353,52" stroke-linejoin="round" width="41" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd18
+MFS transporter</title>
+			<polygon class="Spd18
+MFS transporter" points="1480,25 1456,25 1456,10 1426,40 1456,70 1456,55 1480,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="1437,33 1442,28 1477,28 1477,52 1442,52 1437,47" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd19
+hypothetical protein</title>
+			<polygon class="Spd19
+hypothetical protein" points="1512,10 1530,40 1512,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>Spd20
+transcription factor</title>
+			<polygon class="Spd20
+transcription factor" points="1543,25 1567,25 1567,10 1597,40 1567,70 1567,55 1543,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="1544" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(121,178,76)" stroke="rgb(96,142,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>Spd21
+S-adenosyl-L-methionine-dependent methyltransferase</title>
+			<polygon class="Spd21
+S-adenosyl-L-methionine-dependent methyltransferase" points="1666,25 1652,25 1652,10 1622,40 1652,70 1652,55 1666,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="1627,39 1638,28 1649,28 1649,52 1638,52 1627,41" stroke-linejoin="round" width="22" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

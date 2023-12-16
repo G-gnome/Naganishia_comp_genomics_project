@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="244.26666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="234.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>SCO6681
+putative serine/threonine protein kinase</title>
+			<polygon class="SCO6681
+putative serine/threonine protein kinase" points="10,25 73,25 73,10 103,40 73,70 73,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="35" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6682
+hypothetical protein SC5A7.32</title>
+			<polygon class="SCO6682
+hypothetical protein SC5A7.32" points="104,10 108,40 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RamS (PF19402)
+"Lanthionine-containing peptide SapB precursor RamS"</title>
+				<polygon class="PF19402" points="104,32 105,40 104,48" stroke-linejoin="round" width="4" height="24" fill="rgb(78,105,213)" stroke="rgb(62,84,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6683
+putative ABC transporter</title>
+			<polygon class="SCO6683
+putative ABC transporter" points="109,25 142,25 142,10 172,40 142,70 142,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="113" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="145,28 156,28 159,31 159,49 156,52 145,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>SCO6684
+putative ABC transporter</title>
+			<polygon class="SCO6684
+putative ABC transporter" points="173,25 203,25 203,10 233,40 203,70 203,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="212,28 217,28 226,37 226,43 217,52 212,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

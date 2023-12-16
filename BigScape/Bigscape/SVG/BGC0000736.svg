@@ -1,0 +1,137 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="527.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="517.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cpxA
+CpxA</title>
+			<polygon class="cpxA
+CpxA" points="25,40 46,10 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="31,37 38,28 44,28 44,52 38,52 31,43" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cpxB
+CpxB</title>
+			<polygon class="cpxB
+CpxB" points="47,40 73,10 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="51,40 62,28 70,28 70,52 62,52" stroke-linejoin="round" width="20" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cpxC
+CpxC</title>
+			<polygon class="cpxC
+CpxC" points="109,25 103,25 103,10 73,40 103,70 103,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cpxD
+CpxD</title>
+			<polygon class="cpxD
+CpxD" points="152,25 143,25 143,10 113,40 143,70 143,55 152,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Poly_export (PF02563)
+"Polysaccharide biosynthesis/export protein"</title>
+				<rect class="PF02563" x="135" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(125,185,59)" stroke="rgb(100,148,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="168,40 189,10 189,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="216,25 198,25 198,10 168,40 198,70 198,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="252,25 247,25 247,10 217,40 247,70 247,55 252,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="322,25 282,25 282,10 252,40 282,70 282,55 322,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_2 (PF13524)
+"Glycosyl transferases group 1"</title>
+				<rect class="PF13524" x="273" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(67,127,200)" stroke="rgb(53,101,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3880 (PF12996)
+"DUF based on E. rectale Gene description (DUF3880)"</title>
+				<rect class="PF12996" x="289" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(190,203,93)" stroke="rgb(152,162,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wecB
+UDP-N-acetylglucosamine-2-epimerase</title>
+			<polygon class="wecB
+UDP-N-acetylglucosamine-2-epimerase" points="365,25 353,25 353,10 323,40 353,70 353,55 365,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="327,40 332,35 332,45" stroke-linejoin="round" width="9" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<polygon class="PF00984" points="335,32 339,28 343,28 343,52 339,52 335,48" stroke-linejoin="round" width="8" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="346" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wecC
+UDP-N-acetylmannosamine dehydrogenase</title>
+			<polygon class="wecC
+UDP-N-acetylmannosamine dehydrogenase" points="403,25 396,25 396,10 366,40 396,70 396,55 403,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase_2 (PF02350)
+"UDP-N-acetylglucosamine 2-epimerase"</title>
+				<polygon class="PF02350" points="370,40 382,28 400,28 400,52 382,52" stroke-linejoin="round" width="34" height="24" fill="rgb(212,113,103)" stroke="rgb(169,90,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phyA
+PhyA</title>
+			<polygon class="phyA
+PhyA" points="411,25 450,25 450,10 480,40 450,70 450,55 411,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Capsule_synth (PF05159)
+"Capsule polysaccharide biosynthesis protein"</title>
+				<rect class="PF05159" x="415" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(183,215,64)" stroke="rgb(146,172,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Capsule_synth (PF05159)
+"Capsule polysaccharide biosynthesis protein"</title>
+				<polygon class="PF05159" points="457,28 464,28 475,39 475,41 464,52 457,52" stroke-linejoin="round" width="18" height="24" fill="rgb(183,215,64)" stroke="rgb(146,172,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phyB
+PhyB</title>
+			<polygon class="phyB
+PhyB" points="481,25 486,25 486,10 516,40 486,70 486,55 481,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Capsule_synth (PF05159)
+"Capsule polysaccharide biosynthesis protein"</title>
+				<polygon class="PF05159" points="489,28 500,28 512,40 500,52 489,52" stroke-linejoin="round" width="26" height="24" fill="rgb(183,215,64)" stroke="rgb(146,172,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

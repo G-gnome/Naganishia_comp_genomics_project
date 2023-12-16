@@ -1,0 +1,32 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_12      PF08242.15    99 BGC0002275_ORF1:gid::pid:PYH50505.1:loc:0:753:strand:- -            250   1.3e-09   38.8   0.0   1   1   4.9e-12   1.9e-08   35.1   0.0     1    99    61   167    61   167 0.95 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002275_ORF1:gid::pid:PYH50505.1:loc:0:753:strand:- -            250   1.6e-08   35.2   0.0   1   1   7.1e-12   2.8e-08   34.5   0.0     2    97    61   165    61   165 0.81 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002275_ORF1:gid::pid:PYH50505.1:loc:0:753:strand:- -            250   1.7e-06   28.1   0.0   1   1   5.8e-10   2.3e-06   27.7   0.0    23   132    57   184    41   220 0.74 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002275_ORF1:gid::pid:PYH50505.1:loc:0:753:strand:- -            250   1.1e-05   26.1   0.0   1   1   4.5e-09   1.8e-05   25.4   0.0     1    94    61   167    61   169 0.81 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002275_ORF1:gid::pid:PYH50505.1:loc:0:753:strand:- -            250   5.5e-06   26.0   0.0   1   1     2e-09   7.7e-06   25.5   0.0    45   145    54   159    31   165 0.84 ubiE/COQ5 methyltransferase family
+AMP-binding          PF00501.31   424 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630     2e-94  316.8   0.0   1   1   1.6e-97   3.1e-94  316.1   0.0     2   424    25   423    24   423 0.88 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   2.7e-80  269.7   1.0   1   1   1.4e-83   2.7e-80  269.7   1.0     2   253   618   869   617   869 0.95 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   3.1e-51  174.9   2.0   1   1     3e-54   5.9e-51  174.0   2.0     3   280  1162  1450  1160  1482 0.92 Acyl transferase domain
+PTCB-BRCT            PF12738.10    63 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   6.6e-47  157.5   0.8   1   3   3.5e-10   6.9e-07   29.3   0.0     1    63  1861  1925  1861  1925 0.96 twin BRCT domain
+PTCB-BRCT            PF12738.10    63 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   6.6e-47  157.5   0.8   2   3     9e-28   1.8e-24   85.6   0.2     1    63  1956  2019  1956  2019 0.99 twin BRCT domain
+PTCB-BRCT            PF12738.10    63 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   6.6e-47  157.5   0.8   3   3     1e-12     2e-09   37.4   0.0     1    63  2270  2335  2270  2335 0.94 twin BRCT domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   3.3e-41  140.1   1.7   1   1   3.2e-44   6.3e-41  139.2   1.0     1   117   877   994   877   996 0.98 Beta-ketoacyl synthase, C-terminal domain
+BRCT                 PF00533.29    79 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   5.4e-31  106.9   0.1   1   3   1.8e-08   3.5e-05   24.2   0.0     2    76  1854  1927  1853  1929 0.96 BRCA1 C Terminus (BRCT) domain
+BRCT                 PF00533.29    79 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   5.4e-31  106.9   0.1   2   3   1.3e-17   2.5e-14   53.5   0.1     4    79  1951  2024  1949  2024 0.97 BRCA1 C Terminus (BRCT) domain
+BRCT                 PF00533.29    79 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   5.4e-31  106.9   0.1   3   3   1.5e-08   2.9e-05   24.5   0.0     6    79  2267  2340  2262  2340 0.92 BRCA1 C Terminus (BRCT) domain
+PP-binding           PF00550.28    67 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   7.2e-20   71.2   0.0   1   2   8.6e-13   1.7e-09   38.0   0.0     1    67   530   594   530   594 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   7.2e-20   71.2   0.0   2   2   1.9e-10   3.8e-07   30.4   0.0     3    65  1782  1845  1781  1847 0.85 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   2.1e-15   57.3   0.3   1   1   4.2e-18   8.2e-15   55.4   0.0     1   105   998  1120   998  1126 0.81 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.9     76 BGC0002275_ORF2:gid::pid:PYH50506.1:loc:1744:10320:strand:+ -           2630   1.5e-09   38.9   0.0   1   1   2.4e-12   4.8e-09   37.2   0.0     2    76   432   505   431   505 0.90 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002275.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002275.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002275.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:49:37 2023
+# [ok]

@@ -1,0 +1,31 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379     9e-77  258.2   0.4   1   1   9.5e-80   1.6e-76  257.4   0.4     3   253   391   629   389   629 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   1.2e-37  128.6   0.6   1   1   1.5e-40   2.5e-37  127.6   0.6     1   118   637   753   637   754 0.97 Beta-ketoacyl synthase, C-terminal domain
+HTH_51               PF18558.4     90 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   1.9e-29  101.5   0.0   1   1   4.5e-32   7.3e-29   99.6   0.0     5    87  1681  1763  1678  1765 0.97 Helix-turn-helix domain
+PS-DH                PF14765.9    297 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   3.4e-22   79.2   0.0   1   1     4e-25   6.5e-22   78.3   0.0    32   291  1194  1490  1181  1494 0.89 Polyketide synthase dehydratase
+Methyltransf_12      PF08242.15    99 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   4.4e-18   66.0   0.0   1   1     2e-20   3.2e-17   63.2   0.0     1    99  1871  1973  1871  1973 0.97 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   4.3e-16   59.1   1.5   1   1     6e-19   9.9e-16   57.9   1.5     1    67  1556  1622  1556  1622 0.97 Phosphopantetheine attachment site
+Methyltransf_25      PF13649.9     97 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   2.2e-13   50.8   0.0   1   1   4.8e-15   7.9e-12   45.8   0.0     1    97  1870  1971  1870  1971 0.89 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   6.7e-13   49.2   0.1   1   1   3.7e-13     6e-10   39.8   0.0     1    95  1871  1974  1871  1975 0.89 Methyltransferase domain
+SAT                  PF16073.8    240 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   2.1e-12   47.3   0.2   1   1   6.9e-15   1.1e-11   44.9   0.1    44   240    73   252    16   252 0.83 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Methyltransf_23      PF13489.9    165 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   6.2e-12   45.8   0.6   1   1   1.3e-12   2.2e-09   37.5   0.0    15   161  1858  2022  1840  2025 0.69 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001219_ORF1:gid::pid:EAQ84779.1:loc:0:8030:strand:- -           2379   5.3e-07   29.7   0.0   1   1   8.2e-10   1.3e-06   28.4   0.0     4   112  1867  1978  1865  2011 0.88 Methyltransferase domain
+p450                 PF00067.25   463 BGC0001219_ORF2:gid::pid:EAQ84780.1:loc:8679:9468:strand:+ -            238   3.1e-11   42.8   0.0   1   1   1.9e-15   3.8e-11   42.5   0.0     9   168    49   206    40   226 0.87 Cytochrome P450
+Lipase_GDSL_2        PF13472.9    179 BGC0001219_ORF3:gid::pid:EAQ84781.1:loc:11271:12060:strand:- -            262   1.4e-11   45.2   0.4   1   1   1.2e-15   2.3e-11   44.5   0.4     2   179    33   218    33   218 0.63 GDSL-like Lipase/Acylhydrolase family
+RVT_1                PF00078.30   222 BGC0001219_ORF4:gid::pid:EAQ84782.1:loc:12839:14269:strand:+ -            378   3.2e-09   36.8   0.0   1   1   2.5e-13   4.9e-09   36.2   0.0   130   179     3    52     1    67 0.87 Reverse transcriptase (RNA-dependent DNA polymerase)
+Questin_oxidase      PF14027.9    348 BGC0001219_ORF5:gid::pid:EAQ84783.1:loc:15673:17302:strand:- -            405   1.8e-59  202.2   0.7   1   1   1.2e-63   2.3e-59  201.8   0.7    50   347    50   339    18   340 0.87 Questin oxidase-like
+NAD_binding_8        PF13450.9     68 BGC0001219_ORF6:gid::pid:EAQ84784.1:loc:19053:21140:strand:- -            371   3.5e-06   27.3   2.5   1   1   1.5e-09   4.9e-06   26.8   0.1     1    28     7    34     7    39 0.95 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.27   417 BGC0001219_ORF6:gid::pid:EAQ84784.1:loc:19053:21140:strand:- -            371   3.2e-06   26.6   0.5   1   1   1.6e-09   5.4e-06   25.9   0.5     2    38     5    41     4    50 0.89 FAD binding domain
+Zn_clus              PF00172.21    40 BGC0001219_ORF7:gid::pid:EAQ84785.1:loc:22009:23500:strand:- -            472     2e-05   24.7   9.6   1   1     1e-09     2e-05   24.7   9.6     2    35    34    65    33    69 0.93 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001219.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001219.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001219.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:30:17 2023
+# [ok]

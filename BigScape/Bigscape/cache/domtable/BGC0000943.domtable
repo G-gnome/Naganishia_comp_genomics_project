@@ -1,0 +1,32 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FecCD                PF01032.21   312 BGC0000943_ORF1:gid:sirC_1:pid:SQF72442.1:loc:0:999:strand:- -            332   1.8e-82  277.0  42.4   1   1   1.1e-86   2.2e-82  276.7  42.4     2   311    20   327    18   328 0.99 FecCD transport family
+FecCD                PF01032.21   312 BGC0000943_ORF2:gid:sirB:pid:SQF72443.1:loc:995:1991:strand:- -            331   5.3e-89  298.4  45.5   1   1   3.2e-93   6.4e-89  298.2  45.5     2   312    16   326    15   326 0.98 FecCD transport family
+Peripla_BP_2         PF01497.21   237 BGC0000943_ORF3:gid:sirA:pid:SQF72444.1:loc:2006:2999:strand:- -            330   5.4e-25   88.4   4.7   1   1   3.8e-29   7.4e-25   87.9   4.7     1   230    56   294    56   299 0.87 Periplasmic binding protein
+PALP                 PF00291.28   294 BGC0000943_ORF4:gid:sbnA:pid:SQF72445.1:loc:3229:4210:strand:+ -            326   2.1e-58  198.2   0.0   1   1   1.3e-62   2.5e-58  198.0   0.0     3   294    14   299    12   299 0.93 Pyridoxal-phosphate dependent enzyme
+OCD_Mu_crystall      PF02423.18   320 BGC0000943_ORF5:gid:sbnB:pid:SQF72446.1:loc:4206:5217:strand:+ -            336   3.8e-64  216.7   0.0   1   1   2.3e-68   4.5e-64  216.5   0.0    19   319    23   327     4   328 0.89 Ornithine cyclodeaminase/mu-crystallin family
+IucA_IucC            PF04183.15   239 BGC0000943_ORF6:gid:sbnC:pid:SQF72447.1:loc:5237:6992:strand:+ -            584   2.5e-54  184.5   0.0   1   1   4.1e-58     4e-54  183.8   0.0     2   239   135   376   134   376 0.92 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000943_ORF6:gid:sbnC:pid:SQF72447.1:loc:5237:6992:strand:+ -            584   2.5e-15   57.4   0.2   1   1     8e-19   7.9e-15   55.8   0.2     8   152   404   557   398   567 0.79 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.19   353 BGC0000943_ORF7:gid:sbnD:pid:SQF72448.1:loc:7068:8241:strand:+ -            390   1.5e-45  155.8  39.6   1   2   6.2e-34   6.1e-30  104.5  16.6    16   232     1   215     1   224 0.81 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0000943_ORF7:gid:sbnD:pid:SQF72448.1:loc:7068:8241:strand:+ -            390   1.5e-45  155.8  39.6   2   2   8.5e-20   8.3e-16   58.0  21.6     3   168   197   364   194   383 0.84 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000943_ORF7:gid:sbnD:pid:SQF72448.1:loc:7068:8241:strand:+ -            390   5.7e-18   65.1  34.8   1   2   2.9e-15   2.8e-11   43.1  10.9    44   188    19   156     7   165 0.92 Sugar (and other) transporter
+Sugar_tr             PF00083.27   452 BGC0000943_ORF7:gid:sbnD:pid:SQF72448.1:loc:7068:8241:strand:+ -            390   5.7e-18   65.1  34.8   2   2     1e-10   9.8e-07   28.1  15.8    43   185   217   365   194   371 0.85 Sugar (and other) transporter
+IucA_IucC            PF04183.15   239 BGC0000943_ORF8:gid:sbnE:pid:SQF72449.1:loc:8230:9967:strand:+ -            578     2e-48  165.2   0.0   1   1   3.2e-52   3.1e-48  164.6   0.0     2   238   135   369   134   370 0.90 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000943_ORF8:gid:sbnE:pid:SQF72449.1:loc:8230:9967:strand:+ -            578   1.7e-25   90.4   0.1   1   1   4.2e-29   4.1e-25   89.2   0.1     1   158   392   551   392   556 0.85 Ferric iron reductase FhuF-like transporter
+IucA_IucC            PF04183.15   239 BGC0000943_ORF9:gid:iucC_1:pid:SQF72450.1:loc:9947:11726:strand:+ -            592   2.3e-63  214.1   0.1   1   1   5.8e-67   5.7e-63  212.8   0.0     2   239   132   379   131   379 0.95 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000943_ORF9:gid:iucC_1:pid:SQF72450.1:loc:9947:11726:strand:+ -            592   2.3e-36  125.8   0.6   1   1   4.2e-40   4.1e-36  125.0   0.6     1   161   398   569   398   571 0.91 Ferric iron reductase FhuF-like transporter
+HpcH_HpaI            PF03328.17   221 BGC0000943_ORF10:gid:sbnG:pid:SQF72451.1:loc:11697:12477:strand:+ -            259   4.6e-31  107.9   1.3   1   1     3e-35     6e-31  107.5   1.3     3   204    19   227    18   243 0.88 HpcH/HpaI aldolase/citrate lyase family
+Orn_Arg_deC_N        PF02784.19   247 BGC0000943_ORF11:gid:sbnH:pid:SQF72452.1:loc:12476:13679:strand:+ -            400     2e-35  122.5   0.0   1   1   3.7e-39   2.4e-35  122.2   0.0     5   247    29   273    25   273 0.93 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.25    95 BGC0000943_ORF11:gid:sbnH:pid:SQF72452.1:loc:12476:13679:strand:+ -            400   3.5e-15   56.1   0.0   1   1   6.5e-19   4.3e-15   55.8   0.0     5    95   101   371    20   371 0.66 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+ParBc                PF02195.21    90 BGC0000943_ORF12:gid:sbnI:pid:SQF72453.1:loc:13682:14447:strand:+ -            254   1.3e-08   35.0   0.0   1   1   1.6e-12   3.1e-08   33.8   0.0    18    71    21    76     9    87 0.86 ParB/Sulfiredoxin domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000943.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000943.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000943.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:21:36 2023
+# [ok]

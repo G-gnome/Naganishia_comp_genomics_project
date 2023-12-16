@@ -1,0 +1,71 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="230.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="220.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>crtE
+geranylgeranyl pyrophosphate synthase</title>
+			<polygon class="crtE
+geranylgeranyl pyrophosphate synthase" points="13,25 21,25 21,10 51,40 21,70 21,55 13,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="19,28 35,28 44,37 44,43 35,52 19,52" stroke-linejoin="round" width="25" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtB
+phytoene synthase</title>
+			<polygon class="crtB
+phytoene synthase" points="51,10 80,40 51,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="53,28 64,28 76,40 64,52 53,52" stroke-linejoin="round" width="24" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtI
+phytoene desaturase</title>
+			<polygon class="crtI
+phytoene desaturase" points="80,25 106,25 106,10 136,40 106,70 106,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="83,28 120,28 132,40 120,52 83,52" stroke-linejoin="round" width="50" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lbtA
+lycopene beta-elongase A</title>
+			<polygon class="lbtA
+lycopene beta-elongase A" points="136,10 148,40 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lbtBC
+lycopene beta-elongase BC</title>
+			<polygon class="lbtBC
+lycopene beta-elongase BC" points="149,25 162,25 162,10 192,40 162,70 162,55 149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lycopene_cyc (PF18916)
+"Lycopene cyclase"</title>
+				<rect class="PF18916" x="149" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(208,69,86)" stroke="rgb(166,55,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="165,28 176,28 188,40 176,52 165,52" stroke-linejoin="round" width="25" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtX
+glucosyl transferase</title>
+			<polygon class="crtX
+glucosyl transferase" points="194,40 218,10 218,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="201,36 208,28 216,28 216,52 208,52 201,44" stroke-linejoin="round" width="15" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

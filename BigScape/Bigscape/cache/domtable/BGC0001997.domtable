@@ -1,0 +1,25 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RT_RNaseH            PF17917.4    105 BGC0001997_ORF2:gid::pid::loc:6998:17219:strand:- -           1280   2.6e-25   88.8   1.0   1   1   1.6e-28     1e-24   86.9   0.2    26   105   155   234   143   234 0.94 RNase H-like domain found in reverse transcriptase
+RVT_1                PF00078.30   222 BGC0001997_ORF2:gid::pid::loc:6998:17219:strand:- -           1280   9.4e-20   71.2   3.5   1   1   2.9e-14   1.9e-10   40.8   0.1    91   208  1047  1160  1040  1179 0.87 Reverse transcriptase (RNA-dependent DNA polymerase)
+RT_RNaseH_2          PF17919.4    100 BGC0001997_ORF2:gid::pid::loc:6998:17219:strand:- -           1280   1.3e-12   47.8   0.0   1   1     5e-16   3.3e-12   46.5   0.0    50    97   156   201   151   204 0.86 RNase H-like domain found in reverse transcriptase
+Terpene_synth_C      PF03936.19   267 BGC0001997_ORF10:gid::pid::loc:42922:44784:strand:- -            288   2.6e-35  122.2   3.7   1   1     6e-33   3.9e-29  101.9   0.5    20    90   127   197   111   200 0.90 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0001997_ORF10:gid::pid::loc:42922:44784:strand:- -            288   4.4e-21   75.6   0.1   1   1   1.1e-24   7.5e-21   74.8   0.1   118   192     9    79     5    79 0.94 Terpene synthase, N-terminal domain
+p450                 PF00067.25   463 BGC0001997_ORF11:gid::pid::loc:49462:50162:strand:+ -            143   1.1e-27   97.1   0.4   1   1     4e-31   7.9e-27   94.2   0.0   276   371    38   133    33   138 0.97 Cytochrome P450
+Retrotran_gag_3      PF14244.9     48 BGC0001997_ORF12:gid::pid::loc:50643:53346:strand:+ -            818     7e-21   73.9   0.0   1   1   6.3e-24   2.5e-20   72.2   0.0     1    48    32    79    32    79 0.98 gag-polypeptide of LTR copia-type
+rve                  PF00665.29   102 BGC0001997_ORF12:gid::pid::loc:50643:53346:strand:+ -            818   3.1e-14   53.2   0.0   1   1   1.5e-17   5.7e-14   52.4   0.0     6   102   615   712   611   712 0.88 Integrase core domain
+Retrotrans_gag       PF03732.20    96 BGC0001997_ORF12:gid::pid::loc:50643:53346:strand:+ -            818   2.5e-10   40.6   1.2   1   1   1.1e-12   4.3e-09   36.7   0.2    11    95    95   205    89   206 0.87 Retrotransposon gag protein
+RVT_2                PF07727.17   243 BGC0001997_ORF13:gid::pid::loc:53517:55942:strand:+ -            638   7.7e-54  183.0   0.5   1   2   1.2e-34   1.2e-30  107.0   0.0     1    95   154   249   154   250 0.97 Reverse transcriptase (RNA-dependent DNA polymerase)
+RVT_2                PF07727.17   243 BGC0001997_ORF13:gid::pid::loc:53517:55942:strand:+ -            638   7.7e-54  183.0   0.5   2   2   6.8e-25   6.6e-21   75.1   0.1   125   242   250   367   248   368 0.98 Reverse transcriptase (RNA-dependent DNA polymerase)
+p450                 PF00067.25   463 BGC0001997_ORF13:gid::pid::loc:53517:55942:strand:+ -            638   1.1e-16   60.7   0.3   1   1     2e-20     2e-16   60.0   0.3   367   434   555   622   550   634 0.93 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001997.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001997.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001997.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:17:56 2023
+# [ok]

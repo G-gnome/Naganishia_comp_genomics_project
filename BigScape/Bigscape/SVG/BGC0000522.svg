@@ -1,0 +1,100 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="298.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="288.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>orf1z
+hypothetical protein</title>
+			<polygon class="orf1z
+hypothetical protein" points="36,40 54,10 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf2z
+putative transcriptional regulator</title>
+			<polygon class="orf2z
+putative transcriptional regulator" points="78,40 97,10 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lnqZ
+lacticin Z</title>
+			<polygon class="lnqZ
+lacticin Z" points="112,10 117,40 112,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_IIi (PF11758)
+"Aureocin-like type II bacteriocin"</title>
+				<polygon class="PF11758" points="112,27 114,40 112,53" stroke-linejoin="round" width="5" height="24" fill="rgb(114,178,85)" stroke="rgb(91,142,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf3z
+membrane protein</title>
+			<polygon class="orf3z
+membrane protein" points="121,10 129,40 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf4z
+membrane protein</title>
+			<polygon class="orf4z
+membrane protein" points="128,10 145,40 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>bPH_2 (PF03703)
+"Bacterial PH domain"</title>
+				<polygon class="PF03703" points="135,29 141,40 135,51" stroke-linejoin="round" width="7" height="24" fill="rgb(228,219,97)" stroke="rgb(182,175,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf5z
+membrane protein</title>
+			<polygon class="orf5z
+membrane protein" points="144,25 158,25 158,10 188,40 158,70 158,55 144,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>bPH_2 (PF03703)
+"Bacterial PH domain"</title>
+				<rect class="PF03703" x="150" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(228,219,97)" stroke="rgb(182,175,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>bPH_2 (PF03703)
+"Bacterial PH domain"</title>
+				<polygon class="PF03703" points="167,28 172,28 175,31 175,49 172,52 167,52" stroke-linejoin="round" width="8" height="24" fill="rgb(228,219,97)" stroke="rgb(182,175,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf6z
+ABC-2 type transporter</title>
+			<polygon class="orf6z
+ABC-2 type transporter" points="187,10 209,40 187,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf7z
+ATP-binding protein</title>
+			<polygon class="orf7z
+ATP-binding protein" points="212,10 238,40 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="212" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf8z
+prophage ps1 protein 16</title>
+			<polygon class="orf8z
+prophage ps1 protein 16" points="245,40 264,10 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf9z
+prophage ps1 protein 15</title>
+			<polygon class="orf9z
+prophage ps1 protein 15" points="265,40 276,10 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lac_bphage_repr (PF06543)
+"Lactococcus bacteriophage repressor"</title>
+				<polygon class="PF06543" points="268,40 269,37 269,43" stroke-linejoin="round" width="4" height="24" fill="rgb(228,206,68)" stroke="rgb(182,164,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_19 (PF12844)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12844" points="270,35 273,28 276,28 276,52 273,52 270,45" stroke-linejoin="round" width="6" height="24" fill="rgb(72,216,183)" stroke="rgb(57,172,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

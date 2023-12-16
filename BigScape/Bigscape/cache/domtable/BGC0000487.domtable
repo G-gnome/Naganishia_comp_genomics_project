@@ -1,0 +1,20 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0000487_ORF5:gid:cclT:pid:ADO17957.1:loc:2957:3584:strand:+ -            208     2e-15   57.7   0.1   1   1   1.3e-19   2.6e-15   57.3   0.1     2   136    21   157    20   158 0.86 ABC transporter
+SpoIIM               PF01944.20   156 BGC0000487_ORF6:gid:cclC:pid:ADO17958.1:loc:3561:4140:strand:+ -            192   1.8e-11   44.5  16.3   1   1   1.2e-15   2.4e-11   44.1  16.3     7   152    28   184    11   187 0.72 Stage II sporulation protein M
+Bacteriocin_IId      PF09221.13    67 BGC0000487_ORF8:gid:cclA:pid:ACC93994.1:loc:4779:4974:strand:+ -             64   3.7e-06   27.2  10.4   1   1   2.6e-10   5.2e-06   26.7  10.4     4    56     8    62     6    64 0.77 Bacteriocin class IId cyclical uberolysin-like
+ABC_tran             PF00005.30   137 BGC0000487_ORF11:gid:cclG:pid:ADO17962.1:loc:7083:7767:strand:+ -            227   1.4e-32  113.1   0.0   1   1     2e-36     2e-32  112.7   0.0     1   136    21   169    21   170 0.94 ABC transporter
+MacB_PCD             PF12704.10   196 BGC0000487_ORF12:gid:cclH:pid:ADO17963.1:loc:7763:8960:strand:+ -            398   3.6e-23   83.0   0.2   1   1   3.7e-27   3.6e-23   83.0   0.2     1   193    21   239    21   242 0.71 MacB-like periplasmic core domain
+FtsX                 PF02687.24   121 BGC0000487_ORF12:gid:cclH:pid:ADO17963.1:loc:7763:8960:strand:+ -            398   9.7e-21   74.1  16.6   1   1   2.8e-24   2.7e-20   72.7  14.9     2   120   280   392   279   393 0.96 FtsX-like permease family
+TraF                 PF13728.9    224 BGC0000487_ORF15:gid:trxA:pid:ADO17966.1:loc:11266:11698:strand:+ -            143   1.3e-05   25.3   0.0   1   1   7.1e-10   1.4e-05   25.2   0.0   124   203    44   120    32   140 0.81 F plasmid transfer operon protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000487.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000487.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000487.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:09:19 2023
+# [ok]

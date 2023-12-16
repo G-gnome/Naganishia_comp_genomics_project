@@ -1,0 +1,31 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_C      PF13243.9    319 BGC0000686_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   5.8e-56  190.0   0.0   1   1     1e-53   5.1e-50  170.4   0.0     4   317   394   724   392   726 0.86 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.9    291 BGC0000686_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   1.9e-50  171.8   0.2   1   1   4.9e-48   2.4e-44  151.7   0.1     6   266    90   356    85   374 0.86 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.24    44 BGC0000686_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735     1e-28   98.9   8.5   1   3   9.7e-12   4.8e-08   32.7   0.0     3    44   132   173   131   173 0.97 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0000686_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735     1e-28   98.9   8.5   2   3   2.6e-12   1.3e-08   34.6   1.8     7    44   571   607   568   607 0.97 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0000686_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735     1e-28   98.9   8.5   3   3   8.5e-09   4.2e-05   23.3   0.0     5    25   618   638   617   667 0.80 Prenyltransferase and squalene oxidase repeat
+p450                 PF00067.25   463 BGC0000686_ORF2:gid::pid:EAL89317.1:loc:2642:4385:strand:- -            580   5.3e-65  220.1   0.0   1   1   3.6e-69     7e-65  219.7   0.0    33   440   128   525   101   546 0.86 Cytochrome P450
+p450                 PF00067.25   463 BGC0000686_ORF3:gid::pid:EAL89316.1:loc:4963:6487:strand:+ -            507   5.9e-63  213.3   0.0   1   1     4e-67   7.9e-63  212.9   0.0    39   440    67   464    59   477 0.88 Cytochrome P450
+adh_short            PF00106.28   195 BGC0000686_ORF4:gid::pid:EAL89315.1:loc:6522:7296:strand:- -            257   1.8e-41  141.9   0.5   1   1   2.2e-45   2.1e-41  141.6   0.5     1   190     2   193     2   198 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000686_ORF4:gid::pid:EAL89315.1:loc:6522:7296:strand:- -            257   1.5e-32  113.2   0.3   1   1   1.9e-36   1.9e-32  112.9   0.3     1   230     8   245     8   246 0.83 Enoyl-(Acyl carrier protein) reductase
+p450                 PF00067.25   463 BGC0000686_ORF5:gid::pid:EAL89314.2:loc:7576:9100:strand:+ -            507   3.4e-65  220.7   0.0   1   1   2.3e-69   4.5e-65  220.3   0.0    30   442    61   465    53   476 0.88 Cytochrome P450
+Transferase          PF02458.18   434 BGC0000686_ORF6:gid::pid:EAL89313.1:loc:9524:10961:strand:+ -            478   8.6e-29  100.6   0.0   1   2     8e-16   1.6e-11   43.7   0.0    21   190     3   181     1   201 0.86 Transferase family
+Transferase          PF02458.18   434 BGC0000686_ORF6:gid::pid:EAL89313.1:loc:9524:10961:strand:+ -            478   8.6e-29  100.6   0.0   2   2   1.1e-18   2.2e-14   53.1   0.0   273   432   305   469   299   471 0.73 Transferase family
+p450                 PF00067.25   463 BGC0000686_ORF7:gid::pid:EAL89312.1:loc:11150:12665:strand:+ -            504   1.5e-66  225.2   0.0   1   1   1.1e-70   2.2e-66  224.7   0.0    31   442    63   463    43   476 0.83 Cytochrome P450
+Transferase          PF02458.18   434 BGC0000686_ORF8:gid::pid:EAL89311.1:loc:13066:14458:strand:+ -            463   1.1e-22   80.4   0.0   1   2   2.2e-17   4.4e-13   48.8   0.0    17   176     6   171     3   200 0.90 Transferase family
+Transferase          PF02458.18   434 BGC0000686_ORF8:gid::pid:EAL89311.1:loc:13066:14458:strand:+ -            463   1.1e-22   80.4   0.0   2   2   1.5e-11   2.9e-07   29.6   0.0   257   426   274   448   242   454 0.60 Transferase family
+FAD_binding_2        PF00890.27   417 BGC0000686_ORF9:gid::pid:EAL89310.1:loc:14486:16277:strand:- -            596   1.6e-74  251.6   1.2   1   1   3.9e-78   1.9e-74  251.4   1.2     1   417    41   577    41   577 0.87 FAD binding domain
+NAD_binding_8        PF13450.9     68 BGC0000686_ORF9:gid::pid:EAL89310.1:loc:14486:16277:strand:- -            596   2.1e-06   28.0   0.2   1   1   1.1e-09   5.2e-06   26.7   0.2     1    36    44    79    44   104 0.92 NAD(P)-binding Rossmann-like domain
+HI0933_like          PF03486.17   409 BGC0000686_ORF9:gid::pid:EAL89310.1:loc:14486:16277:strand:- -            596   1.3e-05   24.2   0.1   1   1   4.8e-09   2.4e-05   23.4   0.1     2    45    41    84    40    94 0.96 HI0933-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000686.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000686.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000686.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:08:32 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bac_transf           PF02397.19   184 BGC0000745_ORF2:gid:cpsE:pid:AAL56368.1:loc:177:1527:strand:+ -            449   2.2e-66  223.1   0.2   1   1   1.9e-70   3.7e-66  222.4   0.2     1   183   256   443   256   444 0.93 Bacterial sugar transferase
+Alg14                PF08660.14   175 BGC0000745_ORF3:gid:cpsF:pid:AAL56369.1:loc:1550:2000:strand:+ -            149   5.3e-17   62.4   0.0   1   1   1.7e-20   3.4e-16   59.8   0.0    76   173    58   146     3   148 0.91 Oligosaccharide biosynthesis protein Alg14 like
+Glyco_tran_28_C      PF04101.19   167 BGC0000745_ORF4:gid:cpsG:pid:AAL56370.1:loc:1999:2473:strand:+ -            157   5.8e-25   88.4   0.0   1   1   3.3e-29   6.5e-25   88.2   0.0     1   147     1   139     1   155 0.92 Glycosyltransferase family 28 C-terminal domain
+Glycos_transf_2      PF00535.29   170 BGC0000745_ORF6:gid:cpsI:pid:AAL56372.1:loc:3611:4580:strand:+ -            322   8.5e-39  133.2   0.4   1   1     3e-42     2e-38  132.0   0.4     1   154     6   156     6   172 0.85 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0000745_ORF6:gid:cpsI:pid:AAL56372.1:loc:3611:4580:strand:+ -            322   5.9e-16   58.9   1.1   1   1   1.7e-19   1.1e-15   58.0   1.0     1   112     6   109     6   216 0.87 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0000745_ORF6:gid:cpsI:pid:AAL56372.1:loc:3611:4580:strand:+ -            322   7.9e-14   52.2   0.0   1   1   1.6e-17     1e-13   51.8   0.0     3   132     4   127     2   198 0.85 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.29   170 BGC0000745_ORF7:gid:cpsJ:pid:AAL56373.1:loc:4613:4768:strand:+ -             52   7.1e-14   52.1   1.2   1   1     4e-18   7.8e-14   52.0   1.2     1    42    11    51    11    52 0.98 Glycosyl transferase family 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000745.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000745.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000745.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:05:28 2023
+# [ok]

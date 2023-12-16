@@ -1,0 +1,21 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pectate_lyase_3      PF12708.10   215 BGC0002348_ORF2:gid::pid:EAU36836.1:loc:1895:6279:strand:+ -           1311  2.4e-100  334.9  12.9   1   2   3.5e-89   3.5e-85  285.4   2.1     1   215    83   312    83   312 0.97 Pectate lyase superfamily protein
+Pectate_lyase_3      PF12708.10   215 BGC0002348_ORF2:gid::pid:EAU36836.1:loc:1895:6279:strand:+ -           1311  2.4e-100  334.9  12.9   2   2   1.1e-18   1.1e-14   54.9   0.3     1    62   441   499   441   559 0.86 Pectate lyase superfamily protein
+AMP-binding          PF00501.31   424 BGC0002348_ORF3:gid::pid:EAU36837.1:loc:6793:9572:strand:- -            839   5.8e-62  209.8   0.0   1   1   1.1e-65   7.3e-62  209.5   0.0     2   423    11   434    10   435 0.82 AMP-binding enzyme
+Thioesterase         PF00975.23   230 BGC0002348_ORF3:gid::pid:EAU36837.1:loc:6793:9572:strand:- -            839   7.8e-21   75.4   0.0   1   1   1.9e-24   1.2e-20   74.7   0.0    28   221   600   825   594   834 0.71 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002348_ORF3:gid::pid:EAU36837.1:loc:6793:9572:strand:- -            839     1e-08   35.4   0.5   1   1   5.2e-12   3.4e-08   33.8   0.5     3    59   540   599   538   601 0.93 Phosphopantetheine attachment site
+Tyrosinase           PF00264.23   222 BGC0002348_ORF4:gid::pid:EAU36838.1:loc:10998:11920:strand:+ -            288   5.7e-51  174.1   0.7   1   1   3.7e-55   7.2e-51  173.7   0.7     6   221     6   230     3   231 0.93 Common central domain of tyrosinase
+Fig1                 PF12351.11   188 BGC0002348_ORF6:gid::pid:EAU36840.1:loc:16873:18134:strand:+ -            320   2.7e-10   40.6   2.0   1   1   2.8e-14   2.7e-10   40.6   2.0     7   187    90   292    80   293 0.72 Ca2+ regulator and membrane fusion protein Fig1
+SUR7                 PF06687.15   212 BGC0002348_ORF6:gid::pid:EAU36840.1:loc:16873:18134:strand:+ -            320   3.3e-09   36.8   0.5   1   1   7.1e-13   6.9e-09   35.8   0.5     3   194    54   260    52   264 0.69 SUR7/PalI family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002348.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002348.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002348.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:01:48 2023
+# [ok]

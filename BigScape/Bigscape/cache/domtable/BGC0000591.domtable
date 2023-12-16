@@ -1,0 +1,16 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBP_bac_3            PF00497.23   225 BGC0000591_ORF3:gid::pid:BAA81782.1:loc:1273:2089:strand:+ -            271   5.7e-20   71.8   0.0   1   1   3.6e-24     7e-20   71.5   0.0     6   213    20   228    15   235 0.83 Bacterial extracellular solute-binding proteins, family 3
+Inhibitor_I10        PF12559.11    64 BGC0000591_ORF4:gid:mstI:pid:BAA81783.1:loc:2398:2590:strand:+ -             63   1.6e-11   44.4   0.4   1   1   9.3e-16   1.8e-11   44.2   0.4    12    64     2    56     1    56 0.87 Serine endopeptidase inhibitors
+RimK                 PF08443.14   188 BGC0000591_ORF5:gid::pid:BAA81784.1:loc:2933:3653:strand:+ -            239   1.1e-07   31.7   0.0   1   1   7.5e-12   1.5e-07   31.4   0.0     3   187    40   233    38   234 0.75 RimK-like ATP-grasp domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000591.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000591.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000591.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:03:26 2023
+# [ok]

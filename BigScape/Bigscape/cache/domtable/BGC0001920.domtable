@@ -1,0 +1,33 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GerE                 PF00196.22    57 BGC0001920_ORF1:gid:mslR1:pid:BBD82036.1:loc:0:693:strand:- -            230   3.8e-20   71.4   0.2   1   1     3e-24   5.9e-20   70.7   0.2     2    56   158   212   157   213 0.96 Bacterial regulatory proteins, luxR family
+HisKA_3              PF07730.16    68 BGC0001920_ORF2:gid:mslG:pid:BBD82037.1:loc:843:1977:strand:+ -            377   1.5e-16   60.8   3.9   1   1   7.7e-21   1.5e-16   60.8   3.9     1    66   176   241   176   243 0.97 Histidine kinase
+ABC_tran             PF00005.30   137 BGC0001920_ORF3:gid:mslD1:pid:BBD82038.1:loc:2123:3047:strand:+ -            307   9.1e-27   94.4   0.0   1   1   1.2e-30   1.2e-26   94.0   0.0     2   137    18   156    17   156 0.94 ABC transporter
+AAA_21               PF13304.9    304 BGC0001920_ORF3:gid:mslD1:pid:BBD82038.1:loc:2123:3047:strand:+ -            307   2.5e-12   47.3   0.0   1   1   1.5e-11   1.4e-07   31.7   0.0   238   298   128   185   118   191 0.90 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0001920_ORF4:gid:mslD2:pid:BBD82039.1:loc:3039:3792:strand:+ -            250   4.6e-08   33.4   0.6   1   1   6.9e-12   6.8e-08   32.8   0.6     2   173     8   184     7   197 0.64 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.10   288 BGC0001920_ORF4:gid:mslD2:pid:BBD82039.1:loc:3039:3792:strand:+ -            250     2e-07   30.7  15.8   1   1   3.6e-11   3.5e-07   29.9  15.8    87   246    72   227    24   247 0.80 ABC-2 family transporter protein
+Asn_synthase         PF00733.24   355 BGC0001920_ORF6:gid:mslC:pid:BBD82041.1:loc:4109:5951:strand:+ -            613   6.3e-37  128.2   0.0   1   1     4e-41   7.8e-37  127.9   0.0     2   355   205   593   204   593 0.83 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0001920_ORF7:gid:mslB1:pid:BBD82042.1:loc:5947:6211:strand:+ -             87   5.5e-11   42.7   0.0   1   1   3.5e-15   6.8e-11   42.5   0.0     2    67    18    83    17    83 0.93 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0001920_ORF8:gid:mslB2:pid:BBD82043.1:loc:6207:6678:strand:+ -            156     9e-23   80.5   5.7   1   1   6.4e-27   1.3e-22   80.1   5.7     6   115    26   131    22   133 0.93 Transglutaminase-like superfamily
+ABC_tran             PF00005.30   137 BGC0001920_ORF9:gid:mslD3:pid:BBD82044.1:loc:6674:7640:strand:+ -            321   2.7e-28   99.3   0.0   1   1   3.7e-32   3.7e-28   98.9   0.0     2   136    20   162    19   163 0.89 ABC transporter
+AAA_21               PF13304.9    304 BGC0001920_ORF9:gid:mslD3:pid:BBD82044.1:loc:6674:7640:strand:+ -            321   3.2e-11   43.7   1.8   1   1   2.5e-12   2.5e-08   34.2   0.2   195   299    89   194    75   197 0.87 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.27   210 BGC0001920_ORF10:gid:mslD4:pid:BBD82045.1:loc:7636:8506:strand:+ -            289   7.5e-34  117.1  12.6   1   1     1e-37     1e-33  116.7  12.6     4   208    32   240    29   241 0.92 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0001920_ORF10:gid:mslD4:pid:BBD82045.1:loc:7636:8506:strand:+ -            289   1.1e-14   54.5   9.6   1   1   1.4e-18   1.3e-14   54.2   9.6   154   345    76   282    52   283 0.88 ABC-2 family transporter protein
+MauE                 PF07291.14   185 BGC0001920_ORF11:gid:mslE:pid:BBD82046.1:loc:8502:9048:strand:+ -            181   8.2e-12   45.6  13.2   1   1   5.3e-15   5.2e-11   42.9  13.7    10   113    34   136    30   164 0.89 Methylamine utilisation protein MauE
+DoxX                 PF07681.15    85 BGC0001920_ORF11:gid:mslE:pid:BBD82046.1:loc:8502:9048:strand:+ -            181   2.4e-08   34.6  13.3   1   1   5.5e-12   5.4e-08   33.5  13.3     2    80    34   113    33   120 0.88 DoxX
+Thioredoxin_4        PF13462.9    165 BGC0001920_ORF12:gid:mslF:pid:BBD82047.1:loc:9044:9785:strand:+ -            246   3.1e-18   66.6   0.0   1   1   4.5e-22   4.4e-18   66.1   0.0    15   151    81   227    76   242 0.84 Thioredoxin
+DSBA                 PF01323.23   193 BGC0001920_ORF12:gid:mslF:pid:BBD82047.1:loc:9044:9785:strand:+ -            246   1.5e-11   44.6   0.0   1   1   2.3e-14   2.2e-10   40.7   0.0     1   186    82   235    82   242 0.90 DSBA-like thioredoxin domain
+PGA_cap              PF09587.13   257 BGC0001920_ORF13:gid:mslH:pid:BBD82048.1:loc:9781:11104:strand:+ -            440   7.3e-58  196.1   0.0   1   1   5.1e-62     1e-57  195.7   0.0     1   256     5   318     5   319 0.90 Bacterial capsule synthesis protein PGA_cap
+Response_reg         PF00072.27   112 BGC0001920_ORF14:gid:mslR2:pid:BBD82049.1:loc:11193:11868:strand:+ -            224   2.3e-23   82.6   0.0   1   1   3.6e-27   3.6e-23   82.0   0.0     1   111     7   120     7   121 0.96 Response regulator receiver domain
+GerE                 PF00196.22    57 BGC0001920_ORF14:gid:mslR2:pid:BBD82049.1:loc:11193:11868:strand:+ -            224   6.8e-18   64.1   0.3   1   1   1.1e-21   1.1e-17   63.4   0.3     3    57   158   212   156   212 0.97 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001920.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001920.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001920.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:58:31 2023
+# [ok]

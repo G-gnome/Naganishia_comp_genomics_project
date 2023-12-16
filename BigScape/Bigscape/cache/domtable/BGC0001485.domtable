@@ -1,0 +1,29 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA-synt_1b         PF00579.28   293 BGC0001485_ORF1:gid:cxm0:pid:AVL27075.1:loc:0:966:strand:- -            321   2.7e-54  184.6   0.0   1   1   1.7e-58   3.4e-54  184.3   0.0     9   291     4   274     2   276 0.91 tRNA synthetases class I (W and Y)
+HTH_1                PF00126.30    60 BGC0001485_ORF2:gid:cxm1:pid:AVL27076.1:loc:1176:2199:strand:- -            340   5.5e-23   80.8   0.9   1   1   1.1e-26     1e-22   79.9   0.9     1    60    32    91    32    91 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+LysR_substrate       PF03466.23   209 BGC0001485_ORF2:gid:cxm1:pid:AVL27076.1:loc:1176:2199:strand:- -            340   1.2e-19   70.7   5.4   1   1     2e-23   1.9e-19   70.0   5.4     5   207   119   319   115   321 0.93 LysR substrate binding domain
+MFS_1                PF07690.19   353 BGC0001485_ORF3:gid:cxm2:pid:AVL27077.1:loc:2414:3905:strand:+ -            496   3.5e-44  151.3  91.7   1   2   1.2e-41   1.2e-37  129.8  52.4     4   352    25   424    22   425 0.89 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001485_ORF3:gid:cxm2:pid:AVL27077.1:loc:2414:3905:strand:+ -            496   3.5e-44  151.3  91.7   2   2   5.5e-13   5.4e-09   35.6  31.3     4   177   276   473   273   489 0.87 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001485_ORF3:gid:cxm2:pid:AVL27077.1:loc:2414:3905:strand:+ -            496   8.3e-08   31.6  33.1   1   1   4.9e-11   4.8e-07   29.1  12.4    33   187    39   185    11   189 0.81 Sugar (and other) transporter
+ThiS                 PF02597.23    77 BGC0001485_ORF5:gid:cxm4:pid:AVL27079.1:loc:4693:4996:strand:+ -            100   1.4e-10   41.8   0.0   1   1   8.2e-15   1.6e-10   41.6   0.0     1    77     4    90     4    90 0.96 ThiS family
+p450                 PF00067.25   463 BGC0001485_ORF6:gid:cxm5:pid:AVL27080.1:loc:4992:6207:strand:+ -            404     5e-29  101.5   0.0   1   2     9e-10   1.8e-05   23.9   0.1   203   300   175   262   160   264 0.91 Cytochrome P450
+p450                 PF00067.25   463 BGC0001485_ORF6:gid:cxm5:pid:AVL27080.1:loc:4992:6207:strand:+ -            404     5e-29  101.5   0.0   2   2   5.7e-24   1.1e-19   70.6   0.0   324   448   268   385   264   398 0.88 Cytochrome P450
+ApbA                 PF02558.19   152 BGC0001485_ORF7:gid:cxm6:pid:AVL27081.1:loc:6203:7160:strand:+ -            318   3.8e-35  120.9   0.0   1   1   7.9e-39   5.2e-35  120.5   0.0     1   151     9   158     9   159 0.96 Ketopantoate reductase PanE/ApbA
+ApbA_C               PF08546.14   125 BGC0001485_ORF7:gid:cxm6:pid:AVL27081.1:loc:6203:7160:strand:+ -            318   8.8e-23   81.0   0.0   1   1   2.1e-26   1.4e-22   80.4   0.0     1   124   184   308   184   309 0.92 Ketopantoate reductase PanE/ApbA C terminal
+F420_oxidored        PF03807.20    96 BGC0001485_ORF7:gid:cxm6:pid:AVL27081.1:loc:6203:7160:strand:+ -            318   0.00012   22.8   0.0   1   1   1.8e-08   0.00012   22.8   0.0     2    95     9   109     8   110 0.83 NADP oxidoreductase coenzyme F420-dependent
+Aminotran_1_2        PF00155.24   363 BGC0001485_ORF8:gid:cxm7:pid:AVL27082.1:loc:7156:8245:strand:+ -            362   2.2e-43  149.0   0.0   1   1   1.4e-47   2.7e-43  148.6   0.0     4   357    33   347    32   353 0.90 Aminotransferase class I and II
+Radical_SAM          PF04055.24   167 BGC0001485_ORF9:gid:cxm8:pid:AVL27083.1:loc:8317:10189:strand:+ -            623   1.6e-16   61.3   0.0   1   1   3.6e-20   3.5e-16   60.1   0.0     2   165   266   426   265   428 0.89 Radical SAM superfamily
+B12-binding          PF02310.22   121 BGC0001485_ORF9:gid:cxm8:pid:AVL27083.1:loc:8317:10189:strand:+ -            623   5.9e-09   36.1   0.0   1   1   1.3e-12   1.3e-08   35.0   0.0    41   120   119   198    82   199 0.88 B12 binding domain
+DUF5825              PF19142.3    179 BGC0001485_ORF10:gid:cxm9:pid:AVL27084.1:loc:10185:10917:strand:+ -            243   3.8e-26   92.1   0.0   1   1   2.4e-30   4.7e-26   91.8   0.0     3   176    45   224    43   227 0.92 Family of unknown function (DUF5825)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001485.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001485.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001485.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:17:23 2023
+# [ok]

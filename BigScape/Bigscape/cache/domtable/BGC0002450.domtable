@@ -1,0 +1,36 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+dTDP_sugar_isom      PF00908.20   168 BGC0002450_ORF2:gid:mgb2:pid:QIJ55915.1:loc:1334:1850:strand:- -            171   5.9e-53  179.1   0.0   1   1   3.3e-57   6.5e-53  179.0   0.0     1   162     5   171     5   171 0.97 dTDP-4-dehydrorhamnose 3,5-epimerase
+GDP_Man_Dehyd        PF16363.8    332 BGC0002450_ORF4:gid:mgb4:pid:QIJ55917.1:loc:3072:4158:strand:- -            361   1.9e-35  123.0   0.0   1   1   1.1e-38   5.5e-35  121.5   0.0     1   324    17   320    17   328 0.76 GDP-mannose 4,6 dehydratase
+Epimerase            PF01370.24   241 BGC0002450_ORF4:gid:mgb4:pid:QIJ55917.1:loc:3072:4158:strand:- -            361   2.6e-31  109.1   0.0   1   1   7.4e-35   3.6e-31  108.6   0.0     1   234    16   253    16   261 0.89 NAD dependent epimerase/dehydratase family
+Polysacc_synt_2      PF02719.18   294 BGC0002450_ORF4:gid:mgb4:pid:QIJ55917.1:loc:3072:4158:strand:- -            361     1e-11   44.7   0.0   1   1   1.2e-14     6e-11   42.2   0.0    57   201    64   229    16   252 0.67 Polysaccharide biosynthesis protein
+RmlD_sub_bind        PF04321.20   287 BGC0002450_ORF4:gid:mgb4:pid:QIJ55917.1:loc:3072:4158:strand:- -            361   5.2e-10   39.0   0.0   1   1   1.7e-13   8.3e-10   38.3   0.0     2   138    15   174    14   183 0.88 RmlD substrate binding domain
+NTP_transferase      PF00483.26   247 BGC0002450_ORF5:gid:mgb5:pid:QIJ55918.1:loc:4139:4910:strand:- -            256   1.3e-16   61.0   0.0   1   1   4.9e-20   4.8e-16   59.2   0.0     2   192     3   201     2   217 0.80 Nucleotidyl transferase
+NTP_transf_3         PF12804.10   160 BGC0002450_ORF5:gid:mgb5:pid:QIJ55918.1:loc:4139:4910:strand:- -            256   1.4e-07   32.1   0.0   1   1   2.7e-11   2.6e-07   31.2   0.0     1    49     3    56     3    88 0.85 MobA-like NTP transferase domain
+Epimerase            PF01370.24   241 BGC0002450_ORF6:gid:mgb6:pid:QIJ55919.1:loc:5225:6095:strand:- -            289   3.1e-23   82.6   0.0   1   1   5.9e-27   3.8e-23   82.3   0.0     1   226     4   205     4   216 0.91 NAD dependent epimerase/dehydratase family
+GDP_Man_Dehyd        PF16363.8    332 BGC0002450_ORF6:gid:mgb6:pid:QIJ55919.1:loc:5225:6095:strand:- -            289   6.2e-12   45.7   0.0   1   1   3.9e-11   2.5e-07   30.6   0.0   123   329    96   278    80   281 0.83 GDP-mannose 4,6 dehydratase
+RmlD_sub_bind        PF04321.20   287 BGC0002450_ORF6:gid:mgb6:pid:QIJ55919.1:loc:5225:6095:strand:- -            289   3.8e-08   32.8   0.0   1   1     7e-12   4.6e-08   32.6   0.0     2   172     3   179     1   205 0.86 RmlD substrate binding domain
+Glycos_transf_2      PF00535.29   170 BGC0002450_ORF7:gid:mgb7:pid:QIJ55920.1:loc:6120:6993:strand:- -            290   2.6e-19   69.8   0.0   1   1   1.9e-23   3.7e-19   69.3   0.0     4   107     1   103     1   148 0.95 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.9    230 BGC0002450_ORF8:gid:mgb8:pid:QIJ55921.1:loc:7297:8290:strand:+ -            330   1.3e-06   28.5   0.0   1   1   1.8e-10   1.8e-06   28.1   0.0     4   217     4   242     2   262 0.71 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.29   170 BGC0002450_ORF8:gid:mgb8:pid:QIJ55921.1:loc:7297:8290:strand:+ -            330     3e-06   27.3   0.1   1   1   4.5e-10   4.4e-06   26.7   0.1     2   128     6   143     5   172 0.85 Glycosyl transferase family 2
+Methyltransf_23      PF13489.9    165 BGC0002450_ORF10:gid:mgb10:pid:QIJ55923.1:loc:9615:10359:strand:+ -            247   3.3e-15   56.4   0.1   1   1   2.4e-18   6.8e-15   55.4   0.0    25   161    15   169     6   173 0.69 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002450_ORF10:gid:mgb10:pid:QIJ55923.1:loc:9615:10359:strand:+ -            247   1.4e-13   51.4   0.0   1   1   7.8e-17   2.2e-13   50.8   0.0     1    96    17   111    17   111 0.89 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002450_ORF10:gid:mgb10:pid:QIJ55923.1:loc:9615:10359:strand:+ -            247   4.1e-12   46.8   0.0   1   1   3.7e-15     1e-11   45.5   0.0     1    99    17   109    17   109 0.84 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002450_ORF10:gid:mgb10:pid:QIJ55923.1:loc:9615:10359:strand:+ -            247   6.1e-11   42.5   0.0   1   1   4.3e-13   1.2e-09   38.3   0.0     3   114    12   116    10   133 0.87 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002450_ORF10:gid:mgb10:pid:QIJ55923.1:loc:9615:10359:strand:+ -            247   1.2e-09   38.9   0.0   1   1   1.1e-12     3e-09   37.5   0.0     1    97    16   107    16   107 0.81 Methyltransferase domain
+MetW                 PF07021.15   193 BGC0002450_ORF10:gid:mgb10:pid:QIJ55923.1:loc:9615:10359:strand:+ -            247   4.2e-07   29.9   0.0   1   1   3.4e-10   9.5e-07   28.7   0.0     6   127     4   131     2   137 0.78 Methionine biosynthesis protein MetW
+Glyco_trans_1_4      PF13692.9    135 BGC0002450_ORF13:gid:mgb13:pid:QIJ55926.1:loc:11217:12798:strand:- -            526   1.3e-28  100.1   0.0   1   1   5.6e-32   2.8e-28   99.1   0.0     3   133   352   485   350   487 0.92 Glycosyl transferases group 1
+Glycos_transf_1      PF00534.23   172 BGC0002450_ORF13:gid:mgb13:pid:QIJ55926.1:loc:11217:12798:strand:- -            526     1e-26   93.6   0.0   1   1   3.2e-30   1.5e-26   93.1   0.0    25   170   361   499   340   501 0.91 Glycosyl transferases group 1
+Glyco_trans_1_2      PF13524.9     92 BGC0002450_ORF13:gid:mgb13:pid:QIJ55926.1:loc:11217:12798:strand:- -            526   3.4e-08   33.9   0.0   1   1   1.7e-11   8.2e-08   32.7   0.0     9    79   433   504   425   515 0.89 Glycosyl transferases group 1
+CTP-dep_RFKase       PF01982.19   121 BGC0002450_ORF13:gid:mgb13:pid:QIJ55926.1:loc:11217:12798:strand:- -            526   8.5e-07   29.2   0.0   1   1   8.4e-10   4.1e-06   27.0   0.0    65   121    63   113    11   113 0.74 Domain of unknown function DUF120
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002450.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002450.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002450.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:44:55 2023
+# [ok]

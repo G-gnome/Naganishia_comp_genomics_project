@@ -1,0 +1,24 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NO_synthase          PF02898.18   362 BGC0002508_ORF1:gid::pid:QLM04708.1:loc:0:1173:strand:- -            390  3.6e-154  513.2   0.0   1   1  2.1e-158  4.1e-154  513.0   0.0     3   360    18   375    16   377 0.98 Nitric oxide synthase, oxygenase domain
+MFS_1                PF07690.19   353 BGC0002508_ORF2:gid::pid:QLM04709.1:loc:1169:2396:strand:- -            408   5.4e-31  107.9  49.8   1   2   1.1e-25   2.2e-21   76.3  22.8     3   231    28   245    26   248 0.82 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0002508_ORF2:gid::pid:QLM04709.1:loc:1169:2396:strand:- -            408   5.4e-31  107.9  49.8   2   2   3.4e-13   6.6e-09   35.3  26.3     6   180   231   405   227   408 0.87 Major Facilitator Superfamily
+NUDIX                PF00293.31   131 BGC0002508_ORF3:gid::pid:QLM04710.1:loc:2416:3127:strand:- -            236   1.6e-18   67.1   0.1   1   1   1.1e-22   2.2e-18   66.7   0.1    16   111     9   104     1   123 0.82 NUDIX domain
+LDcluster4           PF18306.4    151 BGC0002508_ORF4:gid::pid:QLM04718.1:loc:3191:3695:strand:- -            167   6.9e-27   93.9   0.6   1   1     4e-31   7.8e-27   93.8   0.6     2   128     7   137     6   160 0.88 SLOG cluster4 family
+GTP_cyclohydroI      PF01227.25   179 BGC0002508_ORF6:gid::pid:QLM04712.1:loc:4046:4667:strand:- -            206   2.1e-39  135.0   0.0   1   1   1.3e-43   2.5e-39  134.7   0.0     1   165    21   184    21   191 0.93 GTP cyclohydrolase I
+Radical_SAM          PF04055.24   167 BGC0002508_ORF7:gid::pid:QLM04713.1:loc:4902:6291:strand:- -            462     3e-14   53.9   0.0   1   1   2.9e-18   5.7e-14   53.0   0.0     2   161    59   230    58   236 0.80 Radical SAM superfamily
+DUF1152              PF06626.15   295 BGC0002508_ORF8:gid::pid:QLM04714.1:loc:6460:7597:strand:+ -            378   1.6e-73  247.7   0.2   1   1   1.1e-77   2.1e-73  247.2   0.2     1   294     5   287     5   288 0.98 Protein of unknown function (DUF1152)
+Glyco_transf_4       PF13439.9    170 BGC0002508_ORF11:gid::pid:QLM04717.1:loc:10589:11423:strand:+ -            277   6.9e-14   52.3   2.6   1   1   1.1e-17   6.9e-14   52.3   2.6     6   107    44   151    42   191 0.84 Glycosyltransferase Family 4
+Glyco_trans_4_2      PF13477.9    139 BGC0002508_ORF11:gid::pid:QLM04717.1:loc:10589:11423:strand:+ -            277   3.6e-12   46.7   0.0   1   1   9.3e-16   6.1e-12   46.0   0.0    11   106    44   146    37   158 0.81 Glycosyl transferase 4-like
+Glyco_trans_4_4      PF13579.9    159 BGC0002508_ORF11:gid::pid:QLM04717.1:loc:10589:11423:strand:+ -            277   9.8e-12   45.6  15.0   1   1   2.4e-15   1.5e-11   45.0  14.2     6   104    45   158    42   232 0.76 Glycosyl transferase 4-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002508.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002508.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002508.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:54:30 2023
+# [ok]

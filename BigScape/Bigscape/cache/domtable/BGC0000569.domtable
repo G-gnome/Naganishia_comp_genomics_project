@@ -1,0 +1,30 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HTH_34               PF13601.9     80 BGC0000569_ORF2:gid:ptnF:pid:CBJ61631.1:loc:586:898:strand:+ -            103   5.5e-28   97.1   0.2   1   1   6.5e-32   6.3e-28   96.9   0.2     1    79    15    93    15    94 0.98 Winged helix DNA-binding domain
+HTH_5                PF01022.23    47 BGC0000569_ORF2:gid:ptnF:pid:CBJ61631.1:loc:586:898:strand:+ -            103   1.5e-05   24.8   0.0   1   1   8.7e-09   8.6e-05   22.5   0.0     3    45    15    58    13    59 0.94 Bacterial regulatory protein, arsR family
+ABC_tran             PF00005.30   137 BGC0000569_ORF3:gid:ptnG:pid:CBJ61632.1:loc:898:1789:strand:+ -            296   2.2e-28   99.6   0.1   1   1   4.8e-32   4.8e-28   98.5   0.0     1   136    17   152    17   153 0.96 ABC transporter
+ABC2_membrane        PF01061.27   210 BGC0000569_ORF4:gid:ptnH:pid:CBJ61633.1:loc:1803:2544:strand:+ -            246   4.9e-23   81.8  18.2   1   1     5e-27   4.9e-23   81.8  18.2     8   207     6   204     3   206 0.87 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0000569_ORF4:gid:ptnH:pid:CBJ61633.1:loc:1803:2544:strand:+ -            246   7.9e-21   74.7  24.0   1   1     8e-25   7.9e-21   74.7  24.0   154   345    42   230    34   235 0.79 ABC-2 family transporter protein
+Pentapeptide_4       PF13599.9     78 BGC0000569_ORF5:gid:ptnI:pid:CBJ61634.1:loc:2598:3321:strand:+ -            240   1.1e-15   57.7  10.4   1   2   5.4e-12   3.5e-08   33.7   1.8     3    61   139   197   137   197 0.95 Pentapeptide repeats (9 copies)
+Pentapeptide_4       PF13599.9     78 BGC0000569_ORF5:gid:ptnI:pid:CBJ61634.1:loc:2598:3321:strand:+ -            240   1.1e-15   57.7  10.4   2   2   7.9e-11   5.2e-07   30.0   0.2    17    72   183   238   180   239 0.92 Pentapeptide repeats (9 copies)
+YcaO                 PF02624.19   322 BGC0000569_ORF9:gid:ptnC:pid:CBJ61638.1:loc:6168:7545:strand:+ -            458   8.3e-59  199.6   0.0   1   1   4.9e-63   9.7e-59  199.4   0.0     5   321    78   414    73   415 0.89 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.27   168 BGC0000569_ORF10:gid:ptnB:pid:CBJ61639.1:loc:7553:8381:strand:+ -            275   5.7e-16   59.2   0.0   1   1   7.1e-20   1.4e-15   57.9   0.0     1   155    96   260    96   274 0.91 Nitroreductase family
+Rce1-like            PF02517.19    92 BGC0000569_ORF11:gid:ptnK:pid:CBJ61640.1:loc:8377:9055:strand:+ -            225   1.8e-08   34.8  12.1   1   1   9.2e-12   1.8e-07   31.5   3.2     9    91   116   200   109   201 0.87 Type II CAAX prenyl endopeptidase Rce1-like
+Methyltransf_31      PF13847.9    152 BGC0000569_ORF12:gid:ptnL:pid:CBJ61641.1:loc:9079:9892:strand:+ -            270   1.3e-14   54.3   0.2   1   1   6.2e-18   1.7e-14   54.0   0.2     4   129    61   183    58   228 0.81 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000569_ORF12:gid:ptnL:pid:CBJ61641.1:loc:9079:9892:strand:+ -            270   1.2e-11   45.3   0.0   1   1   1.1e-14   3.1e-11   43.9   0.0     1    80    64   140    64   154 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0000569_ORF12:gid:ptnL:pid:CBJ61641.1:loc:9079:9892:strand:+ -            270   3.5e-11   43.3   0.0   1   1   1.7e-14   4.6e-11   42.9   0.0    17   136    54   188    33   218 0.79 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0000569_ORF12:gid:ptnL:pid:CBJ61641.1:loc:9079:9892:strand:+ -            270   4.4e-09   37.0   0.0   1   1     3e-12   8.3e-09   36.1   0.0     1    88    65   151    65   159 0.89 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0000569_ORF12:gid:ptnL:pid:CBJ61641.1:loc:9079:9892:strand:+ -            270   8.9e-09   36.1   0.1   1   1   6.7e-12   1.9e-08   35.1   0.1     1    96    65   154    65   157 0.78 Methyltransferase domain
+MetW                 PF07021.15   193 BGC0000569_ORF12:gid:ptnL:pid:CBJ61641.1:loc:9079:9892:strand:+ -            270   1.9e-06   27.8   0.0   1   1   1.2e-09   3.3e-06   27.0   0.0    16   100    63   149    53   159 0.83 Methionine biosynthesis protein MetW
+MTS                  PF05175.17   170 BGC0000569_ORF12:gid:ptnL:pid:CBJ61641.1:loc:9079:9892:strand:+ -            270   4.6e-06   26.5   0.0   1   1     3e-09   8.4e-06   25.6   0.0    34   102    63   128    50   131 0.77 Methyltransferase small domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000569.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000569.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000569.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:55:44 2023
+# [ok]

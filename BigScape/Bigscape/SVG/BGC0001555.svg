@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="155.33333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="145.33333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (MM1_RS00055)
+HlyD family secretion protein</title>
+			<polygon class=" (MM1_RS00055)
+HlyD family secretion protein" points="10,25 22,25 22,10 52,40 22,70 22,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CusB_dom_1 (PF00529)
+"Cation efflux system protein CusB domain 1"</title>
+				<polygon class="PF00529" points="13,28 36,28 48,40 36,52 13,52" stroke-linejoin="round" width="36" height="24" fill="rgb(100,228,198)" stroke="rgb(80,182,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MM1_RS00060)
+microcin H47 export transporter peptidase/ATP-binding subunit MchF</title>
+			<polygon class=" (MM1_RS00060)
+microcin H47 export transporter peptidase/ATP-binding subunit MchF" points="52,25 91,25 91,10 121,40 91,70 91,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="54" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="69" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="102,28 105,28 116,39 116,41 105,52 102,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cvaC (MM1_RS00065)
+colicin V</title>
+			<polygon class="cvaC (MM1_RS00065)
+colicin V" points="127,40 137,10 137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MccV (PF17508)
+"Microcin V bacteriocin"</title>
+				<polygon class="PF17508" points="130,40 134,28 137,28 137,52 134,52" stroke-linejoin="round" width="10" height="24" fill="rgb(197,161,86)" stroke="rgb(157,128,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cvi (MM1_RS00070)
+colicin V immunity protein</title>
+			<polygon class="cvi (MM1_RS00070)
+colicin V immunity protein" points="137,40 144,10 144,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,31 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Orn_Arg_deC_N        PF02784.19   247 BGC0000947_ORF1:gid:pvsE:pid:ABM30201.1:loc:153:1356:strand:- -            400   1.2e-31  110.1   0.0   1   1   2.3e-35   1.5e-31  109.8   0.0     2   247    34   282    33   282 0.96 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.25    95 BGC0000947_ORF1:gid:pvsE:pid:ABM30201.1:loc:153:1356:strand:- -            400   2.7e-16   59.6   0.0   1   1   4.9e-20   3.2e-16   59.4   0.0     2    95    29   378    28   378 0.86 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+Ala_racemase_N       PF01168.23   219 BGC0000947_ORF1:gid:pvsE:pid:ABM30201.1:loc:153:1356:strand:- -            400   1.2e-10   41.5   0.0   1   1   3.2e-14   2.1e-10   40.7   0.0     2   193    32   235    31   253 0.82 Alanine racemase, N-terminal domain
+IucA_IucC            PF04183.15   239 BGC0000947_ORF2:gid:pvsD:pid:ABM30202.1:loc:1348:3178:strand:- -            609     8e-52  176.3   2.2   1   1   2.6e-55   2.6e-51  174.7   0.0     2   223   163   383   162   400 0.88 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000947_ORF2:gid:pvsD:pid:ABM30202.1:loc:1348:3178:strand:- -            609     1e-28  101.0   1.2   1   1   2.1e-32     2e-28  100.0   0.1     2   161   430   588   429   590 0.92 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.19   353 BGC0000947_ORF3:gid:pvsC:pid:ABM30203.1:loc:3090:4356:strand:- -            421   5.1e-29  101.4  30.5   1   2   1.7e-24   1.7e-20   73.4  14.7     1   267     8   265     8   270 0.79 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0000947_ORF3:gid:pvsC:pid:ABM30203.1:loc:3090:4356:strand:- -            421   5.1e-29  101.4  30.5   2   2   1.2e-12   1.2e-08   34.4   7.4    58   168   274   384   266   400 0.89 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000947_ORF3:gid:pvsC:pid:ABM30203.1:loc:3090:4356:strand:- -            421   4.6e-05   22.6   5.1   1   1   4.7e-09   4.6e-05   22.6   5.1    48   185    42   174     8   183 0.86 Sugar (and other) transporter
+IucA_IucC            PF04183.15   239 BGC0000947_ORF4:gid:pvsB:pid:ABM30204.1:loc:4673:6194:strand:- -            506   4.1e-33  115.0   0.1   1   1   8.2e-37   8.1e-33  114.1   0.1     6   238   162   372   157   373 0.84 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0000947_ORF4:gid:pvsB:pid:ABM30204.1:loc:4673:6194:strand:- -            506   3.5e-09   37.4   2.1   1   1   8.3e-13   8.1e-09   36.2   0.2     2    59   396   453   395   474 0.78 Ferric iron reductase FhuF-like transporter
+TonB_dep_Rec         PF00593.27   470 BGC0000947_ORF6:gid:psuA:pid:ABB02669.2:loc:7652:9431:strand:+ -            592   2.8e-35  123.2  12.5   1   1   2.9e-39   2.8e-35  123.2  12.5    42   377   271   590   234   592 0.75 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0000947_ORF6:gid:psuA:pid:ABB02669.2:loc:7652:9431:strand:+ -            592   1.8e-22   80.1   0.7   1   1   5.7e-26   5.6e-22   78.5   0.7     4   108    66   162    64   162 0.96 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.27   470 BGC0000947_ORF7:gid:pvuA:pid:ABB02670.1:loc:9812:11951:strand:+ -            712   8.4e-48  164.5  30.2   1   1   1.8e-51   1.2e-47  164.1  30.2    21   470   265   711   189   711 0.75 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0000947_ORF7:gid:pvuA:pid:ABB02670.1:loc:9812:11951:strand:+ -            712   1.7e-25   89.8   0.9   1   1   4.7e-28   3.1e-24   85.7   0.6     2   108    66   177    65   177 0.93 TonB-dependent Receptor Plug Domain
+Peripla_BP_2         PF01497.21   237 BGC0000947_ORF8:gid:pvuB:pid:ABM30205.1:loc:12051:12975:strand:+ -            307   3.2e-28   98.9   0.1   1   1   1.9e-32   3.8e-28   98.7   0.1     1   235    52   281    52   283 0.91 Periplasmic binding protein
+FecCD                PF01032.21   312 BGC0000947_ORF9:gid:pvuC:pid:ABM30206.1:loc:12971:14009:strand:+ -            345   4.3e-83  279.0  31.8   1   1   2.7e-87   5.4e-83  278.7  31.8    11   312    41   342    21   342 0.95 FecCD transport family
+FecCD                PF01032.21   312 BGC0000947_ORF10:gid:pvuD:pid:ABM30207.1:loc:14005:14977:strand:+ -            323     4e-93  311.9  33.4   1   1   2.4e-97   4.7e-93  311.7  33.4     1   312    13   319    13   319 0.98 FecCD transport family
+ABC_tran             PF00005.30   137 BGC0000947_ORF11:gid:pvuE:pid:ABM30208.1:loc:14979:15744:strand:+ -            254   1.9e-31  109.5   0.0   1   1   4.1e-35   2.7e-31  109.0   0.0     3   136    19   165    17   166 0.96 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000947.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000947.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000947.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:16:55 2023
+# [ok]

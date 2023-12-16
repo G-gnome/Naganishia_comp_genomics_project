@@ -1,0 +1,330 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1372.6333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1362.6333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="10,25 48,25 48,10 78,40 48,70 48,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="82,40 95,10 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+transport protein</title>
+			<polygon class="
+transport protein" points="102,25 105,25 105,10 135,40 105,70 105,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="105,28 118,28 120,30 120,50 118,52 105,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transport protein</title>
+			<polygon class="
+transport protein" points="135,25 137,25 137,10 167,40 137,70 137,55 135,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="140,28 151,28 163,40 151,52 140,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transport protein</title>
+			<polygon class="
+transport protein" points="168,25 207,25 207,10 237,40 207,70 207,55 168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<rect class="PF01032" x="171" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="205,28 221,28 233,40 221,52 205,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livE
+putative 3-amino-2,3-dideoxy-scyllo-inositol 1-dehydrogenase</title>
+			<polygon class="livE
+putative 3-amino-2,3-dideoxy-scyllo-inositol 1-dehydrogenase" points="257,25 261,25 261,10 291,40 261,70 261,55 257,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="259" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="274,28 274,28 286,40 286,40 274,52 274,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livS
+putative L-glutamine:ketocyclitol aminotransferase</title>
+			<polygon class="livS
+putative L-glutamine:ketocyclitol aminotransferase" points="294,25 306,25 306,10 336,40 306,70 306,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="296,28 320,28 332,40 320,52 296,52" stroke-linejoin="round" width="38" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livC
+putative 2-deoxy-scyllo-inosose synthase/cyclase</title>
+			<polygon class="livC
+putative 2-deoxy-scyllo-inosose synthase/cyclase" points="338,25 346,25 346,10 376,40 346,70 346,55 338,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="344,28 360,28 369,37 369,43 360,52 344,52" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livM
+putative UDP-NAc-glucosamine:2-deoxystreptamine 4-glycosyltransferase</title>
+			<polygon class="livM
+putative UDP-NAc-glucosamine:2-deoxystreptamine 4-glycosyltransferase" points="380,25 391,25 391,10 421,40 391,70 391,55 380,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="382" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="401,28 405,28 417,40 405,52 401,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livT
+putative ABC-transporter, ATP-binding protein</title>
+			<polygon class="livT
+putative ABC-transporter, ATP-binding protein" points="421,25 451,25 451,10 481,40 451,70 451,55 421,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="423" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="456,28 464,28 471,35 471,45 464,52 456,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livU
+putative ABC-transporter, ATP-binding protein</title>
+			<polygon class="livU
+putative ABC-transporter, ATP-binding protein" points="481,25 513,25 513,10 543,40 513,70 513,55 481,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="485" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="519,28 526,28 533,35 533,45 526,52 519,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livQ
+putative lividomycin 6'-dehydrogenase</title>
+			<polygon class="livQ
+putative lividomycin 6'-dehydrogenase" points="544,25 568,25 568,10 598,40 568,70 568,55 544,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="547" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="584,30 594,40 584,50" stroke-linejoin="round" width="12" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livN
+putative Fe-S oxidoreductase</title>
+			<polygon class="livN
+putative Fe-S oxidoreductase" points="599,25 599,25 599,10 629,40 599,70 599,55 599,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>livP
+putative phosphatasein lividomycin pathway</title>
+			<polygon class="livP
+putative phosphatasein lividomycin pathway" points="629,10 652,40 629,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_Phos_1 (PF00300)
+"Histidine phosphatase superfamily (branch 1)"</title>
+				<polygon class="PF00300" points="629,28 639,28 648,40 648,40 639,52 629,52" stroke-linejoin="round" width="19" height="24" fill="rgb(135,184,63)" stroke="rgb(107,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livF
+putative glycosyltransferase</title>
+			<polygon class="livF
+putative glycosyltransferase" points="652,25 657,25 657,10 687,40 657,70 657,55 652,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>livD
+putative 2-N-acetylhexosamine deacetylase</title>
+			<polygon class="livD
+putative 2-N-acetylhexosamine deacetylase" points="687,10 712,40 687,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIG-L (PF02585)
+"GlcNAc-PI de-N-acetylase"</title>
+				<polygon class="PF02585" points="688,28 698,28 702,33 702,47 698,52 688,52" stroke-linejoin="round" width="14" height="24" fill="rgb(97,215,95)" stroke="rgb(77,172,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livL
+putative lividomycin production gene</title>
+			<polygon class="livL
+putative lividomycin production gene" points="775,25 744,25 744,10 714,40 744,70 744,55 775,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pribosyltran (PF00156)
+"Phosphoribosyl transferase domain"</title>
+				<rect class="PF00156" x="748" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(210,210,74)" stroke="rgb(168,168,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livB
+putative 6'-aminotransferase</title>
+			<polygon class="livB
+putative 6'-aminotransferase" points="786,25 797,25 797,10 827,40 797,70 797,55 786,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<rect class="PF00202" x="787" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="801,28 811,28 821,38 821,42 811,52 801,52" stroke-linejoin="round" width="20" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livK
+putative lividomycin-phosphate phosphatase</title>
+			<polygon class="livK
+putative lividomycin-phosphate phosphatase" points="886,25 871,25 871,10 841,40 871,70 871,55 886,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alk_phosphatase (PF00245)
+"Alkaline phosphatase"</title>
+				<polygon class="PF00245" points="845,40 846,39 846,41" stroke-linejoin="round" width="5" height="24" fill="rgb(172,203,66)" stroke="rgb(137,162,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Alk_phosphatase (PF00245)
+"Alkaline phosphatase"</title>
+				<polygon class="PF00245" points="846,39 857,28 881,28 881,52 857,52 846,41" stroke-linejoin="round" width="35" height="24" fill="rgb(172,203,66)" stroke="rgb(137,162,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livI
+putative regulator component</title>
+			<polygon class="livI
+putative regulator component" points="894,10 910,40 894,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>livH
+putative regulator component</title>
+			<polygon class="livH
+putative regulator component" points="924,10 941,40 924,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>livG
+putative regulator component</title>
+			<polygon class="livG
+putative regulator component" points="940,25 950,25 950,10 980,40 950,70 950,55 940,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6545 (PF20182)
+"Family of unknown function (DUF6545)"</title>
+				<polygon class="PF20182" points="963,28 964,28 976,40 964,52 963,52" stroke-linejoin="round" width="14" height="24" fill="rgb(175,208,99)" stroke="rgb(140,166,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livA
+putative lividomycin production protein</title>
+			<polygon class="livA
+putative lividomycin production protein" points="1119,25 1014,25 1014,10 984,40 1014,70 1014,55 1119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>livX
+putative lividomycin production protein</title>
+			<polygon class="livX
+putative lividomycin production protein" points="1144,40 1152,10 1152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6137 (PF19634)
+"Family of unknown function (DUF6137)"</title>
+				<polygon class="PF19634" points="1147,40 1150,28 1151,28 1151,52 1150,52" stroke-linejoin="round" width="7" height="24" fill="rgb(108,190,74)" stroke="rgb(86,152,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livO
+putative topoisomerase IA fragment</title>
+			<polygon class="livO
+putative topoisomerase IA fragment" points="1152,40 1158,10 1158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>livV
+putative lividomycin production protein</title>
+			<polygon class="livV
+putative lividomycin production protein" points="1175,25 1188,25 1188,10 1218,40 1188,70 1188,55 1175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GT87 (PF09594)
+"Glycosyltransferase family 87"</title>
+				<polygon class="PF09594" points="1183,28 1201,28 1206,33 1206,47 1201,52 1183,52" stroke-linejoin="round" width="23" height="24" fill="rgb(110,68,183)" stroke="rgb(87,54,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livW
+putative Fe-S oxidoreductase</title>
+			<polygon class="livW
+putative Fe-S oxidoreductase" points="1228,25 1243,25 1243,10 1273,40 1243,70 1243,55 1228,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="1247,28 1257,28 1263,34 1263,46 1257,52 1247,52" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livY
+putative dehydrogenase</title>
+			<polygon class="livY
+putative dehydrogenase" points="1275,10 1298,40 1275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="1276,28 1285,28 1295,40 1295,40 1285,52 1276,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>livZ
+putative coenzyme PQQ synthesis protein</title>
+			<polygon class="livZ
+putative coenzyme PQQ synthesis protein" points="1340,25 1330,25 1330,10 1300,40 1330,70 1330,55 1340,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="1321" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative nitrate reductase component</title>
+			<polygon class="
+putative nitrate reductase component" points="1347,10 1362,40 1347,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

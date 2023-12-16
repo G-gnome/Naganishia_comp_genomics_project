@@ -1,0 +1,37 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0000898_ORF1:gid:desVIII:pid:AAC68676.1:loc:118:1327:strand:+ -            402   1.5e-13   50.5   0.0   1   1     1e-17     2e-13   50.0   0.0   324   391   274   340   259   350 0.91 Cytochrome P450
+DUF1205              PF06722.15    95 BGC0000898_ORF2:gid:desVII:pid:AAC68677.1:loc:1474:2755:strand:+ -            426   8.1e-30  102.9   0.0   1   1   1.4e-33   1.4e-29  102.2   0.0     1    95   207   302   207   302 0.95 Protein of unknown function (DUF1205)
+UDPGT                PF00201.21   499 BGC0000898_ORF2:gid:desVII:pid:AAC68677.1:loc:1474:2755:strand:+ -            426   4.4e-06   25.9   0.0   1   1   6.9e-10   6.8e-06   25.3   0.0   319   415   296   390   268   396 0.85 UDP-glucoronosyl and UDP-glucosyl transferase
+Methyltransf_25      PF13649.9     97 BGC0000898_ORF3:gid:desVI:pid:AAC68678.1:loc:2844:3558:strand:+ -            237   4.1e-15   56.3   0.0   1   1   2.5e-18   9.9e-15   55.1   0.0     2    97    43   133    42   133 0.95 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0000898_ORF3:gid:desVI:pid:AAC68678.1:loc:2844:3558:strand:+ -            237   7.8e-11   42.6   0.1   1   1   3.7e-14   1.5e-10   41.7   0.1     1    96    43   137    43   137 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0000898_ORF3:gid:desVI:pid:AAC68678.1:loc:2844:3558:strand:+ -            237   4.2e-08   33.3   0.0   1   1   2.2e-11   8.8e-08   32.3   0.0    18   125    34   168    18   220 0.59 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0000898_ORF3:gid:desVI:pid:AAC68678.1:loc:2844:3558:strand:+ -            237   2.2e-07   31.6   0.0   1   1     1e-10     4e-07   30.8   0.0     1    98    43   134    43   135 0.89 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000898_ORF3:gid:desVI:pid:AAC68678.1:loc:2844:3558:strand:+ -            237   2.3e-06   27.6   0.0   1   1   7.7e-10     3e-06   27.2   0.0     5   113    40   141    37   190 0.80 Methyltransferase domain
+Glyco_hydro_3_C      PF01915.25   204 BGC0000898_ORF4:gid:desR:pid:AAC68679.1:loc:3624:6054:strand:+ -            809   1.7e-55  188.3   0.0   1   1     1e-58   6.5e-55  186.4   0.0     2   204   374   711   373   711 0.92 Glycosyl hydrolase family 3 C-terminal domain
+Glyco_hydro_3        PF00933.24   319 BGC0000898_ORF4:gid:desR:pid:AAC68679.1:loc:3624:6054:strand:+ -            809   7.7e-41  140.7   0.0   1   1   2.7e-44   1.8e-40  139.5   0.0    63   317    88   337    85   338 0.89 Glycosyl hydrolase family 3 N terminal domain
+Fn3-like             PF14310.9     71 BGC0000898_ORF4:gid:desR:pid:AAC68679.1:loc:3624:6054:strand:+ -            809   1.6e-11   44.3   0.6   1   1   9.5e-15   6.2e-11   42.4   0.2     1    48   745   793   745   801 0.89 Fibronectin type III-like domain
+DegT_DnrJ_EryC1      PF01041.20   360 BGC0000898_ORF5:gid:desV:pid:AAC68680.1:loc:6142:7282:strand:- -            379  1.1e-119  400.1   0.0   1   1  1.2e-123  1.2e-119  399.9   0.0     3   360    22   370    20   370 0.98 DegT/DnrJ/EryC1/StrS aminotransferase family
+Aminotran_1_2        PF00155.24   363 BGC0000898_ORF5:gid:desV:pid:AAC68680.1:loc:6142:7282:strand:- -            379   2.4e-05   23.8   0.0   1   1   6.4e-09   6.3e-05   22.4   0.0    49   248    48   220    34   287 0.86 Aminotransferase class I and II
+GDP_Man_Dehyd        PF16363.8    332 BGC0000898_ORF6:gid:desIV:pid:AAC68681.1:loc:7278:8292:strand:- -            337   6.5e-74  249.5   0.0   1   1   2.9e-77     8e-74  249.2   0.0     1   331     4   306     4   307 0.91 GDP-mannose 4,6 dehydratase
+Epimerase            PF01370.24   241 BGC0000898_ORF6:gid:desIV:pid:AAC68681.1:loc:7278:8292:strand:- -            337   8.6e-62  208.9   0.0   1   1   3.7e-65     1e-61  208.6   0.0     2   241     4   243     3   243 0.97 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0000898_ORF6:gid:desIV:pid:AAC68681.1:loc:7278:8292:strand:- -            337   1.2e-19   70.6   0.0   1   1   5.4e-23   1.5e-19   70.2   0.0     1   219     4   221     4   232 0.82 3-beta hydroxysteroid dehydrogenase/isomerase family
+Polysacc_synt_2      PF02719.18   294 BGC0000898_ORF6:gid:desIV:pid:AAC68681.1:loc:7278:8292:strand:- -            337   3.8e-16   59.2   0.0   1   1   4.3e-19   1.2e-15   57.6   0.0     1   132     3   131     3   267 0.74 Polysaccharide biosynthesis protein
+NAD_binding_4        PF07993.15   257 BGC0000898_ORF6:gid:desIV:pid:AAC68681.1:loc:7278:8292:strand:- -            337   4.8e-14   52.3   0.2   1   1   1.4e-16   4.1e-13   49.2   0.2     1   204     5   179     5   239 0.83 Male sterility protein
+RmlD_sub_bind        PF04321.20   287 BGC0000898_ORF6:gid:desIV:pid:AAC68681.1:loc:7278:8292:strand:- -            337   2.1e-13   50.1   0.0   1   1   1.4e-16   3.9e-13   49.2   0.0     1   241     1   271     1   277 0.82 RmlD substrate binding domain
+NAD_binding_10       PF13460.9    184 BGC0000898_ORF6:gid:desIV:pid:AAC68681.1:loc:7278:8292:strand:- -            337   1.1e-09   38.6   0.2   1   1   1.1e-12     3e-09   37.1   0.2     1   132     7   163     7   178 0.67 NAD(P)H-binding
+NTP_transferase      PF00483.26   247 BGC0000898_ORF7:gid:desIII:pid:AAC68682.1:loc:8423:9302:strand:- -            292   5.8e-60  203.1   0.0   1   1     7e-64   6.9e-60  202.8   0.0     1   243     2   236     2   239 0.98 Nucleotidyl transferase
+NTP_transf_3         PF12804.10   160 BGC0000898_ORF7:gid:desIII:pid:AAC68682.1:loc:8423:9302:strand:- -            292     7e-10   39.6   0.0   1   1   9.9e-14   9.7e-10   39.1   0.0     1   120     3   132     3   171 0.78 MobA-like NTP transferase domain
+DegT_DnrJ_EryC1      PF01041.20   360 BGC0000898_ORF9:gid:desI:pid:AAC68684.1:loc:10948:12196:strand:- -            415  3.6e-105  352.2   0.0   1   1  4.2e-109  4.2e-105  352.0   0.0     6   359    33   379    28   380 0.94 DegT/DnrJ/EryC1/StrS aminotransferase family
+Aminotran_1_2        PF00155.24   363 BGC0000898_ORF9:gid:desI:pid:AAC68684.1:loc:10948:12196:strand:- -            415   7.3e-07   28.8   0.0   1   1   1.5e-10   1.4e-06   27.8   0.0    47   197    55   181    32   341 0.82 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000898.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000898.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000898.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:59:09 2023
+# [ok]

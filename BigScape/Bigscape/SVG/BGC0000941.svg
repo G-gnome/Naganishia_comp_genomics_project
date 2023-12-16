@@ -1,0 +1,70 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="224.23333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="214.23333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>alcC (SGR_4747)
+putative siderophore biosynthetic enzyme</title>
+			<polygon class="alcC (SGR_4747)
+putative siderophore biosynthetic enzyme" points="69,25 40,25 40,10 10,40 40,70 40,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="14,40 26,28 27,28 27,52 26,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="30" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alcB (SGR_4748)
+putative acetyltransferase</title>
+			<polygon class="alcB (SGR_4748)
+putative acetyltransferase" points="69,40 88,10 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13523" points="73,40 81,28 85,28 85,52 81,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alcA (SGR_4749)
+putative monooxygenase</title>
+			<polygon class="alcA (SGR_4749)
+putative monooxygenase" points="130,25 118,25 118,10 88,40 118,70 118,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="96,36 104,28 129,28 129,52 104,52 96,44" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SGR_4750)
+putative pyridoxal-dependent decarboxylase</title>
+			<polygon class=" (SGR_4750)
+putative pyridoxal-dependent decarboxylase" points="178,25 160,25 160,10 130,40 160,70 160,55 178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="137,37 146,28 171,28 171,52 146,52 137,43" stroke-linejoin="round" width="34" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SGR_4751)
+putative siderophore-interacting protein</title>
+			<polygon class=" (SGR_4751)
+putative siderophore-interacting protein" points="213,25 213,25 213,10 183,40 213,70 213,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIP (PF04954)
+"Siderophore-interacting protein"</title>
+				<polygon class="PF04954" points="187,40 197,30 197,50" stroke-linejoin="round" width="11" height="24" fill="rgb(75,222,95)" stroke="rgb(60,177,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_9 (PF08021)
+"Siderophore-interacting FAD-binding domain"</title>
+				<polygon class="PF08021" points="199,28 199,28 211,28 211,52 199,52 199,52" stroke-linejoin="round" width="12" height="24" fill="rgb(58,190,106)" stroke="rgb(46,152,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

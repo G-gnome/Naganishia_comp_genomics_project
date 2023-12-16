@@ -1,0 +1,19 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BTAD                 PF03704.20   146 BGC0001294_ORF1:gid::pid:WP_031020590.1:loc:0:2961:strand:- -            986   1.4e-40  139.2  11.0   1   1   2.1e-44   1.4e-40  139.2  11.0     1   146   102   246   102   246 0.98 Bacterial transcriptional activator domain
+AAA_22               PF13401.9    137 BGC0001294_ORF1:gid::pid:WP_031020590.1:loc:0:2961:strand:- -            986   8.4e-08   32.7   0.1   1   1   4.6e-11     3e-07   30.9   0.1     4   113   296   392   291   411 0.84 AAA domain
+Trans_reg_C          PF00486.31    77 BGC0001294_ORF1:gid::pid:WP_031020590.1:loc:0:2961:strand:- -            986   6.5e-08   32.7   0.0   1   1   3.1e-11     2e-07   31.1   0.0     9    75    28    93    19    95 0.84 Transcriptional regulatory protein, C terminal
+Trp_DMAT             PF11991.11   363 BGC0001294_ORF2:gid::pid:WP_046250034.1:loc:3130:4309:strand:+ -            392   6.5e-14   52.2   0.0   1   1   1.1e-17   2.1e-13   50.5   0.0     9   257    30   248    27   257 0.84 Tryptophan dimethylallyltransferase
+Beta_elim_lyase      PF01212.24   291 BGC0001294_ORF3:gid::pid:WP_019329075.1:loc:4395:5904:strand:+ -            502   1.2e-68  231.7   0.0   1   1   7.3e-73   1.4e-68  231.4   0.0     1   288    42   417    42   420 0.96 Beta-eliminating lyase
+Trypco2              PF19631.2     78 BGC0001294_ORF6:gid::pid:WP_019329078.1:loc:8695:9019:strand:+ -            107   1.7e-16   60.6   0.7   1   1   9.8e-21   1.9e-16   60.3   0.7     2    78    14    90    13    90 0.99 Trypsin-co-occurring domain 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001294.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001294.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001294.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:36:11 2023
+# [ok]

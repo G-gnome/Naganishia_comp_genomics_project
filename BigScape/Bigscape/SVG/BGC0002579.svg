@@ -1,0 +1,97 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="278.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="268.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+bacteriocin</title>
+			<polygon class="
+bacteriocin" points="10,40 14,10 14,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+bacteriocin</title>
+			<polygon class="
+bacteriocin" points="15,40 20,10 20,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+bacteriocin</title>
+			<polygon class="
+bacteriocin" points="28,10 32,40 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cbnK
+histidine protein kinase</title>
+			<polygon class="cbnK
+histidine protein kinase" points="33,25 47,25 47,10 77,40 47,70 47,55 33,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="65,32 73,40 65,48" stroke-linejoin="round" width="10" height="24" fill="rgb(137,71,210)" stroke="rgb(109,56,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cbnR
+response regulator</title>
+			<polygon class="cbnR
+response regulator" points="77,10 101,40 77,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="77,28 88,28 89,30 89,50 88,52 77,52" stroke-linejoin="round" width="12" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="92,34 97,40 92,46" stroke-linejoin="round" width="9" height="24" fill="rgb(207,76,174)" stroke="rgb(165,60,139)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cbnT
+ATP-dependent translocator</title>
+			<polygon class="cbnT
+ATP-dependent translocator" points="102,25 143,25 143,10 173,40 143,70 143,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="102" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="118" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="151,28 157,28 166,37 166,43 157,52 151,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cbnD
+accessory protein</title>
+			<polygon class="cbnD
+accessory protein" points="174,25 189,25 189,10 219,40 189,70 189,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="205,30 215,40 205,50" stroke-linejoin="round" width="11" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="245,10 256,40 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cbnB2
+carnobacteriocin B2</title>
+			<polygon class="cbnB2
+carnobacteriocin B2" points="260,10 266,40 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_II (PF01721)
+"Class II bacteriocin"</title>
+				<polygon class="PF01721" points="262,33 263,40 262,47" stroke-linejoin="round" width="3" height="24" fill="rgb(73,187,108)" stroke="rgb(58,149,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,130 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="383.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="373.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cxm0
+tryptophanyl-tRNA synthetase</title>
+			<polygon class="cxm0
+tryptophanyl-tRNA synthetase" points="42,25 40,25 40,10 10,40 40,70 40,55 42,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_1b (PF00579)
+"tRNA synthetases class I (W and Y)"</title>
+				<polygon class="PF00579" points="14,40 26,28 41,28 41,52 26,52 14,40" stroke-linejoin="round" width="27" height="24" fill="rgb(82,63,204)" stroke="rgb(65,50,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm1
+LysR family transcriptional regulator</title>
+			<polygon class="cxm1
+LysR family transcriptional regulator" points="83,25 79,25 79,10 49,40 79,70 79,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="53,40 65,28 71,28 71,52 65,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="74" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm2
+MFS transporter</title>
+			<polygon class="cxm2
+MFS transporter" points="90,25 109,25 109,10 139,40 109,70 109,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="92,28 123,28 132,37 132,43 123,52 92,52" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm3
+metal-dependent protease</title>
+			<polygon class="cxm3
+metal-dependent protease" points="142,10 165,40 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cxm4
+sufur carrier protein</title>
+			<polygon class="cxm4
+sufur carrier protein" points="166,10 176,40 166,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ThiS (PF02597)
+"ThiS family"</title>
+				<polygon class="PF02597" points="166,28 168,28 172,40 168,52 166,52" stroke-linejoin="round" width="8" height="24" fill="rgb(73,117,196)" stroke="rgb(58,93,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm5
+cytochrome P450</title>
+			<polygon class="cxm5
+cytochrome P450" points="176,25 186,25 186,10 216,40 186,70 186,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="192,28 200,28 202,30 202,50 200,52 192,52" stroke-linejoin="round" width="10" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="202,30 212,40 202,50" stroke-linejoin="round" width="13" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm6
+2-dehydropantoate 2-reductase</title>
+			<polygon class="cxm6
+2-dehydropantoate 2-reductase" points="216,25 217,25 217,10 247,40 217,70 217,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ApbA (PF02558)
+"Ketopantoate reductase PanE/ApbA"</title>
+				<rect class="PF02558" x="216" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(91,128,221)" stroke="rgb(72,102,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ApbA_C (PF08546)
+"Ketopantoate reductase PanE/ApbA C terminal"</title>
+				<polygon class="PF08546" points="234,31 243,40 234,49" stroke-linejoin="round" width="12" height="24" fill="rgb(188,163,68)" stroke="rgb(150,130,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm7
+PLP-dependent aminotransferase</title>
+			<polygon class="cxm7
+PLP-dependent aminotransferase" points="248,25 254,25 254,10 284,40 254,70 254,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="251,28 268,28 280,40 268,52 251,52" stroke-linejoin="round" width="32" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm8
+B12-dependent radical S-adenosylmethionine</title>
+			<polygon class="cxm8
+B12-dependent radical S-adenosylmethionine" points="287,25 319,25 319,10 349,40 319,70 319,55 287,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>B12-binding (PF02310)
+"B12 binding domain"</title>
+				<rect class="PF02310" x="295" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(145,190,60)" stroke="rgb(115,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="313" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cxm9
+hypothetical protein</title>
+			<polygon class="cxm9
+hypothetical protein" points="349,10 373,40 349,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5825 (PF19142)
+"Family of unknown function (DUF5825)"</title>
+				<polygon class="PF19142" points="353,28 360,28 369,40 360,52 353,52" stroke-linejoin="round" width="18" height="24" fill="rgb(80,207,151)" stroke="rgb(63,165,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

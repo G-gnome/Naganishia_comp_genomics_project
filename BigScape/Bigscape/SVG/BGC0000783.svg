@@ -1,0 +1,121 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="459.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="449.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>metB
+putative cystathionine gamma-lyase</title>
+			<polygon class="metB
+putative cystathionine gamma-lyase" points="10,10 31,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cys_Met_Meta_PP (PF01053)
+"Cys/Met metabolism PLP-dependent enzyme"</title>
+				<polygon class="PF01053" points="10,28 19,28 27,40 19,52 10,52" stroke-linejoin="round" width="20" height="24" fill="rgb(142,222,85)" stroke="rgb(113,177,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxoA
+putative sugar nucleotide epimerase/dehydratase</title>
+			<polygon class="wxoA
+putative sugar nucleotide epimerase/dehydratase" points="60,25 66,25 66,10 96,40 66,70 66,55 60,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="60,28 79,28 88,37 88,43 79,52 60,52" stroke-linejoin="round" width="28" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxoB
+putative glycosyl transferase</title>
+			<polygon class="wxoB
+putative glycosyl transferase" points="142,10 162,40 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="143,28 150,28 158,40 158,40 150,52 143,52" stroke-linejoin="round" width="15" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wxoC
+putative glycosyl transferase</title>
+			<polygon class="wxoC
+putative glycosyl transferase" points="188,10 210,40 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>wxoD
+putative o-antigen acetylase</title>
+			<polygon class="wxoD
+putative o-antigen acetylase" points="213,25 215,25 215,10 245,40 215,70 215,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="213,28 229,28 241,40 229,52 213,52" stroke-linejoin="round" width="30" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative ISXo8 transposase</title>
+			<polygon class="
+putative ISXo8 transposase" points="248,25 262,25 262,10 292,40 262,70 262,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_5 (PF13546)
+"DDE superfamily endonuclease"</title>
+				<polygon class="PF13546" points="249,28 275,28 276,29 276,51 275,52 249,52" stroke-linejoin="round" width="27" height="24" fill="rgb(119,52,208)" stroke="rgb(95,41,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tnpX1
+putative IS1113 transposase</title>
+			<polygon class="tnpX1
+putative IS1113 transposase" points="303,25 312,25 312,10 342,40 312,70 312,55 303,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposase_mut (PF00872)
+"Transposase, Mutator family"</title>
+				<polygon class="PF00872" points="303,28 326,28 338,40 326,52 303,52" stroke-linejoin="round" width="36" height="24" fill="rgb(137,187,62)" stroke="rgb(109,149,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+truncated putative transposase</title>
+			<polygon class="
+truncated putative transposase" points="348,10 359,40 348,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>wzt
+putative ATP binding protein</title>
+			<polygon class="wzt
+putative ATP binding protein" points="403,25 390,25 390,10 360,40 390,70 390,55 403,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzt_C (PF14524)
+"Wzt C-terminal domain"</title>
+				<polygon class="PF14524" points="364,40 374,30 374,50" stroke-linejoin="round" width="13" height="24" fill="rgb(91,192,197)" stroke="rgb(72,153,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="386" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wzm
+putative ABC transporter system integral membrane protein</title>
+			<polygon class="wzm
+putative ABC transporter system integral membrane protein" points="403,40 430,10 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="407,40 418,28 428,28 428,52 418,52 407,40" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>etfA
+putative electron transferring flavoprotein alpha subunit</title>
+			<polygon class="etfA
+putative electron transferring flavoprotein alpha subunit" points="438,40 448,10 448,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ETF_alpha (PF00766)
+"Electron transfer flavoprotein FAD-binding domain"</title>
+				<polygon class="PF00766" points="442,37 445,28 448,28 448,52 445,52 442,43" stroke-linejoin="round" width="6" height="24" fill="rgb(59,72,212)" stroke="rgb(47,57,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

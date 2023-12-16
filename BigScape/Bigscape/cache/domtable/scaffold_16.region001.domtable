@@ -1,0 +1,21 @@
+#                                                                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+F1F0-ATPsyn_F        PF10791.12    92 scaffold_16.region001_ORF1:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_0-_:loc:3141:4072:strand:- -            100     1e-31  109.4   0.0   1   1   5.9e-36   1.2e-31  109.2   0.0     2    92     6    93     5    93 0.96 Mitochondrial F1-F0 ATP synthase subunit F of fungi
+RPAP1_C              PF08620.13    69 scaffold_16.region001_ORF2:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_1-_:loc:4335:7925:strand:- -           1179   9.5e-22   76.9   0.1   1   1   2.9e-25   2.8e-21   75.3   0.1     1    68   247   314   247   315 0.97 RPAP1-like, C-terminal
+RPAP1_N              PF08621.13    46 scaffold_16.region001_ORF2:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_1-_:loc:4335:7925:strand:- -           1179   4.5e-10   39.3   8.0   1   1   1.4e-13   1.3e-09   37.8   8.0     2    45   105   148   104   149 0.96 RPAP1-like, N-terminal
+Spb1_C               PF07780.15   219 scaffold_16.region001_ORF4:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_3-_:loc:11659:14709:strand:+ -            931   1.5e-79  266.7  21.8   1   1   2.3e-83   1.5e-79  266.7  21.8     2   219   708   924   707   924 0.94 Spb1 C-terminal domain
+FtsJ                 PF01728.22   177 scaffold_16.region001_ORF4:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_3-_:loc:11659:14709:strand:+ -            931   4.1e-55  186.8   0.0   1   1   1.3e-58   8.6e-55  185.7   0.0     1   177    25   201    25   201 0.99 FtsJ-like methyltransferase
+DUF3381              PF11861.11   167 scaffold_16.region001_ORF4:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_3-_:loc:11659:14709:strand:+ -            931   5.5e-39  133.8  10.6   1   1   8.3e-43   5.5e-39  133.8  10.6     1   167   262   423   262   423 0.90 Domain of unknown function (DUF3381)
+SQS_PSY              PF00494.22   263 scaffold_16.region001_ORF5:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_4-_:loc:15000:17223:strand:+ -            615   2.1e-43  148.9   0.8   1   1     1e-47   2.1e-43  148.9   0.8     1   263   320   598   320   598 0.89 Squalene/phytoene synthase
+DUF1681              PF07933.17   156 scaffold_16.region001_ORF7:gid::pid:ncbi_NaganishiaadeliensisGCA012922715.1_00388_6-_:loc:23659:24561:strand:+ -            204   4.3e-59  198.8   0.0   1   1   2.6e-63   5.1e-59  198.6   0.0     1   155    11   166    11   167 0.94 Protein of unknown function (DUF1681)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/scaffold_16.region001.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/scaffold_16.region001.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/scaffold_16.region001.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:11:39 2023
+# [ok]

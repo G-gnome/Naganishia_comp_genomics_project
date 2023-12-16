@@ -1,0 +1,129 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="448.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="438.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>alloA
+putative polyvinylalcohol dehydrogenase</title>
+			<polygon class="alloA
+putative polyvinylalcohol dehydrogenase" points="10,25 36,25 36,10 66,40 36,70 36,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="16" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<polygon class="PF13360" points="46,28 49,28 61,40 49,52 46,52" stroke-linejoin="round" width="18" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloB
+putative dehydrogenase</title>
+			<polygon class="alloB
+putative dehydrogenase" points="96,25 100,25 100,10 130,40 100,70 100,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="98" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="113,28 113,28 125,40 125,40 113,52 113,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloC
+putative transporter</title>
+			<polygon class="alloC
+putative transporter" points="134,25 147,25 147,10 177,40 147,70 147,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="137,28 161,28 167,34 167,46 161,52 137,52" stroke-linejoin="round" width="30" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloD
+putative aminotransferase</title>
+			<polygon class="alloD
+putative aminotransferase" points="183,25 192,25 192,10 222,40 192,70 192,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="186,28 206,28 218,40 206,52 186,52" stroke-linejoin="round" width="36" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloE
+putative dehydrogenase</title>
+			<polygon class="alloE
+putative dehydrogenase" points="224,25 244,25 244,10 274,40 244,70 244,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="225" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="262,32 270,40 262,48" stroke-linejoin="round" width="12" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloF
+putative carbamoyl transferase</title>
+			<polygon class="alloF
+putative carbamoyl transferase" points="277,25 304,25 304,10 334,40 304,70 304,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="277" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="286" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_C (PF16861)
+"Carbamoyltransferase C-terminus"</title>
+				<polygon class="PF16861" points="316,28 317,28 329,40 317,52 316,52" stroke-linejoin="round" width="16" height="24" fill="rgb(183,87,154)" stroke="rgb(146,69,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloG
+L-glutamine:2-deoxy-scyllo-inosose aminotransferase</title>
+			<polygon class="alloG
+L-glutamine:2-deoxy-scyllo-inosose aminotransferase" points="338,25 350,25 350,10 380,40 350,70 350,55 338,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="340,28 364,28 376,40 364,52 340,52" stroke-linejoin="round" width="37" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloH
+2-deoxy-scyllo-inosose synthase</title>
+			<polygon class="alloH
+2-deoxy-scyllo-inosose synthase" points="381,25 389,25 389,10 419,40 389,70 389,55 381,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="387,28 403,28 412,37 412,43 403,52 387,52" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>alloI
+putative oxidoreductase</title>
+			<polygon class="alloI
+putative oxidoreductase" points="420,10 438,40 420,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<polygon class="PF01408" points="420,28 427,28 431,34 431,46 427,52 420,52" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

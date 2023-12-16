@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="256.33333333333337" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="246.33333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>asbA (BA_1981)
+petrobactin biosynthesis protein AsbA</title>
+			<polygon class="asbA (BA_1981)
+petrobactin biosynthesis protein AsbA" points="10,25 40,25 40,10 70,40 40,70 40,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="25" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="51,28 54,28 66,40 54,52 51,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>asbB (BA_1982)
+petrobactin biosynthesis protein AsbB</title>
+			<polygon class="asbB (BA_1982)
+petrobactin biosynthesis protein AsbB" points="72,25 103,25 103,10 133,40 103,70 103,55 72,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="86" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="113,28 117,28 129,40 117,52 113,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>asbC (BA_1983)
+3,4-dihydroxybenzoic acid-AMP ligase AsbC</title>
+			<polygon class="asbC (BA_1983)
+3,4-dihydroxybenzoic acid-AMP ligase AsbC" points="133,25 144,25 144,10 174,40 144,70 144,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="134,28 158,28 161,31 161,49 158,52 134,52" stroke-linejoin="round" width="27" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="165,35 170,40 165,45" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>asbD (BA_1984)
+petrobactin biosynthesis aryl carrier protein AsbD</title>
+			<polygon class="asbD (BA_1984)
+petrobactin biosynthesis aryl carrier protein AsbD" points="174,10 183,40 174,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>asbE (BA_1985)
+petrobactin biosynthesis protein AsbE</title>
+			<polygon class="asbE (BA_1985)
+petrobactin biosynthesis protein AsbE" points="184,25 186,25 186,10 216,40 186,70 186,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6005 (PF19468)
+"Family of unknown function (DUF6005)"</title>
+				<polygon class="PF19468" points="184,28 200,28 212,40 200,52 184,52" stroke-linejoin="round" width="32" height="24" fill="rgb(160,201,100)" stroke="rgb(128,160,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>asbF (BA_1986)
+petrobactin biosynthesis protein AsbF</title>
+			<polygon class="asbF (BA_1986)
+petrobactin biosynthesis protein AsbF" points="218,10 246,40 218,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="220,28 230,28 241,40 230,52 220,52" stroke-linejoin="round" width="25" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

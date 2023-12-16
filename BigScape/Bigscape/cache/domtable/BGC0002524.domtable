@@ -1,0 +1,19 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HlyD_D23             PF16576.8    214 BGC0002524_ORF1:gid:bacE:pid:QLA09665.1:loc:0:1182:strand:- -            393   2.9e-09   36.6   3.8   1   1   9.3e-13   6.1e-09   35.6   3.8    26   185    78   271    61   276 0.76 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+Biotin_lipoyl_2      PF13533.9     50 BGC0002524_ORF1:gid:bacE:pid:QLA09665.1:loc:0:1182:strand:- -            393   6.2e-09   35.6   0.2   1   1   9.4e-13   6.2e-09   35.6   0.2     8    45    77   114    75   140 0.94 Biotin-lipoyl like
+HlyD_3               PF13437.9    106 BGC0002524_ORF1:gid:bacE:pid:QLA09665.1:loc:0:1182:strand:- -            393   2.2e-08   34.9   1.7   1   1   9.7e-09   6.3e-05   23.7   0.3     1    97   191   305   191   331 0.77 HlyD family secretion protein
+ABC_tran             PF00005.30   137 BGC0002524_ORF4:gid:bacT:pid:QLA09668.1:loc:3160:3790:strand:+ -            209   5.8e-16   59.4   0.2   1   1   1.5e-19   2.9e-15   57.1   0.0     2   136    19   159    18   160 0.74 ABC transporter
+SpoIIM               PF01944.20   156 BGC0002524_ORF5:gid:bacC:pid:QLA09669.1:loc:3860:4331:strand:+ -            156   2.6e-18   66.7  22.9   1   1   1.6e-22   3.1e-18   66.5  22.9     3   153     2   150     1   151 0.86 Stage II sporulation protein M
+Bacteriocin_IId      PF09221.13    67 BGC0002524_ORF7:gid:bacA:pid:QLA09671.1:loc:4897:5092:strand:+ -             64   1.8e-06   28.2  13.8   1   1   1.7e-10   3.3e-06   27.3  13.8     4    67     8    64     6    64 0.95 Bacteriocin class IId cyclical uberolysin-like
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002524.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002524.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002524.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:00:15 2023
+# [ok]

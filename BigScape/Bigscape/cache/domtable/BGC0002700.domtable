@@ -1,0 +1,26 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.9     97 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   4.9e-18   65.7   0.0   1   1   3.7e-21     9e-18   64.9   0.0     1    97    72   166    72   166 0.96 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   6.6e-16   58.9   0.0   1   1   5.8e-19   1.4e-15   57.8   0.0     2    95    74   169    73   170 0.96 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   1.2e-15   57.8   0.0   1   1   6.1e-19   1.5e-15   57.4   0.0     3   121    68   176    66   245 0.82 Methyltransferase domain
+TehB                 PF03848.17   193 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   1.2e-13   51.0   0.3   1   1   7.4e-17   1.8e-13   50.5   0.3    26   147    64   187    53   233 0.81 Tellurite resistance protein TehB
+Methyltransf_23      PF13489.9    165 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   3.7e-13   49.7   0.0   1   1   2.6e-15   6.4e-12   45.7   0.0    21   162    67   254    46   257 0.66 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   3.6e-09   37.4   0.0   1   1   3.5e-12   8.6e-09   36.2   0.0     2    98    74   167    73   168 0.79 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   1.6e-07   31.1   0.1   1   1   9.7e-11   2.4e-07   30.5   0.1    37   164    58   183    54   220 0.84 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.17   170 BGC0002700_ORF1:gid::pid:KXZ21036.1:loc:0:843:strand:- -            280   2.7e-06   27.2   0.0   1   1   1.8e-09   4.3e-06   26.6   0.0    28   102    65   136    50   185 0.89 Methyltransferase small domain
+Pkinase              PF00069.28   264 BGC0002700_ORF2:gid::pid:KXZ21037.1:loc:1493:4109:strand:- -            871   2.6e-18   66.5   0.0   1   1   1.1e-21   7.3e-18   65.0   0.0    11   155   236   394   226   415 0.84 Protein kinase domain
+LANC_like            PF05147.16   352 BGC0002700_ORF2:gid::pid:KXZ21037.1:loc:1493:4109:strand:- -            871   1.7e-11   43.5   7.0   1   1   6.8e-12   4.4e-08   32.2   4.9    18   255   539   755   479   760 0.83 Lanthionine synthetase C-like protein
+PK_Tyr_Ser-Thr       PF07714.20   259 BGC0002700_ORF2:gid::pid:KXZ21037.1:loc:1493:4109:strand:- -            871   8.2e-09   35.2   0.0   1   1     2e-12   1.3e-08   34.6   0.0     7   158   232   392   226   405 0.83 Protein tyrosine and serine/threonine kinase
+ABC2_membrane_5      PF13346.9    205 BGC0002700_ORF3:gid::pid:KXZ21038.1:loc:4326:4980:strand:- -            217   4.9e-34  117.8  25.0   1   1   2.8e-38   5.5e-34  117.7  25.0     1   204     3   212     3   213 0.87 ABC-2 family transporter protein
+ABC_tran             PF00005.30   137 BGC0002700_ORF4:gid::pid:KXZ21039.1:loc:4980:5832:strand:- -            283   8.8e-26   91.2   0.1   1   1     1e-29     2e-25   90.0   0.0     1   136    20   158    20   159 0.95 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002700.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002700.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002700.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:23:33 2023
+# [ok]

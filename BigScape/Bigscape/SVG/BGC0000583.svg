@@ -1,0 +1,66 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="244.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="234.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (SGR_6361)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class=" (SGR_6361)
+putative ABC transporter ATP-binding protein" points="10,40 31,10 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="14,40 22,28 28,28 28,52 22,52 14,40" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SGR_6362)
+putative methyltransferase</title>
+			<polygon class=" (SGR_6362)
+putative methyltransferase" points="30,40 54,10 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="41,31 44,28 50,28 50,52 44,52 41,49" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SGR_6363)
+putative phosphopantothenoylcysteine synthetase/decarboxylase</title>
+			<polygon class=" (SGR_6363)
+putative phosphopantothenoylcysteine synthetase/decarboxylase" points="55,40 74,10 74,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="59,40 67,28 72,28 72,52 67,52" stroke-linejoin="round" width="17" height="24" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SGR_6364)
+hypothetical protein</title>
+			<polygon class=" (SGR_6364)
+hypothetical protein" points="74,40 92,10 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SGR_6365)
+hypothetical protein</title>
+			<polygon class=" (SGR_6365)
+hypothetical protein" points="150,25 122,25 122,10 92,40 122,70 122,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SGR_6366)
+putative SARP-family pathway specific regulatory protein</title>
+			<polygon class=" (SGR_6366)
+putative SARP-family pathway specific regulatory protein" points="179,25 204,25 204,10 234,40 204,70 204,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<rect class="PF03704" x="189" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<polygon class="PF13191" points="209,28 217,28 228,39 228,41 217,52 209,52" stroke-linejoin="round" width="19" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

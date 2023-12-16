@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="357.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="347.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+transposase-like protein</title>
+			<polygon class="
+transposase-like protein" points="59,40 73,10 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>bryP
+BryP</title>
+			<polygon class="bryP
+BryP" points="81,25 114,25 114,10 144,40 114,70 114,55 81,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="81" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="112,28 128,28 140,40 128,52 112,52" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bryQ
+BryQ</title>
+			<polygon class="bryQ
+BryQ" points="150,25 160,25 160,10 190,40 160,70 160,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="150" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="175,29 186,40 186,40 175,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BryR
+BryR</title>
+			<polygon class="BryR
+BryR" points="192,25 204,25 204,10 234,40 204,70 204,55 192,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="192" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="218,29 229,40 218,51" stroke-linejoin="round" width="15" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BryS
+BryS</title>
+			<polygon class="BryS
+BryS" points="244,25 250,25 250,10 280,40 250,70 250,55 244,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_U5-meth_tr (PF05958)
+"tRNA (Uracil-5-)-methyltransferase"</title>
+				<polygon class="PF05958" points="245,28 264,28 276,40 264,52 245,52" stroke-linejoin="round" width="35" height="24" fill="rgb(187,48,82)" stroke="rgb(149,38,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+oxidoreductase</title>
+			<polygon class="
+oxidoreductase" points="338,25 310,25 310,10 280,40 310,70 310,55 338,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Proton_antipo_M (PF00361)
+"Proton-conducting membrane transporter"</title>
+				<rect class="PF00361" x="298" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(54,193,132)" stroke="rgb(43,154,105)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

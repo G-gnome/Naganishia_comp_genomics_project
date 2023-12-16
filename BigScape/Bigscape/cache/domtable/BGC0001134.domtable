@@ -1,0 +1,16 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cupin_8              PF13621.9    254 BGC0001134_ORF1:gid::pid:WP_041380364.1:loc:0:726:strand:- -            241   1.1e-17   64.8   0.1   1   1   5.3e-20   3.5e-16   59.9   0.1    13   248     8   210     4   214 0.76 Cupin-like domain
+JmjC_2               PF08007.15   127 BGC0001134_ORF1:gid::pid:WP_041380364.1:loc:0:726:strand:- -            241   1.3e-08   34.5   0.0   1   1   3.5e-12   2.3e-08   33.8   0.0    36   124   120   215   111   218 0.74 JmjC domain
+JmjC                 PF02373.25   114 BGC0001134_ORF1:gid::pid:WP_041380364.1:loc:0:726:strand:- -            241   3.7e-06   27.5   0.1   1   1   6.3e-09   4.1e-05   24.1   0.1     9   114   120   210   112   210 0.58 JmjC domain, hydroxylase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001134.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001134.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001134.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:51:14 2023
+# [ok]

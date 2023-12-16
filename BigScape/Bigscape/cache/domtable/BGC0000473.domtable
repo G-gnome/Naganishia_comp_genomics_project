@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.4    115 BGC0000473_ORF1:gid:mcaA:pid:CAO82081.1:loc:867:2841:strand:+ -            657   2.1e-37  127.8   0.0   1   1   6.8e-41   4.5e-37  126.7   0.0     4   115   542   653   539   653 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0000473_ORF1:gid:mcaA:pid:CAO82081.1:loc:867:2841:strand:+ -            657   4.2e-33  114.9   0.0   1   1   1.1e-36   7.2e-33  114.1   0.0     2   269    13   253    12   282 0.87 Subtilase family
+PatG_D               PF18047.4    118 BGC0000473_ORF1:gid:mcaA:pid:CAO82081.1:loc:867:2841:strand:+ -            657   1.8e-19   70.4   0.0   1   1   8.8e-23   5.8e-19   68.8   0.0     2   117   381   494   380   495 0.96 PatG Domain
+YcaO                 PF02624.19   322 BGC0000473_ORF4:gid:mcaD:pid:CAO82084.1:loc:3549:5880:strand:+ -            776   4.6e-97  325.4   0.0   1   1  3.7e-101   7.2e-97  324.7   0.0     1   322   407   739   407   739 0.93 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+DUF5837              PF19155.3     61 BGC0000473_ORF5:gid:mcaE:pid:CAO82085.1:loc:5996:6221:strand:+ -             74   2.3e-22   79.0   0.0   1   1   1.8e-26   3.5e-22   78.4   0.0     1    61     6    73     6    73 0.75 Family of unknown function (DUF5837)
+DUF5838              PF19156.3    289 BGC0000473_ORF6:gid:mcaF:pid:CAO82086.1:loc:6515:7481:strand:+ -            321   3.5e-80  269.6   0.2   1   1   2.1e-84   4.1e-80  269.3   0.2     2   289    15   304    14   304 0.96 Family of unknown function (DUF5838)
+DUF5829              PF19147.3    266 BGC0000473_ORF7:gid::pid:CAO82087.1:loc:7533:8337:strand:+ -            267   2.6e-48  165.1   0.1   1   1   1.5e-52   2.9e-48  164.9   0.1     1   266     5   266     5   266 0.94 Family of unknown function (DUF5829)
+PatG_C               PF18065.4    115 BGC0000473_ORF9:gid:mcaG:pid:CAO82089.1:loc:9165:13221:strand:+ -           1351   8.4e-31  106.5   0.0   1   1   4.2e-34   1.6e-30  105.5   0.0     8   115  1235  1342  1228  1342 0.97 PatG C-terminal
+Peptidase_S8         PF00082.25   284 BGC0000473_ORF9:gid:mcaG:pid:CAO82089.1:loc:9165:13221:strand:+ -           1351   3.4e-21   75.8   0.0   1   1   1.6e-24   6.2e-21   75.0   0.0    47   269   740   959   611   978 0.90 Subtilase family
+PatG_D               PF18047.4    118 BGC0000473_ORF9:gid:mcaG:pid:CAO82089.1:loc:9165:13221:strand:+ -           1351     1e-16   61.5   0.0   1   1   5.2e-19   2.1e-15   57.3   0.0     2   114  1071  1180  1070  1186 0.92 PatG Domain
+Nitroreductase       PF00881.27   168 BGC0000473_ORF9:gid:mcaG:pid:CAO82089.1:loc:9165:13221:strand:+ -           1351   2.6e-12   47.3   0.0   1   1   1.2e-15   4.9e-12   46.4   0.0     1   167   307   515   307   516 0.90 Nitroreductase family
+HTH_57               PF18679.4    112 BGC0000473_ORF9:gid:mcaG:pid:CAO82089.1:loc:9165:13221:strand:+ -           1351   3.3e-09   37.0   0.0   1   1   1.6e-12   6.3e-09   36.1   0.0     3   111    41   147    38   148 0.91 ThcOx helix turn helix domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000473.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000473.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000473.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:45:10 2023
+# [ok]

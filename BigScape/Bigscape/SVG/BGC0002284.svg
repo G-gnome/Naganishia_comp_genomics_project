@@ -1,0 +1,195 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="616.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="606.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (CPI83_19995)
+succinyl-CoA--3-ketoacid-CoA transferase</title>
+			<polygon class=" (CPI83_19995)
+succinyl-CoA--3-ketoacid-CoA transferase" points="10,40 30,10 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="14,40 22,28 29,28 29,52 22,52" stroke-linejoin="round" width="19" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20000)
+CoA transferase subunit A</title>
+			<polygon class=" (CPI83_20000)
+CoA transferase subunit A" points="31,40 56,10 56,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="35,40 45,28 54,28 54,52 45,52" stroke-linejoin="round" width="22" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20005)
+CoA ester lyase</title>
+			<polygon class=" (CPI83_20005)
+CoA ester lyase" points="56,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HpcH_HpaI (PF03328)
+"HpcH/HpaI aldolase/citrate lyase family"</title>
+				<polygon class="PF03328" points="62,38 71,28 82,28 82,52 71,52 62,42" stroke-linejoin="round" width="20" height="24" fill="rgb(81,183,94)" stroke="rgb(64,146,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20010)
+dehydratase</title>
+			<polygon class=" (CPI83_20010)
+dehydratase" points="84,40 100,10 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MaoC_dehydratas (PF01575)
+"MaoC like domain"</title>
+				<polygon class="PF01575" points="87,40 94,28 98,28 98,52 94,52" stroke-linejoin="round" width="12" height="24" fill="rgb(218,129,86)" stroke="rgb(174,103,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20015)
+acyl-CoA dehydrogenase</title>
+			<polygon class=" (CPI83_20015)
+acyl-CoA dehydrogenase" points="138,25 130,25 130,10 100,40 130,70 130,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="104,40 114,30 114,50" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<polygon class="PF02770" points="116,28 116,28 125,28 125,52 116,52 116,52" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="126" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20020)
+acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha</title>
+			<polygon class=" (CPI83_20020)
+acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha" points="207,25 169,25 169,10 139,40 169,70 169,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="143,40 147,36 147,44" stroke-linejoin="round" width="6" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_C (PF02785)
+"Biotin carboxylase C-terminal domain"</title>
+				<rect class="PF02785" x="162" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(82,186,211)" stroke="rgb(65,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<rect class="PF02786" x="173" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_N (PF00289)
+"Biotin carboxylase, N-terminal domain"</title>
+				<rect class="PF00289" x="195" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(59,114,187)" stroke="rgb(47,91,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20025)
+methylcrotonoyl-CoA carboxylase</title>
+			<polygon class=" (CPI83_20025)
+methylcrotonoyl-CoA carboxylase" points="260,25 237,25 237,10 207,40 237,70 237,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="211,40 223,28 255,28 255,52 223,52" stroke-linejoin="round" width="48" height="24" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20030)
+TetR/AcrR family transcriptional regulator</title>
+			<polygon class=" (CPI83_20030)
+TetR/AcrR family transcriptional regulator" points="263,10 283,40 263,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="265" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_C_24 (PF17932)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF17932" points="271,28 271,28 279,40 271,52 271,52" stroke-linejoin="round" width="10" height="24" fill="rgb(165,217,107)" stroke="rgb(132,173,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20035)
+GTP pyrophosphokinase</title>
+			<polygon class=" (CPI83_20035)
+GTP pyrophosphokinase" points="285,10 309,40 285,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RelA_SpoT (PF04607)
+"Region found in RelA / SpoT proteins"</title>
+				<polygon class="PF04607" points="291,28 296,28 303,37 303,43 296,52 291,52" stroke-linejoin="round" width="12" height="24" fill="rgb(227,74,90)" stroke="rgb(181,59,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20040)
+GlsB/YeaQ/YmgE family stress response membrane protein</title>
+			<polygon class=" (CPI83_20040)
+GlsB/YeaQ/YmgE family stress response membrane protein" points="315,40 323,10 323,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CPI83_20045)
+C4-dicarboxylate transporter DctA</title>
+			<polygon class=" (CPI83_20045)
+C4-dicarboxylate transporter DctA" points="330,25 346,25 346,10 376,40 346,70 346,55 330,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDF (PF00375)
+"Sodium:dicarboxylate symporter family"</title>
+				<polygon class="PF00375" points="332,28 360,28 371,39 371,41 360,52 332,52" stroke-linejoin="round" width="39" height="24" fill="rgb(141,207,101)" stroke="rgb(112,165,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20050)
+hypothetical protein</title>
+			<polygon class=" (CPI83_20050)
+hypothetical protein" points="421,25 406,25 406,10 376,40 406,70 406,55 421,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<polygon class="PF13360" points="380,40 389,31 389,49" stroke-linejoin="round" width="13" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="394" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20055)
+hypothetical protein</title>
+			<polygon class=" (CPI83_20055)
+hypothetical protein" points="469,25 451,25 451,10 421,40 451,70 451,55 469,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (CPI83_20060)
+MMPL family transporter</title>
+			<polygon class=" (CPI83_20060)
+MMPL family transporter" points="550,25 506,25 506,10 476,40 506,70 506,55 550,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="480,40 492,28 509,28 509,52 492,52" stroke-linejoin="round" width="31" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="513" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (CPI83_20065)
+hypothetical protein</title>
+			<polygon class=" (CPI83_20065)
+hypothetical protein" points="558,25 576,25 576,10 606,40 576,70 576,55 558,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

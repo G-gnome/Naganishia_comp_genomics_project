@@ -1,0 +1,18 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC2_membrane_4      PF12730.10   179 BGC0000499_ORF2:gid::pid:AAD24812.1:loc:156:876:strand:+ -            239   5.8e-10   39.5  21.3   1   1     3e-14   5.8e-10   39.5  21.3     2   173     2   174     1   180 0.72 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.10   179 BGC0000499_ORF3:gid::pid:AAD24813.1:loc:885:1635:strand:+ -            249     2e-28   99.7  22.2   1   1     1e-32     2e-28   99.7  22.2     2   179     2   182     1   182 0.89 ABC-2 family transporter protein
+L_biotic_typeA       PF04604.16    51 BGC0000499_ORF5:gid:bvi79:pid:AAC19355.1:loc:2043:2190:strand:+ -             48   2.2e-25   88.4   1.4   1   1   1.2e-29   2.3e-25   88.3   1.4     2    51     2    47     1    47 0.95 Type-A lantibiotic
+DUF4135              PF13575.9    377 BGC0000499_ORF6:gid::pid:AAC19356.1:loc:2354:4733:strand:+ -            793   6.7e-59  200.1   0.2   1   1   8.9e-63   8.7e-59  199.8   0.2     1   375    91   449    91   451 0.92 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0000499_ORF6:gid::pid:AAC19356.1:loc:2354:4733:strand:+ -            793   1.6e-34  119.2   4.7   1   1   2.1e-38   2.1e-34  118.8   3.0     2   239   566   790   565   793 0.92 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000499.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000499.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000499.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:41:13 2023
+# [ok]

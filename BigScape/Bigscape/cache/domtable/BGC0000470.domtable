@@ -1,0 +1,27 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0000470_ORF1:gid:bstK:pid:AFU90407.1:loc:12176:13436:strand:- -            419   2.8e-28   99.0  48.4   1   2   2.6e-18   1.7e-14   53.7  21.5     2   233     6   242     5   246 0.78 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0000470_ORF1:gid:bstK:pid:AFU90407.1:loc:12176:13436:strand:- -            419   2.8e-28   99.0  48.4   2   2   3.2e-17   2.1e-13   50.1  23.0     7   170   223   390   220   416 0.80 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0000470_ORF1:gid:bstK:pid:AFU90407.1:loc:12176:13436:strand:- -            419   8.5e-14   51.0  34.9   1   1   1.7e-17   1.1e-13   50.6  34.9    21   403    11   397     5   416 0.73 Transmembrane secretion effector
+Sugar_tr             PF00083.27   452 BGC0000470_ORF1:gid:bstK:pid:AFU90407.1:loc:12176:13436:strand:- -            419     1e-06   28.0  17.5   1   1   5.6e-10   3.6e-06   26.2   9.8    48   166   252   367   221   395 0.87 Sugar (and other) transporter
+LCM                  PF04072.17   188 BGC0000470_ORF2:gid:bstB:pid:AFU90406.1:loc:13696:14527:strand:- -            276   3.2e-18   66.5   0.0   1   1   4.1e-22   8.1e-18   65.2   0.0     7   186    18   170    13   172 0.85 Leucine carboxyl methyltransferase
+Radical_SAM          PF04055.24   167 BGC0000470_ORF3:gid:bstC:pid:AFU90405.1:loc:15051:17013:strand:+ -            653   7.9e-09   36.2   0.0   1   1   9.9e-13   1.9e-08   35.0   0.0     1   162   282   440   282   445 0.89 Radical SAM superfamily
+YcaO                 PF02624.19   322 BGC0000470_ORF5:gid:bstD:pid:AFU90403.1:loc:17301:18477:strand:+ -            391   9.2e-09   35.2   6.0   1   1   7.6e-12   1.5e-07   31.2   6.0     2   230    44   255    41   310 0.71 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+YcaO                 PF02624.19   322 BGC0000470_ORF6:gid:bstE:pid:AFU90402.1:loc:18394:19729:strand:+ -            444   2.2e-32  112.8   1.3   1   1   5.8e-34   1.1e-29  103.9   0.2   110   322   192   416   175   416 0.73 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Radical_SAM          PF04055.24   167 BGC0000470_ORF7:gid:bstF:pid:AFU90401.1:loc:19725:21639:strand:+ -            637   2.4e-08   34.7   0.0   1   1   2.9e-12   5.7e-08   33.4   0.0     3   167   274   433   272   433 0.92 Radical SAM superfamily
+Abhydrolase_1        PF00561.23   257 BGC0000470_ORF8:gid:bstG:pid:AFU90400.1:loc:21625:22468:strand:+ -            280   6.7e-11   42.5   0.1   1   1   1.4e-14   8.8e-11   42.1   0.1     2   124    41   166    40   185 0.84 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.10   220 BGC0000470_ORF8:gid:bstG:pid:AFU90400.1:loc:21625:22468:strand:+ -            280   1.1e-09   39.4   9.7   1   1   2.2e-13   1.5e-09   39.0   9.7     1   150    42   211    42   274 0.53 Alpha/beta hydrolase family
+Hydrolase_4          PF12146.11   239 BGC0000470_ORF8:gid:bstG:pid:AFU90400.1:loc:21625:22468:strand:+ -            280   2.5e-07   30.3   0.1   1   1   6.3e-11   4.1e-07   29.6   0.1     6   103    41   135    37   160 0.82 Serine aminopeptidase, S33
+p450                 PF00067.25   463 BGC0000470_ORF10:gid:bstI:pid:AFU90398.1:loc:23930:25070:strand:+ -            379   2.3e-10   39.9   0.0   1   1     1e-12     2e-08   33.6   0.0   359   426   288   345   282   374 0.83 Cytochrome P450
+Radical_SAM          PF04055.24   167 BGC0000470_ORF11:gid:bstJ:pid:AFU90397.1:loc:25077:26921:strand:+ -            615     1e-10   42.4   0.0   1   1   5.3e-14     1e-09   39.1   0.0     1   166   275   437   275   438 0.89 Radical SAM superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000470.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000470.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000470.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:01:20 2023
+# [ok]

@@ -1,0 +1,35 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+UDPG_MGDP_dh_N       PF03721.17   187 BGC0000725_ORF1:gid:algD:pid:AAG06928.1:loc:0:1311:strand:+ -            436   2.2e-63  213.3   0.0   1   1     1e-66   6.5e-63  211.8   0.0     1   187     1   190     1   190 0.97 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.22    94 BGC0000725_ORF1:gid:algD:pid:AAG06928.1:loc:0:1311:strand:+ -            436   1.3e-28   99.1   0.0   1   1   3.5e-32   2.3e-28   98.3   0.0     2    93   205   298   204   299 0.96 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.18   105 BGC0000725_ORF1:gid:algD:pid:AAG06928.1:loc:0:1311:strand:+ -            436   5.9e-13   49.3   0.0   1   1   4.3e-16   2.8e-12   47.1   0.0     2    81   318   405   317   423 0.89 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+Glyco_tranf_2_3      PF13641.9    230 BGC0000725_ORF2:gid:alg8:pid:AAG06929.1:loc:1450:2935:strand:+ -            494   1.8e-59  201.5   0.1   1   1   1.8e-63   1.8e-59  201.5   0.1     1   230    87   343    87   343 0.94 Glycosyltransferase like family 2
+Glyco_trans_2_3      PF13632.9    194 BGC0000725_ORF2:gid:alg8:pid:AAG06929.1:loc:1450:2935:strand:+ -            494   3.3e-35  121.9   3.2   1   1   3.4e-39   3.3e-35  121.9   3.2     2   192   184   405   183   410 0.85 Glycosyl transferase family group 2
+PilZ                 PF07238.17   103 BGC0000725_ORF3:gid:alg44:pid:AAG06930.1:loc:3017:4187:strand:+ -            389   6.2e-14   52.3   0.0   1   1   3.7e-15   2.4e-11   44.0   0.0     2   101    16   115    15   117 0.93 PilZ domain
+HlyD_3               PF13437.9    106 BGC0000725_ORF3:gid:alg44:pid:AAG06930.1:loc:3017:4187:strand:+ -            389   1.5e-10   41.8   0.1   1   1   1.7e-13   1.1e-09   39.0   0.1     1    97   262   357   262   369 0.91 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.9     50 BGC0000725_ORF3:gid:alg44:pid:AAG06930.1:loc:3017:4187:strand:+ -            389     9e-07   28.7   0.2   1   1   5.3e-09   3.4e-05   23.6   0.0     5    37   263   295   261   301 0.91 Biotin-lipoyl like
+Alginate_exp         PF13372.9    395 BGC0000725_ORF5:gid:algE:pid:AAG06932.1:loc:5624:7097:strand:+ -            490  3.9e-125  417.9  14.4   1   1  2.3e-129  4.5e-125  417.7  14.4     2   395    39   485    38   485 0.98 Alginate export
+Beta_helix           PF13229.9    158 BGC0000725_ORF6:gid:algG:pid:AAG06933.1:loc:7117:8749:strand:+ -            543     1e-18   67.8   9.7   1   2     3e-15     3e-11   43.6   1.1    22   153   240   383   199   384 0.83 Right handed beta helix region
+Beta_helix           PF13229.9    158 BGC0000725_ORF6:gid:algG:pid:AAG06933.1:loc:7117:8749:strand:+ -            543     1e-18   67.8   9.7   2   2   3.4e-13   3.4e-09   36.9   7.9    48   142   347   442   343   457 0.83 Right handed beta helix region
+NosD                 PF05048.16   210 BGC0000725_ORF6:gid:algG:pid:AAG06933.1:loc:7117:8749:strand:+ -            543     1e-16   61.1   8.0   1   1   1.9e-20   1.8e-16   60.3   8.0    27   171   288   438   242   458 0.89 Periplasmic copper-binding protein (NosD)
+ALGX                 PF16822.8    268 BGC0000725_ORF7:gid:algX:pid:AAG06934.1:loc:8761:10186:strand:+ -            474   8.8e-83  278.2   0.0   1   1   1.2e-86   1.2e-82  277.8   0.0     1   267    64   325    64   326 0.98 SGNH hydrolase-like domain, acetyltransferase AlgX
+CBM_26               PF16824.8    125 BGC0000725_ORF7:gid:algX:pid:AAG06934.1:loc:8761:10186:strand:+ -            474   3.3e-59  198.7   0.0   1   1   5.1e-63     5e-59  198.1   0.0     1   124   346   467   346   469 0.98 C-terminal carbohydrate-binding module
+Alginate_lyase       PF05426.15   272 BGC0000725_ORF8:gid:algL:pid:AAG06935.1:loc:10189:11293:strand:+ -            367   6.9e-59  199.7   4.8   1   1   4.3e-63   8.5e-59  199.5   4.8     2   272    63   303    62   303 0.97 Alginate lyase
+MBOAT                PF03062.22   348 BGC0000725_ORF9:gid:algI:pid:AAG06936.1:loc:11534:13097:strand:+ -            520   8.9e-28   97.8  13.6   1   1   2.6e-31   5.1e-27   95.3  12.2    88   341   148   378   145   382 0.92 MBOAT, membrane-bound O-acyltransferase family
+ALGX                 PF16822.8    268 BGC0000725_ORF10:gid:algJ:pid:AAG06937.1:loc:13111:14287:strand:+ -            391   1.8e-96  323.0   0.1   1   1  1.1e-100   2.2e-96  322.8   0.1     1   268    85   355    85   355 0.98 SGNH hydrolase-like domain, acetyltransferase AlgX
+AlgF                 PF11182.11   178 BGC0000725_ORF11:gid:algF:pid:AAG06938.1:loc:14359:15010:strand:+ -            216   1.3e-84  282.6   0.1   1   1   7.5e-89   1.5e-84  282.4   0.1     1   178    16   194    16   194 0.99 Alginate O-acetyl transferase AlgF
+MannoseP_isomer      PF01050.21   151 BGC0000725_ORF12:gid:algA:pid:AAG06939.1:loc:15206:16652:strand:+ -            481     4e-80  267.2   0.8   1   1   1.2e-83   6.1e-80  266.6   0.8     1   151   314   464   314   464 1.00 Mannose-6-phosphate isomerase
+NTP_transferase      PF00483.26   247 BGC0000725_ORF12:gid:algA:pid:AAG06939.1:loc:15206:16652:strand:+ -            481   9.9e-76  254.7   0.0   1   1   2.8e-79   1.4e-75  254.2   0.0     2   246     3   286     2   287 0.97 Nucleotidyl transferase
+Cupin_2              PF07883.14    71 BGC0000725_ORF12:gid:algA:pid:AAG06939.1:loc:15206:16652:strand:+ -            481   1.2e-10   41.0   0.2   1   1     6e-14   2.9e-10   39.8   0.1     3    70   381   448   379   449 0.90 Cupin domain
+NTP_transf_3         PF12804.10   160 BGC0000725_ORF12:gid:algA:pid:AAG06939.1:loc:15206:16652:strand:+ -            481   6.4e-07   30.0   0.1   1   1   3.4e-10   1.7e-06   28.6   0.0     2   115     4   132     3   218 0.77 MobA-like NTP transferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000725.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000725.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000725.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:11:40 2023
+# [ok]

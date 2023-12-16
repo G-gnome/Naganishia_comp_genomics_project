@@ -1,0 +1,23 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fer2_4               PF13510.9     82 BGC0002345_ORF1:gid:hcnA:pid:VVN46760.1:loc:0:318:strand:+ -            105     4e-20   71.8   3.7   1   1   4.8e-24   4.7e-20   71.5   3.7     3    80    17    94    15    96 0.96 2Fe-2S iron-sulfur cluster binding domain
+Pyr_redox_2          PF07992.17   295 BGC0002345_ORF2:gid:hcnB_2:pid:VVN46770.1:loc:314:1724:strand:+ -            469   4.8e-20   72.1   0.0   1   1   4.3e-23   9.3e-20   71.2   0.0     4   281     6   312     4   326 0.77 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0002345_ORF2:gid:hcnB_2:pid:VVN46770.1:loc:314:1724:strand:+ -            469   4.7e-12   46.1   0.3   1   1   4.9e-15   1.1e-11   44.9   0.3     1    54     7    62     7    72 0.91 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.10   427 BGC0002345_ORF2:gid:hcnB_2:pid:VVN46770.1:loc:314:1724:strand:+ -            469   3.2e-08   33.4   0.3   1   1   2.5e-11   5.5e-08   32.6   0.3     3    41     6    44     5    74 0.92 FAD dependent oxidoreductase
+Fer2_BFD             PF04324.18    51 BGC0002345_ORF2:gid:hcnB_2:pid:VVN46770.1:loc:314:1724:strand:+ -            469     1e-07   32.3   2.3   1   1   9.3e-11     2e-07   31.4   2.3     1    42   382   425   382   434 0.92 BFD-like [2Fe-2S] binding domain
+FAD_binding_3        PF01494.22   349 BGC0002345_ORF2:gid:hcnB_2:pid:VVN46770.1:loc:314:1724:strand:+ -            469   1.2e-06   28.2   0.6   1   1   5.3e-10   1.2e-06   28.2   0.6     5    34     6    35     2    39 0.91 FAD binding domain
+FAD_binding_2        PF00890.27   417 BGC0002345_ORF2:gid:hcnB_2:pid:VVN46770.1:loc:314:1724:strand:+ -            469   1.1e-06   28.1   1.0   1   1   9.1e-10     2e-06   27.3   1.0     3    36     6    39     4    42 0.94 FAD binding domain
+GIDA                 PF01134.25   392 BGC0002345_ORF2:gid:hcnB_2:pid:VVN46770.1:loc:314:1724:strand:+ -            469   2.4e-06   27.0   2.0   1   1   5.1e-08   0.00011   21.6   0.1     3    38     6    40     4    66 0.87 Glucose inhibited division protein A
+DAO                  PF01266.27   353 BGC0002345_ORF3:gid:hcnC:pid:VVN46780.1:loc:1716:2976:strand:+ -            419   4.9e-63  214.0   0.3   1   1   1.2e-66   5.8e-63  213.7   0.3     1   351     6   385     6   387 0.84 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0002345_ORF3:gid:hcnC:pid:VVN46780.1:loc:1716:2976:strand:+ -            419   1.5e-08   34.3   8.3   1   1   1.1e-08   5.2e-05   22.6   2.7     1    49     6    54     6    60 0.92 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002345.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002345.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002345.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:15:03 2023
+# [ok]

@@ -1,0 +1,39 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Robl_LC7             PF03259.20    91 BGC0001840_ORF1:gid::pid:DAC80533.1:loc:1369:1780:strand:+ -            136   8.6e-20   70.4   0.0   1   1   7.2e-24   1.4e-19   69.7   0.0     3    90     7    99     5   100 0.92 Roadblock/LC7 domain
+DUF742               PF05331.14   114 BGC0001840_ORF2:gid::pid:DAC80534.1:loc:1776:2157:strand:+ -            126   3.7e-32  110.7   0.4   1   1   2.2e-36   4.3e-32  110.4   0.4     3   113    13   123    11   124 0.96 Protein of unknown function (DUF742)
+ATP_bind_1           PF03029.20   241 BGC0001840_ORF3:gid::pid:DAC80535.1:loc:2131:2722:strand:+ -            196   7.9e-24   84.9   0.1   1   1   1.8e-25   3.5e-21   76.2   0.1     1   238    25   191    25   194 0.94 Conserved hypothetical ATP binding protein
+p450                 PF00067.25   463 BGC0001840_ORF5:gid::pid:DAC80537.1:loc:4210:5464:strand:+ -            417   3.4e-23   82.3   0.1   1   1   9.6e-26   1.9e-21   76.5   0.1   297   432   283   388   181   403 0.81 Cytochrome P450
+ECH_1                PF00378.23   251 BGC0001840_ORF6:gid::pid:DAC80538.1:loc:5541:6306:strand:+ -            254     3e-34  118.6   0.0   1   1   3.8e-38   3.7e-34  118.3   0.0     3   229    13   246    11   252 0.90 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.8    335 BGC0001840_ORF6:gid::pid:DAC80538.1:loc:5541:6306:strand:+ -            254   1.8e-19   70.6   0.0   1   1   2.5e-23   2.5e-19   70.2   0.0     3   202    18   224    16   249 0.84 Enoyl-CoA hydratase/isomerase
+TauD                 PF02668.19   268 BGC0001840_ORF7:gid::pid:DAC80539.1:loc:6473:7364:strand:- -            296   1.8e-54  185.5   0.5   1   1   1.1e-58   2.2e-54  185.2   0.5     2   266    25   282    24   284 0.92 Taurine catabolism dioxygenase TauD, TfdA family
+AMP-binding          PF00501.31   424 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146  9.6e-142  472.6   0.0   1   2   1.6e-76   3.2e-73  246.9   0.0     3   424    29   428    27   428 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146  9.6e-142  472.6   0.0   2   2   1.8e-69   3.6e-66  223.6   0.0     1   424  1095  1497  1095  1497 0.88 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   2.1e-53  181.6   0.6   1   1   1.1e-56   2.1e-53  181.6   0.6     2   252  1708  1941  1707  1942 0.89 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   3.2e-37  127.3   3.0   1   1   2.4e-40   4.7e-37  126.7   1.3     1   118  1950  2066  1950  2067 0.98 Beta-ketoacyl synthase, C-terminal domain
+Condensation         PF00668.23   457 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   8.4e-35  120.4   0.0   1   1   1.7e-28   3.3e-25   88.8   0.0   128   371   762   993   759  1067 0.84 Condensation domain
+PP-binding           PF00550.28    67 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   4.6e-28   97.4   9.0   1   3   9.5e-11   1.9e-07   31.4   0.4     2    55   546   597   545   608 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   4.6e-28   97.4   9.0   2   3   3.8e-08   7.4e-05   23.1   0.0     1    67  1602  1665  1602  1665 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   4.6e-28   97.4   9.0   3   3     5e-15   9.8e-12   45.1   2.3     2    67  2798  2861  2797  2861 0.91 Phosphopantetheine attachment site
+KR                   PF08659.13   180 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   2.7e-27   95.9   0.2   1   1   3.2e-30   6.2e-27   94.8   0.0     1   180  2538  2713  2538  2713 0.93 KR domain
+AMP-binding_C        PF13193.9     76 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   2.5e-20   73.4   0.1   1   2   9.8e-14   1.9e-10   41.7   0.0     1    76   436   514   436   514 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   2.5e-20   73.4   0.1   2   2   2.7e-09   5.4e-06   27.4   0.0     2    76  1506  1573  1505  1573 0.88 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.23   230 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146     2e-17   64.3   0.0   1   1   2.4e-20   4.7e-17   63.0   0.0     3   224  2893  3118  2892  3123 0.81 Thioesterase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   5.3e-10   39.9   0.0   1   1   6.4e-13   1.3e-09   38.7   0.0     7    86  2072  2157  2070  2180 0.79 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.28   195 BGC0001840_ORF8:gid::pid:DAC80540.1:loc:7431:16872:strand:- -           3146   2.5e-06   27.2   0.0   1   1   2.4e-09   4.7e-06   26.3   0.0     4   162  2541  2692  2539  2704 0.82 short chain dehydrogenase
+Condensation         PF00668.23   457 BGC0001840_ORF9:gid::pid:DAC80541.1:loc:16871:21011:strand:- -           1379   1.5e-99  333.9   0.0   1   1  4.9e-103   1.9e-99  333.5   0.0     6   456    71   512    67   513 0.96 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001840_ORF9:gid::pid:DAC80541.1:loc:16871:21011:strand:- -           1379   4.6e-84  282.6   0.0   1   1   2.9e-87   1.1e-83  281.3   0.0     1   424   549   942   549   942 0.89 AMP-binding enzyme
+Thioesterase         PF00975.23   230 BGC0001840_ORF9:gid::pid:DAC80541.1:loc:16871:21011:strand:- -           1379   7.5e-27   95.1   0.0   1   1   3.5e-30   1.4e-26   94.2   0.0     2   228  1140  1359  1139  1361 0.87 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001840_ORF9:gid::pid:DAC80541.1:loc:16871:21011:strand:- -           1379   3.1e-08   33.9   0.0   1   1   1.6e-11   6.3e-08   32.9   0.0     2    65  1055  1116  1054  1118 0.92 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001840_ORF9:gid::pid:DAC80541.1:loc:16871:21011:strand:- -           1379   5.3e-08   33.8   0.0   1   1   4.3e-11   1.7e-07   32.2   0.0     1    76   950  1025   950  1025 0.88 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001840.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001840.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001840.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:39:33 2023
+# [ok]

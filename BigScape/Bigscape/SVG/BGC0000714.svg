@@ -1,0 +1,462 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1585.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1575.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sis1
+hypothetical protein</title>
+			<polygon class="sis1
+hypothetical protein" points="89,10 104,40 89,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sis2
+putative trp-tRNA synthetase</title>
+			<polygon class="sis2
+putative trp-tRNA synthetase" points="107,10 122,40 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_1b (PF00579)
+"tRNA synthetases class I (W and Y)"</title>
+				<polygon class="PF00579" points="107,28 112,28 118,40 112,52 107,52" stroke-linejoin="round" width="12" height="24" fill="rgb(82,63,204)" stroke="rgb(65,50,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis3
+tRNA-ribosyltransferase</title>
+			<polygon class="sis3
+tRNA-ribosyltransferase" points="132,25 133,25 133,10 163,40 133,70 133,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TGT (PF01702)
+"Queuine tRNA-ribosyltransferase"</title>
+				<polygon class="PF01702" points="132,28 146,28 158,40 146,52 132,52" stroke-linejoin="round" width="29" height="24" fill="rgb(61,158,187)" stroke="rgb(48,126,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis4
+putative ribosomal RNA-methyltransferase</title>
+			<polygon class="sis4
+putative ribosomal RNA-methyltransferase" points="163,10 189,40 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FmrO (PF07091)
+"Ribosomal RNA methyltransferase (FmrO)"</title>
+				<polygon class="PF07091" points="164,28 174,28 185,40 174,52 164,52" stroke-linejoin="round" width="24" height="24" fill="rgb(91,151,191)" stroke="rgb(72,120,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis5
+aminotransferase</title>
+			<polygon class="sis5
+aminotransferase" points="232,25 221,25 221,10 191,40 221,70 221,55 232,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="195,40 207,28 216,28 216,52 207,52 195,40" stroke-linejoin="round" width="21" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<rect class="PF00202" x="219" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis6
+putative sugar-alcohol dehydrogenase</title>
+			<polygon class="sis6
+putative sugar-alcohol dehydrogenase" points="290,25 263,25 263,10 233,40 263,70 263,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="237,40 247,30 247,50" stroke-linejoin="round" width="12" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="255" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<rect class="PF01266" x="280" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis7
+putative dehydrogenase</title>
+			<polygon class="sis7
+putative dehydrogenase" points="290,40 316,10 316,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="295,39 305,28 315,28 315,52 305,52 295,41" stroke-linejoin="round" width="20" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis8
+glycosyltransferase</title>
+			<polygon class="sis8
+glycosyltransferase" points="358,25 347,25 347,10 317,40 347,70 347,55 358,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="321,40 333,28 336,28 336,52 333,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="338" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis9
+sisomicin resistance protein</title>
+			<polygon class="sis9
+sisomicin resistance protein" points="360,40 387,10 387,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FmrO (PF07091)
+"Ribosomal RNA methyltransferase (FmrO)"</title>
+				<polygon class="PF07091" points="364,40 375,28 385,28 385,52 375,52" stroke-linejoin="round" width="25" height="24" fill="rgb(91,151,191)" stroke="rgb(72,120,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis10
+2-deoxy-scyllo-inosose aminotransferase</title>
+			<polygon class="sis10
+2-deoxy-scyllo-inosose aminotransferase" points="397,25 409,25 409,10 439,40 409,70 409,55 397,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="399,28 422,28 434,40 422,52 399,52" stroke-linejoin="round" width="38" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis11
+2-deoxy-scyllo-inosose synthase</title>
+			<polygon class="sis11
+2-deoxy-scyllo-inosose synthase" points="444,25 453,25 453,10 483,40 453,70 453,55 444,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="450,28 467,28 475,36 475,44 467,52 450,52" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis12
+putative NAD-dependent dehydrogenase</title>
+			<polygon class="sis12
+putative NAD-dependent dehydrogenase" points="483,25 487,25 487,10 517,40 487,70 487,55 483,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="483" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="496,28 500,28 512,40 500,52 496,52" stroke-linejoin="round" width="20" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis13
+putative sisomicin glycosyltransferase II</title>
+			<polygon class="sis13
+putative sisomicin glycosyltransferase II" points="520,25 529,25 529,10 559,40 529,70 529,55 520,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="520" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="539,28 542,28 554,40 542,52 539,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis14
+putative sisomicin oxidoreductase</title>
+			<polygon class="sis14
+putative sisomicin oxidoreductase" points="559,25 595,25 595,10 625,40 595,70 595,55 559,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="592" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis15
+putative L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase</title>
+			<polygon class="sis15
+putative L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase" points="625,25 636,25 636,10 666,40 636,70 636,55 625,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="627,28 650,28 662,40 650,52 627,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis16
+GTP cyclohydrolase I</title>
+			<polygon class="sis16
+GTP cyclohydrolase I" points="667,10 679,40 667,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QueF (PF14489)
+"QueF-like protein"</title>
+				<polygon class="PF14489" points="671,28 676,40 671,52" stroke-linejoin="round" width="7" height="24" fill="rgb(91,158,228)" stroke="rgb(72,126,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis17
+aminoglycoside phosphotransferase</title>
+			<polygon class="sis17
+aminoglycoside phosphotransferase" points="683,40 712,10 712,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="687,40 699,28 708,28 708,52 699,52" stroke-linejoin="round" width="22" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis18
+aminotransferase</title>
+			<polygon class="sis18
+aminotransferase" points="757,25 742,25 742,10 712,40 742,70 742,55 757,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="718,38 728,28 754,28 754,52 728,52 718,42" stroke-linejoin="round" width="36" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis19
+hypothetical protein</title>
+			<polygon class="sis19
+hypothetical protein" points="784,40 801,10 801,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF664 (PF04978)
+"Protein of unknown function (DUF664)"</title>
+				<polygon class="PF04978" points="787,40 794,28 798,28 798,52 794,52" stroke-linejoin="round" width="14" height="24" fill="rgb(102,82,189)" stroke="rgb(81,65,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis20
+putative WD-repeat-containing protein</title>
+			<polygon class="sis20
+putative WD-repeat-containing protein" points="834,25 833,25 833,10 803,40 833,70 833,55 834,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<polygon class="PF00400" points="807,40 807,40 807,40" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<polygon class="PF00400" points="808,39 811,36 811,44 808,41" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<polygon class="PF00400" points="812,35 815,32 815,48 812,45" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="820" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="825" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="829" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis21
+putative transmembrane efflux protein</title>
+			<polygon class="sis21
+putative transmembrane efflux protein" points="887,25 871,25 871,10 841,40 871,70 871,55 887,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="845,40 857,28 884,28 884,52 857,52 845,40" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis22
+2-deoxy-scyllo-inosamine dehydrogenase</title>
+			<polygon class="sis22
+2-deoxy-scyllo-inosamine dehydrogenase" points="927,25 924,25 924,10 894,40 924,70 924,55 927,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="898,40 910,28 910,28 910,52 910,52 898,40" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="914" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis23
+putative cation antiporter</title>
+			<polygon class="sis23
+putative cation antiporter" points="948,25 963,25 963,10 993,40 963,70 963,55 948,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_Exchanger (PF00999)
+"Sodium/hydrogen exchanger family"</title>
+				<polygon class="PF00999" points="949,28 977,28 988,39 988,41 977,52 949,52" stroke-linejoin="round" width="39" height="24" fill="rgb(229,67,191)" stroke="rgb(183,53,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis24
+transcription regulator related protein</title>
+			<polygon class="sis24
+transcription regulator related protein" points="999,10 1022,40 999,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QueC (PF06508)
+"Queuosine biosynthesis protein QueC"</title>
+				<polygon class="PF06508" points="1000,28 1009,28 1018,40 1009,52 1000,52" stroke-linejoin="round" width="21" height="24" fill="rgb(217,93,123)" stroke="rgb(173,74,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis25
+putative sisomicin production protein</title>
+			<polygon class="sis25
+putative sisomicin production protein" points="1023,10 1044,40 1023,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sis26
+putative sisomicin exporter</title>
+			<polygon class="sis26
+putative sisomicin exporter" points="1175,25 1090,25 1090,10 1060,40 1090,70 1090,55 1175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="1131" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis27
+putative sisomicin exporter</title>
+			<polygon class="sis27
+putative sisomicin exporter" points="1240,25 1205,25 1205,10 1175,40 1205,70 1205,55 1240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sis28
+predicted methyltransferase</title>
+			<polygon class="sis28
+predicted methyltransferase" points="1292,25 1289,25 1289,10 1259,40 1289,70 1289,55 1292,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TP_methylase (PF00590)
+"Tetrapyrrole (Corrin/Porphyrin) Methylases"</title>
+				<polygon class="PF00590" points="1267,36 1275,28 1287,28 1287,52 1275,52 1267,44" stroke-linejoin="round" width="20" height="24" fill="rgb(124,218,92)" stroke="rgb(99,174,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis29
+putative sisomicin production protein</title>
+			<polygon class="sis29
+putative sisomicin production protein" points="1298,10 1323,40 1298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIG-L (PF02585)
+"GlcNAc-PI de-N-acetylase"</title>
+				<polygon class="PF02585" points="1299,28 1309,28 1311,30 1311,50 1309,52 1299,52" stroke-linejoin="round" width="12" height="24" fill="rgb(97,215,95)" stroke="rgb(77,172,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis30
+putative sisomicin methyltransferase</title>
+			<polygon class="sis30
+putative sisomicin methyltransferase" points="1324,25 1326,25 1326,10 1356,40 1326,70 1326,55 1324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MTS (PF05175)
+"Methyltransferase small domain"</title>
+				<polygon class="PF05175" points="1335,28 1339,28 1348,37 1348,43 1339,52 1335,52" stroke-linejoin="round" width="13" height="24" fill="rgb(99,227,110)" stroke="rgb(79,181,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis31
+activator of Hsp90 ATPase 1 family protein</title>
+			<polygon class="sis31
+activator of Hsp90 ATPase 1 family protein" points="1359,40 1375,10 1375,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AHSA1 (PF08327)
+"Activator of Hsp90 ATPase homolog 1-like protein"</title>
+				<polygon class="PF08327" points="1362,40 1368,28 1372,28 1372,52 1368,52" stroke-linejoin="round" width="13" height="24" fill="rgb(81,199,171)" stroke="rgb(64,159,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis32
+ArsR family transcriptional regulator</title>
+			<polygon class="sis32
+ArsR family transcriptional regulator" points="1376,40 1387,10 1387,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_20 (PF12840)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12840" points="1380,37 1384,28 1385,28 1385,52 1384,52 1380,43" stroke-linejoin="round" width="5" height="24" fill="rgb(157,225,93)" stroke="rgb(125,180,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis33
+putative serine repeat antigen</title>
+			<polygon class="sis33
+putative serine repeat antigen" points="1389,10 1411,40 1389,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sis34
+putative two-component system histidine kinase</title>
+			<polygon class="sis34
+putative two-component system histidine kinase" points="1458,25 1445,25 1445,10 1415,40 1445,70 1445,55 1458,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="1419,40 1425,34 1425,46" stroke-linejoin="round" width="10" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<polygon class="PF00512" points="1430,29 1431,28 1435,28 1435,52 1431,52 1430,51" stroke-linejoin="round" width="5" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HAMP (PF00672)
+"HAMP domain"</title>
+				<rect class="PF00672" x="1437" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(124,89,195)" stroke="rgb(99,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis35
+putative two-component system response regulator</title>
+			<polygon class="sis35
+putative two-component system response regulator" points="1459,40 1482,10 1482,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="1463,40 1466,36 1466,44" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="1470,31 1472,28 1480,28 1480,52 1472,52 1470,49" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sis36
+putative secreted serine protease</title>
+			<polygon class="sis36
+putative secreted serine protease" points="1485,10 1499,40 1485,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sis37
+short-chain dehydrogenase/reductase</title>
+			<polygon class="sis37
+short-chain dehydrogenase/reductase" points="1509,40 1533,10 1533,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="1513,40 1523,28 1532,28 1532,52 1523,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

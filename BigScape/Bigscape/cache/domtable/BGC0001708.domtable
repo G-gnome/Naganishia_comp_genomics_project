@@ -1,0 +1,39 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NmrA                 PF05368.16   233 BGC0001708_ORF1:gid::pid:PKX88475.1:loc:0:1193:strand:- -            327   4.1e-26   92.0   0.0   1   1   4.8e-30   4.7e-26   91.9   0.0     1   227     9   234     9   292 0.87 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0001708_ORF1:gid::pid:PKX88475.1:loc:0:1193:strand:- -            327   2.3e-09   37.6   0.0   1   1   3.7e-13   3.6e-09   36.9   0.0     1   145    13   151    13   162 0.77 NAD(P)H-binding
+FAD_binding_3        PF01494.22   349 BGC0001708_ORF3:gid::pid:PKX88477.1:loc:3771:5370:strand:- -            470   5.3e-21   75.4   0.2   1   1   3.9e-24   7.7e-20   71.6   0.2     2   326     6   343     5   374 0.70 FAD binding domain
+Epimerase            PF01370.24   241 BGC0001708_ORF7:gid::pid:PKX88481.1:loc:13056:14344:strand:+ -            342   6.7e-11   42.2   0.0   1   1   4.1e-14   2.7e-10   40.3   0.0     1   230    14   263    14   273 0.65 NAD dependent epimerase/dehydratase family
+NAD_binding_10       PF13460.9    184 BGC0001708_ORF7:gid::pid:PKX88481.1:loc:13056:14344:strand:+ -            342   1.3e-07   31.8   0.0   1   1   3.7e-11   2.4e-07   30.9   0.0     1   103    18   136    18   209 0.73 NAD(P)H-binding
+3Beta_HSD            PF01073.22   280 BGC0001708_ORF7:gid::pid:PKX88481.1:loc:13056:14344:strand:+ -            342   8.2e-08   31.7   0.0   1   1     2e-11   1.3e-07   31.0   0.0     1   120    15   135    15   156 0.83 3-beta hydroxysteroid dehydrogenase/isomerase family
+PhyH                 PF05721.16   211 BGC0001708_ORF8:gid::pid:PKX88482.1:loc:16194:17091:strand:+ -            298   1.3e-21   77.9   0.0   1   1   9.7e-26   1.9e-21   77.4   0.0     1   207    27   221    27   226 0.74 Phytanoyl-CoA dioxygenase (PhyH)
+PhyH                 PF05721.16   211 BGC0001708_ORF9:gid::pid:PKX88483.1:loc:17739:18656:strand:- -            266   1.4e-18   68.1   0.1   1   1   1.7e-22   3.3e-18   66.8   0.1     4   207     8   207     5   211 0.73 Phytanoyl-CoA dioxygenase (PhyH)
+Abhydrolase_6        PF12697.10   220 BGC0001708_ORF10:gid::pid:PKX88484.1:loc:19473:20334:strand:+ -            250   6.1e-17   63.1   0.0   1   1   3.5e-21   6.9e-17   62.9   0.0     1   219     6   238     6   239 0.75 Alpha/beta hydrolase family
+adh_short_C2         PF13561.9    234 BGC0001708_ORF11:gid::pid:PKX88485.1:loc:21556:22501:strand:+ -            257   1.2e-43  149.6   0.1   1   1   1.6e-47   1.6e-43  149.1   0.1     1   231    13   252    13   255 0.89 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001708_ORF11:gid::pid:PKX88485.1:loc:21556:22501:strand:+ -            257   2.1e-42  144.9   0.1   1   1   2.7e-46   2.7e-42  144.6   0.1     2   189     8   192     7   197 0.94 short chain dehydrogenase
+UbiA                 PF01040.21   251 BGC0001708_ORF12:gid::pid:PKX88486.1:loc:22862:23813:strand:- -            316   2.9e-31  108.8  12.5   1   1   1.5e-35   2.9e-31  108.8  12.5     2   222    47   269    46   298 0.82 UbiA prenyltransferase family
+ketoacyl-synt        PF00109.29   253 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   3.7e-76  256.1   0.1   1   1   5.1e-79   6.7e-76  255.3   0.1     2   253   366   608   365   608 0.91 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   1.6e-35  121.8   0.1   1   1   4.4e-38   5.8e-35  120.0   0.1     1   118   616   732   616   733 0.98 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   5.8e-26   91.5   0.1   1   1     8e-29     1e-25   90.7   0.1    32   295  1261  1535  1260  1537 0.91 Polyketide synthase dehydratase
+HTH_51               PF18558.4     90 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   7.1e-21   74.0   0.0   1   1   2.5e-23   3.2e-20   71.9   0.0     2    88  1698  1783  1697  1785 0.92 Helix-turn-helix domain
+Methyltransf_12      PF08242.15    99 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   1.3e-18   67.7   0.0   1   1   2.4e-21   3.1e-18   66.5   0.0     1    99  1885  1986  1885  1986 0.95 Methyltransferase domain
+Acyl_transf_1        PF00698.24   319 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   6.8e-18   65.4   1.5   1   1     9e-20   1.2e-16   61.3   0.4    16   280   901  1167   888  1194 0.78 Acyl transferase domain
+Methyltransf_23      PF13489.9    165 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255     1e-11   45.0   0.0   1   1   1.9e-14   2.5e-11   43.8   0.0     8   163  1868  2037  1859  2038 0.78 Methyltransferase domain
+BD-FAE               PF20434.1    215 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   1.7e-11   44.2   0.0   1   1   2.7e-14   3.6e-11   43.1   0.0     2   109  2091  2206  2090  2226 0.82 BD-FAE
+PP-binding           PF00550.28    67 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   2.1e-11   44.1   0.1   1   1   3.7e-14   4.9e-11   42.9   0.1     2    67  1586  1651  1585  1651 0.96 Phosphopantetheine attachment site
+Methyltransf_25      PF13649.9     97 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   2.5e-10   41.0   0.0   1   1   8.4e-13   1.1e-09   38.9   0.0     1    97  1884  1984  1884  1984 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   7.9e-09   36.2   0.0   1   1   1.6e-11   2.1e-08   34.8   0.0     1    95  1885  1987  1885  1988 0.92 Methyltransferase domain
+Abhydrolase_3        PF07859.16   211 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255     2e-08   34.5   0.0   1   1   3.6e-11   4.7e-08   33.3   0.0     2   112  2109  2227  2108  2247 0.86 alpha/beta hydrolase fold
+Thiolase_N           PF00108.26   260 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   5.6e-07   29.3   0.1   1   1   8.6e-10   1.1e-06   28.3   0.1    74   125   519   570   508   585 0.87 Thiolase, N-terminal domain
+SAT                  PF16073.8    240 BGC0001708_ORF13:gid::pid:PKX88487.1:loc:25866:32997:strand:- -           2255   3.6e-06   26.9   1.7   1   1   1.3e-08   1.7e-05   24.7   0.0    66   240    85   242    13   242 0.75 Starter unit:ACP transacylase in aflatoxin biosynthesis
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001708.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001708.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001708.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:49:07 2023
+# [ok]

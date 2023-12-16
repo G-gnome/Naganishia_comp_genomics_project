@@ -1,0 +1,30 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AAA_21               PF13304.9    304 BGC0002334_ORF3:gid::pid:KAF7786078.1:loc:2649:4494:strand:- -            614   8.3e-21   75.2   0.1   1   1   1.3e-17   6.6e-14   52.5   0.0   196   304   229   355   157   355 0.74 AAA domain, putative AbiEii toxin, Type IV TA system
+AAA_15               PF13175.9    374 BGC0002334_ORF3:gid::pid:KAF7786078.1:loc:2649:4494:strand:- -            614   9.2e-14   51.9  12.4   1   1   4.6e-15   2.2e-11   44.0  12.4    18   372    17   352     7   354 0.69 AAA ATPase domain
+Aconitase_2_N        PF06434.16   204 BGC0002334_ORF4:gid:acnB:pid:KAF7786079.1:loc:4842:7632:strand:- -            929   1.3e-65  221.0   3.3   1   1   3.4e-69   2.2e-65  220.2   0.3     3   204   171   399   168   399 0.97 Aconitate hydratase 2 N-terminus
+Aconitase            PF00330.23   461 BGC0002334_ORF4:gid:acnB:pid:KAF7786079.1:loc:4842:7632:strand:- -            929   2.4e-60  205.0   0.6   1   1   4.9e-64   3.2e-60  204.6   0.6     1   461   403   887   403   887 0.84 Aconitase family (aconitate hydratase)
+Aconitase_B_N        PF11791.11   153 BGC0002334_ORF4:gid:acnB:pid:KAF7786079.1:loc:4842:7632:strand:- -            929   1.9e-41  141.8   0.5   1   1   1.1e-44   6.9e-41  140.0   0.2     7   153     6   156     1   156 0.95 Aconitate B N-terminal domain
+ThiF                 PF00899.24   219 BGC0002334_ORF5:gid::pid:KAF7786080.1:loc:7904:9899:strand:- -            664   4.4e-29  101.4   0.0   1   1   3.5e-33   6.9e-29  100.7   0.0     2   207    12   261    11   273 0.94 ThiF family
+Acetyltransf_5       PF13444.9    102 BGC0002334_ORF6:gid::pid:KAF7786081.1:loc:9908:10658:strand:- -            249   2.2e-14   54.2   0.0   1   1     5e-18     5e-14   53.0   0.0     1    96    31   130    31   135 0.80 Acetyltransferase (GNAT) domain
+Autoind_synth        PF00765.20   183 BGC0002334_ORF6:gid::pid:KAF7786081.1:loc:9908:10658:strand:- -            249   1.5e-11   44.3   0.0   1   1   1.7e-14   1.7e-10   40.9   0.0     6   161    21   198    15   219 0.71 Autoinducer synthase
+AstE_AspA            PF04952.17   291 BGC0002334_ORF7:gid::pid:KAF7786082.1:loc:11013:12069:strand:- -            351   9.5e-65  218.8   0.0   1   1   5.8e-69   1.1e-64  218.5   0.0     1   289    50   318    50   320 0.98 Succinylglutamate desuccinylase / Aspartoacylase family
+RimK                 PF08443.14   188 BGC0002334_ORF8:gid:rimK:pid:KAF7786083.1:loc:12055:12961:strand:- -            301   1.5e-69  233.5   0.1   1   1   5.2e-73     2e-69  233.1   0.1     2   187    98   285    97   286 0.99 RimK-like ATP-grasp domain
+Rimk_N               PF18030.4     94 BGC0002334_ORF8:gid:rimK:pid:KAF7786083.1:loc:12055:12961:strand:- -            301   1.5e-44  150.3   0.1   1   1     1e-47   4.1e-44  149.0   0.0     1    94     1    94     1    94 1.00 RimK PreATP-grasp domain
+GSH-S_ATP            PF02955.19   175 BGC0002334_ORF8:gid:rimK:pid:KAF7786083.1:loc:12055:12961:strand:- -            301   5.1e-18   65.2   0.3   1   1   2.3e-21     9e-18   64.4   0.3    13   171   115   271   100   275 0.83 Prokaryotic glutathione synthetase, ATP-grasp domain
+ATP-grasp_3          PF02655.17   161 BGC0002334_ORF8:gid:rimK:pid:KAF7786083.1:loc:12055:12961:strand:- -            301     2e-08   34.6   0.0   1   1   8.5e-12   3.3e-08   33.9   0.0     3   156    99   263    97   266 0.78 ATP-grasp domain
+Zn_protease          PF05618.14   138 BGC0002334_ORF9:gid::pid:KAF7786084.1:loc:12962:13409:strand:- -            148   9.9e-43  145.5   0.0   1   1   5.7e-47   1.1e-42  145.3   0.0     1   137     6   142     6   143 0.98 Putative ATP-dependant zinc protease
+TonB_dep_Rec         PF00593.27   470 BGC0002334_ORF10:gid::pid:KAF7786085.1:loc:13748:16268:strand:+ -            839   9.3e-47  161.1  36.1   1   1   9.4e-51   9.3e-47  161.1  36.1     9   469   321   837   299   838 0.72 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0002334_ORF10:gid::pid:KAF7786085.1:loc:13748:16268:strand:+ -            839   3.1e-22   79.3   0.6   1   1     2e-25     2e-21   76.7   0.4     3   108    53   173    51   173 0.96 TonB-dependent Receptor Plug Domain
+FlhE                 PF06366.16   106 BGC0002334_ORF11:gid::pid:KAF7786086.1:loc:16493:17012:strand:+ -            172   8.9e-16   58.0   0.0   1   1   7.1e-20   1.4e-15   57.3   0.0     1   105    66   171    66   172 0.88 Flagellar protein FlhE
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002334.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002334.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002334.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:37:18 2023
+# [ok]

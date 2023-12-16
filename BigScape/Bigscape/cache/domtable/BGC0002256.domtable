@@ -1,0 +1,28 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0002256_ORF1:gid:fscA:pid:DAD54574.1:loc:464:3536:strand:- -           1023   1.5e-78  264.4   0.0   1   1   5.6e-82   2.2e-78  263.9   0.0     2   423    34   429    33   430 0.87 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0002256_ORF1:gid:fscA:pid:DAD54574.1:loc:464:3536:strand:- -           1023     4e-35  121.4   0.0   1   1   1.9e-37   7.3e-34  117.2   0.0     1   242   685   901   685   914 0.87 Male sterility protein
+Epimerase            PF01370.24   241 BGC0002256_ORF1:gid:fscA:pid:DAD54574.1:loc:464:3536:strand:- -           1023   1.6e-10   41.0   0.0   1   1     7e-14   2.7e-10   40.2   0.0     2   159   684   847   683   867 0.85 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0002256_ORF1:gid:fscA:pid:DAD54574.1:loc:464:3536:strand:- -           1023   1.2e-07   31.2   0.0   1   1     5e-11     2e-07   30.5   0.0     2   141   685   835   684   854 0.70 3-beta hydroxysteroid dehydrogenase/isomerase family
+AMP-binding          PF00501.31   424 BGC0002256_ORF3:gid:fscC:pid:DAD54576.1:loc:6647:11009:strand:+ -           1453   1.2e-75  254.8   0.0   1   1   1.8e-79   1.8e-75  254.3   0.0     2   424    17   409    16   409 0.86 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002256_ORF3:gid:fscC:pid:DAD54576.1:loc:6647:11009:strand:+ -           1453   5.1e-51  173.9   0.1   1   2   3.9e-27   3.8e-23   82.0   0.1     5   434   639  1050   637  1058 0.78 Condensation domain
+Condensation         PF00668.23   457 BGC0002256_ORF3:gid:fscC:pid:DAD54576.1:loc:6647:11009:strand:+ -           1453   5.1e-51  173.9   0.1   2   2   1.5e-27   1.5e-23   83.4   0.0     3   360  1081  1415  1079  1432 0.81 Condensation domain
+IDO                  PF01231.21   438 BGC0002256_ORF4:gid:fscD:pid:DAD54577.1:loc:11463:12798:strand:+ -            404    3e-114  382.3   0.0   1   1  4.8e-118  9.3e-114  380.6   0.0     2   434     8   396     7   400 0.93 Indoleamine 2,3-dioxygenase
+p450                 PF00067.25   463 BGC0002256_ORF5:gid:fscE:pid:DAD54578.1:loc:12972:14631:strand:+ -            510   3.9e-54  184.2   0.0   1   1   2.5e-58     5e-54  183.9   0.0    10   453    52   492    43   501 0.82 Cytochrome P450
+p450                 PF00067.25   463 BGC0002256_ORF6:gid:fscF:pid:DAD54579.1:loc:15103:16851:strand:+ -            536     2e-52  178.6   0.0   1   1   1.4e-56   2.7e-52  178.2   0.0     1   438    40   490    40   505 0.85 Cytochrome P450
+Trp_DMAT             PF11991.11   363 BGC0002256_ORF7:gid:fscG:pid:DAD54580.1:loc:17009:18317:strand:- -            435   1.8e-89  300.8   0.0   1   1   2.4e-93   4.8e-89  299.4   0.0     4   362    31   387    28   388 0.90 Tryptophan dimethylallyltransferase
+adh_short            PF00106.28   195 BGC0002256_ORF9:gid:fscI:pid:DAD54582.1:loc:19840:20675:strand:- -            258   1.2e-26   93.5   0.2   1   1   5.4e-27   3.6e-23   82.2   0.0     1   141    22   169    22   175 0.93 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002256_ORF9:gid:fscI:pid:DAD54582.1:loc:19840:20675:strand:- -            258   6.7e-15   55.4   0.0   1   1   1.8e-16   1.2e-12   48.1   0.0     1   132    28   168    28   173 0.90 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002256_ORF9:gid:fscI:pid:DAD54582.1:loc:19840:20675:strand:- -            258   6.7e-10   39.3   0.1   1   1   1.4e-13   9.4e-10   38.8   0.1     2    93    23   114    22   152 0.81 KR domain
+Peroxidase_2         PF01328.20   187 BGC0002256_ORF10:gid:fscJ:pid:DAD54583.1:loc:22016:23426:strand:- -            437   1.4e-47  162.8   0.0   1   1     9e-52   1.8e-47  162.5   0.0     1   186    67   305    67   306 0.92 Peroxidase, family 2
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002256.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002256.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002256.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:42:59 2023
+# [ok]

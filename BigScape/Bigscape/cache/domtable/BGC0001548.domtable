@@ -1,0 +1,18 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pentapeptide         PF00805.25    40 BGC0001548_ORF1:gid::pid:OAL15484.1:loc:0:843:strand:+ -            280   1.1e-19   69.7  11.0   1   2   2.3e-15   4.6e-11   42.2   1.0     4    40   190   226   190   226 0.89 Pentapeptide repeats (8 copies)
+Pentapeptide         PF00805.25    40 BGC0001548_ORF1:gid::pid:OAL15484.1:loc:0:843:strand:+ -            280   1.1e-19   69.7  11.0   2   2   1.6e-14   3.2e-10   39.6   3.3     1    38   212   249   212   249 0.92 Pentapeptide repeats (8 copies)
+Transglut_core3      PF13471.9    117 BGC0001548_ORF2:gid::pid:OAL15485.1:loc:901:1348:strand:- -            148   1.2e-25   89.8   3.4   1   1   7.4e-30   1.4e-25   89.5   3.4     5   116    25   134    21   135 0.94 Transglutaminase-like superfamily
+PqqD                 PF05402.15    67 BGC0001548_ORF3:gid::pid:OAL15486.1:loc:1344:1599:strand:- -             84   1.2e-15   57.7   0.5   1   1   6.9e-20   1.4e-15   57.5   0.5     2    66    18    82    17    83 0.97 Coenzyme PQQ synthesis protein D (PqqD)
+Asn_synthase         PF00733.24   355 BGC0001548_ORF4:gid::pid::loc:1637:3455:strand:- -            606   2.1e-47  162.6   0.3   1   1   1.4e-51   2.7e-47  162.3   0.3     2   354   220   603   219   604 0.86 Asparagine synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001548.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001548.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001548.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:30:21 2023
+# [ok]

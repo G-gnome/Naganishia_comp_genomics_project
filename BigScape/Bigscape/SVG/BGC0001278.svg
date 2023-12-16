@@ -1,0 +1,264 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1836.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1826.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>OrfF
+putative methyltransferase</title>
+			<polygon class="OrfF
+putative methyltransferase" points="29,25 38,25 38,10 68,40 38,70 38,55 29,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<polygon class="PF13489" points="36,28 51,28 54,31 54,49 51,52 36,52" stroke-linejoin="round" width="18" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfE
+unknown</title>
+			<polygon class="OrfE
+unknown" points="116,25 111,25 111,10 81,40 111,70 111,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>OrfD
+unknown</title>
+			<polygon class="OrfD
+unknown" points="175,25 250,25 250,10 280,40 250,70 250,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_115 (PF15979)
+"Glycosyl hydrolase family 115"</title>
+				<rect class="PF15979" x="192" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(103,191,95)" stroke="rgb(82,152,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GH115_C (PF17829)
+"Gylcosyl hydrolase family 115 C-terminal domain"</title>
+				<polygon class="PF17829" points="254,28 264,28 271,35 271,45 264,52 254,52" stroke-linejoin="round" width="17" height="24" fill="rgb(192,81,111)" stroke="rgb(153,64,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfC
+glucosidase</title>
+			<polygon class="OrfC
+glucosidase" points="318,25 316,25 316,10 286,40 316,70 316,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_17 (PF00332)
+"Glycosyl hydrolases family 17"</title>
+				<polygon class="PF00332" points="290,40 302,28 314,28 314,52 302,52" stroke-linejoin="round" width="27" height="24" fill="rgb(84,51,194)" stroke="rgb(67,40,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfB
+esterase</title>
+			<polygon class="OrfB
+esterase" points="369,10 394,40 369,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lipase_GDSL_2 (PF13472)
+"GDSL-like Lipase/Acylhydrolase family"</title>
+				<polygon class="PF13472" points="370,28 380,28 388,37 388,43 380,52 370,52" stroke-linejoin="round" width="18" height="24" fill="rgb(116,68,184)" stroke="rgb(92,54,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfG
+monooxygenase</title>
+			<polygon class="OrfG
+monooxygenase" points="450,25 443,25 443,10 413,40 443,70 443,55 450,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tyrosinase (PF00264)
+"Common central domain of tyrosinase"</title>
+				<polygon class="PF00264" points="422,35 429,28 443,28 443,52 429,52 422,45" stroke-linejoin="round" width="21" height="24" fill="rgb(87,199,223)" stroke="rgb(69,159,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI8
+Tri8</title>
+			<polygon class="TRI8
+Tri8" points="570,25 556,25 556,10 526,40 556,70 556,55 570,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LIP (PF03583)
+"Secretory lipase"</title>
+				<polygon class="PF03583" points="530,40 542,28 556,28 556,52 542,52" stroke-linejoin="round" width="27" height="24" fill="rgb(197,59,135)" stroke="rgb(157,47,107)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI7
+Tri7</title>
+			<polygon class="TRI7
+Tri7" points="594,25 609,25 609,10 639,40 609,70 609,55 594,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MBOAT_2 (PF13813)
+"Membrane bound O-acyl transferase family"</title>
+				<polygon class="PF13813" points="619,28 623,28 627,32 627,48 623,52 619,52" stroke-linejoin="round" width="8" height="24" fill="rgb(96,197,109)" stroke="rgb(76,157,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI3
+15-O-acetyltransferase</title>
+			<polygon class="TRI3
+15-O-acetyltransferase" points="665,25 694,25 694,10 724,40 694,70 694,55 665,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tri3 (PF07428)
+"15-O-acetyltransferase Tri3"</title>
+				<rect class="PF07428" x="665" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(194,209,91)" stroke="rgb(155,167,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI4
+cytochrome P450</title>
+			<polygon class="TRI4
+cytochrome P450" points="808,25 780,25 780,10 750,40 780,70 780,55 808,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="757,37 766,28 802,28 802,52 766,52 757,43" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI6
+positive regulatory protein</title>
+			<polygon class="TRI6
+positive regulatory protein" points="847,10 868,40 847,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>TRI5
+trichodiene synthase</title>
+			<polygon class="TRI5
+trichodiene synthase" points="945,25 954,25 954,10 984,40 954,70 954,55 945,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TRI5 (PF06330)
+"Trichodiene synthase (TRI5)"</title>
+				<polygon class="PF06330" points="945,28 968,28 980,40 968,52 945,52" stroke-linejoin="round" width="36" height="24" fill="rgb(66,189,108)" stroke="rgb(52,151,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI10
+putative trichothecene biosynthetic gene</title>
+			<polygon class="TRI10
+putative trichothecene biosynthetic gene" points="1006,25 1020,25 1020,10 1050,40 1020,70 1020,55 1006,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fungal_trans_2 (PF11951)
+"Fungal specific transcription factor domain"</title>
+				<polygon class="PF11951" points="1007,28 1034,28 1046,40 1034,52 1007,52" stroke-linejoin="round" width="40" height="24" fill="rgb(102,165,217)" stroke="rgb(81,132,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI9
+TRI9</title>
+			<polygon class="TRI9
+TRI9" points="1071,40 1075,10 1075,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>TRI11
+trichothecene C-15 hydroxylase</title>
+			<polygon class="TRI11
+trichothecene C-15 hydroxylase" points="1169,25 1142,25 1142,10 1112,40 1142,70 1142,55 1169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1120,36 1128,28 1165,28 1165,52 1128,52 1120,44" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI12
+trichothecene efflux pump</title>
+			<polygon class="TRI12
+trichothecene efflux pump" points="1254,25 1221,25 1221,10 1191,40 1221,70 1221,55 1254,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TRI12 (PF06609)
+"Fungal trichothecene efflux pump (TRI12)"</title>
+				<polygon class="PF06609" points="1195,40 1207,28 1253,28 1253,52 1207,52" stroke-linejoin="round" width="59" height="24" fill="rgb(125,190,81)" stroke="rgb(99,152,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI13
+cytochrome P450</title>
+			<polygon class="TRI13
+cytochrome P450" points="1341,25 1310,25 1310,10 1280,40 1310,70 1310,55 1341,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1284,40 1294,30 1294,50" stroke-linejoin="round" width="11" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1295,29 1296,28 1336,28 1336,52 1296,52 1295,51" stroke-linejoin="round" width="41" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>TRI14
+unknown</title>
+			<polygon class="TRI14
+unknown" points="1366,25 1375,25 1375,10 1405,40 1375,70 1375,55 1366,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>OrfG_rename1
+deacetylase</title>
+			<polygon class="OrfG_rename1
+deacetylase" points="1429,40 1454,10 1454,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="1438,34 1443,28 1450,28 1450,52 1443,52 1438,46" stroke-linejoin="round" width="12" height="24" fill="rgb(56,221,58)" stroke="rgb(44,176,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfH
+unknown</title>
+			<polygon class="OrfH
+unknown" points="1508,25 1539,25 1539,10 1569,40 1539,70 1539,55 1508,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>OrfI
+dehydrogenase</title>
+			<polygon class="OrfI
+dehydrogenase" points="1596,40 1624,10 1624,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00725" points="1600,40 1605,35 1605,45" stroke-linejoin="round" width="9" height="24" fill="rgb(180,78,60)" stroke="rgb(144,62,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02737" points="1606,34 1611,28 1623,28 1623,52 1611,52 1606,46" stroke-linejoin="round" width="17" height="24" fill="rgb(212,65,199)" stroke="rgb(169,52,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfJ
+reductase</title>
+			<polygon class="OrfJ
+reductase" points="1703,25 1686,25 1686,10 1656,40 1686,70 1686,55 1703,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_1 (PF00175)
+"Oxidoreductase NAD-binding domain"</title>
+				<polygon class="PF00175" points="1660,40 1670,30 1670,50 1660,40" stroke-linejoin="round" width="10" height="24" fill="rgb(177,211,96)" stroke="rgb(141,168,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_6 (PF00970)
+"Oxidoreductase FAD-binding domain"</title>
+				<polygon class="PF00970" points="1672,28 1672,28 1681,28 1681,52 1672,52 1672,52" stroke-linejoin="round" width="9" height="24" fill="rgb(212,194,103)" stroke="rgb(169,155,82)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cyt-b5 (PF00173)
+"Cytochrome b5-like Heme/Steroid binding domain"</title>
+				<rect class="PF00173" x="1695" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(149,209,92)" stroke="rgb(119,167,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfK
+monooxygenase</title>
+			<polygon class="OrfK
+monooxygenase" points="1739,25 1760,25 1760,10 1790,40 1760,70 1760,55 1739,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1739,28 1774,28 1784,38 1784,42 1774,52 1739,52" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>OrfL
+catalase</title>
+			<polygon class="OrfL
+catalase" points="1800,10 1825,40 1800,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

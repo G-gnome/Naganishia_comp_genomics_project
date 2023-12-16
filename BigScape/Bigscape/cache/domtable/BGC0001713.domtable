@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001713_ORF1:gid::pid:KIU65663.1:loc:164:1472:strand:- -            435  2.7e-114  382.0   0.0   1   1  4.9e-118  3.2e-114  381.7   0.0     2   340     5   332     4   333 0.96 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+IucA_IucC            PF04183.15   239 BGC0001713_ORF2:gid::pid:KIU65664.1:loc:1468:3334:strand:- -            621   3.7e-69  233.1   0.1   1   1   7.6e-73   7.4e-69  232.1   0.1     7   239   157   399   152   399 0.96 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0001713_ORF2:gid::pid:KIU65664.1:loc:1468:3334:strand:- -            621   3.3e-33  115.5   0.8   1   1   6.2e-37   6.1e-33  114.7   0.2     2   157   421   577   420   582 0.96 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 BGC0001713_ORF3:gid::pid:KIU65665.1:loc:3330:4404:strand:- -            357   1.9e-47  160.7   0.2   1   1   1.6e-51   3.2e-47  160.0   0.2     3   145   193   336   191   336 0.97 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 BGC0001713_ORF4:gid::pid:KIU65666.1:loc:4408:6163:strand:- -            584   3.6e-50  170.9   0.0   1   1   5.3e-54   5.2e-50  170.4   0.0     1   238   144   373   144   374 0.90 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0001713_ORF4:gid::pid:KIU65666.1:loc:4408:6163:strand:- -            584   3.6e-24   86.1   0.3   1   1   1.5e-27   1.4e-23   84.2   0.2     2   158   405   561   404   566 0.86 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.19   353 BGC0001713_ORF5:gid::pid:KIU65667.1:loc:6252:7407:strand:+ -            384     1e-22   80.7  59.5   1   1   1.7e-21   3.3e-17   62.6  24.6     2   141    15   162    14   167 0.90 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001713_ORF6:gid::pid:KIU65668.1:loc:7427:8690:strand:- -            420   9.4e-16   57.8  45.7   1   1   9.7e-17   9.6e-13   47.9  14.2     5   215    26   232    20   242 0.78 Major Facilitator Superfamily
+Acatn                PF13000.10   548 BGC0001713_ORF6:gid::pid:KIU65668.1:loc:7427:8690:strand:- -            420   1.9e-12   46.7   4.3   1   1   1.1e-13   1.1e-09   37.5   0.8     4    87    21   100    18   107 0.88 Acetyl-coenzyme A transporter 1
+TonB_dep_Rec         PF00593.27   470 BGC0001713_ORF7:gid::pid:KIU65669.1:loc:8766:10986:strand:- -            739   1.8e-27   97.5  36.4   1   1   1.9e-31   1.8e-27   97.5  36.4    20   469   245   737   226   738 0.68 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0001713_ORF7:gid::pid:KIU65669.1:loc:8766:10986:strand:- -            739     2e-15   57.4   1.9   1   1   5.3e-19   5.2e-15   56.1   1.9     4   108    50   152    47   152 0.90 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001713.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001713.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001713.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:09:23 2023
+# [ok]

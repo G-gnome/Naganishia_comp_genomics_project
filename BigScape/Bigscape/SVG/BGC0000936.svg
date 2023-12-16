@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="244.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="234.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>phzA
+PhzA</title>
+			<polygon class="phzA
+PhzA" points="24,10 40,40 24,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PHZA_PHZB (PF03284)
+"Phenazine biosynthesis protein A/B"</title>
+				<polygon class="PF03284" points="24,28 30,28 36,40 30,52 24,52" stroke-linejoin="round" width="16" height="24" fill="rgb(179,85,75)" stroke="rgb(143,68,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phzB
+PhzB</title>
+			<polygon class="phzB
+PhzB" points="41,10 57,40 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PHZA_PHZB (PF03284)
+"Phenazine biosynthesis protein A/B"</title>
+				<polygon class="PF03284" points="41,28 47,28 53,40 47,52 41,52" stroke-linejoin="round" width="16" height="24" fill="rgb(179,85,75)" stroke="rgb(143,68,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phzC
+PhzC</title>
+			<polygon class="phzC
+PhzC" points="58,25 68,25 68,10 98,40 68,70 68,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAHP_synth_2 (PF01474)
+"Class-II DAHP synthetase family"</title>
+				<polygon class="PF01474" points="73,28 82,28 94,40 82,52 73,52" stroke-linejoin="round" width="23" height="24" fill="rgb(126,217,84)" stroke="rgb(100,173,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phzD
+PhzD</title>
+			<polygon class="phzD
+PhzD" points="99,10 119,40 99,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Isochorismatase (PF00857)
+"Isochorismatase family"</title>
+				<polygon class="PF00857" points="102,28 107,28 116,40 107,52 102,52" stroke-linejoin="round" width="17" height="24" fill="rgb(144,224,70)" stroke="rgb(115,179,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phzE
+PhzE</title>
+			<polygon class="phzE
+PhzE" points="119,25 151,25 151,10 181,40 151,70 151,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chorismate_bind (PF00425)
+"chorismate binding enzyme"</title>
+				<rect class="PF00425" x="131" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(188,116,88)" stroke="rgb(150,92,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GATase (PF00117)
+"Glutamine amidotransferase class-I"</title>
+				<polygon class="PF00117" points="162,28 165,28 177,40 165,52 162,52" stroke-linejoin="round" width="18" height="24" fill="rgb(159,201,96)" stroke="rgb(127,160,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phzF
+PhzF</title>
+			<polygon class="phzF
+PhzF" points="183,10 210,40 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhzC-PhzF (PF02567)
+"Phenazine biosynthesis-like protein"</title>
+				<polygon class="PF02567" points="183,28 195,28 206,40 195,52 183,52" stroke-linejoin="round" width="26" height="24" fill="rgb(223,91,96)" stroke="rgb(178,72,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>phzG
+PhzG</title>
+			<polygon class="phzG
+PhzG" points="211,10 232,40 211,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Putative_PNPOx (PF01243)
+"Pyridoxamine 5'-phosphate oxidase"</title>
+				<polygon class="PF01243" points="214,28 220,28 223,32 223,48 220,52 214,52" stroke-linejoin="round" width="9" height="24" fill="rgb(177,193,67)" stroke="rgb(141,154,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PNP_phzG_C (PF10590)
+"Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region"</title>
+				<polygon class="PF10590" points="228,39 228,40 228,41" stroke-linejoin="round" width="4" height="24" fill="rgb(86,221,142)" stroke="rgb(68,176,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

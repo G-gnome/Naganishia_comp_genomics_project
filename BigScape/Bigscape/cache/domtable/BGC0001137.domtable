@@ -1,0 +1,35 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Molybdopterin        PF00384.25   432 BGC0001137_ORF1:gid::pid:AGL76713.1:loc:0:3744:strand:+ -           1247  2.5e-134  448.6   0.0   1   1  3.1e-138  3.1e-134  448.3   0.0     1   432   121   845   121   845 0.98 Molybdopterin oxidoreductase
+Molydop_binding      PF01568.24   111 BGC0001137_ORF1:gid::pid:AGL76713.1:loc:0:3744:strand:+ -           1247   1.9e-20   73.1   0.4   1   1   5.7e-24   5.6e-20   71.5   0.1     2   107  1101  1215  1100  1219 0.93 Molydopterin dinucleotide binding domain
+Fer4_11              PF13247.9    100 BGC0001137_ORF2:gid::pid:AGL76714.1:loc:3890:5612:strand:+ -            573   4.2e-36  123.2   6.0   1   1   8.5e-40   4.2e-36  123.2   6.0     2    99   185   281   184   282 0.98 4Fe-4S dicluster domain
+Nitr_red_bet_C       PF14711.9     81 BGC0001137_ORF2:gid::pid:AGL76714.1:loc:3890:5612:strand:+ -            573   1.7e-28   98.2   0.0   1   1   6.4e-32   3.1e-28   97.3   0.0     1    80   368   448   368   449 0.97 Respiratory nitrate reductase beta C-terminal
+Fer4_10              PF13237.9     56 BGC0001137_ORF2:gid::pid:AGL76714.1:loc:3890:5612:strand:+ -            573   1.6e-08   34.6  15.2   1   1   9.4e-10   4.6e-06   26.8   2.8     5    56   189   237   185   237 0.94 4Fe-4S dicluster domain
+Nitrate_red_del      PF02613.18   138 BGC0001137_ORF3:gid::pid:AGL76715.1:loc:5847:6327:strand:+ -            159   1.2e-08   35.2   0.1   1   1   7.9e-13   1.5e-08   34.8   0.1    33   101     2    65     1   101 0.73 Nitrate reductase delta subunit
+Nitrate_red_gam      PF02665.17   217 BGC0001137_ORF4:gid::pid:AGL76716.1:loc:6323:7064:strand:+ -            246   2.3e-87  292.3  13.1   1   1   1.3e-91   2.6e-87  292.1  13.1     3   217     7   229     5   229 0.99 Nitrate reductase gamma subunit
+NAD_binding_8        PF13450.9     68 BGC0001137_ORF5:gid::pid:AGL76717.1:loc:7244:8774:strand:+ -            509     6e-11   42.6   0.1   1   1   5.6e-14   2.2e-10   40.7   0.1     1    67    35    99    35   100 0.87 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.10   427 BGC0001137_ORF5:gid::pid:AGL76717.1:loc:7244:8774:strand:+ -            509   2.8e-07   30.3   1.5   1   1   9.5e-11   3.7e-07   29.9   0.3     1    38    32    69    32   104 0.78 FAD dependent oxidoreductase
+Amino_oxidase        PF01593.27   452 BGC0001137_ORF5:gid::pid:AGL76717.1:loc:7244:8774:strand:+ -            509   6.2e-07   29.2   1.5   1   1   3.9e-10   1.5e-06   27.9   0.4     3   235    42   272    41   285 0.72 Flavin containing amine oxidoreductase
+Thi4                 PF01946.20   235 BGC0001137_ORF5:gid::pid:AGL76717.1:loc:7244:8774:strand:+ -            509   1.3e-06   27.9   0.3   1   1   5.5e-10   2.1e-06   27.3   0.3    17    58    30    70    26    87 0.87 Thi4 family
+Beta-lactamase       PF00144.27   330 BGC0001137_ORF6:gid::pid:AGL76718.1:loc:8826:10764:strand:- -            645   1.3e-36  126.6  10.3   1   1   6.9e-41   1.3e-36  126.6  10.3     2   317    59   374    58   387 0.82 Beta-lactamase
+TetR_C_6             PF13977.9    115 BGC0001137_ORF7:gid::pid:AGL76719.1:loc:10841:11543:strand:+ -            233   1.2e-13   51.4  23.9   1   2   1.4e-11   1.4e-07   31.8   1.9     6    72    92   162    88   174 0.81 BetI-type transcriptional repressor, C-terminal
+TetR_C_6             PF13977.9    115 BGC0001137_ORF7:gid::pid:AGL76719.1:loc:10841:11543:strand:+ -            233   1.2e-13   51.4  23.9   2   2   1.5e-11   1.5e-07   31.7   5.9    55   114   170   226   165   227 0.86 BetI-type transcriptional repressor, C-terminal
+TetR_N               PF00440.26    47 BGC0001137_ORF7:gid::pid:AGL76719.1:loc:10841:11543:strand:+ -            233   4.3e-10   39.4   0.1   1   1   4.4e-14   4.3e-10   39.4   0.1     1    47    14    60    14    60 0.97 Bacterial regulatory proteins, tetR family
+AMP-binding          PF00501.31   424 BGC0001137_ORF8:gid::pid:AGL76720.1:loc:11892:13380:strand:+ -            495   5.4e-81  272.5   0.1   1   1   6.7e-85   6.6e-81  272.2   0.1    11   423    13   399     4   400 0.90 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001137_ORF8:gid::pid:AGL76720.1:loc:11892:13380:strand:+ -            495   7.2e-20   71.9   5.4   1   1   1.1e-23     1e-19   71.4   1.8     2    76   409   483   408   483 0.96 AMP-binding enzyme C-terminal domain
+Cucumopine_C         PF18631.4    141 BGC0001137_ORF9:gid::pid:AGL76721.1:loc:13463:14408:strand:+ -            314   3.1e-49  166.7   0.0   1   1   2.7e-53   5.3e-49  165.9   0.0     1   141   160   300   160   300 0.99 Cucumopine synthase C-terminal helical bundle domain
+NmrA                 PF05368.16   233 BGC0001137_ORF11:gid::pid:AGL76723.1:loc:16360:17242:strand:- -            293     6e-23   81.7   0.0   1   1   1.4e-26   9.2e-23   81.1   0.0     1   232    15   226    15   227 0.86 NmrA-like family
+NAD_binding_10       PF13460.9    184 BGC0001137_ORF11:gid::pid:AGL76723.1:loc:16360:17242:strand:- -            293   1.1e-21   77.7   6.8   1   1     2e-25   1.3e-21   77.4   5.6     1   149    19   150    19   191 0.80 NAD(P)H-binding
+Epimerase            PF01370.24   241 BGC0001137_ORF11:gid::pid:AGL76723.1:loc:16360:17242:strand:- -            293   6.6e-08   32.4   0.2   1   1     3e-11     2e-07   30.9   0.2     1    71    15    79    15   112 0.83 NAD dependent epimerase/dehydratase family
+TetR_N               PF00440.26    47 BGC0001137_ORF13:gid::pid:AGL76725.1:loc:17927:18476:strand:- -            182   3.2e-11   43.0   0.1   1   1   4.2e-15   8.2e-11   41.7   0.1     1    47    18    64    18    64 0.99 Bacterial regulatory proteins, tetR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001137.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001137.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001137.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:39:42 2023
+# [ok]

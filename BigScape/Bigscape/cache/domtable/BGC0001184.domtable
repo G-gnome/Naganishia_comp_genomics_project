@@ -1,0 +1,26 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.24   363 BGC0001184_ORF1:gid:ywfG:pid:ABS75817.1:loc:0:1200:strand:- -            399   4.8e-75  253.1   0.0   1   1   2.8e-79   5.4e-75  253.0   0.0     2   361    33   382    32   384 0.95 Aminotransferase class I and II
+MFS_1                PF07690.19   353 BGC0001184_ORF2:gid:bacE:pid:ABS75818.1:loc:1212:2394:strand:- -            393   4.4e-17   62.2  34.0   1   1   2.3e-21   4.4e-17   62.2  34.0     1   352    11   347    11   348 0.73 Major Facilitator Superfamily
+ATP-grasp_4          PF13535.9    160 BGC0001184_ORF3:gid:bacD:pid:ABS75819.1:loc:2390:3809:strand:- -            472   2.8e-16   59.7   0.6   1   1   1.1e-19   2.1e-15   56.8   0.1     2   157   172   333   171   335 0.84 ATP-grasp domain
+adh_short_C2         PF13561.9    234 BGC0001184_ORF4:gid:bacC:pid:ABS75820.1:loc:3826:4588:strand:- -            253   3.4e-72  242.9   0.1   1   1     8e-76   3.9e-72  242.7   0.1     1   234    12   251    12   251 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001184_ORF4:gid:bacC:pid:ABS75820.1:loc:3826:4588:strand:- -            253   3.9e-65  219.1   0.3   1   1   9.7e-69   4.7e-65  218.8   0.3     1   191     6   194     6   198 0.97 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001184_ORF4:gid:bacC:pid:ABS75820.1:loc:3826:4588:strand:- -            253   1.7e-09   38.0   0.1   1   1   5.1e-13   2.5e-09   37.4   0.1     2   125     7   124     6   158 0.82 KR domain
+Epimerase            PF01370.24   241 BGC0001184_ORF4:gid:bacC:pid:ABS75820.1:loc:3826:4588:strand:- -            253   9.5e-05   22.1   0.1   1   1   3.3e-08   0.00016   21.3   0.1     1    62     8    73     8   124 0.83 NAD dependent epimerase/dehydratase family
+Cupin_2              PF07883.14    71 BGC0001184_ORF5:gid:bacB:pid:ABS75821.1:loc:4584:5298:strand:- -            237     4e-22   77.8   0.3   1   2   6.2e-15   6.1e-11   42.0   0.1     4    70    41   107    38   108 0.91 Cupin domain
+Cupin_2              PF07883.14    71 BGC0001184_ORF5:gid:bacB:pid:ABS75821.1:loc:4584:5298:strand:- -            237     4e-22   77.8   0.3   2   2   1.9e-12   1.9e-08   34.0   0.0     4    68   152   216   149   219 0.90 Cupin domain
+MFS_1                PF07690.19   353 BGC0001184_ORF7:gid:ywfA:pid:ABS75823.1:loc:6059:7298:strand:- -            412   4.1e-57  193.8  59.8   1   2   6.6e-53   4.3e-49  167.4  37.3     2   325    24   335    19   337 0.90 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001184_ORF7:gid:ywfA:pid:ABS75823.1:loc:6059:7298:strand:- -            412   4.1e-57  193.8  59.8   2   2   3.2e-14   2.1e-10   40.2  14.4    71   174   298   398   295   409 0.86 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001184_ORF7:gid:ywfA:pid:ABS75823.1:loc:6059:7298:strand:- -            412   1.1e-14   54.3   7.7   1   1   1.6e-18   1.1e-14   54.3   7.7    46   189    53   190    10   214 0.93 Sugar (and other) transporter
+MFS_2                PF13347.9    427 BGC0001184_ORF7:gid:ywfA:pid:ABS75823.1:loc:6059:7298:strand:- -            412   7.4e-10   38.1  30.7   1   1   1.1e-10   7.1e-07   28.2  18.8   170   407   170   393   152   396 0.80 MFS/sugar transport protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001184.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001184.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001184.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:23:22 2023
+# [ok]

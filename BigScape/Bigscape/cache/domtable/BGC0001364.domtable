@@ -1,0 +1,36 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SnoaL                PF07366.15   126 BGC0001364_ORF1:gid::pid:WP_019631317.1:loc:3:417:strand:- -            137   5.5e-18   65.1   1.0   1   1   7.4e-22   7.3e-18   64.7   1.0     5   126    18   135    15   135 0.92 SnoaL-like polyketide cyclase
+SnoaL_2              PF12680.10   102 BGC0001364_ORF1:gid::pid:WP_019631317.1:loc:3:417:strand:- -            137   1.6e-17   64.1   4.6   1   1     2e-21     2e-17   63.8   4.6     2   102    18   122    17   122 0.97 SnoaL-like domain
+HTH_17               PF12728.10    51 BGC0001364_ORF5:gid::pid:WP_026341366.1:loc:3176:3605:strand:+ -            142   6.6e-18   64.8   0.6   1   1   1.3e-21   2.5e-17   63.0   0.4     1    47     5    51     5    53 0.97 Helix-turn-helix domain
+DUF4180              PF13788.9    112 BGC0001364_ORF6:gid::pid:WP_019631322.1:loc:3597:3969:strand:+ -            123   1.6e-38  131.2   0.0   1   1   8.9e-43   1.8e-38  131.1   0.0     2   112     9   118     8   118 0.98 Domain of unknown function (DUF4180)
+DUF5713              PF18977.3    107 BGC0001364_ORF7:gid::pid:WP_026341367.1:loc:4174:4516:strand:+ -            113   1.1e-44  151.3   0.0   1   1   6.4e-49   1.2e-44  151.1   0.0     2   107     8   113     7   113 0.99 Family of unknown function (DUF5713)
+NAD_binding_10       PF13460.9    184 BGC0001364_ORF8:gid::pid:WP_019631324.1:loc:4533:5367:strand:- -            277   5.7e-24   85.1   1.0   1   1     9e-28   8.9e-24   84.5   1.0     1   182     7   175     7   177 0.85 NAD(P)H-binding
+NmrA                 PF05368.16   233 BGC0001364_ORF8:gid::pid:WP_019631324.1:loc:4533:5367:strand:- -            277   1.6e-10   41.0   0.0   1   1   2.5e-14   2.4e-10   40.4   0.0     1   229     3   209     3   213 0.79 NmrA-like family
+MLTR_LBD             PF17765.4    168 BGC0001364_ORF10:gid::pid:WP_019631325.1:loc:5774:6323:strand:+ -            182   2.3e-47  161.4   5.7   1   1   1.4e-51   2.7e-47  161.2   5.7     6   168     2   159     1   159 0.97 MmyB-like transcription regulator ligand binding domain
+Glu_dehyd_C          PF16912.8    212 BGC0001364_ORF13:gid::pid:WP_019631328.1:loc:7967:9017:strand:- -            349   9.6e-57  191.9   0.0   1   1   1.2e-60   1.2e-56  191.6   0.0     2   212   146   347   145   347 0.96 Glucose dehydrogenase C-terminus
+ADH_N                PF08240.15   109 BGC0001364_ORF13:gid::pid:WP_019631328.1:loc:7967:9017:strand:- -            349   1.4e-11   44.4   0.0   1   1   2.1e-15     2e-11   43.8   0.0     2   107    27   138    26   140 0.84 Alcohol dehydrogenase GroES-like domain
+ABC_tran             PF00005.30   137 BGC0001364_ORF14:gid::pid:WP_019631329.1:loc:9104:11105:strand:- -            666   1.4e-31  109.9   0.0   1   1   5.5e-35   2.2e-31  109.3   0.0     2   136    35   177    34   178 0.96 ABC transporter
+ABC2_membrane        PF01061.27   210 BGC0001364_ORF14:gid::pid:WP_019631329.1:loc:9104:11105:strand:- -            666   1.3e-27   96.8  11.2   1   1   4.2e-31   1.6e-27   96.4  11.2     3   209   408   616   406   617 0.90 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0001364_ORF14:gid::pid:WP_019631329.1:loc:9104:11105:strand:- -            666   5.3e-13   48.9   3.5   1   1   1.4e-16   5.3e-13   48.9   3.5   158   326   454   641   449   659 0.79 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.10   288 BGC0001364_ORF14:gid::pid:WP_019631329.1:loc:9104:11105:strand:- -            666   1.9e-06   27.5   9.8   1   1   4.8e-10   1.9e-06   27.5   9.8    98   224   480   595   455   665 0.79 ABC-2 family transporter protein
+Nif11                PF07862.14    48 BGC0001364_ORF15:gid::pid:WP_019631330.1:loc:11101:12010:strand:- -            302   2.5e-08   34.3   0.0   1   1   2.2e-12   4.3e-08   33.5   0.0     1    48     1    48     1    48 0.99 Nif11 domain
+DUF4135              PF13575.9    377 BGC0001364_ORF16:gid::pid:WP_019631331.1:loc:12026:15248:strand:- -           1073   6.7e-66  223.2   0.0   1   1   8.9e-70   8.8e-66  222.8   0.0     1   376   239   613   239   614 0.87 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0001364_ORF16:gid::pid:WP_019631331.1:loc:12026:15248:strand:- -           1073   2.3e-59  200.9   0.0   1   1   3.2e-63   3.1e-59  200.4   0.0     4   352   717  1064   715  1064 0.93 Lanthionine synthetase C-like protein
+DUF5973              PF19398.2     81 BGC0001364_ORF17:gid::pid:WP_019631332.1:loc:15389:15629:strand:- -             79   6.6e-32  109.9   0.3   1   1   3.6e-36   7.1e-32  109.8   0.3     1    81     1    79     1    79 0.98 Family of unknown function (DUF5973)
+DUF5950              PF19375.2    103 BGC0001364_ORF18:gid::pid:WP_019631333.1:loc:15660:16032:strand:- -            123   4.6e-40  136.1   0.7   1   1   2.8e-44   5.4e-40  135.9   0.7     1   102    20   121    20   122 0.99 Family of unknown function (DUF5950)
+Peripla_BP_3         PF13377.9    166 BGC0001364_ORF19:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336     3e-38  131.8   3.7   1   1   8.5e-42   4.2e-38  131.3   1.9     1   165   178   335   178   336 0.91 Periplasmic binding protein-like domain
+Peripla_BP_1         PF00532.24   279 BGC0001364_ORF19:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336   2.2e-28   99.6   0.0   1   1   5.6e-32   2.7e-28   99.3   0.0     2   269    66   325    65   334 0.86 Periplasmic binding proteins and sugar binding domain of LacI family
+Peripla_BP_4         PF13407.9    259 BGC0001364_ORF19:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336   1.8e-19   70.5   0.0   1   1   6.6e-23   3.3e-19   69.6   0.0    42   258   112   317    79   318 0.84 Periplasmic binding protein domain
+LacI                 PF00356.24    46 BGC0001364_ORF19:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336   6.6e-17   61.2   0.2   1   1   2.6e-20   1.3e-16   60.3   0.2     1    46     9    54     9    54 0.99 Bacterial regulatory proteins, lacI family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001364.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001364.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001364.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:01:19 2023
+# [ok]

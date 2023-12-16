@@ -1,0 +1,40 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ACP_syn_III          PF08545.13    80 BGC0000382_ORF1:gid:lstA:pid:AIT38298.1:loc:455:1580:strand:+ -            374   7.3e-12   45.1   0.2   1   1   1.2e-15   2.3e-11   43.5   0.2     1    77   122   207   122   209 0.83 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+AMP-binding          PF00501.31   424 BGC0000382_ORF3:gid:lstC:pid:AIT38300.1:loc:2458:5083:strand:+ -            874   1.5e-66  224.9   0.0   1   1     1e-70     2e-66  224.5   0.0     1   422    28   488    28   490 0.83 AMP-binding enzyme
+3Beta_HSD            PF01073.22   280 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563   4.2e-36  124.5   0.0   1   1   2.2e-39   5.4e-36  124.2   0.0     1   274     4   260     4   266 0.91 3-beta hydroxysteroid dehydrogenase/isomerase family
+Epimerase            PF01370.24   241 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563   2.1e-32  112.6   0.0   1   1   1.1e-35   2.7e-32  112.3   0.0     1   228     3   222     3   236 0.88 NAD dependent epimerase/dehydratase family
+NAD_binding_10       PF13460.9    184 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563   1.9e-22   80.2   0.0   1   1   1.4e-25   3.5e-22   79.3   0.0     1   133     7   155     7   173 0.79 NAD(P)H-binding
+NAD_binding_4        PF07993.15   257 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563   7.6e-19   68.0   0.0   1   1     6e-21   1.5e-17   63.8   0.0     1   256     5   215     5   216 0.86 Male sterility protein
+GDP_Man_Dehyd        PF16363.8    332 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563     5e-17   62.5   0.0   1   1   1.6e-19   3.9e-16   59.5   0.0     1   197     4   185     4   227 0.84 GDP-mannose 4,6 dehydratase
+NmrA                 PF05368.16   233 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563   9.8e-15   54.8   0.0   1   1   5.8e-18   1.4e-14   54.3   0.0     1   103     3   114     3   122 0.90 NmrA-like family
+RmlD_sub_bind        PF04321.20   287 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563   7.6e-07   28.6   0.0   1   1     5e-10   1.2e-06   27.9   0.0     1   139     1   156     1   178 0.82 RmlD substrate binding domain
+Polysacc_synt_2      PF02719.18   294 BGC0000382_ORF4:gid:lstD:pid:AIT38301.1:loc:5079:6771:strand:+ -            563   3.6e-06   26.5   0.0   1   1   8.5e-09   2.1e-05   24.0   0.0     1   129     3   114     3   119 0.80 Polysaccharide biosynthesis protein
+AMP-binding          PF00501.31   424 BGC0000382_ORF5:gid:lstE:pid:AIT38302.1:loc:6767:11513:strand:+ -           1581   1.4e-73  248.0   0.0   1   1     3e-77     2e-73  247.6   0.0     1   423   825  1224   825  1225 0.86 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0000382_ORF5:gid:lstE:pid:AIT38302.1:loc:6767:11513:strand:+ -           1581   4.2e-08   33.5   0.3   1   1   1.4e-11   9.3e-08   32.4   0.3     2    44  1500  1542  1499  1549 0.92 Phosphopantetheine attachment site
+Formyl_trans_N       PF00551.22   181 BGC0000382_ORF6:gid:lstF:pid:AIT38303.1:loc:11509:12202:strand:+ -            230   1.3e-15   57.8   0.0   1   1   7.3e-20   1.4e-15   57.6   0.0    95   169    77   153    14   165 0.84 Formyl transferase
+RibD_C               PF01872.20   200 BGC0000382_ORF7:gid::pid:AIT38304.1:loc:12713:13334:strand:+ -            206     2e-11   44.2   0.0   1   1   3.7e-15   7.2e-11   42.4   0.0     3   197     4   187     2   190 0.77 RibD C-terminal domain
+TetR_N               PF00440.26    47 BGC0000382_ORF8:gid::pid:AIT38305.1:loc:13463:14072:strand:+ -            202   4.4e-10   39.3   1.3   1   1   2.4e-14   4.8e-10   39.2   0.0     1    47    12    58    12    58 0.98 Bacterial regulatory proteins, tetR family
+adh_short            PF00106.28   195 BGC0000382_ORF9:gid::pid:AIT38306.1:loc:14068:14989:strand:+ -            306   4.6e-21   75.3   0.2   1   1   1.9e-24   1.9e-20   73.3   0.2     1   185    13   213    13   218 0.89 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000382_ORF9:gid::pid:AIT38306.1:loc:14068:14989:strand:+ -            306   5.7e-18   65.5   0.1   1   1   1.1e-21   1.1e-17   64.6   0.1     4   217    22   255    17   267 0.83 Enoyl-(Acyl carrier protein) reductase
+Thioesterase         PF00975.23   230 BGC0000382_ORF10:gid::pid:AIT38307.1:loc:15135:15942:strand:+ -            268   5.9e-37  128.1   0.0   1   1   7.2e-41   7.1e-37  127.9   0.0     2   219    37   251    36   262 0.88 Thioesterase domain
+Abhydrolase_6        PF12697.10   220 BGC0000382_ORF10:gid::pid:AIT38307.1:loc:15135:15942:strand:+ -            268   3.3e-09   37.8  14.7   1   1   4.8e-13   4.7e-09   37.3  14.7     2   211    39   248     5   257 0.72 Alpha/beta hydrolase family
+LysR_substrate       PF03466.23   209 BGC0000382_ORF11:gid::pid:AIT38308.1:loc:15964:16858:strand:- -            297   5.5e-23   81.6   8.0   1   1   5.6e-27   5.5e-23   81.6   8.0     2   207    83   282    82   284 0.92 LysR substrate binding domain
+HTH_1                PF00126.30    60 BGC0000382_ORF11:gid::pid:AIT38308.1:loc:15964:16858:strand:- -            297   1.5e-19   69.8   6.0   1   1   2.9e-23   2.8e-19   68.9   6.0     1    59     3    61     3    62 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+adh_short_C2         PF13561.9    234 BGC0000382_ORF12:gid::pid:AIT38309.1:loc:16987:17587:strand:+ -            199   1.1e-13   51.4   0.1   1   1   3.7e-17   1.5e-13   51.0   0.1    45   184    35   167     6   190 0.87 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0000382_ORF12:gid::pid:AIT38309.1:loc:16987:17587:strand:+ -            199   6.6e-11   42.2   2.9   1   1   6.1e-13   2.4e-09   37.1   0.0    55   181    38   156    35   161 0.95 short chain dehydrogenase
+RmlD_sub_bind        PF04321.20   287 BGC0000382_ORF12:gid::pid:AIT38309.1:loc:16987:17587:strand:+ -            199     1e-07   31.4   0.2   1   1   3.5e-11   1.4e-07   31.0   0.2     1    66     1    70     1    96 0.90 RmlD substrate binding domain
+KR                   PF08659.13   180 BGC0000382_ORF12:gid::pid:AIT38309.1:loc:16987:17587:strand:+ -            199   1.9e-06   28.0   5.1   1   1   1.2e-09   4.8e-06   26.7   0.1    59   162    38   139    35   146 0.94 KR domain
+Epimerase            PF01370.24   241 BGC0000382_ORF12:gid::pid:AIT38309.1:loc:16987:17587:strand:+ -            199   4.6e-05   23.1   0.3   1   1   1.5e-08     6e-05   22.8   0.3     1    76     3    68     3   112 0.78 NAD dependent epimerase/dehydratase family
+Erythro_esteras      PF05139.17   341 BGC0000382_ORF14:gid::pid:AIT38311.1:loc:18173:19364:strand:- -            396   2.8e-47  162.3   0.9   1   1   1.8e-51   3.5e-47  162.0   0.9     5   293    43   363    41   392 0.84 Erythromycin esterase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000382.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000382.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000382.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:20:27 2023
+# [ok]

@@ -1,0 +1,95 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="535.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="525.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ATEG_09616)
+ATP synthase beta chain, mitochondrial precursor</title>
+			<polygon class=" (ATEG_09616)
+ATP synthase beta chain, mitochondrial precursor" points="11,25 37,25 37,10 67,40 37,70 37,55 11,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-synt_ab_N (PF02874)
+"ATP synthase alpha/beta family, beta-barrel domain"</title>
+				<rect class="PF02874" x="15" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(145,94,227)" stroke="rgb(115,75,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ATP-synt_ab (PF00006)
+"ATP synthase alpha/beta family, nucleotide-binding domain"</title>
+				<rect class="PF00006" x="27" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(187,135,93)" stroke="rgb(149,108,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_09617)
+hypothetical protein</title>
+			<polygon class=" (ATEG_09617)
+hypothetical protein" points="334,25 114,25 114,10 84,40 114,70 114,55 334,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="95,33 100,28 101,28 101,52 100,52 95,47" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="114" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<rect class="PF08242" x="191" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(187,59,115)" stroke="rgb(149,47,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="218" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="254" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="291" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="303" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="316" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_09618)
+predicted protein</title>
+			<polygon class=" (ATEG_09618)
+predicted protein" points="352,10 375,40 352,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<polygon class="PF13489" points="354,28 362,28 371,40 362,52 354,52" stroke-linejoin="round" width="18" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ATEG_09619)
+predicted protein</title>
+			<polygon class=" (ATEG_09619)
+predicted protein" points="382,25 389,25 389,10 419,40 389,70 389,55 382,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ATEG_09620)
+predicted protein</title>
+			<polygon class=" (ATEG_09620)
+predicted protein" points="470,25 493,25 493,10 523,40 493,70 493,55 470,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="470" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

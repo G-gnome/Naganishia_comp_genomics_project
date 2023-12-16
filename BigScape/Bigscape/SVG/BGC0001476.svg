@@ -1,0 +1,171 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="610.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="600.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>pumA
+pumA</title>
+			<polygon class="pumA
+pumA" points="17,40 30,10 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pumB
+putative transporter</title>
+			<polygon class="pumB
+putative transporter" points="69,25 60,25 60,10 30,40 60,70 60,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="34,40 46,28 68,28 68,52 46,52" stroke-linejoin="round" width="37" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumC
+DeoR family transcriptional regulator</title>
+			<polygon class="pumC
+DeoR family transcriptional regulator" points="72,10 97,40 72,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_DeoR (PF08220)
+"DeoR-like helix-turn-helix domain"</title>
+				<rect class="PF08220" x="72" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(194,214,67)" stroke="rgb(155,171,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DeoRC (PF00455)
+"DeoR C terminal sensor domain"</title>
+				<polygon class="PF00455" points="79,28 83,28 93,40 83,52 79,52" stroke-linejoin="round" width="15" height="24" fill="rgb(183,143,83)" stroke="rgb(146,114,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumD
+HAD family hydrolase</title>
+			<polygon class="pumD
+HAD family hydrolase" points="98,10 118,40 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF13419" points="104,28 106,28 114,40 106,52 104,52" stroke-linejoin="round" width="12" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumE
+flavin-dependent oxidoreductase</title>
+			<polygon class="pumE
+flavin-dependent oxidoreductase" points="170,25 159,25 159,10 129,40 159,70 159,55 170,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_2 (PF08028)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF08028" points="133,40 144,29 144,51" stroke-linejoin="round" width="13" height="24" fill="rgb(106,185,56)" stroke="rgb(84,148,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="147" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="159" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumF
+pumF</title>
+			<polygon class="pumF
+pumF" points="177,10 204,40 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pumG
+PLP-dependent aspartate aminotransferase</title>
+			<polygon class="pumG
+PLP-dependent aspartate aminotransferase" points="246,25 232,25 232,10 202,40 232,70 232,55 246,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="206,40 218,28 242,28 242,52 218,52" stroke-linejoin="round" width="40" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumH
+adenylate kinase</title>
+			<polygon class="pumH
+adenylate kinase" points="248,10 271,40 248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pumI
+glucose-methanol-choline oxidoreductase</title>
+			<polygon class="pumI
+glucose-methanol-choline oxidoreductase" points="271,25 294,25 294,10 324,40 294,70 294,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="271" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="308,28 308,28 320,40 308,52 308,52" stroke-linejoin="round" width="13" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumJ
+tRNA pseudouridine synthase TruD</title>
+			<polygon class="pumJ
+tRNA pseudouridine synthase TruD" points="324,25 328,25 328,10 358,40 328,70 328,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TruD (PF01142)
+"tRNA pseudouridine synthase D (TruD)"</title>
+				<polygon class="PF01142" points="324,28 342,28 345,31 345,49 342,52 324,52" stroke-linejoin="round" width="21" height="24" fill="rgb(166,221,59)" stroke="rgb(132,176,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumK
+ATP-grasp domain protein</title>
+			<polygon class="pumK
+ATP-grasp domain protein" points="362,25 372,25 372,10 402,40 372,70 372,55 362,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<rect class="PF02786" x="372" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumL
+major facilitator superfamily protein</title>
+			<polygon class="pumL
+major facilitator superfamily protein" points="402,25 414,25 414,10 444,40 414,70 414,55 402,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="403,28 428,28 438,38 438,42 428,52 403,52" stroke-linejoin="round" width="35" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pumM
+D-alanine-D-alanine ligase</title>
+			<polygon class="pumM
+D-alanine-D-alanine ligase" points="444,25 461,25 461,10 491,40 461,70 461,55 444,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pumN
+amidinotransferase</title>
+			<polygon class="pumN
+amidinotransferase" points="493,25 501,25 501,10 531,40 501,70 501,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pumO
+pumO</title>
+			<polygon class="pumO
+pumO" points="534,40 555,10 555,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pumP
+HAD family hydrolase</title>
+			<polygon class="pumP
+HAD family hydrolase" points="561,40 577,10 577,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SNARE_assoc (PF09335)
+"SNARE associated Golgi protein"</title>
+				<polygon class="PF09335" points="566,36 570,28 576,28 576,52 570,52 566,44" stroke-linejoin="round" width="10" height="24" fill="rgb(145,188,82)" stroke="rgb(116,150,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

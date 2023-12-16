@@ -1,0 +1,125 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="392.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="382.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>usg
+hypothetical protein</title>
+			<polygon class="usg
+hypothetical protein" points="10,10 22,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>carB
+carbamoyl-phosphate synthase large subunit</title>
+			<polygon class="carB
+carbamoyl-phosphate synthase large subunit" points="128,25 56,25 56,10 26,40 56,70 56,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<polygon class="PF02786" points="41,29 42,28 61,28 61,52 42,52 41,51" stroke-linejoin="round" width="20" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D3 (PF02787)
+"Carbamoyl-phosphate synthetase large chain, oligomerisation domain"</title>
+				<rect class="PF02787" x="78" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(217,64,78)" stroke="rgb(173,51,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<rect class="PF02786" x="94" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>carA
+carbamoyl-phosphate synthase small subunit</title>
+			<polygon class="carA
+carbamoyl-phosphate synthase small subunit" points="162,25 157,25 157,10 127,40 157,70 157,55 162,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase (PF00117)
+"Glutamine amidotransferase class-I"</title>
+				<polygon class="PF00117" points="131,40 143,28 145,28 145,52 143,52" stroke-linejoin="round" width="17" height="24" fill="rgb(159,201,96)" stroke="rgb(127,160,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_sm_chain (PF00988)
+"Carbamoyl-phosphate synthase small chain, CPSase domain"</title>
+				<rect class="PF00988" x="149" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(183,185,63)" stroke="rgb(146,148,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argC
+N-acetyl-gamma-glutamyl-phosphate reductase</title>
+			<polygon class="argC
+N-acetyl-gamma-glutamyl-phosphate reductase" points="172,25 176,25 176,10 206,40 176,70 176,55 172,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dhC (PF02774)
+"Semialdehyde dehydrogenase, dimerisation domain"</title>
+				<polygon class="PF02774" points="187,28 189,28 201,40 189,52 187,52" stroke-linejoin="round" width="15" height="24" fill="rgb(57,188,185)" stroke="rgb(45,150,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argJ
+glutamate N-acetyltransferase</title>
+			<polygon class="argJ
+glutamate N-acetyltransferase" points="207,25 217,25 217,10 247,40 217,70 217,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArgJ (PF01960)
+"ArgJ family"</title>
+				<polygon class="PF01960" points="209,28 231,28 243,40 231,52 209,52" stroke-linejoin="round" width="38" height="24" fill="rgb(81,120,181)" stroke="rgb(64,95,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argB
+acetylglutamate kinase</title>
+			<polygon class="argB
+acetylglutamate kinase" points="248,10 272,40 248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="248,28 259,28 269,40 259,52 248,52" stroke-linejoin="round" width="23" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argD
+acetylornithine aminotransferase</title>
+			<polygon class="argD
+acetylornithine aminotransferase" points="273,25 282,25 282,10 312,40 282,70 282,55 273,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="273,28 295,28 307,40 295,52 273,52" stroke-linejoin="round" width="37" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argF
+anabolic ornithine carbamoyltransferase</title>
+			<polygon class="argF
+anabolic ornithine carbamoyltransferase" points="311,25 315,25 315,10 345,40 315,70 315,55 311,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OTCace_N (PF02729)
+"Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain"</title>
+				<rect class="PF02729" x="311" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(223,74,58)" stroke="rgb(178,59,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OTCace (PF00185)
+"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"</title>
+				<polygon class="PF00185" points="326,28 328,28 340,40 328,52 326,52" stroke-linejoin="round" width="17" height="24" fill="rgb(215,107,106)" stroke="rgb(172,85,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ccl</title>
+			<polygon class="ccl" points="349,10 365,40 349,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QueT (PF06177)
+"QueT transporter"</title>
+				<polygon class="PF06177" points="349,28 355,28 362,40 355,52 349,52" stroke-linejoin="round" width="15" height="24" fill="rgb(78,126,222)" stroke="rgb(62,100,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="353,40 364,10 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dsg</title>
+			<polygon class="dsg" points="375,40 381,10 381,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

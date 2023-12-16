@@ -1,0 +1,24 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_C      PF13243.9    319 BGC0001198_ORF1:gid::pid:ABX04785.1:loc:0:1566:strand:+ -            521   6.6e-14   51.8   5.6   1   1   2.1e-12   1.4e-08   34.3   1.5   163   256   373   452   349   482 0.73 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.24    44 BGC0001198_ORF1:gid::pid:ABX04785.1:loc:0:1566:strand:+ -            521   1.6e-10   40.7   0.4   1   3   5.2e-07    0.0034   17.2   0.0     6    21    51    66    47    85 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0001198_ORF1:gid::pid:ABX04785.1:loc:0:1566:strand:+ -            521   1.6e-10   40.7   0.4   2   3    0.0013       8.8    6.3   0.1    16    37   384   408   381   409 0.88 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.24    44 BGC0001198_ORF1:gid::pid:ABX04785.1:loc:0:1566:strand:+ -            521   1.6e-10   40.7   0.4   3   3   1.9e-05      0.12   12.2   0.0    13    40   427   452   416   452 0.90 Prenyltransferase and squalene oxidase repeat
+CMAS                 PF02353.23   273 BGC0001198_ORF3:gid::pid:ABX04787.1:loc:2454:3306:strand:+ -            283   2.2e-18   66.7   0.0   1   1     1e-21   2.9e-18   66.3   0.0     5   251    14   256    11   270 0.88 Mycolic acid cyclopropane synthetase
+Methyltransf_11      PF08241.15    96 BGC0001198_ORF3:gid::pid:ABX04787.1:loc:2454:3306:strand:+ -            283   8.6e-14   52.1   0.0   1   1   5.1e-17   1.4e-13   51.4   0.0     1    96    76   174    76   174 0.94 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001198_ORF3:gid::pid:ABX04787.1:loc:2454:3306:strand:+ -            283   1.6e-12   48.1   0.1   1   1     1e-15   2.9e-12   47.2   0.1     2    96    76   169    75   169 0.91 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001198_ORF3:gid::pid:ABX04787.1:loc:2454:3306:strand:+ -            283   1.1e-10   41.6   0.0   1   1   5.5e-14   1.5e-10   41.2   0.0     3   129    71   187    69   226 0.82 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0001198_ORF3:gid::pid:ABX04787.1:loc:2454:3306:strand:+ -            283   1.5e-09   37.7   0.0   1   1   3.7e-12     1e-08   34.9   0.0    41   157    65   180    50   196 0.84 ubiE/COQ5 methyltransferase family
+Methyltransf_23      PF13489.9    165 BGC0001198_ORF3:gid::pid:ABX04787.1:loc:2454:3306:strand:+ -            283   2.6e-07   30.7   0.0   1   1   1.4e-10   3.8e-07   30.2   0.0    20   163    69   218    50   220 0.74 Methyltransferase domain
+MTS                  PF05175.17   170 BGC0001198_ORF3:gid::pid:ABX04787.1:loc:2454:3306:strand:+ -            283   1.3e-06   28.3   0.0   1   1   8.3e-10   2.3e-06   27.5   0.0    20    92    60   132    56   141 0.90 Methyltransferase small domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001198.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001198.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001198.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:23:22 2023
+# [ok]

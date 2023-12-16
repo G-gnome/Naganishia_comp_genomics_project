@@ -1,0 +1,18 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lyase_1              PF00206.23   312 BGC0002458_ORF1:gid:azpD:pid:BCN13466.1:loc:0:1437:strand:- -            478   1.7e-35  123.1   0.0   1   1   3.9e-39   3.9e-35  121.9   0.0    17   310    35   326    26   328 0.84 Lyase
+ADSL_C               PF10397.12    77 BGC0002458_ORF1:gid:azpD:pid:BCN13466.1:loc:0:1437:strand:- -            478   1.4e-12   48.2   1.4   1   1   5.3e-16   5.2e-12   46.4   0.1     1    76   392   468   392   469 0.94 Adenylosuccinate lyase C-terminus
+NAD_binding_9        PF13454.9    155 BGC0002458_ORF2:gid:azpE:pid:BCN13467.1:loc:1433:3395:strand:- -            653   4.3e-43  147.2   0.5   1   1   9.6e-47   1.9e-42  145.1   0.1     2   154    10   191     9   192 0.93 FAD-NAD(P)-binding
+Aminotran_1_2        PF00155.24   363 BGC0002458_ORF3:gid:azpR:pid:BCN13468.1:loc:3664:5083:strand:+ -            472   4.3e-21   75.6   0.0   1   1   6.8e-25   6.7e-21   75.0   0.0    21   325   126   419   118   430 0.86 Aminotransferase class I and II
+GntR                 PF00392.24    64 BGC0002458_ORF3:gid:azpR:pid:BCN13468.1:loc:3664:5083:strand:+ -            472     1e-14   54.0   0.4   1   1   3.1e-18     3e-14   52.5   0.4     2    64    25    87    24    87 0.98 Bacterial regulatory proteins, gntR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002458.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002458.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002458.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:00:31 2023
+# [ok]

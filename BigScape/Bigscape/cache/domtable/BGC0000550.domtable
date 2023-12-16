@@ -1,0 +1,18 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Response_reg         PF00072.27   112 BGC0000550_ORF1:gid::pid:AFB74478.1:loc:0:485:strand:- -            162   1.5e-24   86.4   0.0   1   1   9.7e-29   1.9e-24   86.1   0.0     1   111    12   121    12   122 0.98 Response regulator receiver domain
+L_biotic_typeA       PF04604.16    51 BGC0000550_ORF2:gid::pid:AFB74479.1:loc:742:892:strand:+ -             49   2.9e-24   84.8   1.0   1   1   1.6e-28   3.1e-24   84.7   1.0     1    51     1    48     1    48 0.95 Type-A lantibiotic
+L_biotic_typeA       PF04604.16    51 BGC0000550_ORF3:gid::pid:AFB74480.1:loc:920:1070:strand:+ -             49   1.2e-24   86.0   0.9   1   1   6.7e-29   1.3e-24   85.9   0.9     1    51     1    48     1    48 0.96 Type-A lantibiotic
+L_biotic_typeA       PF04604.16    51 BGC0000550_ORF4:gid::pid:AFB74481.1:loc:1316:1475:strand:+ -             52   9.4e-24   83.1   1.1   1   1   5.2e-28     1e-23   83.0   1.1     1    51     1    52     1    52 0.96 Type-A lantibiotic
+DUF4135              PF13575.9    377 BGC0000550_ORF5:gid::pid:AFB74482.1:loc:1494:2398:strand:+ -            301   6.6e-40  137.6   0.1   1   1   4.3e-44   8.5e-40  137.3   0.1     1   204    92   299    92   301 0.86 Domain of unknown function (DUF4135)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000550.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000550.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000550.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:41:05 2023
+# [ok]

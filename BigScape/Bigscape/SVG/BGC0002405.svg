@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1448.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1438.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>LOC101250819
+probable acyl-activating enzyme 1, peroxisomal</title>
+			<polygon class="LOC101250819
+probable acyl-activating enzyme 1, peroxisomal" points="587,25 619,25 619,10 649,40 619,70 619,55 587,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="593,28 633,28 635,30 635,50 633,52 593,52" stroke-linejoin="round" width="42" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="636,31 643,38 643,42 636,49" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LOC101246842
+acylsugar acyltransferase 3-like</title>
+			<polygon class="LOC101246842
+acylsugar acyltransferase 3-like" points="853,25 840,25 840,10 810,40 840,70 840,55 853,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transferase (PF02458)
+"Transferase family"</title>
+				<polygon class="PF02458" points="814,40 826,28 852,28 852,52 826,52" stroke-linejoin="round" width="42" height="24" fill="rgb(57,117,190)" stroke="rgb(45,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LOC101250233
+3-hydroxyisobutyryl-CoA hydrolase-like protein 5</title>
+			<polygon class="LOC101250233
+3-hydroxyisobutyryl-CoA hydrolase-like protein 5" points="1143,25 1185,25 1185,10 1215,40 1185,70 1185,55 1143,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_2 (PF16113)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<rect class="PF16113" x="1146" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(141,65,215)" stroke="rgb(112,52,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LOC109120718
+uncharacterized protein LOC109120718</title>
+			<polygon class="LOC109120718
+uncharacterized protein LOC109120718" points="1412,40 1438,10 1438,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RVT_2 (PF07727)
+"Reverse transcriptase (RNA-dependent DNA polymerase)"</title>
+				<rect class="PF07727" x="1428" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(144,185,92)" stroke="rgb(115,148,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

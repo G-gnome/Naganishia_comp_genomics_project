@@ -1,0 +1,19 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Radical_SAM          PF04055.24   167 BGC0001745_ORF1:gid::pid:WP_019503880.1:loc:179:1439:strand:- -            419   5.3e-20   72.6   0.0   1   1   3.3e-22   2.1e-18   67.4   0.0     2   142    14   147    13   154 0.94 Radical SAM superfamily
+Fer4_12              PF13353.9    137 BGC0001745_ORF1:gid::pid:WP_019503880.1:loc:179:1439:strand:- -            419   1.8e-05   25.4   0.0   1   1   5.4e-09   3.5e-05   24.4   0.0    14   120    18   121     7   135 0.76 4Fe-4S single cluster domain
+SPASM                PF13186.9     68 BGC0001745_ORF1:gid::pid:WP_019503880.1:loc:179:1439:strand:- -            419   8.8e-05   23.0   0.0   1   1   3.3e-08   0.00022   21.8   0.0     1    68   251   320   251   320 0.79 Iron-sulfur cluster-binding domain
+Nif11                PF07862.14    48 BGC0001745_ORF2:gid::pid:WP_019503881.1:loc:1475:1784:strand:- -            102   1.8e-14   53.9   0.6   1   1   1.5e-18   2.9e-14   53.3   0.6     1    48     1    48     1    48 0.99 Nif11 domain
+Nif11                PF07862.14    48 BGC0001745_ORF3:gid::pid:WP_019503882.1:loc:1895:2192:strand:- -             98   7.6e-13   48.7   2.0   1   1   5.3e-17     1e-12   48.3   0.6     1    48     1    48     1    48 0.99 Nif11 domain
+NHase_alpha          PF02979.19   184 BGC0001745_ORF5:gid::pid:WP_019503884.1:loc:3877:4213:strand:- -            111   5.1e-14   52.2   0.4   1   1     1e-14     2e-10   40.5   0.0   116   174    31    90    30    93 0.94 Nitrile hydratase, alpha chain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001745.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001745.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001745.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:43:38 2023
+# [ok]

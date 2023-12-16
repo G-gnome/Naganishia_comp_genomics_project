@@ -1,0 +1,19 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 BGC0001494_ORF1:gid::pid:EPF88078.1:loc:0:1659:strand:- -            552   1.5e-24   87.2   0.0   1   1   2.3e-28   2.2e-24   86.6   0.0     2   136   362   508   361   509 0.87 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001494_ORF1:gid::pid:EPF88078.1:loc:0:1659:strand:- -            552   1.1e-14   54.9  32.7   1   1   1.6e-18   1.6e-14   54.4  32.7     2   273    28   298    27   299 0.96 ABC transporter transmembrane region
+Asn_synthase         PF00733.24   355 BGC0001494_ORF2:gid::pid:EPF88079.1:loc:1659:3342:strand:- -            560   6.4e-08   32.8   0.0   1   1   2.1e-11   2.1e-07   31.1   0.0    14   136   203   331   202   400 0.82 Asparagine synthase
+QueC                 PF06508.16   209 BGC0001494_ORF2:gid::pid:EPF88079.1:loc:1659:3342:strand:- -            560   1.4e-05   24.8   0.0   1   1   2.6e-09   2.5e-05   24.0   0.0     4    62   211   269   209   300 0.85 Queuosine biosynthesis protein QueC
+Transglut_core3      PF13471.9    117 BGC0001494_ORF3:gid::pid:EPF88080.1:loc:3338:3998:strand:- -            219   1.7e-14   53.9   0.0   1   1   1.1e-18   2.2e-14   53.5   0.0    51   116   153   216   134   217 0.86 Transglutaminase-like superfamily
+VF530                PF09905.12    63 BGC0001494_ORF5:gid::pid:EPF88082.1:loc:4948:5185:strand:+ -             78   1.4e-29  102.1   0.0   1   1   8.6e-34   1.7e-29  101.9   0.0     1    63     4    67     4    67 0.98 DNA-binding protein VF530
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001494.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001494.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001494.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:10:29 2023
+# [ok]

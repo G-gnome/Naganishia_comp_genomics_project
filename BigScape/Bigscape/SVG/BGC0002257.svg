@@ -1,0 +1,107 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="742.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="732.0333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>shwC
+cytochrome P450</title>
+			<polygon class="shwC
+cytochrome P450" points="107,25 74,25 74,10 44,40 74,70 74,55 107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="58,30 60,28 88,28 88,52 60,52 58,50" stroke-linejoin="round" width="30" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>shwM2
+O-methyltransferase</title>
+			<polygon class="shwM2
+O-methyltransferase" points="209,25 193,25 193,10 163,40 193,70 193,55 209,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="169,38 179,28 190,28 190,52 179,52 169,42" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>shwM1
+O-methyltransferase</title>
+			<polygon class="shwM1
+O-methyltransferase" points="291,25 307,25 307,10 337,40 307,70 307,55 291,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="307,28 321,28 324,31 324,49 321,52 307,52" stroke-linejoin="round" width="17" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>shwD
+hypothetical protein</title>
+			<polygon class="shwD
+hypothetical protein" points="357,40 378,10 378,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Anthrone_oxy (PF08592)
+"Anthrone oxygenase"</title>
+				<polygon class="PF08592" points="361,40 370,28 370,28 370,52 370,52" stroke-linejoin="round" width="10" height="24" fill="rgb(75,196,107)" stroke="rgb(60,156,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>shwE
+EthD superfamily protein</title>
+			<polygon class="shwE
+EthD superfamily protein" points="381,40 396,10 396,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EthD (PF07110)
+"EthD domain"</title>
+				<polygon class="PF07110" points="384,40 390,28 393,28 393,52 390,52" stroke-linejoin="round" width="10" height="24" fill="rgb(64,130,182)" stroke="rgb(51,104,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>shwB
+metallo-beta-lactamase</title>
+			<polygon class="shwB
+metallo-beta-lactamase" points="452,25 449,25 449,10 419,40 449,70 449,55 452,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="430,33 435,28 445,28 445,52 435,52 430,47" stroke-linejoin="round" width="15" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>shwP
+polyketide synthase</title>
+			<polygon class="shwP
+polyketide synthase" points="498,25 670,25 670,10 700,40 670,70 670,55 498,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="499" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(77,115,183)" stroke="rgb(61,91,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="537" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="562" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="590" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="635" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="670" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

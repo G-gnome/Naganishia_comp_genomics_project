@@ -1,0 +1,15 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BacteriocIIc_cy      PF12173.11    91 BGC0000485_ORF2:gid:acdB:pid:CAA84399.1:loc:1146:1422:strand:+ -             91   7.3e-50  167.3  11.8   1   1   4.1e-54     8e-50  167.2  11.8     1    91     1    91     1    91 0.99 Bacteriocin class IIc cyclic gassericin A-like
+SpoIIM               PF01944.20   156 BGC0000485_ORF3:gid::pid:CAA84400.1:loc:1505:1850:strand:+ -            114   1.9e-06   28.2  17.5   1   1   1.1e-10   2.2e-06   28.0  17.5     4   104    14   111     9   114 0.69 Stage II sporulation protein M
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000485.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000485.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000485.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:40:26 2023
+# [ok]

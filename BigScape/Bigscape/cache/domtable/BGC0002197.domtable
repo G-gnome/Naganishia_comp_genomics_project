@@ -1,0 +1,42 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   3.9e-73  246.3   0.0   1   1     9e-76   8.8e-73  245.1   0.0     2   253     7   257     6   257 0.97 Beta-ketoacyl synthase, N-terminal domain
+AMP-binding          PF00501.31   424 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   3.7e-70  236.8   0.1   1   1   2.5e-72   2.4e-69  234.1   0.0     3   417  2910  3309  2908  3318 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   2.5e-69  234.2   0.0   1   1   4.7e-72   4.6e-69  233.4   0.0     7   452  2451  2882  2447  2886 0.93 Condensation domain
+KR                   PF08659.13   180 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   6.3e-53  179.5   0.1   1   1   8.4e-55   8.3e-52  175.8   0.0     2   178  1984  2157  1983  2159 0.97 KR domain
+PS-DH                PF14765.9    297 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   4.5e-50  170.7   0.0   1   1   8.8e-53   8.6e-50  169.8   0.0     1   293   943  1246   943  1250 0.91 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   3.7e-38  132.0   0.0   1   1     7e-41   6.9e-38  131.0   0.0     3   281   554   855   553   882 0.80 Acyl transferase domain
+NAD_binding_4        PF07993.15   257 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   2.1e-28   99.4   0.0   1   1   5.6e-31   5.5e-28   98.0   0.0     1   250  3544  3763  3544  3769 0.80 Male sterility protein
+Ketoacyl-synt_C      PF02801.25   119 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   5.1e-28   97.6   0.0   1   1   1.4e-30   1.3e-27   96.2   0.0     3   116   267   384   265   387 0.92 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   4.8e-19   68.6   0.4   1   2   1.7e-08   1.6e-05   25.2   0.0    14    65  2290  2341  2273  2343 0.85 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   4.8e-19   68.6   0.4   2   2   3.6e-13   3.5e-10   40.2   0.2     2    66  3436  3502  3435  3503 0.92 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   2.3e-16   60.4   0.0   1   1   8.2e-19   8.1e-16   58.6   0.0    12   104   399   504   393   511 0.88 Ketoacyl-synthetase C-terminal extension
+Methyltransf_12      PF08242.15    99 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   1.6e-14   54.6   0.0   1   1   6.2e-17   6.1e-14   52.7   0.0     1    99  1307  1407  1307  1407 0.85 Methyltransferase domain
+3Beta_HSD            PF01073.22   280 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   8.9e-14   51.3   0.0   1   1   2.7e-13   2.6e-10   39.9   0.0     1   158  3543  3704  3543  3710 0.86 3-beta hydroxysteroid dehydrogenase/isomerase family
+adh_short            PF00106.28   195 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   3.8e-11   43.0   0.0   1   1   3.9e-13   3.8e-10   39.7   0.0     2   161  1984  2140  1983  2157 0.91 short chain dehydrogenase
+Epimerase            PF01370.24   241 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   4.2e-11   42.9   0.0   1   1   6.9e-09   6.8e-06   25.8   0.0     1   166  3542  3716  3542  3721 0.82 NAD dependent epimerase/dehydratase family
+Methyltransf_25      PF13649.9     97 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856     8e-10   39.4   0.0   1   1   1.3e-11   1.3e-08   35.5   0.0     1    97  1306  1405  1306  1405 0.81 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   5.2e-08   33.0   0.0   1   1   1.2e-10   1.2e-07   31.9   0.0    22   161  1302  1452  1289  1456 0.70 Methyltransferase domain
+adh_short_C2         PF13561.9    234 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   1.9e-07   31.0   0.0   1   1   4.6e-10   4.5e-07   29.8   0.0     6   151  1994  2138  1989  2142 0.83 Enoyl-(Acyl carrier protein) reductase
+Methyltransf_31      PF13847.9    152 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   3.4e-07   30.3   0.0   1   1   1.8e-09   1.8e-06   28.0   0.0     5   110  1304  1410  1302  1446 0.86 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002197_ORF1:gid::pid:QBK15049.1:loc:1638:13691:strand:- -           3856   1.5e-05   25.7   0.0   1   1   8.2e-08   8.1e-05   23.3   0.0     1    95  1307  1408  1307  1409 0.83 Methyltransferase domain
+p450                 PF00067.25   463 BGC0002197_ORF2:gid::pid:QBK15050.1:loc:14814:16814:strand:+ -            509   3.3e-73  247.1   0.0   1   1   2.1e-77     4e-73  246.9   0.0    20   455    62   496    42   505 0.86 Cytochrome P450
+Flavodoxin_2         PF02525.20   198 BGC0002197_ORF4:gid::pid:QBK15052.1:loc:19822:20764:strand:- -            267     8e-55  185.8   0.0   1   1   9.9e-59   9.7e-55  185.5   0.0     1   190     1   209     1   217 0.89 Flavodoxin-like fold
+FMN_red              PF03358.18   156 BGC0002197_ORF4:gid::pid:QBK15052.1:loc:19822:20764:strand:- -            267   2.9e-12   46.7   0.0   1   1     5e-16   4.9e-12   46.0   0.0     1   121     1   155     1   163 0.81 NADPH-dependent FMN reductase
+SnoaL_4              PF13577.9    126 BGC0002197_ORF5:gid::pid:QBK15053.1:loc:21457:21928:strand:+ -            156   1.3e-21   77.1   0.0   1   1   7.6e-26   1.5e-21   76.9   0.0     2   126    13   141    12   141 0.91 SnoaL-like domain
+MFS_1                PF07690.19   353 BGC0002197_ORF6:gid::pid:QBK15054.1:loc:22416:24211:strand:- -            482   3.3e-36  125.1  52.5   1   1   1.6e-39   1.6e-35  122.8  42.7     2   352    59   432    58   433 0.81 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0002197_ORF6:gid::pid:QBK15054.1:loc:22416:24211:strand:- -            482   5.9e-16   58.5   4.6   1   1     6e-20   5.9e-16   58.5   4.6    43   194    78   232    15   245 0.89 Sugar (and other) transporter
+ADH_zinc_N           PF00107.29   130 BGC0002197_ORF7:gid::pid:QBK15055.1:loc:24999:26171:strand:+ -            364   5.9e-11   42.6   0.0   1   1   5.4e-15   1.1e-10   41.8   0.0     2    88   179   264   178   295 0.85 Zinc-binding dehydrogenase
+DIOX_N               PF14226.9    118 BGC0002197_ORF8:gid::pid:QBK15056.1:loc:27345:28433:strand:+ -            327   2.8e-28   99.1   0.0   1   1   4.9e-32   4.8e-28   98.4   0.0     1   117    15   139    15   140 0.93 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.23   101 BGC0002197_ORF8:gid::pid:QBK15056.1:loc:27345:28433:strand:+ -            327   3.1e-20   72.7   0.1   1   1   9.4e-24   9.2e-20   71.1   0.0     6    99   192   287   184   289 0.86 2OG-Fe(II) oxygenase superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002197.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002197.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002197.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:12:00 2023
+# [ok]

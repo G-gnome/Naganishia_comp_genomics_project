@@ -1,0 +1,36 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551     4e-65  220.0   0.0   1   1   5.4e-68   7.1e-65  219.2   0.0     2   253    10   260     9   260 0.95 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   1.3e-57  194.7   0.2   1   1     2e-60   2.6e-57  193.8   0.2     1   178  2181  2358  2181  2360 0.99 KR domain
+PS-DH                PF14765.9    297 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   6.9e-46  157.0   0.0   1   1   9.4e-49   1.2e-45  156.1   0.0     1   291   969  1260   969  1264 0.92 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.24   319 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   1.4e-45  156.3   0.0   1   1   1.8e-48   2.4e-45  155.6   0.0     2   300   583   903   582   916 0.83 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   8.1e-36  122.8   0.0   1   1   2.2e-38   2.9e-35  121.0   0.0     2   118   269   384   268   385 0.98 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   9.2e-18   65.0   0.0   1   1   2.7e-20   3.5e-17   63.1   0.0     1    99  1453  1565  1453  1565 0.89 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   3.7e-13   49.5   0.5   1   1   8.4e-16   1.1e-12   48.0   0.2     4   166  2184  2346  2182  2363 0.87 short chain dehydrogenase
+KAsynt_C_assoc       PF16197.8    112 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   1.5e-11   44.9   0.0   1   1   3.1e-13     4e-10   40.3   0.0     2    46   388   433   388   460 0.89 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.9    165 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   1.6e-09   37.9   0.0   1   1   3.2e-12   4.2e-09   36.6   0.0    18   160  1444  1616  1430  1618 0.67 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551     2e-08   34.9   0.1   1   1   1.3e-10   1.7e-07   31.9   0.0     1    97  1452  1563  1452  1563 0.84 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   3.7e-08   33.4   0.0   1   1   6.9e-11     9e-08   32.2   0.0     3   111  1448  1569  1446  1612 0.88 Methyltransferase domain
+adh_short_C2         PF13561.9    234 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   7.2e-08   32.4   0.3   1   1   1.7e-10   2.2e-07   30.8   0.1     4   153  2190  2341  2187  2356 0.87 Enoyl-(Acyl carrier protein) reductase
+PP-binding           PF00550.28    67 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   1.1e-07   32.2   0.0   1   1     2e-10   2.7e-07   30.9   0.0     2    66  2475  2539  2474  2540 0.93 Phosphopantetheine attachment site
+Methyltransf_11      PF08241.15    96 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   2.8e-07   31.2   0.0   1   1     7e-10   9.2e-07   29.6   0.0     1    96  1453  1567  1453  1567 0.83 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0002598_ORF1:gid:oatA:pid:QTX15955.1:loc:1765:9908:strand:- -           2551   3.8e-06   26.6   0.0   1   1   5.8e-09   7.6e-06   25.6   0.0    43   160  1444  1576  1435  1588 0.91 ubiE/COQ5 methyltransferase family
+AMP-binding          PF00501.31   424 BGC0002598_ORF2:gid:otaB:pid:QTX15956.1:loc:10782:16483:strand:- -           1883  1.4e-137  458.9   0.0   1   2   4.8e-71   3.2e-67  227.1   0.0     2   422   206   599   205   601 0.83 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002598_ORF2:gid:otaB:pid:QTX15956.1:loc:10782:16483:strand:- -           1883  1.4e-137  458.9   0.0   2   2   6.7e-72   4.4e-68  230.0   0.0     2   424  1270  1667  1269  1667 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002598_ORF2:gid:otaB:pid:QTX15956.1:loc:10782:16483:strand:- -           1883   3.9e-33  115.0   0.0   1   1   4.3e-36   2.8e-32  112.1   0.0     2   455   841  1249   840  1251 0.85 Condensation domain
+PP-binding           PF00550.28    67 BGC0002598_ORF2:gid:otaB:pid:QTX15956.1:loc:10782:16483:strand:- -           1883   5.7e-18   65.1   0.6   1   1   4.5e-17   2.9e-13   50.0   0.0     4    67   742   804   740   804 0.97 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0002598_ORF3:gid:otaC:pid:QTX15957.1:loc:17847:19127:strand:- -            388   4.2e-27   95.2   0.0   1   1   2.6e-31   5.1e-27   94.9   0.0    25   342    67   384    52   388 0.78 Cytochrome P450
+Trp_halogenase       PF04820.17   454 BGC0002598_ORF5:gid:otaD:pid:QTX15959.1:loc:24156:25932:strand:+ -            502   3.2e-23   82.4   0.0   1   2   2.4e-13   2.4e-09   36.7   0.0     2    65     9    68     8    78 0.92 Tryptophan halogenase
+Trp_halogenase       PF04820.17   454 BGC0002598_ORF5:gid:otaD:pid:QTX15959.1:loc:24156:25932:strand:+ -            502   3.2e-23   82.4   0.0   2   2   3.2e-15   3.1e-11   42.9   0.0   146   373   109   376    83   383 0.68 Tryptophan halogenase
+FAD_binding_3        PF01494.22   349 BGC0002598_ORF5:gid:otaD:pid:QTX15959.1:loc:24156:25932:strand:+ -            502   1.5e-10   41.0   0.0   1   1   1.7e-13   1.6e-09   37.6   0.0     1   329     6   360     6   369 0.73 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002598.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002598.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002598.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:08:13 2023
+# [ok]

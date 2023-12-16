@@ -1,0 +1,188 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="601.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="591.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+RpsA</title>
+			<polygon class="
+RpsA" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+HimD</title>
+			<polygon class="
+HimD" points="18,10 27,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_DNA_binding (PF00216)
+"Bacterial DNA-binding protein"</title>
+				<polygon class="PF00216" points="18,28 20,28 24,40 20,52 18,52" stroke-linejoin="round" width="9" height="24" fill="rgb(73,205,204)" stroke="rgb(58,164,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="29,10 38,40 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LapA_dom (PF06305)
+"Lipopolysaccharide assembly protein A domain"</title>
+				<polygon class="PF06305" points="30,28 31,28 35,40 31,52 30,52" stroke-linejoin="round" width="6" height="24" fill="rgb(129,84,199)" stroke="rgb(103,67,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+Wzz</title>
+			<polygon class="
+Wzz" points="52,25 56,25 56,10 86,40 56,70 56,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzz (PF02706)
+"Chain length determinant protein"</title>
+				<rect class="PF02706" x="53" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(184,132,90)" stroke="rgb(147,105,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="93,10 102,40 93,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="109,25 122,25 122,10 152,40 122,70 122,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="110" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<polygon class="PF00984" points="130,28 136,28 139,31 139,49 136,52 130,52" stroke-linejoin="round" width="9" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="142,34 148,40 142,46" stroke-linejoin="round" width="9" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="155,25 156,25 156,10 186,40 156,70 156,55 155,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="155" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="169,28 170,28 180,38 180,42 170,52 169,52" stroke-linejoin="round" width="11" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="186,10 205,40 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<rect class="PF00132" x="187" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep_2 (PF14602)
+"Hexapeptide repeat of succinyl-transferase"</title>
+				<polygon class="PF14602" points="196,31 199,36 199,44 196,49" stroke-linejoin="round" width="3" height="24" fill="rgb(79,205,115)" stroke="rgb(63,164,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="206,25 212,25 212,10 242,40 212,70 212,55 206,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="207,28 225,28 237,40 225,52 207,52" stroke-linejoin="round" width="34" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="242,25 253,25 253,10 283,40 253,70 253,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_4 (PF13692)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF13692" points="264,28 266,28 278,40 278,40 266,52 264,52" stroke-linejoin="round" width="14" height="24" fill="rgb(85,182,142)" stroke="rgb(68,145,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="283,25 300,25 300,10 330,40 300,70 300,55 283,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt (PF01943)
+"Polysaccharide biosynthesis protein"</title>
+				<rect class="PF01943" x="283" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(71,213,101)" stroke="rgb(56,170,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="332,25 349,25 349,10 379,40 349,70 349,55 332,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>O-ag_pol_Wzy (PF14296)
+"O-antigen polysaccharide polymerase Wzy"</title>
+				<polygon class="PF14296" points="333,28 363,28 375,40 363,52 333,52" stroke-linejoin="round" width="45" height="24" fill="rgb(151,79,184)" stroke="rgb(120,63,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="380,10 409,40 380,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="380,28 393,28 395,30 395,50 393,52 380,52" stroke-linejoin="round" width="15" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="421,25 423,25 423,10 453,40 423,70 423,55 421,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="421,28 436,28 443,35 443,45 436,52 421,52" stroke-linejoin="round" width="22" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="455,25 462,25 462,10 492,40 462,70 462,55 455,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="455" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="472,28 476,28 488,40 488,40 476,52 472,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="493,25 495,25 495,10 525,40 495,70 495,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="493,28 508,28 515,35 515,45 508,52 493,52" stroke-linejoin="round" width="22" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="525,25 529,25 529,10 559,40 529,70 529,55 525,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_4 (PF00953)
+"Glycosyl transferase family 4"</title>
+				<polygon class="PF00953" points="532,28 542,28 547,33 547,47 542,52 532,52" stroke-linejoin="round" width="15" height="24" fill="rgb(179,46,82)" stroke="rgb(143,36,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title></title>
+			<polygon class="" points="563,10 591,40 563,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_binding_3 (PF13727)
+"CoA-binding domain"</title>
+				<polygon class="PF13727" points="570,28 575,28 586,40 575,52 570,52" stroke-linejoin="round" width="18" height="24" fill="rgb(153,200,97)" stroke="rgb(122,160,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

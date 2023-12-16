@@ -1,0 +1,40 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HTH_18               PF12833.10    81 BGC0000249_ORF1:gid::pid:AAG42846.1:loc:0:382:strand:- -            127   2.1e-14   53.7   0.3   1   1   3.6e-18   3.5e-14   52.9   0.3     1    69    59   126    59   127 0.96 Helix-turn-helix domain
+Ada_Zn_binding       PF02805.19    65 BGC0000249_ORF1:gid::pid:AAG42846.1:loc:0:382:strand:- -            127   1.9e-06   27.9   3.0   1   1   1.9e-10   1.9e-06   27.9   3.0    43    65     2    24     1    24 0.95 Metal binding domain of Ada
+MTHFR                PF02219.20   287 BGC0000249_ORF2:gid::pid:AAG42847.1:loc:615:1470:strand:- -            284   2.5e-07   30.4   0.0   1   1   4.9e-11   9.7e-07   28.5   0.0    44   207    34   194    18   272 0.74 Methylenetetrahydrofolate reductase
+ADC                  PF06314.14   237 BGC0000249_ORF3:gid::pid:AAG42848.1:loc:2848:3583:strand:+ -            244   2.3e-72  243.6   0.6   1   1   1.3e-76   2.6e-72  243.4   0.6    11   237    16   243     8   243 0.95 Acetoacetate decarboxylase (ADC)
+Macro                PF01661.24   118 BGC0000249_ORF4:gid::pid:AAG42849.1:loc:3876:4422:strand:- -            181   2.1e-39  134.4   0.0   1   1   1.3e-43   2.6e-39  134.0   0.0     1   118    20   137    20   137 0.95 Macro domain
+NAD_binding_8        PF13450.9     68 BGC0000249_ORF5:gid::pid:AAG42850.1:loc:4468:5887:strand:- -            472     5e-12   46.0   0.1   1   1   8.9e-15   2.9e-11   43.5   0.1     1    49     9    59     9    74 0.88 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.27   353 BGC0000249_ORF5:gid::pid:AAG42850.1:loc:4468:5887:strand:- -            472   5.9e-09   36.1   0.0   1   1   1.7e-11   5.5e-08   32.9   0.0     1    51     6    54     6   142 0.72 FAD dependent oxidoreductase
+Amino_oxidase        PF01593.27   452 BGC0000249_ORF5:gid::pid:AAG42850.1:loc:4468:5887:strand:- -            472   2.1e-08   34.1   2.2   1   1   6.7e-11   2.2e-07   30.7   2.2     3   236    16   249    15   465 0.75 Flavin containing amine oxidoreductase
+Thi4                 PF01946.20   235 BGC0000249_ORF5:gid::pid:AAG42850.1:loc:4468:5887:strand:- -            472   8.2e-08   31.9   0.2   1   1   3.9e-11   1.3e-07   31.3   0.2    19    57     6    43     3    48 0.95 Thi4 family
+FAD_oxidored         PF12831.10   427 BGC0000249_ORF5:gid::pid:AAG42850.1:loc:4468:5887:strand:- -            472   5.6e-07   29.3   0.5   1   1   5.8e-10   1.9e-06   27.6   0.5     1    38     6    43     6    56 0.89 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 BGC0000249_ORF5:gid::pid:AAG42850.1:loc:4468:5887:strand:- -            472   1.5e-05   24.5   1.7   1   1   4.5e-09   1.5e-05   24.5   1.7     1    36     6    41     6    45 0.93 FAD binding domain
+Inositol_P           PF00459.28   272 BGC0000249_ORF6:gid::pid:AAG42851.1:loc:5975:6821:strand:- -            281   1.1e-57  195.8   0.0   1   1   6.7e-62   1.3e-57  195.5   0.0     9   246    20   253    13   279 0.90 Inositol monophosphatase family
+G_glu_transpept      PF01019.24   512 BGC0000249_ORF7:gid::pid:AAG42852.1:loc:7089:8955:strand:- -            621  3.2e-107  359.6   0.0   1   1  2.2e-111  4.4e-107  359.1   0.0     2   510    29   613    28   615 0.93 Gamma-glutamyltranspeptidase
+Methyltransf_11      PF08241.15    96 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   2.7e-25   88.9   0.0   1   1   2.6e-28   4.6e-25   88.2   0.0     1    95    68   166    68   167 0.95 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278     1e-23   83.9   0.0   1   1   1.1e-26   1.9e-23   83.1   0.0     1    97    67   163    67   163 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   6.5e-21   74.9   0.0   1   1     5e-24     9e-21   74.4   0.0     4   124    64   182    62   209 0.89 Methyltransferase domain
+CMAS                 PF02353.23   273 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   2.2e-18   66.7   0.0   1   1   1.8e-21   3.2e-18   66.1   0.0     8   178     9   181     3   258 0.84 Mycolic acid cyclopropane synthetase
+Methyltransf_23      PF13489.9    165 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278     2e-16   60.4   0.0   1   1   1.6e-19   2.9e-16   59.8   0.0    21   125    62   179    40   222 0.78 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   3.5e-15   56.1   0.0   1   1   2.7e-18   4.8e-15   55.7   0.0    40   154    56   170    46   201 0.87 ubiE/COQ5 methyltransferase family
+Methyltransf_12      PF08242.15    99 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   2.8e-14   53.8   0.0   1   1   2.7e-17   4.8e-14   53.0   0.0     1    99    68   165    68   165 0.91 Methyltransferase domain
+PCMT                 PF01135.22   210 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   2.7e-09   37.2   0.0   1   1   2.1e-12   3.7e-09   36.8   0.0    59   169    49   165    34   193 0.82 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+MTS                  PF05175.17   170 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   3.1e-08   33.6   0.0   1   1   6.4e-11   1.1e-07   31.7   0.0    14   137    42   166    39   184 0.81 Methyltransferase small domain
+Methyltransf_9       PF08003.14   315 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   6.7e-06   25.4   0.0   1   1   5.3e-09   9.5e-06   24.9   0.0   115   222    63   171    42   182 0.83 Protein of unknown function (DUF1698)
+PrmA                 PF06325.16   295 BGC0000249_ORF8:gid:snogM:pid:AAG42853.1:loc:9290:10127:strand:+ -            278   7.4e-05   22.4   0.0   1   1   5.5e-08   9.8e-05   22.0   0.0   159   218    61   120    48   185 0.73 Ribosomal protein L11 methyltransferase (PrmA)
+TylF                 PF05711.14   255 BGC0000249_ORF9:gid:snogL:pid:AAG42854.1:loc:10220:11042:strand:+ -            273  2.6e-101  338.4   0.0   1   1  3.2e-105  3.2e-101  338.1   0.0     2   255     7   271     6   271 0.92 Macrocin-O-methyltransferase (TylF)
+Methyltransf_24      PF13578.9    107 BGC0000249_ORF9:gid:snogL:pid:AAG42854.1:loc:10220:11042:strand:+ -            273   9.3e-08   33.2   0.0   1   1   1.7e-11   1.6e-07   32.4   0.0     2   107   102   236   101   236 0.77 Methyltransferase domain
+PhyH                 PF05721.16   211 BGC0000249_ORF10:gid:snoN:pid:AAG42855.1:loc:12320:12637:strand:- -            104   7.9e-08   32.9   0.1   1   1   5.3e-12     1e-07   32.6   0.1   177   209     3    35     2    37 0.94 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000249.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000249.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000249.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:19:03 2023
+# [ok]

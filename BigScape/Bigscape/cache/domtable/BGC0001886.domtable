@@ -1,0 +1,42 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 BGC0001886_ORF1:gid::pid:CCE31569.1:loc:0:2027:strand:+ -            577   3.1e-46  158.0  50.4   1   1   3.2e-50   3.1e-46  158.0  50.4     1   352    63   465    63   466 0.89 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001886_ORF1:gid::pid:CCE31569.1:loc:0:2027:strand:+ -            577   4.7e-06   25.9  16.6   1   1   4.8e-10   4.7e-06   25.9  16.6    41   190    87   230    63   237 0.79 Sugar (and other) transporter
+FAD_binding_3        PF01494.22   349 BGC0001886_ORF2:gid::pid:CCE31570.1:loc:4561:6211:strand:- -            514   6.3e-14   52.1   0.0   1   1   3.3e-17   2.2e-13   50.4   0.0     2   322    36   389    35   396 0.73 FAD binding domain
+Methyltransf_11      PF08241.15    96 BGC0001886_ORF3:gid::pid:CCE31571.1:loc:6693:7647:strand:+ -            317     3e-16   60.0   0.0   1   1   5.1e-19     2e-15   57.3   0.0     2    96    57   149    56   149 0.96 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0001886_ORF3:gid::pid:CCE31571.1:loc:6693:7647:strand:+ -            317   5.2e-12   46.4   0.0   1   1   2.6e-15     1e-11   45.5   0.0     1    97    55   145    55   145 0.87 Methyltransferase domain
+Methyltransf_12      PF08242.15    99 BGC0001886_ORF3:gid::pid:CCE31571.1:loc:6693:7647:strand:+ -            317   6.8e-10   39.7   0.0   1   1   2.9e-13   1.1e-09   39.0   0.0     2    99    57   147    56   147 0.93 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0001886_ORF3:gid::pid:CCE31571.1:loc:6693:7647:strand:+ -            317   4.7e-10   39.6   0.0   1   1   1.8e-13   7.2e-10   39.0   0.0     7   123    55   163    53   189 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0001886_ORF3:gid::pid:CCE31571.1:loc:6693:7647:strand:+ -            317   3.3e-08   33.6   0.0   1   1   1.9e-11   7.4e-08   32.5   0.0    24   133    53   165    26   195 0.81 Methyltransferase domain
+Questin_oxidase      PF14027.9    348 BGC0001886_ORF6:gid::pid:CCE31574.1:loc:10659:12024:strand:+ -            454   3.4e-88  296.7   0.2   1   1     2e-92     4e-88  296.5   0.2     2   348    58   391    57   391 0.93 Questin oxidase-like
+Scytalone_dh         PF02982.17   160 BGC0001886_ORF7:gid::pid:CCE31575.1:loc:12583:13230:strand:- -            158   1.1e-68  230.2   0.2   1   1   1.2e-72   1.2e-68  230.1   0.2     4   154     7   157     4   158 0.98 Scytalone dehydratase
+SnoaL_4              PF13577.9    126 BGC0001886_ORF7:gid::pid:CCE31575.1:loc:12583:13230:strand:- -            158   9.9e-10   38.7   0.3   1   1   1.3e-13   1.3e-09   38.3   0.3     3   123     7   139     5   141 0.85 SnoaL-like domain
+adh_short_C2         PF13561.9    234 BGC0001886_ORF8:gid::pid:CCE31576.1:loc:13651:14695:strand:+ -            264   5.9e-55  186.5   0.8   1   1   1.2e-58     8e-55  186.1   0.8     3   233    21   263    18   264 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001886_ORF8:gid::pid:CCE31576.1:loc:13651:14695:strand:+ -            264   1.1e-47  162.2   0.8   1   1   1.9e-51   1.3e-47  162.0   0.8     1   192    13   204    13   207 0.97 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001886_ORF8:gid::pid:CCE31576.1:loc:13651:14695:strand:+ -            264   3.6e-10   40.2   0.6   1   1   7.7e-14   5.1e-10   39.7   0.6     4   164    16   176    14   190 0.87 KR domain
+NAD_binding_10       PF13460.9    184 BGC0001886_ORF9:gid::pid:CCE31577.1:loc:17855:18632:strand:+ -            258   9.7e-17   61.6   0.0   1   1   1.4e-20   1.4e-16   61.0   0.0     1   183     8   212     8   213 0.78 NAD(P)H-binding
+NmrA                 PF05368.16   233 BGC0001886_ORF9:gid::pid:CCE31577.1:loc:17855:18632:strand:+ -            258   1.2e-05   25.1   0.0   1   1   3.5e-09   3.4e-05   23.6   0.0     2    75     5    82     4   101 0.86 NmrA-like family
+FAD_binding_3        PF01494.22   349 BGC0001886_ORF10:gid::pid:CCE31578.1:loc:19227:20751:strand:+ -            507   6.5e-53  180.3   0.0   1   1   1.3e-56   8.2e-53  180.0   0.0     2   347     8   353     7   355 0.85 FAD binding domain
+DAO                  PF01266.27   353 BGC0001886_ORF10:gid::pid:CCE31578.1:loc:19227:20751:strand:+ -            507   1.4e-10   41.5   0.8   1   1     1e-12   6.6e-09   35.9   0.8     1   299     9   267     9   315 0.70 FAD dependent oxidoreductase
+AflR                 PF08493.13   101 BGC0001886_ORF12:gid::pid:CCE31580.1:loc:24587:26054:strand:+ -            488   8.3e-20   70.9   1.4   1   1   3.4e-23   3.3e-19   69.0   1.4     1    95   269   373   269   379 0.81 Aflatoxin regulatory protein
+Zn_clus              PF00172.21    40 BGC0001886_ORF12:gid::pid:CCE31580.1:loc:24587:26054:strand:+ -            488   2.2e-08   34.2  10.1   1   1   5.2e-12   5.1e-08   33.0  10.1     3    34    36    67    34    73 0.89 Fungal Zn(2)-Cys(6) binuclear cluster domain
+EthD                 PF07110.14    97 BGC0001886_ORF13:gid::pid:CCE31581.1:loc:26278:27035:strand:- -            141   2.7e-17   63.8   1.0   1   1   1.8e-21   3.5e-17   63.4   1.0     1    96    25   121    25   122 0.86 EthD domain
+Anthrone_oxy         PF08592.14   107 BGC0001886_ORF14:gid::pid:CCE31582.1:loc:27942:28543:strand:+ -            174     8e-24   84.0   3.6   1   1   4.1e-28     8e-24   84.0   3.6     1   106    50   156    50   157 0.89 Anthrone oxygenase
+Lactamase_B          PF00753.30   197 BGC0001886_ORF15:gid::pid:CCE31583.1:loc:28783:29814:strand:- -            310   7.1e-14   52.4   5.6   1   1     4e-17   7.9e-13   49.0   5.6     5   157    59   187    56   202 0.86 Metallo-beta-lactamase superfamily
+ketoacyl-synt        PF00109.29   253 BGC0001886_ORF16:gid::pid:CCE31584.1:loc:30967:36704:strand:+ -           1808   1.4e-70  237.9   0.0   1   1     4e-73   1.1e-69  234.9   0.0     4   253   409   658   407   658 0.93 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0001886_ORF16:gid::pid:CCE31584.1:loc:30967:36704:strand:+ -           1808   1.1e-44  153.3   0.3   1   1   6.3e-48   1.8e-44  152.7   0.3     2   318   941  1265   940  1266 0.89 Acyl transferase domain
+SAT                  PF16073.8    240 BGC0001886_ORF16:gid::pid:CCE31584.1:loc:30967:36704:strand:+ -           1808   5.5e-42  144.1   1.5   1   1   7.2e-44     2e-40  139.0   0.0     3   236    24   267    22   270 0.89 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Ketoacyl-synt_C      PF02801.25   119 BGC0001886_ORF16:gid::pid:CCE31584.1:loc:30967:36704:strand:+ -           1808   2.2e-32  111.7   0.2   1   1     2e-35   5.6e-32  110.4   0.2     2   118   667   786   666   787 0.97 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0001886_ORF16:gid::pid:CCE31584.1:loc:30967:36704:strand:+ -           1808   3.1e-09   36.6   0.0   1   1   2.2e-12   6.2e-09   35.6   0.0    33   293  1375  1650  1373  1654 0.72 Polyketide synthase dehydratase
+PP-binding           PF00550.28    67 BGC0001886_ORF16:gid::pid:CCE31584.1:loc:30967:36704:strand:+ -           1808   1.5e-08   35.0   0.2   1   1   1.5e-11   4.1e-08   33.5   0.2     5    65  1741  1801  1738  1803 0.92 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001886.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001886.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001886.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:15:52 2023
+# [ok]

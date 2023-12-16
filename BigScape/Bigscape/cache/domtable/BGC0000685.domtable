@@ -1,0 +1,19 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0000685_ORF2:gid::pid::loc:2729:4585:strand:- -            459   2.2e-15   56.5   0.4   1   1   1.1e-18   2.1e-14   53.3   0.2   371   450   341   428   331   442 0.87 Cytochrome P450
+p450                 PF00067.25   463 BGC0000685_ORF3:gid::pid::loc:9403:10706:strand:- -            375   4.9e-34  118.0   0.0   1   1   3.1e-38     6e-34  117.7   0.0   189   450    86   349     7   362 0.77 Cytochrome P450
+Methyltransf_2       PF00891.21   210 BGC0000685_ORF4:gid::pid::loc:12168:14626:strand:+ -            444   5.2e-14   52.2   0.0   1   1   4.1e-18   8.1e-14   51.6   0.0    66   209   208   347   203   348 0.89 O-methyltransferase domain
+Terpene_syn_C_2      PF19086.3    199 BGC0000685_ORF6:gid::pid::loc:16263:18159:strand:+ -            319   1.6e-22   80.5   0.2   1   1   1.1e-26   2.2e-22   80.0   0.2     4   194    69   258    66   260 0.83 Terpene synthase family 2, C-terminal metal binding
+TauD                 PF02668.19   268 BGC0000685_ORF7:gid::pid::loc:19965:21806:strand:+ -            302   4.8e-07   30.0   0.2   1   1     4e-11   7.9e-07   29.3   0.2    98   227    85   246    36   272 0.73 Taurine catabolism dioxygenase TauD, TfdA family
+p450                 PF00067.25   463 BGC0000685_ORF8:gid::pid::loc:23513:25198:strand:+ -            437   1.1e-25   90.5   0.1   1   1   6.5e-30   1.3e-25   90.2   0.1    93   393   128   422    59   432 0.84 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000685.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000685.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000685.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:43:47 2023
+# [ok]

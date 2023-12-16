@@ -1,0 +1,35 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DAHP_synth_1         PF00793.23   275 BGC0002002_ORF1:gid::pid:WP_024483794.1:loc:0:1038:strand:- -            345   6.2e-94  314.0   0.0   1   1   3.9e-98   7.6e-94  313.8   0.0     9   274    40   334    26   335 0.97 DAHP synthetase I family
+Amino_oxidase        PF01593.27   452 BGC0002002_ORF2:gid::pid:WP_024483795.1:loc:1071:2484:strand:- -            470   2.2e-19   70.2   0.0   1   1   4.2e-20   4.1e-16   59.4   0.0     2   266    14   259    13   283 0.73 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 BGC0002002_ORF2:gid::pid:WP_024483795.1:loc:1071:2484:strand:- -            470   1.2e-14   54.3   0.2   1   1   5.5e-18   5.4e-14   52.3   0.0     1    68     8    78     8    78 0.92 NAD(P)-binding Rossmann-like domain
+AMP-binding          PF00501.31   424 BGC0002002_ORF4:gid::pid:WP_024483797.1:loc:3001:4771:strand:- -            589   5.3e-71  239.6   0.0   1   1   1.4e-74   9.4e-71  238.8   0.0     7   423    29   402    24   403 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0002002_ORF4:gid::pid:WP_024483797.1:loc:3001:4771:strand:- -            589   6.4e-10   40.0   0.0   1   1   2.6e-13   1.7e-09   38.6   0.0     1    76   411   485   411   485 0.94 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0002002_ORF4:gid::pid:WP_024483797.1:loc:3001:4771:strand:- -            589   5.9e-05   23.4   0.0   1   1   2.2e-08   0.00014   22.2   0.0     2    66   522   584   521   585 0.94 Phosphopantetheine attachment site
+Aldedh               PF00171.25   462 BGC0002002_ORF6:gid::pid:WP_024483799.1:loc:5744:7124:strand:- -            459   2.1e-10   39.9   0.0   1   1   5.5e-14   5.4e-10   38.5   0.0    33   428    54   420    38   429 0.77 Aldehyde dehydrogenase family
+LuxC                 PF05893.17   401 BGC0002002_ORF6:gid::pid:WP_024483799.1:loc:5744:7124:strand:- -            459   8.7e-07   28.4   0.0   1   1   1.3e-10   1.2e-06   27.9   0.0    75   269   138   320    64   337 0.71 Acyl-CoA reductase (LuxC)
+AMP-binding          PF00501.31   424 BGC0002002_ORF7:gid::pid:WP_021179638.1:loc:7126:8188:strand:- -            353   2.1e-09   36.6   0.1   1   1   2.7e-12   5.3e-08   32.0   0.1   161   371    76   303    40   308 0.68 AMP-binding enzyme
+Putative_PNPOx       PF01243.23    88 BGC0002002_ORF8:gid::pid:WP_024483801.1:loc:8200:8836:strand:- -            211     4e-15   55.9   0.0   1   1   6.6e-19   6.4e-15   55.2   0.0     2    83    36   116    35   121 0.93 Pyridoxamine 5'-phosphate oxidase
+PNP_phzG_C           PF10590.12    43 BGC0002002_ORF8:gid::pid:WP_024483801.1:loc:8200:8836:strand:- -            211   5.8e-08   32.7   2.1   1   1   1.1e-11   1.1e-07   31.9   2.1     3    43   173   211   171   211 0.84 Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region
+PhzC-PhzF            PF02567.19   283 BGC0002002_ORF9:gid::pid:WP_024483802.1:loc:8849:9695:strand:- -            281   5.2e-55  187.0   0.0   1   1     3e-59   5.9e-55  186.9   0.0     1   283     7   277     7   277 0.86 Phenazine biosynthesis-like protein
+Chorismate_bind      PF00425.21   256 BGC0002002_ORF10:gid::pid:WP_046808008.1:loc:10023:11892:strand:- -            622     2e-42  145.6   0.0   1   1   3.4e-46   3.3e-42  145.0   0.0     3   256   125   382   123   382 0.90 chorismate binding enzyme
+GATase               PF00117.31   191 BGC0002002_ORF10:gid::pid:WP_046808008.1:loc:10023:11892:strand:- -            622   2.1e-20   73.4   0.0   1   1   3.5e-24   3.5e-20   72.7   0.0     2   188   438   616   437   619 0.84 Glutamine amidotransferase class-I
+Isochorismatase      PF00857.23   175 BGC0002002_ORF11:gid::pid:WP_099049897.1:loc:11888:12509:strand:- -            206   1.4e-35  123.2   0.0   1   1   7.9e-40   1.5e-35  123.0   0.0     2   172    32   200    31   203 0.96 Isochorismatase family
+PHZA_PHZB            PF03284.16   162 BGC0002002_ORF12:gid::pid:WP_174469073.1:loc:12597:13056:strand:- -            152   3.8e-75  250.9   1.2   1   1   2.3e-79   4.6e-75  250.6   1.2    15   162     5   152     2   152 0.99 Phenazine biosynthesis protein A/B
+adh_short            PF00106.28   195 BGC0002002_ORF13:gid::pid:WP_099049898.1:loc:13097:13886:strand:- -            262   4.4e-47  160.2   0.0   1   1   1.5e-50   5.7e-47  159.8   0.0     1   186     3   185     3   192 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002002_ORF13:gid::pid:WP_099049898.1:loc:13097:13886:strand:- -            262   2.3e-33  115.8   0.0   1   1   7.2e-37   2.8e-33  115.6   0.0     1   179     9   186     9   214 0.92 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002002_ORF13:gid::pid:WP_099049898.1:loc:13097:13886:strand:- -            262   4.5e-11   43.1   0.0   1   1   2.8e-14   1.1e-10   41.8   0.0     3   165     5   164     4   177 0.87 KR domain
+NAD_binding_10       PF13460.9    184 BGC0002002_ORF13:gid::pid:WP_099049898.1:loc:13097:13886:strand:- -            262   1.2e-06   28.6   0.0   1   1   4.1e-10   1.6e-06   28.3   0.0     1   150     9   186     9   207 0.78 NAD(P)H-binding
+DUF1776              PF08643.13   296 BGC0002002_ORF13:gid::pid:WP_099049898.1:loc:13097:13886:strand:- -            262   4.4e-06   26.4   0.0   1   1   1.4e-09   5.6e-06   26.1   0.0   101   196    84   177    79   208 0.92 Fungal family of unknown function (DUF1776)
+Glyoxalase           PF00903.28   128 BGC0002002_ORF14:gid::pid:WP_021179632.1:loc:14008:14395:strand:- -            128   4.5e-07   30.2   0.0   1   1   7.9e-11   1.5e-06   28.5   0.0     4   127     6   116     3   117 0.85 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002002.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002002.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002002.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:25:48 2023
+# [ok]

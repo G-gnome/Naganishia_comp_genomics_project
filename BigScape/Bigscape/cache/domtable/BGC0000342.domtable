@@ -1,0 +1,22 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  3.6e-143  477.7   0.0   1   3   3.3e-13   1.1e-09   37.7   0.0    21   451    53   466    35   471 0.75 Condensation domain
+Condensation         PF00668.23   457 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  3.6e-143  477.7   0.0   2   3   1.6e-88   5.1e-85  286.0   0.0     8   448  1105  1534  1101  1540 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  3.6e-143  477.7   0.0   3   3   6.7e-47   2.2e-43  148.7   0.0     2   430  2718  3123  2717  3129 0.86 Condensation domain
+AMP-binding          PF00501.31   424 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  5.1e-134  447.2   0.0   1   2   5.6e-65   1.8e-61  208.2   0.0     6   424   495   887   491   887 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  5.1e-134  447.2   0.0   2   2     1e-73   3.3e-70  236.9   0.0     1   424  1563  1960  1563  1960 0.86 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   4.4e-27   94.3   0.1   1   3   5.3e-11   1.7e-07   31.5   0.0     2    64  1018  1079  1017  1082 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   4.4e-27   94.3   0.1   2   3   6.1e-12     2e-08   34.5   0.0     3    64  2513  2571  2512  2573 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   4.4e-27   94.3   0.1   3   3   1.5e-08   4.9e-05   23.7   0.0     3    45  2607  2646  2605  2647 0.89 Phosphopantetheine attachment site
+Methyltransf_11      PF08241.15    96 BGC0000342_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   3.1e-05   24.7   0.0   1   1   3.7e-08   0.00012   22.8   0.0     1    79  2086  2168  2086  2176 0.90 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000342.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000342.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000342.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:44:03 2023
+# [ok]

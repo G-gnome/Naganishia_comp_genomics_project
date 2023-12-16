@@ -1,0 +1,27 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   1.1e-67  228.4   0.0   1   1   1.3e-70   1.8e-67  227.7   0.0     2   253    10   260     9   260 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   1.3e-57  194.7   0.1   1   1   4.5e-60   6.3e-57  192.5   0.0     2   179  2182  2356  2181  2357 0.99 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565     5e-52  177.5   0.0   1   1     6e-55   8.5e-52  176.8   0.0     2   303   575   888   574   902 0.86 Acyl transferase domain
+PS-DH                PF14765.9    297 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   6.4e-52  176.8   0.0   1   1   6.8e-55   9.6e-52  176.2   0.0     1   295   959  1260   959  1262 0.89 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.25   119 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   4.9e-34  117.0   0.1   1   1   1.3e-35   1.9e-32  111.9   0.0     3   118   270   386   268   387 0.97 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   5.2e-20   72.2   0.0   1   1   1.4e-22     2e-19   70.3   0.0     1    99  1440  1545  1440  1545 0.98 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   1.3e-12   47.9   0.0   1   1   2.2e-15     3e-12   46.8   0.0    12   124  1425  1554  1414  1596 0.74 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   1.9e-12   47.8   0.6   1   1   2.6e-14   3.6e-11   43.7   0.6     1    92   389   517   389   543 0.70 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.9     97 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   1.4e-11   45.1   0.0   1   1   5.2e-14   7.2e-11   42.7   0.0     1    97  1439  1543  1439  1543 0.84 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   4.2e-11   43.0   0.0   1   1   7.6e-14   1.1e-10   41.7   0.0     2   113  1434  1551  1433  1611 0.88 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   4.4e-11   42.7   0.0   1   1   8.4e-14   1.2e-10   41.3   0.0     1   161  2181  2338  2181  2345 0.88 short chain dehydrogenase
+Methyltransf_11      PF08241.15    96 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   6.1e-09   36.5   0.0   1   1   1.5e-11     2e-08   34.9   0.0     1    96  1440  1547  1440  1547 0.84 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   7.1e-08   32.8   0.0   1   1   2.1e-10     3e-07   30.8   0.0     2    66  2495  2559  2494  2560 0.93 Phosphopantetheine attachment site
+NodS                 PF05401.14   201 BGC0002191_ORF1:gid::pid:ESU09893.1:loc:260:8785:strand:- -           2565   2.5e-07   30.9   0.0   1   1   3.7e-10   5.1e-07   29.8   0.0    29   152  1421  1555  1410  1567 0.79 Nodulation protein S (NodS)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002191.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002191.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002191.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:51:20 2023
+# [ok]

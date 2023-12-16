@@ -1,0 +1,35 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GerE                 PF00196.22    57 BGC0002307_ORF1:gid:humR1:pid:QHZ32188.1:loc:82:775:strand:- -            230   3.1e-19   68.4   0.2   1   1   5.6e-23   5.5e-19   67.6   0.2     2    57   158   213   157   213 0.97 Bacterial regulatory proteins, luxR family
+HisKA_3              PF07730.16    68 BGC0002307_ORF2:gid:humG:pid:QHZ32189.1:loc:1425:2529:strand:+ -            367   2.1e-16   60.3   6.3   1   1   3.3e-20   2.1e-16   60.3   6.3     1    66   166   231   166   233 0.97 Histidine kinase
+HATPase_c            PF02518.29   112 BGC0002307_ORF2:gid:humG:pid:QHZ32189.1:loc:1425:2529:strand:+ -            367   5.1e-07   30.3   0.1   1   1   9.2e-10     6e-06   26.9   0.1     6   109   280   366   275   367 0.86 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.30   137 BGC0002307_ORF3:gid:humD1:pid:QHZ32190.1:loc:2630:3533:strand:+ -            300   1.6e-26   93.5   0.0   1   1   2.8e-30   2.7e-26   92.8   0.0     3   137    19   156    17   156 0.95 ABC transporter
+AAA_21               PF13304.9    304 BGC0002307_ORF3:gid:humD1:pid:QHZ32190.1:loc:2630:3533:strand:+ -            300   5.2e-12   46.3   0.0   1   1   6.5e-12   6.4e-08   32.9   0.0   233   298   123   185    91   191 0.90 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0002307_ORF4:gid:humD2:pid:QHZ32191.1:loc:3525:4278:strand:+ -            250   1.9e-10   41.1   2.2   1   1     1e-14     2e-10   41.1   1.2     2   173     8   184     7   197 0.73 ABC-2 family transporter protein
+Asn_synthase         PF00733.24   355 BGC0002307_ORF6:gid:humC:pid:QHZ32193.1:loc:4580:6404:strand:+ -            607     3e-37  129.2   0.1   1   1   1.9e-41   3.8e-37  128.9   0.1     2   354   205   592   204   593 0.81 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0002307_ORF7:gid:humB1:pid:QHZ32194.1:loc:6400:6664:strand:+ -             87     7e-12   45.6   0.0   1   1   4.2e-16   8.3e-12   45.4   0.0     2    67    18    83    17    83 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0002307_ORF8:gid:humB2:pid:QHZ32195.1:loc:6660:7092:strand:+ -            143   2.2e-24   85.7   5.8   1   1   1.4e-28   2.8e-24   85.4   5.8     6   115    26   131    22   133 0.94 Transglutaminase-like superfamily
+ABC_tran             PF00005.30   137 BGC0002307_ORF9:gid:humD3:pid:QHZ32196.1:loc:7088:8054:strand:+ -            321   7.7e-27   94.6   0.0   1   1   1.7e-30   1.1e-26   94.1   0.0     2   137    20   163    19   163 0.94 ABC transporter
+AAA_21               PF13304.9    304 BGC0002307_ORF9:gid:humD3:pid:QHZ32196.1:loc:7088:8054:strand:+ -            321   6.6e-10   39.4   0.4   1   1   2.2e-10   1.5e-06   28.4   0.1   225   300   122   195    88   198 0.86 AAA domain, putative AbiEii toxin, Type IV TA system
+DUF4162              PF13732.9     81 BGC0002307_ORF9:gid:humD3:pid:QHZ32196.1:loc:7088:8054:strand:+ -            321   2.3e-06   28.3   0.0   1   1   6.6e-10   4.3e-06   27.5   0.0     1    80   216   298   216   299 0.82 Domain of unknown function (DUF4162)
+ABC2_membrane        PF01061.27   210 BGC0002307_ORF10:gid:humD4:pid:QHZ32197.1:loc:8050:8926:strand:+ -            291     9e-35  120.1  13.0   1   1   1.4e-38   1.3e-34  119.6  13.0     5   208    35   242    32   243 0.91 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0002307_ORF10:gid:humD4:pid:QHZ32197.1:loc:8050:8926:strand:+ -            291   6.8e-16   58.4  11.9   1   1   8.5e-20   8.4e-16   58.1  11.9   154   346    78   285    54   285 0.88 ABC-2 family transporter protein
+MauE                 PF07291.14   185 BGC0002307_ORF11:gid:humE:pid:QHZ32198.1:loc:8946:9522:strand:+ -            191   4.8e-13   49.6   5.8   1   1   6.5e-17   6.4e-13   49.2   5.8     5   133    39   170    36   181 0.84 Methylamine utilisation protein MauE
+DoxX                 PF07681.15    85 BGC0002307_ORF11:gid:humE:pid:QHZ32198.1:loc:8946:9522:strand:+ -            191     1e-07   32.6  10.4   1   1   2.2e-11   2.2e-07   31.5  10.4     4    82    46   125    44   130 0.86 DoxX
+Thioredoxin_4        PF13462.9    165 BGC0002307_ORF12:gid:humF:pid:QHZ32199.1:loc:9527:10250:strand:+ -            240   5.1e-19   69.1   0.0   1   1   6.8e-23   6.7e-19   68.8   0.0    16   161    76   233    71   237 0.80 Thioredoxin
+DSBA                 PF01323.23   193 BGC0002307_ORF12:gid:humF:pid:QHZ32199.1:loc:9527:10250:strand:+ -            240   2.1e-09   37.5   0.0   1   1   3.2e-12   3.2e-08   33.7   0.0     2   191    77   234    76   236 0.90 DSBA-like thioredoxin domain
+PGA_cap              PF09587.13   257 BGC0002307_ORF13:gid:humH:pid:QHZ32200.1:loc:10246:11584:strand:+ -            445   2.5e-57  194.4   0.0   1   1   1.6e-61   3.1e-57  194.0   0.0     1   256     5   318     5   319 0.90 Bacterial capsule synthesis protein PGA_cap
+Response_reg         PF00072.27   112 BGC0002307_ORF14:gid:humR2:pid:QHZ32201.1:loc:11705:12380:strand:+ -            224   2.7e-25   88.8   0.0   1   1   6.3e-29   4.2e-25   88.2   0.0     1   111     7   120     7   121 0.96 Response regulator receiver domain
+GerE                 PF00196.22    57 BGC0002307_ORF14:gid:humR2:pid:QHZ32201.1:loc:11705:12380:strand:+ -            224   3.1e-17   62.0   0.4   1   1   8.7e-21   5.7e-17   61.2   0.4     3    57   158   212   156   212 0.97 Bacterial regulatory proteins, luxR family
+Sigma70_r4_2         PF08281.15    54 BGC0002307_ORF14:gid:humR2:pid:QHZ32201.1:loc:11705:12380:strand:+ -            224   3.9e-07   29.8   0.1   1   1   1.2e-10   7.5e-07   28.9   0.1    10    48   157   194   154   200 0.90 Sigma-70, region 4
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002307.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002307.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002307.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:09:15 2023
+# [ok]

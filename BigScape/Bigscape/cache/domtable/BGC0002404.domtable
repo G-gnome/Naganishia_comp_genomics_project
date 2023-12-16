@@ -1,0 +1,20 @@
+#                                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FA_desaturase        PF00487.27   254 BGC0002404_ORF2:gid:LOC101248657_rename1:pid:XP_004252862.1:loc:6286:7426:strand:- -            379   2.6e-30  106.2  19.8   1   1   4.6e-34   4.5e-30  105.5  19.8     2   248    79   340    78   345 0.82 Fatty acid desaturase
+DUF3474              PF11960.11   136 BGC0002404_ORF2:gid:LOC101248657_rename1:pid:XP_004252862.1:loc:6286:7426:strand:- -            379     2e-08   34.7   0.0   1   1     6e-12   5.9e-08   33.1   0.0    92   132    17    57     5    60 0.91 Domain of unknown function (DUF3474)
+Wax2_C               PF12076.11   164 BGC0002404_ORF3:gid:LOC101268663:pid:XP_004252845.1:loc:16484:19228:strand:+ -            620   1.5e-73  246.0   0.0   1   1   2.5e-77   2.5e-73  245.3   0.0     1   164   450   614   450   614 0.99 WAX2 C-terminal domain
+FA_hydroxylase       PF04116.16   133 BGC0002404_ORF3:gid:LOC101268663:pid:XP_004252845.1:loc:16484:19228:strand:+ -            620   3.3e-22   79.4  19.3   1   1   3.3e-26   3.3e-22   79.4  19.3     7   133   133   268   127   268 0.87 Fatty acid hydroxylase
+adh_short            PF00106.28   195 BGC0002404_ORF4:gid:LOC101268370:pid:XP_004252844.1:loc:22174:23152:strand:- -            270   2.4e-51  174.1   0.0   1   1   4.9e-55   3.2e-51  173.7   0.0     1   194    10   211    10   212 0.94 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002404_ORF4:gid:LOC101268370:pid:XP_004252844.1:loc:22174:23152:strand:- -            270   3.4e-46  157.9   0.0   1   1   5.9e-50   3.9e-46  157.7   0.0     1   233    16   259    16   260 0.91 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0002404_ORF4:gid:LOC101268370:pid:XP_004252844.1:loc:22174:23152:strand:- -            270   9.3e-08   32.3   0.1   1   1     2e-11   1.3e-07   31.8   0.1     3   162    12   179    10   195 0.81 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002404.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002404.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002404.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:16:42 2023
+# [ok]

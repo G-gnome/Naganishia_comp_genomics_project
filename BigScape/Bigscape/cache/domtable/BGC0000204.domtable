@@ -1,0 +1,36 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Anthrone_oxy         PF08592.14   107 BGC0000204_ORF1:gid:benG:pid:CAM58794.1:loc:4242:4698:strand:+ -            151   2.4e-08   34.3   1.1   1   1   1.2e-12   2.4e-08   34.3   1.1     5   105    48   140    44   142 0.82 Anthrone oxygenase
+Methyltransf_2       PF00891.21   210 BGC0000204_ORF2:gid:benF:pid:CAM58795.1:loc:4866:6045:strand:- -            392   1.9e-32  112.5   0.0   1   1   1.2e-36   2.4e-32  112.1   0.0     1   209   159   367   159   368 0.94 O-methyltransferase domain
+Cyclase_polyket      PF04673.15   104 BGC0000204_ORF3:gid:benE:pid:CAM58796.1:loc:6111:6432:strand:+ -            106   8.1e-40  135.4   0.2   1   1   4.6e-44     9e-40  135.3   0.2     1   104     2   104     2   104 0.99 Polyketide synthesis cyclase
+Cupin_2              PF07883.14    71 BGC0000204_ORF4:gid:benD:pid:CAM58797.1:loc:6431:6875:strand:+ -            147     6e-16   58.0   0.9   1   1   6.1e-20     6e-16   58.0   0.9     4    68    57   122    54   125 0.93 Cupin domain
+Cupin_1              PF00190.25   151 BGC0000204_ORF4:gid:benD:pid:CAM58797.1:loc:6431:6875:strand:+ -            147   5.6e-05   22.9   0.1   1   1   9.5e-09   9.3e-05   22.2   0.1    49   111    67   123    64   126 0.90 Cupin
+ketoacyl-synt        PF00109.29   253 BGC0000204_ORF5:gid:benA:pid:CAM58798.1:loc:6864:8136:strand:+ -            423   1.7e-48  165.5  10.0   1   1   4.6e-52   4.5e-48  164.1   6.3     3   253     6   254     4   254 0.88 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000204_ORF5:gid:benA:pid:CAM58798.1:loc:6864:8136:strand:+ -            423   5.4e-35  120.1   1.0   1   1   5.5e-39   5.4e-35  120.1   1.0     1   118   262   376   262   377 0.97 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000204_ORF6:gid:benB:pid:CAM58799.1:loc:8132:9362:strand:+ -            409   5.9e-35  121.2   1.7   1   1   7.6e-39   7.5e-35  120.8   1.1     5   252     3   240     2   241 0.86 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000204_ORF6:gid:benB:pid:CAM58799.1:loc:8132:9362:strand:+ -            409     9e-23   80.6   0.0   1   1   1.6e-26   1.5e-22   79.9   0.0     1   118   250   359   250   360 0.92 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000204_ORF7:gid:benC:pid:CAM58800.1:loc:9435:9696:strand:+ -             86   9.2e-11   42.0   0.2   1   1   5.7e-15   1.1e-10   41.7   0.2    13    67    26    78     7    78 0.88 Phosphopantetheine attachment site
+Polyketide_cyc       PF03364.23   130 BGC0000204_ORF8:gid:benH:pid:CAM58801.1:loc:9697:10537:strand:+ -            279   5.7e-13   49.3   1.7   1   1   1.7e-16   1.1e-12   48.4   1.7     1   110    11   121    11   139 0.92 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.12   142 BGC0000204_ORF8:gid:benH:pid:CAM58801.1:loc:9697:10537:strand:+ -            279   9.4e-12   45.6   1.8   1   1   2.8e-15   1.8e-11   44.6   1.8     5   142     6   145     2   145 0.83 Polyketide cyclase / dehydrase and lipid transport
+ABM                  PF03992.19    78 BGC0000204_ORF8:gid:benH:pid:CAM58801.1:loc:9697:10537:strand:+ -            279   1.6e-10   41.1   1.2   1   1   5.6e-14   3.7e-10   39.9   0.5     3    72   179   247   177   251 0.94 Antibiotic biosynthesis monooxygenase
+ABM                  PF03992.19    78 BGC0000204_ORF9:gid:benJ:pid:CAM58802.1:loc:10530:10878:strand:+ -            115   1.9e-09   37.7   0.1   1   1   1.4e-13   2.8e-09   37.1   0.1     3    68    12    80    10    86 0.82 Antibiotic biosynthesis monooxygenase
+BTAD                 PF03704.20   146 BGC0000204_ORF10:gid:benR:pid:CAM58803.1:loc:11177:13148:strand:+ -            656   4.8e-44  150.4   2.9   1   1   4.9e-48   4.8e-44  150.4   2.9     1   146   107   252   107   252 0.99 Bacterial transcriptional activator domain
+NB-ARC               PF00931.25   252 BGC0000204_ORF10:gid:benR:pid:CAM58803.1:loc:11177:13148:strand:+ -            656   2.2e-09   37.0   0.0   1   1   4.2e-13   4.1e-09   36.1   0.0     6   209   344   537   339   540 0.77 NB-ARC domain
+adh_short_C2         PF13561.9    234 BGC0000204_ORF11:gid:benL:pid:CAM58804.1:loc:13291:14041:strand:- -            249   1.3e-63  214.9   1.1   1   1   3.1e-67   1.5e-63  214.6   1.1     3   233    16   249    13   249 0.94 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0000204_ORF11:gid:benL:pid:CAM58804.1:loc:13291:14041:strand:- -            249   1.9e-48  164.6   0.0   1   1   4.9e-52   2.4e-48  164.3   0.0     2   192     9   198     8   201 0.95 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0000204_ORF11:gid:benL:pid:CAM58804.1:loc:13291:14041:strand:- -            249   1.9e-20   73.6   0.5   1   1   8.2e-24     4e-20   72.6   0.3     4   165    11   171     9   187 0.91 KR domain
+Epimerase            PF01370.24   241 BGC0000204_ORF11:gid:benL:pid:CAM58804.1:loc:13291:14041:strand:- -            249   1.9e-08   34.2   0.2   1   1   1.6e-11   8.1e-08   32.1   0.2     1   239    10   244    10   246 0.68 NAD dependent epimerase/dehydratase family
+ACP_syn_III          PF08545.13    80 BGC0000204_ORF12:gid:benQ:pid:CAM58805.1:loc:14178:15189:strand:- -            336   3.4e-25   87.8   0.8   1   1   5.2e-29   3.4e-25   87.8   0.8     1    80   118   195   118   195 0.99 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ACP_syn_III_C        PF08541.13    90 BGC0000204_ORF12:gid:benQ:pid:CAM58805.1:loc:14178:15189:strand:- -            336   8.4e-24   83.7   0.5   1   1   1.3e-26   8.3e-23   80.5   0.3     1    88   245   333   245   335 0.97 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+Thiolase_N           PF00108.26   260 BGC0000204_ORF12:gid:benQ:pid:CAM58805.1:loc:14178:15189:strand:- -            336   5.2e-08   32.7   5.0   1   1   1.1e-11   6.9e-08   32.3   1.2    21   121    61   160    46   169 0.91 Thiolase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000204.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000204.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000204.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:14:16 2023
+# [ok]

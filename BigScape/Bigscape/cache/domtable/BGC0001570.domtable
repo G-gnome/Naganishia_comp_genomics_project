@@ -1,0 +1,35 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S15        PF02129.21   269 BGC0001570_ORF1:gid::pid:OAL11431.1:loc:0:1095:strand:+ -            364   2.5e-13   50.4   0.4   1   1   4.8e-17   3.2e-13   50.0   0.4    52   264    85   303    35   308 0.76 X-Pro dipeptidyl-peptidase (S15 family)
+Hydrolase_4          PF12146.11   239 BGC0001570_ORF1:gid::pid:OAL11431.1:loc:0:1095:strand:+ -            364   2.1e-12   47.0   0.1   1   1   4.2e-16   2.7e-12   46.6   0.1     3   234    71   309    69   314 0.88 Serine aminopeptidase, S33
+Peptidase_S9         PF00326.24   212 BGC0001570_ORF1:gid::pid:OAL11431.1:loc:0:1095:strand:+ -            364   9.9e-08   31.9   0.4   1   1   2.1e-09   1.4e-05   24.8   0.4     9   169    98   291    92   328 0.73 Prolyl oligopeptidase family
+MFS_3                PF05977.16   524 BGC0001570_ORF2:gid::pid:OAL11432.1:loc:1426:2743:strand:+ -            438   1.2e-21   76.9  36.0   1   1   1.5e-25   1.5e-21   76.6  36.0     5   399    11   410     7   427 0.87 Transmembrane secretion effector
+MFS_1                PF07690.19   353 BGC0001570_ORF2:gid::pid:OAL11432.1:loc:1426:2743:strand:+ -            438   2.5e-20   72.8  47.1   1   1   8.3e-24   8.1e-20   71.2  37.1     8   341    28   359    21   365 0.79 Major Facilitator Superfamily
+AMP-binding          PF00501.31   424 BGC0001570_ORF5:gid::pid:OAL11435.1:loc:4474:7834:strand:+ -           1119   3.3e-72  243.6   0.1   1   1   3.1e-75     2e-71  241.0   0.0    12   424   515   897   506   897 0.85 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001570_ORF5:gid::pid:OAL11435.1:loc:4474:7834:strand:+ -           1119   6.6e-69  232.9   0.0   1   1   1.3e-72   8.6e-69  232.5   0.0     5   445     2   442     1   450 0.95 Condensation domain
+PP-binding           PF00550.28    67 BGC0001570_ORF5:gid::pid:OAL11435.1:loc:4474:7834:strand:+ -           1119   3.4e-10   40.2   0.0   1   1   1.2e-13     8e-10   39.0   0.0     3    66  1037  1098  1035  1099 0.92 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001570_ORF6:gid::pid:OAL11436.1:loc:7833:9771:strand:+ -            645   1.2e-68  231.8   0.0   1   1   2.4e-72   1.5e-68  231.5   0.0     1   424    44   449    44   449 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001570_ORF6:gid::pid:OAL11436.1:loc:7833:9771:strand:+ -            645   1.7e-11   45.1   0.4   1   1     1e-14   6.8e-11   43.1   0.4     1    76   457   532   457   532 0.93 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001570_ORF6:gid::pid:OAL11436.1:loc:7833:9771:strand:+ -            645   1.2e-07   32.0   0.0   1   1   4.2e-11   2.7e-07   30.9   0.0     3    67   571   633   569   633 0.95 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 BGC0001570_ORF7:gid::pid:OAL11475.1:loc:9772:11653:strand:+ -            626     1e-91  307.8   0.0   1   1     2e-95   1.3e-91  307.5   0.0     2   424    42   430    41   430 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0001570_ORF7:gid::pid:OAL11475.1:loc:9772:11653:strand:+ -            626   1.3e-13   51.8   4.5   1   1   1.4e-16     9e-13   49.1   0.8     1    76   438   513   438   513 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001570_ORF7:gid::pid:OAL11475.1:loc:9772:11653:strand:+ -            626     1e-12   48.3   0.2   1   1   3.4e-16   2.2e-12   47.2   0.2     2    67   541   604   540   604 0.95 Phosphopantetheine attachment site
+Condensation         PF00668.23   457 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   1.4e-66  225.2   0.0   1   1   8.3e-70     2e-66  224.7   0.0     5   445    27   450    24   457 0.87 Condensation domain
+Epimerase            PF01370.24   241 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   1.4e-17   64.2   0.0   1   1   1.5e-20   3.7e-17   62.7   0.0     1   231   677   896   677   903 0.81 NAD dependent epimerase/dehydratase family
+NAD_binding_10       PF13460.9    184 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   1.9e-13   50.8   0.1   1   1   1.9e-16   4.5e-13   49.6   0.1     1   131   681   811   681   816 0.77 NAD(P)H-binding
+PP-binding           PF00550.28    67 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   7.2e-11   42.4   0.0   1   1   5.4e-14   1.3e-10   41.5   0.0     2    67   586   649   585   649 0.96 Phosphopantetheine attachment site
+GDP_Man_Dehyd        PF16363.8    332 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   1.3e-09   38.1   0.0   1   1   3.4e-12   8.3e-09   35.4   0.0     1   163   678   810   678   817 0.83 GDP-mannose 4,6 dehydratase
+NmrA                 PF05368.16   233 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   1.7e-08   34.4   0.1   1   1     1e-11   2.5e-08   33.8   0.1     1    88   677   764   677   771 0.85 NmrA-like family
+AMP-binding_C        PF13193.9     76 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   3.5e-07   31.2   0.2   1   1   7.7e-10   1.9e-06   28.9   0.2     5    75   497   563   495   564 0.86 AMP-binding enzyme C-terminal domain
+3Beta_HSD            PF01073.22   280 BGC0001570_ORF8:gid::pid:OAL11476.1:loc:11789:14732:strand:+ -            980   2.5e-07   30.1   0.0   1   1   1.1e-09   2.7e-06   26.7   0.0     1   188   678   838   678   847 0.81 3-beta hydroxysteroid dehydrogenase/isomerase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001570.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001570.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001570.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:39:41 2023
+# [ok]

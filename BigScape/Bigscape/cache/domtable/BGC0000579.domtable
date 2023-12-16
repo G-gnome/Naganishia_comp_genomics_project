@@ -1,0 +1,26 @@
+#                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.24   355 BGC0000579_ORF4:gid::pid:WP_050789791.1:loc:713:2161:strand:+ -            481     1e-37  130.8   0.0   1   1   6.9e-42   1.4e-37  130.4   0.0     2   354    81   465    80   466 0.81 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0000579_ORF6:gid::pid:WP_007385814.1:loc:2157:2421:strand:+ -             87   1.6e-09   38.1   0.0   1   1   9.5e-14   1.9e-09   37.9   0.0     2    67    18    83    17    83 0.92 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0000579_ORF7:gid::pid:WP_007385815.1:loc:2417:2915:strand:+ -            165   2.6e-24   85.5   4.8   1   1   1.3e-28   2.6e-24   85.5   4.8     6   115    26   132    21   135 0.93 Transglutaminase-like superfamily
+ABC_tran             PF00005.30   137 BGC0000579_ORF8:gid::pid:WP_007385816.1:loc:2911:3889:strand:+ -            325   1.5e-28  100.1   0.0   1   1   3.2e-32   2.1e-28   99.7   0.0     3   136    26   167    24   168 0.92 ABC transporter
+AAA_21               PF13304.9    304 BGC0000579_ORF8:gid::pid:WP_007385816.1:loc:2911:3889:strand:+ -            325   7.4e-10   39.2   2.3   1   1   1.2e-10   7.9e-07   29.3   0.1   225   299   127   199    71   202 0.77 AAA domain, putative AbiEii toxin, Type IV TA system
+DUF4162              PF13732.9     81 BGC0000579_ORF8:gid::pid:WP_007385816.1:loc:2911:3889:strand:+ -            325   1.4e-06   29.0   0.0   1   1   3.9e-10   2.6e-06   28.2   0.0     1    80   221   303   221   304 0.86 Domain of unknown function (DUF4162)
+ABC2_membrane        PF01061.27   210 BGC0000579_ORF9:gid::pid:WP_007385817.1:loc:3894:4779:strand:+ -            294   2.1e-33  115.7  10.4   1   1   4.1e-37   2.7e-33  115.3  10.4     2   208    35   244    34   245 0.96 ABC-2 type transporter
+ABC2_membrane_3      PF12698.10   346 BGC0000579_ORF9:gid::pid:WP_007385817.1:loc:3894:4779:strand:+ -            294   3.1e-17   62.8   2.5   1   1   4.8e-21   3.1e-17   62.8   2.5   158   344    84   286    78   288 0.88 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.10   288 BGC0000579_ORF9:gid::pid:WP_007385817.1:loc:3894:4779:strand:+ -            294   5.3e-07   29.3  12.4   1   1   2.7e-10   1.8e-06   27.6  12.4    85   223    96   223    37   294 0.70 ABC-2 family transporter protein
+MauE                 PF07291.14   185 BGC0000579_ORF10:gid::pid:WP_007385818.1:loc:4814:5303:strand:+ -            162   3.5e-10   40.3   4.3   1   1     4e-14   3.9e-10   40.1   4.3    10   136     6   134     1   152 0.84 Methylamine utilisation protein MauE
+DoxX                 PF07681.15    85 BGC0000579_ORF10:gid::pid:WP_007385818.1:loc:4814:5303:strand:+ -            162   9.6e-08   32.7   9.0   1   1   9.8e-12   9.6e-08   32.7   9.0     3    79     7    84     5    92 0.88 DoxX
+Thioredoxin_4        PF13462.9    165 BGC0000579_ORF11:gid::pid:WP_007385819.1:loc:5306:6125:strand:+ -            272   5.8e-17   62.5   0.0   1   1   9.7e-21   9.5e-17   61.8   0.0     4   163    88   269    85   271 0.77 Thioredoxin
+DSBA                 PF01323.23   193 BGC0000579_ORF11:gid::pid:WP_007385819.1:loc:5306:6125:strand:+ -            272   3.6e-07   30.3   0.4   1   1     9e-10   8.8e-06   25.8   0.4     2   179   101   256   100   270 0.79 DSBA-like thioredoxin domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000579.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000579.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000579.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:10:33 2023
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pyridoxal_deC        PF00282.22   375 BGC0001531_ORF1:gid:bsbA:pid:BAX07665.1:loc:1112:2621:strand:+ -            502   7.1e-66  222.6   1.2   1   1     9e-70   8.8e-66  222.3   1.2    15   375    70   430    57   430 0.92 Pyridoxal-dependent decarboxylase conserved domain
+Beta_elim_lyase      PF01212.24   291 BGC0001531_ORF1:gid:bsbA:pid:BAX07665.1:loc:1112:2621:strand:+ -            502   3.4e-08   33.3   0.3   1   1     7e-12   6.9e-08   32.2   0.3    73   221   198   344   136   405 0.79 Beta-eliminating lyase
+Lys_Orn_oxgnase      PF13434.9    341 BGC0001531_ORF2:gid:bsbB:pid:BAX07666.1:loc:2626:3949:strand:+ -            440  3.1e-123  411.4   0.2   1   1  5.9e-127  5.8e-123  410.5   0.0     2   340     5   341     4   342 0.95 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+MFS_1                PF07690.19   353 BGC0001531_ORF3:gid:bsbE:pid:BAX07667.1:loc:3935:5129:strand:+ -            397   7.3e-14   51.6  30.8   1   1   1.1e-15   2.2e-11   43.4  24.7     2   293    14   291    11   316 0.71 Major Facilitator Superfamily
+IucA_IucC            PF04183.15   239 BGC0001531_ORF4:gid:bsbCD1:pid:BAX07668.1:loc:5132:7550:strand:+ -            805   2.1e-70  237.1   0.0   1   1   4.6e-74     3e-70  236.6   0.0     1   239   350   599   350   599 0.97 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0001531_ORF4:gid:bsbCD1:pid:BAX07668.1:loc:5132:7550:strand:+ -            805   7.6e-39  133.9   0.5   1   1   1.9e-42   1.3e-38  133.1   0.5     2   161   621   777   620   779 0.97 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 BGC0001531_ORF4:gid:bsbCD1:pid:BAX07668.1:loc:5132:7550:strand:+ -            805   1.4e-37  128.7   0.0   1   1   3.3e-41   2.2e-37  128.1   0.0     2   144    26   169    25   170 0.96 Acetyltransferase (GNAT) domain
+Acetyltransf_8       PF13523.9    145 BGC0001531_ORF5:gid:bsbC2:pid:BAX07669.1:loc:7552:8143:strand:+ -            196   3.7e-48  163.0   0.3   1   1   4.6e-52   4.5e-48  162.7   0.3     2   145    26   169    25   169 0.99 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.10   138 BGC0001531_ORF5:gid:bsbC2:pid:BAX07669.1:loc:7552:8143:strand:+ -            196   1.5e-06   29.1   0.1   1   1   4.8e-10   4.7e-06   27.4   0.1     3   138    20   162    19   162 0.80 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 BGC0001531_ORF6:gid:bsbD2:pid:BAX07670.1:loc:8132:9953:strand:+ -            606   1.2e-76  257.6   0.0   1   1   1.7e-80   1.7e-76  257.1   0.0     1   239   142   391   142   391 0.98 IucA / IucC family
+FhuF                 PF06276.15   163 BGC0001531_ORF6:gid:bsbD2:pid:BAX07670.1:loc:8132:9953:strand:+ -            606   1.4e-40  139.5   0.3   1   1   2.4e-44   2.3e-40  138.8   0.3     2   161   413   569   412   571 0.97 Ferric iron reductase FhuF-like transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001531.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001531.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001531.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:54:57 2023
+# [ok]

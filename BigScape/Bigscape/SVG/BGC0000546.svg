@@ -1,0 +1,89 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="285.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="275.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (SSHG_03588)
+serine/threonine protein kinase</title>
+			<polygon class=" (SSHG_03588)
+serine/threonine protein kinase" points="10,25 70,25 70,10 100,40 70,70 70,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="37" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lanKC (SSHG_RS17985)
+class III lanthionine synthetase LanKC</title>
+			<polygon class="lanKC (SSHG_RS17985)
+class III lanthionine synthetase LanKC" points="14,25 70,25 70,10 100,40 70,70 70,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SSHG_03589)
+predicted protein</title>
+			<polygon class=" (SSHG_03589)
+predicted protein" points="102,10 107,40 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RamS (PF19402)
+"Lanthionine-containing peptide SapB precursor RamS"</title>
+				<polygon class="PF19402" points="103,32 104,40 103,48" stroke-linejoin="round" width="4" height="24" fill="rgb(78,105,213)" stroke="rgb(62,84,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSHG_RS17990)
+SapB/AmfS family lanthipeptide</title>
+			<polygon class=" (SSHG_RS17990)
+SapB/AmfS family lanthipeptide" points="103,10 107,40 103,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SSHG_03590)
+ABC transporter ATP-binding protein</title>
+			<polygon class=" (SSHG_03590)
+ABC transporter ATP-binding protein" points="115,25 145,25 145,10 175,40 145,70 145,55 115,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="116" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="148,28 159,28 162,31 162,49 159,52 148,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSHG_RS17995)
+ABC transporter ATP-binding protein/permease</title>
+			<polygon class=" (SSHG_RS17995)
+ABC transporter ATP-binding protein/permease" points="118,25 146,25 146,10 176,40 146,70 146,55 118,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SSHG_RS18000)
+ABC transporter ATP-binding protein/permease</title>
+			<polygon class=" (SSHG_RS18000)
+ABC transporter ATP-binding protein/permease" points="176,25 210,25 210,10 240,40 210,70 210,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="218,28 224,28 232,36 232,44 224,52 218,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSHG_RS18005)
+LuxR C-terminal-related transcriptional regulator</title>
+			<polygon class=" (SSHG_RS18005)
+LuxR C-terminal-related transcriptional regulator" points="262,40 275,10 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SSHG_03592)
+two-component system response regulator</title>
+			<polygon class=" (SSHG_03592)
+two-component system response regulator" points="262,40 275,10 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="265,40 267,36 267,44" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

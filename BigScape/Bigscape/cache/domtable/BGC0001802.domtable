@@ -1,0 +1,22 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+APH                  PF01636.26   239 BGC0001802_ORF2:gid::pid:ATJ00793.1:loc:1123:2293:strand:+ -            389     4e-12   46.6   0.1   1   1   2.7e-16   5.3e-12   46.2   0.1    18   209    76   280    59   319 0.71 Phosphotransferase enzyme family
+HopA1                PF17914.4    170 BGC0001802_ORF3:gid::pid:ATJ00794.1:loc:2289:3294:strand:+ -            334     8e-36  123.5   0.0   1   1   9.6e-40   1.9e-35  122.3   0.0     3   170   150   326   149   326 0.94 HopA1 effector protein family
+Flavoprotein         PF02441.22   157 BGC0001802_ORF5:gid:thoF:pid:ATJ00796.1:loc:4234:4840:strand:+ -            201   2.2e-31  108.9   0.1   1   1   1.3e-35   2.6e-31  108.7   0.1     2   137    16   171    15   194 0.87 Flavoprotein
+PrmA                 PF06325.16   295 BGC0001802_ORF6:gid:thoG:pid:ATJ00797.1:loc:4847:6065:strand:+ -            405   3.4e-12   46.5   0.0   1   1     8e-16   5.2e-12   45.9   0.0   153   237   126   212   123   235 0.82 Ribosomal protein L11 methyltransferase (PrmA)
+Met_10               PF02475.19   199 BGC0001802_ORF6:gid:thoG:pid:ATJ00797.1:loc:4847:6065:strand:+ -            405   4.5e-05   23.4   0.0   1   1   1.1e-08     7e-05   22.8   0.0    93   171   127   203   119   242 0.82 Met-10+ like-protein
+YcaO                 PF02624.19   322 BGC0001802_ORF7:gid::pid:ATJ00798.1:loc:6102:7455:strand:+ -            450   2.2e-66  224.5   3.8   1   1   1.9e-70   3.8e-66  223.7   2.4     1   322    69   412    69   412 0.84 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+TfuA                 PF07812.15   120 BGC0001802_ORF8:gid:thoI:pid:ATJ00799.1:loc:7469:8162:strand:+ -            230     2e-42  143.8   0.0   1   1   1.5e-46   2.9e-42  143.3   0.0     1   120    51   168    51   168 0.99 TfuA-like protein
+PhyH                 PF05721.16   211 BGC0001802_ORF9:gid:thoJ:pid:ATJ00800.1:loc:8158:9031:strand:+ -            290   2.9e-24   86.6   0.1   1   1   2.6e-28   5.2e-24   85.8   0.1     1   209    12   209    12   211 0.87 Phytanoyl-CoA dioxygenase (PhyH)
+Peptidase_C1         PF00112.26   219 BGC0001802_ORF10:gid:thoK:pid:ATJ00801.1:loc:9027:9861:strand:+ -            277   1.3e-09   38.6   0.0   1   1   9.8e-14   1.9e-09   38.0   0.0    15   199    48   251    37   257 0.72 Papain family cysteine protease
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001802.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001802.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001802.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:07:59 2023
+# [ok]

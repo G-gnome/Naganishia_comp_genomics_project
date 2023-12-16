@@ -1,0 +1,41 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RGI_lyase            PF18370.4     86 BGC0000883_ORF1:gid::pid:AGG35686.1:loc:0:201:strand:- -             66   1.9e-10   41.0   0.0   1   1   1.2e-14   2.4e-10   40.7   0.0     1    37    29    66    29    66 0.93 Rhamnogalacturonan I lyases beta-sheet domain
+HTH_3                PF01381.25    55 BGC0000883_ORF2:gid::pid:AGG35687.1:loc:339:909:strand:- -            189   1.7e-14   53.7   0.1   1   1   4.8e-18   2.3e-14   53.3   0.1     1    53    19    71    19    73 0.96 Helix-turn-helix
+HTH_31               PF13560.9     64 BGC0000883_ORF2:gid::pid:AGG35687.1:loc:339:909:strand:- -            189   8.4e-12   45.4   2.0   1   1   3.4e-15   1.7e-11   44.4   2.0     3    57    16    69    15    76 0.93 Helix-turn-helix domain
+HTH_26               PF13443.9     63 BGC0000883_ORF2:gid::pid:AGG35687.1:loc:339:909:strand:- -            189   4.6e-07   30.3   0.0   1   1   1.5e-10   7.2e-07   29.7   0.0    10    55    27    71    19    88 0.92 Cro/C1-type HTH DNA-binding domain
+Cupin_2              PF07883.14    71 BGC0000883_ORF2:gid::pid:AGG35687.1:loc:339:909:strand:- -            189   8.9e-07   28.7   0.1   1   1   3.1e-10   1.5e-06   27.9   0.1     7    61   122   177   117   186 0.79 Cupin domain
+AzlC                 PF03591.17   136 BGC0000883_ORF3:gid::pid:AGG35688.1:loc:978:1677:strand:+ -            232   3.5e-33  115.1  10.2   1   1   1.8e-37   3.5e-33  115.1  10.2     2   136    24   159    23   159 0.93 AzlC protein
+AzlD                 PF05437.15    99 BGC0000883_ORF4:gid::pid:AGG35689.1:loc:1673:2009:strand:+ -            111   1.4e-13   51.0   9.4   1   1   8.1e-18   1.6e-13   50.8   9.4     1    99    11   106    11   106 0.96 Branched-chain amino acid transport protein (AzlD)
+Asp23                PF03780.16   108 BGC0000883_ORF5:gid::pid:AGG35690.1:loc:2034:2538:strand:- -            167   1.2e-29  102.9   6.7   1   1   7.4e-34   1.5e-29  102.7   6.7     2   108    37   147    36   147 0.95 Asp23 family, cell envelope-related function
+MFS_1                PF07690.19   353 BGC0000883_ORF6:gid::pid:AGG35691.1:loc:2661:3930:strand:- -            422   6.4e-16   58.3  42.7   1   1   1.3e-16   2.6e-12   46.5  19.9    13   266    36   286    27   289 0.73 Major Facilitator Superfamily
+GerE                 PF00196.22    57 BGC0000883_ORF8:gid::pid:AGG35693.1:loc:4437:5523:strand:- -            361     3e-09   36.4   0.0   1   1   8.7e-13   5.7e-09   35.6   0.0     8    55   287   334   284   336 0.95 Bacterial regulatory proteins, luxR family
+Sigma70_r4_2         PF08281.15    54 BGC0000883_ORF8:gid::pid:AGG35693.1:loc:4437:5523:strand:- -            361   2.6e-06   27.1   0.0   1   1   7.8e-10   5.1e-06   26.2   0.0    14    49   284   319   279   324 0.85 Sigma-70, region 4
+HTH_23               PF13384.9     50 BGC0000883_ORF8:gid::pid:AGG35693.1:loc:4437:5523:strand:- -            361   4.4e-06   26.5   0.1   1   1   1.6e-09     1e-05   25.4   0.1     5    40   284   319   280   328 0.85 Homeodomain-like domain
+Radical_SAM          PF04055.24   167 BGC0000883_ORF11:gid::pid:AGG35696.1:loc:7287:8346:strand:+ -            352     2e-19   70.7   0.0   1   1   3.8e-23   3.8e-19   69.8   0.0     3   154    34   176    32   185 0.93 Radical SAM superfamily
+DegT_DnrJ_EryC1      PF01041.20   360 BGC0000883_ORF13:gid::pid:AGG35698.1:loc:9302:10529:strand:+ -            408     3e-46  158.4   0.0   1   1   2.5e-49   4.9e-45  154.4   0.0    23   321    57   344    36   402 0.83 DegT/DnrJ/EryC1/StrS aminotransferase family
+MFS_1                PF07690.19   353 BGC0000883_ORF14:gid::pid:AGG35699.1:loc:10573:11821:strand:+ -            415   4.3e-15   55.6  51.7   1   1   1.6e-16   3.1e-12   46.2  27.4    13   290    32   295    24   298 0.81 Major Facilitator Superfamily
+LAL_C2               PF18603.4     78 BGC0000883_ORF15:gid::pid:AGG35700.1:loc:11908:13168:strand:+ -            419   6.4e-15   55.2   0.1   1   1   6.5e-18   4.3e-14   52.6   0.2     3    73   340   410   339   415 0.91 L-amino acid ligase C-terminal domain 2
+Aminotran_1_2        PF00155.24   363 BGC0000883_ORF18:gid::pid:AGG35703.1:loc:16393:17503:strand:- -            369   2.4e-22   79.8   0.0   1   1   5.8e-26   1.1e-21   77.5   0.0    38   362    47   354    36   355 0.78 Aminotransferase class I and II
+PIN                  PF01850.24   122 BGC0000883_ORF20:gid::pid:AGG35705.1:loc:19556:19970:strand:- -            137   1.7e-05   25.5   0.9   1   1   2.7e-09   5.2e-05   23.9   0.9    26   113    34   120    12   124 0.78 PIN domain
+Response_reg         PF00072.27   112 BGC0000883_ORF23:gid::pid:AGG35708.1:loc:21659:22184:strand:+ -            174   1.5e-25   89.6   0.1   1   1   9.2e-30   1.8e-25   89.4   0.1     1   111    24   134    24   135 0.96 Response regulator receiver domain
+DALR_1               PF05746.18   119 BGC0000883_ORF24:gid::pid:AGG35709.1:loc:22322:23525:strand:+ -            400   1.1e-16   61.1   0.0   1   1   1.8e-20   1.7e-16   60.6   0.0     1   119   286   400   286   400 0.90 DALR anticodon binding domain
+Arg_tRNA_synt_N      PF03485.19    85 BGC0000883_ORF24:gid::pid:AGG35709.1:loc:22322:23525:strand:+ -            400   6.4e-15   55.7   0.0   1   1   1.7e-18   1.7e-14   54.3   0.0     4    85    11    92     6    92 0.85 Arginyl tRNA synthetase N terminal domain
+Orn_Arg_deC_N        PF02784.19   247 BGC0000883_ORF25:gid::pid:AGG35710.1:loc:23436:24933:strand:+ -            498   9.2e-69  231.7   0.1   1   1   1.3e-72   1.2e-68  231.2   0.1     3   247   108   362   106   362 0.98 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.25    95 BGC0000883_ORF25:gid::pid:AGG35710.1:loc:23436:24933:strand:+ -            498   1.3e-14   54.2   0.0   1   1     2e-18     2e-14   53.7   0.0    11    95   368   454   101   454 0.81 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+Homoserine_dh        PF00742.22   173 BGC0000883_ORF26:gid::pid:AGG35711.1:loc:25114:26425:strand:+ -            436   6.5e-68  228.1   0.2   1   1   2.1e-71   1.4e-67  227.1   0.1     1   173   145   325   145   325 0.99 Homoserine dehydrogenase
+NAD_binding_3        PF03447.19   117 BGC0000883_ORF26:gid::pid:AGG35711.1:loc:25114:26425:strand:+ -            436   3.4e-21   76.2   4.5   1   1   6.9e-25   4.5e-21   75.8   1.1     1   117    19   137    19   137 0.98 Homoserine dehydrogenase, NAD binding domain
+ACT                  PF01842.28    66 BGC0000883_ORF26:gid::pid:AGG35711.1:loc:25114:26425:strand:+ -            436   1.8e-14   53.3   0.2   1   1   7.3e-18   4.8e-14   52.0   0.2     3    65   360   422   358   423 0.96 ACT domain
+PALP                 PF00291.28   294 BGC0000883_ORF27:gid::pid:AGG35712.1:loc:26431:27490:strand:+ -            352   1.4e-72  244.8   5.0   1   1   8.1e-77   1.6e-72  244.6   5.0     2   294    26   319    25   319 0.95 Pyridoxal-phosphate dependent enzyme
+GHMP_kinases_N       PF00288.29    66 BGC0000883_ORF28:gid::pid:AGG35713.1:loc:27676:28714:strand:+ -            345     5e-12   46.0   1.1   1   1   5.5e-16   1.1e-11   44.9   1.1     2    66   124   187   123   187 0.86 GHMP kinases N terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000883.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000883.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000883.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:11:57 2023
+# [ok]

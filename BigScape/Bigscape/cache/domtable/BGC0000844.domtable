@@ -1,0 +1,30 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ORF_12_N             PF18042.4     94 BGC0000844_ORF2:gid::pid:AAP13501.1:loc:361:1738:strand:+ -            458   4.2e-24   84.9   0.0   1   1     9e-28   8.8e-24   83.9   0.0     2    94    25   114    24   114 0.98 ORF 12 gene product N-terminal
+Beta-lactamase2      PF13354.9    215 BGC0000844_ORF2:gid::pid:AAP13501.1:loc:361:1738:strand:+ -            458   1.3e-22   80.5   0.0   1   1   1.9e-26   1.8e-22   80.0   0.0    13   121   161   269   146   346 0.89 Beta-lactamase enzyme family
+EamA                 PF00892.23   137 BGC0000844_ORF3:gid::pid:AAP13502.1:loc:1734:2757:strand:+ -            340   9.5e-30  103.7  26.9   1   2   3.4e-18   6.7e-14   52.4  11.4     5   135     7   129     6   131 0.92 EamA-like transporter family
+EamA                 PF00892.23   137 BGC0000844_ORF3:gid::pid:AAP13502.1:loc:1734:2757:strand:+ -            340   9.5e-30  103.7  26.9   2   2   9.8e-20   1.9e-15   57.3   7.5     3   134   141   281   139   284 0.90 EamA-like transporter family
+Acetyltransf_1       PF00583.28   117 BGC0000844_ORF4:gid::pid:AAP13503.1:loc:2708:3728:strand:- -            339   7.2e-16   58.6   0.0   1   2   3.5e-12   2.3e-08   34.4   0.0    35    99    61   123    24   131 0.83 Acetyltransferase (GNAT) family
+Acetyltransf_1       PF00583.28   117 BGC0000844_ORF4:gid::pid:AAP13503.1:loc:2708:3728:strand:- -            339   7.2e-16   58.6   0.0   2   2   2.1e-08   0.00014   22.2   0.1    37   117   238   322   204   322 0.73 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.10   128 BGC0000844_ORF4:gid::pid:AAP13503.1:loc:2708:3728:strand:- -            339   1.3e-10   41.5   0.0   1   1   5.2e-10   3.4e-06   27.1   0.0    34    91    62   124    56   132 0.82 Acetyltransferase (GNAT) domain
+SBP_bac_5            PF00496.25   377 BGC0000844_ORF5:gid::pid:AAP13504.1:loc:3821:5510:strand:- -            562   4.7e-61  207.0   0.0   1   1   2.8e-65   5.5e-61  206.8   0.0     3   374    82   472    80   475 0.94 Bacterial extracellular solute-binding proteins, family 5 Middle
+FemAB_like           PF04339.15   370 BGC0000844_ORF6:gid::pid:AAP13505.1:loc:5506:6712:strand:- -            401   1.6e-15   57.3   0.0   1   1   2.5e-19   2.4e-15   56.7   0.0   118   332   155   379   138   385 0.85 Peptidogalycan biosysnthesis/recognition
+Acetyltransf_6       PF13480.10   142 BGC0000844_ORF6:gid::pid:AAP13505.1:loc:5506:6712:strand:- -            401   1.4e-09   38.4   8.7   1   1   7.7e-12   7.5e-08   32.8   2.3     2   139   223   364   222   367 0.86 Acetyltransferase (GNAT) domain
+ATP-grasp_4          PF13535.9    160 BGC0000844_ORF7:gid::pid:AAP13506.1:loc:6708:8022:strand:- -            437   6.2e-21   74.8   0.0   1   1   1.5e-24   9.5e-21   74.2   0.0     2   155   163   308   162   313 0.91 ATP-grasp domain
+LAL_C2               PF18603.4     78 BGC0000844_ORF7:gid::pid:AAP13506.1:loc:6708:8022:strand:- -            437   3.5e-17   62.5   0.2   1   1   4.4e-20   2.9e-16   59.5   0.1     1    78   350   426   350   426 0.96 L-amino acid ligase C-terminal domain 2
+ATPgrasp_N           PF18130.4     81 BGC0000844_ORF7:gid::pid:AAP13506.1:loc:6708:8022:strand:- -            437   1.3e-11   45.0   0.1   1   1   6.1e-15     4e-11   43.5   0.1     2    81    32   118    31   118 0.90 ATP-grasp N-terminal domain
+Transpeptidase       PF00905.25   306 BGC0000844_ORF8:gid::pid:AAP13507.1:loc:8294:9779:strand:- -            494   2.8e-67  227.2   0.2   1   1   1.8e-71   3.6e-67  226.9   0.2     1   306   159   489   159   489 0.88 Penicillin binding protein transpeptidase domain
+Transpeptidase       PF00905.25   306 BGC0000844_ORF9:gid::pid:AAP13508.1:loc:10385:12539:strand:+ -            717   8.6e-81  271.6   0.2   1   1   1.1e-84   1.1e-80  271.2   0.2     1   305   298   658   298   659 0.94 Penicillin binding protein transpeptidase domain
+PBP_dimer            PF03717.18   181 BGC0000844_ORF9:gid::pid:AAP13508.1:loc:10385:12539:strand:+ -            717     3e-35  122.3   0.0   1   1     5e-39   4.9e-35  121.6   0.0     2   178    60   245    59   247 0.92 Penicillin-binding Protein dimerisation domain
+p450                 PF00067.25   463 BGC0000844_ORF10:gid::pid:AAR16180.1:loc:12734:13901:strand:+ -            389   1.7e-27   96.5   0.0   1   1   1.3e-28   2.6e-24   85.9   0.0   206   433   172   362   157   376 0.91 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000844.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000844.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000844.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:48:25 2023
+# [ok]

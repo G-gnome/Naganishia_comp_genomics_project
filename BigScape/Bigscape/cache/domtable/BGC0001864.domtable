@@ -1,0 +1,31 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6568              PF20207.1    161 BGC0001864_ORF1:gid::pid:WP_014929838.1:loc:0:519:strand:- -            172   1.8e-12   47.5  11.4   1   1   5.5e-16   2.7e-12   46.9  11.4     2   157     3   163     2   166 0.75 Family of unknown function (DUF6568)
+Thioredoxin          PF00085.23   103 BGC0001864_ORF1:gid::pid:WP_014929838.1:loc:0:519:strand:- -            172   9.6e-08   32.1   0.3   1   1     5e-11   2.5e-07   30.8   0.2    16    87    65   144    50   155 0.75 Thioredoxin
+Thioredoxin_2        PF13098.9    109 BGC0001864_ORF1:gid::pid:WP_014929838.1:loc:0:519:strand:- -            172     7e-07   29.8   0.1   1   1   2.7e-10   1.3e-06   28.9   0.1     3    93    66   142    64   153 0.76 Thioredoxin-like domain
+Thioredoxin_7        PF13899.9     83 BGC0001864_ORF1:gid::pid:WP_014929838.1:loc:0:519:strand:- -            172   8.3e-07   29.2   0.0   1   1   2.6e-10   1.3e-06   28.6   0.0    15    81    66   136    59   138 0.85 Thioredoxin-like
+Thioredoxin          PF00085.23   103 BGC0001864_ORF2:gid::pid:WP_014929839.1:loc:558:957:strand:- -            132   1.2e-12   47.8   0.2   1   1     3e-16   1.5e-12   47.5   0.2     5   102    33   131    29   132 0.86 Thioredoxin
+Thioredoxin_2        PF13098.9    109 BGC0001864_ORF2:gid::pid:WP_014929839.1:loc:558:957:strand:- -            132     9e-09   35.9   0.2   1   1   4.7e-12   2.3e-08   34.6   0.2     7   107    48   128    16   130 0.81 Thioredoxin-like domain
+Thioredoxin_3        PF13192.9     76 BGC0001864_ORF2:gid::pid:WP_014929839.1:loc:558:957:strand:- -            132   1.3e-07   31.7   0.0   1   1   3.8e-11   1.9e-07   31.1   0.0     7    74    55   129    50   131 0.83 Thioredoxin domain
+TraF                 PF13728.9    224 BGC0001864_ORF2:gid::pid:WP_014929839.1:loc:558:957:strand:- -            132   1.7e-07   31.5   0.0   1   1   3.9e-11   1.9e-07   31.2   0.0   105   202    23   111    20   130 0.83 F plasmid transfer operon protein
+ABC_tran             PF00005.30   137 BGC0001864_ORF3:gid::pid:WP_014929840.1:loc:953:2894:strand:- -            646   1.9e-09   38.3   0.0   1   1     2e-13   3.8e-09   37.3   0.0     2   133   444   588   443   591 0.85 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0001864_ORF4:gid::pid:WP_014929841.1:loc:2916:5031:strand:- -            704   1.6e-30  106.8  34.4   1   1   4.5e-34     3e-30  106.0  34.4     2   272   172   443   171   445 0.94 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0001864_ORF4:gid::pid:WP_014929841.1:loc:2916:5031:strand:- -            704   2.1e-23   83.5   0.5   1   1   6.7e-27   4.4e-23   82.4   0.5     1   135   506   653   506   655 0.93 ABC transporter
+Peptidase_C39        PF03412.18   133 BGC0001864_ORF4:gid::pid:WP_014929841.1:loc:2916:5031:strand:- -            704   3.3e-16   59.4   1.1   1   1   1.1e-19   7.2e-16   58.3   0.3     2   131     6   144     5   146 0.88 Peptidase C39 family
+Glycos_transf_2      PF00535.29   170 BGC0001864_ORF5:gid::pid:WP_014929842.1:loc:5049:6450:strand:- -            466   4.9e-19   68.9   0.3   1   1   1.5e-22   9.6e-19   67.9   0.3     1   104    89   186    89   238 0.87 Glycosyl transferase family 2
+Glyco_tranf_2_4      PF13704.9     96 BGC0001864_ORF5:gid::pid:WP_014929842.1:loc:5049:6450:strand:- -            466   3.1e-10   40.6   0.4   1   1   1.8e-13   1.2e-09   38.8   0.4     1    85    95   175    95   186 0.88 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.12   276 BGC0001864_ORF5:gid::pid:WP_014929842.1:loc:5049:6450:strand:- -            466   9.4e-08   32.0   2.1   1   1   3.1e-11     2e-07   30.9   2.1     4   135    90   213    88   227 0.75 Glycosyltransferase like family 2
+HTH_18               PF12833.10    81 BGC0001864_ORF7:gid::pid:WP_014929844.1:loc:6808:7555:strand:- -            248   9.2e-16   58.0   0.0   1   1   1.4e-19   1.4e-15   57.5   0.0     5    80   169   243   165   244 0.93 Helix-turn-helix domain
+HTH_AraC             PF00165.26    42 BGC0001864_ORF7:gid::pid:WP_014929844.1:loc:6808:7555:strand:- -            248   2.2e-12   46.9   0.0   1   1   1.5e-10   1.4e-06   28.3   0.0     7    42   207   243   203   243 0.92 Bacterial regulatory helix-turn-helix proteins, AraC family
+CdAMP_rec            PF06153.14   109 BGC0001864_ORF8:gid::pid:WP_003722052.1:loc:8437:8767:strand:- -            109   2.4e-53  179.1   0.1   1   1   1.3e-57   2.6e-53  179.0   0.1     1   109     1   109     1   109 0.99 Cyclic-di-AMP receptor
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001864.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001864.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001864.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:29:19 2023
+# [ok]

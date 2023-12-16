@@ -1,0 +1,35 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glyoxalase           PF00903.28   128 BGC0000057_ORF1:gid::pid:EAA59561.1:loc:0:552:strand:- -            162   4.4e-11   43.2   0.0   1   1   3.2e-15   6.4e-11   42.7   0.0     5   128    13   153    10   153 0.71 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Glyco_hydro_62       PF03664.16   272 BGC0000057_ORF2:gid::pid:EAA59562.1:loc:3884:4862:strand:- -            325  1.9e-152  506.3  12.0   1   1  1.1e-156  2.2e-152  506.2  12.0     1   272    24   296    24   296 0.99 Glycosyl hydrolase family 62
+ketoacyl-synt        PF00109.29   253 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   1.4e-65  221.5   0.0   1   1   1.2e-68   3.3e-65  220.3   0.0     2   253   349   603   348   603 0.92 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.24   319 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   9.1e-45  153.7   0.0   1   1   8.5e-48   2.4e-44  152.3   0.0     1   305   881  1197   881  1210 0.84 Acyl transferase domain
+SAT                  PF16073.8    240 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   1.1e-37  130.1   0.5   1   1   3.9e-41   1.1e-37  130.1   0.5     9   227    14   230     6   241 0.94 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Ketoacyl-synt_C      PF02801.25   119 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   6.1e-34  116.7   1.2   1   1     6e-37   1.7e-33  115.3   1.2     2   117   612   729   611   730 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   1.5e-24   86.2   0.2   1   2   4.5e-13   1.3e-09   38.4   0.0     2    63  1645  1708  1644  1712 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   1.5e-24   86.2   0.2   2   2   3.7e-15     1e-11   45.0   0.0     3    62  1747  1806  1745  1810 0.96 Phosphopantetheine attachment site
+Thioesterase         PF00975.23   230 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   8.6e-23   81.8   0.0   1   1   5.6e-25   1.6e-21   77.7   0.0    29   215  1862  2082  1843  2095 0.72 Thioesterase domain
+PS-DH                PF14765.9    297 BGC0000057_ORF3:gid::pid:EAA59563.1:loc:5473:11975:strand:- -           2103   2.7e-14   53.2   0.8   1   1   9.8e-18   2.7e-14   53.2   0.8    32   293  1303  1579  1301  1581 0.87 Polyketide synthase dehydratase
+SnoaL_4              PF13577.9    126 BGC0000057_ORF4:gid::pid:EAA59564.1:loc:12799:13492:strand:+ -            213   5.1e-11   42.8   0.1   1   1   4.9e-15   9.6e-11   42.0   0.1     5   125     4   128     2   129 0.91 SnoaL-like domain
+Amidohydro_2         PF04909.17   288 BGC0000057_ORF5:gid::pid:EAA59565.1:loc:13605:14668:strand:- -            331   3.9e-44  151.6   0.4   1   1   2.6e-48     5e-44  151.3   0.4    57   287    68   324    39   325 0.92 Amidohydrolase
+Tyrosinase           PF00264.23   222 BGC0000057_ORF6:gid::pid:EAA59566.1:loc:15037:16212:strand:+ -            369     1e-43  150.3   3.2   1   1   7.1e-48   1.4e-43  149.9   3.2     1   221    94   327    94   328 0.91 Common central domain of tyrosinase
+OrsD                 PF12013.11   114 BGC0000057_ORF7:gid::pid:EAA59567.1:loc:16732:18238:strand:- -            501   1.1e-29  103.2   0.0   1   1   1.3e-33   2.5e-29  102.2   0.0     2   114    11   112    10   112 0.96 Orsellinic acid/F9775 biosynthesis cluster protein D
+ADH_zinc_N           PF00107.29   130 BGC0000057_ORF8:gid::pid:EAA59568.1:loc:18791:19894:strand:+ -            348   4.5e-11   43.0   1.1   1   1   7.1e-15     7e-11   42.4   0.3     2    90   183   272   182   294 0.81 Zinc-binding dehydrogenase
+ADH_N                PF08240.15   109 BGC0000057_ORF8:gid::pid:EAA59568.1:loc:18791:19894:strand:+ -            348   1.9e-10   40.7   0.5   1   1   2.4e-13   2.4e-09   37.2   0.4     1    63    28    89    28    95 0.94 Alcohol dehydrogenase GroES-like domain
+Glyco_hydro_3_C      PF01915.25   204 BGC0000057_ORF9:gid::pid:EAA59569.1:loc:20123:23394:strand:- -            858   1.6e-49  168.7   0.1   1   1   4.6e-53     3e-49  167.9   0.1     1   204   415   675   415   675 0.91 Glycosyl hydrolase family 3 C-terminal domain
+Fn3-like             PF14310.9     71 BGC0000057_ORF9:gid::pid:EAA59569.1:loc:20123:23394:strand:- -            858   1.6e-19   69.9   0.2   1   1   6.1e-23     4e-19   68.6   0.2     1    63   728   789   728   792 0.97 Fibronectin type III-like domain
+Glyco_hydro_3        PF00933.24   319 BGC0000057_ORF9:gid::pid:EAA59569.1:loc:20123:23394:strand:- -            858   4.6e-18   65.9   0.0   1   2   1.4e-11   8.9e-08   32.0   0.0    86   175    93   183    49   194 0.84 Glycosyl hydrolase family 3 N terminal domain
+Glyco_hydro_3        PF00933.24   319 BGC0000057_ORF9:gid::pid:EAA59569.1:loc:20123:23394:strand:- -            858   4.6e-18   65.9   0.0   2   2     2e-11   1.3e-07   31.5   0.0   189   256   262   326   245   346 0.82 Glycosyl hydrolase family 3 N terminal domain
+AA_permease          PF00324.24   479 BGC0000057_ORF10:gid::pid:EAA59570.1:loc:24633:26552:strand:- -            552     5e-93  312.4  29.9   1   1   6.3e-97   6.2e-93  312.1  29.9     2   473    43   504    42   507 0.96 Amino acid permease
+AA_permease_2        PF13520.9    427 BGC0000057_ORF10:gid::pid:EAA59570.1:loc:24633:26552:strand:- -            552   3.8e-21   75.6  31.7   1   1   4.5e-25   4.4e-21   75.4  31.7     2   423    39   487    38   491 0.80 Amino acid permease
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000057.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000057.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000057.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:13:45 2023
+# [ok]

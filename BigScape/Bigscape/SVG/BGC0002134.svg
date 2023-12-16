@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="212.46666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="202.46666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (XBJ1_0572)
+acetylation</title>
+			<polygon class=" (XBJ1_0572)
+acetylation" points="40,25 40,25 40,10 10,40 40,70 40,55 40,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<rect class="PF00583" x="27" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (XBJ1_0573)
+activate carboxylate with ATP and ligate second amino acid</title>
+			<polygon class=" (XBJ1_0573)
+activate carboxylate with ATP and ligate second amino acid" points="82,25 70,25 70,10 40,40 70,70 70,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (XBJ1_0574)
+ligate third amino acid, reduce CoA thioester to aldehyde</title>
+			<polygon class=" (XBJ1_0574)
+ligate third amino acid, reduce CoA thioester to aldehyde" points="164,25 114,25 114,10 84,40 114,70 114,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="96,32 100,28 122,28 122,52 100,52 96,48" stroke-linejoin="round" width="26" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LuxC (PF05893)
+"Acyl-CoA reductase (LuxC)"</title>
+				<rect class="PF05893" x="122" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(101,114,204)" stroke="rgb(80,91,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (XBJ1_0575)
+activate carboxylate with CoA</title>
+			<polygon class=" (XBJ1_0575)
+activate carboxylate with CoA" points="201,25 194,25 194,10 164,40 194,70 194,55 201,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LuxE (PF04443)
+"Acyl-protein synthetase, LuxE"</title>
+				<polygon class="PF04443" points="168,40 180,28 200,28 200,52 180,52" stroke-linejoin="round" width="36" height="24" fill="rgb(87,119,225)" stroke="rgb(69,95,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

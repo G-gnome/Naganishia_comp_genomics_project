@@ -1,0 +1,19 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF5972              PF19397.2     28 BGC0001550_ORF1:gid::pid:WP_106975170.1:loc:814:925:strand:+ -             36   5.1e-17   61.2   0.7   1   1     3e-21     6e-17   61.0   0.7     1    28     2    29     2    29 0.99 Family of unknown function (DUF5972)
+Asn_synthase         PF00733.24   355 BGC0001550_ORF2:gid::pid:WP_037636388.1:loc:952:2818:strand:+ -            621   8.8e-45  154.0   0.3   1   1   5.7e-49   1.1e-44  153.7   0.3     1   354   219   603   219   604 0.86 Asparagine synthase
+PqqD                 PF05402.15    67 BGC0001550_ORF3:gid::pid:WP_030301136.1:loc:2874:3129:strand:+ -             84   1.5e-16   60.6   0.3   1   1   9.2e-21   1.8e-16   60.3   0.3     2    66    18    82    17    83 0.97 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.9    117 BGC0001550_ORF4:gid::pid:WP_030301138.1:loc:3125:3560:strand:+ -            144     9e-25   87.0   2.3   1   1   5.7e-29   1.1e-24   86.7   2.3     8   116    28   134    21   135 0.93 Transglutaminase-like superfamily
+ABC_membrane         PF00664.26   274 BGC0001550_ORF5:gid::pid:WP_078613549.1:loc:3613:5410:strand:+ -            598   4.7e-35  121.7   0.0   1   1   6.3e-39   6.2e-35  121.3   0.0     5   273    16   279    13   280 0.97 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0001550_ORF5:gid::pid:WP_078613549.1:loc:3613:5410:strand:+ -            598   1.8e-27   96.7   0.0   1   1   2.9e-31   2.9e-27   96.0   0.0     1   137   357   506   357   506 0.92 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001550.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001550.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001550.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:09:36 2023
+# [ok]

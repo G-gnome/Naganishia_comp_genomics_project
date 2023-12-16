@@ -1,0 +1,17 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.24   363 BGC0000948_ORF1:gid::pid:CAH08161.1:loc:0:1185:strand:- -            394   2.8e-58  197.9   0.0   1   1     5e-62   3.3e-58  197.7   0.0     2   362    43   383    42   384 0.95 Aminotransferase class I and II
+Beta_elim_lyase      PF01212.24   291 BGC0000948_ORF1:gid::pid:CAH08161.1:loc:0:1185:strand:- -            394   1.3e-06   28.1   0.0   1   1   4.2e-10   2.7e-06   27.0   0.0    36   256    91   298    84   325 0.83 Beta-eliminating lyase
+DAGK_cat             PF00781.27   127 BGC0000948_ORF2:gid::pid:CAH08162.1:loc:1419:2463:strand:+ -            347   8.1e-32  109.6   0.3   1   1     2e-35     2e-31  108.4   0.1     2   127     8   129     7   129 0.98 Diacylglycerol kinase catalytic domain
+YegS_C               PF19279.2    158 BGC0000948_ORF2:gid::pid:CAH08162.1:loc:1419:2463:strand:+ -            347   1.8e-19   70.3   0.0   1   1   1.2e-22   1.2e-18   67.6   0.0     5   140   140   274   136   293 0.91 YegS C-terminal NAD kinase beta sandwich-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000948.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000948.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000948.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:46:27 2023
+# [ok]

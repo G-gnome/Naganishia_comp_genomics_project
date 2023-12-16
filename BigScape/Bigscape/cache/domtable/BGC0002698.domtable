@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_C39        PF03412.18   133 BGC0002698_ORF2:gid::pid:WP_027239422.1:loc:1284:3429:strand:+ -            714   8.4e-34  116.4   0.0   1   1   2.1e-37   1.4e-33  115.7   0.0     2   131     6   133     5   135 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0002698_ORF2:gid::pid:WP_027239422.1:loc:1284:3429:strand:+ -            714   2.4e-31  109.2   0.0   1   1   6.4e-35   4.2e-31  108.4   0.0     2   137   499   647   498   647 0.92 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002698_ORF2:gid::pid:WP_027239422.1:loc:1284:3429:strand:+ -            714     9e-19   68.3  10.6   1   1   1.9e-22   1.2e-18   67.8  10.6     4   270   163   426   161   430 0.96 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002698_ORF3:gid::pid:WP_027239423.1:loc:3425:6224:strand:+ -            932   4.1e-32  111.7   0.0   1   1   8.2e-36     8e-32  110.7   0.0     1   137   713   862   713   862 0.92 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0002698_ORF3:gid::pid:WP_027239423.1:loc:3425:6224:strand:+ -            932   3.4e-18   66.4  16.2   1   1   4.7e-22   4.6e-18   66.0  16.2     3   272   384   650   382   652 0.95 ABC transporter transmembrane region
+Acetyltransf_1       PF00583.28   117 BGC0002698_ORF5:gid::pid:WP_161631300.1:loc:6807:7788:strand:+ -            326   1.3e-10   41.6   0.0   1   1   2.5e-10   1.6e-06   28.4   0.0    57    98    84   124    38   140 0.81 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.10   128 BGC0002698_ORF5:gid::pid:WP_161631300.1:loc:6807:7788:strand:+ -            326   3.8e-06   27.0   0.0   1   1   3.8e-09   2.5e-05   24.4   0.0    37    87    72   123    60   139 0.83 Acetyltransferase (GNAT) domain
+UPF0489              PF12640.10   175 BGC0002698_ORF6:gid::pid:WP_027239425.1:loc:7781:8753:strand:+ -            323   6.9e-11   42.8   0.0   1   1     2e-14     4e-10   40.3   0.0     4   175    25   191    22   191 0.74 UPF0489 domain
+Cupin_8              PF13621.9    254 BGC0002698_ORF7:gid::pid:WP_161631301.1:loc:8749:9607:strand:+ -            285   2.7e-15   57.0   0.0   1   1   2.4e-13   1.6e-09   38.1   0.0    11   170    40   206    29   209 0.83 Cupin-like domain
+DUF4135              PF13575.9    377 BGC0002698_ORF8:gid:lanM:pid:WP_027239427.1:loc:9603:12831:strand:+ -           1075   1.3e-78  265.0   0.0   1   1   1.7e-82   1.7e-78  264.6   0.0     1   375   224   598   224   600 0.91 Domain of unknown function (DUF4135)
+LANC_like            PF05147.16   352 BGC0002698_ORF8:gid:lanM:pid:WP_027239427.1:loc:9603:12831:strand:+ -           1075   5.7e-27   94.3   0.0   1   1   9.8e-31   9.6e-27   93.6   0.0     4   339   726  1062   723  1072 0.87 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002698.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002698.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002698.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:24:51 2023
+# [ok]

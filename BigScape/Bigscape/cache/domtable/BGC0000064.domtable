@@ -1,0 +1,33 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.6e-80  269.8   0.0   1   1     6e-83   5.6e-80  269.1   0.0     2   423  2792  3203  2791  3204 0.86 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   7.5e-76  255.2   0.0   1   1   1.9e-78   1.8e-75  253.9   0.0     2   253    10   260     9   260 0.97 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.3e-63  213.8   0.1   1   1     6e-66   5.6e-63  213.1   0.1     1   293   935  1228   935  1232 0.95 Polyketide synthase dehydratase
+Condensation         PF00668.23   457 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733     4e-63  213.8   0.7   1   1   7.3e-66   6.8e-63  213.0   0.7     6   445  2340  2759  2336  2767 0.87 Condensation domain
+KR                   PF08659.13   180 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733     2e-54  184.4   0.5   1   1     2e-56   1.9e-53  181.2   0.5     2   178  1910  2084  1909  2086 0.98 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   2.8e-44  152.0   0.1   1   1   1.1e-46     1e-43  150.2   0.0     3   304   548   869   547   884 0.85 Acyl transferase domain
+NAD_binding_4        PF07993.15   257 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.8e-44  150.9   0.0   1   1   8.3e-46   7.7e-43  146.6   0.0     1   255  3430  3651  3430  3653 0.89 Male sterility protein
+Ketoacyl-synt_C      PF02801.25   119 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   5.4e-31  107.2   0.0   1   1   1.3e-33   1.2e-30  106.1   0.0     2   116   269   386   268   389 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   2.5e-19   69.4   0.4   1   2   7.4e-09   6.9e-06   26.4   0.2     2    65  2198  2261  2197  2263 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   2.5e-19   69.4   0.4   2   2   3.1e-13   2.9e-10   40.4   0.0     4    66  3321  3383  3318  3384 0.91 Phosphopantetheine attachment site
+Methyltransf_12      PF08242.15    99 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   4.1e-18   66.1   0.0   1   1   1.5e-20   1.4e-17   64.3   0.0     1    99  1408  1509  1408  1509 0.89 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.1e-15   58.2   0.0   1   1   3.6e-18   3.4e-15   56.6   0.0    11   110   400   507   392   508 0.92 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.9    165 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.1e-15   57.9   0.0   1   1     3e-18   2.8e-15   56.6   0.0    19   163  1400  1562  1385  1571 0.76 Methyltransferase domain
+Epimerase            PF01370.24   241 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.5e-15   57.4   0.0   1   1   4.6e-15   4.3e-12   46.1   0.0     2   193  3429  3628  3428  3654 0.77 NAD dependent epimerase/dehydratase family
+adh_short            PF00106.28   195 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   4.2e-15   55.8   0.7   1   1   6.9e-17   6.5e-14   52.0   0.2     1   182  1909  2084  1909  2094 0.88 short chain dehydrogenase
+Methyltransf_25      PF13649.9     97 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   6.9e-11   42.8   0.0   1   1   9.2e-13   8.6e-10   39.3   0.0     1    97  1407  1507  1407  1507 0.86 Methyltransferase domain
+3Beta_HSD            PF01073.22   280 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.9e-10   39.3   0.0   1   1   8.4e-09   7.9e-06   25.2   0.0     2   141  3430  3568  3429  3660 0.75 3-beta hydroxysteroid dehydrogenase/isomerase family
+Methyltransf_11      PF08241.15    96 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   9.1e-09   36.0   0.0   1   1   3.1e-11   2.9e-08   34.4   0.0     1    95  1408  1510  1408  1511 0.86 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.2e-06   28.6   0.0   1   1   3.2e-09     3e-06   27.2   0.0     5   113  1405  1515  1403  1534 0.91 Methyltransferase domain
+Ubie_methyltran      PF01209.21   233 BGC0000064_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   8.1e-05   22.2   0.0   1   1   2.2e-07    0.0002   20.9   0.0    30   156  1385  1516  1362  1531 0.80 ubiE/COQ5 methyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000064.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000064.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000064.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:40:09 2023
+# [ok]

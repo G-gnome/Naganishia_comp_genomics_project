@@ -1,0 +1,21 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peripla_BP_2         PF01497.21   237 BGC0002490_ORF1:gid::pid:CAL19995.1:loc:0:1137:strand:+ -            378   2.4e-18   66.6   0.0   1   1   1.7e-22   3.3e-18   66.1   0.0    41   233   108   320    71   322 0.87 Periplasmic binding protein
+FecCD                PF01032.21   312 BGC0002490_ORF2:gid::pid:CAL19996.1:loc:1287:2193:strand:+ -            301   8.9e-45  153.1  19.6   1   1   1.2e-48   1.1e-44  152.8  19.6   145   311   131   295   125   296 0.96 FecCD transport family
+ABC-3                PF00950.20   258 BGC0002490_ORF2:gid::pid:CAL19996.1:loc:1287:2193:strand:+ -            301   1.9e-05   24.5  13.2   1   1   2.6e-09   2.6e-05   24.0  13.2   100   240   136   274   117   296 0.84 ABC 3 transport family
+ABC_tran             PF00005.30   137 BGC0002490_ORF3:gid::pid:CAL19997.1:loc:2189:2975:strand:+ -            261   7.2e-28   97.9   0.0   1   1   1.9e-31   9.4e-28   97.6   0.0     1   137    19   160    19   160 0.92 ABC transporter
+NAS                  PF03059.19   276 BGC0002490_ORF4:gid::pid:CAL19998.1:loc:2971:3760:strand:+ -            262   3.9e-13   49.5   0.2   1   1   2.8e-17   5.5e-13   49.0   0.2     8   238     6   226     2   254 0.73 Nicotianamine synthase protein
+Staph_opine_DH       PF10100.12   424 BGC0002490_ORF5:gid::pid:CAL19999.1:loc:3752:5123:strand:+ -            456  1.6e-184  613.6   0.0   1   1  9.6e-189  1.9e-184  613.4   0.0     3   424     7   452     5   452 0.99 Staphylopine dehydrogenase
+EamA                 PF00892.23   137 BGC0002490_ORF6:gid::pid:CAL20000.1:loc:5119:5965:strand:+ -            281   6.9e-25   87.9  37.2   1   2   3.5e-21   6.9e-17   62.0  12.5     3   136     4   133     2   134 0.94 EamA-like transporter family
+EamA                 PF00892.23   137 BGC0002490_ORF6:gid::pid:CAL20000.1:loc:5119:5965:strand:+ -            281   6.9e-25   87.9  37.2   2   2   5.4e-12   1.1e-07   32.3  16.7     5   133   146   270   142   274 0.89 EamA-like transporter family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002490.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002490.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002490.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:39:27 2023
+# [ok]

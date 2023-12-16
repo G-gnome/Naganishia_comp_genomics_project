@@ -1,0 +1,43 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_N               PF00440.26    47 BGC0000392_ORF1:gid::pid:ACU36649.1:loc:0:552:strand:- -            183   2.4e-14   53.0   4.0   1   1   7.6e-18   1.5e-13   50.4   0.2     1    47    16    61    16    61 0.97 Bacterial regulatory proteins, tetR family
+Bac_luciferase       PF00296.23   314 BGC0000392_ORF2:gid::pid:ACU36650.1:loc:644:1550:strand:+ -            301   7.1e-56  190.0  21.6   1   1   6.3e-60   1.2e-55  189.2  21.6    14   313     9   277     1   278 0.90 Luciferase-like monooxygenase
+AAA_16               PF13191.9    170 BGC0000392_ORF3:gid::pid:ACU36651.1:loc:1616:4442:strand:- -            941   1.6e-16   61.3   2.9   1   1   3.5e-20   3.4e-16   60.2   0.8     3   170    11   174    10   174 0.84 AAA ATPase domain
+GerE                 PF00196.22    57 BGC0000392_ORF3:gid::pid:ACU36651.1:loc:1616:4442:strand:- -            941   1.4e-12   47.1   0.1   1   1   3.9e-16   3.8e-12   45.7   0.1     3    53   872   922   870   924 0.97 Bacterial regulatory proteins, luxR family
+DAHP_synth_1         PF00793.23   275 BGC0000392_ORF4:gid::pid:ACU36652.1:loc:5070:6132:strand:- -            353   2.8e-68  229.9   0.0   1   1   1.7e-72   3.4e-68  229.6   0.0     9   274    48   341    30   342 0.97 DAHP synthetase I family
+MFS_1                PF07690.19   353 BGC0000392_ORF5:gid::pid:ACU36653.1:loc:6124:7528:strand:- -            467   1.3e-50  172.4  43.9   1   1   6.8e-55   1.3e-50  172.4  43.9     1   352    19   409    19   410 0.91 Major Facilitator Superfamily
+Condensation         PF00668.23   457 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410  1.3e-197  657.2   0.0   1   5   6.2e-36   3.1e-32  112.0   0.0     5   344    16   359    12   463 0.81 Condensation domain
+Condensation         PF00668.23   457 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410  1.3e-197  657.2   0.0   2   5   4.2e-28     2e-24   86.2   0.0    44   339  1103  1389  1093  1400 0.78 Condensation domain
+Condensation         PF00668.23   457 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410  1.3e-197  657.2   0.0   3   5     1e-70   4.9e-67  226.7   0.0     3   455  1524  1955  1522  1957 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410  1.3e-197  657.2   0.0   4   5   1.8e-30   9.1e-27   94.0   0.0    43   364  2588  2884  2577  2897 0.80 Condensation domain
+Condensation         PF00668.23   457 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410  1.3e-197  657.2   0.0   5   5   8.9e-42   4.4e-38  131.3   0.0     2   439  2995  3394  2994  3401 0.87 Condensation domain
+AMP-binding          PF00501.31   424 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410  1.4e-168  561.1   0.0   1   2   4.3e-77   2.1e-73  247.5   0.1     9   424   487   880   483   880 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410  1.4e-168  561.1   0.0   2   2   1.6e-96   7.9e-93  311.5   0.0     3   424  1978  2371  1976  2371 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410   9.1e-21   74.8  13.8   1   2   6.1e-13     3e-09   37.8   2.0     1    76   888   962   888   962 0.89 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410   9.1e-21   74.8  13.8   2   2   7.9e-14   3.9e-10   40.7   1.2     1    76  2379  2449  2379  2449 0.94 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410   2.5e-19   69.5   1.1   1   2   1.4e-12   6.7e-09   36.0   0.1     2    65   987  1047   986  1048 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000392_ORF6:gid::pid:ACU36654.1:loc:7524:17757:strand:- -           3410   2.5e-19   69.5   1.1   2   2   4.2e-11   2.1e-07   31.3   0.1     2    66  2475  2535  2474  2536 0.95 Phosphopantetheine attachment site
+ABC_tran             PF00005.30   137 BGC0000392_ORF7:gid::pid:ACU36655.1:loc:17829:18615:strand:- -            261   2.8e-27   96.0   0.0   1   1   6.5e-31   4.2e-27   95.4   0.0     4   137    23   169    21   169 0.95 ABC transporter
+FecCD                PF01032.21   312 BGC0000392_ORF8:gid::pid:ACU36656.1:loc:18611:19628:strand:- -            338     9e-69  232.0  35.0   1   1   5.7e-73   1.1e-68  231.7  35.0     2   312    31   333    27   333 0.96 FecCD transport family
+FecCD                PF01032.21   312 BGC0000392_ORF9:gid::pid:ACU36657.1:loc:19624:20623:strand:- -            332   1.4e-78  264.2  35.7   1   1   8.6e-83   1.7e-78  263.9  35.7     2   312    23   326    17   326 0.98 FecCD transport family
+Peripla_BP_2         PF01497.21   237 BGC0000392_ORF10:gid::pid:ACU36658.1:loc:20619:21642:strand:- -            340   1.2e-16   61.1   0.2   1   1   9.6e-21   1.9e-16   60.4   0.2    11   231    72   310    66   314 0.87 Periplasmic binding protein
+SIP                  PF04954.16   119 BGC0000392_ORF11:gid::pid:ACU36659.1:loc:21688:22624:strand:- -            311   2.6e-36  124.8   0.8   1   1   4.5e-40   4.5e-36  124.1   0.8     2   119   164   283   163   283 0.97 Siderophore-interacting protein
+FAD_binding_9        PF08021.14   121 BGC0000392_ORF11:gid::pid:ACU36659.1:loc:21688:22624:strand:- -            311   5.8e-28   97.7   0.0   1   1   5.6e-31   5.5e-27   94.5   0.0     1   119    45   155    45   157 0.92 Siderophore-interacting FAD-binding domain
+AMP-binding          PF00501.31   424 BGC0000392_ORF12:gid::pid:ACU36660.1:loc:23524:25201:strand:- -            558     2e-84  283.8   0.0   1   1   2.7e-88   2.6e-84  283.4   0.0     2   423    46   456    45   457 0.87 AMP-binding enzyme
+AMP-binding_C        PF13193.9     76 BGC0000392_ORF12:gid::pid:ACU36660.1:loc:23524:25201:strand:- -            558   7.2e-15   55.8   1.2   1   1   7.4e-19   7.2e-15   55.8   1.2     1    76   465   542   465   542 0.94 AMP-binding enzyme C-terminal domain
+Chorismate_bind      PF00425.21   256 BGC0000392_ORF13:gid::pid:ACU36661.1:loc:25197:26709:strand:- -            503   1.2e-68  231.6   0.0   1   1   7.5e-73   1.5e-68  231.3   0.0     3   256   228   489   226   489 0.94 chorismate binding enzyme
+adh_short_C2         PF13561.9    234 BGC0000392_ORF14:gid::pid:ACU36662.1:loc:26946:27717:strand:- -            256     2e-51  174.9   4.8   1   1     6e-55   2.9e-51  174.4   4.8     1   234    20   253    20   253 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0000392_ORF14:gid::pid:ACU36662.1:loc:26946:27717:strand:- -            256   1.2e-43  149.0   1.9   1   1   3.5e-47   1.7e-43  148.5   1.9     1   191    14   194    14   198 0.96 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0000392_ORF14:gid::pid:ACU36662.1:loc:26946:27717:strand:- -            256   1.1e-10   41.8   3.4   1   1   6.5e-11   3.2e-07   30.6   0.0    55   159    54   162    44   169 0.88 KR domain
+Epimerase            PF01370.24   241 BGC0000392_ORF14:gid::pid:ACU36662.1:loc:26946:27717:strand:- -            256   9.4e-06   25.4   0.9   1   1     8e-09   3.9e-05   23.3   0.9     1   155    16   165    16   243 0.73 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000392.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000392.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000392.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:33:37 2023
+# [ok]

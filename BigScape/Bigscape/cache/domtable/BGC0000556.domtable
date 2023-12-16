@@ -1,0 +1,25 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Streptin-Immun       PF11083.11    93 BGC0000556_ORF1:gid:srtI:pid:BAB08159.1:loc:252:570:strand:+ -            105   4.4e-29  100.8   7.2   1   1   2.6e-33   5.1e-29  100.6   7.2     1    91     1    91     1    93 0.97 Lantibiotic streptin immunity protein
+Response_reg         PF00072.27   112 BGC0000556_ORF2:gid:srtR:pid:BAB08160.1:loc:720:1407:strand:+ -            228   3.2e-23   82.1   0.4   1   1   5.1e-27     5e-23   81.5   0.4     1   111     4   112     4   113 0.97 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0000556_ORF2:gid:srtR:pid:BAB08160.1:loc:720:1407:strand:+ -            228     1e-14   54.5   0.0   1   1   2.5e-18   2.5e-14   53.3   0.0     2    76   153   225   152   226 0.95 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.29   112 BGC0000556_ORF3:gid:srtK:pid:BAB08161.1:loc:1399:2746:strand:+ -            448   3.2e-13   50.3   0.2   1   1   1.4e-16   9.2e-13   48.8   0.1     1   110   337   446   337   448 0.89 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.28    67 BGC0000556_ORF3:gid:srtK:pid:BAB08161.1:loc:1399:2746:strand:+ -            448   4.7e-07   29.9   0.6   1   1   2.1e-10   1.4e-06   28.4   0.0     5    62   232   288   228   318 0.81 His Kinase A (phospho-acceptor) domain
+HATPase_c_5          PF14501.9    101 BGC0000556_ORF3:gid:srtK:pid:BAB08161.1:loc:1399:2746:strand:+ -            448   1.4e-06   28.2   0.3   1   1   9.2e-10     6e-06   26.2   0.0     3    89   339   432   338   435 0.83 GHKL domain
+ABC_tran             PF00005.30   137 BGC0000556_ORF5:gid:srtT:pid:BAB08163.1:loc:3157:4948:strand:+ -            596     6e-32  111.2   0.0   1   1   1.6e-35   1.5e-31  109.8   0.0     2   136   359   516   358   517 0.83 ABC transporter
+LANC_like            PF05147.16   352 BGC0000556_ORF6:gid:srtC:pid:BAB08164.1:loc:4931:6176:strand:+ -            414   8.5e-78  261.5   0.6   1   1   5.5e-82   1.1e-77  261.2   0.6     2   352    42   414    41   414 0.95 Lanthionine synthetase C-like protein
+Lant_dehydr_N        PF04738.16   650 BGC0000556_ORF7:gid:srtB:pid:BAB08165.1:loc:6194:9161:strand:+ -            988   4.1e-91  306.1   0.0   1   1   4.9e-95   4.8e-91  305.8   0.0     2   650    30   657    29   657 0.91 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000556_ORF7:gid:srtB:pid:BAB08165.1:loc:6194:9161:strand:+ -            988   2.9e-18   66.8   0.1   1   1   4.8e-21   4.7e-17   62.8   0.1    31   283   757   975   724   980 0.77 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.30   137 BGC0000556_ORF8:gid:srtF:pid:BAB08166.1:loc:9166:9856:strand:+ -            229   4.3e-33  114.8   0.0   1   1     6e-37   5.9e-33  114.4   0.0     1   137    17   154    17   154 0.97 ABC transporter
+AAA_21               PF13304.9    304 BGC0000556_ORF8:gid:srtF:pid:BAB08166.1:loc:9166:9856:strand:+ -            229   5.3e-15   56.1   2.2   1   1   7.6e-12   7.5e-08   32.6   0.1   230   299   118   184   110   189 0.84 AAA domain, putative AbiEii toxin, Type IV TA system
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000556.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000556.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000556.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:33:15 2023
+# [ok]

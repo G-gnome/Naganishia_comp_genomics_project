@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="295.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="285.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>scdC
+cyanobactin biosynthesis PatC/TenC/TruC family protein</title>
+			<polygon class="scdC
+cyanobactin biosynthesis PatC/TenC/TruC family protein" points="10,40 15,10 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>scdB
+cyanobactin biosynthesis system PatB/AcyB/McaB family</title>
+			<polygon class="scdB
+cyanobactin biosynthesis system PatB/AcyB/McaB family" points="25,40 31,10 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>scdMT
+methyltransferase</title>
+			<polygon class="scdMT
+methyltransferase" points="93,25 65,25 65,10 35,40 65,70 65,55 93,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PatG_C (PF18065)
+"PatG C-terminal"</title>
+				<polygon class="PF18065" points="39,40 46,33 46,47" stroke-linejoin="round" width="11" height="24" fill="rgb(93,82,184)" stroke="rgb(74,65,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_D (PF18047)
+"PatG Domain"</title>
+				<polygon class="PF18047" points="51,28 51,28 62,28 62,52 51,52 51,52" stroke-linejoin="round" width="11" height="24" fill="rgb(91,195,69)" stroke="rgb(72,156,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<rect class="PF08241" x="73" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>scdA
+PatA/PatG family cyanobactin maturation protease</title>
+			<polygon class="scdA
+PatA/PatG family cyanobactin maturation protease" points="163,25 124,25 124,10 94,40 124,70 124,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PatG_C (PF18065)
+"PatG C-terminal"</title>
+				<polygon class="PF18065" points="98,40 105,33 105,47" stroke-linejoin="round" width="11" height="24" fill="rgb(93,82,184)" stroke="rgb(74,65,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_D (PF18047)
+"PatG Domain"</title>
+				<polygon class="PF18047" points="110,28 110,28 121,28 121,52 110,52 110,52" stroke-linejoin="round" width="11" height="24" fill="rgb(91,195,69)" stroke="rgb(72,156,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<rect class="PF00082" x="133" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>scdE
+ScdE precursor</title>
+			<polygon class="scdE
+ScdE precursor" points="185,10 192,40 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>scdTA
+transamidase</title>
+			<polygon class="scdTA
+transamidase" points="222,25 254,25 254,10 284,40 254,70 254,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="227" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="246,28 268,28 279,39 279,41 268,52 246,52" stroke-linejoin="round" width="33" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

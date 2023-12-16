@@ -1,0 +1,37 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_4        PF01565.26   139 BGC0002729_ORF1:gid::pid:EAA36372.1:loc:0:1566:strand:+ -            500   5.4e-27   94.4   1.2   1   1   9.3e-31   9.2e-27   93.6   1.2     2   138    75   209    74   210 0.96 FAD binding domain
+BBE                  PF08031.15    46 BGC0002729_ORF1:gid::pid:EAA36372.1:loc:0:1566:strand:+ -            500   2.9e-11   43.4   0.1   1   1   6.4e-15   6.2e-11   42.3   0.1     1    45   453   495   453   496 0.93 Berberine and berberine like
+FAD_binding_3        PF01494.22   349 BGC0002729_ORF2:gid:fbm-1:pid:EAA36371.1:loc:3700:5120:strand:- -            448   2.8e-22   79.6   0.0   1   2   4.8e-18   1.9e-14   53.8   0.0     3   172     4   170     2   194 0.85 FAD binding domain
+FAD_binding_3        PF01494.22   349 BGC0002729_ORF2:gid:fbm-1:pid:EAA36371.1:loc:3700:5120:strand:- -            448   2.8e-22   79.6   0.0   2   2   6.1e-09   2.4e-05   23.9   0.0   257   326   279   348   228   356 0.90 FAD binding domain
+Pyr_redox_3          PF13738.9    305 BGC0002729_ORF2:gid:fbm-1:pid:EAA36371.1:loc:3700:5120:strand:- -            448   5.2e-12   45.8   0.0   1   1   5.7e-11   2.3e-07   30.5   0.0     1    48     6    57     6    75 0.84 Pyridine nucleotide-disulphide oxidoreductase
+Lycopene_cycl        PF05834.15   380 BGC0002729_ORF2:gid:fbm-1:pid:EAA36371.1:loc:3700:5120:strand:- -            448     1e-07   31.5   0.0   1   1   5.7e-11   2.3e-07   30.4   0.0     2   165     5   203     4   216 0.83 Lycopene cyclase protein
+Abhydrolase_1        PF00561.23   257 BGC0002729_ORF3:gid::pid:EAA36370.1:loc:6967:8072:strand:- -            342   1.5e-18   67.5   0.0   1   1   2.7e-18   2.7e-14   53.6   0.0     2   117    45   155    44   180 0.89 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.10   220 BGC0002729_ORF3:gid::pid:EAA36370.1:loc:6967:8072:strand:- -            342   2.5e-16   61.1   0.2   1   1   3.6e-20   3.5e-16   60.6   0.2     1   219    46   332    46   333 0.60 Alpha/beta hydrolase family
+adh_short            PF00106.28   195 BGC0002729_ORF4:gid::pid:EAA36369.1:loc:8612:9521:strand:- -            254   6.7e-20   71.5   0.0   1   1     9e-24   8.9e-20   71.1   0.0     2   185     8   202     7   210 0.83 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002729_ORF4:gid::pid:EAA36369.1:loc:8612:9521:strand:- -            254   9.8e-16   58.1   0.0   1   1   1.3e-19   1.2e-15   57.8   0.0     1   183    13   208    13   221 0.84 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002729_ORF5:gid::pid:EAA36368.1:loc:10762:11940:strand:+ -            290   1.4e-36  125.9   0.0   1   1     2e-40     2e-36  125.4   0.0     1   189     7   190     7   194 0.92 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0002729_ORF5:gid::pid:EAA36368.1:loc:10762:11940:strand:+ -            290   1.5e-27   96.8   0.0   1   1   1.9e-31   1.9e-27   96.5   0.0     4   181    17   190    13   209 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short_C2         PF13561.9    234 BGC0002729_ORF7:gid::pid:EAA36366.3:loc:14132:15186:strand:- -            272   2.2e-55  187.9   8.4   1   1   8.1e-59   5.3e-55  186.7   8.4     3   234    12   267     9   267 0.94 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0002729_ORF7:gid::pid:EAA36366.3:loc:14132:15186:strand:- -            272   8.8e-43  146.2   5.7   1   1   2.4e-46   1.5e-42  145.4   5.7     3   192     7   216     6   219 0.94 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0002729_ORF7:gid::pid:EAA36366.3:loc:14132:15186:strand:- -            272   1.3e-06   28.5   3.7   1   1     5e-09   3.3e-05   24.0   3.7     4   125     8   131     5   200 0.77 KR domain
+Cupin_2              PF07883.14    71 BGC0002729_ORF8:gid::pid:EAA36365.1:loc:15792:16454:strand:+ -            196   7.7e-09   35.3   0.0   1   1   7.5e-13   1.5e-08   34.4   0.0     4    68    92   156    89   162 0.82 Cupin domain
+ketoacyl-synt        PF00109.29   253 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   1.6e-68  231.1   0.0   1   1   2.2e-71   4.7e-68  229.6   0.0     2   253    45   295    44   295 0.95 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   2.2e-54  184.9   0.0   1   1   1.6e-57   3.5e-54  184.2   0.0     1   293   971  1272   971  1276 0.86 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   4.4e-51  173.4   0.4   1   1     8e-54   1.7e-50  171.5   0.0     2   179  2004  2180  2003  2181 0.98 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   1.6e-49  169.3   0.1   1   1   1.2e-52   2.7e-49  168.5   0.1     2   288   579   879   578   907 0.85 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   1.3e-38  131.8   0.1   1   1   2.6e-41   5.6e-38  129.7   0.1     2   118   304   418   303   419 0.97 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   4.8e-18   65.8   0.0   1   1   1.1e-20   2.3e-17   63.6   0.0     2   112   422   548   422   548 0.88 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N_2         PF13602.9    133 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   8.7e-11   43.1   1.4   1   1   5.5e-13   1.2e-09   39.4   0.2    14   133  1848  1979  1836  1979 0.77 Zinc-binding dehydrogenase
+PP-binding           PF00550.28    67 BGC0002729_ORF9:gid:pks-6:pid:EAA36364.1:loc:18713:26006:strand:+ -           2382   7.2e-05   23.1   0.1   1   1     9e-08    0.0002   21.8   0.1    13    66  2317  2371  2303  2372 0.87 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002729.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002729.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002729.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:50:56 2023
+# [ok]

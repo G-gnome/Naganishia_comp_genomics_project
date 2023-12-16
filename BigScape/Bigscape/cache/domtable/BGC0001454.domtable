@@ -1,0 +1,16 @@
+#                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Chal_sti_synt_N      PF00195.22   225 BGC0001454_ORF1:gid::pid::loc:0:1185:strand:+ -            394   2.5e-16   59.9   0.9   1   1     7e-20   4.6e-16   59.1   0.2    86   224   105   242    98   243 0.95 Chalcone and stilbene synthases, N-terminal domain
+FAE1_CUT1_RppA       PF08392.15   290 BGC0001454_ORF1:gid::pid::loc:0:1185:strand:+ -            394   2.4e-08   33.8   0.0   1   1     5e-12   3.3e-08   33.3   0.0    95   212   130   246   101   264 0.87 FAE1/Type III polyketide synthase-like protein
+ACP_syn_III          PF08545.13    80 BGC0001454_ORF1:gid::pid::loc:0:1185:strand:+ -            394   2.2e-06   27.5   0.1   1   1   3.4e-10   2.2e-06   27.5   0.1     5    68   178   246   176   257 0.82 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001454.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001454.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001454.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:52:13 2023
+# [ok]

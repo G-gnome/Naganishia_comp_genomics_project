@@ -1,0 +1,33 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1700.9   0.0   1   5  1.4e-105  6.8e-102  341.3   0.0     1   424   273   673   273   673 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1700.9   0.0   2   5  6.8e-104  3.3e-100  335.8   0.0     1   424  1355  1749  1355  1749 0.86 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1700.9   0.0   3   5  2.8e-106  1.4e-102  343.6   0.0     1   424  2417  2817  2417  2817 0.88 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1700.9   0.0   4   5  3.2e-104  1.6e-100  336.9   0.0     1   424  3499  3899  3499  3899 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1700.9   0.0   5   5    3e-104  1.5e-100  336.9   0.0     1   424  4582  4982  4582  4982 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   1   5   1.2e-45   5.8e-42  144.1   0.0     2   456   900  1334   899  1335 0.87 Condensation domain
+Condensation         PF00668.23   457 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   2   5    1e-113  4.9e-110  368.4   0.0     2   457  1951  2397  1950  2397 0.94 Condensation domain
+Condensation         PF00668.23   457 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   3   5   2.4e-45   1.2e-41  143.0   0.0     2   456  3044  3478  3043  3479 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   4   5   2.9e-46   1.4e-42  146.1   0.0     2   456  4126  4560  4125  4561 0.91 Condensation domain
+Condensation         PF00668.23   457 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   5   5  3.2e-107  1.6e-103  347.0   0.1     3   452  5174  5614  5172  5615 0.94 Condensation domain
+AMP-binding_C        PF13193.9     76 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.7e-70  234.1  11.8   1   5   1.9e-14   9.3e-11   42.7   0.0     1    76   681   759   681   759 0.87 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.7e-70  234.1  11.8   2   5   7.1e-14   3.5e-10   40.8   0.4     1    76  1757  1840  1757  1840 0.84 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.7e-70  234.1  11.8   3   5   4.4e-17   2.2e-13   51.1   0.2     1    76  2825  2903  2825  2903 0.89 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.7e-70  234.1  11.8   4   5   4.9e-17   2.4e-13   51.0   0.1     1    76  3907  3985  3907  3985 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.7e-70  234.1  11.8   5   5   3.2e-17   1.6e-13   51.5   0.0     1    76  4990  5063  4990  5063 0.94 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   2.1e-64  213.9  10.5   1   5   1.8e-13   8.7e-10   38.9   0.1     3    67   789   850   787   850 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   2.1e-64  213.9  10.5   2   5     9e-16   4.4e-12   46.3   0.0     2    67  1869  1931  1868  1931 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   2.1e-64  213.9  10.5   3   5   9.8e-16   4.8e-12   46.1   0.1     3    67  2933  2994  2932  2994 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   2.1e-64  213.9  10.5   4   5     1e-13     5e-10   39.7   0.1     3    67  4015  4076  4014  4076 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001135_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   2.1e-64  213.9  10.5   5   5   2.2e-15   1.1e-11   45.0   0.1     3    65  5093  5152  5092  5154 0.93 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001135.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001135.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001135.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:53:23 2023
+# [ok]

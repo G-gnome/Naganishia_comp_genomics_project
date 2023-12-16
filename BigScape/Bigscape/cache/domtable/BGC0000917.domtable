@@ -1,0 +1,18 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Mob_synth_C          PF06463.16   128 BGC0000917_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+ -            328     6e-38  129.8   0.0   1   1   8.8e-42   8.7e-38  129.3   0.0     2   127   181   307   180   308 0.97 Molybdenum Cofactor Synthesis C
+Radical_SAM          PF04055.24   167 BGC0000917_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+ -            328     1e-19   71.7   0.0   1   1   1.8e-23   1.8e-19   70.9   0.0     1   165    19   173    19   175 0.86 Radical SAM superfamily
+ThiS                 PF02597.23    77 BGC0000917_ORF2:gid:moaD:pid:AAD21202.1:loc:1204:1453:strand:+ -             82   1.4e-15   57.8   0.0   1   1   7.7e-20   1.5e-15   57.7   0.0     1    77     4    82     4    82 0.98 ThiS family
+ThiF                 PF00899.24   219 BGC0000917_ORF3:gid:moaB:pid:AAD21203.1:loc:1454:2216:strand:+ -            253   6.3e-52  176.1   0.0   1   1   3.7e-56   7.3e-52  175.8   0.0     1   218    12   244    12   245 0.95 ThiF family
+MoaC                 PF01967.24   136 BGC0000917_ORF4:gid:moaC:pid:AAD21204.1:loc:2246:2477:strand:+ -             77   4.9e-19   68.9   0.9   1   1   3.1e-23     6e-19   68.6   0.9     1    57     1    57     1    58 0.98 MoaC family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000917.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000917.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000917.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:47:22 2023
+# [ok]

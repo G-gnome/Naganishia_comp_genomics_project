@@ -1,0 +1,20 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 BGC0000667_ORF1:gid::pid:CDM31314.1:loc:565:1637:strand:- -            340   6.6e-25   87.8   0.0   1   1   7.3e-28   4.8e-24   85.0   0.0     1   191    49   252    49   256 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000667_ORF1:gid::pid:CDM31314.1:loc:565:1637:strand:- -            340   5.5e-18   65.5   0.0   1   1   2.1e-21   1.4e-17   64.2   0.0     3   209    57   276    55   284 0.86 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0000667_ORF1:gid::pid:CDM31314.1:loc:565:1637:strand:- -            340   2.4e-05   24.4   0.0   1   1     5e-09   3.3e-05   24.0   0.0     3   124    51   165    49   220 0.83 KR domain
+Terpene_syn_C_2      PF19086.3    199 BGC0000667_ORF2:gid:ARI1:pid:CDM31315.1:loc:2663:3792:strand:- -            342     9e-18   65.0   0.2   1   1     7e-22   1.4e-17   64.3   0.2     2   196   107   295   106   297 0.85 Terpene synthase family 2, C-terminal metal binding
+FAD_binding_4        PF01565.26   139 BGC0000667_ORF3:gid::pid:CDM31316.1:loc:4714:6430:strand:+ -            512   9.5e-20   70.9   2.2   1   1   7.7e-24   1.5e-19   70.2   2.2     1   136    67   201    67   204 0.94 FAD binding domain
+adh_short            PF00106.28   195 BGC0000667_ORF4:gid::pid:CDM31317.1:loc:6949:7939:strand:- -            329   1.3e-34  119.5   0.1   1   1     2e-38     2e-34  118.9   0.1     1   186    49   231    49   235 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000667_ORF4:gid::pid:CDM31317.1:loc:6949:7939:strand:- -            329   6.9e-26   91.4   0.1   1   1     1e-29     1e-25   90.8   0.1     1   178    55   231    55   243 0.85 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000667.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000667.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000667.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:16:24 2023
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pentapeptide_4       PF13599.9     78 BGC0000568_ORF1:gid:mcbG:pid:CAT00693.1:loc:0:564:strand:- -            187   1.2e-18   67.2  21.4   1   1   5.9e-14   3.9e-10   40.0   5.4     7    71    88   152    84   158 0.93 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.25    40 BGC0000568_ORF1:gid:mcbG:pid:CAT00693.1:loc:0:564:strand:- -            187     3e-15   55.6  12.7   1   1   9.6e-13   6.3e-09   35.4   1.4     1    39   112   150   112   150 0.97 Pentapeptide repeats (8 copies)
+ABC_tran             PF00005.30   137 BGC0000568_ORF2:gid:mcbF:pid:CAT00694.1:loc:567:1299:strand:- -            243     1e-21   78.0   0.0   1   1   1.5e-25   1.5e-21   77.5   0.0     2   136    24   162    23   163 0.93 ABC transporter
+AAA_21               PF13304.9    304 BGC0000568_ORF2:gid:mcbF:pid:CAT00694.1:loc:567:1299:strand:- -            243   1.8e-13   51.1   0.5   1   1   7.4e-13   7.3e-09   35.9   0.0   236   298   131   192   103   198 0.93 AAA domain, putative AbiEii toxin, Type IV TA system
+YcaO                 PF02624.19   322 BGC0000568_ORF4:gid:mcbD:pid:CAT00696.1:loc:2030:3221:strand:- -            396   1.4e-13   51.0   0.0   1   1   1.1e-17   2.2e-13   50.4   0.0    13   229    53   268    46   335 0.77 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.27   168 BGC0000568_ORF5:gid:mcbC:pid:CAT00697.1:loc:3201:4020:strand:- -            272   4.7e-08   33.4   0.0   1   1   3.5e-12   6.8e-08   32.9   0.0    11   161    91   254    87   263 0.83 Nitroreductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000568.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000568.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000568.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:18:35 2023
+# [ok]

@@ -1,0 +1,71 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="235.46666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="225.46666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>sle_05770__ls2E
+Lactococcin transport/processing ATP-binding protein LcnC-like</title>
+			<polygon class="sle_05770__ls2E
+Lactococcin transport/processing ATP-binding protein LcnC-like" points="69,25 40,25 40,10 10,40 40,70 40,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="17,37 26,28 31,28 31,52 26,52 17,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sle_05780__ls2E
+Uncharacterized ABC transporter ATP-binding protein YfiC</title>
+			<polygon class="sle_05780__ls2E
+Uncharacterized ABC transporter ATP-binding protein YfiC" points="127,25 99,25 99,10 69,40 99,70 99,55 127,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="78,35 85,28 92,28 92,52 85,52 78,45" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="99" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sle_05790__ls2A
+Hypothetical Protein sle_05790</title>
+			<polygon class="sle_05790__ls2A
+Hypothetical Protein sle_05790" points="131,40 135,10 135,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sle_05791__ls2D
+ls2D, homolog to larD; PFAM Transglut_core3 Transglutaminase-like superfamily Domain CL0125 alignment 3-111, HMM 3-113; HMM length 117; evalue 9.1e-24</title>
+			<polygon class="sle_05791__ls2D
+ls2D, homolog to larD; PFAM Transglut_core3 Transglutaminase-like superfamily Domain CL0125 alignment 3-111, HMM 3-113; HMM length 117; evalue 9.1e-24" points="137,40 152,10 152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="140,40 146,28 151,28 151,52 146,52 140,40" stroke-linejoin="round" width="11" height="24" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sle_05800__ls2C
+Conserved Hypothetical Protein</title>
+			<polygon class="sle_05800__ls2C
+Conserved Hypothetical Protein" points="154,40 162,10 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="157,40 160,28 160,28 160,52 160,52" stroke-linejoin="round" width="6" height="24" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sle_05810__ls2B
+Asparagine Synthase</title>
+			<polygon class="sle_05810__ls2B
+Asparagine Synthase" points="224,25 192,25 192,10 162,40 192,70 192,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="166,40 178,28 203,28 203,52 178,52" stroke-linejoin="round" width="38" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

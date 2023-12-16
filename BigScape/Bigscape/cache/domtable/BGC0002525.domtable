@@ -1,0 +1,37 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.25   463 BGC0002525_ORF2:gid:g430:pid:BBU37365.1:loc:3781:5908:strand:- -            571   1.7e-51  175.6   0.0   1   1   1.1e-55   2.1e-51  175.3   0.0    18   434    66   493    44   503 0.82 Cytochrome P450
+HMG_CoA_synt_C       PF08540.13   280 BGC0002525_ORF3:gid:g431:pid:BBU37366.1:loc:6302:7906:strand:+ -            456   3.2e-89  299.4   0.1   1   1   4.5e-93   4.4e-89  299.0   0.1     2   280   178   454   177   454 0.96 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+HMG_CoA_synt_N       PF01154.20   174 BGC0002525_ORF3:gid:g431:pid:BBU37366.1:loc:6302:7906:strand:+ -            456   8.4e-79  263.6   0.0   1   1   1.3e-82   1.2e-78  263.0   0.0     1   173     3   175     3   176 0.99 Hydroxymethylglutaryl-coenzyme A synthase N terminal
+Myb_DNA-binding      PF00249.34    46 BGC0002525_ORF4:gid:g432:pid:BBU37367.1:loc:9619:10942:strand:+ -            382   7.7e-32  109.4   8.4   1   3   1.1e-12     1e-08   35.3   0.1     2    44     6    57     5    59 0.86 Myb-like DNA-binding domain
+Myb_DNA-binding      PF00249.34    46 BGC0002525_ORF4:gid:g432:pid:BBU37367.1:loc:9619:10942:strand:+ -            382   7.7e-32  109.4   8.4   2   3   9.3e-18   9.1e-14   51.5   0.7     1    44    63   106    63   108 0.96 Myb-like DNA-binding domain
+Myb_DNA-binding      PF00249.34    46 BGC0002525_ORF4:gid:g432:pid:BBU37367.1:loc:9619:10942:strand:+ -            382   7.7e-32  109.4   8.4   3   3   5.7e-10   5.6e-06   26.6   0.1     1    41   114   155   114   160 0.93 Myb-like DNA-binding domain
+Myb_DNA-bind_6       PF13921.9     60 BGC0002525_ORF4:gid:g432:pid:BBU37367.1:loc:9619:10942:strand:+ -            382   3.7e-24   84.9   4.6   1   2   1.3e-13   1.3e-09   38.3   0.1     1    60     8    74     8    74 0.87 Myb-like DNA-binding domain
+Myb_DNA-bind_6       PF13921.9     60 BGC0002525_ORF4:gid:g432:pid:BBU37367.1:loc:9619:10942:strand:+ -            382   3.7e-24   84.9   4.6   2   2   2.4e-14   2.4e-10   40.6   0.4     1    60    66   125    66   125 0.96 Myb-like DNA-binding domain
+PS-DH                PF14765.9    297 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   1.5e-68  231.4   0.1   1   1   1.8e-71   2.4e-68  230.7   0.1     1   292   942  1225   942  1228 0.90 Polyketide synthase dehydratase
+ketoacyl-synt        PF00109.29   253 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   6.1e-68  229.3   0.0   1   1   8.7e-71   1.1e-67  228.4   0.0     3   253    60   307    58   307 0.95 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   3.9e-62  209.5   0.0   1   1   8.8e-65   1.2e-61  207.9   0.0     1   179  2121  2296  2121  2297 0.99 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   2.1e-60  205.1   0.0   1   1   1.1e-62   1.4e-59  202.3   0.0     1   316   573   895   573   898 0.93 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   2.6e-32  111.4   0.0   1   1   4.5e-35   5.8e-32  110.3   0.0     2   118   316   428   315   429 0.97 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   1.1e-23   84.0   0.1   1   1   2.1e-26   2.7e-23   82.7   0.1     1   112   431   550   431   550 0.90 Ketoacyl-synthetase C-terminal extension
+Methyltransf_12      PF08242.15    99 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510     3e-19   69.7   0.0   1   1   1.3e-21   1.7e-18   67.3   0.0     1    99  1410  1515  1410  1515 0.98 Methyltransferase domain
+ADH_zinc_N_2         PF13602.9    133 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   6.3e-15   56.5   0.0   1   1     2e-17   2.7e-14   54.4   0.0     5   133  1961  2097  1959  2097 0.88 Zinc-binding dehydrogenase
+Methyltransf_23      PF13489.9    165 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510     3e-11   43.5   0.0   1   1   5.4e-14   7.1e-11   42.3   0.0    18   161  1401  1566  1387  1570 0.68 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   2.6e-10   41.0   0.0   1   1   9.1e-13   1.2e-09   38.8   0.0     1    97  1409  1513  1409  1513 0.85 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   2.2e-10   40.7   0.0   1   1   5.4e-13     7e-10   39.0   0.0     2   113  1404  1521  1403  1549 0.90 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   1.4e-09   38.6   0.0   1   1   3.4e-12   4.4e-09   37.0   0.0     1    95  1410  1516  1410  1517 0.87 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0002525_ORF5:gid:g433:pid:BBU37368.1:loc:11867:20199:strand:+ -           2510   4.7e-08   33.4   0.1   1   1   1.2e-10   1.6e-07   31.7   0.1    10    65  2435  2490  2427  2492 0.94 Phosphopantetheine attachment site
+RTA1                 PF04479.16   206 BGC0002525_ORF6:gid:g434:pid:BBU37369.1:loc:20775:21848:strand:- -            339   6.6e-58  195.8   2.0   1   1   3.4e-62   6.6e-58  195.8   2.0     2   204    68   312    67   313 0.96 RTA1 like protein
+NTP_transf_9         PF04248.15    93 BGC0002525_ORF7:gid:g435:pid:BBU37370.1:loc:22642:23500:strand:- -            285   1.5e-42  143.5   0.1   1   2   4.6e-12     9e-08   32.0   0.0     1    64    29    91    29   118 0.82 Domain of unknown function (DUF427)
+NTP_transf_9         PF04248.15    93 BGC0002525_ORF7:gid:g435:pid:BBU37370.1:loc:22642:23500:strand:- -            285   1.5e-42  143.5   0.1   2   2     3e-36     6e-32  109.5   0.1     1    93   174   266   174   266 0.98 Domain of unknown function (DUF427)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002525.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002525.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002525.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:20:00 2023
+# [ok]

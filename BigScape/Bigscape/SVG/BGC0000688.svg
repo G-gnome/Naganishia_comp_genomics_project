@@ -1,0 +1,48 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="479.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="469.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_orf000000)</title>
+			<polygon class=" (ctg1_orf000000)" points="33,10 43,40 33,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf00001)</title>
+			<polygon class=" (ctg1_orf00001)" points="47,10 65,40 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf0002)</title>
+			<polygon class=" (ctg1_orf0002)" points="142,25 105,25 105,10 75,40 105,70 105,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="101" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf003)</title>
+			<polygon class=" (ctg1_orf003)" points="160,25 180,25 180,10 210,40 180,70 180,55 160,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<rect class="PF00348" x="163" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orforf04)</title>
+			<polygon class=" (ctg1_orforf04)" points="226,40 249,10 249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="230,40 239,28 248,28 248,52 239,52" stroke-linejoin="round" width="22" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_orf5)</title>
+			<polygon class=" (ctg1_orf5)" points="273,25 379,25 379,10 409,40 379,70 379,55 273,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_orf6)</title>
+			<polygon class=" (ctg1_orf6)" points="464,25 464,25 464,10 434,40 464,70 464,55 464,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

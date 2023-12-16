@@ -1,0 +1,56 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="146.63333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="136.63333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>garE (C426_00001)
+Membrane protein</title>
+			<polygon class="garE (C426_00001)
+Membrane protein" points="10,40 26,10 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>garD (C426_00002)
+Membrane protein with DUF95</title>
+			<polygon class="garD (C426_00002)
+Membrane protein with DUF95" points="26,40 42,10 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIM (PF01944)
+"Stage II sporulation protein M"</title>
+				<polygon class="PF01944" points="29,40 36,28 41,28 41,52 36,52" stroke-linejoin="round" width="15" height="24" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>garC (C426_0087)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="garC (C426_0087)
+putative ABC transporter ATP-binding protein" points="42,40 63,10 63,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="47,39 55,28 61,28 61,52 55,52 47,41" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>garB (C426_00003)
+Putative immunity protein</title>
+			<polygon class="garB (C426_00003)
+Putative immunity protein" points="64,40 69,10 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>garA (C426_0088)
+product Garvicin ML precursor</title>
+			<polygon class="garA (C426_0088)
+product Garvicin ML precursor" points="80,10 86,40 80,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_IId (PF09221)
+"Bacteriocin class IId cyclical uberolysin-like"</title>
+				<polygon class="PF09221" points="80,28 80,28 83,40 80,52 80,52" stroke-linejoin="round" width="5" height="24" fill="rgb(200,220,70)" stroke="rgb(160,176,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>garX (C426_0089)
+membrane protein</title>
+			<polygon class="garX (C426_0089)
+membrane protein" points="88,25 105,25 105,10 135,40 105,70 105,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

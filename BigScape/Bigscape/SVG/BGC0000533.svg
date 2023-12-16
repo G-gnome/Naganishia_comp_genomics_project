@@ -1,0 +1,98 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="355.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="345.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mutR
+MutR</title>
+			<polygon class="mutR
+MutR" points="16,10 44,40 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mutA
+MutA precursor</title>
+			<polygon class="mutA
+MutA precursor" points="64,10 70,40 64,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="65,30 67,40 65,50" stroke-linejoin="round" width="5" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutA_
+MutA'</title>
+			<polygon class="mutA_
+MutA'" points="73,10 79,40 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="74,29 76,40 74,51" stroke-linejoin="round" width="5" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutB
+MutB</title>
+			<polygon class="mutB
+MutB" points="85,25 154,25 154,10 184,40 154,70 154,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="88" y="28" stroke-linejoin="round" width="62" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="157,28 167,28 179,40 167,52 157,52" stroke-linejoin="round" width="24" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutC
+MutC</title>
+			<polygon class="mutC
+MutC" points="183,25 195,25 195,10 225,40 195,70 195,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="186,28 209,28 221,40 209,52 186,52" stroke-linejoin="round" width="38" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutD
+MutD</title>
+			<polygon class="mutD
+MutD" points="226,10 244,40 226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="226,28 233,28 241,40 233,52 226,52" stroke-linejoin="round" width="17" height="24" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutP
+MutP</title>
+			<polygon class="mutP
+MutP" points="245,25 259,25 259,10 289,40 259,70 259,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="257,28 273,28 285,40 273,52 257,52" stroke-linejoin="round" width="31" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutT
+MutT</title>
+			<polygon class="mutT
+MutT" points="290,25 314,25 314,10 344,40 314,70 314,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="291" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="323,28 327,28 337,38 337,42 327,52 323,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

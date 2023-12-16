@@ -1,0 +1,30 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lant_dehydr_N        PF04738.16   650 BGC0000511_ORF2:gid:eriB:pid:AAL15564.1:loc:438:3531:strand:+ -           1030  2.7e-124  415.7   0.0   1   1  3.2e-128  3.2e-124  415.5   0.0     2   648    40   681    39   683 0.95 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000511_ORF2:gid:eriB:pid:AAL15564.1:loc:438:3531:strand:+ -           1030   8.2e-34  117.8   1.9   1   1   1.1e-36   1.1e-32  114.1   1.9     1   285   756  1013   756  1016 0.81 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.30   137 BGC0000511_ORF3:gid:eriT:pid:AAL15565.1:loc:3521:5366:strand:+ -            614   8.8e-34  117.1   0.1   1   1   2.6e-37   2.6e-33  115.6   0.0     1   137   370   524   370   524 0.90 ABC transporter
+LANC_like            PF05147.16   352 BGC0000511_ORF4:gid:eriC:pid:AAL15566.1:loc:5338:6664:strand:+ -            441   8.9e-87  291.0   1.4   1   1   5.6e-91   1.1e-86  290.8   1.4     2   352    48   440    47   440 0.95 Lanthionine synthetase C-like protein
+Gallidermin          PF02052.18    52 BGC0000511_ORF5:gid:eriSa:pid:AAL15567.1:loc:6727:6898:strand:+ -             56   4.1e-06   27.2   1.2   1   1   2.1e-10   4.1e-06   27.2   1.2     9    42     8    39     2    49 0.75 Gallidermin
+LANC_like            PF05147.16   352 BGC0000511_ORF6:gid::pid:AAL15568.1:loc:6891:7248:strand:+ -            118   5.9e-18   64.7   0.1   1   1   3.3e-22   6.5e-18   64.5   0.1     2    92    22   112    21   117 0.96 Lanthionine synthetase C-like protein
+Gallidermin          PF02052.18    52 BGC0000511_ORF7:gid:eriSb:pid:AAL15569.1:loc:7325:7496:strand:+ -             56   1.1e-05   25.8   0.3   1   1   7.5e-10   1.5e-05   25.4   0.3     9    42     5    36     2    43 0.78 Gallidermin
+Spa1_C               PF18218.4     99 BGC0000511_ORF8:gid:eriI:pid:AAL15570.1:loc:8047:8554:strand:+ -            168   6.7e-26   90.7   0.9   1   1   3.4e-30   6.7e-26   90.7   0.9     1    99    58   156    58   156 0.98 Lantibiotic immunity protein Spa1 C-terminal domain
+ABC_tran             PF00005.30   137 BGC0000511_ORF9:gid:eriF:pid:AAL15571.1:loc:8528:9272:strand:+ -            247   8.8e-33  113.9   0.0   1   1   1.3e-36   1.3e-32  113.3   0.0     2   137    31   167    30   167 0.98 ABC transporter
+AAA_21               PF13304.9    304 BGC0000511_ORF9:gid:eriF:pid:AAL15571.1:loc:8528:9272:strand:+ -            247   2.6e-13   50.6   4.6   1   1   2.2e-12   2.1e-08   34.4   0.3   221   299   122   197    77   202 0.80 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.10   179 BGC0000511_ORF10:gid:eriE:pid:AAL15572.1:loc:9268:10024:strand:+ -            251   1.9e-08   34.6  22.3   1   1   3.8e-12   7.4e-08   32.7  20.9     2   177     5   166     4   168 0.76 ABC-2 family transporter protein
+Response_reg         PF00072.27   112 BGC0000511_ORF12:gid:eriR:pid:AAL15573.1:loc:10813:11476:strand:+ -            220   2.1e-21   76.3   0.3   1   1   3.5e-25   3.4e-21   75.6   0.3     1   112     4   112     4   112 0.92 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0000511_ORF12:gid:eriR:pid:AAL15573.1:loc:10813:11476:strand:+ -            220   1.5e-18   66.8   0.0   1   1   3.1e-22     3e-18   65.8   0.0     2    76   146   218   145   219 0.94 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.29   112 BGC0000511_ORF13:gid:eriK:pid:AAL15574.1:loc:11448:12840:strand:+ -            463   9.5e-15   55.2   0.0   1   1   3.9e-18   2.5e-14   53.8   0.0     5   109   357   461   354   463 0.90 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.28    67 BGC0000511_ORF13:gid:eriK:pid:AAL15574.1:loc:11448:12840:strand:+ -            463   9.4e-11   41.7   0.1   1   1   2.8e-14   1.8e-10   40.8   0.1     3    66   245   307   243   308 0.90 His Kinase A (phospho-acceptor) domain
+HATPase_c_3          PF13589.9    137 BGC0000511_ORF13:gid:eriK:pid:AAL15574.1:loc:11448:12840:strand:+ -            463   1.3e-06   28.5   0.0   1   1   6.1e-10     4e-06   26.9   0.0     4    81   359   434   355   440 0.86 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HxlR                 PF01638.20    91 BGC0000511_ORF15:gid::pid:AAL15576.1:loc:13388:13709:strand:- -            106   1.5e-34  117.8   0.0   1   1   8.8e-39   1.7e-34  117.6   0.0     1    89    16   104    16   106 0.98 HxlR-like helix-turn-helix
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000511.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000511.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000511.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:12:24 2023
+# [ok]

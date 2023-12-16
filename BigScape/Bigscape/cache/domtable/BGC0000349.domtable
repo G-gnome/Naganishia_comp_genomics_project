@@ -1,0 +1,42 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LysR_substrate       PF03466.23   209 BGC0000349_ORF1:gid::pid:CAM02310.1:loc:0:894:strand:+ -            297   4.8e-27   94.8   9.4   1   1     8e-31   7.8e-27   94.2   9.4     6   205    89   279    85   283 0.97 LysR substrate binding domain
+HTH_1                PF00126.30    60 BGC0000349_ORF1:gid::pid:CAM02310.1:loc:0:894:strand:+ -            297   6.5e-22   77.4   3.7   1   1     2e-25     2e-21   75.9   3.7     1    60     5    64     5    64 0.99 Bacterial regulatory helix-turn-helix protein, lysR family
+Lys_Orn_oxgnase      PF13434.9    341 BGC0000349_ORF2:gid::pid:CAM02311.1:loc:1313:2639:strand:+ -            441  5.3e-117  390.9   0.0   1   1  1.3e-120  6.3e-117  390.6   0.0     3   340    11   354     9   355 0.98 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyr_redox_2          PF07992.17   295 BGC0000349_ORF2:gid::pid:CAM02311.1:loc:1313:2639:strand:+ -            441   3.3e-12   46.4   0.2   1   1   8.7e-15   4.3e-11   42.7   0.2    92   266   150   384    12   409 0.75 Pyridine nucleotide-disulphide oxidoreductase
+Peripla_BP_2         PF01497.21   237 BGC0000349_ORF3:gid::pid:CAM02312.1:loc:2783:3770:strand:+ -            328   7.1e-25   88.0   0.0   1   1   4.5e-29   8.8e-25   87.7   0.0    22   227    80   287    55   293 0.81 Periplasmic binding protein
+Condensation         PF00668.23   457 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1365.3   0.0   1   7   6.8e-49   3.3e-45  154.7   0.0     6   357     7   333     4   398 0.90 Condensation domain
+Condensation         PF00668.23   457 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1365.3   0.0   2   7   5.5e-36   2.7e-32  112.2   0.0    25   346  1023  1332  1013  1347 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1365.3   0.0   3   7   2.9e-76   1.4e-72  244.9   0.0     1   456  1451  1867  1451  1868 0.89 Condensation domain
+Condensation         PF00668.23   457 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1365.3   0.0   4   7   6.6e-42   3.2e-38  131.7   0.0    27   436  2488  2896  2482  2911 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1365.3   0.0   5   7   1.1e-76   5.3e-73  246.4   0.0     2   456  2929  3359  2928  3360 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1365.3   0.0   6   7   2.7e-89   1.3e-85  287.9   0.0     3   451  3977  4410  3975  4413 0.92 Condensation domain
+Condensation         PF00668.23   457 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1365.3   0.0   7   7   2.7e-55   1.3e-51  175.8   0.0    30   446  5029  5423  5005  5427 0.90 Condensation domain
+AMP-binding          PF00501.31   424 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1279.8   0.1   1   4   2.2e-93   1.1e-89  301.1   0.0     1   424   435   820   435   820 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1279.8   0.1   2   4  4.2e-107  2.1e-103  346.3   0.0     1   424  1886  2284  1886  2284 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1279.8   0.1   3   4   9.3e-98   4.6e-94  315.6   0.0     2   424  3380  3792  3379  3792 0.85 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429         0 1279.8   0.1   4   4   1.2e-96     6e-93  311.9   0.0     1   424  4433  4821  4433  4821 0.89 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.7e-59  197.0   5.4   1   4     3e-14   1.5e-10   41.4   0.0     4    65   929   987   927   989 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.7e-59  197.0   5.4   2   4   6.7e-17   3.3e-13   49.9   0.0     1    65  2389  2449  2389  2450 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.7e-59  197.0   5.4   3   4   5.5e-18   2.7e-14   53.3   0.5     2    65  3897  3958  3896  3960 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.7e-59  197.0   5.4   4   4   2.6e-17   1.3e-13   51.2   0.0     2    65  4925  4986  4924  4988 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.2e-57  191.5  24.1   1   4   9.9e-17   4.8e-13   50.0   0.3     1    76   828   900   828   900 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.2e-57  191.5  24.1   2   4     7e-15   3.4e-11   44.1   0.4     1    76  2292  2364  2292  2364 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.2e-57  191.5  24.1   3   4   3.3e-18   1.6e-14   54.7   0.1     1    76  3800  3870  3800  3870 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0000349_ORF4:gid::pid:CAM02313.1:loc:3827:20117:strand:+ -           5429   3.2e-57  191.5  24.1   4   4     2e-18   9.6e-15   55.5   1.1     1    76  4829  4898  4829  4898 0.92 AMP-binding enzyme C-terminal domain
+MbtH                 PF03621.16    53 BGC0000349_ORF5:gid::pid:CAM02314.1:loc:20113:20317:strand:+ -             67     3e-28   97.1   0.2   1   1   1.8e-32   3.6e-28   96.9   0.2     1    53     1    53     1    53 0.99 MbtH-like protein
+ABC_membrane         PF00664.26   274 BGC0000349_ORF6:gid::pid:CAM02315.1:loc:20738:22496:strand:- -            585   3.7e-32  112.2   0.0   1   1     5e-36   4.9e-32  111.8   0.0     4   274    32   300    30   300 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000349_ORF6:gid::pid:CAM02315.1:loc:20738:22496:strand:- -            585   8.4e-23   81.5   0.0   1   1   1.3e-26   1.3e-22   80.9   0.0     1   137   359   508   359   508 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 BGC0000349_ORF7:gid::pid:CAM02316.1:loc:22507:24145:strand:- -            545   6.6e-23   81.9   0.0   1   1   8.2e-27   8.1e-23   81.6   0.0     6   274    13   278     8   278 0.93 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0000349_ORF7:gid::pid:CAM02316.1:loc:22507:24145:strand:- -            545   1.4e-16   61.4   0.0   1   1   2.3e-20   2.2e-16   60.7   0.0     3   136   335   477   333   478 0.88 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000349.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000349.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000349.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:08:50 2023
+# [ok]

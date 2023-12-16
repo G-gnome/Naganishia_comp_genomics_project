@@ -1,0 +1,17 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_1        PF00561.23   257 BGC0000920_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361     2e-20   73.6   0.0   1   1   6.6e-24   3.2e-20   73.0   0.0     2   253    71   338    70   341 0.86 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.11   239 BGC0000920_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361   2.5e-12   46.7   0.0   1   1   1.4e-11   6.8e-08   32.2   0.0    23   110    93   178    90   212 0.88 Serine aminopeptidase, S33
+PhaC_N               PF07167.16   173 BGC0000920_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361   1.3e-10   41.3   0.6   1   1   4.9e-14   2.4e-10   40.5   0.6   117   173    41    97    38    97 0.96 Poly-beta-hydroxybutyrate polymerase (PhaC) N-terminus
+PHB_depo_C           PF06850.14   203 BGC0000920_ORF2:gid:phaC:pid:ABF29870.1:loc:1554:2640:strand:+ -            361   4.8e-08   32.8   0.0   1   1   1.6e-11     8e-08   32.1   0.0    97   201   259   358   253   360 0.88 PHB de-polymerase C-terminus
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000920.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000920.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000920.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:52:03 2023
+# [ok]

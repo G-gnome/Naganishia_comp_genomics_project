@@ -1,0 +1,41 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.24   363 BGC0000614_ORF1:gid::pid:ACN52311.1:loc:15:1104:strand:- -            362   3.9e-44  151.4   0.0   1   1   2.5e-48     5e-44  151.1   0.0    31   359    34   329    15   333 0.89 Aminotransferase class I and II
+Hydrolase_4          PF12146.11   239 BGC0000614_ORF2:gid::pid:ACN52310.1:loc:1125:1956:strand:- -            276   1.5e-53  181.6   0.6   1   1     4e-57     2e-53  181.2   0.6     2   238    27   253    26   254 0.95 Serine aminopeptidase, S33
+Abhydrolase_1        PF00561.23   257 BGC0000614_ORF2:gid::pid:ACN52310.1:loc:1125:1956:strand:- -            276   3.3e-20   73.0   0.3   1   1   1.3e-21   6.3e-18   65.5   0.6     4   107    33   137    32   178 0.92 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.10   220 BGC0000614_ORF2:gid::pid:ACN52310.1:loc:1125:1956:strand:- -            276   2.5e-12   48.0  17.0   1   1     7e-16   3.4e-12   47.5  17.0     2   214    33   254    32   262 0.65 Alpha/beta hydrolase family
+Asn_synthase         PF00733.24   355 BGC0000614_ORF3:gid::pid:ACN52309.1:loc:2014:3871:strand:- -            618   8.4e-88  295.5   0.1   1   1   1.6e-91     1e-87  295.2   0.1     2   354   241   609   240   610 0.92 Asparagine synthase
+GATase_7             PF13537.9    123 BGC0000614_ORF3:gid::pid:ACN52309.1:loc:2014:3871:strand:- -            618   7.7e-43  145.5   0.0   1   1   1.9e-46   1.2e-42  144.8   0.0     1   123    48   170    48   170 0.94 Glutamine amidotransferase domain
+GATase_6             PF13522.9    133 BGC0000614_ORF3:gid::pid:ACN52309.1:loc:2014:3871:strand:- -            618   3.1e-36  124.5   0.0   1   1     8e-40   5.3e-36  123.8   0.0     1   133    33   164    33   164 0.95 Glutamine amidotransferase domain
+SnoaL                PF07366.15   126 BGC0000614_ORF4:gid::pid:ACN52308.1:loc:4010:4418:strand:- -            135   2.1e-30  105.3   0.0   1   1   2.5e-34   2.4e-30  105.0   0.0     2   126     8   130     6   130 0.97 SnoaL-like polyketide cyclase
+SnoaL_2              PF12680.10   102 BGC0000614_ORF4:gid::pid:ACN52308.1:loc:4010:4418:strand:- -            135   4.8e-20   72.3   0.0   1   1   5.7e-24   5.6e-20   72.0   0.0     2   102    11   117    10   117 0.97 SnoaL-like domain
+Acyl-CoA_dh_2        PF08028.14   134 BGC0000614_ORF5:gid::pid:ACN52307.1:loc:4492:5722:strand:- -            409     4e-12   46.7   0.3   1   1   8.1e-16     4e-12   46.7   0.3     2   130   231   352   230   356 0.89 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.19   113 BGC0000614_ORF5:gid::pid:ACN52307.1:loc:4492:5722:strand:- -            409   1.9e-11   44.7   1.9   1   1   4.4e-15   2.1e-11   44.6   0.4    19   110     5    98     1   101 0.82 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_1        PF00441.27   150 BGC0000614_ORF5:gid::pid:ACN52307.1:loc:4492:5722:strand:- -            409   1.4e-07   32.0   3.1   1   1   3.4e-11   1.7e-07   31.7   0.4    17   132   231   349   224   364 0.87 Acyl-CoA dehydrogenase, C-terminal domain
+LCM                  PF04072.17   188 BGC0000614_ORF6:gid::pid:ACN52306.1:loc:5923:6859:strand:- -            311   6.4e-47  160.1   0.0   1   1   4.9e-51   9.6e-47  159.5   0.0     3   187    10   180     8   181 0.91 Leucine carboxyl methyltransferase
+DUF2867              PF11066.11   144 BGC0000614_ORF7:gid::pid:ACN52305.1:loc:6929:7481:strand:- -            183   2.7e-10   40.9   1.0   1   1   1.3e-13   2.5e-09   37.8   0.4    21   131     8   122     1   126 0.78 Protein of unknown function (DUF2867)
+Abhydrolase_6        PF12697.10   220 BGC0000614_ORF9:gid::pid:ACN52292.1:loc:8592:9384:strand:+ -            263   1.4e-11   45.6  12.6   1   1     1e-15     2e-11   45.0  12.6     1   219     4   212     4   213 0.64 Alpha/beta hydrolase family
+Lant_dehydr_N        PF04738.16   650 BGC0000614_ORF10:gid::pid:ACN52293.1:loc:9376:12178:strand:+ -            933   3.6e-17   61.8  10.1   1   1   2.8e-13   5.5e-09   34.7   0.0   574   629   778   834   774   837 0.92 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0000614_ORF11:gid::pid:ACN52294.1:loc:12174:13215:strand:+ -            346   1.7e-56  192.2   0.8   1   1     1e-60     2e-56  192.0   0.8     1   288     9   317     9   317 0.94 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.9    288 BGC0000614_ORF12:gid::pid:ACN52295.1:loc:13201:14308:strand:+ -            368   1.7e-23   83.9   0.5   1   1   1.2e-27   2.4e-23   83.4   0.5    13   287    18   345    10   346 0.89 Lantibiotic biosynthesis dehydratase C-term
+Nitroreductase       PF00881.27   168 BGC0000614_ORF13:gid::pid:ACN52296.1:loc:14304:16074:strand:+ -            589     1e-09   38.8   0.0   1   1   2.1e-10   4.1e-06   27.1   0.0    29   161   142   275   137   281 0.81 Nitroreductase family
+YcaO                 PF02624.19   322 BGC0000614_ORF15:gid::pid:ACN52298.1:loc:17905:19951:strand:+ -            681   5.6e-61  206.8   6.3   1   1     8e-65   1.6e-60  205.3   6.3     2   321   275   636   274   637 0.86 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+AMP-binding          PF00501.31   424 BGC0000614_ORF17:gid::pid:ACN52300.1:loc:21328:22642:strand:+ -            437   3.7e-15   55.6   0.2   1   1   3.8e-19   7.4e-15   54.6   0.2   156   423   109   352    79   353 0.79 AMP-binding enzyme
+p450                 PF00067.25   463 BGC0000614_ORF18:gid::pid:ACN52301.1:loc:22751:23942:strand:+ -            396   2.5e-13   49.7   0.0   1   1   1.2e-09   2.4e-05   23.4   0.0   250   295   218   263   207   269 0.84 Cytochrome P450
+Radical_SAM          PF04055.24   167 BGC0000614_ORF20:gid::pid:ACN52303.1:loc:26759:28559:strand:+ -            599   9.4e-13   49.0   0.2   1   1   1.6e-16   1.6e-12   48.3   0.2     5   164   251   420   247   423 0.92 Radical SAM superfamily
+B12-binding          PF02310.22   121 BGC0000614_ORF20:gid::pid:ACN52303.1:loc:26759:28559:strand:+ -            599   5.1e-11   42.8   0.0   1   1   1.3e-14   1.3e-10   41.5   0.0    11   120    18   138     9   139 0.86 B12 binding domain
+adh_short            PF00106.28   195 BGC0000614_ORF21:gid::pid:ACN52304.1:loc:28555:29374:strand:+ -            272   2.4e-44  151.3   0.4   1   2   1.1e-10   7.3e-07   29.0   1.7     1    47    11    57    11    66 0.89 short chain dehydrogenase
+adh_short            PF00106.28   195 BGC0000614_ORF21:gid::pid:ACN52304.1:loc:28555:29374:strand:+ -            272   2.4e-44  151.3   0.4   2   2   2.6e-38   1.7e-34  119.1   0.0    51   187    78   216    70   220 0.97 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 BGC0000614_ORF21:gid::pid:ACN52304.1:loc:28555:29374:strand:+ -            272     2e-33  116.0   1.4   1   1   3.6e-32   2.3e-28   99.5   0.0    41   182    76   219    70   233 0.93 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 BGC0000614_ORF21:gid::pid:ACN52304.1:loc:28555:29374:strand:+ -            272   1.4e-07   31.8   0.4   1   1   3.4e-11   2.3e-07   31.0   0.4     3   154    13   183    11   211 0.74 KR domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000614.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000614.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000614.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:19:57 2023
+# [ok]

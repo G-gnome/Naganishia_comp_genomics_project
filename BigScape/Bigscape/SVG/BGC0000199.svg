@@ -1,0 +1,462 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1383.1333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1373.1333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative hydroxylase</title>
+			<polygon class="
+putative hydroxylase" points="10,40 36,10 36,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_10 (PF13460)
+"NAD(P)H-binding"</title>
+				<polygon class="PF13460" points="18,35 24,28 34,28 34,52 24,52 18,45" stroke-linejoin="round" width="16" height="24" fill="rgb(188,201,78)" stroke="rgb(150,160,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm1
+O-methyl transferase</title>
+			<polygon class="arm1
+O-methyl transferase" points="39,40 61,10 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<polygon class="PF08242" points="45,37 52,28 54,28 54,52 52,52 45,43" stroke-linejoin="round" width="9" height="24" fill="rgb(187,59,115)" stroke="rgb(149,47,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm2
+Aromatase</title>
+			<polygon class="arm2
+Aromatase" points="92,25 91,25 91,10 61,40 91,70 91,55 92,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>arm3
+Cyclase</title>
+			<polygon class="arm3
+Cyclase" points="96,40 122,10 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase (PF04199)
+"Putative cyclase"</title>
+				<polygon class="PF04199" points="103,37 110,28 121,28 121,52 110,52 103,43" stroke-linejoin="round" width="18" height="24" fill="rgb(140,47,181)" stroke="rgb(112,37,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm4
+Cyclase</title>
+			<polygon class="arm4
+Cyclase" points="128,10 142,40 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_4 (PF13577)
+"SnoaL-like domain"</title>
+				<polygon class="PF13577" points="129,28 133,28 139,40 133,52 129,52" stroke-linejoin="round" width="12" height="24" fill="rgb(68,223,209)" stroke="rgb(54,178,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm5
+Ketoreductase</title>
+			<polygon class="arm5
+Ketoreductase" points="144,10 169,40 144,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="145,28 155,28 165,40 155,52 145,52" stroke-linejoin="round" width="24" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm6
+Monooygenase</title>
+			<polygon class="arm6
+Monooygenase" points="172,10 183,40 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="173,28 175,28 180,40 180,40 175,52 173,52" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm7
+KSα</title>
+			<polygon class="arm7
+KSα" points="184,25 196,25 196,10 226,40 196,70 196,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="184" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="210,28 210,28 221,39 221,41 210,52 210,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm8
+KSβ (CLF)</title>
+			<polygon class="arm8
+KSβ (CLF)" points="226,25 236,25 236,10 266,40 236,70 236,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="226" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="251,29 262,40 262,40 251,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm9
+ACP</title>
+			<polygon class="arm9
+ACP" points="268,10 276,40 268,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="268,28 269,28 273,40 269,52 268,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm10
+SARP family transcriptional regulator</title>
+			<polygon class="arm10
+SARP family transcriptional regulator" points="291,10 316,40 291,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<polygon class="PF03704" points="298,28 302,28 312,40 312,40 302,52 298,52" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm11
+P450-oxidoreductase</title>
+			<polygon class="arm11
+P450-oxidoreductase" points="325,25 333,25 333,10 363,40 333,70 333,55 325,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="350,31 356,37 356,43 350,49" stroke-linejoin="round" width="6" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm12
+Glycosyltransferase</title>
+			<polygon class="arm12
+Glycosyltransferase" points="365,25 376,25 376,10 406,40 376,70 376,55 365,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="385,28 390,28 394,32 394,48 390,52 385,52" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm13
+Unknown</title>
+			<polygon class="arm13
+Unknown" points="408,10 419,40 408,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MIase (PF02426)
+"Muconolactone delta-isomerase"</title>
+				<polygon class="PF02426" points="408,28 411,28 415,40 411,52 408,52" stroke-linejoin="round" width="8" height="24" fill="rgb(214,164,56)" stroke="rgb(171,131,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm14
+O-methyltransferase</title>
+			<polygon class="arm14
+O-methyltransferase" points="419,25 428,25 428,10 458,40 428,70 428,55 419,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MycE_N (PF17843)
+"MycE methyltransferase N-terminal"</title>
+				<rect class="PF17843" x="419" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(83,185,170)" stroke="rgb(66,148,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm15
+Oxygenase</title>
+			<polygon class="arm15
+Oxygenase" points="459,25 467,25 467,10 497,40 467,70 467,55 459,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="464" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ring_hydroxyl_A (PF00848)
+"Ring hydroxylating alpha subunit (catalytic domain)"</title>
+				<polygon class="PF00848" points="478,28 481,28 493,40 481,52 478,52" stroke-linejoin="round" width="19" height="24" fill="rgb(76,134,184)" stroke="rgb(60,107,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm16
+Dehydrogenase</title>
+			<polygon class="arm16
+Dehydrogenase" points="551,25 530,25 530,10 500,40 530,70 530,55 551,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BBE (PF08031)
+"Berberine and berberine like"</title>
+				<polygon class="PF08031" points="504,40 505,39 505,41" stroke-linejoin="round" width="5" height="24" fill="rgb(210,73,83)" stroke="rgb(168,58,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="533" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm17
+P450-oxidoreductase</title>
+			<polygon class="arm17
+P450-oxidoreductase" points="590,25 581,25 581,10 551,40 581,70 581,55 590,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="555,40 567,28 585,28 585,52 567,52" stroke-linejoin="round" width="34" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm19
+MarR family transcriptional  regulator</title>
+			<polygon class="arm19
+MarR family transcriptional  regulator" points="613,25 647,25 647,10 677,40 647,70 647,55 613,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SNF2-rel_dom (PF00176)
+"SNF2-related domain"</title>
+				<rect class="PF00176" x="630" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(180,113,64)" stroke="rgb(144,90,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<polygon class="PF00271" points="659,28 661,28 670,37 670,43 661,52 659,52" stroke-linejoin="round" width="11" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm20
+Unknown</title>
+			<polygon class="arm20
+Unknown" points="678,10 696,40 678,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>arm21
+Unknown</title>
+			<polygon class="arm21
+Unknown" points="789,25 727,25 727,10 697,40 727,70 727,55 789,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_106 (PF17132)
+"alpha-L-rhamnosidase"</title>
+				<rect class="PF17132" x="717" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(195,121,53)" stroke="rgb(156,96,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_106 (PF17132)
+"alpha-L-rhamnosidase"</title>
+				<rect class="PF17132" x="760" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(195,121,53)" stroke="rgb(156,96,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_106 (PF17132)
+"alpha-L-rhamnosidase"</title>
+				<rect class="PF17132" x="773" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(195,121,53)" stroke="rgb(156,96,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm22
+NDP-hexose-C3-methyltransferase</title>
+			<polygon class="arm22
+NDP-hexose-C3-methyltransferase" points="797,25 805,25 805,10 835,40 805,70 805,55 797,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_13 (PF08421)
+"Putative zinc binding domain"</title>
+				<rect class="PF08421" x="797" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<rect class="PF13489" x="802" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_14 (PF08484)
+"C-methyltransferase C-terminal domain"</title>
+				<polygon class="PF08484" points="818,28 818,28 830,40 818,52 818,52" stroke-linejoin="round" width="15" height="24" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm23
+NDP-4-keto-6-deoxyhexose reductase</title>
+			<polygon class="arm23
+NDP-4-keto-6-deoxyhexose reductase" points="868,25 866,25 866,10 836,40 866,70 866,55 868,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="844,36 852,28 867,28 867,52 852,52 844,44" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm24
+NDP-hexose-3-aminotransferase</title>
+			<polygon class="arm24
+NDP-hexose-3-aminotransferase" points="874,25 882,25 882,10 912,40 882,70 882,55 874,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="875,28 896,28 908,40 896,52 875,52" stroke-linejoin="round" width="35" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm25
+Glycosyltransferase</title>
+			<polygon class="arm25
+Glycosyltransferase" points="914,25 926,25 926,10 956,40 926,70 926,55 914,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="934,28 940,28 943,31 943,49 940,52 934,52" stroke-linejoin="round" width="9" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm26
+ABC transporter</title>
+			<polygon class="arm26
+ABC transporter" points="960,40 988,10 988,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="964,40 975,28 984,28 984,52 975,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm27
+ANC transporter A TP-binding protein</title>
+			<polygon class="arm27
+ANC transporter A TP-binding protein" points="1023,25 1018,25 1018,10 988,40 1018,70 1018,55 1023,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4162 (PF13732)
+"Domain of unknown function (DUF4162)"</title>
+				<polygon class="PF13732" points="992,40 998,34 998,46" stroke-linejoin="round" width="9" height="24" fill="rgb(100,223,143)" stroke="rgb(80,178,114)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="1004,28 1004,28 1018,28 1018,52 1004,52 1004,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm28
+NDP-hexose-3-ketoreductase</title>
+			<polygon class="arm28
+NDP-hexose-3-ketoreductase" points="1060,25 1057,25 1057,10 1027,40 1057,70 1057,55 1060,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="1047" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm29
+NDP-hexose-4-aminotransferase</title>
+			<polygon class="arm29
+NDP-hexose-4-aminotransferase" points="1067,25 1075,25 1075,10 1105,40 1075,70 1075,55 1067,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="1067,28 1089,28 1101,40 1089,52 1067,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm30
+NDP-hexose-N,N-dimethyltransferase</title>
+			<polygon class="arm30
+NDP-hexose-N,N-dimethyltransferase" points="1106,10 1131,40 1106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="1110,28 1117,28 1119,30 1119,50 1117,52 1110,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm31
+NDP-hexose-C3-methyltransferase</title>
+			<polygon class="arm31
+NDP-hexose-C3-methyltransferase" points="1131,25 1141,25 1141,10 1171,40 1141,70 1141,55 1131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_13 (PF08421)
+"Putative zinc binding domain"</title>
+				<rect class="PF08421" x="1131" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<rect class="PF13489" x="1138" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_14 (PF08484)
+"C-methyltransferase C-terminal domain"</title>
+				<polygon class="PF08484" points="1155,28 1155,28 1167,40 1155,52 1155,52" stroke-linejoin="round" width="15" height="24" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm32
+P450-oxidoreductase</title>
+			<polygon class="arm32
+P450-oxidoreductase" points="1172,25 1181,25 1181,10 1211,40 1181,70 1181,55 1172,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1198,32 1206,40 1198,48" stroke-linejoin="round" width="12" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm33
+Glycosyltransferase</title>
+			<polygon class="arm33
+Glycosyltransferase" points="1212,25 1226,25 1226,10 1256,40 1226,70 1226,55 1212,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="1233,28 1240,28 1243,31 1243,49 1240,52 1233,52" stroke-linejoin="round" width="10" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm34
+NDP-hexose-N,N-dimethyltransferase</title>
+			<polygon class="arm34
+NDP-hexose-N,N-dimethyltransferase" points="1256,10 1279,40 1256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="1260,28 1266,28 1269,32 1269,48 1266,52 1260,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm35
+NDP-hexose-3,5-epimerase</title>
+			<polygon class="arm35
+NDP-hexose-3,5-epimerase" points="1280,40 1300,10 1300,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="1284,40 1292,28 1299,28 1299,52 1292,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arm36
+NDP-hexose-2,3-dehydratase</title>
+			<polygon class="arm36
+NDP-hexose-2,3-dehydratase" points="1351,25 1330,25 1330,10 1300,40 1330,70 1330,55 1351,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<polygon class="PF03559" points="1304,40 1316,28 1321,28 1321,52 1316,52" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<rect class="PF03559" x="1325" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transposase</title>
+			<polygon class="
+transposase" points="1358,10 1368,40 1358,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

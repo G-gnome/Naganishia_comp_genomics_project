@@ -1,0 +1,41 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.27   470 BGC0002680_ORF1:gid:fepA:pid:AAQ59902.1:loc:0:2055:strand:- -            684     1e-34  121.4  44.6   1   1     1e-38     1e-34  121.4  44.6    17   470   264   682   216   682 0.75 TonB dependent receptor
+Plug                 PF07715.18   108 BGC0002680_ORF1:gid:fepA:pid:AAQ59902.1:loc:0:2055:strand:- -            684   1.4e-09   38.6   2.5   1   1   3.4e-13   3.3e-09   37.4   2.5     3   108    37   165    35   165 0.73 TonB-dependent Receptor Plug Domain
+Enterochelin_N       PF11806.11   120 BGC0002680_ORF2:gid:fes:pid:AAQ59903.1:loc:2319:3624:strand:+ -            434   4.4e-41  140.4   9.6   1   1     1e-44   6.8e-41  139.8   5.5     1   120    40   170    40   170 0.98 Enterochelin esterase, N-terminal
+Esterase             PF00756.23   251 BGC0002680_ORF2:gid:fes:pid:AAQ59903.1:loc:2319:3624:strand:+ -            434   2.6e-34  119.2   0.9   1   1     6e-38   3.9e-34  118.5   0.0     1   248   192   424   192   427 0.86 Putative esterase
+Peptidase_S9         PF00326.24   212 BGC0002680_ORF2:gid:fes:pid:AAQ59903.1:loc:2319:3624:strand:+ -            434   1.3e-05   24.9   0.0   1   1     4e-09   2.6e-05   24.0   0.0    63   107   295   339   285   353 0.87 Prolyl oligopeptidase family
+MbtH                 PF03621.16    53 BGC0002680_ORF3:gid::pid:AAQ59904.1:loc:3696:3909:strand:+ -             70     7e-24   83.1   0.0   1   1   4.2e-28   8.3e-24   82.9   0.0     2    52     6    56     5    57 0.97 MbtH-like protein
+AMP-binding          PF00501.31   424 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859  3.3e-188  625.7   0.0   1   2   1.3e-89   5.1e-86  289.1   0.0     3   424   500   903   498   903 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859  3.3e-188  625.7   0.0   2   2  1.9e-103  7.5e-100  334.6   0.0     2   424  2018  2416  2017  2416 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859  1.4e-146  488.9   0.0   1   3   1.3e-56     5e-53  180.5   0.0     2   437    31   459    30   476 0.88 Condensation domain
+Condensation         PF00668.23   457 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859  1.4e-146  488.9   0.0   2   3   1.6e-28   6.3e-25   87.9   0.0    15   339  1103  1419  1101  1522 0.84 Condensation domain
+Condensation         PF00668.23   457 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859  1.4e-146  488.9   0.0   3   3   1.2e-67   4.8e-64  216.8   0.0     5   455  1572  1997  1569  1999 0.91 Condensation domain
+Thioesterase         PF00975.23   230 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859   1.2e-39  136.9   0.9   1   1   1.3e-39   5.1e-36  125.1   0.1     1   223  2624  2841  2624  2848 0.87 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859   1.2e-28   99.3   0.4   1   2   5.1e-15     2e-11   44.2   0.0     2    67  1016  1078  1015  1078 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859   1.2e-28   99.3   0.4   2   2   1.2e-17   4.6e-14   52.6   0.2     2    66  2535  2597  2534  2598 0.96 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859   3.4e-19   69.7   1.1   1   2   1.3e-10   5.1e-07   30.7   0.1     1    76   911   989   911   989 0.87 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0002680_ORF4:gid:cbsF:pid:AAQ59905.1:loc:3956:12536:strand:+ -           2859   3.4e-19   69.7   1.1   2   2   2.2e-12   8.8e-09   36.3   0.1     1    76  2424  2508  2424  2508 0.85 AMP-binding enzyme C-terminal domain
+ABC_tran             PF00005.30   137 BGC0002680_ORF5:gid:fepC:pid:AAQ59906.1:loc:12602:13439:strand:- -            278   6.8e-31  107.7   0.0   1   1   1.4e-34   9.4e-31  107.3   0.0     3   136    42   188    40   189 0.96 ABC transporter
+FecCD                PF01032.21   312 BGC0002680_ORF6:gid:fepG:pid:AAQ59907.1:loc:13435:14479:strand:- -            347   3.2e-80  269.6  31.8   1   1     2e-84   3.9e-80  269.3  31.8     3   312    35   340    32   340 0.98 FecCD transport family
+FecCD                PF01032.21   312 BGC0002680_ORF7:gid:fepD:pid:AAQ59908.1:loc:14475:15492:strand:- -            338   1.5e-84  283.8  29.8   1   1   9.4e-89   1.8e-84  283.5  29.8     1   311    22   329    22   330 0.99 FecCD transport family
+MFS_1                PF07690.19   353 BGC0002680_ORF8:gid::pid:AAQ59909.1:loc:15624:16902:strand:+ -            425   6.7e-26   91.2  42.1   1   1   6.9e-30   6.7e-26   91.2  42.1     1   344    22   356    22   365 0.84 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 BGC0002680_ORF8:gid::pid:AAQ59909.1:loc:15624:16902:strand:+ -            425   7.2e-24   84.2  26.8   1   1   9.2e-28   9.1e-24   83.9  26.8    10   403    17   413     9   422 0.88 Transmembrane secretion effector
+Peripla_BP_2         PF01497.21   237 BGC0002680_ORF10:gid:fepB:pid:AAQ59911.2:loc:17860:18829:strand:- -            322   1.6e-19   70.5   0.1   1   1   1.3e-23   2.5e-19   69.8   0.1     1   233    52   298    52   301 0.90 Periplasmic binding protein
+HlyD_D23             PF16576.8    214 BGC0002680_ORF11:gid::pid:AAQ59912.1:loc:19124:20285:strand:+ -            386   3.2e-14   52.8   0.2   1   1   9.7e-16   6.4e-12   45.3   0.1    18   214    67   294    66   294 0.77 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+Biotin_lipoyl_2      PF13533.9     50 BGC0002680_ORF11:gid::pid:AAQ59912.1:loc:19124:20285:strand:+ -            386   8.2e-14   51.2   0.1   1   1   9.8e-15   6.4e-11   42.0   0.0     2    50    68   116    67   116 0.95 Biotin-lipoyl like
+ACR_tran             PF00873.22  1021 BGC0002680_ORF12:gid:acrB:pid:AAQ59913.1:loc:20288:23417:strand:+ -           1042         0 1160.8   0.0   1   1         0         0 1160.6   0.0     2  1020     3  1023     2  1024 0.99 AcrB/AcrD/AcrF family
+MMPL                 PF03176.18   333 BGC0002680_ORF12:gid:acrB:pid:AAQ59913.1:loc:20288:23417:strand:+ -           1042     6e-14   51.8  38.9   1   1   1.5e-14   1.4e-10   40.7  15.8   140   304   336   499   292   535 0.79 MMPL family
+OEP                  PF02321.21   188 BGC0002680_ORF13:gid:ibeB:pid:AAQ59914.1:loc:23413:24793:strand:+ -            459   1.9e-44  151.9  45.1   1   2   2.6e-26     5e-22   78.7  20.6     2   188    58   245    57   245 0.93 Outer membrane efflux protein
+OEP                  PF02321.21   188 BGC0002680_ORF13:gid:ibeB:pid:AAQ59914.1:loc:23413:24793:strand:+ -            459   1.9e-44  151.9  45.1   2   2   1.6e-26   3.1e-22   79.4  16.6     2   188   269   454   268   454 0.94 Outer membrane efflux protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002680.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002680.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002680.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:10:20 2023
+# [ok]

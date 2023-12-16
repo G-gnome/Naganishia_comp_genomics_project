@@ -1,0 +1,18 @@
+#                                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SAC3_GANP            PF03399.19   289 scaffold_37.region001_ORF1:gid::pid:ncbi_NaganishiaalbidaGCA001599735.1_006460-_T1:loc:1830:4078:strand:- -            549   7.5e-27   94.5   8.7   1   1   2.5e-29   4.8e-25   88.6   8.7    36   284   259   474   251   477 0.89 SAC3/GANP family
+Spb1_C               PF07780.15   219 scaffold_37.region001_ORF4:gid::pid:ncbi_NaganishiaalbidaGCA001599735.1_006463-_T1:loc:11602:14640:strand:+ -            927   3.3e-80  268.9  20.9   1   1     5e-84   3.3e-80  268.9  20.9     2   219   703   920   702   920 0.95 Spb1 C-terminal domain
+FtsJ                 PF01728.22   177 scaffold_37.region001_ORF4:gid::pid:ncbi_NaganishiaalbidaGCA001599735.1_006463-_T1:loc:11602:14640:strand:+ -            927   1.3e-54  185.2   0.1   1   1   4.3e-58   2.8e-54  184.0   0.1     1   177    25   201    25   201 0.99 FtsJ-like methyltransferase
+DUF3381              PF11861.11   167 scaffold_37.region001_ORF4:gid::pid:ncbi_NaganishiaalbidaGCA001599735.1_006463-_T1:loc:11602:14640:strand:+ -            927   1.1e-40  139.3  11.1   1   1   1.7e-44   1.1e-40  139.3  11.1     1   167   264   425   264   425 0.90 Domain of unknown function (DUF3381)
+SQS_PSY              PF00494.22   263 scaffold_37.region001_ORF5:gid::pid:ncbi_NaganishiaalbidaGCA001599735.1_006464-_T1:loc:15000:17324:strand:+ -            643   4.9e-43  147.7   0.1   1   1   3.2e-47   6.3e-43  147.3   0.1     1   263   331   628   331   628 0.88 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/scaffold_37.region001.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/scaffold_37.region001.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/scaffold_37.region001.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:26:47 2023
+# [ok]

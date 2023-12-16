@@ -1,0 +1,32 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.17   454 BGC0002343_ORF1:gid::pid:OKH92601.1:loc:1350:3294:strand:+ -            647  1.3e-115  387.0   0.0   1   1  1.6e-119  1.6e-115  386.7   0.0     1   450    89   542    89   546 0.94 Tryptophan halogenase
+DAO                  PF01266.27   353 BGC0002343_ORF1:gid::pid:OKH92601.1:loc:1350:3294:strand:+ -            647     6e-08   32.8   4.0   1   1   8.6e-11   8.4e-07   29.0   1.9     2   297    90   383    89   422 0.61 FAD dependent oxidoreductase
+Putative_PNPOx       PF01243.23    88 BGC0002343_ORF2:gid::pid:OKH92602.1:loc:3290:3728:strand:+ -            145   1.5e-16   60.4   0.0   1   1   1.1e-20   2.2e-16   59.9   0.0     5    84    20    99    17   101 0.95 Pyridoxamine 5'-phosphate oxidase
+Lant_dehydr_N        PF04738.16   650 BGC0002343_ORF5:gid::pid:OKH92604.1:loc:6597:9063:strand:+ -            821   1.7e-18   66.1   4.4   1   1   1.2e-16   2.4e-12   45.8   4.9     2   281   145   435   144   555 0.85 Lantibiotic dehydratase, N terminus
+PmbA_TldD_C          PF19289.2    220 BGC0002343_ORF9:gid::pid:OKH92607.1:loc:15737:17054:strand:+ -            438   1.3e-21   77.0   0.0   1   1   9.6e-26   1.9e-21   76.4   0.0     4   120   182   302   179   328 0.92 PmbA/TldA metallopeptidase C-terminal domain
+DAO                  PF01266.27   353 BGC0002343_ORF11:gid::pid:OKH92781.1:loc:18163:19249:strand:+ -            361   4.8e-45  154.8  10.9   1   1   3.2e-49   6.3e-45  154.4  10.9     5   350     3   329     2   331 0.84 FAD dependent oxidoreductase
+Glyoxalase_3         PF13468.9    176 BGC0002343_ORF12:gid::pid:OKH92609.1:loc:19245:19911:strand:+ -            221   7.9e-25   88.1   0.6   1   1   5.1e-29     1e-24   87.8   0.6     1   166     3   182     3   191 0.88 Glyoxalase-like domain
+FMN_red              PF03358.18   156 BGC0002343_ORF13:gid::pid:OKH92610.1:loc:20785:21439:strand:+ -            217   1.5e-23   83.4   0.0   1   1   1.1e-27   2.1e-23   82.9   0.0     2   150     7   149     6   155 0.92 NADPH-dependent FMN reductase
+Lant_dehydr_N        PF04738.16   650 BGC0002343_ORF14:gid::pid:OKH92611.1:loc:21435:23931:strand:+ -            831   2.1e-13   49.3   9.0   1   1   1.2e-12   2.4e-08   32.6   1.0   579   648   717   786   710   788 0.91 Lantibiotic dehydratase, N terminus
+Peptidase_M20        PF01546.31   207 BGC0002343_ORF15:gid::pid:OKH92782.1:loc:24050:25238:strand:+ -            395   4.5e-08   33.2   0.0   1   1   1.1e-11   1.1e-07   31.9   0.0    28   185    84   339    75   346 0.73 Peptidase family M20/M25/M40
+M20_dimer            PF07687.17   109 BGC0002343_ORF15:gid::pid:OKH92782.1:loc:24050:25238:strand:+ -            395   5.1e-08   32.9   0.0   1   1   1.3e-11   1.2e-07   31.7   0.0     8   106   165   259   162   262 0.81 Peptidase dimerisation domain
+Glyoxalase_6         PF18029.4    106 BGC0002343_ORF16:gid::pid:OKH92612.1:loc:25369:26137:strand:- -            255   5.8e-19   68.9   2.2   1   2   8.5e-12   8.4e-08   33.0   0.2     6   103    15   113     9   115 0.79 Glyoxalase-like domain
+Glyoxalase_6         PF18029.4    106 BGC0002343_ORF16:gid::pid:OKH92612.1:loc:25369:26137:strand:- -            255   5.8e-19   68.9   2.2   2   2   1.2e-12   1.2e-08   35.8   0.2     4   106   137   248   134   248 0.74 Glyoxalase-like domain
+TetR_C_6             PF13977.9    115 BGC0002343_ORF17:gid::pid:OKH92613.1:loc:26199:26817:strand:- -            205   3.6e-16   59.5   1.8   1   1   1.1e-19   7.5e-16   58.5   1.8     3   114    84   194    82   195 0.91 BetI-type transcriptional repressor, C-terminal
+TetR_N               PF00440.26    47 BGC0002343_ORF17:gid::pid:OKH92613.1:loc:26199:26817:strand:- -            205   1.8e-11   43.8   0.7   1   1   5.1e-15   3.4e-11   42.9   0.1     2    47    15    60    14    60 0.96 Bacterial regulatory proteins, tetR family
+TetR_C_24            PF17932.4    114 BGC0002343_ORF17:gid::pid:OKH92613.1:loc:26199:26817:strand:- -            205   1.3e-07   32.0   0.0   1   1   4.4e-11   2.9e-07   30.9   0.0     2    86    80   165    79   167 0.93 Tetracyclin repressor-like, C-terminal domain
+Methyltransf_2       PF00891.21   210 BGC0002343_ORF18:gid::pid:OKH92783.1:loc:26966:27971:strand:+ -            334   3.4e-38  131.2   0.0   1   1   4.8e-42   4.7e-38  130.8   0.0     1   209   109   315   109   316 0.93 O-methyltransferase domain
+Dimerisation2        PF16864.8     90 BGC0002343_ORF18:gid::pid:OKH92783.1:loc:26966:27971:strand:+ -            334   6.2e-12   45.4   0.0   1   1   1.3e-15   1.2e-11   44.5   0.0     2    80    10    83     9    90 0.92 Dimerisation domain
+Methyltransf_19      PF04672.15   268 BGC0002343_ORF20:gid::pid:OKH92784.1:loc:29838:30600:strand:+ -            253   1.4e-80  270.8   0.1   1   1   7.9e-85   1.5e-80  270.6   0.1    18   268     1   248     1   248 0.99 S-adenosyl methyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002343.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002343.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002343.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:56:36 2023
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GMC_oxred_N          PF00732.22   296 BGC0001323_ORF1:gid::pid:AGK82825.1:loc:6416:14383:strand:- -            746   1.9e-58  198.3   0.2   1   1   2.8e-62   2.8e-58  197.8   0.2     2   296   229   496   228   496 0.90 GMC oxidoreductase
+GMC_oxred_C          PF05199.16   145 BGC0001323_ORF1:gid::pid:AGK82825.1:loc:6416:14383:strand:- -            746     2e-24   86.9   0.0   1   1   1.6e-26   1.6e-22   80.7   0.0    21   143   602   730   591   732 0.81 GMC oxidoreductase
+Prenyltransf         PF01255.22   221 BGC0001323_ORF3:gid:pseudo<30240_31281:pid::loc:30240:31281:strand:+ -            164   2.8e-46  157.9   0.0   1   1   1.6e-50   3.2e-46  157.8   0.0    58   221     1   160     1   160 0.92 Putative undecaprenyl diphosphate synthase
+Prenyltransf         PF01255.22   221 BGC0001323_ORF4:gid::pid:AGK82826.1:loc:37366:40666:strand:- -            303   1.3e-71  240.8   0.0   1   1   7.9e-76   1.6e-71  240.5   0.0     1   221    84   299    84   299 0.92 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.19   267 BGC0001323_ORF5:gid::pid:AGK82822.1:loc:44584:51680:strand:+ -            778     3e-58  197.4   6.2   1   1   4.7e-62     3e-58  197.4   6.2     1   266   457   718   457   719 0.94 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0001323_ORF5:gid::pid:AGK82822.1:loc:44584:51680:strand:+ -            778   3.3e-41  141.2   5.4   1   1   1.1e-44   6.9e-41  140.2   5.4     1   192   216   415   216   415 0.85 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0001323_ORF5:gid::pid:AGK82822.1:loc:44584:51680:strand:+ -            778   2.7e-34  118.9   0.8   1   1   8.8e-38   5.8e-34  117.8   0.8     1   196   522   716   522   719 0.91 Terpene synthase family 2, C-terminal metal binding
+Prenyltransf         PF01255.22   221 BGC0001323_ORF6:gid::pid:AGK82827.1:loc:52105:54703:strand:- -            323   6.3e-72  241.8   0.0   1   1   3.9e-76   7.7e-72  241.5   0.0     1   221   104   319   104   319 0.93 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.19   267 BGC0001323_ORF7:gid::pid:AGK82823.1:loc:62413:69860:strand:+ -            770   1.8e-56  191.6   8.0   1   1   3.8e-60   2.5e-56  191.1   5.8     1   266   445   708   445   709 0.93 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.24   192 BGC0001323_ORF7:gid::pid:AGK82823.1:loc:62413:69860:strand:+ -            770   1.4e-37  129.4   5.3   1   1   5.3e-41   3.5e-37  128.1   5.3     1   192   205   403   205   403 0.85 Terpene synthase, N-terminal domain
+Terpene_syn_C_2      PF19086.3    199 BGC0001323_ORF7:gid::pid:AGK82823.1:loc:62413:69860:strand:+ -            770   4.4e-33  114.9   0.9   1   1   1.4e-36   8.8e-33  113.9   0.3     1   198   510   708   510   709 0.85 Terpene synthase family 2, C-terminal metal binding
+p450                 PF00067.25   463 BGC0001323_ORF8:gid::pid:AGK82824.1:loc:72113:74096:strand:+ -            506  8.4e-103  344.7   0.0   1   1  5.1e-107    1e-102  344.4   0.0     1   451    32   489    32   501 0.92 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001323.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001323.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001323.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:31:13 2023
+# [ok]

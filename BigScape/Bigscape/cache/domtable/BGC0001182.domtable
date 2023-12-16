@@ -1,0 +1,41 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HTH_psq              PF05225.19    45 BGC0001182_ORF2:gid::pid:XP_001220459.1:loc:3047:4484:strand:+ -            409   1.9e-05   24.4   0.1   1   1   2.1e-09   4.1e-05   23.4   0.1     2    36     7    43     6    49 0.84 helix-turn-helix, Psq domain
+Condensation         PF00668.23   457 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   4.4e-65  220.3   0.0   1   1   9.5e-68   8.1e-65  219.4   0.0     4   447  3268  3696  3266  3704 0.92 Condensation domain
+KR                   PF08659.13   180 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699     1e-52  178.8   0.0   1   1   1.9e-54   1.6e-51  174.9   0.0     2   178  2794  2967  2793  2969 0.97 KR domain
+PS-DH                PF14765.9    297 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   1.9e-50  171.9   0.0   1   1   5.1e-53   4.4e-50  170.8   0.0     2   290  1645  1941  1644  1947 0.87 Polyketide synthase dehydratase
+AMP-binding          PF00501.31   424 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   4.3e-49  167.4   0.0   1   2   5.3e-19   4.5e-16   58.6   0.0     5   101  3730  3829  3726  3863 0.83 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   4.3e-49  167.4   0.0   2   2   1.4e-33   1.2e-30  106.7   0.0   201   418  3882  4113  3858  4121 0.85 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   5.5e-39  134.0   0.0   1   1   3.3e-41   2.8e-38  131.7   0.0     1   257  4367  4598  4367  4598 0.84 Male sterility protein
+Acyl_transf_1        PF00698.24   319 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   4.1e-37  128.5   1.5   1   1   1.1e-39   9.4e-37  127.3   1.5     3   300  1250  1573  1249  1587 0.82 Acyl transferase domain
+ketoacyl-synt        PF00109.29   253 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699     2e-32  112.9   0.4   1   1   5.7e-35   4.8e-32  111.6   0.4   145   253   843   951   811   951 0.92 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   1.1e-29  103.0   0.0   1   1   7.3e-32   6.2e-29  100.5   0.0     2   118   960  1086   959  1087 0.92 Beta-ketoacyl synthase, C-terminal domain
+MULE                 PF10551.12    98 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   2.5e-26   92.1   0.6   1   1   7.7e-29   6.6e-26   90.7   0.6     2    98   276   372   275   372 0.98 MULE transposase domain
+Methyltransf_12      PF08242.15    99 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   1.8e-17   64.0   0.0   1   1   8.7e-20   7.5e-17   62.0   0.0     1    99  2084  2185  2084  2185 0.84 Methyltransferase domain
+PP-binding           PF00550.28    67 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   6.8e-17   61.7   3.0   1   2   1.4e-08   1.2e-05   25.6   0.6     7    65  3089  3147  3086  3149 0.91 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   6.8e-17   61.7   3.0   2   2   1.3e-11   1.1e-08   35.4   0.1     3    67  4245  4312  4243  4312 0.89 Phosphopantetheine attachment site
+Epimerase            PF01370.24   241 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   9.8e-15   54.8   0.0   1   1   6.7e-16   5.7e-13   49.0   0.0     1   231  4365  4607  4365  4614 0.77 NAD dependent epimerase/dehydratase family
+Methyltransf_25      PF13649.9     97 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   3.7e-13   50.1   0.0   1   1   3.5e-15     3e-12   47.2   0.0     1    97  2083  2183  2083  2183 0.86 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699     5e-13   49.6   0.0   1   1   2.6e-15   2.2e-12   47.6   0.0     1    95  2084  2186  2084  2187 0.87 Methyltransferase domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   7.4e-13   49.1   0.0   1   1   3.7e-15   3.2e-12   47.1   0.0    11   104  1098  1199  1090  1208 0.82 Ketoacyl-synthetase C-terminal extension
+Methyltransf_31      PF13847.9    152 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   6.1e-13   49.0   0.0   1   1   1.6e-15   1.4e-12   47.8   0.0     4   113  2080  2191  2078  2210 0.91 Methyltransferase domain
+adh_short            PF00106.28   195 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699     9e-13   48.2   0.0   1   1   5.1e-15   4.3e-12   46.0   0.0     5   182  2797  2967  2793  2982 0.87 short chain dehydrogenase
+Methyltransf_23      PF13489.9    165 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   1.8e-11   44.3   0.0   1   1     6e-14   5.1e-11   42.8   0.0    12   161  2066  2237  2053  2241 0.69 Methyltransferase domain
+Transposase_mut      PF00872.21   381 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   2.1e-06   27.0   0.2   1   1   8.6e-09   7.3e-06   25.2   0.0   229   270   339   380   307   390 0.90 Transposase, Mutator family
+Methyltransf_16      PF10294.12   174 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699   1.1e-05   25.3   0.0   1   1   3.8e-08   3.2e-05   23.9   0.0    28   152  2060  2184  2050  2193 0.84 Lysine methyltransferase
+Ubie_methyltran      PF01209.21   233 BGC0001182_ORF3:gid::pid:XP_001220460.1:loc:6822:22833:strand:- -           4699    0.0001   21.8   0.0   1   1   2.6e-07   0.00022   20.7   0.0    44   155  2076  2191  2061  2201 0.82 ubiE/COQ5 methyltransferase family
+p450                 PF00067.25   463 BGC0001182_ORF6:gid::pid:XP_001220463.1:loc:27465:31627:strand:- -           1090   5.7e-31  107.9   0.0   1   1   1.2e-34   8.1e-31  107.4   0.0    81   403   116   441    78   442 0.82 Cytochrome P450
+FAD_binding_4        PF01565.26   139 BGC0001182_ORF6:gid::pid:XP_001220463.1:loc:27465:31627:strand:- -           1090   5.8e-16   58.6   0.1   1   1   1.8e-19   1.2e-15   57.6   0.1     4   138   642   785   640   786 0.87 FAD binding domain
+BBE                  PF08031.15    46 BGC0001182_ORF6:gid::pid:XP_001220463.1:loc:27465:31627:strand:- -           1090   1.4e-06   28.4   0.0   1   1   6.2e-10   4.1e-06   26.9   0.0     1    38  1023  1060  1012  1065 0.84 Berberine and berberine like
+p450                 PF00067.25   463 BGC0001182_ORF7:gid::pid:XP_001220464.1:loc:32914:33994:strand:- -            340   2.3e-32  112.5   0.0   1   1   1.3e-36   2.5e-32  112.4   0.0   266   463   129   335    57   335 0.89 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001182.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001182.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001182.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:18:46 2023
+# [ok]

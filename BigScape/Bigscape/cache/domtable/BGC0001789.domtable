@@ -1,0 +1,26 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.25   284 BGC0001789_ORF1:gid:sslP:pid:AOT85873.1:loc:336:1710:strand:+ -            457     2e-43  148.8   1.1   1   1   1.5e-47     3e-43  148.2   1.1     4   254   147   420   144   442 0.91 Subtilase family
+Response_reg         PF00072.27   112 BGC0001789_ORF2:gid:sslR:pid:AOT85874.1:loc:1750:2449:strand:+ -            232   8.8e-28   96.8   0.6   1   1   1.4e-31   1.4e-27   96.2   0.6     1   111     4   112     4   113 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 BGC0001789_ORF2:gid:sslR:pid:AOT85874.1:loc:1750:2449:strand:+ -            232   3.2e-16   59.3   0.1   1   1   8.1e-20   7.9e-16   58.0   0.0     1    76   151   224   151   225 0.96 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.29   112 BGC0001789_ORF3:gid:sslK:pid:AOT85875.1:loc:2426:3791:strand:+ -            454   4.1e-11   43.5   0.1   1   1   2.1e-14   1.4e-10   41.8   0.1     4   109   341   445   338   447 0.91 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.28    67 BGC0001789_ORF3:gid:sslK:pid:AOT85875.1:loc:2426:3791:strand:+ -            454   1.5e-08   34.6   0.0   1   1   6.7e-12   4.4e-08   33.2   0.0     4    64   231   290   228   291 0.90 His Kinase A (phospho-acceptor) domain
+ABC_tran             PF00005.30   137 BGC0001789_ORF4:gid:sslF:pid:AOT85876.1:loc:3947:4664:strand:+ -            238   4.5e-28   98.6   0.1   1   1   8.5e-32   8.4e-28   97.7   0.0     1   137    23   162    23   162 0.96 ABC transporter
+AAA_21               PF13304.9    304 BGC0001789_ORF4:gid:sslF:pid:AOT85876.1:loc:3947:4664:strand:+ -            238   5.1e-15   56.2   0.9   1   1   2.6e-13   2.5e-09   37.5   0.0   235   301   131   194   122   197 0.93 AAA domain, putative AbiEii toxin, Type IV TA system
+Gallidermin          PF02052.18    52 BGC0001789_ORF7:gid:sslA:pid:AOT85868.1:loc:6406:6574:strand:+ -             55   9.8e-11   41.9   0.3   1   1     7e-15   1.4e-10   41.5   0.3     7    45     2    38     1    44 0.85 Gallidermin
+Lant_dehydr_N        PF04738.16   650 BGC0001789_ORF8:gid:sslB:pid:AOT85869.1:loc:6814:9790:strand:+ -            991   9.2e-90  301.6   0.0   1   1   1.3e-93   1.3e-89  301.1   0.0     2   649    37   657    36   658 0.92 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.9    288 BGC0001789_ORF8:gid:sslB:pid:AOT85869.1:loc:6814:9790:strand:+ -            991   1.1e-25   91.0   0.0   1   1   1.6e-25   1.5e-21   77.5   0.0     1   163   732   875   732   905 0.88 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.30   137 BGC0001789_ORF9:gid:sslT:pid:AOT85870.1:loc:9770:11579:strand:+ -            602   1.1e-34  120.1   0.0   1   1   3.2e-38   2.1e-34  119.1   0.0     1   136   371   523   371   524 0.87 ABC transporter
+LANC_like            PF05147.16   352 BGC0001789_ORF10:gid:sslC:pid:AOT85871.1:loc:11571:12849:strand:+ -            425   3.6e-59  200.2  10.6   1   1   2.3e-63   4.6e-59  199.9  10.6     5   352    34   415    32   415 0.91 Lanthionine synthetase C-like protein
+Spa1_C               PF18218.4     99 BGC0001789_ORF11:gid:sslI:pid:AOT85872.1:loc:12850:13567:strand:+ -            238     3e-34  117.5   6.0   1   1     9e-31   1.8e-26   92.6   0.2     1    99   140   235   140   235 0.97 Lantibiotic immunity protein Spa1 C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001789.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001789.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001789.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:53:33 2023
+# [ok]

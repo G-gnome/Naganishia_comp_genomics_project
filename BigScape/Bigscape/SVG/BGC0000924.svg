@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="209.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="199.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>prnA
+PrnA</title>
+			<polygon class="prnA
+PrnA" points="14,25 37,25 37,10 67,40 37,70 37,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="14,28 51,28 61,38 61,42 51,52 14,52" stroke-linejoin="round" width="47" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>prnB
+PrnB</title>
+			<polygon class="prnB
+PrnB" points="68,25 74,25 74,10 104,40 74,70 74,55 68,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1864 (PF08933)
+"Domain of unknown function (DUF1864)"</title>
+				<polygon class="PF08933" points="69,28 87,28 99,40 87,52 69,52" stroke-linejoin="round" width="34" height="24" fill="rgb(86,178,181)" stroke="rgb(68,142,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>prnC
+PrnC</title>
+			<polygon class="prnC
+PrnC" points="105,25 131,25 131,10 161,40 131,70 131,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="117,28 145,28 148,31 148,49 145,52 117,52" stroke-linejoin="round" width="31" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>prnD
+PrnD</title>
+			<polygon class="prnD
+PrnD" points="163,25 169,25 169,10 199,40 169,70 169,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="165" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KshA_C (PF19298)
+"3-Ketosteroid 9alpha-hydroxylase C-terminal domain"</title>
+				<polygon class="PF19298" points="176,28 183,28 195,40 183,52 176,52" stroke-linejoin="round" width="22" height="24" fill="rgb(155,81,203)" stroke="rgb(123,64,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

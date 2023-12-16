@@ -1,0 +1,17 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 BGC0001668_ORF1:gid::pid:CBF82791.1:loc:56:3000:strand:- -            938   8.8e-51  173.0   0.0   1   1     2e-54   1.3e-50  172.4   0.0    19   423    44   445    25   446 0.82 AMP-binding enzyme
+Thioesterase         PF00975.23   230 BGC0001668_ORF1:gid::pid:CBF82791.1:loc:56:3000:strand:- -            938   6.7e-34  118.1   0.0   1   1   2.1e-37   1.4e-33  117.1   0.0     2   223   676   923   675   932 0.84 Thioesterase domain
+PP-binding           PF00550.28    67 BGC0001668_ORF1:gid::pid:CBF82791.1:loc:56:3000:strand:- -            938   7.1e-10   39.2   0.1   1   1   2.9e-13   1.9e-09   37.8   0.1     2    66   584   650   583   651 0.95 Phosphopantetheine attachment site
+p450                 PF00067.25   463 BGC0001668_ORF3:gid::pid:CBF82795.1:loc:5846:7544:strand:+ -            543   1.8e-62  211.7   0.0   1   1   1.1e-66   2.3e-62  211.4   0.0     1   449    47   488    47   505 0.80 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001668.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001668.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001668.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:21:43 2023
+# [ok]

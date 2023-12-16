@@ -1,0 +1,17 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HpcH_HpaI            PF03328.17   221 BGC0002647_ORF1:gid::pid:AKU23105.1:loc:231:855:strand:+ -            207   5.6e-16   58.6   0.5   1   1   8.6e-20   8.5e-16   58.0   0.1    83   221     9   141     4   141 0.96 HpcH/HpaI aldolase/citrate lyase family
+C-C_Bond_Lyase       PF15617.9    335 BGC0002647_ORF1:gid::pid:AKU23105.1:loc:231:855:strand:+ -            207   2.3e-09   37.0   0.0   1   1   4.2e-13   4.1e-09   36.2   0.0   249   330   117   198    92   201 0.88 C-C_Bond_Lyase of the TIM-Barrel fold
+MaoC_dehydratas      PF01575.22   123 BGC0002647_ORF2:gid::pid:AKU23106.1:loc:851:1361:strand:+ -            169     3e-21   75.4   0.0   1   1   2.1e-25   4.2e-21   74.9   0.0     6   119    29   143    26   145 0.94 MaoC like domain
+Aminotran_1_2        PF00155.24   363 BGC0002647_ORF3:gid::pid:AKU23107.1:loc:2338:3562:strand:+ -            407   3.6e-17   62.7   0.0   1   1   2.3e-21   4.5e-17   62.4   0.0     4   363    57   401    54   401 0.75 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002647.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002647.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002647.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:51:39 2023
+# [ok]

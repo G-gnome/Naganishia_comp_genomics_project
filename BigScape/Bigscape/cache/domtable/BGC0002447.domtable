@@ -1,0 +1,24 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR                 PF01047.25    59 BGC0002447_ORF1:gid:cycR:pid:QBY34562.1:loc:0:585:strand:- -            194   2.5e-06   27.4   0.0   1   1   5.6e-10   5.5e-06   26.3   0.0    14    53   106   145   104   150 0.93 MarR family
+RepL                 PF05732.14   164 BGC0002447_ORF1:gid:cycR:pid:QBY34562.1:loc:0:585:strand:- -            194   4.5e-05   23.1   0.0   1   1   1.2e-08   0.00012   21.8   0.0    60   128    94   171    81   188 0.86 Firmicute plasmid replication protein (RepL)
+MacB_PCD             PF12704.10   196 BGC0002447_ORF2:gid:cycE:pid:QBY34563.1:loc:776:1976:strand:- -            399   3.5e-31  109.2   0.1   1   1   3.6e-35   3.5e-31  109.2   0.1     1   191    21   236    21   241 0.81 MacB-like periplasmic core domain
+FtsX                 PF02687.24   121 BGC0002447_ORF2:gid:cycE:pid:QBY34563.1:loc:776:1976:strand:- -            399   6.5e-23   81.1  10.1   1   1   6.6e-27   6.5e-23   81.1  10.1     3   121   280   392   278   392 0.98 FtsX-like permease family
+ABC_tran             PF00005.30   137 BGC0002447_ORF3:gid:cycF:pid:QBY34564.1:loc:1972:2653:strand:- -            226   6.7e-33  114.2   0.0   1   1   4.8e-37   9.4e-33  113.8   0.0     1   136    21   169    21   170 0.90 ABC transporter
+HlyD_3               PF13437.9    106 BGC0002447_ORF4:gid:cycG:pid:QBY34565.1:loc:2649:3843:strand:- -            397     7e-09   36.4   2.3   1   1   1.4e-10   1.4e-06   29.1   0.1     1    97   195   309   195   325 0.77 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.9     50 BGC0002447_ORF4:gid:cycG:pid:QBY34565.1:loc:2649:3843:strand:- -            397   1.4e-08   34.5   0.2   1   1   1.1e-11   1.1e-07   31.7   0.2    10    46    83   119    79   121 0.95 Biotin-lipoyl like
+SpoIIM               PF01944.20   156 BGC0002447_ORF7:gid:cycC:pid:QBY34568.1:loc:6075:6591:strand:+ -            171   8.8e-17   61.7  22.8   1   1   1.6e-20   3.2e-16   59.9  23.3     7   155    22   168    10   169 0.76 Stage II sporulation protein M
+ABC_tran             PF00005.30   137 BGC0002447_ORF8:gid:cycD:pid:QBY34569.1:loc:6599:7331:strand:+ -            243   2.7e-28   99.3   0.1   1   1     8e-32   7.8e-28   97.8   0.0     2   137    22   163    21   163 0.91 ABC transporter
+AAA_21               PF13304.9    304 BGC0002447_ORF8:gid:cycD:pid:QBY34569.1:loc:6599:7331:strand:+ -            243   2.7e-13   50.5   0.7   1   1   4.2e-12   4.1e-08   33.5   0.0   238   302   135   196    56   198 0.73 AAA domain, putative AbiEii toxin, Type IV TA system
+Yip1                 PF04893.20   173 BGC0002447_ORF10:gid:cycH:pid:QBY34571.1:loc:7518:8196:strand:+ -            225   3.8e-14   53.1  12.5   1   1   2.4e-18   4.7e-14   52.8  12.5     3   165    19   213    17   218 0.70 Yip1 domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002447.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002447.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002447.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:18:35 2023
+# [ok]

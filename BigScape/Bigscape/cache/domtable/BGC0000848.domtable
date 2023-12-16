@@ -1,0 +1,15 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AfsA                 PF03756.16   133 BGC0000848_ORF1:gid:afsA:pid:BAG23718.1:loc:0:945:strand:+ -            314   1.7e-50  170.6   0.0   1   2   1.1e-36   2.1e-32  112.0   0.0     1   131    28   162    28   164 0.98 A-factor biosynthesis hotdog domain
+AfsA                 PF03756.16   133 BGC0000848_ORF1:gid:afsA:pid:BAG23718.1:loc:0:945:strand:+ -            314   1.7e-50  170.6   0.0   2   2   1.5e-19     3e-15   56.5   0.0     3   129   196   307   195   309 0.94 A-factor biosynthesis hotdog domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000848.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000848.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000848.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:14:47 2023
+# [ok]

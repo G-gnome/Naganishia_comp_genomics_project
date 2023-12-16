@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR                 PF01047.25    59 BGC0000854_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   2.3e-17   62.8   1.6   1   1   1.1e-20   4.2e-17   61.9   1.6     1    59    57   115    57   115 0.99 MarR family
+MarR_2               PF12802.10    61 BGC0000854_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   1.1e-12   48.0   1.0   1   1   5.2e-16     2e-12   47.0   1.0     3    60    57   113    55   114 0.97 MarR family
+HTH_27               PF13463.9     68 BGC0000854_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   8.5e-08   32.8   0.7   1   1   5.2e-11     2e-07   31.6   0.7     1    67    57   122    57   123 0.98 Winged helix DNA-binding domain
+HTH_24               PF13412.9     48 BGC0000854_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   1.7e-06   27.6   0.4   1   1   8.2e-10   3.2e-06   26.7   0.4     7    46    63   102    57   103 0.92 Winged helix-turn-helix DNA-binding
+Acetyltransf_1       PF00583.28   117 BGC0000854_ORF2:gid:ectA:pid:AAY96770.1:loc:1708:2227:strand:+ -            172   1.1e-14   54.8   0.0   1   1   2.2e-18   1.5e-14   54.4   0.0    27   113    47   130    22   133 0.84 Acetyltransferase (GNAT) family
+Acetyltransf_3       PF13302.10   138 BGC0000854_ORF2:gid:ectA:pid:AAY96770.1:loc:1708:2227:strand:+ -            172   4.2e-06   27.6   0.0   1   1   8.8e-10   5.7e-06   27.2   0.0    56   134    52   131    15   133 0.79 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.10   128 BGC0000854_ORF2:gid:ectA:pid:AAY96770.1:loc:1708:2227:strand:+ -            172     5e-06   26.6   0.0   1   1   1.3e-09   8.7e-06   25.8   0.0    32    98    52   124    35   132 0.84 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.24   403 BGC0000854_ORF3:gid:ectB:pid:AAY96771.1:loc:2269:3601:strand:+ -            443     1e-81  274.8   0.0   1   1   6.3e-86   1.2e-81  274.6   0.0     9   403    18   411    11   411 0.89 Aminotransferase class-III
+Ectoine_synth        PF06339.15   127 BGC0000854_ORF4:gid:ectC:pid:AAY96772.1:loc:3651:4056:strand:+ -            134   8.7e-60  200.7   0.0   1   1     5e-64   9.9e-60  200.5   0.0     1   126     1   128     1   129 0.98 Ectoine synthase
+AA_kinase            PF00696.31   241 BGC0000854_ORF5:gid:ask:pid:AAY96773.1:loc:4116:5559:strand:+ -            480   1.1e-27   97.4   0.3   1   1   1.9e-31   1.8e-27   96.6   0.3     3   241     5   299     4   299 0.89 Amino acid kinase family
+ACT_7                PF13840.9     65 BGC0000854_ORF5:gid:ask:pid:AAY96773.1:loc:4116:5559:strand:+ -            480   2.9e-09   36.7   0.3   1   1   6.6e-13   6.5e-09   35.6   0.3     5    64   400   463   396   464 0.89 ACT domain
+PhyH                 PF05721.16   211 BGC0000854_ORF6:gid:phy:pid:AAY96769.2:loc:5919:6879:strand:+ -            319   2.9e-33  116.1   0.0   1   1   1.9e-37   3.8e-33  115.7   0.0     1   209    52   267    52   269 0.93 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000854.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000854.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000854.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:25:57 2023
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FrsA-like            PF06500.14   414 BGC0000196_ORF1:gid::pid:CAE16558.1:loc:953:2108:strand:- -            384   3.5e-07   29.5   0.0   1   1   5.1e-11     5e-07   29.0   0.0    96   296    63   268    60   281 0.90 Esterase FrsA-like
+Peptidase_S9         PF00326.24   212 BGC0000196_ORF1:gid::pid:CAE16558.1:loc:953:2108:strand:- -            384   8.3e-07   28.8   0.0   1   1     2e-10   1.9e-06   27.6   0.0    53   208   226   375   221   378 0.77 Prolyl oligopeptidase family
+Polyketide_cyc       PF03364.23   130 BGC0000196_ORF2:gid::pid:CAE16559.1:loc:2127:3570:strand:- -            480   7.2e-36  123.4   0.0   1   3   8.8e-10   8.7e-06   26.1   0.0     2   106    12   115    11   125 0.85 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.23   130 BGC0000196_ORF2:gid::pid:CAE16559.1:loc:2127:3570:strand:- -            480   7.2e-36  123.4   0.0   2   3   1.7e-17   1.7e-13   51.0   0.0     2   129   175   297   174   298 0.89 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.23   130 BGC0000196_ORF2:gid::pid:CAE16559.1:loc:2127:3570:strand:- -            480   7.2e-36  123.4   0.0   3   3   5.9e-15   5.8e-11   42.8   0.0     1   125   334   453   334   458 0.88 Polyketide cyclase / dehydrase and lipid transport
+AMP-binding          PF00501.31   424 BGC0000196_ORF3:gid::pid:CAE16560.1:loc:3569:5117:strand:- -            515   5.4e-44  150.6   0.0   1   1   3.5e-48   6.8e-44  150.3   0.0    14   421    20   400     9   403 0.75 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0000196_ORF4:gid::pid:CAE16561.1:loc:5140:5389:strand:- -             82     6e-10   39.4   0.1   1   1   3.4e-14   6.7e-10   39.3   0.1     2    66     8    73     7    74 0.92 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.29   253 BGC0000196_ORF5:gid::pid:CAE16562.1:loc:5423:6539:strand:- -            371   3.9e-19   69.3   0.4   1   1   4.1e-22   8.1e-18   65.0   0.4     2   253     3   233     2   233 0.82 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.29   253 BGC0000196_ORF6:gid::pid:CAE16563.1:loc:6531:7818:strand:- -            428   1.1e-39  136.7   0.7   1   1   1.7e-43   1.7e-39  136.0   0.3     2   253    12   260    11   260 0.89 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000196_ORF6:gid::pid:CAE16563.1:loc:6531:7818:strand:- -            428   1.8e-30  105.5   1.8   1   1   2.5e-33   2.4e-29  101.9   0.8     1   118   268   382   268   383 0.97 Beta-ketoacyl synthase, C-terminal domain
+Cyclase              PF04199.16   135 BGC0000196_ORF7:gid::pid:CAE16564.1:loc:8469:9285:strand:- -            271   7.3e-35  120.3   0.1   1   1   4.7e-39   9.3e-35  120.0   0.1     1   135     5   200     5   200 0.86 Putative cyclase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000196.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000196.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000196.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:52:53 2023
+# [ok]

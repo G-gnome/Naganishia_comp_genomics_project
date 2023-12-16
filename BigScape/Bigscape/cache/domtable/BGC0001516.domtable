@@ -1,0 +1,35 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ank_2                PF12796.10    83 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   1.6e-25   89.6   0.1   1   2   1.3e-14   5.3e-11   43.1   0.0    26    83   237   299   222   299 0.88 Ankyrin repeats (3 copies)
+Ank_2                PF12796.10    83 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   1.6e-25   89.6   0.1   2   2     2e-17   7.7e-14   52.2   0.0     1    75   240   324   240   334 0.89 Ankyrin repeats (3 copies)
+Ank_4                PF13637.9     55 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   1.3e-21   76.8   0.1   1   2   1.6e-17   6.2e-14   52.3   0.0     2    54   237   288   236   289 0.95 Ankyrin repeats (many copies)
+Ank_4                PF13637.9     55 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   1.3e-21   76.8   0.1   2   2   2.2e-09   8.8e-06   26.3   0.0    15    55   283   322   281   322 0.95 Ankyrin repeats (many copies)
+Ank_5                PF13857.9     56 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   2.9e-20   72.2   2.2   1   2   2.1e-13   8.4e-10   38.8   0.0    12    55   232   275   223   276 0.94 Ankyrin repeats (many copies)
+Ank_5                PF13857.9     56 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   2.9e-20   72.2   2.2   2   2     5e-10     2e-06   28.1   0.1     7    53   260   306   259   306 0.97 Ankyrin repeats (many copies)
+Ank_3                PF13606.9     31 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   4.9e-17   60.4   0.0   1   2   8.2e-09   3.2e-05   24.1   0.0     4    31   238   264   238   264 0.97 Ankyrin repeat
+Ank_3                PF13606.9     31 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   4.9e-17   60.4   0.0   2   2   1.1e-07   0.00043   20.6   0.0     1    29   268   295   268   297 0.95 Ankyrin repeat
+Ank                  PF00023.33    33 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   2.1e-15   56.5   0.4   1   2   2.2e-09   8.5e-06   26.1   0.0     4    32   238   266   237   267 0.93 Ankyrin repeat
+Ank                  PF00023.33    33 BGC0001516_ORF1:gid::pid:XP_002373811.1:loc:0:1069:strand:- -            338   2.1e-15   56.5   0.4   2   2   5.8e-07    0.0023   18.4   0.1     2    32   269   299   268   300 0.92 Ankyrin repeat
+AMP-binding          PF00501.31   424 BGC0001516_ORF3:gid::pid:XP_002373813.1:loc:4299:7365:strand:- -           1021   1.3e-80  271.2   0.0   1   1   5.8e-84   1.9e-80  270.7   0.0     2   424    17   418    16   418 0.90 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 BGC0001516_ORF3:gid::pid:XP_002373813.1:loc:4299:7365:strand:- -           1021     2e-58  197.7   0.0   1   1   1.6e-61   5.1e-58  196.4   0.0     1   256   646   888   646   889 0.89 Male sterility protein
+PP-binding           PF00550.28    67 BGC0001516_ORF3:gid::pid:XP_002373813.1:loc:4299:7365:strand:- -           1021   2.2e-14   53.6   0.1   1   1     3e-17   9.9e-14   51.5   0.0     2    65   536   597   535   599 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001516_ORF3:gid::pid:XP_002373813.1:loc:4299:7365:strand:- -           1021   4.2e-09   37.4   0.0   1   1   4.2e-12   1.4e-08   35.7   0.0     1    76   426   500   426   500 0.89 AMP-binding enzyme C-terminal domain
+Epimerase            PF01370.24   241 BGC0001516_ORF3:gid::pid:XP_002373813.1:loc:4299:7365:strand:- -           1021     9e-09   35.3   0.0   1   1   5.6e-12   1.8e-08   34.2   0.0     1   194   644   865   644   877 0.75 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.22   280 BGC0001516_ORF3:gid::pid:XP_002373813.1:loc:4299:7365:strand:- -           1021   1.9e-07   30.5   0.0   1   1   2.4e-10   7.9e-07   28.5   0.0     2   159   646   825   645   847 0.68 3-beta hydroxysteroid dehydrogenase/isomerase family
+p450                 PF00067.25   463 BGC0001516_ORF4:gid::pid:XP_002373814.1:loc:7979:9639:strand:+ -            513   3.2e-54  184.5   0.0   1   1   2.2e-58   4.3e-54  184.1   0.0    27   444    94   493    75   508 0.88 Cytochrome P450
+Fungal_trans         PF04082.21   267 BGC0001516_ORF5:gid::pid:XP_002373815.1:loc:9846:11965:strand:+ -            702     7e-10   38.5   0.0   1   1   1.3e-13   1.3e-09   37.7   0.0    91   192   317   428   228   433 0.70 Fungal specific transcription factor domain
+Zn_clus              PF00172.21    40 BGC0001516_ORF5:gid::pid:XP_002373815.1:loc:9846:11965:strand:+ -            702   6.1e-09   36.0   9.1   1   1   1.2e-12   1.1e-08   35.1   9.1     1    32    57    87    57    93 0.92 Fungal Zn(2)-Cys(6) binuclear cluster domain
+MFS_1                PF07690.19   353 BGC0001516_ORF6:gid::pid:XP_002373816.1:loc:12565:14067:strand:+ -            442   2.1e-31  109.3  53.6   1   2     2e-21     2e-17   63.3  28.2     9   240    63   280    49   305 0.67 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0001516_ORF6:gid::pid:XP_002373816.1:loc:12565:14067:strand:+ -            442   2.1e-31  109.3  53.6   2   2   1.5e-16   1.4e-12   47.3  27.0     3   162   259   426   254   436 0.75 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001516_ORF6:gid::pid:XP_002373816.1:loc:12565:14067:strand:+ -            442   1.2e-07   31.1  40.0   1   1   1.9e-11   1.8e-07   30.5  15.9     9   186   256   427   252   432 0.84 Sugar (and other) transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001516.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001516.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001516.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:56:01 2023
+# [ok]

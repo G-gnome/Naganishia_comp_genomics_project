@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="452.96666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="442.96666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>dfoS
+putative siderophore MFS transporter DfoS</title>
+			<polygon class="dfoS
+putative siderophore MFS transporter DfoS" points="195,25 185,25 185,10 155,40 185,70 185,55 195,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="159,40 171,28 193,28 193,52 171,52 159,40" stroke-linejoin="round" width="34" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dfoC
+putative siderophore biosynthesis protein DfoC</title>
+			<polygon class="dfoC
+putative siderophore biosynthesis protein DfoC" points="277,25 229,25 229,10 199,40 229,70 229,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="203,40 215,28 216,28 216,52 215,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="219" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<rect class="PF13523" x="261" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dfoA
+putative lysine/ornithine N-monooxygenase DfoA</title>
+			<polygon class="dfoA
+putative lysine/ornithine N-monooxygenase DfoA" points="320,25 307,25 307,10 277,40 307,70 307,55 320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="286,35 293,28 319,28 319,52 293,52 286,45" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dfoJ
+putative pyridoxal-dependent decarboxylase DfoJ</title>
+			<polygon class="dfoJ
+putative pyridoxal-dependent decarboxylase DfoJ" points="372,25 351,25 351,10 321,40 351,70 351,55 372,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="329,36 337,28 365,28 365,52 337,52 329,44" stroke-linejoin="round" width="36" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

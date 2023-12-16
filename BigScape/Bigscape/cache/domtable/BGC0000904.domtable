@@ -1,0 +1,29 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aconitase            PF00330.23   461 BGC0000904_ORF1:gid:frbA:pid:ABB90390.1:loc:116:2777:strand:- -            886  1.6e-154  515.5   0.0   1   1  2.1e-158  2.1e-154  515.1   0.0    12   461    82   555    64   555 0.95 Aconitase family (aconitate hydratase)
+Aconitase_C          PF00694.22   131 BGC0000904_ORF1:gid:frbA:pid:ABB90390.1:loc:116:2777:strand:- -            886   1.1e-34  119.7   0.0   1   1   1.6e-38   1.6e-34  119.2   0.0     3   129   682   808   680   810 0.98 Aconitase C-terminal domain
+Iso_dh               PF00180.23   347 BGC0000904_ORF2:gid:frbB:pid:ABB90391.1:loc:2825:3884:strand:+ -            352   1.5e-09   37.7   0.0   1   1   1.1e-13   2.2e-09   37.2   0.0   145   320   141   323    95   339 0.82 Isocitrate/isopropylmalate dehydrogenase
+HMGL-like            PF00682.22   264 BGC0000904_ORF3:gid:frbC:pid:ABB90392.1:loc:3900:5022:strand:- -            373   1.6e-70  237.8   1.0   1   1   9.7e-75   1.9e-70  237.5   1.0     4   264     7   262     4   262 0.99 HMGL-like
+PEP_mutase           PF13714.9    241 BGC0000904_ORF4:gid:frbD:pid:ABB90393.1:loc:5273:6104:strand:+ -            276   7.3e-62  209.1   5.4   1   1   4.3e-66   8.5e-62  208.9   5.4     6   240    12   252     7   253 0.93 Phosphoenolpyruvate phosphomutase
+Iso_dh               PF00180.23   347 BGC0000904_ORF5:gid:frbE:pid:ABB90394.1:loc:6191:7289:strand:+ -            365   2.1e-79  267.4   0.0   1   1   1.2e-83   2.4e-79  267.2   0.0     1   347     5   357     5   357 0.93 Isocitrate/isopropylmalate dehydrogenase
+Antibiotic_NAT       PF02522.17   230 BGC0000904_ORF6:gid:frbF:pid:ABB90395.1:loc:7285:8146:strand:+ -            286   3.5e-85  285.4   0.0   1   1     2e-89     4e-85  285.2   0.0     1   230    43   275    43   275 0.97 Aminoglycoside 3-N-acetyltransferase
+Aminotran_1_2        PF00155.24   363 BGC0000904_ORF8:gid:frbH:pid:ABB90397.1:loc:9452:11339:strand:+ -            628   1.2e-20   74.1   0.0   1   1   4.4e-24   2.1e-20   73.3   0.0    65   362   327   606   299   607 0.86 Aminotransferase class I and II
+NTP_transf_3         PF12804.10   160 BGC0000904_ORF8:gid:frbH:pid:ABB90397.1:loc:9452:11339:strand:+ -            628     3e-19   70.0   9.3   1   1   9.5e-23   4.7e-19   69.4   7.1     1   124    17   146    17   351 0.85 MobA-like NTP transferase domain
+NTP_transferase      PF00483.26   247 BGC0000904_ORF8:gid:frbH:pid:ABB90397.1:loc:9452:11339:strand:+ -            628     6e-11   42.5   0.0   1   1   1.8e-14   8.9e-11   42.0   0.0     2   131    17   140    16   146 0.89 Nucleotidyl transferase
+IspD                 PF01128.22   221 BGC0000904_ORF8:gid:frbH:pid:ABB90397.1:loc:9452:11339:strand:+ -            628   4.1e-07   30.1   0.0   1   1   1.5e-10   7.4e-07   29.3   0.0     1   154    15   175    15   199 0.73 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NUDIX                PF00293.31   131 BGC0000904_ORF9:gid:frbI:pid:ABB90398.1:loc:11352:11973:strand:+ -            206   1.4e-19   70.5   0.1   1   1   1.1e-23   2.2e-19   69.9   0.1     5   118    42   151    37   160 0.69 NUDIX domain
+TauD                 PF02668.19   268 BGC0000904_ORF10:gid:frbJ:pid:ABB90399.1:loc:11965:12985:strand:+ -            339   2.5e-29  103.0   0.0   1   1   1.6e-33   3.2e-29  102.7   0.0    30   268    73   311    50   311 0.82 Taurine catabolism dioxygenase TauD, TfdA family
+DXP_redisom_C        PF08436.15    84 BGC0000904_ORF11:gid:dxrB:pid:ABB90400.1:loc:13087:14341:strand:+ -            417   5.5e-37  125.9   0.0   1   1   2.2e-40   1.4e-36  124.6   0.0     1    84   174   257   174   257 0.99 1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain
+DXP_reductoisom      PF02670.19   129 BGC0000904_ORF11:gid:dxrB:pid:ABB90400.1:loc:13087:14341:strand:+ -            417   2.4e-34  118.9   0.1   1   1   6.4e-38   4.2e-34  118.2   0.1     1   129    24   162    24   162 0.95 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+DXPR_C               PF13288.9    115 BGC0000904_ORF11:gid:dxrB:pid:ABB90400.1:loc:13087:14341:strand:+ -            417   1.4e-31  109.3   0.0   1   1   4.9e-35   3.2e-31  108.1   0.0     2   114   290   407   289   408 0.94 DXP reductoisomerase C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000904.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000904.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000904.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 14:10:31 2023
+# [ok]

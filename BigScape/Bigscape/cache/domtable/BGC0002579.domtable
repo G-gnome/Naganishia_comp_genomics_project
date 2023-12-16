@@ -1,0 +1,22 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HATPase_c_5          PF14501.9    101 BGC0002579_ORF4:gid:cbnK:pid:AAB81305.1:loc:716:2045:strand:+ -            442   2.7e-14   53.0   0.7   1   1   3.2e-18   6.2e-14   51.8   0.7     1    99   324   426   324   428 0.88 GHKL domain
+LytTR                PF04397.18    98 BGC0002579_ORF5:gid:cbnR:pid:AAB81306.1:loc:2019:2757:strand:+ -            245     3e-15   56.4   1.3   1   1   6.6e-19   6.4e-15   55.3   0.2     2    97   153   244   152   245 0.90 LytTr DNA-binding domain
+Response_reg         PF00072.27   112 BGC0002579_ORF5:gid:cbnR:pid:AAB81306.1:loc:2019:2757:strand:+ -            245   2.5e-12   47.1   0.1   1   1   5.5e-16   5.4e-12   46.0   0.1     1   104     5   117     5   125 0.91 Response regulator receiver domain
+ABC_membrane         PF00664.26   274 BGC0002579_ORF6:gid:cbnT:pid:AAB81307.1:loc:2782:4933:strand:+ -            716   3.2e-57  194.4  20.8   1   1   8.8e-61   4.3e-57  194.0  20.8     1   274   164   434   164   434 0.98 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 BGC0002579_ORF6:gid:cbnT:pid:AAB81307.1:loc:2782:4933:strand:+ -            716   4.8e-48  162.5   0.0   1   1   2.2e-51   1.1e-47  161.4   0.0     3   132     5   138     3   139 0.98 Peptidase C39 family
+ABC_tran             PF00005.30   137 BGC0002579_ORF6:gid:cbnT:pid:AAB81307.1:loc:2782:4933:strand:+ -            716   3.7e-30  105.4   0.0   1   1   1.7e-33   8.1e-30  104.2   0.0     1   137   498   648   498   648 0.87 ABC transporter
+Peptidase_C70        PF12385.11   143 BGC0002579_ORF6:gid:cbnT:pid:AAB81307.1:loc:2782:4933:strand:+ -            716     4e-07   30.1   0.0   1   1   1.8e-10   8.8e-07   29.0   0.0     7   141     4   126     2   128 0.74 Papain-like cysteine protease AvrRpt2
+HlyD_3               PF13437.9    106 BGC0002579_ORF7:gid:cbnD:pid:AAB81308.1:loc:4948:6316:strand:+ -            455   2.2e-11   44.5   1.9   1   1     1e-13     2e-09   38.2   0.0     2    95   320   422   319   434 0.80 HlyD family secretion protein
+Bacteriocin_II       PF01721.21    35 BGC0002579_ORF9:gid:cbnB2:pid:AAB81310.1:loc:7520:7721:strand:+ -             66   2.7e-09   37.0   2.5   1   1   2.1e-13   4.1e-09   36.5   2.5     3    23    21    41    20    57 0.82 Class II bacteriocin
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002579.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002579.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002579.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:59:27 2023
+# [ok]

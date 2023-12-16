@@ -1,0 +1,37 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Carn_acyltransf      PF00755.23   568 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   7.2e-81  272.6   0.0   1   1   7.9e-84   1.1e-80  272.0   0.0     1   567  2424  2991  2424  2992 0.87 Choline/Carnitine o-acyltransferase
+Acyl_transf_1        PF00698.24   319 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   3.5e-50  171.5   1.0   1   1   7.7e-53   1.1e-49  169.8   0.3     2   292   436   745   435   768 0.83 Acyl transferase domain
+ketoacyl-synt        PF00109.29   253 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   4.7e-47  160.8   0.7   1   1     7e-50   9.8e-47  159.8   0.7    85   253     1   165     1   165 0.93 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.9    297 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   1.1e-43  149.7   0.0   1   1   2.8e-46   3.9e-43  147.9   0.0     1   292   821  1114   821  1119 0.90 Polyketide synthase dehydratase
+KR                   PF08659.13   180 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   1.4e-41  142.5   1.3   1   1   2.5e-44   3.5e-41  141.2   0.4     1   179  2008  2191  2008  2192 0.92 KR domain
+Ketoacyl-synt_C      PF02801.25   119 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   3.6e-39  133.6   0.1   1   1   6.2e-42   8.7e-39  132.3   0.1     2   118   174   288   173   289 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   2.1e-19   70.2   0.0   1   1   4.6e-22   6.4e-19   68.6   0.0     1   108   291   401   291   403 0.91 Ketoacyl-synthetase C-terminal extension
+Methyltransf_12      PF08242.15    99 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   8.3e-16   58.7   0.0   1   1   1.7e-18   2.4e-15   57.2   0.0     1    99  1287  1391  1287  1391 0.89 Methyltransferase domain
+Methyltransf_25      PF13649.9     97 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005     4e-11   43.6   0.0   1   1   1.4e-13   1.9e-10   41.4   0.0     1    97  1286  1389  1286  1389 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   5.3e-10   39.5   0.0   1   1   1.3e-12   1.8e-09   37.8   0.0    25   133  1285  1413  1259  1444 0.68 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   5.4e-09   36.1   0.0   1   1   1.1e-11   1.5e-08   34.7   0.0     3   113  1282  1397  1280  1431 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   7.2e-08   33.1   0.0   1   1   2.4e-10   3.3e-07   31.0   0.0     1    95  1287  1392  1287  1393 0.83 Methyltransferase domain
+Methyltransf_16      PF10294.12   174 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   5.5e-06   26.4   0.0   1   1   9.4e-08   0.00013   21.9   0.0    41   167  1277  1407  1261  1410 0.79 Lysine methyltransferase
+Ubie_methyltran      PF01209.21   233 BGC0000003_ORF1:gid:AFT9-1:pid:BAD97694.1:loc:12401:21474:strand:- -           3005   8.2e-06   25.4   0.0   1   1   1.3e-08   1.8e-05   24.3   0.0    42   158  1277  1400  1263  1408 0.87 ubiE/COQ5 methyltransferase family
+Acyl-CoA_dh_1        PF00441.27   150 BGC0000003_ORF2:gid:AFT10-1:pid:BAD97695.1:loc:22503:24346:strand:+ -            432   2.7e-31  108.9   0.8   1   1   8.1e-35     4e-31  108.4   0.8     1   143   262   415   262   421 0.95 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.19   113 BGC0000003_ORF2:gid:AFT10-1:pid:BAD97695.1:loc:22503:24346:strand:+ -            432   3.1e-23   82.7   0.1   1   1   2.3e-26   1.1e-22   80.9   0.1     1   113    26   153    26   153 0.90 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_M        PF02770.22    97 BGC0000003_ORF2:gid:AFT10-1:pid:BAD97695.1:loc:22503:24346:strand:+ -            432   7.2e-21   74.3   0.3   1   1   3.5e-24   1.7e-20   73.1   0.1     1    97   157   250   157   250 0.94 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_2        PF08028.14   134 BGC0000003_ORF2:gid:AFT10-1:pid:BAD97695.1:loc:22503:24346:strand:+ -            432   3.8e-09   37.0   0.3   1   1   1.4e-12   6.8e-09   36.2   0.3     2   126   278   403   277   405 0.96 Acyl-CoA dehydrogenase, C-terminal domain
+p450                 PF00067.25   463 BGC0000003_ORF3:gid:AFT11-1:pid:BAD97696.1:loc:24798:26544:strand:- -            509   9.7e-50  169.8   0.0   1   1   7.3e-54   1.4e-49  169.2   0.0    14   444    41   464    29   479 0.83 Cytochrome P450
+ApbA                 PF02558.19   152 BGC0000003_ORF4:gid:AFT12-1:pid:BAD97697.1:loc:27161:28055:strand:+ -            297     2e-23   82.8   0.0   1   1   2.9e-27   2.8e-23   82.4   0.0     8   148    17   163    16   167 0.91 Ketopantoate reductase PanE/ApbA
+ApbA_C               PF08546.14   125 BGC0000003_ORF4:gid:AFT12-1:pid:BAD97697.1:loc:27161:28055:strand:+ -            297   2.7e-19   69.8   0.0   1   1     9e-23   8.8e-19   68.1   0.0     1   100   192   290   192   292 0.93 Ketopantoate reductase PanE/ApbA C terminal
+Zn_clus              PF00172.21    40 BGC0000003_ORF5:gid:AFTR-2:pid:BAD97698.1:loc:32091:33426:strand:+ -            444     5e-07   29.9   9.9   1   1   2.5e-11     5e-07   29.9   9.9     2    38    15    50    14    52 0.94 Fungal Zn(2)-Cys(6) binuclear cluster domain
+ECH_1                PF00378.23   251 BGC0000003_ORF6:gid:AFT3-2:pid:BAD97699.1:loc:35715:36790:strand:+ -            296   1.5e-45  155.6   0.0   1   1     2e-49     2e-45  155.2   0.0     4   250    23   270    21   271 0.95 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.8    335 BGC0000003_ORF6:gid:AFT3-2:pid:BAD97699.1:loc:35715:36790:strand:+ -            296   5.3e-28   98.6   0.3   1   1   1.2e-30   1.2e-26   94.2   0.1     2   176    26   197    25   220 0.91 Enoyl-CoA hydratase/isomerase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000003.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000003.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000003.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:15:32 2023
+# [ok]

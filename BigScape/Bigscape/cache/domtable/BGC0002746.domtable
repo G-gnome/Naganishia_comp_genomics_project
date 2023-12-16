@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ubiquitin            PF00240.26    72 BGC0002746_ORF2:gid::pid:THU83548.1:loc:1874:2477:strand:- -            154   8.5e-15   54.4   0.1   1   1   5.6e-19   1.1e-14   54.0   0.1     1    72     3    80     3    80 0.88 Ubiquitin family
+Peptidase_S9_N       PF02897.18   414 BGC0002746_ORF7:gid::pid:THU83553.1:loc:12925:16250:strand:+ -            676   7.8e-62  209.5   0.0   1   1   9.7e-66   9.6e-62  209.2   0.0    53   410     5   384     1   388 0.91 Prolyl oligopeptidase, N-terminal beta-propeller domain
+Peptidase_S9         PF00326.24   212 BGC0002746_ORF7:gid::pid:THU83553.1:loc:12925:16250:strand:+ -            676   1.6e-47  161.9   0.0   1   1   3.2e-51   3.1e-47  160.9   0.0    24   210   464   657   459   659 0.97 Prolyl oligopeptidase family
+p450                 PF00067.25   463 BGC0002746_ORF8:gid::pid:THU83554.1:loc:16930:18784:strand:- -            494   1.7e-32  113.0   0.1   1   1   1.1e-36   2.2e-32  112.6   0.1   110   440   122   450    33   463 0.81 Cytochrome P450
+MBOAT_2              PF13813.9     83 BGC0002746_ORF9:gid::pid:THU83555.1:loc:19221:20453:strand:+ -            370   6.2e-22   77.8   2.9   1   1     1e-25     2e-21   76.2   2.9     1    65   207   275   207   279 0.94 Membrane bound O-acyl transferase family
+TP_methylase         PF00590.23   213 BGC0002746_ORF10:gid::pid:THU83556.1:loc:20732:22116:strand:- -            417   6.6e-17   62.3   0.0   1   1   6.5e-21   1.3e-16   61.3   0.0     2   142    12   152    11   229 0.74 Tetrapyrrole (Corrin/Porphyrin) Methylases
+p450                 PF00067.25   463 BGC0002746_ORF12:gid::pid:THU83558.1:loc:24926:26035:strand:+ -            302   4.8e-24   85.1   0.0   1   1   5.7e-27   1.1e-22   80.6   0.0   173   438    14   263     4   271 0.88 Cytochrome P450
+MBOAT_2              PF13813.9     83 BGC0002746_ORF13:gid::pid:THU83559.1:loc:26680:27888:strand:+ -            363   1.9e-19   69.8   7.3   1   1     2e-23     4e-19   68.8   7.3     1    65   207   275   207   282 0.95 Membrane bound O-acyl transferase family
+p450                 PF00067.25   463 BGC0002746_ORF15:gid::pid:THU83561.1:loc:29799:32112:strand:- -            542   1.7e-39  136.0   0.0   1   1   7.5e-43   1.5e-38  132.9   0.0    29   452   104   525    87   534 0.77 Cytochrome P450
+p450                 PF00067.25   463 BGC0002746_ORF16:gid::pid:THU83562.1:loc:32410:34538:strand:+ -            504   4.7e-44  151.0   0.0   1   1     6e-48   1.2e-43  149.7   0.0    28   459    64   490    40   493 0.81 Cytochrome P450
+Aldo_ket_red         PF00248.24   292 BGC0002746_ORF17:gid::pid:THU83563.1:loc:36407:37856:strand:- -            392   1.3e-64  218.2   0.1   1   1   7.5e-69   1.5e-64  218.0   0.1     2   290    38   344    30   346 0.92 Aldo/keto reductase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0002746.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0002746.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0002746.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:58:18 2023
+# [ok]

@@ -1,0 +1,41 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GerE                 PF00196.22    57 BGC0001047_ORF1:gid:sylA:pid:CAD70192.1:loc:1:718:strand:+ -            238   4.9e-16   58.2   0.1   1   1   5.2e-20     1e-15   57.2   0.1     3    54   178   229   177   232 0.95 Bacterial regulatory proteins, luxR family
+FA_desaturase        PF00487.27   254 BGC0001047_ORF2:gid:sylB:pid:CAD70193.1:loc:869:1922:strand:- -            350   2.4e-38  132.5  26.9   1   1   1.2e-42   2.4e-38  132.5  26.9     4   243    51   286    46   295 0.86 Fatty acid desaturase
+Condensation         PF00668.23   457 BGC0001047_ORF3:gid:sylC:pid:CAD70194.1:loc:2125:6112:strand:+ -           1328   1.6e-85  287.6   0.0   1   1   2.2e-79   1.1e-75  255.3   0.0     5   445    37   477    34   482 0.91 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001047_ORF3:gid:sylC:pid:CAD70194.1:loc:2125:6112:strand:+ -           1328     1e-83  281.5   0.0   1   1   3.1e-87   1.5e-83  280.9   0.0     2   424   751  1144   750  1144 0.88 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0001047_ORF3:gid:sylC:pid:CAD70194.1:loc:2125:6112:strand:+ -           1328   1.1e-13   51.4   0.0   1   1   7.3e-17   3.6e-13   49.7   0.0     3    67  1257  1319  1255  1319 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 BGC0001047_ORF3:gid:sylC:pid:CAD70194.1:loc:2125:6112:strand:+ -           1328   7.7e-09   36.5   0.1   1   1   5.1e-12   2.5e-08   34.9   0.1     1    76  1152  1226  1152  1226 0.90 AMP-binding enzyme C-terminal domain
+Condensation         PF00668.23   457 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190  1.3e-176  587.9   0.0   1   2     1e-94   1.7e-91  307.3   0.0     4   451    29   461    27   467 0.93 Condensation domain
+Condensation         PF00668.23   457 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190  1.3e-176  587.9   0.0   2   2   6.4e-86     1e-82  278.4   0.0     6   456  1099  1547  1095  1548 0.92 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190  1.2e-168  561.3   0.0   1   2   7.5e-86   1.2e-82  277.9   0.0     1   424   488   899   488   899 0.87 AMP-binding enzyme
+AMP-binding          PF00501.31   424 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190  1.2e-168  561.3   0.0   2   2   7.6e-87   1.2e-83  281.2   0.0     1   424  1567  1956  1567  1956 0.87 AMP-binding enzyme
+ketoacyl-synt        PF00109.29   253 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   3.9e-62  210.2   0.3   1   1   5.8e-65   9.5e-62  209.0   0.3     3   251  2164  2409  2162  2411 0.89 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.13   180 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   9.5e-50  169.1   6.8   1   1   5.8e-53   9.5e-50  169.1   6.8     1   179  3560  3739  3560  3740 0.99 KR domain
+Acyl_transf_1        PF00698.24   319 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   4.2e-49  167.9   0.0   1   1   5.4e-52   8.8e-49  166.9   0.0     1   276  2685  2964  2685  2982 0.93 Acyl transferase domain
+PP-binding           PF00550.28    67 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   4.1e-42  142.5   1.1   1   3   1.7e-16   2.8e-13   50.1   0.0     1    66  1005  1068  1005  1069 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   4.1e-42  142.5   1.1   2   3   2.2e-17   3.5e-14   53.0   0.0     2    67  2075  2138  2074  2138 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   4.1e-42  142.5   1.1   3   3   4.7e-12   7.7e-09   35.9   0.1     2    65  3829  3890  3828  3892 0.92 Phosphopantetheine attachment site
+Ketoacyl-synt_C      PF02801.25   119 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190     2e-37  127.9   1.5   1   1   6.2e-40     1e-36  125.7   1.0     1   118  2419  2539  2419  2540 0.97 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190     7e-33  114.3   1.3   1   1   1.3e-35   2.1e-32  112.7   1.3    18   289  3060  3318  3045  3326 0.86 Polyketide synthase dehydratase
+Thioesterase         PF00975.23   230 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   7.3e-30  104.9   0.1   1   1   8.5e-30   1.4e-26   94.2   0.0     1   223  3922  4178  3922  4185 0.79 Thioesterase domain
+AMP-binding_C        PF13193.9     76 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   2.8e-20   73.2   2.3   1   2   8.2e-15   1.3e-11   45.4   0.1     1    76   907   978   907   978 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   2.8e-20   73.2   2.3   2   2   4.8e-09   7.9e-06   26.9   0.3     2    76  1965  2035  1964  2035 0.90 AMP-binding enzyme C-terminal domain
+KAsynt_C_assoc       PF16197.8    112 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   1.7e-18   67.2   0.0   1   1     3e-21   4.9e-18   65.8   0.0     2   109  2543  2653  2542  2656 0.93 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.28   195 BGC0001047_ORF4:gid:sylD:pid:CAD70195.1:loc:6216:18789:strand:+ -           4190   1.2e-11   44.6   3.5   1   1   2.1e-14   3.4e-11   43.1   3.5     4   166  3563  3726  3561  3734 0.82 short chain dehydrogenase
+MFS_1                PF07690.19   353 BGC0001047_ORF5:gid:sylE:pid:CAD70196.1:loc:18861:20097:strand:+ -            411   2.6e-37  128.7  52.7   1   1   6.5e-41   6.3e-37  127.4  38.5     2   353    18   362    17   366 0.81 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0001047_ORF5:gid:sylE:pid:CAD70196.1:loc:18861:20097:strand:+ -            411   4.9e-10   39.0   7.8   1   1     5e-14   4.9e-10   39.0   7.8    13   194    22   193    13   208 0.84 Sugar (and other) transporter
+FCD                  PF07729.15   125 BGC0001047_ORF6:gid::pid:CAD70197.1:loc:20116:20830:strand:- -            237   3.3e-22   79.3   8.5   1   1   5.7e-26   5.6e-22   78.6   8.5     3   119   106   219   104   224 0.96 FCD domain
+GntR                 PF00392.24    64 BGC0001047_ORF6:gid::pid:CAD70197.1:loc:20116:20830:strand:- -            237   1.4e-18   66.5   1.4   1   1   1.9e-22   1.9e-18   66.0   0.2     3    64    14    75    12    75 0.98 Bacterial regulatory proteins, gntR family
+ILVD_EDD             PF00920.24   516 BGC0001047_ORF7:gid::pid:CAD70198.1:loc:20925:22119:strand:- -            397  5.9e-126  421.2   0.1   1   1  3.4e-130  6.6e-126  421.1   0.1   146   516     3   379     1   379 0.97 Dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001047.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001047.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001047.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 10:52:42 2023
+# [ok]

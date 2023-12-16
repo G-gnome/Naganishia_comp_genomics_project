@@ -1,0 +1,231 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="847.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="837.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cueR
+putative transcriptional regulator of CopA</title>
+			<polygon class="cueR
+putative transcriptional regulator of CopA" points="15,40 28,10 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MerR-DNA-bind (PF09278)
+"MerR, DNA binding"</title>
+				<polygon class="PF09278" points="18,40 23,28 23,28 23,52 23,52" stroke-linejoin="round" width="6" height="24" fill="rgb(152,80,196)" stroke="rgb(121,64,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigA
+putative acyl-CoA dehydrogenase</title>
+			<polygon class="pigA
+putative acyl-CoA dehydrogenase" points="42,25 50,25 50,10 80,40 50,70 50,55 42,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="42" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="54" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="65,29 76,40 65,51" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigB
+hypothetical protein</title>
+			<polygon class="pigB
+hypothetical protein" points="81,25 118,25 118,10 148,40 118,70 118,55 81,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6041 (PF19507)
+"Family of unknown function (DUF6041)"</title>
+				<rect class="PF19507" x="81" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(185,224,105)" stroke="rgb(147,179,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_8 (PF13450)
+"NAD(P)-binding Rossmann-like domain"</title>
+				<rect class="PF13450" x="97" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,180,227)" stroke="rgb(72,144,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="116,28 131,28 143,40 131,52 116,52" stroke-linejoin="round" width="30" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigC
+putative phosphoenolpyruvate-utilizing enzyme</title>
+			<polygon class="pigC
+putative phosphoenolpyruvate-utilizing enzyme" points="148,25 206,25 206,10 236,40 206,70 206,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, AMP/ATP-binding domain"</title>
+				<rect class="PF01326" x="149" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers (PF00391)
+"PEP-utilising enzyme, mobile domain"</title>
+				<polygon class="PF00391" points="228,36 232,40 228,44" stroke-linejoin="round" width="7" height="24" fill="rgb(206,59,219)" stroke="rgb(164,47,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigD
+hypothetical protein</title>
+			<polygon class="pigD
+hypothetical protein" points="239,25 299,25 299,10 329,40 299,70 299,55 239,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pigE
+putative aminotransferase</title>
+			<polygon class="pigE
+putative aminotransferase" points="329,25 384,25 384,10 414,40 384,70 384,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="370,28 398,28 410,40 398,52 370,52" stroke-linejoin="round" width="43" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigF
+putative O-methyl transferase</title>
+			<polygon class="pigF
+putative O-methyl transferase" points="415,25 418,25 418,10 448,40 418,70 418,55 415,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<rect class="PF16864" x="415" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(84,199,85)" stroke="rgb(67,159,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="425,28 432,28 444,40 432,52 425,52" stroke-linejoin="round" width="21" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigG
+putative peptidyl carrier protein</title>
+			<polygon class="pigG
+putative peptidyl carrier protein" points="449,10 457,40 449,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pigH
+putative aminotransferase</title>
+			<polygon class="pigH
+putative aminotransferase" points="458,25 492,25 492,10 522,40 492,70 492,55 458,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="459" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="486,28 506,28 518,40 506,52 486,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigI
+putative L-prolyl-AMP ligase</title>
+			<polygon class="pigI
+putative L-prolyl-AMP ligase" points="523,25 542,25 542,10 572,40 542,70 542,55 523,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="524,28 555,28 562,35 562,45 555,52 524,52" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="563,36 567,40 563,44" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigJ
+putative Beta-ketomyristol-ACP synthase</title>
+			<polygon class="pigJ
+putative Beta-ketomyristol-ACP synthase" points="572,25 618,25 618,10 648,40 618,70 618,55 572,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="572" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="605" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="631,28 632,28 642,38 642,42 632,52 631,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigK
+hypothetical protein</title>
+			<polygon class="pigK
+hypothetical protein" points="649,10 659,40 649,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HapK (PF11639)
+"REDY-like protein HapK"</title>
+				<polygon class="PF11639" points="649,28 651,28 656,40 651,52 649,52" stroke-linejoin="round" width="10" height="24" fill="rgb(212,82,116)" stroke="rgb(169,65,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pigL
+putative 4'-phosphopantetheinyl transferase</title>
+			<polygon class="pigL
+putative 4'-phosphopantetheinyl transferase" points="659,10 680,40 659,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pigM
+hypothetical protein</title>
+			<polygon class="pigM
+hypothetical protein" points="680,25 685,25 685,10 715,40 685,70 685,55 680,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pigN
+putative oxidoreductase</title>
+			<polygon class="pigN
+putative oxidoreductase" points="716,10 740,40 716,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1295 (PF06966)
+"Protein of unknown function (DUF1295)"</title>
+				<polygon class="PF06966" points="717,28 727,28 736,40 727,52 717,52" stroke-linejoin="round" width="21" height="24" fill="rgb(84,216,56)" stroke="rgb(67,172,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copA
+putative copper transporting P-type ATPase efflux pump</title>
+			<polygon class="copA
+putative copper transporting P-type ATPase efflux pump" points="747,25 807,25 807,10 837,40 807,70 807,55 747,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="747" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="754" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="764" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="785" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="805,28 821,28 826,33 826,47 821,52 805,52" stroke-linejoin="round" width="21" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

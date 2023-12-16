@@ -1,0 +1,19 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RNase_H              PF00075.27   143 BGC0000908_ORF2:gid::pid:BAB69174.1:loc:700:1411:strand:+ -            236   4.7e-31  108.0   0.0   1   1   3.4e-35   6.6e-31  107.5   0.0     2   142     7   149     6   150 0.89 RNase H
+Tyrosinase           PF00264.23   222 BGC0000908_ORF3:gid:melC2:pid:BAB69175.1:loc:1552:2377:strand:- -            274   4.9e-44  151.4   1.0   1   1   3.3e-48   6.5e-44  151.0   1.0     3   221    30   228    28   229 0.76 Common central domain of tyrosinase
+MelC1                PF06236.14   115 BGC0000908_ORF4:gid:melC1:pid:BAB69176.1:loc:2412:2769:strand:- -            118   4.6e-41  139.6   5.3   1   1   2.7e-45   5.3e-41  139.4   5.3     1   115    13   117     8   117 0.83 Tyrosinase co-factor MelC1
+FAD_binding_3        PF01494.22   349 BGC0000908_ORF6:gid::pid:BAB69178.1:loc:3671:4877:strand:+ -            401     6e-09   35.7   1.1   1   1   2.7e-12   5.3e-08   32.6   0.7   155   340   129   317    92   324 0.63 FAD binding domain
+MFS_1                PF07690.19   353 BGC0000908_ORF7:gid::pid:BAB69179.1:loc:4940:6497:strand:+ -            518   3.8e-44  151.2  62.0   1   1   1.6e-44   1.5e-40  139.3  46.9     1   351    50   443    50   445 0.87 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000908_ORF7:gid::pid:BAB69179.1:loc:4940:6497:strand:+ -            518   9.2e-08   31.5   9.4   1   1   9.3e-12   9.2e-08   31.5   9.4    47   195    81   223    47   225 0.88 Sugar (and other) transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000908.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000908.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000908.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:27:06 2023
+# [ok]

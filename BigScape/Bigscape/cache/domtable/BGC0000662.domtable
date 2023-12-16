@@ -1,0 +1,30 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GerE                 PF00196.22    57 BGC0000662_ORF1:gid:griT:pid:BAG21067.1:loc:0:1203:strand:- -            400   4.2e-13   48.8   0.0   1   1   4.2e-17   8.2e-13   47.9   0.0     3    54   303   354   302   356 0.97 Bacterial regulatory proteins, luxR family
+F420_oxidored        PF03807.20    96 BGC0000662_ORF2:gid:griS:pid:BAG21068.1:loc:1344:1968:strand:+ -            207   5.6e-09   36.7   2.0   1   1   5.7e-13   5.6e-09   36.7   2.0     1    96     2    97     2    97 0.88 NADP oxidoreductase coenzyme F420-dependent
+NAD_binding_2        PF03446.18   158 BGC0000662_ORF2:gid:griS:pid:BAG21068.1:loc:1344:1968:strand:+ -            207   0.00018   21.9   0.1   1   1   3.3e-08   0.00033   21.0   0.1     1    90     2    95     2   110 0.75 NAD binding domain of 6-phosphogluconate dehydrogenase
+BTAD                 PF03704.20   146 BGC0000662_ORF3:gid:griR:pid:BAG21069.1:loc:2010:2934:strand:+ -            307   1.6e-42  145.5   8.6   1   1   2.3e-46   2.3e-42  145.0   8.6     1   146   102   246   102   246 0.98 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.31    77 BGC0000662_ORF3:gid:griR:pid:BAG21069.1:loc:2010:2934:strand:+ -            307   3.2e-07   30.5   0.0   1   1   6.9e-11   6.8e-07   29.4   0.0     8    75    27    93    19    95 0.87 Transcriptional regulatory protein, C terminal
+FAD_binding_4        PF01565.26   139 BGC0000662_ORF4:gid:griA:pid:BAG21070.1:loc:3163:4543:strand:+ -            459   1.1e-27   96.6   5.5   1   1     2e-31     2e-27   95.7   5.5     1   138    51   183    51   184 0.97 FAD binding domain
+BBE                  PF08031.15    46 BGC0000662_ORF4:gid:griA:pid:BAG21070.1:loc:3163:4543:strand:+ -            459     9e-06   25.8   0.0   1   1   1.6e-09   1.5e-05   25.1   0.0    21    45   431   455   411   456 0.84 Berberine and berberine like
+MFS_1                PF07690.19   353 BGC0000662_ORF5:gid:griB:pid:BAG21071.1:loc:4651:6004:strand:+ -            450     2e-37  129.1  81.2   1   1   1.2e-38   2.5e-34  118.9  55.2     9   352    35   411    29   412 0.88 Major Facilitator Superfamily
+Aldedh               PF00171.25   462 BGC0000662_ORF7:gid:griD:pid:BAG21073.1:loc:7240:8611:strand:+ -            456   2.3e-11   43.1   0.0   1   1   3.5e-15   6.9e-11   41.5   0.0   121   382   135   387    66   392 0.81 Aldehyde dehydrogenase family
+MelC1                PF06236.14   115 BGC0000662_ORF8:gid:griE:pid:BAG21074.1:loc:8663:9053:strand:+ -            129   7.1e-18   64.9   5.1   1   1   7.7e-22   1.5e-17   63.8   5.1     2   114    15   119    10   120 0.78 Tyrosinase co-factor MelC1
+Tyrosinase           PF00264.23   222 BGC0000662_ORF9:gid:griF:pid:BAG21075.1:loc:9092:10013:strand:+ -            306   4.9e-47  161.2   1.2   1   1     3e-51   5.9e-47  160.9   1.2     3   221    31   260    29   261 0.84 Common central domain of tyrosinase
+MFS_1                PF07690.19   353 BGC0000662_ORF10:gid:griG:pid:BAG21076.1:loc:10142:11501:strand:+ -            452   1.2e-41  143.0  66.3   1   2     6e-34   5.9e-30  104.5  30.6     2   260     9   286     8   287 0.81 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 BGC0000662_ORF10:gid:griG:pid:BAG21076.1:loc:10142:11501:strand:+ -            452   1.2e-41  143.0  66.3   2   2     7e-16   6.8e-12   45.1  31.7    42   181   280   416   272   444 0.82 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 BGC0000662_ORF10:gid:griG:pid:BAG21076.1:loc:10142:11501:strand:+ -            452   4.6e-25   88.5  20.4   1   1   6.6e-29   6.5e-25   88.0  20.4    16   434    19   407     4   418 0.79 Sugar (and other) transporter
+DHQS                 PF01959.19   347 BGC0000662_ORF11:gid:griH:pid:BAG21077.1:loc:11475:12666:strand:- -            396  5.6e-107  357.8   0.0   1   1  3.3e-111  6.4e-107  357.6   0.0     1   347    30   396    30   396 0.91 3-dehydroquinate synthase II
+DeoC                 PF01791.12   231 BGC0000662_ORF12:gid:griI:pid:BAG21078.1:loc:12741:13566:strand:- -            274   5.2e-45  154.0   0.0   1   1   3.2e-49   6.2e-45  153.7   0.0     2   231    25   240    24   240 0.98 DeoC/LacD family aldolase
+AA_kinase            PF00696.31   241 BGC0000662_ORF13:gid:griJ:pid:BAG21079.1:loc:13622:14906:strand:- -            427     4e-47  161.0   6.3   1   1     6e-51   1.2e-46  159.4   5.3     2   239    12   237    11   239 0.95 Amino acid kinase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000662.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000662.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000662.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:53:25 2023
+# [ok]

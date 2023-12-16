@@ -1,0 +1,16 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bac_transf           PF02397.19   184 BGC0000743_ORF2:gid:cpsE:pid:AAL57108.1:loc:177:1527:strand:+ -            449   3.2e-66  222.6   0.3   1   1   2.8e-70   5.4e-66  221.8   0.3     1   183   256   443   256   444 0.93 Bacterial sugar transferase
+Alg14                PF08660.14   175 BGC0000743_ORF3:gid:cpsF:pid:AAL57109.1:loc:1550:2000:strand:+ -            149   3.3e-17   63.1   0.0   1   1   1.1e-20   2.1e-16   60.5   0.0    76   173    58   146     3   148 0.91 Oligosaccharide biosynthesis protein Alg14 like
+Glyco_tran_28_C      PF04101.19   167 BGC0000743_ORF4:gid:cpsG:pid:AAL57110.1:loc:1999:2473:strand:+ -            157   1.4e-24   87.1   0.0   1   1   7.9e-29   1.5e-24   87.0   0.0     1   147     1   139     1   155 0.91 Glycosyltransferase family 28 C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0000743.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0000743.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0000743.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 12:52:47 2023
+# [ok]

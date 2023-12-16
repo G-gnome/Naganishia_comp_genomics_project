@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 BGC0001527_ORF1:gid:NPS2:pid:AQX36215.1:loc:0:8170:strand:+ -           2464   2.5e-94  316.7   0.0   1   3   1.1e-39   7.4e-36  123.9   0.0     4   437   924  1325   921  1339 0.82 Condensation domain
+Condensation         PF00668.23   457 BGC0001527_ORF1:gid:NPS2:pid:AQX36215.1:loc:0:8170:strand:+ -           2464   2.5e-94  316.7   0.0   2   3   2.9e-29   1.9e-25   89.6   0.0     3   440  1479  1887  1477  1893 0.85 Condensation domain
+Condensation         PF00668.23   457 BGC0001527_ORF1:gid:NPS2:pid:AQX36215.1:loc:0:8170:strand:+ -           2464   2.5e-94  316.7   0.0   3   3   4.1e-32   2.7e-28   99.0   0.0    23   324  2047  2340  2029  2350 0.86 Condensation domain
+AMP-binding          PF00501.31   424 BGC0001527_ORF1:gid:NPS2:pid:AQX36215.1:loc:0:8170:strand:+ -           2464   2.2e-86  290.3   0.0   1   1   5.5e-90   3.6e-86  289.5   0.0    16   424   275   670   257   670 0.84 AMP-binding enzyme
+PP-binding           PF00550.28    67 BGC0001527_ORF1:gid:NPS2:pid:AQX36215.1:loc:0:8170:strand:+ -           2464   5.9e-31  106.7   2.8   1   3   7.4e-15   4.8e-11   42.9   0.0     2    66   819   883   818   884 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001527_ORF1:gid:NPS2:pid:AQX36215.1:loc:0:8170:strand:+ -           2464   5.9e-31  106.7   2.8   2   3   1.4e-10   8.9e-07   29.2   0.2     2    65  1369  1431  1368  1432 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 BGC0001527_ORF1:gid:NPS2:pid:AQX36215.1:loc:0:8170:strand:+ -           2464   5.9e-31  106.7   2.8   3   3   2.8e-11   1.9e-07   31.4   0.1     2    64  1925  1986  1924  1988 0.97 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001527.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001527.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001527.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 13:12:28 2023
+# [ok]

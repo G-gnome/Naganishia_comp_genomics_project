@@ -1,0 +1,33 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HisKA_3              PF07730.16    68 BGC0001374_ORF1:gid:thdK:pid:ANW12111.1:loc:52:1873:strand:+ -            606   9.7e-12   45.4   5.4   1   1     5e-16   9.7e-12   45.4   5.4     1    66   212   276   212   278 0.90 Histidine kinase
+Response_reg         PF00072.27   112 BGC0001374_ORF2:gid:thdL:pid:ANW12112.1:loc:2044:2707:strand:+ -            220   1.9e-28   99.0   0.1   1   1   5.3e-32   3.5e-28   98.2   0.1     1   112     4   116     4   116 0.98 Response regulator receiver domain
+GerE                 PF00196.22    57 BGC0001374_ORF2:gid:thdL:pid:ANW12112.1:loc:2044:2707:strand:+ -            220   1.6e-16   59.7   0.0   1   1   3.7e-20   2.5e-16   59.2   0.0     2    57   155   210   154   210 0.97 Bacterial regulatory proteins, luxR family
+Sigma70_r4_2         PF08281.15    54 BGC0001374_ORF2:gid:thdL:pid:ANW12112.1:loc:2044:2707:strand:+ -            220   6.8e-10   38.6   1.0   1   1   1.8e-13   1.2e-09   37.9   0.3     3    54   148   198   146   198 0.95 Sigma-70, region 4
+Asn_synthase         PF00733.24   355 BGC0001374_ORF3:gid:thdD:pid:ANW12109.1:loc:3757:5575:strand:+ -            605   7.9e-88  295.6   0.3   1   1   1.5e-91   9.8e-88  295.3   0.3     2   354   238   596   237   597 0.95 Asparagine synthase
+GATase_7             PF13537.9    123 BGC0001374_ORF3:gid:thdD:pid:ANW12109.1:loc:3757:5575:strand:+ -            605   5.5e-45  152.4   0.0   1   1   1.7e-48   1.1e-44  151.4   0.0     1   123    48   167    48   167 0.97 Glutamine amidotransferase domain
+GATase_6             PF13522.9    133 BGC0001374_ORF3:gid:thdD:pid:ANW12109.1:loc:3757:5575:strand:+ -            605   4.3e-37  127.3   0.0   1   1   1.2e-40     8e-37  126.4   0.0     1   133    33   161    33   161 0.97 Glutamine amidotransferase domain
+PCC                  PF03479.18   110 BGC0001374_ORF4:gid:thdB:pid:ANW12110.1:loc:5694:6156:strand:+ -            153   2.1e-07   31.4   0.0   1   1   1.3e-11   2.5e-07   31.1   0.0     2   106    11   128    10   132 0.78 Plants and Prokaryotes Conserved (PCC) domain
+p450                 PF00067.25   463 BGC0001374_ORF5:gid:thdC:pid:ANW12113.1:loc:6161:7355:strand:+ -            397   1.6e-32  113.0   0.0   1   1   5.7e-29   1.1e-24   87.1   0.0   209   433   180   367   145   384 0.90 Cytochrome P450
+adh_short_C2         PF13561.9    234 BGC0001374_ORF7:gid:thdE:pid:ANW12115.1:loc:8086:8911:strand:+ -            274   4.2e-53  180.5   5.2   1   1     2e-54   9.7e-51  172.7   0.1    40   233    81   273    72   274 0.96 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 BGC0001374_ORF7:gid:thdE:pid:ANW12115.1:loc:8086:8911:strand:+ -            274   2.1e-42  145.0   2.7   1   1   3.3e-38   1.6e-34  119.2   0.0    48   187    81   220    73   227 0.95 short chain dehydrogenase
+KR                   PF08659.13   180 BGC0001374_ORF7:gid:thdE:pid:ANW12115.1:loc:8086:8911:strand:+ -            274   6.6e-14   52.3   5.1   1   1   8.7e-17   4.2e-13   49.7   5.1     3   164    10   197     8   211 0.82 KR domain
+FAD_binding_4        PF01565.26   139 BGC0001374_ORF9:gid:thdO:pid:ANW12117.1:loc:9751:11158:strand:+ -            468   2.5e-29  101.9   0.3   1   1   3.8e-33   3.8e-29  101.3   0.3     1   137    34   167    34   169 0.97 FAD binding domain
+BBE                  PF08031.15    46 BGC0001374_ORF9:gid:thdO:pid:ANW12117.1:loc:9751:11158:strand:+ -            468   1.6e-17   63.5   0.1   1   1   2.7e-21   2.7e-17   62.7   0.1     1    46   395   439   395   439 0.99 Berberine and berberine like
+Trp_halogenase       PF04820.17   454 BGC0001374_ORF10:gid:thdH:pid:ANW12118.1:loc:11304:12900:strand:+ -            531  1.4e-166  555.0   0.0   1   1  8.3e-171  1.6e-166  554.8   0.0     2   452     8   492     7   494 0.98 Tryptophan halogenase
+Flavin_Reduct        PF01613.21   155 BGC0001374_ORF11:gid:thdF:pid:ANW12119.1:loc:12896:13478:strand:+ -            193   9.9e-33  113.6   0.1   1   1   5.9e-37   1.2e-32  113.3   0.1     1   153    19   163    19   165 0.95 Flavin reductase like domain
+Aminotran_1_2        PF00155.24   363 BGC0001374_ORF12:gid:thdN:pid:ANW12120.1:loc:13600:14752:strand:+ -            383   4.6e-44  151.2   0.0   1   1   2.8e-48   5.5e-44  151.0   0.0     2   358    56   373    55   377 0.93 Aminotransferase class I and II
+Na_H_Exchanger       PF00999.24   381 BGC0001374_ORF13:gid:thdA:pid:ANW12121.1:loc:14957:16220:strand:+ -            420   1.3e-47  162.6  43.8   1   1   8.8e-52   1.7e-47  162.2  43.8     4   377    16   393    10   396 0.89 Sodium/hydrogen exchanger family
+LysR_substrate       PF03466.23   209 BGC0001374_ORF14:gid:thdR:pid:ANW12122.1:loc:16253:17210:strand:- -            318   7.1e-29  100.8   4.5   1   1   1.2e-32   1.1e-28  100.2   4.5     3   205    87   289    85   291 0.96 LysR substrate binding domain
+HTH_1                PF00126.30    60 BGC0001374_ORF14:gid:thdR:pid:ANW12122.1:loc:16253:17210:strand:- -            318   8.5e-16   57.8   0.4   1   1   2.7e-19   2.7e-15   56.2   0.4     3    59     5    61     3    62 0.97 Bacterial regulatory helix-turn-helix protein, lysR family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bigscape/cache/fasta/BGC0001374.fasta
+# Target file:     /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout Bigscape/cache/domtable/BGC0001374.domtable --cut_tc --cpu 0 /srv/projects/db/pfam/2021-11-25-Pfam35.0/Pfam-A.hmm Bigscape/cache/fasta/BGC0001374.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Desert_microbes/Naganishia/Bigscape
+# Date:            Mon Dec  4 11:55:14 2023
+# [ok]

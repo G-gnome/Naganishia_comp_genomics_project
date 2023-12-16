@@ -1,0 +1,33 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="220.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="210.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ascJ
+dehydrogenase</title>
+			<polygon class="ascJ
+dehydrogenase" points="62,25 60,25 60,10 30,40 60,70 60,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="41,33 46,28 60,28 60,52 46,52 41,47" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ascI
+terpene cyclase</title>
+			<polygon class="ascI
+terpene cyclase" points="79,25 88,25 88,10 118,40 88,70 88,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ascH
+cytochrome P450 monooxygenase</title>
+			<polygon class="ascH
+cytochrome P450 monooxygenase" points="130,25 156,25 156,10 186,40 156,70 156,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="136,28 170,28 180,38 180,42 170,52 136,52" stroke-linejoin="round" width="44" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>
